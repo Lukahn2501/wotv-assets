@@ -1,0 +1,952 @@
+{
+    "infos": [
+        {
+            "key": "Realmoney-0101",
+            "value": "Tienda especial"
+        },
+        {
+            "key": "Realmoney-0603",
+            "value": "Tienda especial"
+        },
+        {
+            "key": "Begginer-20191114",
+            "value": "Tienda del principiante"
+        },
+        {
+            "key": "Normal-20191114_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191114_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191114_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191122_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191122_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191122_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191130_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191130_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191130_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191209_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191209_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191209_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191218_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191218_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191218_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191227_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191227_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20191227_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200101_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200101_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200101_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200108_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200108_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200108_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200115_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200115_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200115_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200122_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200122_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200122_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200201_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200201_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200201_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Guerrilla-20191114A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191114B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191114C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-GL_20191122A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-GL_20191122B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-GL_20191122C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191130A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191130B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191130C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-GL20200415A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-GL20200415B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-GL20200415C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191218A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191218B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191218C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191227A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191227B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20191227C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200101A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200101B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200101C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200108A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200108B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200108C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200115A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200115B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200115C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200122A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200122B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200122C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200201A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200201B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200201C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Limited-20191227_A",
+            "value": "Tienda de colaboración de FFT"
+        },
+        {
+            "key": "Limited-gl20200603_B",
+            "value": "Tienda de celebración de la actualización del juego"
+        },
+        {
+            "key": "Limited-gl20200603",
+            "value": "Tienda de nuevas unidades y cartas de visión destacadas"
+        },
+        {
+            "key": "Limited-gl20200603_A",
+            "value": "Tienda de unidad destacada"
+        },
+        {
+            "key": "Limited-gl20200527",
+            "value": "Tienda de unidad destacada"
+        },
+        {
+            "key": "Limited-gl20200527_A",
+            "value": "Tienda de celebración de los 5 millones de descargas, parte II"
+        },
+        {
+            "key": "Limited-gl20200520",
+            "value": "Tienda de nuevas unidades y cartas de visión destacadas"
+        },
+        {
+            "key": "Limited-gl20200520_A",
+            "value": "Tienda de unidad destacada"
+        },
+        {
+            "key": "Limited-gl20200520_B",
+            "value": "Tienda de celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "Limited-gl20200513",
+            "value": "Tienda de nueva carta de visión"
+        },
+        {
+            "key": "Limited-gl20200513_A",
+            "value": "Tienda ¡Capítulo 6 disponible!"
+        },
+        {
+            "key": "Limited-gl20200513_B",
+            "value": "Tienda de unidad destacada"
+        },
+        {
+            "key": "Limited-gl20200506_A",
+            "value": "Tienda de celebración de los 4 millones de descargas"
+        },
+        {
+            "key": "Limited-gl20200506",
+            "value": "Tienda de nueva unidad"
+        },
+        {
+            "key": "Limited-gl20200429",
+            "value": "Tienda de unidad destacada"
+        },
+        {
+            "key": "Limited-gl20200429_A",
+            "value": "Tienda de celebración de los 3 millones de descargas, parte 2"
+        },
+        {
+            "key": "Limited-gl20200422",
+            "value": "Tienda de unidad destacada"
+        },
+        {
+            "key": "Limited-gl20200422_A",
+            "value": "Tienda de celebración de los 3 millones de descargas"
+        },
+        {
+            "key": "Limited-20191114",
+            "value": "Tienda de unidad destacada"
+        },
+        {
+            "key": "Limited-20191120",
+            "value": "Tienda de celebración del millón de descargas"
+        },
+        {
+            "key": "Limited-GL_20200408",
+            "value": "Tienda de celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "Limited-20191122",
+            "value": "Tienda de unidad destacada"
+        },
+        {
+            "key": "Limited-20191130_A",
+            "value": "Tienda de nueva unidad destacada"
+        },
+        {
+            "key": "Limited-20200415",
+            "value": "Tienda destacada"
+        },
+        {
+            "key": "Event-FF14_1_20191114",
+            "value": "Tienda de intercambio de losas de Goetia"
+        },
+        {
+            "key": "Event-FF14_2_20191114",
+            "value": "Tienda de intercambio de medallas de invocación de FFXIV"
+        },
+        {
+            "key": "Limited-FF14_3_20191114",
+            "value": "Tienda de colaboración de FFXIV: Shadowbringers"
+        },
+        {
+            "key": "Event-EV02_1_20200201",
+            "value": "Medalla de evento de junio"
+        },
+        {
+            "key": "Event-Summon_GL20200603_A",
+            "value": "Tienda de intercambio de medallas de invocación"
+        },
+        {
+            "key": "Event-Summon_GL20200520_B",
+            "value": "Tienda de intercambio de medallas de invocación"
+        },
+        {
+            "key": "Event-Summon_GL20200513_A",
+            "value": "Tienda de intercambio de medallas de invocación"
+        },
+        {
+            "key": "Event-Summon_GL20200506_A",
+            "value": "Tienda de intercambio de medallas de invocación"
+        },
+        {
+            "key": "Event-FFT_1_20191227",
+            "value": "Tienda de intercambio de medallas de evento de FFT"
+        },
+        {
+            "key": "Event-Summon_20191227_A",
+            "value": "Tienda de intercambio de medallas de invocación de FFT A"
+        },
+        {
+            "key": "Event-Summon_20191227_B",
+            "value": "Tienda de intercambio de medallas de invocación de FFT B"
+        },
+        {
+            "key": "Event-Summon_GL20200325_A",
+            "value": "Tienda de intercambio de medallas de invocación"
+        },
+        {
+            "key": "Event-Summon_GL20200401_A",
+            "value": "Tienda de intercambio de medallas de invocación"
+        },
+        {
+            "key": "Event-Summon_GL20200408_B",
+            "value": "Tienda de intercambio de medallas de invocación"
+        },
+        {
+            "key": "Event-Friend_20200201",
+            "value": "Tienda de intercambio de medallas de amigo"
+        },
+        {
+            "key": "Event-Arena_20200201",
+            "value": "Tienda de intercambio de medallas de la Arena"
+        },
+        {
+            "key": "Event-Match_20200201",
+            "value": "Tienda de intercambio de medallas de JcJ"
+        },
+        {
+            "key": "Event-Guild_20200201",
+            "value": "Tienda de intercambio de medallas de gremio"
+        },
+        {
+            "key": "Event-Soul_UR_20191130",
+            "value": "Tienda de intercambio de medallas de alma UR"
+        },
+        {
+            "key": "Event-Soul_SSR_20191130",
+            "value": "Tienda de intercambio de medallas de alma MR"
+        },
+        {
+            "key": "Event-Soul_SR_20191130",
+            "value": "Tienda de intercambio de medallas de alma SR"
+        },
+        {
+            "key": "Event-Soul_R_20191130",
+            "value": "Tienda de intercambio de medallas de alma R"
+        },
+        {
+            "key": "Event-Soul_N_20191130",
+            "value": "Tienda de intercambio de medallas de alma N"
+        },
+        {
+            "key": "Event-Vision_UR_20191130",
+            "value": "Tienda de intercambio de medallas de visión UR"
+        },
+        {
+            "key": "Event-Vision_SSR_20191130",
+            "value": "Tienda de intercambio de medallas de visión MR"
+        },
+        {
+            "key": "Event-Vision_SR_20191130",
+            "value": "Tienda de intercambio de medallas de visión SR"
+        },
+        {
+            "key": "Event-Vision_R_20191130",
+            "value": "Tienda de intercambio de medallas de visión R"
+        },
+        {
+            "key": "Event-Vision_N_20191130",
+            "value": "Tienda de intercambio de medallas de visión N"
+        },
+        {
+            "key": "Event-Friend_gl20200501",
+            "value": "Tienda de intercambio de medallas de amigo"
+        },
+        {
+            "key": "Event-Arena_gl20200501",
+            "value": "Tienda de intercambio de medallas de la Arena"
+        },
+        {
+            "key": "Event-Match_gl20200501",
+            "value": "Tienda de intercambio de medallas de JcJ"
+        },
+        {
+            "key": "Event-Guild_gl20200501",
+            "value": "Tienda de intercambio de medallas de gremio"
+        },
+        {
+            "key": "Event-Soul_UR_gl20200501",
+            "value": "Tienda de intercambio de medallas de alma UR"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200501",
+            "value": "Tienda de intercambio de medallas de alma MR"
+        },
+        {
+            "key": "Event-Soul_SR_gl20200501",
+            "value": "Tienda de intercambio de medallas de alma SR"
+        },
+        {
+            "key": "Event-Soul_R_gl20200501",
+            "value": "Tienda de intercambio de medallas de alma R"
+        },
+        {
+            "key": "Event-Soul_N_gl20200501",
+            "value": "Tienda de intercambio de medallas de alma N"
+        },
+        {
+            "key": "Event-Vision_UR_gl20200501",
+            "value": "Tienda de intercambio de medallas de visión UR"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200501",
+            "value": "Tienda de intercambio de medallas de visión MR"
+        },
+        {
+            "key": "Event-Vision_SR_gl20200501",
+            "value": "Tienda de intercambio de medallas de visión SR"
+        },
+        {
+            "key": "Event-Vision_R_gl20200501",
+            "value": "Tienda de intercambio de medallas de visión R"
+        },
+        {
+            "key": "Event-Vision_N_gl20200501",
+            "value": "Tienda de intercambio de medallas de visión N"
+        },
+        {
+            "key": "Event-Friend_gl20200601",
+            "value": "Tienda de intercambio de medallas de amigo"
+        },
+        {
+            "key": "Event-Arena_gl20200601",
+            "value": "Tienda de intercambio de medallas de la Arena"
+        },
+        {
+            "key": "Event-Match_gl20200601",
+            "value": "Tienda de intercambio de medallas de JcJ"
+        },
+        {
+            "key": "Event-Guild_gl20200601",
+            "value": "Tienda de intercambio de medallas de gremio"
+        },
+        {
+            "key": "Event-Soul_UR_gl20200601",
+            "value": "Tienda de intercambio de medallas de alma UR"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200601",
+            "value": "Tienda de intercambio de medallas de alma MR"
+        },
+        {
+            "key": "Event-Soul_SR_gl20200601",
+            "value": "Tienda de intercambio de medallas de alma SR"
+        },
+        {
+            "key": "Event-Soul_R_gl20200601",
+            "value": "Tienda de intercambio de medallas de alma R"
+        },
+        {
+            "key": "Event-Soul_N_gl20200601",
+            "value": "Tienda de intercambio de medallas de alma N"
+        },
+        {
+            "key": "Event-Vision_UR_gl20200601",
+            "value": "Tienda de intercambio de medallas de visión UR"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200601",
+            "value": "Tienda de intercambio de medallas de visión MR"
+        },
+        {
+            "key": "Event-Vision_SR_gl20200601",
+            "value": "Tienda de intercambio de medallas de visión SR"
+        },
+        {
+            "key": "Event-Vision_R_gl20200601",
+            "value": "Tienda de intercambio de medallas de visión R"
+        },
+        {
+            "key": "Event-Vision_N_gl20200601",
+            "value": "Tienda de intercambio de medallas de visión N"
+        },
+        {
+            "key": "Limited-WATER_2019_11_13",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2019_11_14",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2019_11_15",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2019_11_16",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2019_11_17",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2019_11_17",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2019_11_18",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2019_11_19",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2019_11_20",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2019_11_21",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2019_11_29",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2019_11_23",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2019_11_24",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2019_11_24",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2019_11_25",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2019_11_26",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2019_12_04",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2019_12_05",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2019_12_06",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2019_12_07",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE2019_12_08",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2019_12_08",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2019_12_09",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2019_12_10",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2019_12_04_2",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2019_12_05_2",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2019_12_06_2",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2019_12_07_2",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE2019_12_08_2",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2019_12_08_2",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2019_12_09_2",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2019_12_10_2",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_1_1",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_1_2",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2019_12_27",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2019_12_28",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE2019_12_29",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2019_12_29",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2019_12_30",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2019_12_31",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_1_1_2",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_1_2_2",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2019_12_27_2",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2019_12_28_2",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE2019_12_29_2",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2019_12_29_2",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2019_12_30_2",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2019_12_31_2",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_1_8",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_1_9",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_1_10",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_1_11",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_1_12",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_1_12",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_1_6",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_1_7",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_1_15",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_1_16",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_1_17",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_1_18",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_1_19",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_1_19",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_1_13",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_1_14",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_1_22",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_1_23",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_1_24",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_1_25",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_1_26",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_1_26",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_1_20",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_1_21",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_1_29",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_1_30",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_1_31",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_01",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_02",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_2_02",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_1_27",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_1_28",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_2_05",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_2_06",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_07",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_08",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_09",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_2_09",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_2_03",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_04",
+            "value": "Tienda de fuego"
+        }
+    ]
+}

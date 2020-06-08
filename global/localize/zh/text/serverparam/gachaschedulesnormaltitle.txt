@@ -1,0 +1,148 @@
+{
+    "infos": [
+        {
+            "key": "Normal_gacha_A",
+            "value": "普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_10",
+            "value": "普通召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_GL20200408",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200408",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200408",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_GL20200422",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200422",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200422",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_GL20200520",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200520",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200520",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_p_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130",
+            "value": "上市紀念 期間限定 普通召喚"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130_10",
+            "value": "上市紀念 期間限定 普通召喚　10連召喚"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401",
+            "value": "100萬下載紀念 期間限定普通召喚"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401_10",
+            "value": "100萬下載紀念 期間限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408",
+            "value": "200萬下載紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408_10",
+            "value": "200萬下載紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422",
+            "value": "300萬下載紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422_10",
+            "value": "300萬下載紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_01",
+            "value": "400萬下載紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_10",
+            "value": "400萬下載紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_01",
+            "value": "第6章公開紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_10",
+            "value": "第6章公開紀念 限定普通召喚　10召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_01",
+            "value": "500萬下載紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_10",
+            "value": "500萬下載紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_01",
+            "value": "版本更新紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_10",
+            "value": "版本更新紀念 限定普通召喚 10連召喚"
+        }
+    ]
+}

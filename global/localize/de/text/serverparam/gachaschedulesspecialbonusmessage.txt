@@ -1,0 +1,332 @@
+{
+    "infos": [
+        {
+            "key": "init",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_20191114",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_20191114",
+            "value": ""
+        },
+        {
+            "key": "ff14_gacha_20191114_01",
+            "value": "Kann eine FFXIV-Beschwörungsmedaille enthalten!"
+        },
+        {
+            "key": "ff14_gacha_20191114_10",
+            "value": "Kann eine FFXIV-Beschwörungsmedaille enthalten!"
+        },
+        {
+            "key": "no_coin_gacha_20191118_10",
+            "value": ""
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step1",
+            "value": "Noch zwei Beschwörungen bis zu einer garantierten UR-Einheit"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step2",
+            "value": "Noch eine Beschwörung bis zu einer garantierten UR-Einheit"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step3",
+            "value": "Eine UR-Einheit garantiert"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_01",
+            "value": "Mit 10 April-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_10",
+            "value": "Mit 100 April-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "p_gacha_unit_GL20200408_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_GL20200408_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_GL20200408_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_GL20200415_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_01",
+            "value": "Mit 10 April-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_10",
+            "value": "Mit 100 April-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "p_gacha_unit_gl20200422_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200422_10",
+            "value": ""
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_1",
+            "value": "Mit 10 „Typ B“-FFT-Beschwörungsmedaillen"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_10",
+            "value": "Mit 100 „Typ B“-FFT-Beschwörungsmedaillen"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_1",
+            "value": "Mit 10 „Typ A“-FFT-Beschwörungsmedaillen"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_10",
+            "value": "Mit 100 „Typ A“-FFT-Beschwörungsmedaillen"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_9",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_01",
+            "value": "Mit 10 April-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_10",
+            "value": "Mit 100 April-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_01",
+            "value": "Mit 10 April-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_10",
+            "value": "Mit 100 April-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_01",
+            "value": "Mit 10 Mai-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_10",
+            "value": "Mit 100 Mai-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "p_gacha_unit_gl20200506_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200513_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_01",
+            "value": "Mit 10 Mai-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_10",
+            "value": "Mit 100 Mai-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "p_gacha_vc_gl20200513_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_vc_gl20200513_01",
+            "value": "Mit 10 Mai-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_vc_gl20200513_10",
+            "value": "Mit 100 Mai-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_01",
+            "value": "Mit 10 Mai-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_10",
+            "value": "Mit 100 Mai-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "p_gacha_unit_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_01",
+            "value": "Mit 10 Mai-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_10",
+            "value": "Mit 100 Mai-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_01",
+            "value": "Mit 10 Mai-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_10",
+            "value": "Mit 100 Mai-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "no_coin_gacha_gl20200527_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10",
+            "value": "Mit einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_1",
+            "value": "Mit einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_2",
+            "value": "Mit einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_3",
+            "value": "Mit einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_4",
+            "value": "Mit einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "no_coin_gacha_gl20200603_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_01",
+            "value": "Mit 10 Juni-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_10",
+            "value": "Mit 100 Juni-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "p_gacha_unit_gl20200603_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200603_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_01",
+            "value": "Mit 10 Juni-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_10",
+            "value": "Mit 100 Juni-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_1",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_2",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_3",
+            "value": "Mit 50 Dunkel-Erweckungsprismen"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_4",
+            "value": "Mit 50 Gedankenfragmenten"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_5",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10",
+            "value": ""
+        },
+        {
+            "key": "global_pickup_sterne_20200325_01",
+            "value": "Mit 10 März-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "global_pickup_sterne_20200325_10",
+            "value": "Mit 100 März-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_01",
+            "value": "Mit 10 April-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_10",
+            "value": "Mit 100 April-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "global_ur_unit_fredrica_20200401",
+            "value": ""
+        },
+        {
+            "key": "global_ur_vc_fredrica_20200401",
+            "value": ""
+        }
+    ]
+}

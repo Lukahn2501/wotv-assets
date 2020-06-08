@@ -1,0 +1,184 @@
+{
+    "infos": [
+        {
+            "key": "QE_COND_SIDE_PLAYER",
+            "value": "alliés"
+        },
+        {
+            "key": "QE_COND_SIDE_ENEMY",
+            "value": "ennemis"
+        },
+        {
+            "key": "QE_COND_SIDE_NEUTRAL",
+            "value": "gadgets"
+        },
+        {
+            "key": "QE_COND_OPE_NAME",
+            "value": "et"
+        },
+        {
+            "key": "QE_COND_OPE_EQUAL",
+            "value": ""
+        },
+        {
+            "key": "QE_COND_OPE_GREATER",
+            "value": "ou plus"
+        },
+        {
+            "key": "QE_COND_OPE_LESS",
+            "value": "ou moins"
+        },
+        {
+            "key": "QE_COND_PLAYER_DEADALL",
+            "value": "Anéantissement de tous les {0}"
+        },
+        {
+            "key": "QE_COND_ENEMY_DEADALL",
+            "value": "Anéantissement de tous les {0}"
+        },
+        {
+            "key": "QE_COND_DEADALLEXCEPTUNIT",
+            "value": "En dehors de {0}, tout {1} doit être annéanti"
+        },
+        {
+            "key": "QE_COND_DEAD",
+            "value": "{0} tué(s)"
+        },
+        {
+            "key": "QE_COND_BREAK",
+            "value": "{0} détruit(s)"
+        },
+        {
+            "key": "QE_COND_ALIVE",
+            "value": "{0} épargné(s)"
+        },
+        {
+            "key": "QE_COND_DEADHERO",
+            "value": "Héro tué"
+        },
+        {
+            "key": "QE_COND_ALIVEHERO",
+            "value": "Héro anéanti"
+        },
+        {
+            "key": "QE_COND_HP",
+            "value": "Les PV de {0} doivent atteindre {1} % {2}"
+        },
+        {
+            "key": "QE_COND_TURN",
+            "value": "Le total des actions de {0} doit s'élever à {1} {2}"
+        },
+        {
+            "key": "QE_COND_ADJACENT",
+            "value": "{0} se déplace aux côtés de {1}"
+        },
+        {
+            "key": "QE_COND_REACHTARGETPOINT",
+            "value": "{0} doit atteindre la cible"
+        },
+        {
+            "key": "QE_COND_REACHTARGETUNIT",
+            "value": "{0} doit se recouper avec {1}"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETPOINT",
+            "value": "{0} doit utiliser la compétence {1} sur la cible"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETUNIT",
+            "value": "{0} doit utiliser la compétence {2} sur {1}"
+        },
+        {
+            "key": "QE_COND_CHANGEDGEO",
+            "value": "Le terrain doit devenir {0}"
+        },
+        {
+            "key": "QE_ST_01010309",
+            "value": "Muraga Fennes doit être vaincu"
+        },
+        {
+            "key": "QE_ST_01010110",
+            "value": "Chef des bandits vaincu"
+        },
+        {
+            "key": "QE_TU_02",
+            "value": "Les ennemis doivent être annéantis"
+        },
+        {
+            "key": "QE_ST_01050302",
+            "value": "Tous vos alliés sont tombés excepté Schuzelt"
+        },
+        {
+            "key": "QE_ST_01050304",
+            "value": "Tous vos alliés sont tombés excepté Schuzelt"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Muraga Fennes doit être vaincu"
+        },
+        {
+            "key": "QE_ST_01060205",
+            "value": "Camillo a été vaincu"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Inflige des dégâts à taux fixe au carrosse"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_06_01",
+            "value": "Terrassez le Chocoflan"
+        },
+        {
+            "key": "QE_RAID_EV_06_02",
+            "value": "Terrassez le Chocoflan"
+        },
+        {
+            "key": "QE_RAID_EV_06_03",
+            "value": "Terrassez le Chocoflan"
+        },
+        {
+            "key": "QE_RAID_EV_06_04",
+            "value": "Terrassez le Chocoflan"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": ""
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": ""
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Warmech"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": ""
+        }
+    ]
+}

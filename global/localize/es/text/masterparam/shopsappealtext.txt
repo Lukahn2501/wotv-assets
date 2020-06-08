@@ -1,0 +1,40 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "<line-height=15><cspace=1>¡Lotes para principiantes! <cspace=-2.5>"
+        },
+        {
+            "key": "2",
+            "value": "<line-height=15>Tienda de celebración del millón de descargas"
+        },
+        {
+            "key": "3",
+            "value": "<line-height=15>Tienda de celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "4",
+            "value": "<line-height=15>¡Ramza disponible!"
+        },
+        {
+            "key": "5",
+            "value": "<line-height=15>La colaboración con FFT acaba el 12/5"
+        },
+        {
+            "key": "6",
+            "value": "<line-height=15>Tienda del capítulo 6"
+        },
+        {
+            "key": "7",
+            "value": "<line-height=15>Tienda de los 5 millones de descargas"
+        },
+        {
+            "key": "8",
+            "value": "<line-height=15>¡Tienda de los 5 millones de descargas, parte II!"
+        },
+        {
+            "key": "9",
+            "value": "<line-height=15>Tienda de celebración de la actualización del juego"
+        }
+    ]
+}

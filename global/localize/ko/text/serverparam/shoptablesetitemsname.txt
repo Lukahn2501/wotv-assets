@@ -1,0 +1,388 @@
+{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "장비: 브로드소드"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "장비: 그레이트소드"
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "장비: 아수라"
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "장비: 청동 너클"
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "장비: 재블린"
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "장비: 청동 나이프"
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "장비: 닌자도"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "장비: 단궁"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "장비: 알타이르"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "장비: 지팡이"
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "장비: 청동 메이스"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "장비: 가죽 흉갑"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "장비: 가죽 모자"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "장비: 가죽옷"
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "장비: 청동 투구"
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "장비: 라인스톤 반지"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "장비: 전투도끼"
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "퀘스트 회복 아이템 세트"
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "각 속성 초록색 휘석 패키지"
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "제이다이트 패키지Ⅰ"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "제이다이트 패키지Ⅱ"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "R 장비 레시피 패키지 I "
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "R 장비 레시피 패키지 II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "불의 각성 패키지 II"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "물의 각성 패키지 II"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "바람의 각성 패키지 II"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "번개의 각성 패키지 II"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "땅의 각성 패키지 II"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "얼음의 각성 패키지 II"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "빛의 각성 패키지 II"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "어둠의 각성 패키지 II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "불의 각성 패키지 I"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "물의 각성 패키지 I"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "바람의 각성 패키지 I"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "번개의 각성 패키지 I"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "땅의 각성 패키지 I"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "얼음의 각성 패키지 I"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "빛의 각성 패키지 I"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "어둠의 각성 패키지 I"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "불의 각성혼(★2~4) 패키지"
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "물의 각성혼(★2~4) 패키지"
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "바람의 각성혼(★2~4) 패키지"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "번개의 각성혼(★2~4) 패키지"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "땅의 각성혼(★2~4) 패키지"
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "얼음의 각성혼(★2~4) 패키지"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "빛의 각성혼(★2~4) 패키지"
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "어둠의 각성혼(★2~4) 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "무지개 육성 패키지"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "직업의 기억: 노랑 × 4개 선택 소환 티켓"
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "직업의 기억: 보라 × 3개 선택 소환 티켓"
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "[초보자 한정] 직업 육성 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "[초보자 한정] 유닛 강화 패키지"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "1일 1회 무료 체력 회복약"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "[출시 기념] 무지개 육성 패키지"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "스토리 응원 패키지 A"
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "스토리 응원 패키지 B"
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "무지개 육성 패키지"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "1일 1회 무료 체력 회복약"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "1일 1회 무료 경험치 큐브(중)"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "경험치 큐브 일일 패키지 A"
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "300만 다운로드 기념 일일 패키지"
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "희미한 기억 일일 패키지"
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "경험치 큐브 일일 패키지 B"
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "300만 다운로드 기념 번개 패키지"
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "300만 다운로드 기념 빛 패키지"
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "300만 다운로드 기념 땅 패키지"
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "300만 다운로드 기념 어둠 패키지"
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "300만 다운로드 기념 유닛 각성 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "람자 육성 패키지 "
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "람자 유닛 패키지"
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "300만 다운로드 기념 불 패키지"
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "300만 다운로드 기념 얼음 패키지"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "1일 1회 무료 건너뛰기 티켓"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "400만 다운로드 기념 번개 패키지"
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "400만 다운로드 기념 빛 패키지"
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "400만 다운로드 기념 땅 패키지"
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "400만 다운로드 기념 어둠 패키지"
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "400만 다운로드 기념 유닛 각성 패키지"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "리미트 버스트 강화 패키지"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "장비 어빌리티 강화 패키지"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "유닛 각성 패키지"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "500만 다운로드 기념 물 패키지"
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "500만 다운로드 기념 빛 패키지"
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "500만 다운로드 기념 땅 패키지"
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "비전 카드 육성 패키지 A"
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "비전 카드 육성 패키지 B"
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "500만 다운로드 기념 비전 카드 육성 패키지"
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "500만 다운로드 기념 어둠 패키지"
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "500만 다운로드 기념 얼음 패키지"
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "1일 1회 무료 그로우 에그(R)"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "500만 다운로드 기념 UR 유닛 패키지"
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "500만 다운로드 기념 UR 비전 카드 패키지"
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "바람의 각성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "불의 각성 패키지"
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "유닛 육성 패키지"
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "비전 카드 육성 패키지"
+        }
+    ]
+}

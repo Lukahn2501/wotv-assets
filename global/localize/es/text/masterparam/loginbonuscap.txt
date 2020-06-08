@@ -1,0 +1,76 @@
+{
+    "infos": [
+        {
+            "key": "LB_BEGINNER_001",
+            "value": "Bonificación de acceso para principiantes"
+        },
+        {
+            "key": "LB_TOTAL_001",
+            "value": "Bonificación de acceso acumulado"
+        },
+        {
+            "key": "LB_202003",
+            "value": "Bonificación de acceso de marzo"
+        },
+        {
+            "key": "LB_202004",
+            "value": "Bonificación de acceso de abril"
+        },
+        {
+            "key": "LB_202005",
+            "value": "Bonificación de acceso de mayo"
+        },
+        {
+            "key": "LB_202006",
+            "value": "Bonificación de acceso de junio"
+        },
+        {
+            "key": "LB_LIMIT_GL_0001",
+            "value": "Conmemoración del lanzamiento"
+        },
+        {
+            "key": "LB_LIMIT_0001",
+            "value": "Bonificación de acceso por el millón de descargas"
+        },
+        {
+            "key": "LB_LIMIT_GL0000",
+            "value": "Bonificación de acceso por los 2 millones de descargas"
+        },
+        {
+            "key": "LB_COMEBACK_001",
+            "value": "Bonificación de acceso de regreso al juego"
+        },
+        {
+            "key": "LB_LIMIT_0007",
+            "value": "Bonificación de acceso de la colaboración con FFT"
+        },
+        {
+            "key": "LB_LIMIT_GL0001",
+            "value": "Bonificación de acceso por los 3 millones de descargas"
+        },
+        {
+            "key": "LB_LIMIT_GL0002",
+            "value": "Bonificación de acceso por los 3 millones de descargas, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0003",
+            "value": "Bonificación de acceso de celebración de los 4 millones de descargas"
+        },
+        {
+            "key": "LB_LIMIT_GL0004",
+            "value": "Bonificación de acceso por el lanzamiento del capítulo 6"
+        },
+        {
+            "key": "LB_LIMIT_GL0005",
+            "value": "Bonificación de acceso por los 5 millones de descargas"
+        },
+        {
+            "key": "LB_LIMIT_GL0006",
+            "value": "Bonificación de acceso por los 5 millones de descargas, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0007",
+            "value": "Bonificación de acceso de celebración de la actualización del juego"
+        }
+    ]
+}

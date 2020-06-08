@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "9999",
+            "value": "N.º intentos de misiones difíciles +10 A"
+        }
+    ]
+}

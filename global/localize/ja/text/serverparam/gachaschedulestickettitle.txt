@@ -1,0 +1,104 @@
+{
+    "infos": [
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "SR以上確定Vカード召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "SSR以上確定ユニット召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": "SSR以上確定ユニット召喚券B"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": "SSR以上確定ユニット召喚券C"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": "SSR以上確定ユニット召喚券D"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "SSR以上確定Vカード召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "UR確定ユニット召喚券A"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "FFXIVコラボイベント召喚券"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "SSR以上1体確定10連召喚券A"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200506",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "URVカード確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "ユニット確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FFTコラボイベント召喚券"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Vカード確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "UR確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200520",
+            "value": "UR確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200520",
+            "value": "SSR以上確定Vカード召喚券"
+        },
+        {
+            "key": "IT_US_G_UR_01_20200603",
+            "value": "UR確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_20200603",
+            "value": "SSR以上確定ユニット召喚券A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_20200603",
+            "value": "SSR以上確定Vカード召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_20200603",
+            "value": "UR確定ユニット召喚券A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_20200603",
+            "value": "SSR以上1体確定10連召喚券"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_20200603",
+            "value": "URVカード確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_20200603",
+            "value": "ユニット確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_20200603",
+            "value": "Vカード確定召喚券A"
+        }
+    ]
+}

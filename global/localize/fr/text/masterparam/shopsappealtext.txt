@@ -1,0 +1,40 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "<line-height=15><cspace=1>Lots de lancement !<cspace=-2.5>"
+        },
+        {
+            "key": "2",
+            "value": "<line-height=15>« 1 million de téléchargements » Boutique de célébration"
+        },
+        {
+            "key": "3",
+            "value": "<line-height=15>« 2 millions de téléchargements » Boutique"
+        },
+        {
+            "key": "4",
+            "value": "<line-height=15>Ramza disponible !"
+        },
+        {
+            "key": "5",
+            "value": "<line-height=15>La collaboration avec FFT s'achève le 12/5"
+        },
+        {
+            "key": "6",
+            "value": "<line-height=15>Boutique « Sortie du Chapitre 6 ! »"
+        },
+        {
+            "key": "7",
+            "value": "<line-height=15>Boutique des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "8",
+            "value": "<line-height=15>Boutique des « 5 millions de téléchargements » - Partie II !"
+        },
+        {
+            "key": "9",
+            "value": "<line-height=15>Boutique de la célébration de la nouvelle version"
+        }
+    ]
+}

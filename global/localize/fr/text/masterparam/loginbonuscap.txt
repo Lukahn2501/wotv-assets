@@ -1,0 +1,76 @@
+{
+    "infos": [
+        {
+            "key": "LB_BEGINNER_001",
+            "value": "Bonus de connexion des débutants"
+        },
+        {
+            "key": "LB_TOTAL_001",
+            "value": "Bonus de connexion cumulatif"
+        },
+        {
+            "key": "LB_202003",
+            "value": "Bonus de connexion de mars"
+        },
+        {
+            "key": "LB_202004",
+            "value": "Bonus de connexion d'avril"
+        },
+        {
+            "key": "LB_202005",
+            "value": "Bonus de connexion de mai"
+        },
+        {
+            "key": "LB_202006",
+            "value": "Bonus de connexion de juin"
+        },
+        {
+            "key": "LB_LIMIT_GL_0001",
+            "value": "Célébration pour la sortie du jeu"
+        },
+        {
+            "key": "LB_LIMIT_0001",
+            "value": "Bonus de connexion des « 1 million de téléchargements »"
+        },
+        {
+            "key": "LB_LIMIT_GL0000",
+            "value": "Bonus de connexion des « 2 millions de téléchargements »"
+        },
+        {
+            "key": "LB_COMEBACK_001",
+            "value": "Bonus de connexion de retour au jeu"
+        },
+        {
+            "key": "LB_LIMIT_0007",
+            "value": "Bonus de connexion de la collaboration avec FFT"
+        },
+        {
+            "key": "LB_LIMIT_GL0001",
+            "value": "Bonus de connexion des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "LB_LIMIT_GL0002",
+            "value": "Bonus de connexion des « 3 millions de téléchargements » Partie II"
+        },
+        {
+            "key": "LB_LIMIT_GL0003",
+            "value": "Bonus de connexion des « 4 millions de téléchargements »"
+        },
+        {
+            "key": "LB_LIMIT_GL0004",
+            "value": "Bonus de connexion « Sortie du Chapitre 6 ! »"
+        },
+        {
+            "key": "LB_LIMIT_GL0005",
+            "value": "Bonus de connexion des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "LB_LIMIT_GL0006",
+            "value": "Bonus de connexion des « 5 millions de téléchargements » Partie II"
+        },
+        {
+            "key": "LB_LIMIT_GL0007",
+            "value": "Bonus de connexion pour la célébration de la nouvelle version"
+        }
+    ]
+}

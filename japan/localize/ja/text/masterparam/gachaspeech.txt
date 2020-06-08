@@ -1,0 +1,296 @@
+{
+    "infos": [
+        {
+            "key": "UN_LW_P_MONT",
+            "value": "守る！<br>絶対に君を守ってみせるさ！"
+        },
+        {
+            "key": "UN_LW_P_STRN",
+            "value": "俺の剣はリオニスを守るために<br>ある。そうだろ？兄貴。"
+        },
+        {
+            "key": "UN_LW_P_ELDE",
+            "value": "リオニスの血は絶やさぬ。<br>たとえ神を敵にまわそうとも。"
+        },
+        {
+            "key": "UN_LW_P_ROBB",
+            "value": "我らホルン、<br>受けた恩は決して――。"
+        },
+        {
+            "key": "UN_LW_P_ENBT",
+            "value": "ふん。<br>この俺を抜くことは出来ぬぞ。"
+        },
+        {
+            "key": "UN_LW_P_ZIZA",
+            "value": "覚悟はできている。<br>とうの昔にな。"
+        },
+        {
+            "key": "UN_LW_P_AILN",
+            "value": "作って欲しいのはどんな武器？<br>……え？　私が戦うの？"
+        },
+        {
+            "key": "UN_LW_P_MDNA",
+            "value": "力は貸してやる。代わりに<br>貴様らの覚悟を見せてもらうぞ。"
+        },
+        {
+            "key": "UN_LW_P_AYKA",
+            "value": "白魔法には自信があります。<br>どうか力を使ってください。"
+        },
+        {
+            "key": "UN_LW_P_MACR",
+            "value": "強さを見せてみよ。<br>わらわの心を動かすほどの。"
+        },
+        {
+            "key": "UN_LW_P_HLNA",
+            "value": "リオニスの誇りを見せてやるべき<br>かもしれませんわね。"
+        },
+        {
+            "key": "UN_LW_P_LILS",
+            "value": "あたしは、まだ死なないよ。<br>生きるために行くのさ。"
+        },
+        {
+            "key": "UN_LW_P_RAMD",
+            "value": "星の輝くままに…"
+        },
+        {
+            "key": "UN_LW_P_OOOO",
+            "value": "この老いぼれの剣が通用するか<br>試してみるといたしましょうか。"
+        },
+        {
+            "key": "UN_LW_P_LRNZ",
+            "value": "本物の竜騎士…ってのをさ…<br>見せてやるぜ。"
+        },
+        {
+            "key": "UN_LW_P_RIRY",
+            "value": "俺に何か頼みたいのなら金だよ。<br>金を出しな。"
+        },
+        {
+            "key": "UN_LW_P_VSTR",
+            "value": "余計な好奇心は身を亡ぼすぜ？"
+        },
+        {
+            "key": "UN_LW_P_CLEY",
+            "value": "ワシを愚弄する者は許さぬ。<br>誰であろうとも絶対に、だ。"
+        },
+        {
+            "key": "UN_LW_P_KADI",
+            "value": "姉様は、ボクたちに<br>生きる希望をくれた！"
+        },
+        {
+            "key": "UN_LW_P_MRLK",
+            "value": "秘密兵器参上！"
+        },
+        {
+            "key": "UN_LW_P_MGRT",
+            "value": "同志のために！"
+        },
+        {
+            "key": "UN_LW_P_PRAY",
+            "value": "すべてはクリスタルの<br>お導きのままに。"
+        },
+        {
+            "key": "UN_LW_P_SZRT",
+            "value": "ホルン一番剣の力、<br>ご覧に入れよう。"
+        },
+        {
+            "key": "UN_LW_P_FINA",
+            "value": "こんな時なんて言うんだっけ……<br>そうだ、よろしくお願いします！"
+        },
+        {
+            "key": "UN_LW_P_BYLO",
+            "value": "ああ……。<br>腹が減ってきたなぁ……。"
+        },
+        {
+            "key": "UN_LW_P_RYER",
+            "value": "あたしの名前を、<br>奴らの胸に刻み込んでやるのよ！"
+        },
+        {
+            "key": "UN_LW_P_SCIA",
+            "value": "まあ、ちょっとだけ<br>付き合ってあげようかね。"
+        },
+        {
+            "key": "UN_LW_P_VRID",
+            "value": "何とかなるさ。<br>今は為すべきことの為に進もう。"
+        },
+        {
+            "key": "UN_LW_P_SRJS",
+            "value": "運命に従わねば生きられぬ者…か"
+        },
+        {
+            "key": "UN_LW_P_UNII",
+            "value": "狙ったところは外さない！<br>…多分"
+        },
+        {
+            "key": "UN_LW_P_SEVR",
+            "value": "軍は嫌いですが、<br>研究できるのはありがたいですね"
+        },
+        {
+            "key": "UN_LW_P_MURM",
+            "value": "すべてはクリスタルの<br>お導きのままに。"
+        },
+        {
+            "key": "UN_LW_P_RART",
+            "value": "あたしは戦で武功を挙げて<br>恩賞をいただくからね！"
+        },
+        {
+            "key": "UN_LW_P_ZZAN",
+            "value": "相手の命を奪うってのは、<br> 俺の生き甲斐なんだよ。"
+        },
+        {
+            "key": "UN_LW_P_GLMS",
+            "value": "人の子よ。<br> 己の力を過信すべきではない。"
+        },
+        {
+            "key": "UN_FF14_P_TNCR",
+            "value": "お前が行くというならば、<br>俺もそこに命をかけよう。"
+        },
+        {
+            "key": "UN_LW_P_MURG",
+            "value": "断末魔の悲鳴を聞き、<br>深紅の血しブきを浴びる。<br>それが戦の醍醐味だ。"
+        },
+        {
+            "key": "UN_LW_P_FDRC",
+            "value": "ばっきゅーん！<br>一丁上がり！"
+        },
+        {
+            "key": "UN_LW_P_SDLX",
+            "value": "悲しんでくれる者など<br>いると思うか？"
+        },
+        {
+            "key": "UN_LW_P_YERM",
+            "value": "どんな敵だろうが<br>ちょちょいと片付けてやるよ。"
+        },
+        {
+            "key": "UN_LW_P_RAMD_01",
+            "value": "凍えるような寒さですけど……<br>良き夜ですわ。"
+        },
+        {
+            "key": "UN_LW_P_NASR",
+            "value": "私、極度の方向音痴でさ。<br>てへへ。"
+        },
+        {
+            "key": "UN_LW_P_MACR_01",
+            "value": "なぜ、わらわが他人の幸せなど<br>運ばねばならんのだ。"
+        },
+        {
+            "key": "UN_FFT_P_RAMZ",
+            "value": "ベオルブ家の一員として<br>名に恥じる行いはしない！"
+        },
+        {
+            "key": "UN_FFT_P_GFGR",
+            "value": "オレを雇おうってのか。<br>金は持ってるンだろうな？"
+        },
+        {
+            "key": "UN_FFT_P_ORND",
+            "value": "この“雷神シド”の力……<br>必要だと言うのか？"
+        },
+        {
+            "key": "UN_LW_P_WHIS",
+            "value": "すべてはクリスタルの<br>お導きのままに。"
+        },
+        {
+            "key": "UN_LW_P_KTON",
+            "value": "あの方を陰から支え続ける。<br>それでいいんだ。"
+        },
+        {
+            "key": "UN_LW_P_MRND",
+            "value": "軽やかに、艶やかに……<br>その命、散らしてくれよう！"
+        },
+        {
+            "key": "UN_LW_P_DRND",
+            "value": "俺は弱い奴らには興味ねえのさ。"
+        },
+        {
+            "key": "UN_LW_P_LUCA",
+            "value": "踏みにじるのが大好きなのさ。<br>他人の愛とやらをな。"
+        },
+        {
+            "key": "UN_LW_P_ADLD",
+            "value": "「紅の悪魔」と呼ばれている理由<br>教えてやろうか。"
+        },
+        {
+            "key": "UN_LW_P_VKTR",
+            "value": "あたしは束縛されるのが<br>一番嫌いなの。"
+        },
+        {
+            "key": "UN_LW_P_THLA",
+            "value": "兄様以外の全員が、<br>世界から消えちゃえばいいのに。"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "何があっても…<br>あたしは後悔しない！"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "戦うさ。<br>愛する者を守るためならば。"
+        },
+        {
+            "key": "UN_LW_P_RAIN",
+            "value": "必ず守る。<br>グランシェルトの騎士として。"
+        },
+        {
+            "key": "UN_FF1_P_WROL",
+            "value": "これもクリスタルの導きか。<br>おまえたちに力を貸そう！"
+        },
+        {
+            "key": "UN_LW_P_QILF",
+            "value": "相手が誰であれ、<br>私のやることは変わらない。"
+        },
+        {
+            "key": "UN_LW_P_SIMR",
+            "value": "東方の剣技。お見せしよう。"
+        },
+        {
+            "key": "UN_LW_P_ORDR",
+            "value": "ムラガ様の親衛隊<br>オルドアちゃん参上デスよ。"
+        },
+        {
+            "key": "UN_LW_P_LVES",
+            "value": "お断りだわ。<br>あたしは何があっても帰らない。"
+        },
+        {
+            "key": "UN_FFT_P_AGRA",
+            "value": "人の夢と書いて、儚……。<br>何か物悲しいわね……。"
+        },
+        {
+            "key": "UN_FFT_P_DELT",
+            "value": "おまえたちは騎士か<br>ここも身分の差があるとはな……"
+        },
+        {
+            "key": "UN_FFT_P_MSTD",
+            "value": "狙って撃てばいいだけさ。<br>銃のチャージは無意味だぜ！"
+        },
+        {
+            "key": "UN_LW_P_IRDL",
+            "value": "あきらめることなどできません。<br>私はヘレナ様の親衛隊ですから。"
+        },
+        {
+            "key": "UN_LW_P_STRN_01",
+            "value": "宿命からは逃れられぬのだッ！"
+        },
+        {
+            "key": "UN_LW_P_GRSR",
+            "value": "これで、すべてが動き出す…"
+        },
+        {
+            "key": "UN_LW_P_RRIR",
+            "value": "ゴウガは……変わるのです。"
+        },
+        {
+            "key": "UN_LW_P_LSWL",
+            "value": "仲間に必要とされるのなら、<br>俺はいつでもこの剣を振るおう。"
+        },
+        {
+            "key": "UN_LW_BGN_AILN",
+            "value": "作って欲しいのはどんな武器？<br>……え？　私が戦うの？"
+        },
+        {
+            "key": "UN_LW_BGN_LRNZ",
+            "value": "本物の竜騎士…ってのをさ…<br>見せてやるぜ。"
+        },
+        {
+            "key": "UN_LW_BGN_SEVR",
+            "value": "軍は嫌いですが、<br>研究できるのはありがたいですね"
+        }
+    ]
+}

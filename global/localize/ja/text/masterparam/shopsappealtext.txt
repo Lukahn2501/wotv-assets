@@ -1,0 +1,40 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "<line-height=15><cspace=1>スターターパック<cspace=-2.5>販売中！"
+        },
+        {
+            "key": "2",
+            "value": "<line-height=15><cspace=1>100万DL記念ショップ"
+        },
+        {
+            "key": "3",
+            "value": "<line-height=15><cspace=1>200万DL記念ショップ"
+        },
+        {
+            "key": "4",
+            "value": "<line-height=15>Ramza Available!"
+        },
+        {
+            "key": "5",
+            "value": "<line-height=15><cspace=1>FFTコラボ<cspace=-0.5>5月12月に終了"
+        },
+        {
+            "key": "6",
+            "value": "<line-height=15><cspace=1>6章公開記念ショップ"
+        },
+        {
+            "key": "7",
+            "value": "<line-height=15><cspace=1>500万DLショップ"
+        },
+        {
+            "key": "8",
+            "value": "<line-height=15><cspace=1>500万DLショップ第2弾"
+        },
+        {
+            "key": "9",
+            "value": "<line-height=15><cspace=1>バージョンアップ記念ショップ"
+        }
+    ]
+}

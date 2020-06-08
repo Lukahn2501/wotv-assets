@@ -1,0 +1,152 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "Das FFXIV-Kollaborationsevent läuft! Erledige die Aufträge,<br>um Fragmente der exklusiven Einheiten zu erbeuten!<br>Bis 30.11.2019, 23:59!"
+        },
+        {
+            "key": "2",
+            "value": "Visionskarte zur Kollaboration veröffentlicht!<br>Erhöhte Beschwörungswahrscheinlichkeit für begrenzte Zeit!<br>Bis 30.11.2019, 23:59!"
+        },
+        {
+            "key": "3",
+            "value": ""
+        },
+        {
+            "key": "4",
+            "value": "Multi-Aufträge verfügbar! Arbeitet zusammen,<br>um Ausbildungsmaterialien zu erbeuten!"
+        },
+        {
+            "key": "5",
+            "value": "Die Arenakämpfe sind eröffnet!"
+        },
+        {
+            "key": "6",
+            "value": "„1 Million Downloads“-Eventauftrag"
+        },
+        {
+            "key": "7",
+            "value": "Ausrüstungsverbesserungsauftrag"
+        },
+        {
+            "key": "8",
+            "value": ""
+        },
+        {
+            "key": "9",
+            "value": ""
+        },
+        {
+            "key": "10",
+            "value": ""
+        },
+        {
+            "key": "11",
+            "value": ""
+        },
+        {
+            "key": "12",
+            "value": ""
+        },
+        {
+            "key": "13",
+            "value": ""
+        },
+        {
+            "key": "14",
+            "value": ""
+        },
+        {
+            "key": "15",
+            "value": ""
+        },
+        {
+            "key": "16",
+            "value": ""
+        },
+        {
+            "key": "17",
+            "value": ""
+        },
+        {
+            "key": "18",
+            "value": ""
+        },
+        {
+            "key": "19",
+            "value": ""
+        },
+        {
+            "key": "20",
+            "value": ""
+        },
+        {
+            "key": "21",
+            "value": ""
+        },
+        {
+            "key": "22",
+            "value": ""
+        },
+        {
+            "key": "23",
+            "value": ""
+        },
+        {
+            "key": "24",
+            "value": ""
+        },
+        {
+            "key": "25",
+            "value": ""
+        },
+        {
+            "key": "26",
+            "value": ""
+        },
+        {
+            "key": "27",
+            "value": ""
+        },
+        {
+            "key": "28",
+            "value": ""
+        },
+        {
+            "key": "29",
+            "value": ""
+        },
+        {
+            "key": "30",
+            "value": ""
+        },
+        {
+            "key": "31",
+            "value": ""
+        },
+        {
+            "key": "32",
+            "value": ""
+        },
+        {
+            "key": "33",
+            "value": ""
+        },
+        {
+            "key": "34",
+            "value": ""
+        },
+        {
+            "key": "35",
+            "value": ""
+        },
+        {
+            "key": "36",
+            "value": ""
+        },
+        {
+            "key": "37",
+            "value": ""
+        }
+    ]
+}

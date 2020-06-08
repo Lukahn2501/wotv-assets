@@ -1,0 +1,36 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "<space=7>FFXIV聯動召喚<br>舉辦中！"
+        },
+        {
+            "key": "2",
+            "value": "<space=7>新兵員<br>&召喚獸！"
+        },
+        {
+            "key": "3",
+            "value": "<space=7>新兵員<br>&召喚獸！"
+        },
+        {
+            "key": "4",
+            "value": "<space=7>FFT聯動召喚<br>舉辦中！"
+        },
+        {
+            "key": "5",
+            "value": "<space=7>新兵員<br>機率提升！"
+        },
+        {
+            "key": "6",
+            "value": "<space=7>新幻兵卡<br>機率提升中！"
+        },
+        {
+            "key": "7",
+            "value": "<space=7>新兵員<br>&召喚獸！"
+        },
+        {
+            "key": "8",
+            "value": "<space=7>新兵員<br>&召喚獸！"
+        }
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "infos": [
+        {
+            "key": "VC_LW_GLEM",
+            "value": "岩壁巨人　石像兵"
+        },
+        {
+            "key": "VC_LW_IFRT",
+            "value": "烈炎吟吼　伊弗利特"
+        },
+        {
+            "key": "VC_LW_SIRE",
+            "value": "響徹水界的魔音　塞壬"
+        },
+        {
+            "key": "VC_LW_SOKYU",
+            "value": "雷歐尼斯王國第二部隊　蒼穹"
+        },
+        {
+            "key": "VC_LW_TRAINING",
+            "value": "為了變得比任何人都要強大"
+        },
+        {
+            "key": "VC_LW_MACR",
+            "value": "嫁妝"
+        },
+        {
+            "key": "VC_LW_MURG",
+            "value": "震徹天地的悲鳴"
+        },
+        {
+            "key": "VC_LW_GRSR",
+            "value": "奔馳於雪原"
+        },
+        {
+            "key": "VC_FF14_MV1",
+            "value": "漆黑的群像"
+        },
+        {
+            "key": "VC_LW_HOLYNIGHT",
+            "value": "弗蕾德麗卡的夢想"
+        },
+        {
+            "key": "VC_LW_IGNT",
+            "value": "鋼之魔人　鐵巨人"
+        },
+        {
+            "key": "VC_LW_BHMT",
+            "value": "狂躁魔獸　凶惡巨獸"
+        },
+        {
+            "key": "VC_LW_MABR",
+            "value": "污穢詛咒　毛爾波爾"
+        },
+        {
+            "key": "VC_LW_SHIV",
+            "value": "凍結一切者　濕婆"
+        },
+        {
+            "key": "VC_LW_RAMU",
+            "value": "響震於空之雷鳴　拉姆"
+        },
+        {
+            "key": "VC_FFT_MV1",
+            "value": "貝歐魯布繼承人"
+        },
+        {
+            "key": "VC_LW_FAMILY",
+            "value": "新生命的誕生"
+        },
+        {
+            "key": "VC_LW_KTON",
+            "value": "密令"
+        },
+        {
+            "key": "VC_LW_PROPOSE",
+            "value": "愛的誓言"
+        },
+        {
+            "key": "VC_LW_SDLX",
+            "value": "心靈的洗滌"
+        },
+        {
+            "key": "VC_LW_TEAPARTY",
+            "value": "片刻的安寧"
+        },
+        {
+            "key": "VC_LW_HUNT",
+            "value": "繃緊的集中力"
+        },
+        {
+            "key": "VC_FF14_MV2",
+            "value": "漆黑的反叛者"
+        },
+        {
+            "key": "VC_LW_NEWYEAR",
+            "value": "來自遙遠的異國"
+        },
+        {
+            "key": "VC_LW_LAMA_01",
+            "value": "蠱惑大蛇　蛇身女王"
+        },
+        {
+            "key": "VC_LW_GUARD",
+            "value": "純白親衛隊"
+        },
+        {
+            "key": "VC_LW_CACT",
+            "value": "瞬間千針　仙人掌"
+        },
+        {
+            "key": "VC_LW_ARMN_01",
+            "value": "魔眼光線　浮游之眼"
+        },
+        {
+            "key": "VC_LW_ZUUU",
+            "value": "巨大怪鳥　祖"
+        },
+        {
+            "key": "VC_LW_OGRE",
+            "value": "剛力鬼人　食人魔"
+        },
+        {
+            "key": "VC_LW_ODIN",
+            "value": "斬斷次元　奧汀"
+        },
+        {
+            "key": "VC_LW_BOMB",
+            "value": "爆裂彈丸　炸彈"
+        },
+        {
+            "key": "VC_LW_JOBCRYSTAL",
+            "value": "職業水晶"
+        },
+        {
+            "key": "VC_LW_BYLO",
+            "value": "暴食王出現"
+        },
+        {
+            "key": "VC_LW_RART",
+            "value": "久違的休假"
+        },
+        {
+            "key": "VC_LW_RYER",
+            "value": "名偵探莉蕾露莉拉"
+        },
+        {
+            "key": "VC_LW_VNLA",
+            "value": "妖豔魔女"
+        },
+        {
+            "key": "VC_LW_RIRY",
+            "value": "享樂時間"
+        },
+        {
+            "key": "VC_LW_LEONIS",
+            "value": "雷歐尼斯旗"
+        },
+        {
+            "key": "VC_LW_HOURN",
+            "value": "霍倫旗"
+        },
+        {
+            "key": "VC_LW_FENICE",
+            "value": "芬尼斯旗"
+        },
+        {
+            "key": "VC_LW_WEZETT",
+            "value": "維澤特旗"
+        },
+        {
+            "key": "VC_LW_CRYSTAL",
+            "value": "水晶教會旗"
+        },
+        {
+            "key": "VC_LW_LEONIS2",
+            "value": "雷歐尼斯城"
+        },
+        {
+            "key": "VC_LW_HOURN2",
+            "value": "霍倫城"
+        },
+        {
+            "key": "VC_LW_FENICE2",
+            "value": "芬尼斯城"
+        },
+        {
+            "key": "VC_LW_WEZETT2",
+            "value": "維澤特城"
+        },
+        {
+            "key": "VC_LW_DYNVERK",
+            "value": "達因威爾克教會"
+        },
+        {
+            "key": "VC_LW_TRSV_01",
+            "value": "遠話裝置·天"
+        },
+        {
+            "key": "VC_LW_TRSV_02",
+            "value": "遠話裝置·地"
+        },
+        {
+            "key": "VC_LW_MIRROR",
+            "value": "遠見之鏡"
+        },
+        {
+            "key": "VC_LW_TSLP",
+            "value": "四天烈風 四方風精靈"
+        },
+        {
+            "key": "VC_LW_LILS",
+            "value": "復仇之旅"
+        },
+        {
+            "key": "VC_EXP_01",
+            "value": "成長蛋（N）"
+        },
+        {
+            "key": "VC_EXP_02",
+            "value": "成長蛋（R）"
+        },
+        {
+            "key": "VC_EXP_03",
+            "value": "成長蛋（SR）"
+        }
+    ]
+}

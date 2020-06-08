@@ -1,0 +1,36 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "Collab. FFXIV<br>en cours !"
+        },
+        {
+            "key": "2",
+            "value": "Nouvelles unités et<br>chimères !"
+        },
+        {
+            "key": "3",
+            "value": "Nouvelles unités et<br>chimères !"
+        },
+        {
+            "key": "4",
+            "value": "Collaboration FFT<br>Invoquez maintenant"
+        },
+        {
+            "key": "5",
+            "value": "Nouvelles unités<br>disponibles !"
+        },
+        {
+            "key": "6",
+            "value": "Nouveaux atouts-visions !"
+        },
+        {
+            "key": "7",
+            "value": "Nouvelles unités <br>et chimères !"
+        },
+        {
+            "key": "8",
+            "value": "Nouvelles unités <br>et chimères !"
+        }
+    ]
+}

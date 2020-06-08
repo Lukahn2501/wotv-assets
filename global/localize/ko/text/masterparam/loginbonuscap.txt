@@ -1,0 +1,76 @@
+{
+    "infos": [
+        {
+            "key": "LB_BEGINNER_001",
+            "value": "초보자 출석 보상"
+        },
+        {
+            "key": "LB_TOTAL_001",
+            "value": "누적 출석 보상"
+        },
+        {
+            "key": "LB_202003",
+            "value": "3월 출석 보상"
+        },
+        {
+            "key": "LB_202004",
+            "value": "4월 출석 보상"
+        },
+        {
+            "key": "LB_202005",
+            "value": "5월 출석 보상"
+        },
+        {
+            "key": "LB_202006",
+            "value": "6월 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL_0001",
+            "value": "출시 기념"
+        },
+        {
+            "key": "LB_LIMIT_0001",
+            "value": "100만 다운로드 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0000",
+            "value": "200만 다운로드 기념 출석 보상"
+        },
+        {
+            "key": "LB_COMEBACK_001",
+            "value": "컴백 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_0007",
+            "value": "FFT 콜라보 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0001",
+            "value": "300만 다운로드 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0002",
+            "value": "300만 다운로드 기념 출석 보상 제2탄"
+        },
+        {
+            "key": "LB_LIMIT_GL0003",
+            "value": "400만 다운로드 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0004",
+            "value": "스토리 제6장 개방 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0005",
+            "value": "500만 다운로드 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0006",
+            "value": "500만 다운로드 기념 출석 보상 제2탄"
+        },
+        {
+            "key": "LB_LIMIT_GL0007",
+            "value": "버전 업 기념 출석 보상"
+        }
+    ]
+}

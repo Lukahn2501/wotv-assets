@@ -1,0 +1,412 @@
+{
+    "infos": [
+        {
+            "key": "SE_ST_010101",
+            "value": "鐵之美姬"
+        },
+        {
+            "key": "SE_ST_010102",
+            "value": "蠻族之王"
+        },
+        {
+            "key": "SE_ST_010103",
+            "value": "誓約的話語"
+        },
+        {
+            "key": "SE_ST_010201",
+            "value": "重大任務"
+        },
+        {
+            "key": "SE_ST_010202",
+            "value": "生於義"
+        },
+        {
+            "key": "SE_ST_010203",
+            "value": "《蒼穹》歸來"
+        },
+        {
+            "key": "SE_ST_010301",
+            "value": "前往北方"
+        },
+        {
+            "key": "SE_ST_010302",
+            "value": "穆拉加的秘密"
+        },
+        {
+            "key": "SE_ST_010303",
+            "value": "反擊的烽火"
+        },
+        {
+            "key": "SE_ST_010401",
+            "value": "就是現在"
+        },
+        {
+            "key": "SE_ST_010402",
+            "value": "王妃的決心"
+        },
+        {
+            "key": "SE_ST_010403",
+            "value": "渾沌"
+        },
+        {
+            "key": "SE_ST_010501",
+            "value": "逼近的威脅"
+        },
+        {
+            "key": "SE_ST_010502",
+            "value": "為了雷歐尼斯"
+        },
+        {
+            "key": "SE_ST_010503",
+            "value": "天帝之劍"
+        },
+        {
+            "key": "SE_ST_010601",
+            "value": "白色獠牙"
+        },
+        {
+            "key": "SE_ST_010602",
+            "value": "骯髒的血脈"
+        },
+        {
+            "key": "SE_WD_010101",
+            "value": "雷恩茲大森林"
+        },
+        {
+            "key": "SE_WD_010102",
+            "value": "雷歐尼斯城"
+        },
+        {
+            "key": "SE_WD_010103",
+            "value": "索崎山"
+        },
+        {
+            "key": "SE_WD_010104",
+            "value": "雷恩茲大道"
+        },
+        {
+            "key": "SE_WD_010105",
+            "value": "獅子神殿"
+        },
+        {
+            "key": "SE_WD_010106",
+            "value": "北辛帕斯平原"
+        },
+        {
+            "key": "SE_WD_010107",
+            "value": "南辛帕斯平原"
+        },
+        {
+            "key": "SE_WD_010108",
+            "value": "利達爾山脈"
+        },
+        {
+            "key": "SE_WD_010109",
+            "value": "薩納伽爾堡壘"
+        },
+        {
+            "key": "SE_WD_010110",
+            "value": "拉席納森林"
+        },
+        {
+            "key": "SE_WD_010201",
+            "value": "希庫魯要塞"
+        },
+        {
+            "key": "SE_SB_01",
+            "value": "強敵之間"
+        },
+        {
+            "key": "SE_SB_02",
+            "value": "鐵巨人考驗"
+        },
+        {
+            "key": "SE_MU_SB_02",
+            "value": "鐵巨人考驗"
+        },
+        {
+            "key": "SE_EV_UNITEXP_01",
+            "value": "經驗之間"
+        },
+        {
+            "key": "SE_EV_GIL_01",
+            "value": "金幣之間"
+        },
+        {
+            "key": "SE_EV_AFEXP_01",
+            "value": "礦石之間"
+        },
+        {
+            "key": "SE_EV_VCEXP_01",
+            "value": "成長蛋獲得任務"
+        },
+        {
+            "key": "SE_EV_WAEXP_01",
+            "value": "罐獲得任務"
+        },
+        {
+            "key": "SE_EV_AW_FIRE",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_EV_AW_WIND",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_EV_AW_WATER",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_EV_AW_ICE",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_EV_AW_SOIL",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_EV_AW_DARK",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_EV_AW_THUN",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_EV_AW_SHIN",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_EV_SM_FIRE_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_EV_SM_WTR_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_EV_SM_WIND_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_EV_SM_EAR_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_EV_SM_THUN_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_EV_SM_ICE_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_EV_SM_DARK_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_EV_SM_SHIN_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_01",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_GIL",
+            "value": "金幣之間"
+        },
+        {
+            "key": "SE_EV_AFEXP",
+            "value": "礦石之間"
+        },
+        {
+            "key": "SE_BGN_QUEST",
+            "value": "初學者任務"
+        },
+        {
+            "key": "SE_EV_GL_1M_DL",
+            "value": "100萬下載紀念任務"
+        },
+        {
+            "key": "SE_EV_FF14_01",
+            "value": "Final Fantasy XIV: 漆黑的反叛者"
+        },
+        {
+            "key": "SE_EV_FF14_EX_01",
+            "value": "Final Fantasy XIV: 漆黑的反叛者 【EX】"
+        },
+        {
+            "key": "SE_EV_ETRE",
+            "value": "埃特蕾育成任務"
+        },
+        {
+            "key": "SE_EV_ETRE_EX",
+            "value": "高難度　埃特蕾育成　EX任務"
+        },
+        {
+            "key": "SE_EV_01_01",
+            "value": "憧憬的王子大人"
+        },
+        {
+            "key": "SE_EV_01_EX_01",
+            "value": "憧憬的王子大人"
+        },
+        {
+            "key": "SE_MU_EV_01_EX",
+            "value": "憧憬的王子大人 【EX】"
+        },
+        {
+            "key": "SE_EV_02_01",
+            "value": "西方的威脅朗德爾"
+        },
+        {
+            "key": "SE_EV_02_EX_01",
+            "value": "西方的威脅朗德爾"
+        },
+        {
+            "key": "SE_MU_EV_02_EX",
+            "value": "西方的威脅朗德爾【EX】"
+        },
+        {
+            "key": "SE_EV_ANV_19_10",
+            "value": "上市紀念任務"
+        },
+        {
+            "key": "SE_EV_GL_2M_DL",
+            "value": "200萬下載紀念JP任務"
+        },
+        {
+            "key": "SE_EV_GL_3M_DL",
+            "value": "300萬下載紀念任務"
+        },
+        {
+            "key": "SE_MU_AW_FIRE",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_MU_AW_WIND",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_MU_AW_WATER",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_MU_AW_ICE",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_MU_AW_SOIL",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_MU_AW_DARK",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_MU_AW_THUN",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_MU_AW_SHIN",
+            "value": "（暫）職業強化屬性素材之間"
+        },
+        {
+            "key": "SE_MU_SM_FIRE_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_MU_SM_WTR_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_MU_SM_WIND_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_MU_SM_EAR_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_MU_SM_THUN_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_MU_SM_ICE_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_MU_SM_DARK_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_MU_SM_SHIN_01",
+            "value": "召喚獸覺醒之間"
+        },
+        {
+            "key": "SE_MU_AW_HIGH_01",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_EV_ETRE_EX",
+            "value": "高難度　埃特蕾育成　EX任務協力"
+        },
+        {
+            "key": "SE_EV_ART_CRF_01",
+            "value": "武具育成任務"
+        },
+        {
+            "key": "SE_EV_FFT_01",
+            "value": "FINAL FANTASY TACTICS聯動活動任務"
+        },
+        {
+            "key": "SE_EV_FFT_01_EX",
+            "value": "FINAL FANTASY TACTICS聯動活動任務 【EX】"
+        },
+        {
+            "key": "SE_MU_FFT_01_EX",
+            "value": "FINAL FANTASY TACTICS聯動活動任務 【EX】"
+        },
+        {
+            "key": "SE_EV_ART_SCR_01",
+            "value": "高難度　秘籍獲得任務"
+        },
+        {
+            "key": "SE_MU_EV_SCR_01",
+            "value": "高難度　秘籍獲得任務協力"
+        },
+        {
+            "key": "SE_EV_JP_001",
+            "value": "JP獲得任務"
+        },
+        {
+            "key": "SE_EV_ART_CRF_02",
+            "value": "超高難度 武具育成任務"
+        },
+        {
+            "key": "SE_MU_ART_CRF_02",
+            "value": "超高難度 武具育成任務"
+        },
+        {
+            "key": "SE_EV_ART_CRF_03",
+            "value": "武具育成任務"
+        },
+        {
+            "key": "SE_MU_ART_CRF_03",
+            "value": "武具育成任務"
+        },
+        {
+            "key": "SE_EV_ART_SCR_02",
+            "value": "高難度　秘籍獲得任務"
+        },
+        {
+            "key": "SE_MU_EV_SCR_02",
+            "value": "高難度　秘籍獲得任務協力"
+        },
+        {
+            "key": "SE_EV_BEGN_2001",
+            "value": "兵員育成支援任務"
+        }
+    ]
+}

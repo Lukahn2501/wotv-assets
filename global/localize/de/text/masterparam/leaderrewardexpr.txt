@@ -1,0 +1,24 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "Anführerbelohnungen – Rang 1"
+        },
+        {
+            "key": "2",
+            "value": "Anführerbelohnungen – Rang 2"
+        },
+        {
+            "key": "3",
+            "value": "Anführerbelohnungen – Rang 3"
+        },
+        {
+            "key": "4",
+            "value": "Anführerbelohnungen – Rang 4"
+        },
+        {
+            "key": "5",
+            "value": "Anführerbelohnungen – Rang 5"
+        }
+    ]
+}

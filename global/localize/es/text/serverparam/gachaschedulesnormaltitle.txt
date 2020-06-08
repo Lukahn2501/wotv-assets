@@ -1,0 +1,148 @@
+{
+    "infos": [
+        {
+            "key": "Normal_gacha_A",
+            "value": "Invocación normal"
+        },
+        {
+            "key": "Normal_gacha_A_10",
+            "value": "Invocación normal (x10)"
+        },
+        {
+            "key": "Raregacha_A",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_GL20200408",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200408",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200408",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_GL20200422",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200422",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200422",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_GL20200520",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200520",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200520",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_p_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130",
+            "value": "Invocación normal limitada: Conmemoración del lanzamiento"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130_10",
+            "value": "Invocación normal (x10) limitada: Conmemoración del lanzamiento"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401",
+            "value": "Invocación normal limitada: Celebración del millón de descargas"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401_10",
+            "value": "Invocación normal (x10) limitada: Celebración del millón de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408",
+            "value": "Invocación normal limitada: Celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408_10",
+            "value": "Invocación normal (x10) limitada: Celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422",
+            "value": "Invocación normal limitada: Celebración de los 3 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422_10",
+            "value": "Invocación normal (x10) limitada: Celebración de los 3 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_01",
+            "value": "Invocación normal limitada: Celebración de los 4 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_10",
+            "value": "Invocación normal (x10) limitada: Celebración de los 4 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_01",
+            "value": "\"¡Capítulo 6 disponible!\": Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_10",
+            "value": "\"¡Capítulo 6 disponible!\": Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_01",
+            "value": "Invocación normal limitada: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_10",
+            "value": "Invocación normal (x10) limitada: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_01",
+            "value": "Invocación normal limitada: Celebración de la actualización del juego"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_10",
+            "value": "Invocación normal (x10) limitada: Celebración de la actualización del juego"
+        }
+    ]
+}

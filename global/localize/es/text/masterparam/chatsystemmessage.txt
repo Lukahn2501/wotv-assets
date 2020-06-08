@@ -1,0 +1,68 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "${playerName} se ha unido al gremio."
+        },
+        {
+            "key": "2",
+            "value": "Has obtenido un nuevo emblema de gremio."
+        },
+        {
+            "key": "3",
+            "value": "${playerName} es ahora el líder del gremio."
+        },
+        {
+            "key": "4",
+            "value": "Se ha expulsado a ${playerName} del gremio."
+        },
+        {
+            "key": "5",
+            "value": "${playerName} ha abandonado el gremio."
+        },
+        {
+            "key": "6",
+            "value": "Como el último líder del gremio no se ha conectado durante un número determinado de días, se ha designado a ${playerName} automáticamente como nuevo líder del gremio."
+        },
+        {
+            "key": "7",
+            "value": "Se ha designado a ${playerName} como sublíder."
+        },
+        {
+            "key": "8",
+            "value": "La ${statueName} ha alcanzado el nv. ${level}."
+        },
+        {
+            "key": "9",
+            "value": "El gremio ha entrado en un combate de gremio."
+        },
+        {
+            "key": "10",
+            "value": "No se ha podido entrar al combate de gremio porque no se cumplen las condiciones de participación."
+        },
+        {
+            "key": "11",
+            "value": "El combate contra ${guildName} va a comenzar."
+        },
+        {
+            "key": "12",
+            "value": "Se ha ganado el combate de gremio por defecto."
+        },
+        {
+            "key": "13",
+            "value": "Tu gremio ha ganado el combate contra ${guildName}."
+        },
+        {
+            "key": "14",
+            "value": "Tu gremio ha perdido el combate contra ${guildName}."
+        },
+        {
+            "key": "15",
+            "value": "¡Has sido ascendido! Tu nivel de la liga pasa de ${beforeLevelName} a ${afterLevelName}."
+        },
+        {
+            "key": "16",
+            "value": "¡Has sido degradado! Tu nivel de la liga pasa de ${beforeLevelName} a ${afterLevelName}."
+        }
+    ]
+}

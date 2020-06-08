@@ -1,0 +1,332 @@
+{
+    "infos": [
+        {
+            "key": "init",
+            "value": "Tutorial-Beschwörung"
+        },
+        {
+            "key": "p_gacha_unit_20191114",
+            "value": "Beschwörung zum Veröffentlichungsandenken (10-malig): UR-Einheit garantiert"
+        },
+        {
+            "key": "p_gacha_vc_20191114",
+            "value": "Beschwörung zum Veröffentlichungsandenken (10-malig): UR-Visionskarte garantiert"
+        },
+        {
+            "key": "ff14_gacha_20191114_01",
+            "value": "FFXIV-Kollabo-Beschwörung"
+        },
+        {
+            "key": "ff14_gacha_20191114_10",
+            "value": "FFXIV-Kollabo-Beschwörung (10-malig)"
+        },
+        {
+            "key": "no_coin_gacha_20191118_10",
+            "value": "GRATIS „1 Million Downloads“-Feierbeschwörung (10-malig)"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step1",
+            "value": "Startvorteil-Stufenbeschwörung – Stufe 1"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step2",
+            "value": "Startvorteil-Stufenbeschwörung – Stufe 2"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step3",
+            "value": "Startvorteil-Stufenbeschwörung – Stufe 3"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_01",
+            "value": "„Neue Einheit/Visionskarte“-Beschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_10",
+            "value": "„Neue Einheit/Visionskarte“-Beschwörung (10-malig)"
+        },
+        {
+            "key": "p_gacha_unit_GL20200408_10",
+            "value": "„2 Millionen Downloads“-Feierbeschwörung (10-malig): UR-Einheit garantiert"
+        },
+        {
+            "key": "p_gacha_vc_GL20200408_10",
+            "value": "„2 Millionen Downloads“-Feierbeschwörung (10-malig): UR-Visionskarte garantiert"
+        },
+        {
+            "key": "no_coin_gacha_GL20200408_10",
+            "value": "GRATIS „2 Millionen Downloads“-Feierbeschwörung (10-malig)"
+        },
+        {
+            "key": "no_coin_gacha_GL20200415_10",
+            "value": "„2 Millionen Downloads“-Feier Teil 2: GRATIS 10-malige Beschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_01",
+            "value": "„2 Millionen Downloads“-Feier: Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_10",
+            "value": "„2 Millionen Downloads“-Feier: Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "p_gacha_unit_gl20200422_10",
+            "value": "FFT-Beschwörung (10-malig): UR-Einheit garantiert"
+        },
+        {
+            "key": "p_gacha_vc_gl20200422_10",
+            "value": "FFT-Beschwörung (10-malig): UR-Visionskarte garantiert"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_1",
+            "value": "FFT-Kollabo-Beschwörung – Orlandeau"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_10",
+            "value": "FFT-Kollabo-Beschwörung (10-malig) – Orlandeau"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_1",
+            "value": "FFT-Kollabo-Beschwörung – Ramza"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_10",
+            "value": "FFT-Kollabo-Beschwörung (10-malig) – Ramza"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_1",
+            "value": "FFT-Kollabo-Beschwörung: Täglich gratis"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_2",
+            "value": "FFT-Kollabo-Beschwörung: Täglich gratis"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_3",
+            "value": "FFT-Kollabo-Beschwörung: Täglich gratis"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_4",
+            "value": "FFT-Kollabo-Beschwörung: Täglich gratis"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_5",
+            "value": "FFT-Kollabo-Beschwörung: Täglich gratis"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_6",
+            "value": "FFT-Kollabo-Beschwörung: Täglich gratis"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_7",
+            "value": "FFT-Kollabo-Beschwörung: Täglich gratis"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_8",
+            "value": "FFT-Kollabo-Beschwörung: Täglich gratis"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_9",
+            "value": "FFT-Kollabo-Beschwörung: Täglich gratis"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_10",
+            "value": "FFT-Kollabo-Beschwörung: Täglich gratis"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_01",
+            "value": "„3 Millionen Downloads“-Feier: Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_10",
+            "value": "„3 Millionen Downloads“-Feier: Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_01",
+            "value": "„3 Millionen Downloads“-Feier Teil 2: Blickpunktbeschwörung "
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_10",
+            "value": "„3 Millionen Downloads“-Feier Teil 2: Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_01",
+            "value": "Neue Einheitenbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_10",
+            "value": "Neue Einheitenbeschwörung (10-malig)"
+        },
+        {
+            "key": "p_gacha_unit_gl20200506_10",
+            "value": "„4 Millionen Downloads“-Feierbeschwörung (10-malig): UR-Einheit garantiert"
+        },
+        {
+            "key": "no_coin_gacha_gl20200513_10",
+            "value": "„Kapitel 6 veröffentlicht!“ — Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_01",
+            "value": "Ausrüstungsverbesserung: Unterstützungsbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_10",
+            "value": "Ausrüstungsverbesserung-Unterstützungsbeschwörung (10-malig)"
+        },
+        {
+            "key": "p_gacha_vc_gl20200513_10",
+            "value": "„Kapitel 6 veröffentlicht!“ — Beschwörung (10-malig): UR-Visionskarte garantiert"
+        },
+        {
+            "key": "gacha_vc_gl20200513_01",
+            "value": "Neue Visionskartenbeschwörung"
+        },
+        {
+            "key": "gacha_vc_gl20200513_10",
+            "value": "Neue Visionskartenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_01",
+            "value": "Neue Einheiten-/Visionskartenbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_10",
+            "value": "Neue Einheiten-/Visionskartenbeschwörung (10-malig)"
+        },
+        {
+            "key": "p_gacha_unit_gl20200520_10",
+            "value": "„5 Millionen Downloads“-Feierbeschwörung (10-malig): [UR]-Einheit garantiert"
+        },
+        {
+            "key": "p_gacha_vc_gl20200520_10",
+            "value": "„5 Millionen Downloads“-Feierbeschwörung (10-malig): [UR]-Visionskarte garantiert"
+        },
+        {
+            "key": "no_coin_gacha_gl20200520_10",
+            "value": "GRATIS „5 Millionen Downloads“-Feierbeschwörung (10-malig)"
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200520_10",
+            "value": "Halbjähriges Jubiläum der japanischen Version: UR x4"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_01",
+            "value": "„5 Millionen Downloads“-Feier: Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_10",
+            "value": "„5 Millionen Downloads“-Feier: Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_01",
+            "value": "„5 Millionen Downloads“-Feier Teil II: Medaille B beschwören"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_10",
+            "value": "„5 Millionen Downloads“-Feier Teil II: Medaille B beschwören"
+        },
+        {
+            "key": "no_coin_gacha_gl20200527_10",
+            "value": "„5 Millionen Downloads“-Feier Teil II: GRATIS 10-malige Beschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10",
+            "value": "„5 Millionen Downloads“-Feier: Beschwörung mit Bonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_1",
+            "value": "„5 Millionen Downloads“-Feier: Beschwörung mit Bonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_2",
+            "value": "„5 Millionen Downloads“-Feier: Beschwörung mit Bonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_3",
+            "value": "„5 Millionen Downloads“-Feier: Beschwörung mit Bonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_4",
+            "value": "„5 Millionen Downloads“-Feier: Beschwörung mit Bonus"
+        },
+        {
+            "key": "no_coin_gacha_gl20200603_10",
+            "value": "Kostenlose 10-malige Beschwörung zur Feier des Versionsupdates"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_01",
+            "value": "Neue Einheiten-/Visionskartenbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_10",
+            "value": "Neue Einheiten-/Visionskartenbeschwörung (10-malig)"
+        },
+        {
+            "key": "p_gacha_unit_gl20200603_10",
+            "value": "Beschwörung zur Feier des Versionsupdates (10-malig): [UR]-Einheit garantiert"
+        },
+        {
+            "key": "p_gacha_vc_gl20200603_10",
+            "value": "Beschwörung zur Feier des Versionsupdates (10-malig): [UR]-Visionskarte garantiert"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_01",
+            "value": "Blickpunktbeschwörung zur Feier des Versionsupdates"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_10",
+            "value": "Blickpunktbeschwörung zur Feier des Versionsupdates (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_1",
+            "value": "Stufenbeschwörung zur Feier des Versionsupdates – Stufe 1 von 5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_2",
+            "value": "Stufenbeschwörung zur Feier des Versionsupdates – Stufe 2 von 5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_3",
+            "value": "Stufenbeschwörung zur Feier des Versionsupdates – Stufe 3 von 5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_4",
+            "value": "Stufenbeschwörung zur Feier des Versionsupdates – Stufe 4 von 5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_5",
+            "value": "Stufenbeschwörung zur Feier des Versionsupdates – Stufe 5 von 5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10",
+            "value": ""
+        },
+        {
+            "key": "global_pickup_sterne_20200325_01",
+            "value": "Blickpunktbeschwörung zum Veröffentlichungsandenken"
+        },
+        {
+            "key": "global_pickup_sterne_20200325_10",
+            "value": "Blickpunktbeschwörung zum Veröffentlichungsandenken (10-malig)"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_01",
+            "value": "„Neue Einheit/Visionskarte“-Beschwörung"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_10",
+            "value": "„Neue Einheit/Visionskarte“-Beschwörung (10-malig)"
+        },
+        {
+            "key": "global_ur_unit_fredrica_20200401",
+            "value": "„UR-Einheit garantiert“-Beschwörung (10-malig)"
+        },
+        {
+            "key": "global_ur_vc_fredrica_20200401",
+            "value": "Beschwörung (10-malig): UR-Visionskarte garantiert"
+        }
+    ]
+}

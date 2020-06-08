@@ -1,0 +1,76 @@
+{
+    "infos": [
+        {
+            "key": "LB_BEGINNER_001",
+            "value": "初學者登入獎勵"
+        },
+        {
+            "key": "LB_TOTAL_001",
+            "value": "累計登入獎勵"
+        },
+        {
+            "key": "LB_202003",
+            "value": "3月登入獎勵"
+        },
+        {
+            "key": "LB_202004",
+            "value": "4月登入獎勵"
+        },
+        {
+            "key": "LB_202005",
+            "value": "5月登入獎勵"
+        },
+        {
+            "key": "LB_202006",
+            "value": "6月登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL_0001",
+            "value": "上市紀念"
+        },
+        {
+            "key": "LB_LIMIT_0001",
+            "value": "100萬下載紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0000",
+            "value": "200萬下載紀念登入獎勵"
+        },
+        {
+            "key": "LB_COMEBACK_001",
+            "value": "回歸登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_0007",
+            "value": "FFT聯動紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0001",
+            "value": "300萬下載紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0002",
+            "value": "300萬下載紀念登入獎勵 第2階段"
+        },
+        {
+            "key": "LB_LIMIT_GL0003",
+            "value": "400萬下載紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0004",
+            "value": "劇情第6章公開紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0005",
+            "value": "500萬下載紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0006",
+            "value": "500萬下載紀念登入獎勵 第2階段"
+        },
+        {
+            "key": "LB_LIMIT_GL0007",
+            "value": "版本更新紀念登入獎勵"
+        }
+    ]
+}

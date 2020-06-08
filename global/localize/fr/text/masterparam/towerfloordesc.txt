@@ -1,0 +1,92 @@
+{
+    "infos": [
+        {
+            "key": "TW_01_001",
+            "value": "Unité conseillée : unité de terre"
+        },
+        {
+            "key": "TW_01_002",
+            "value": "Unité conseillée : unité de foudre, chasseur"
+        },
+        {
+            "key": "TW_01_003",
+            "value": "Unité conseillée : unité d'eau<br>Aptitude conseillée : attaque les unités"
+        },
+        {
+            "key": "TW_01_004",
+            "value": ""
+        },
+        {
+            "key": "TW_01_005",
+            "value": "Unité conseillée : unité d'eau, unité de lumière, attaquant magique"
+        },
+        {
+            "key": "TW_01_006",
+            "value": "Unité conseillée : unité de lumière<br>Aptitude conseillée : Guérison"
+        },
+        {
+            "key": "TW_01_007",
+            "value": "Unité conseillée : unité d'ombre, attaquant tranchant"
+        },
+        {
+            "key": "TW_01_008",
+            "value": "Unité conseillée : unité de feu, attaquant perçant"
+        },
+        {
+            "key": "TW_01_009",
+            "value": "Unité conseillée : unité d'eau<br>Aptitude conseillée : attaque les unités"
+        },
+        {
+            "key": "TW_01_010",
+            "value": "Unité conseillée : attaquant perçant"
+        },
+        {
+            "key": "TW_01_EX1",
+            "value": "Unité conseillée : AGI élevée et Déplacement<br>Autre : le monstre sera éliminé une fois le dernier cercle d'invocation franchi"
+        },
+        {
+            "key": "TW_01_011",
+            "value": "Unité conseillée : unité de vent<br>Aptitude conseillée : attaque coup garanti"
+        },
+        {
+            "key": "TW_01_012",
+            "value": "Unité conseillée : unité de lumière, attaquant magique<br>Autre : l'ennemi utilisera des attaques qui absorbent un large montant de PV"
+        },
+        {
+            "key": "TW_01_013",
+            "value": "Unité conseillée : unité de glace"
+        },
+        {
+            "key": "TW_01_014",
+            "value": "Unité conseillée : unité de feu"
+        },
+        {
+            "key": "TW_01_015",
+            "value": "Unité conseillée : résistance à Crapaud, mage noir"
+        },
+        {
+            "key": "TW_01_016",
+            "value": "Unité conseillée : unité de lumière"
+        },
+        {
+            "key": "TW_01_017",
+            "value": "Unité conseillée : unité de terre, attaquant perçant"
+        },
+        {
+            "key": "TW_01_018",
+            "value": "Unité conseillée : unité d'eau<br>Autre : vos ennemis sont divisés en plusieurs groupe selon leur faible résistance à la magie, aux attaques tranchantes et perçantes. Prêtez une attention particulière au placement initial de votre groupe."
+        },
+        {
+            "key": "TW_01_019",
+            "value": "Unité conseillée : unité d'ombre, attaquant magique<br>Aptitudes conseillées : perforation de la DEF, charme, attaques normales"
+        },
+        {
+            "key": "TW_01_EX2",
+            "value": "Unité conseillée : guérit les altérations d'état"
+        },
+        {
+            "key": "TW_01_020",
+            "value": "Unité conseillée : perforation de la DEF, attaque coup garanti"
+        }
+    ]
+}

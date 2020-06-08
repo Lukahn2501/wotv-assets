@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "9999",
+            "value": "„Gesamtversuche für Schwierige Aufträge +10“ A"
+        }
+    ]
+}

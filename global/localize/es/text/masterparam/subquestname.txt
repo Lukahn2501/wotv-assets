@@ -1,0 +1,92 @@
+{
+    "infos": [
+        {
+            "key": "SQ_WD_010101_01",
+            "value": "Derrota a unos cuantos monstruos peligrosos"
+        },
+        {
+            "key": "SQ_WD_010101_02",
+            "value": "Muéstrame un arma que hayas forjado"
+        },
+        {
+            "key": "SQ_WD_010102_01",
+            "value": "¿Quieres hacerte más fuerte? ¡Perfecciona tu técnica!"
+        },
+        {
+            "key": "SQ_WD_010102_02",
+            "value": "Ve a por materiales para armas"
+        },
+        {
+            "key": "SQ_WD_010103_01",
+            "value": "¡Quiero ver un chocobo!"
+        },
+        {
+            "key": "SQ_WD_010103_02",
+            "value": "¡Nos vemos en la Arena!"
+        },
+        {
+            "key": "SQ_WD_010104_01",
+            "value": "Envíale un regalo a un amigo"
+        },
+        {
+            "key": "SQ_WD_010104_02",
+            "value": "Ve a por agujas de acupuntura"
+        },
+        {
+            "key": "SQ_WD_010105_01",
+            "value": "Cuanto más fuertes sean tus espers..."
+        },
+        {
+            "key": "SQ_WD_010105_02",
+            "value": "Los guilonios se venden a buen precio..."
+        },
+        {
+            "key": "SQ_WD_010106_01",
+            "value": "Hablaremos cuando completes la Arena"
+        },
+        {
+            "key": "SQ_WD_010106_02",
+            "value": "Ven a jugar con nosotros"
+        },
+        {
+            "key": "SQ_WD_010107_01",
+            "value": "Muéstrame un arma despertada"
+        },
+        {
+            "key": "SQ_WD_010107_02",
+            "value": "¿Te puedo enviar a hacer unos recados?"
+        },
+        {
+            "key": "SQ_WD_010108_01",
+            "value": "¿Por casualidad no buscas personal?"
+        },
+        {
+            "key": "SQ_WD_010108_02",
+            "value": "¡Veamos lo fuerte que te has hecho!"
+        },
+        {
+            "key": "SQ_WD_010109_01",
+            "value": "¡Necesito agujas de acupuntura mejores!"
+        },
+        {
+            "key": "SQ_WD_010109_02",
+            "value": "¿Sigues perfeccionando tu técnica?"
+        },
+        {
+            "key": "SQ_WD_010110_01",
+            "value": "¡Has mejorado! Sigue así"
+        },
+        {
+            "key": "SQ_WD_010110_02",
+            "value": "Mejora tus espers más todavía"
+        },
+        {
+            "key": "SQ_WD_010201_01",
+            "value": "¡Mejora el poder especial de tu equipo!"
+        },
+        {
+            "key": "SQ_WD_010201_02",
+            "value": "¿Me traes un huevo nutritivo?"
+        }
+    ]
+}

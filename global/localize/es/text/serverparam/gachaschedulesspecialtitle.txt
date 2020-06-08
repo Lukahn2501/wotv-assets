@@ -1,0 +1,332 @@
+{
+    "infos": [
+        {
+            "key": "init",
+            "value": "Invocación de tutorial"
+        },
+        {
+            "key": "p_gacha_unit_20191114",
+            "value": "Invocación (x10) de unidad UR garantizada de conmemoración del lanzamiento"
+        },
+        {
+            "key": "p_gacha_vc_20191114",
+            "value": "Invocación (x10) de carta de visión UR garantizada de conmemoración del lanzamiento"
+        },
+        {
+            "key": "ff14_gacha_20191114_01",
+            "value": "Invocación de colaboración de FFXIV"
+        },
+        {
+            "key": "ff14_gacha_20191114_10",
+            "value": "Invocación (x10) de colaboración de FFXIV"
+        },
+        {
+            "key": "no_coin_gacha_20191118_10",
+            "value": "Invocación (x10) GRATUITA: Celebración del millón de descargas"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step1",
+            "value": "Principiantes: Invocación de pasos (paso 1)"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step2",
+            "value": "Principiantes: Invocación de pasos (paso 2)"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step3",
+            "value": "Principiantes: Invocación de pasos (paso 3)"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_01",
+            "value": "Invocación de nueva unidad o carta de visión"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_10",
+            "value": "Invocación (x10) de nueva unidad o carta de visión"
+        },
+        {
+            "key": "p_gacha_unit_GL20200408_10",
+            "value": "Invocación (x10) de unidad UR garantizada: Celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "p_gacha_vc_GL20200408_10",
+            "value": "Invocación (x10) de carta de visión UR garantizada: Celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "no_coin_gacha_GL20200408_10",
+            "value": "Invocación (x10) GRATUITA: Celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "no_coin_gacha_GL20200415_10",
+            "value": "Invocación (x10) GRATUITA: Celebración de los 2 millones de descargas, parte 2"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_01",
+            "value": "Invocación destacada: Celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_10",
+            "value": "Invocación (x10) destacada: Celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "p_gacha_unit_gl20200422_10",
+            "value": "Invocación (x10) de unidad UR de FFT garantizada"
+        },
+        {
+            "key": "p_gacha_vc_gl20200422_10",
+            "value": "Invocación (x10) de carta de visión UR de FFT garantizada"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_1",
+            "value": "Invocación de colaboración de FFT: Orlandeau"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_10",
+            "value": "Invocación (x10) de colaboración de FFT: Orlandeau"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_1",
+            "value": "Invocación de colaboración de FFT: Ramza"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_10",
+            "value": "Invocación (x10) de colaboración de FFT: Ramza"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_1",
+            "value": "Invocación diaria gratuita de colaboración de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_2",
+            "value": "Invocación diaria gratuita de colaboración de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_3",
+            "value": "Invocación diaria gratuita de colaboración de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_4",
+            "value": "Invocación diaria gratuita de colaboración de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_5",
+            "value": "Invocación diaria gratuita de colaboración de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_6",
+            "value": "Invocación diaria gratuita de colaboración de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_7",
+            "value": "Invocación diaria gratuita de colaboración de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_8",
+            "value": "Invocación diaria gratuita de colaboración de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_9",
+            "value": "Invocación diaria gratuita de colaboración de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_10",
+            "value": "Invocación diaria gratuita de colaboración de FFT"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_01",
+            "value": "Invocación destacada: Celebración de los 3 millones de descargas"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_10",
+            "value": "Invocación (x10) destacada: Celebración de los 3 millones de descargas"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_01",
+            "value": "Invocación destacada: Celebración de los 3 millones de descargas, parte 2"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_10",
+            "value": "Invocación (x10) destacada: Celebración de los 3 millones de descargas, parte 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_01",
+            "value": "Invocación de nueva unidad"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_10",
+            "value": "Invocación (x10) de nueva unidad"
+        },
+        {
+            "key": "p_gacha_unit_gl20200506_10",
+            "value": "Invocación (x10) de unidad UR garantizada: Celebración de los 4 millones de descargas"
+        },
+        {
+            "key": "no_coin_gacha_gl20200513_10",
+            "value": "\"¡Capítulo 6 disponible!\": Invocación (x10) GRATUITA"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_01",
+            "value": "Invocación de apoyo de misión de entrenamiento de equipo"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_10",
+            "value": "Invocación (x10) de apoyo de misión de entrenamiento de equipo"
+        },
+        {
+            "key": "p_gacha_vc_gl20200513_10",
+            "value": "\"¡Capítulo 6 disponible!\": Invocación (x10) de carta de visión UR garantizada"
+        },
+        {
+            "key": "gacha_vc_gl20200513_01",
+            "value": "Invocación de nueva carta de visión"
+        },
+        {
+            "key": "gacha_vc_gl20200513_10",
+            "value": "Invocación (x10) de nueva carta de visión"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_01",
+            "value": "Invocación de nueva unidad o carta de visión"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_10",
+            "value": "Invocación (x10) de nueva unidad o carta de visión"
+        },
+        {
+            "key": "p_gacha_unit_gl20200520_10",
+            "value": "Invocación (x10) de unidad UR garantizada: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "p_gacha_vc_gl20200520_10",
+            "value": "Invocación (x10) de carta de visión UR garantizada: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "no_coin_gacha_gl20200520_10",
+            "value": "Invocación (x10) GRATUITA: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200520_10",
+            "value": "Invocación UR x4: 6 primeros meses de la versión japonesa"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_01",
+            "value": "Invocación destacada: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_10",
+            "value": "Invocación (x10) destacada: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_01",
+            "value": "Medalla de invocación B: Celebración de los 5 millones de descargas, parte II"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_10",
+            "value": "Medalla de invocación B: Celebración de los 5 millones de descargas, parte II"
+        },
+        {
+            "key": "no_coin_gacha_gl20200527_10",
+            "value": "Invocación (x10) GRATUITA: Celebración de los 5 millones de descargas, parte II"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10",
+            "value": "Invocación con bonificación: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_1",
+            "value": "Invocación con bonificación: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_2",
+            "value": "Invocación con bonificación: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_3",
+            "value": "Invocación con bonificación: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_4",
+            "value": "Invocación con bonificación: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "no_coin_gacha_gl20200603_10",
+            "value": "Invocación (x10) GRATUITA: Celebración de la actualización del juego"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_01",
+            "value": "Invocación de nueva unidad o carta de visión"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_10",
+            "value": "Invocación (x10) de nueva unidad o carta de visión"
+        },
+        {
+            "key": "p_gacha_unit_gl20200603_10",
+            "value": "Invocación (x10) de unidad UR garantizada: Celebración de la actualización del juego"
+        },
+        {
+            "key": "p_gacha_vc_gl20200603_10",
+            "value": "Invocación (x10) de carta de visión UR garantizada: Celebración de la actualización del juego"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_01",
+            "value": "Invocación destacada de celebración de la actualización del juego"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_10",
+            "value": "Invocación (x10) destacada de celebración de la actualización del juego"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_1",
+            "value": "Invocación de 5 pasos de celebración de la actualización del juego: paso 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_2",
+            "value": "Invocación de 5 pasos de celebración de la actualización del juego: paso 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_3",
+            "value": "Invocación de 5 pasos de celebración de la actualización del juego: paso 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_4",
+            "value": "Invocación de 5 pasos de celebración de la actualización del juego: paso 4"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_5",
+            "value": "Invocación de 5 pasos de celebración de la actualización del juego: paso 5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10",
+            "value": ""
+        },
+        {
+            "key": "global_pickup_sterne_20200325_01",
+            "value": "Invocación destacada de conmemoración del lanzamiento"
+        },
+        {
+            "key": "global_pickup_sterne_20200325_10",
+            "value": "Invocación (x10) destacada de conmemoración del lanzamiento"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_01",
+            "value": "Invocación de nueva unidad o carta de visión"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_10",
+            "value": "Invocación (x10) de nueva unidad o carta de visión"
+        },
+        {
+            "key": "global_ur_unit_fredrica_20200401",
+            "value": "Invocación (x10) de unidad UR garantizada"
+        },
+        {
+            "key": "global_ur_vc_fredrica_20200401",
+            "value": "Invocación (x10) de carta de visión UR garantizada"
+        }
+    ]
+}

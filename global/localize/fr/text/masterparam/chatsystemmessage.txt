@@ -1,0 +1,68 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "${playerName} a rejoint la guilde."
+        },
+        {
+            "key": "2",
+            "value": "Nouvel emblème de guilde obtenu."
+        },
+        {
+            "key": "3",
+            "value": "${playerName} a été désigné comme Chef de guilde."
+        },
+        {
+            "key": "4",
+            "value": "${playerName} a été exclu de la guilde."
+        },
+        {
+            "key": "5",
+            "value": "${playerName} a quitté la guilde."
+        },
+        {
+            "key": "6",
+            "value": "Le chef de la guide ne s'étant pas connecté pendant plusieurs jours d'affilés, ${playerName} a automatiquement été nommé Chef de guilde."
+        },
+        {
+            "key": "7",
+            "value": "${playerName} a été nommé bras-droit du Chef de guilde."
+        },
+        {
+            "key": "8",
+            "value": "${statueName} a atteint le niv. ${level}."
+        },
+        {
+            "key": "9",
+            "value": "La guilde a fait son entrée dans un duel de guildes."
+        },
+        {
+            "key": "10",
+            "value": "Vous ne pouvez pas accéder au duel de guildes car vous ne remplissez pas les conditions nécessaires requises."
+        },
+        {
+            "key": "11",
+            "value": "Que le duel contre la guilde ${guildName} commence."
+        },
+        {
+            "key": "12",
+            "value": "Le duel des guildes a été gagné par forfait."
+        },
+        {
+            "key": "13",
+            "value": "Le duel contre la guilde ${guildName} est terminé."
+        },
+        {
+            "key": "14",
+            "value": "Votre guilde a perdu son duel contre ${guildName}."
+        },
+        {
+            "key": "15",
+            "value": "Vous avez été promu. Votre niveau en tant que Chef de guilde est passé de ${beforeLevelName} à ${afterLevelName}."
+        },
+        {
+            "key": "16",
+            "value": "Vous avez été rétrogradé. Votre niveau en tant que Chef de guilde est passé de ${beforeLevelName} à ${afterLevelName}."
+        }
+    ]
+}

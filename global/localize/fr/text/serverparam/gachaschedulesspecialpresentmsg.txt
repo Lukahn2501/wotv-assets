@@ -1,0 +1,332 @@
+{
+    "infos": [
+        {
+            "key": "init",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_20191114",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_20191114",
+            "value": ""
+        },
+        {
+            "key": "ff14_gacha_20191114_01",
+            "value": "Bonus de l'invocation de la collaboration FFXIV"
+        },
+        {
+            "key": "ff14_gacha_20191114_10",
+            "value": "Bonus de l'invocation de la collaboration FFXIV"
+        },
+        {
+            "key": "no_coin_gacha_20191118_10",
+            "value": ""
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step1",
+            "value": ""
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step2",
+            "value": ""
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step3",
+            "value": ""
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_01",
+            "value": "Bonus de l'invocation des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_10",
+            "value": "Bonus de l'invocation des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "p_gacha_unit_GL20200408_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_GL20200408_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_GL20200408_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_GL20200415_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_01",
+            "value": "Bonus de l'invocation du moment des « 2 millions de téléchargements »"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_10",
+            "value": "Bonus de l'invocation du moment des « 2 millions de téléchargements »"
+        },
+        {
+            "key": "p_gacha_unit_gl20200422_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200422_10",
+            "value": ""
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_1",
+            "value": "Bonus de l'invocation de la collaboration FFT"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_10",
+            "value": "Bonus de l'invocation de la collaboration FFT"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_1",
+            "value": "Bonus de l'invocation de la collaboration FFT"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_10",
+            "value": "Bonus de l'invocation de la collaboration FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_9",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_01",
+            "value": "Bonus de l'invocation du moment des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_10",
+            "value": "Bonus de l'invocation du moment des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_01",
+            "value": "Bonus de l'invocation du moment des « 3 millions de téléchargements » [Partie II]"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_10",
+            "value": "Bonus de l'invocation du moment des « 3 millions de téléchargements » [Partie II]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_01",
+            "value": "Bonus de l'invocation des nouvelles unités"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_10",
+            "value": "Bonus de l'invocation des nouvelles unités"
+        },
+        {
+            "key": "p_gacha_unit_gl20200506_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200513_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_01",
+            "value": "Bonus de l'invocation de soutien des quêtes d'entraînement d'équipement"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_10",
+            "value": "Bonus de l'invocation de soutien des quêtes d'entraînement d'équipement"
+        },
+        {
+            "key": "p_gacha_vc_gl20200513_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_vc_gl20200513_01",
+            "value": "Bonus de l'invocation des nouveaux atouts-visions"
+        },
+        {
+            "key": "gacha_vc_gl20200513_10",
+            "value": "Bonus de l'invocation des nouveaux atouts-visions"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_01",
+            "value": "Bonus de l'invocation des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_10",
+            "value": "Bonus de l'invocation des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "p_gacha_unit_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_01",
+            "value": "Bonus de l'invocation du moment des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_10",
+            "value": "Bonus de l'invocation du moment des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_01",
+            "value": "Bonus de l'invocation du moment des « 5 millions de téléchargements » [Partie II]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_10",
+            "value": "Bonus de l'invocation du moment des « 5 millions de téléchargements » [Partie II]"
+        },
+        {
+            "key": "no_coin_gacha_gl20200527_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10",
+            "value": "Invocation des « 5 millions de téléchargements » Partie II, bonus inclus - Invocation x10 en bonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_1",
+            "value": "Invocation des « 5 millions de téléchargements » Partie II, bonus inclus - Invocation x10 en bonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_2",
+            "value": "Invocation des « 5 millions de téléchargements » Partie II, bonus inclus - Invocation x10 en bonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_3",
+            "value": "Invocation des « 5 millions de téléchargements » Partie II, bonus inclus - Invocation x10 en bonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_4",
+            "value": "Invocation des « 5 millions de téléchargements » Partie II, bonus inclus - Invocation x10 en bonus"
+        },
+        {
+            "key": "no_coin_gacha_gl20200603_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_01",
+            "value": "Bonus de l'invocation des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_10",
+            "value": "Bonus de l'invocation des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "p_gacha_unit_gl20200603_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200603_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_01",
+            "value": "Célébration de la nouvelle version - Bonus de l'invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_10",
+            "value": "Célébration de la nouvelle version - Bonus de l'invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_1",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_2",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_3",
+            "value": "Célébration de la nouvelle version - Bonus de l'invocation à 5 paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_4",
+            "value": "Célébration de la nouvelle version - Bonus de l'invocation à 5 paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_5",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10",
+            "value": ""
+        },
+        {
+            "key": "global_pickup_sterne_20200325_01",
+            "value": "Bonus de l'invocation du moment"
+        },
+        {
+            "key": "global_pickup_sterne_20200325_10",
+            "value": "Bonus de l'invocation du moment"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_01",
+            "value": "Bonus de l'invocation du moment"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_10",
+            "value": "Bonus de l'invocation du moment"
+        },
+        {
+            "key": "global_ur_unit_fredrica_20200401",
+            "value": ""
+        },
+        {
+            "key": "global_ur_vc_fredrica_20200401",
+            "value": ""
+        }
+    ]
+}

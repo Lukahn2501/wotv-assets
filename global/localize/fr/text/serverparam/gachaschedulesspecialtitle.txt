@@ -1,0 +1,332 @@
+{
+    "infos": [
+        {
+            "key": "init",
+            "value": "Invocation du tutoriel"
+        },
+        {
+            "key": "p_gacha_unit_20191114",
+            "value": "Invocation d'unité UR garantie pour le lancement du jeu (x10)"
+        },
+        {
+            "key": "p_gacha_vc_20191114",
+            "value": "Invocation d'Atout-Vision UR garanti pour le lancement du jeu (x10)"
+        },
+        {
+            "key": "ff14_gacha_20191114_01",
+            "value": "Invocation de la collaboration FFXIV"
+        },
+        {
+            "key": "ff14_gacha_20191114_10",
+            "value": "Invocation de la collaboration FFXIV (x10)"
+        },
+        {
+            "key": "no_coin_gacha_20191118_10",
+            "value": "« 1 million de téléchargements » - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step1",
+            "value": "Longueur d'avance - Invocation à paliers [PALIER 1]"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step2",
+            "value": "Longueur d'avance - Invocation à paliers [PALIER 2]"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step3",
+            "value": "Longueur d'avance - Invocation à paliers [PALIER 3]"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_01",
+            "value": "Invocation des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_10",
+            "value": "Invocation x10 des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "p_gacha_unit_GL20200408_10",
+            "value": "« 2 millions de téléchargements » - Invocation x10 d'unité UR garantie"
+        },
+        {
+            "key": "p_gacha_vc_GL20200408_10",
+            "value": "« 2 millions de téléchargements » - Invocation x10 d'atout-vision UR garanti"
+        },
+        {
+            "key": "no_coin_gacha_GL20200408_10",
+            "value": "« 2 millions de téléchargements » - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "no_coin_gacha_GL20200415_10",
+            "value": "« 2 millions de téléchargements » Partie II - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_01",
+            "value": "« 2 millions de téléchargements » - Invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_10",
+            "value": "« 2 millions de téléchargements » - Invocation x10 du moment"
+        },
+        {
+            "key": "p_gacha_unit_gl20200422_10",
+            "value": "Invocation x10 d'unité FFT UR garantie"
+        },
+        {
+            "key": "p_gacha_vc_gl20200422_10",
+            "value": "Invocation x10 d'atout-vision FFT UR garanti"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_1",
+            "value": "Orlandeau - Invocation de la collaboration FFT"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_10",
+            "value": "Orlandeau - Invocation de la collaboration FFT (x10)"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_1",
+            "value": "Ramza - Invocation de la collaboration FFT"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_10",
+            "value": "Ramza - Invocation de la collaboration FFT (x10)"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_1",
+            "value": "Invocation gratuite quotidienne de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_2",
+            "value": "Invocation gratuite quotidienne de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_3",
+            "value": "Invocation gratuite quotidienne de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_4",
+            "value": "Invocation gratuite quotidienne de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_5",
+            "value": "Invocation gratuite quotidienne de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_6",
+            "value": "Invocation gratuite quotidienne de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_7",
+            "value": "Invocation gratuite quotidienne de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_8",
+            "value": "Invocation gratuite quotidienne de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_9",
+            "value": "Invocation gratuite quotidienne de FFT"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_10",
+            "value": "Invocation gratuite quotidienne de FFT"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_01",
+            "value": "« 3 millions de téléchargements » - Invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_10",
+            "value": "« 3 millions de téléchargements » - Invocation x10 du moment"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_01",
+            "value": "« 3 millions de téléchargements » Partie II - Invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_10",
+            "value": "« 3 millions de téléchargements » Partie II - Invocation x10 du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_01",
+            "value": "Invocation des nouvelles unités"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_10",
+            "value": "Invocation x10 des nouvelles unités"
+        },
+        {
+            "key": "p_gacha_unit_gl20200506_10",
+            "value": "« 4 millions de téléchargements » - Invocation x10 d'unité UR garantie"
+        },
+        {
+            "key": "no_coin_gacha_gl20200513_10",
+            "value": "Sortie du chapitre 6 ! - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_01",
+            "value": "Invocation de soutien des quêtes d'entraînement d'équipement"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_10",
+            "value": "Invocation x10 de soutien des quêtes d'entraînement d'équipement"
+        },
+        {
+            "key": "p_gacha_vc_gl20200513_10",
+            "value": "Sortie du chapitre 6 ! - Invocation x10 d'atout-vision UR garanti"
+        },
+        {
+            "key": "gacha_vc_gl20200513_01",
+            "value": "Invocation des nouveaux atouts-visions"
+        },
+        {
+            "key": "gacha_vc_gl20200513_10",
+            "value": "Invocation x10 des nouveaux atouts-visions"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_01",
+            "value": "Invocation des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_10",
+            "value": "Invocation x10 des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "p_gacha_unit_gl20200520_10",
+            "value": "« 5 millions de téléchargements » - Invocation x10 d'unité UR garantie"
+        },
+        {
+            "key": "p_gacha_vc_gl20200520_10",
+            "value": "« 5 millions de téléchargements » - Invocation x10 d'atout-vision UR garanti"
+        },
+        {
+            "key": "no_coin_gacha_gl20200520_10",
+            "value": "« 5 millions de téléchargements » - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200520_10",
+            "value": "UR x4 des six mois de la version japonaise"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_01",
+            "value": "« 5 millions de téléchargements » - Invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_10",
+            "value": "« 5 millions de téléchargements » - Invocation x10 du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_01",
+            "value": "« 5 millions de téléchargements » Partie II - Médaille d’invocation B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_10",
+            "value": "« 5 millions de téléchargements » Partie II - Médaille d’invocation B"
+        },
+        {
+            "key": "no_coin_gacha_gl20200527_10",
+            "value": "« 5 millions de téléchargements » Partie II - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10",
+            "value": "Invocation des « 5 millions de téléchargements », bonus inclus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_1",
+            "value": "Invocation des « 5 millions de téléchargements », bonus inclus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_2",
+            "value": "Invocation des « 5 millions de téléchargements », bonus inclus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_3",
+            "value": "Invocation des « 5 millions de téléchargements », bonus inclus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_4",
+            "value": "Invocation des « 5 millions de téléchargements », bonus inclus"
+        },
+        {
+            "key": "no_coin_gacha_gl20200603_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_01",
+            "value": "Invocation des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_10",
+            "value": "Invocation x10 des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "p_gacha_unit_gl20200603_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 d'unité UR garantie"
+        },
+        {
+            "key": "p_gacha_vc_gl20200603_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 d'atout-vision UR garanti"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_01",
+            "value": "Célébration de la nouvelle version - Invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_1",
+            "value": "Célébration de la nouvelle version - Invocation à 5 paliers [Palier 1]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_2",
+            "value": "Célébration de la nouvelle version - Invocation à 5 paliers [Palier 2]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_3",
+            "value": "Célébration de la nouvelle version - Invocation à 5 paliers [Palier 3]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_4",
+            "value": "Célébration de la nouvelle version - Invocation à 5 paliers [Palier 4]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_5",
+            "value": "Célébration de la nouvelle version - Invocation à 5 paliers [Palier 5]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10",
+            "value": ""
+        },
+        {
+            "key": "global_pickup_sterne_20200325_01",
+            "value": "Invocation du moment de célébration du lancement du jeu"
+        },
+        {
+            "key": "global_pickup_sterne_20200325_10",
+            "value": "Invocation du moment de célébration du lancement du jeu (x10)"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_01",
+            "value": "Invocation des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_10",
+            "value": "Invocation x10 des nouvelles unités et nouveaux atouts-visions"
+        },
+        {
+            "key": "global_ur_unit_fredrica_20200401",
+            "value": "Invocation x10 d'unité UR garantie"
+        },
+        {
+            "key": "global_ur_vc_fredrica_20200401",
+            "value": "Invocation x10 d'atout-vision UR garanti"
+        }
+    ]
+}

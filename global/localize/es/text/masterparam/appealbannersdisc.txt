@@ -1,0 +1,152 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "¡Evento de colaboración de FFXIV disponible! Completa las<br>misiones para conseguir fragmentos de alma de unidad exclusivos.<br>Disponible hasta las 23:59 del 30/11/2019."
+        },
+        {
+            "key": "2",
+            "value": "¡Nueva carta de visión de colaboración! Se ha aumentado la probabilidad<br>de invocarla durante tiempo limitado.<br>Disponible hasta las 23:59 del 30/11/2019."
+        },
+        {
+            "key": "3",
+            "value": ""
+        },
+        {
+            "key": "4",
+            "value": "¡Las multimisiones ya están disponibles! ¡Colabora para reunir<br>materiales de entrenamiento!"
+        },
+        {
+            "key": "5",
+            "value": "¡Ya están disponibles los combates de la Arena!"
+        },
+        {
+            "key": "6",
+            "value": "Misión de evento del millón de descargas"
+        },
+        {
+            "key": "7",
+            "value": "Misión de entrenamiento de equipo"
+        },
+        {
+            "key": "8",
+            "value": ""
+        },
+        {
+            "key": "9",
+            "value": ""
+        },
+        {
+            "key": "10",
+            "value": ""
+        },
+        {
+            "key": "11",
+            "value": ""
+        },
+        {
+            "key": "12",
+            "value": ""
+        },
+        {
+            "key": "13",
+            "value": ""
+        },
+        {
+            "key": "14",
+            "value": ""
+        },
+        {
+            "key": "15",
+            "value": ""
+        },
+        {
+            "key": "16",
+            "value": ""
+        },
+        {
+            "key": "17",
+            "value": ""
+        },
+        {
+            "key": "18",
+            "value": ""
+        },
+        {
+            "key": "19",
+            "value": ""
+        },
+        {
+            "key": "20",
+            "value": ""
+        },
+        {
+            "key": "21",
+            "value": ""
+        },
+        {
+            "key": "22",
+            "value": ""
+        },
+        {
+            "key": "23",
+            "value": ""
+        },
+        {
+            "key": "24",
+            "value": ""
+        },
+        {
+            "key": "25",
+            "value": ""
+        },
+        {
+            "key": "26",
+            "value": ""
+        },
+        {
+            "key": "27",
+            "value": ""
+        },
+        {
+            "key": "28",
+            "value": ""
+        },
+        {
+            "key": "29",
+            "value": ""
+        },
+        {
+            "key": "30",
+            "value": ""
+        },
+        {
+            "key": "31",
+            "value": ""
+        },
+        {
+            "key": "32",
+            "value": ""
+        },
+        {
+            "key": "33",
+            "value": ""
+        },
+        {
+            "key": "34",
+            "value": ""
+        },
+        {
+            "key": "35",
+            "value": ""
+        },
+        {
+            "key": "36",
+            "value": ""
+        },
+        {
+            "key": "37",
+            "value": ""
+        }
+    ]
+}

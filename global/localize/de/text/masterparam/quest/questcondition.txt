@@ -1,0 +1,184 @@
+{
+    "infos": [
+        {
+            "key": "QE_COND_SIDE_PLAYER",
+            "value": "Verbündete"
+        },
+        {
+            "key": "QE_COND_SIDE_ENEMY",
+            "value": "Gegner"
+        },
+        {
+            "key": "QE_COND_SIDE_NEUTRAL",
+            "value": "Gimmicks"
+        },
+        {
+            "key": "QE_COND_OPE_NAME",
+            "value": "und"
+        },
+        {
+            "key": "QE_COND_OPE_EQUAL",
+            "value": ""
+        },
+        {
+            "key": "QE_COND_OPE_GREATER",
+            "value": "oder mehr"
+        },
+        {
+            "key": "QE_COND_OPE_LESS",
+            "value": "oder weniger"
+        },
+        {
+            "key": "QE_COND_PLAYER_DEADALL",
+            "value": "Alle {0} ausgelöscht"
+        },
+        {
+            "key": "QE_COND_ENEMY_DEADALL",
+            "value": "Alle {0} ausgelöscht"
+        },
+        {
+            "key": "QE_COND_DEADALLEXCEPTUNIT",
+            "value": "Alle {1} außer {0} ausgelöscht"
+        },
+        {
+            "key": "QE_COND_DEAD",
+            "value": "{0} getötet"
+        },
+        {
+            "key": "QE_COND_BREAK",
+            "value": "{0} zerstört"
+        },
+        {
+            "key": "QE_COND_ALIVE",
+            "value": "{0} am Leben"
+        },
+        {
+            "key": "QE_COND_DEADHERO",
+            "value": "Held getötet"
+        },
+        {
+            "key": "QE_COND_ALIVEHERO",
+            "value": "Held am Leben"
+        },
+        {
+            "key": "QE_COND_HP",
+            "value": "Die LP von {0} erreichen {1}% {2}."
+        },
+        {
+            "key": "QE_COND_TURN",
+            "value": "Der Aktionszähler von {0} erreicht {1} {2}."
+        },
+        {
+            "key": "QE_COND_ADJACENT",
+            "value": "{0} positioniert sich neben {1}."
+        },
+        {
+            "key": "QE_COND_REACHTARGETPOINT",
+            "value": "{0} erreicht den Zielpunkt."
+        },
+        {
+            "key": "QE_COND_REACHTARGETUNIT",
+            "value": "{0} überlappt sich mit {1}."
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETPOINT",
+            "value": "{0} wendet die Fähigkeit „{1}“ auf den Zielpunkt an."
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETUNIT",
+            "value": "{0} wendet die Fähigkeit „{2}“ auf {1} an."
+        },
+        {
+            "key": "QE_COND_CHANGEDGEO",
+            "value": "Änderung des Geländes zu {0}."
+        },
+        {
+            "key": "QE_ST_01010309",
+            "value": "Muraga Fennes besiegt"
+        },
+        {
+            "key": "QE_ST_01010110",
+            "value": "Banditenanführer besiegt"
+        },
+        {
+            "key": "QE_TU_02",
+            "value": "Gegner ausgelöscht"
+        },
+        {
+            "key": "QE_ST_01050302",
+            "value": "Alle Verbündete außer Schuzelt ausgelöscht"
+        },
+        {
+            "key": "QE_ST_01050304",
+            "value": "Alle Verbündete außer Styr Leonis ausgelöscht"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Muraga Fennes besiegt"
+        },
+        {
+            "key": "QE_ST_01060205",
+            "value": "Camillo besiegt"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Der Kutsche eine bestimmte Menge Schaden zugefügt"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_06_01",
+            "value": "Den Schokopudding besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_06_02",
+            "value": "Den Schokopudding besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_06_03",
+            "value": "Den Schokopudding besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_06_04",
+            "value": "Den Schokopudding besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": ""
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": ""
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Warmech"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": ""
+        }
+    ]
+}

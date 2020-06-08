@@ -1,0 +1,196 @@
+{
+    "infos": [
+        {
+            "key": "EX_SUB_AW_VBALL",
+            "value": ""
+        },
+        {
+            "key": "EX_SUB_AW_FIRE",
+            "value": "火之覺醒輝源"
+        },
+        {
+            "key": "EX_SUB_AW_ICE",
+            "value": "冰之覺醒輝源"
+        },
+        {
+            "key": "EX_SUB_AW_WIND",
+            "value": "風之覺醒輝源"
+        },
+        {
+            "key": "EX_SUB_AW_SOIL",
+            "value": "土之覺醒輝源"
+        },
+        {
+            "key": "EX_SUB_AW_TNDR",
+            "value": "雷之覺醒輝源"
+        },
+        {
+            "key": "EX_SUB_AW_WATER",
+            "value": "水之覺醒輝源"
+        },
+        {
+            "key": "EX_SUB_AW_SHINE",
+            "value": "光之覺醒輝源"
+        },
+        {
+            "key": "EX_SUB_AW_DARK",
+            "value": "暗之覺醒輝源"
+        },
+        {
+            "key": "EX_SUB_COM_FIRE",
+            "value": "火之思念的碎片"
+        },
+        {
+            "key": "EX_SUB_COM_ICE",
+            "value": "冰之思念的碎片"
+        },
+        {
+            "key": "EX_SUB_COM_WIND",
+            "value": "風之思念的碎片"
+        },
+        {
+            "key": "EX_SUB_COM_SOIL",
+            "value": "土之思念的碎片"
+        },
+        {
+            "key": "EX_SUB_COM_TNDR",
+            "value": "雷之思念的碎片"
+        },
+        {
+            "key": "EX_SUB_COM_WATER",
+            "value": "水之思念的碎片"
+        },
+        {
+            "key": "EX_SUB_COM_SHINE",
+            "value": "光之思念的碎片"
+        },
+        {
+            "key": "EX_SUB_COM_DARK",
+            "value": "暗之思念的碎片"
+        },
+        {
+            "key": "EX_SUB_AW_F_2_6",
+            "value": "火之覺醒魂"
+        },
+        {
+            "key": "EX_SUB_AW_I_2_6",
+            "value": "冰之覺醒魂"
+        },
+        {
+            "key": "EX_SUB_AW_WI_2_6",
+            "value": "風之覺醒魂"
+        },
+        {
+            "key": "EX_SUB_AW_S_2_6",
+            "value": "土之覺醒魂"
+        },
+        {
+            "key": "EX_SUB_AW_T_2_6",
+            "value": "雷之覺醒魂"
+        },
+        {
+            "key": "EX_SUB_AW_WA_2_6",
+            "value": "水之覺醒魂"
+        },
+        {
+            "key": "EX_SUB_AW_SH_2_6",
+            "value": "光之覺醒魂"
+        },
+        {
+            "key": "EX_SUB_AW_D_2_6",
+            "value": "暗之覺醒魂"
+        },
+        {
+            "key": "EX_SUB_EM_FIRE",
+            "value": "火之輝石"
+        },
+        {
+            "key": "EX_SUB_EM_ICE",
+            "value": "冰之輝石"
+        },
+        {
+            "key": "EX_SUB_EM_WIND",
+            "value": "風之輝石"
+        },
+        {
+            "key": "EX_SUB_EM_SOIL",
+            "value": "土之輝石"
+        },
+        {
+            "key": "EX_SUB_EM_TNDR",
+            "value": "雷之輝石"
+        },
+        {
+            "key": "EX_SUB_EM_WATER",
+            "value": "水之輝石"
+        },
+        {
+            "key": "EX_SUB_EM_SHINE",
+            "value": "光之輝石"
+        },
+        {
+            "key": "EX_SUB_EM_DARK",
+            "value": "暗之輝石"
+        },
+        {
+            "key": "EX_SUB_IM_ANG",
+            "value": "祈禱的天使像"
+        },
+        {
+            "key": "EX_SUB_IM_DRG",
+            "value": "佇立的地龍像"
+        },
+        {
+            "key": "EX_SUB_JB_MM_ALL",
+            "value": "些微的記憶"
+        },
+        {
+            "key": "EX_SUB_JB_SWORD",
+            "value": "劍之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_LSWORD",
+            "value": "大劍之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_JSWORD",
+            "value": "刀之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_FIST",
+            "value": "拳之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_SPEAR",
+            "value": "槍之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_SSWORD",
+            "value": "短劍之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_KUNAI",
+            "value": "忍刀之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_BOW",
+            "value": "弓之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_GUN",
+            "value": "火槍之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_STAFF",
+            "value": "手杖之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_MACE",
+            "value": "權杖之寶石"
+        },
+        {
+            "key": "EX_SUB_JB_AXE",
+            "value": "斧之寶石"
+        }
+    ]
+}

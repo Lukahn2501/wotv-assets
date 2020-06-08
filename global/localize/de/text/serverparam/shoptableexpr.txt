@@ -1,0 +1,388 @@
+{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "Einhandschwert; kann von Kriegern, Rittern, Paladinen, Schwertmagiern, Rotmagiern, dem Geflügelten, Knappen, Schwertheiligen und Gefallenen Rittern geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "Großschwert; kann von Soldaten geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "Katana; kann von Samurai geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "Schlagringe; können von Mönchen geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "Lanze; kann von Dragonern und Pikenieren geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "Dolch; kann von Dieben geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "Shinobigatana; kann von Ninjas geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "Bogen; kann von Jägern und Lapis-Weißmagiern geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "Pistole; kann von Schützen und Doppelschützen geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "Stab; kann von Weißmagiern, Schwarzmagiern, Grünmagiern und Zeitmagiern geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "Kolben; kann von Klerikern geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "Rüstung; kann von Adligen, Kriegern, Paladinen, Soldaten, Samurai, Pikeniern, Dragonern, Schwertmagiern, dem Geflügelten, Knappen und Gefallenen Rittern getragen werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "Hut; kann von Adligen, Kriegern, Mönchen, Pikeniern, Dieben, Jägern, Ninjas, Schützen, Weißmagiern, Schwarzmagiern, Klerikern, Rotmagiern, Zeitmagiern, Grünmagiern, Lapis-Weißmagiern, Doppelschützen, Hexen, Revolverklingen, Knappen und Schwertheiligen getragen werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "Kleidung; kann von Adligen, Kriegern, Mönchen, Pikeniern, Dieben, Jägern, Ninjas, Schützen, Weißmagiern, Schwarzmagiern, Klerikern, Rotmagiern, Zeitmagiern, Grünmagiern, Lapis-Weißmagiern, Wikingern, Doppelschützen, Hexen, Revolverklingen, Knappen und Schwertheiligen getragen werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "Rüstung, kann von Adligen, Kriegern, Samurai, Pikeniern, Dragonern, Rittern, Paladinen, Soldaten, Schwertmagiern, dem Geflügelten, Wikingern, Knappen und Gefallenen Rittern getragen werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "Accessoire; kann von allen Jobs getragen werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "Axt; kann von Wikingern geführt werden."
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "Ein Satz von Gegenständen, mit dem während Aufträgen LP wiederhergestellt und Zustandsveränderungen aufgehoben werden können. Ein Sonderangebot aus dem „Laden für Laien“."
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "Ein Vorteilspaket mit Alkrists (Grün) für Einheiten der Stufe 2 - 3. Ein Sonderangebot aus dem Laden für Laien."
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "Ein Vorteilspaket mit Jadeiten jedes Typs für Jobstufe 2 - 3. Ein Sonderangebot aus dem Laden für Laien zum halben Preis!"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "Ein Vorteilspaket mit Jadeiten jedes Typs für Jobstufe 2 - 3. Ein Sonderangebot aus dem Laden für Laien zum halben Preis!"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "Ein Vorteilspaket mit Herstellungsanleitungen für Ausrüstung der Seltenheit R, die von allen Jobtypen angelegt werden kann. Ein Sonderangebot aus dem Laden für Laien zum halben Preis!"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "Ein Vorteilspaket mit Herstellungsanleitungen für Ausrüstung der Seltenheit R, die von allen Jobtypen angelegt werden kann. Ein Sonderangebot aus dem Laden für Laien zum halben Preis!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "Ein besonderes Ensemble aus Feuer-Gedankenfragmenten und Bonusgegenständen wie Feuer-Erweckungsprismen! Zur Erweckung von Feuereinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "Ein besonderes Ensemble aus Wasser-Gedankenfragmenten und Bonusgegenständen wie Wasser-Erweckungsprismen! Zur Erweckung von Wassereinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "Ein besonderes Ensemble aus Wind-Gedankenfragmenten und Bonusgegenständen wie Wind-Erweckungsprismen! Zur Erweckung von Windeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "Ein besonderes Ensemble aus Blitz-Gedankenfragmenten und Bonusgegenständen wie Blitz-Erweckungsprismen! Zur Erweckung von Blitzeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "Ein besonderes Ensemble aus Erd-Gedankenfragmenten und Bonusgegenständen wie Erd-Erweckungsprismen! Zur Erweckung von Erdeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "Ein besonderes Ensemble aus Eis-Gedankenfragmenten und Bonusgegenständen wie Eis-Erweckungsprismen! Zur Erweckung von Eiseinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "Ein besonderes Ensemble aus Licht-Gedankenfragmenten und Bonusgegenständen wie Licht-Erweckungsprismen! Zur Erweckung von Lichteinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "Ein besonderes Ensemble aus Dunkel-Gedankenfragmenten und Bonusgegenständen wie Dunkel-Erweckungsprismen! Zur Erweckung von Dunkeleinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "Ein besonderes Ensemble aus Feuer-Gedankenfragmenten und Feuer-Erweckungsprismen! Zur Erweckung von Feuereinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "Ein besonderes Ensemble aus Wasser-Gedankenfragmenten und Wasser-Erweckungsprismen! Zur Erweckung von Wassereinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "Ein besonderes Ensemble aus Wind-Gedankenfragmenten und Wind-Erweckungsprismen! Zur Erweckung von Windeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "Ein besonderes Ensemble aus Blitz-Gedankenfragmenten und Blitz-Erweckungsprismen! Zur Erweckung von Blitzeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "Ein besonderes Ensemble aus Erd-Gedankenfragmenten und Erd-Erweckungsprismen! Zur Erweckung von Erdeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "Ein besonderes Ensemble aus Eis-Gedankenfragmenten und Eis-Erweckungsprismen! Zur Erweckung von Eiseinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "Ein besonderes Ensemble aus Licht-Gedankenfragmenten und Licht-Erweckungsprismen! Zur Erweckung von Lichteinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "Ein besonderes Ensemble aus Dunkel-Gedankenfragmenten und Dunkel-Erweckungsprismen! Zur Erweckung von Dunkeleinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Feuereinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Wassereinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Windeinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Blitzeinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Erdeinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Eiseinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Lichteinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Dunkeleinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "Ein besonderes Paket, das ERF-Würfel (XL) und als Bonus Regenbogenfarbene Visionskugeln sowie Regenbogen-Gedankenfragmente enthält! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "Ein Ticket, mit dem vier Erinnerungen (Gelb) des jeweiligen ausgewählten Jobs beschworen werden können. *Joberinnerungen der folgenden Jobs von Kollabo-Einheiten sind nicht erhältlich: Revolverklinge, Hexe,"
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "Ein Ticket, mit dem drei Erinnerungen (Violett) des jeweiligen ausgewählten Jobs beschworen werden können. *Joberinnerungen der folgenden Jobs von Kollabo-Einheiten sind nicht erhältlich: Revolverklinge, Hexe"
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "[Sonderangebot für Einsteiger] Ein besonderes Paket mit Erinnerungen des namenlosen Helden, die anstelle einer beliebigen Joberinnerung gebraucht werden können!"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "[Sonderangebot für Einsteiger] Dieses besondere Paket enthält ein „Auswählbares Elementgedankenfragment x10“-Beschwörungsticket sowie Regenbogenfarbene Visionskugeln, ein „Auswählbares Erweckungsprisma x10“-Beschwörungsticket und ERF-Würfel (L) als Bonus!"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "Ein Gegenstand zur Ausdauerwiederherstellung, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "[Sonderangebot zum Veröffentlichungsandenken] Dieses besondere Paket enthält ERF-Würfel (XL) sowie Regenbogenfarbene Visionskugeln und Regenbogen-Gedankenfragmente als Bonus! Unerlässlich zum Trainieren von Einheiten!"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "Ein Paket mit Ausdauerstimulanzien (M) und Storyüberspringtickets."
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "Ein Paket mit Ausdauerstimulanzien (L) und Storyüberspringtickets."
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "Ein besonderes Paket, das ERF-Würfel (XL) und als Bonus eine Regenbogenfarbene Visionskugel sowie ein Regenbogen-Gedankenfragment enthält! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "Ein Gegenstand zur Ausdauerwiederherstellung, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "Ein Gegenstand zum Erhalt von ERF, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "Ein Paket, das ERF-Würfel in (S), (M) und (L) enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "Ein Paket mit Ausdauerstimulanzien (L) und Storyüberspringtickets."
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "Ein Paket, das rote, gelbe, violette und blaue Verschwommene Erinnerungen enthält."
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "Ein Paket, das ERF-Würfel in (M), (L) und (XL) enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "Ein Paket, das Blitz-Gedankenfragmente und Blitz-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "Ein Paket, das Licht-Gedankenfragmente und Licht-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "Ein Paket, das Erd-Gedankenfragmente und Erd-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "Ein Paket, das Dunkel-Gedankenfragmente und Dunkel-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "Ein besonderes Paket, das eine Regenbogenfarbene Visionskugel, ein „Auswählbares Erweckungsprisma x100“-Beschwörungsticket und ein „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket  enthält! Perfekt zum Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "Ein besonderes Paket mit (UR) Ramza-Einheitenfragmenten (benötigt für Limitbrüche), Licht-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogen-Gedankenfragmenten und Regenbogenfarbenen Visionskugeln!"
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "Ein besonderes Paket, das die FFT-Kollabo-Einheit Ramza, Regenbogenfarbene Visionskugeln, Regenbogen-Gedankenfragmente, Licht-Erweckungsprismen und Licht-Gedankenfragmente enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "Ein Paket, das Feuer-Gedankenfragmente und Feuer-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "Ein Paket, das Eis-Gedankenfragmente und Eis-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "Hol dir einmal täglich gratis Storyüberspringtickets!"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "Ein Paket, das Blitz-Gedankenfragmente und Blitz-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "Ein Paket, das Licht-Gedankenfragmente und Licht-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "Ein Paket, das Erd-Gedankenfragmente und Erd-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "Ein Paket, das Dunkel-Gedankenfragmente und Dunkel-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "Ein besonderes Paket, das eine Regenbogenfarbene Visionskugel, ein „Auswählbares Erweckungsprisma x100“-Beschwörungsticket und ein „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket  enthält! Perfekt zum Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "Ein Paket voller ERF-Würfel (L) und Rausch-Pötte! Zur Verbesserung von Limiträuschen unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "Ein Paket voller Adamantit (L) und Rüstungs-Pötte! Zur Verbesserung von Ausrüstung und ihren Fähigkeiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "Ein besonderes Paket, das „Auswählbares Elementgedankenfragment x50“-Beschwörungsticket sowie eine Regenbogenfarbene Visionskugel und ein „Auswählbares Erweckungsprisma x50“-Beschwörungsticket enthält!"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "Ein Paket, das Wasser-Gedankenfragmente und Wasser-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "Ein Paket, das Licht-Gedankenfragmente und Licht-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "Ein Paket, das Erd-Gedankenfragmente und Erd-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "Ein Paket, das Wachstumseier (SR) und „Auswählbarer Elementmaginit (M) x10“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "Ein Paket, das Wachstumseier (SR) und „Auswählbarer Elementmaginit (M) x25“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "Ein Paket, das Wachstumseier (SR) und „Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "Ein Paket, das Dunkel-Gedankenfragmente und Dunkel-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "Ein Paket, das Eis-Gedankenfragmente und Eis-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "Ein Gegenstand zum Erhalt von Visionskarten-ERF, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "Ein Paket, das ein „[UR]-Einheit garantiert“-Beschwörungsticket, ERF-Würfel (L/XL), ein „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket, ein „Auswählbares Elementerweckungsprisma x100“-Beschwörungsticket, ein Regenbogen-Gedankenfragment und Regenbogenfarbene Visionskugeln enthält. *Limitierte Einheiten, Kollabo-Einheiten, Kiton, „Wispern“ sowie Miranda sind nicht inkludiert"
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "Ein Paket, das ein „[UR]-Visionskarte garantiert“-Beschwörungsticket, Wachstumseier (R/SR), ein „Auswählbarer Elementmaginit (XL) x10“-Beschwörungsticket und Regenbogenfarbene Visionskugeln enthält. *Limitierte Visionskarten, Kollabo-Visionskarten sowie „Odin, der Mythische Marodeur“ sind nicht inkludiert."
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "Ein Paket, das Wind-Gedankenfragmente, Wind-Erweckungsprismen und eine Regenbogenfarbene Visionskugel enthält."
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "Ein Paket, das Feuer-Gedankenfragmente, Feuer-Erweckungsprismen und eine Regenbogenfarbene Visionskugel enthält."
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "Ein Paket, das „Auswählbares Elementgedankenfragment x50“-Beschwörungsticket sowie ein „Auswählbares Elementerweckungsprisma x50“-Beschwörungsticket und eine Regenbogenfarbene Visionskugel enthält!"
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "Ein Paket, das ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket, Wachstumseier (SR), ein „Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket und eine Regenbogenfarbene Visionskugel enthält. *Limitierte Visionskarten, Kollabo-Visionskarten sowie „Odin, der Mythische Marodeur“ sind nicht inkludiert."
+        }
+    ]
+}

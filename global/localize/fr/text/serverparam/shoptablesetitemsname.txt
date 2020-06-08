@@ -1,0 +1,388 @@
+{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "Équipement : Épée large"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "Équipement : Spathe"
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "Équipement : Ashura"
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "Équipement : Poings en bronze"
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "Équipement : Javelot"
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "Équipement : Couteau en bronze"
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "Équipement : Lame ninja"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "Équipement : Arc court"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "Équipement : Altaïr"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "Équipement : Bâton"
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "Équipement : Masse en bronze"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "Équipement : Cuirasse"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "Équipement : Chapeau en cuir"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "Équipement : Chemise en cuir"
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "Équipement : Casque en bronze"
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "Équipement : Anneau Rhinopierre"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "Équipement : Hache de combat"
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "Lot d'objets curatifs pour la quête"
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "Lot d'Alcrist (Vert) pour tous les éléments"
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "Lot de jade I"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "Lot de jade II"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "1er lot de recettes pour des équipements R "
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "2ème lot de recettes pour des équipements R"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "Lot d’éveil de feu II"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "Lot d’éveil d'eau II"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "Lot d’éveil de vent II"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "Lot d’éveil de foudre II"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "Lot d’éveil de terre II"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "Lot d’éveil de glace II"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "Lot d’éveil de lumière II"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "Lot d’éveil d’ombre II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "Lot d’éveil de feu I"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "Lot d’éveil d'eau I"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "Lot d’éveil de vent I"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "Lot d’éveil de foudre I"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "Lot d’éveil de terre I"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "Lot d’éveil de glace I"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "Lot d’éveil de lumière I"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "Lot d’éveil d’ombre I"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "Lot d'âme d’éveil de feu (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "Lot d'âme d’éveil d'eau (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "Lot d'âme d’éveil de vent (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "Lot d'âme d’éveil de foudre (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "Lot d'âme d’éveil de terre (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "Lot d'âme d’éveil de glace (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "Lot d'âme d’éveil de lumière (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "Lot d'âme d’éveil d’ombre (2–4★)"
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "Lot d'entraînement arc-en-ciel"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "Ticket sélectionneur de Souvenir de Job (jaune) x4"
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "Ticket sélectionneur de Souvenir de Job (violet) x3"
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "[Pour les débutants] Lot d'entraînement de job"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "[Pour les débutants] Lot d'amélioration d'unité"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "Restauration d'endurance gratuite quotidienne"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "[Célébration pour la sortie du jeu] Lot d'entraînement arc-en-ciel"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "Lot de soutien pour l'histoire A"
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "Lot de soutien pour l'histoire B"
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "Lot d'entraînement arc-en-ciel"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "Restauration d'endurance gratuite quotidienne"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "Cube d’EXP (M) quotidien gratuit"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "Lot de cube d'EXP quotidien [A]"
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "Lot quotidien des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "Lot de souvenir confus quotidien"
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "Lot de cube d'EXP quotidien [B]"
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "Lot de foudre des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "Lot de lumière des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "Lot de terre des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "Lot d'ombre des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "Lot d'éveil d'unité des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "Lot d'entraînement de Ramza "
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "Lot de l'unité Ramza"
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "Lot de feu des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "Lot de glace des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "Tickets évit'quête (Histoire) quotidiens gratuits"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "Lot de foudre des « 4 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "Lot de lumière des « 4 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "Lot de terre des « 4 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "Lot d'ombre des « 4 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "Lot d'éveil d'unité des « 4 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "Lot pour la Limite"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "Lot d'aptitude d'équipement"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "Lot d'éveil d'unité"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "Lot d'eau des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "Lot de lumière des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "Lot de terre des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "Lot d'entraînement d'atout-vision [A]"
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "Lot d'entraînement d'atout-vision [B]"
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "Lot d'entraînement d'atout-vision des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "Lot d'ombre des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "Lot de glace des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "Œuf de croissance (R) gratuit quotidien"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "« 5 millions de téléchargements » - Lot d'unité UR"
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "« 5 millions de téléchargements » - Lot d'atout-vision UR"
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "Lot d’éveil de vent"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "Lot d’éveil de feu"
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "Lot d'entraînement d'unité"
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "Lot d'entraînement d'atout-vision"
+        }
+    ]
+}

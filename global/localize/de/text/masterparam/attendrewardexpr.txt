@@ -1,0 +1,24 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "Teilnahmebelohnungen – Rang 1"
+        },
+        {
+            "key": "2",
+            "value": "Teilnahmebelohnungen – Rang 2"
+        },
+        {
+            "key": "3",
+            "value": "Teilnahmebelohnungen – Rang 3"
+        },
+        {
+            "key": "4",
+            "value": "Teilnahmebelohnungen – Rang 4"
+        },
+        {
+            "key": "5",
+            "value": "Teilnahmebelohnungen – Rang 5"
+        }
+    ]
+}

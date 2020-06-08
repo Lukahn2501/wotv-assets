@@ -1,0 +1,332 @@
+{
+    "infos": [
+        {
+            "key": "init",
+            "value": "튜토리얼 소환"
+        },
+        {
+            "key": "p_gacha_unit_20191114",
+            "value": "출시 기념 UR 유닛 보장 10회 소환"
+        },
+        {
+            "key": "p_gacha_vc_20191114",
+            "value": "출시 기념 UR 비전 카드 보장 10회 소환"
+        },
+        {
+            "key": "ff14_gacha_20191114_01",
+            "value": "파이널판타지14 콜라보 기념 소환"
+        },
+        {
+            "key": "ff14_gacha_20191114_10",
+            "value": "파이널판타지14 콜라보 기념 소환 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_20191118_10",
+            "value": "100만 다운로드 기념 무료! 10회 소환!"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step1",
+            "value": "스타트 대시 3 스텝 업 소환 STEP1"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step2",
+            "value": "스타트 대시 3 스텝 업 소환 STEP2"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step3",
+            "value": "스타트 대시 3 스텝 업 소환 STEP3"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_01",
+            "value": "신규 유닛/비전 카드 소환"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_10",
+            "value": "신규 유닛/비전 카드 소환 10회 소환"
+        },
+        {
+            "key": "p_gacha_unit_GL20200408_10",
+            "value": "200만 다운로드 기념 UR 유닛 1명 보장 10회 소환"
+        },
+        {
+            "key": "p_gacha_vc_GL20200408_10",
+            "value": "200만 다운로드 기념 UR 비전 카드 1장 보장 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_GL20200408_10",
+            "value": "200만 다운로드 기념 무료 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_GL20200415_10",
+            "value": "200만 다운로드 기념 무료 10회 소환 제2탄"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_01",
+            "value": "200만 다운로드 기념 픽업 소환"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_10",
+            "value": "200만 다운로드 기념 픽업 소환 10회 소환"
+        },
+        {
+            "key": "p_gacha_unit_gl20200422_10",
+            "value": "FFT 콜라보 기념 UR 유닛 1명 보장 10회 소환"
+        },
+        {
+            "key": "p_gacha_vc_gl20200422_10",
+            "value": "FFT 콜라보 기념 UR 비전 카드 1장 보장 10회 소환"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_1",
+            "value": "FFT 콜라보 기념 소환~오를란두~"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_10",
+            "value": "FFT 콜라보 기념 소환~오를란두~ 10회 소환"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_1",
+            "value": "FFT 콜라보 기념 소환~람자~"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_10",
+            "value": "FFT 콜라보 기념 소환~람자~ 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_1",
+            "value": "FFT 콜라보 일일 무료 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_2",
+            "value": "FFT 콜라보 일일 무료 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_3",
+            "value": "FFT 콜라보 일일 무료 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_4",
+            "value": "FFT 콜라보 일일 무료 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_5",
+            "value": "FFT 콜라보 일일 무료 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_6",
+            "value": "FFT 콜라보 일일 무료 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_7",
+            "value": "FFT 콜라보 일일 무료 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_8",
+            "value": "FFT 콜라보 일일 무료 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_9",
+            "value": "FFT 콜라보 일일 무료 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_10",
+            "value": "FFT 콜라보 일일 무료 소환"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_01",
+            "value": "300만 다운로드 기념 픽업 소환"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_10",
+            "value": "300만 다운로드 기념 픽업 소환 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_01",
+            "value": "300만 다운로드 기념 픽업 소환 제2탄"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_10",
+            "value": "300만 다운로드 기념 픽업 소환 제2탄 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_01",
+            "value": "신규 유닛 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_10",
+            "value": "신규 유닛 소환 10회 소환"
+        },
+        {
+            "key": "p_gacha_unit_gl20200506_10",
+            "value": "400만 다운로드 기념 UR 유닛 1명 보장 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200513_10",
+            "value": "제6장 개방 기념 무료 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_01",
+            "value": "장비 육성 퀘스트 응원 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_10",
+            "value": "장비 육성 퀘스트 응원 소환 10회 소환"
+        },
+        {
+            "key": "p_gacha_vc_gl20200513_10",
+            "value": "제6장 개방 기념 UR 비전 카드 1장 보장 10회 소환"
+        },
+        {
+            "key": "gacha_vc_gl20200513_01",
+            "value": "신규 비전 카드 소환"
+        },
+        {
+            "key": "gacha_vc_gl20200513_10",
+            "value": "신규 비전 카드 소환 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_01",
+            "value": "신규 유닛/비전 카드 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_10",
+            "value": "신규 유닛/비전 카드 소환 10회 소환"
+        },
+        {
+            "key": "p_gacha_unit_gl20200520_10",
+            "value": "500만 다운로드 기념 UR 유닛 1명 보장 10회 소환"
+        },
+        {
+            "key": "p_gacha_vc_gl20200520_10",
+            "value": "500만 다운로드 기념 UR 비전 카드 1장 보장 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200520_10",
+            "value": "500만 다운로드 기념 무료 10회 소환"
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200520_10",
+            "value": "일본판 출시 6개월 기념 UR 4 슬롯"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_01",
+            "value": "500만 다운로드 기념 픽업 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_10",
+            "value": "500만 다운로드 기념 픽업 소환 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_01",
+            "value": "500만 다운로드 기념 픽업 소환 제2탄(길가메시, 슈텔) 소환 메달 B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_10",
+            "value": "500만 다운로드 기념 픽업 소환 제2탄(길가메시, 슈텔) 소환 메달 B"
+        },
+        {
+            "key": "no_coin_gacha_gl20200527_10",
+            "value": "[1회 한정] 500만 다운로드 기념 무료 10회 소환 제2탄"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10",
+            "value": "500만 다운로드 기념 보너스 포함 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_1",
+            "value": "500만 다운로드 기념 보너스 포함 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_2",
+            "value": "500만 다운로드 기념 보너스 포함 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_3",
+            "value": "500만 다운로드 기념 보너스 포함 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_4",
+            "value": "500만 다운로드 기념 보너스 포함 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200603_10",
+            "value": "버전 업 기념 무료 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_01",
+            "value": "신규 유닛/비전 카드 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_10",
+            "value": "신규 유닛/비전 카드 소환 10회 소환"
+        },
+        {
+            "key": "p_gacha_unit_gl20200603_10",
+            "value": "버전 업 기념 UR 유닛 1명 보장 10회 소환"
+        },
+        {
+            "key": "p_gacha_vc_gl20200603_10",
+            "value": "버전 업 기념 UR 비전 카드 1장 보장 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_01",
+            "value": "버전 업 기념 픽업 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_10",
+            "value": "버전 업 기념 픽업 소환 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_1",
+            "value": "버전 업 기념 5 스텝 업 소환 STEP1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_2",
+            "value": "버전 업 기념 5 스텝 업 소환 STEP2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_3",
+            "value": "버전 업 기념 5 스텝 업 소환 STEP3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_4",
+            "value": "버전 업 기념 5 스텝 업 소환 STEP4"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_5",
+            "value": "버전 업 기념 5 스텝 업 소환 STEP5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10",
+            "value": ""
+        },
+        {
+            "key": "global_pickup_sterne_20200325_01",
+            "value": "출시 기념 픽업 소환"
+        },
+        {
+            "key": "global_pickup_sterne_20200325_10",
+            "value": "출시 기념 10회 픽업 소환"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_01",
+            "value": "신규 유닛/비전 카드 소환"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_10",
+            "value": "신규 유닛/비전 카드 소환 10회 소환"
+        },
+        {
+            "key": "global_ur_unit_fredrica_20200401",
+            "value": "UR 유닛 보장 10회 소환"
+        },
+        {
+            "key": "global_ur_vc_fredrica_20200401",
+            "value": "UR 비전 카드 보장 10회 소환"
+        }
+    ]
+}

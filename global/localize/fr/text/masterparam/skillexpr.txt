@@ -1,0 +1,5340 @@
+{
+    "infos": [
+        {
+            "key": "SK_EMPTY",
+            "value": ""
+        },
+        {
+            "key": "SK_FROG_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CRYSTAL_NORMAL",
+            "value": "Restaure les PV/PT (S)."
+        },
+        {
+            "key": "SK_LW_WAR_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_M_1",
+            "value": "Inflige des dégâts (M) à la cible et accorde Tue-bêtes."
+        },
+        {
+            "key": "SK_LW_WAR_M_4",
+            "value": "Inflige des dégâts (L) à la cible et accorde Anthropophage."
+        },
+        {
+            "key": "SK_LW_WAR_S_3",
+            "value": "Inflige des dégâts (S) et bloque l'activation des aptitudes."
+        },
+        {
+            "key": "SK_LW_WAR_S_1_INIT",
+            "value": "Inflige des dégâts (XS) à la cible."
+        },
+        {
+            "key": "SK_LW_WAR_M_2_INIT",
+            "value": "Augmente l'ATT du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_WAR_S_2",
+            "value": "Inflige des dégâts (M) à la cible et la repousse d'1 case."
+        },
+        {
+            "key": "SK_LW_WAR_M_3",
+            "value": "Restaure les PV (S) des alliés dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_WAR_R_1",
+            "value": "Chance de contre-attaque lorsque des dégâts physiques sont subis."
+        },
+        {
+            "key": "SK_LW_WAR_R_1_MONT",
+            "value": "Chance de contre-attaque lorsque des dégâts physiques sont subis."
+        },
+        {
+            "key": "SK_LW_WAR_P_1",
+            "value": "Augmente l'ATT."
+        },
+        {
+            "key": "SK_LW_WAR_P_1_MONT",
+            "value": "Augmente l'ATT."
+        },
+        {
+            "key": "SK_LW_WAR_M_1_SUB",
+            "value": "Inflige des dégâts (M) à la cible et accorde Tue-bêtes."
+        },
+        {
+            "key": "SK_LW_WAR_M_4_SUB",
+            "value": "Inflige des dégâts (L) à la cible et accorde Anthropophage."
+        },
+        {
+            "key": "SK_LW_WAR_S_3_SUB",
+            "value": "Inflige des dégâts (S) et bloque l'activation des aptitudes."
+        },
+        {
+            "key": "SK_LW_WAR_S_1",
+            "value": "Inflige des dégâts (XS) à la cible."
+        },
+        {
+            "key": "SK_LW_WAR_M_2",
+            "value": "Augmente l'ATT du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_KNT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_M_4",
+            "value": "Inflige des dégâts (M) à la cible et réduit son ATT/MAGIE/AGI pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_KNT_S_2",
+            "value": "Réduit les PT de la cible."
+        },
+        {
+            "key": "SK_LW_KNT_M_3",
+            "value": "Réduit les PA de la cible."
+        },
+        {
+            "key": "SK_LW_KNT_S_1_INIT",
+            "value": "Augmente les PV max du lanceur pendant 3 tours et restaure la différence."
+        },
+        {
+            "key": "SK_LW_KNT_M_1_INIT",
+            "value": "Inflige des dégâts (S) aux unités dans la zone ciblée et réduit leur ATT pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_KNT_M_2",
+            "value": "Inflige des dégâts (S) aux unités dans la zone ciblée et réduit leur MAGIE pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_KNT_S_3",
+            "value": "Inflige des dégâts (M) à la cible et inflige Incapacité pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_KNT_S_4",
+            "value": "Inflige des dégâts (S) aux unités dans la zone ciblée et réduit leur AGI pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_KNT_R_1",
+            "value": "Chance de réduire les dégâts lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_LW_KNT_P_1",
+            "value": "Augmente la résistance aux malus."
+        },
+        {
+            "key": "SK_LW_KNT_P_2",
+            "value": "Augmente les PV max."
+        },
+        {
+            "key": "SK_LW_KNT_M_4_SUB",
+            "value": "Inflige des dégâts (M) à la cible et réduit son ATT/MAGIE/AGI pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_KNT_S_2_SUB",
+            "value": "Réduit les PT de la cible."
+        },
+        {
+            "key": "SK_LW_KNT_M_3_SUB",
+            "value": "Réduit les PA de la cible."
+        },
+        {
+            "key": "SK_LW_KNT_S_1",
+            "value": "Augmente les PV max du lanceur pendant 3 tours et restaure la différence."
+        },
+        {
+            "key": "SK_LW_KNT_M_1",
+            "value": "Inflige des dégâts (S) aux unités dans la zone ciblée et réduit leur ATT pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_PLD_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_M_4",
+            "value": "Accorde une barrière au lanceur qui réduit les DgtP (3 fois)."
+        },
+        {
+            "key": "SK_LW_PLD_M_2",
+            "value": "Le lanceur survit 1 fois à des dégâts mortels."
+        },
+        {
+            "key": "SK_LW_PLD_S_7",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_PLD_M_1_INIT",
+            "value": "Restaure les PV (S) du lanceur."
+        },
+        {
+            "key": "SK_LW_PLD_S_5_INIT",
+            "value": "Inflige des dégâts (M) à la cible et confère une chance d'infliger Étourdissement pendant 1 tour."
+        },
+        {
+            "key": "SK_LW_PLD_S_6",
+            "value": "Augmente considérablement la DEF/PSY du lanceur pendant 1 tour mais réduit considérablement le taux d'esquive pendant 1 tour."
+        },
+        {
+            "key": "SK_LW_PLD_S_2",
+            "value": "Augmente les PV max des alliés dans la zone autour du lanceur pendant 3 tours et restaure la différence."
+        },
+        {
+            "key": "SK_LW_PLD_M_3",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et augmente les chances d'être pris pour cible."
+        },
+        {
+            "key": "SK_LW_PLD_R_1",
+            "value": "Chance de réduire les dégâts lorsqu'une AttP est subie."
+        },
+        {
+            "key": "SK_LW_PLD_P_1",
+            "value": "Augmente les PV max/DEF."
+        },
+        {
+            "key": "SK_LW_PLD_M_4_SUB",
+            "value": "Accorde une barrière au lanceur qui réduit les DgtP (3 fois)."
+        },
+        {
+            "key": "SK_LW_PLD_M_2_SUB",
+            "value": "Le lanceur survit 1 fois à des dégâts mortels."
+        },
+        {
+            "key": "SK_LW_PLD_S_7_SUB",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_PLD_M_1",
+            "value": "Restaure les PV (S) du lanceur."
+        },
+        {
+            "key": "SK_LW_PLD_S_5",
+            "value": "Inflige des dégâts (M) à la cible et confère une chance d'infliger Étourdissement pendant 1 tour."
+        },
+        {
+            "key": "SK_LW_MGK_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_M_4",
+            "value": "Inflige des dégâts de feu (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Cryophage."
+        },
+        {
+            "key": "SK_LW_MGK_WATR_M_4",
+            "value": "Inflige des dégâts d'eau (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Pyrophage."
+        },
+        {
+            "key": "SK_LW_MGK_ICE_M_4",
+            "value": "Inflige des dégâts de glace (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Éophage."
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_M_4",
+            "value": "Inflige des dégâts de terre (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Foudrophage."
+        },
+        {
+            "key": "SK_LW_MGK_THUN_M_4",
+            "value": "Inflige des dégâts de foudre (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Hydrophage."
+        },
+        {
+            "key": "SK_LW_MGK_WIND_M_4",
+            "value": "Inflige des dégâts de vent (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Terraphage."
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_M_4",
+            "value": "Inflige des dégâts de lumière (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Noctophage."
+        },
+        {
+            "key": "SK_LW_MGK_DARK_M_4",
+            "value": "Inflige des dégâts d'ombre (L) qui dépendent de la MAGIE du lanceur aux cibles dans la zone ciblée et accorde Luminophage."
+        },
+        {
+            "key": "SK_LW_MGK_M_2",
+            "value": "Inflige des dégâts (M) qui dépendent de la MAGIE du lanceur à la cible, avec une chance de réduire sa Bravoure."
+        },
+        {
+            "key": "SK_LW_MGK_S_4",
+            "value": "Inflige des dégâts (M) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance d'infliger Silence pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_MGK_M_3",
+            "value": "Accorde une barrière au lanceur qui réduit les DgtM (3 fois)."
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_S_1_INIT",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur et accorde Cryophage."
+        },
+        {
+            "key": "SK_LW_MGK_WATR_S_1_INIT",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Pyrophage."
+        },
+        {
+            "key": "SK_LW_MGK_ICE_S_1_INIT",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Éophage."
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_S_1_INIT",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Foudrophage."
+        },
+        {
+            "key": "SK_LW_MGK_THUN_S_1_INIT",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Hydrophage."
+        },
+        {
+            "key": "SK_LW_MGK_WIND_S_1_INIT",
+            "value": "Inflige des dégâts de vent (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Terraphage."
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_S_1_INIT",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Noctophage."
+        },
+        {
+            "key": "SK_LW_MGK_DARK_S_1_INIT",
+            "value": "Inflige des dégâts d'ombre (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Luminophage."
+        },
+        {
+            "key": "SK_LW_MGK_M_1_INIT",
+            "value": "Inflige des dégâts (M) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_MGK_S_3",
+            "value": "Augmente la Rés att magiques des alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_MGK_S_2",
+            "value": "Inflige des dégâts (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et augmente les chances d'être pris pour cible."
+        },
+        {
+            "key": "SK_LW_MGK_R_1",
+            "value": "Chance de réduire les dégâts lorsqu'une AttM est subie."
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_P_1",
+            "value": "Augmente la Rés att magiques/Rés feu."
+        },
+        {
+            "key": "SK_LW_MGK_WATR_P_1",
+            "value": "Augmente la Rés att magiques/Rés eau."
+        },
+        {
+            "key": "SK_LW_MGK_ICE_P_1",
+            "value": "Augmente la Rés att magiques/Rés glace."
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_P_1",
+            "value": "Augmente la Rés att magiques/Rés terre."
+        },
+        {
+            "key": "SK_LW_MGK_THUN_P_1",
+            "value": "Augmente la Rés att magiques/Rés foudre."
+        },
+        {
+            "key": "SK_LW_MGK_WIND_P_1",
+            "value": "Augmente la Rés att magiques/Rés vent."
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_P_1",
+            "value": "Augmente la Rés att magiques/Rés lumière."
+        },
+        {
+            "key": "SK_LW_MGK_DARK_P_1",
+            "value": "Augmente la Rés att magiques/Rés ombre."
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_M_4_SUB",
+            "value": "Inflige des dégâts de feu (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Cryophage."
+        },
+        {
+            "key": "SK_LW_MGK_WATR_M_4_SUB",
+            "value": "Inflige des dégâts d'eau (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Pyrophage."
+        },
+        {
+            "key": "SK_LW_MGK_ICE_M_4_SUB",
+            "value": "Inflige des dégâts de glace (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Éophage."
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_M_4_SUB",
+            "value": "Inflige des dégâts de terre (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Foudrophage."
+        },
+        {
+            "key": "SK_LW_MGK_THUN_M_4_SUB",
+            "value": "Inflige des dégâts de foudre (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Hydrophage."
+        },
+        {
+            "key": "SK_LW_MGK_WIND_M_4_SUB",
+            "value": "Inflige des dégâts de vent (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Terraphage."
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_M_4_SUB",
+            "value": "Inflige des dégâts de lumière (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et accorde Noctophage."
+        },
+        {
+            "key": "SK_LW_MGK_DARK_M_4_SUB",
+            "value": "Inflige des dégâts d'ombre (L) qui dépendent de la MAGIE du lanceur aux cibles dans la zone ciblée et accorde Luminophage."
+        },
+        {
+            "key": "SK_LW_MGK_M_2_SUB",
+            "value": "Inflige des dégâts (M) qui dépendent de la MAGIE du lanceur à la cible, avec une chance de réduire sa Bravoure."
+        },
+        {
+            "key": "SK_LW_MGK_S_4_SUB",
+            "value": "Inflige des dégâts (M) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance d'infliger Silence pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_MGK_M_3_SUB",
+            "value": "Accorde une barrière au lanceur qui réduit les DgtM (3 fois)."
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_S_1",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur et accorde Cryophage."
+        },
+        {
+            "key": "SK_LW_MGK_WATR_S_1",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Pyrophage."
+        },
+        {
+            "key": "SK_LW_MGK_ICE_S_1",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Éophage."
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_S_1",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Foudrophage."
+        },
+        {
+            "key": "SK_LW_MGK_THUN_S_1",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Hydrophage."
+        },
+        {
+            "key": "SK_LW_MGK_WIND_S_1",
+            "value": "Inflige des dégâts de vent (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Terraphage."
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_S_1",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Noctophage."
+        },
+        {
+            "key": "SK_LW_MGK_DARK_S_1",
+            "value": "Inflige des dégâts d'ombre (S) qui dépendent de la MAGIE du lanceur à la cible et accorde Luminophage."
+        },
+        {
+            "key": "SK_LW_MGK_M_1",
+            "value": "Inflige des dégâts (M) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_SWN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_M_4",
+            "value": "Consomme les PV du lanceur pour infliger des dégâts (L) aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_SWN_S_2",
+            "value": "Inflige des dégâts (S) qui dépendent des PV max du lanceur et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_LW_SWN_S_3",
+            "value": "Inflige des dégâts (M) à la cible, et confère une chance d'infliger Peine de mort."
+        },
+        {
+            "key": "SK_LW_SWN_M_2_INIT",
+            "value": "Consomme les PV du lanceur pour augmenter son ATT pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_SWN_M_5_INIT",
+            "value": "Absorbe les PT de la cible."
+        },
+        {
+            "key": "SK_LW_SWN_M_1",
+            "value": "Inflige des dégâts (M) à la cible."
+        },
+        {
+            "key": "SK_LW_SWN_S_1",
+            "value": "Inflige des dégâts (XS) à la cible avec une faible chance d'infliger Paralysie pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_SWN_S_4",
+            "value": "Consomme les PV du lanceur pour infliger des dégâts (L) aux cibles dans la zone autour de lui."
+        },
+        {
+            "key": "SK_LW_SWN_R_1",
+            "value": "Chance de contre-attaque lorsque des dégâts physiques sont subis."
+        },
+        {
+            "key": "SK_LW_SWN_P_1",
+            "value": "Augmente considérablement l'ATT et réduit la Rés à toutes les attaques."
+        },
+        {
+            "key": "SK_LW_SWN_M_4_SUB",
+            "value": "Consomme les PV du lanceur pour infliger des dégâts (L) aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_SWN_S_2_SUB",
+            "value": "Inflige des dégâts (S) qui dépendent des PV max du lanceur et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_LW_SWN_S_3_SUB",
+            "value": "Inflige des dégâts (M) à la cible, et confère une chance d'infliger Peine de mort."
+        },
+        {
+            "key": "SK_LW_SWN_M_2",
+            "value": "Consomme les PV du lanceur pour augmenter son ATT pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_SWN_M_5",
+            "value": "Absorbe les PT de la cible."
+        },
+        {
+            "key": "SK_LW_MNK_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_M_3",
+            "value": "Restaure les PV/PT (M) des alliés dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_MNK_M_2",
+            "value": "Dissipe Poison, Cécité, Sommeil, Silence, Paralysie, Confusion, Pétrification, Crapaud, Immobilisation, Incapacité, Berserk et Étourdissement pour tous les alliés autour du lanceur."
+        },
+        {
+            "key": "SK_LW_MNK_S_5",
+            "value": "Chance de guérir une cible de KO. et restaure les PV (XS)."
+        },
+        {
+            "key": "SK_LW_MNK_S_4",
+            "value": "Chance d'infliger Peine de mort à la cible, ce qui la mettra K.O au début sa quatrième action."
+        },
+        {
+            "key": "SK_LW_MNK_M_1_INIT",
+            "value": "Inflige des dégâts (S) en 2 coups à la cible."
+        },
+        {
+            "key": "SK_LW_MNK_S_2_INIT",
+            "value": "Augmente considérablement l'ATT du lanceur pendant 1 tour."
+        },
+        {
+            "key": "SK_LW_MNK_M_4",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée (Les cibles avec le statut apesanteur ne seront pas atteintes)."
+        },
+        {
+            "key": "SK_LW_MNK_S_3",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_LW_MNK_R_1",
+            "value": "Chance de contre-attaque lorsque des dégâts physiques sont subis."
+        },
+        {
+            "key": "SK_LW_MNK_P_1",
+            "value": "Augmente l'Att contondante."
+        },
+        {
+            "key": "SK_LW_MNK_P_2",
+            "value": "Augmente les PV max."
+        },
+        {
+            "key": "SK_LW_MNK_M_3_SUB",
+            "value": "Restaure les PV/PT (M) des alliés dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_MNK_M_2_SUB",
+            "value": "Dissipe Poison, Cécité, Sommeil, Silence, Paralysie, Confusion, Pétrification, Crapaud, Immobilisation, Incapacité, Berserk et Étourdissement pour tous les alliés autour du lanceur."
+        },
+        {
+            "key": "SK_LW_MNK_S_5_SUB",
+            "value": "Chance de guérir une cible de KO. et restaure les PV (XS)."
+        },
+        {
+            "key": "SK_LW_MNK_S_4_SUB",
+            "value": "Chance d'infliger Peine de mort à la cible, ce qui la mettra K.O au début sa quatrième action."
+        },
+        {
+            "key": "SK_LW_MNK_M_1",
+            "value": "Inflige des dégâts (S) en 2 coups à la cible."
+        },
+        {
+            "key": "SK_LW_MNK_S_2",
+            "value": "Augmente considérablement l'ATT du lanceur pendant 1 tour."
+        },
+        {
+            "key": "SK_LW_SAM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_M_4",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et accorde Tue-machines/Tue-pierres."
+        },
+        {
+            "key": "SK_LW_SAM_S_4",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur et confère une chance d'infliger Lenteur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_SAM_M_3",
+            "value": "Déplace le lanceur jusqu'à la case ciblée."
+        },
+        {
+            "key": "SK_LW_SAM_M_1_INIT",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_LW_SAM_S_3_INIT",
+            "value": "Augmente la Bravoure des alliés dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_SAM_S_1",
+            "value": "Augmente l'ATT/taux de coups critiques du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_SAM_M_2",
+            "value": "Augmente la taux d'esquive des alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_SAM_S_2",
+            "value": "Inflige des dégâts (S) aux cibles dans la zone autour du lanceur et confère une chance d'infliger Cécité pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_SAM_R_1",
+            "value": "Chance d'augmenter le taux d'esquive du lanceur pendant 3 tours lorsque des dégâts sont subis (Cumulable jusqu'à 3 fois)."
+        },
+        {
+            "key": "SK_LW_SAM_P_1",
+            "value": "Augmente l'AttP/taux d'esquive et réduit la DEF."
+        },
+        {
+            "key": "SK_LW_SAM_M_4_SUB",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et accorde Tue-machines/Tue-pierres."
+        },
+        {
+            "key": "SK_LW_SAM_S_4_SUB",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur et confère une chance d'infliger Lenteur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_SAM_M_3_SUB",
+            "value": "Déplace le lanceur jusqu'à la case ciblée."
+        },
+        {
+            "key": "SK_LW_SAM_M_1",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_LW_SAM_S_3",
+            "value": "Augmente la Bravoure des alliés dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_THI_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_M_3",
+            "value": "Inflige des dégâts (M) à la cible avec une chance de lui voler un objet."
+        },
+        {
+            "key": "SK_LW_THI_M_4",
+            "value": "Inflige des dégâts (L) à la cible avec garantie de coups critiques si le lanceur est derrière la cible."
+        },
+        {
+            "key": "SK_LW_THI_S_3",
+            "value": "Chance d'infliger Charme à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_THI_M_1_INIT",
+            "value": "Chance de voler un objet à l'ennemi."
+        },
+        {
+            "key": "SK_LW_THI_S_1_INIT",
+            "value": "Réduit le taux de précision de la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_THI_S_2",
+            "value": "Augmente le taux d'esquive du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_THI_S_4",
+            "value": "Inflige des dégâts (M) à la cible et confère une chance d'infliger Confusion pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_THI_M_2",
+            "value": "Réduit de moitié la jauge de CT de la cible et augmente l'AGI du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_THI_R_1",
+            "value": "Chance d'augmenter considérablement l'AGI du lanceur pendant 1 tour lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_LW_THI_P_1",
+            "value": "Déplacement +1 et augmente l'AGI."
+        },
+        {
+            "key": "SK_LW_THI_P_2",
+            "value": "Augmente les PA acquis."
+        },
+        {
+            "key": "SK_LW_THI_M_3_SUB",
+            "value": "Inflige des dégâts (M) à la cible avec une chance de lui voler un objet."
+        },
+        {
+            "key": "SK_LW_THI_M_4_SUB",
+            "value": "Inflige des dégâts (L) à la cible avec garantie de coups critiques si le lanceur est derrière la cible."
+        },
+        {
+            "key": "SK_LW_THI_S_3_SUB",
+            "value": "Chance d'infliger Charme à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_THI_M_1",
+            "value": "Chance de voler un objet à l'ennemi."
+        },
+        {
+            "key": "SK_LW_THI_S_1",
+            "value": "Réduit le taux de précision de la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_NIN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_M_4",
+            "value": "Inflige des dégâts (XS) en 3 coups à la cible avec une haute chance de coups critiques."
+        },
+        {
+            "key": "SK_LW_NIN_S_3",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Stop, interrompant momentanément le chargement de sa jauge de CT."
+        },
+        {
+            "key": "SK_LW_NIN_M_2",
+            "value": "Augmente considérablement le taux d'esquive du lanceur pendant 1 tour."
+        },
+        {
+            "key": "SK_LW_NIN_S_1_INIT",
+            "value": "Inflige des dégâts normaux (S) à la cible."
+        },
+        {
+            "key": "SK_LW_NIN_S_2_INIT",
+            "value": "Décroit la probabilité d'être ciblé par les ennemis."
+        },
+        {
+            "key": "SK_LW_NIN_M_3",
+            "value": "Chance d'infliger Poison aux cibles dans la zone autour du lanceur pendant 3 tours et déplace le lanceur sur la case ciblée après activation."
+        },
+        {
+            "key": "SK_LW_NIN_FIRE_M_1",
+            "value": "Inflige des dégâts de feu (M) à la cible."
+        },
+        {
+            "key": "SK_LW_NIN_ICE_M_1",
+            "value": "Inflige des dégâts de glace (M) à la cible."
+        },
+        {
+            "key": "SK_LW_NIN_WIND_M_1",
+            "value": "Inflige des dégâts de vent (M) à la cible."
+        },
+        {
+            "key": "SK_LW_NIN_SOIL_M_1",
+            "value": "Inflige des dégâts de terre (M) à la cible."
+        },
+        {
+            "key": "SK_LW_NIN_THUN_M_1",
+            "value": "Inflige des dégâts de foudre (M) à la cible."
+        },
+        {
+            "key": "SK_LW_NIN_WATR_M_1",
+            "value": "Inflige des dégâts d'eau (M) à la cible."
+        },
+        {
+            "key": "SK_LW_NIN_DARK_M_1",
+            "value": "Inflige des dégâts d'ombre (M) à la cible."
+        },
+        {
+            "key": "SK_LW_NIN_SHIN_M_1",
+            "value": "Inflige des dégâts de lumière (M) à la cible."
+        },
+        {
+            "key": "SK_LW_NIN_S_4",
+            "value": "Augmente considérablement le taux de précision du lanceur pendant 1 tour et garantit coups critiques."
+        },
+        {
+            "key": "SK_LW_NIN_R_1",
+            "value": "Chance d'infliger Poison pendant 3 tours après avoir subi des dégâts."
+        },
+        {
+            "key": "SK_LW_NIN_P_1",
+            "value": "Augmente l'AGI/CHA."
+        },
+        {
+            "key": "SK_LW_NIN_P_2",
+            "value": "Déplacement/Saut +1"
+        },
+        {
+            "key": "SK_LW_NIN_M_4_SUB",
+            "value": "Inflige des dégâts (XS) en 3 coups à la cible avec une haute chance de coups critiques."
+        },
+        {
+            "key": "SK_LW_NIN_S_3_SUB",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Stop, interrompant momentanément le chargement de sa jauge de CT."
+        },
+        {
+            "key": "SK_LW_NIN_M_2_SUB",
+            "value": "Augmente considérablement le taux d'esquive du lanceur pendant 1 tour."
+        },
+        {
+            "key": "SK_LW_NIN_S_1",
+            "value": "Inflige des dégâts normaux (S) à la cible."
+        },
+        {
+            "key": "SK_LW_NIN_S_2",
+            "value": "Décroit la probabilité d'être ciblé par les ennemis."
+        },
+        {
+            "key": "SK_LW_LAN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_M_4",
+            "value": "Inflige des dégâts (L) à la cible, Perforation et augmente le taux de coups critiques du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_LAN_S_4",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_LAN_S_3",
+            "value": "Inflige des dégâts (XS) à la cible avec une chance de déclencher Peine de mort, qui la mettra K.O au début de sa 4e action."
+        },
+        {
+            "key": "SK_LW_LAN_M_2_INIT",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_LW_LAN_S_2_INIT",
+            "value": "Augmente l'ATT/taux de coups critiques du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_LAN_M_3_INIT",
+            "value": "Réduit les PA de la cible et Perforation."
+        },
+        {
+            "key": "SK_LW_LAN_M_1_INIT",
+            "value": "Inflige des dégâts (M) à la cible avec Perforation et repousse d'une case."
+        },
+        {
+            "key": "SK_LW_LAN_S_1_INIT",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_LAN_R_1",
+            "value": "Chance de contre-attaquer avec Perforation en recevant des DgtP."
+        },
+        {
+            "key": "SK_LW_LAN_P_2",
+            "value": "Augmente les Att perçantes."
+        },
+        {
+            "key": "SK_LW_LAN_P_1",
+            "value": "Augmente le taux de coups critiques."
+        },
+        {
+            "key": "SK_LW_LAN_M_4_SUB",
+            "value": "Inflige des dégâts (L) à la cible, Perforation et augmente le taux de coups critiques du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_LAN_S_4_SUB",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_LAN_S_3_SUB",
+            "value": "Inflige des dégâts (XS) à la cible avec une chance de déclencher Peine de mort, qui la mettra K.O au début de sa 4e action."
+        },
+        {
+            "key": "SK_LW_LAN_M_2",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_LW_LAN_S_2",
+            "value": "Augmente l'ATT/taux de coups critiques du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_LAN_M_3",
+            "value": "Réduit les PA de la cible et Perforation."
+        },
+        {
+            "key": "SK_LW_LAN_M_1",
+            "value": "Inflige des dégâts (M) à la cible avec Perforation et repousse d'une case."
+        },
+        {
+            "key": "SK_LW_LAN_S_1",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_DRG_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_S_3",
+            "value": "Fait Sauter le lanceur puis inflige des dégâts (L) à la cible après un délai."
+        },
+        {
+            "key": "SK_LW_DRG_S_4",
+            "value": "Fait Sauter le lanceur puis inflige des dégâts (L) à la cible après un délai."
+        },
+        {
+            "key": "SK_LW_DRG_M_4",
+            "value": "Fait Sauter le lanceur et inflige des dégâts (M) après un délai."
+        },
+        {
+            "key": "SK_LW_DRG_S_1_INIT",
+            "value": "Fait Sauter le lanceur et inflige des dégâts (M) après un délai."
+        },
+        {
+            "key": "SK_LW_DRG_M_3_INIT",
+            "value": "Augmente l'ATT du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_DRG_M_1",
+            "value": "Chance de réduire la Bravoure des cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_DRG_M_2",
+            "value": "Augmente le Saut/Déplacement du lanceur de 1 pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_DRG_R_1",
+            "value": "Chance de contre-attaque lorsque des dégâts sont subis et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_LW_DRG_P_1",
+            "value": "Saut +1"
+        },
+        {
+            "key": "SK_LW_DRG_P_2",
+            "value": "Augmente les PV max."
+        },
+        {
+            "key": "SK_LW_DRG_S_3_SUB",
+            "value": "Fait Sauter le lanceur puis inflige des dégâts (L) à la cible après un délai."
+        },
+        {
+            "key": "SK_LW_DRG_S_4_SUB",
+            "value": "Fait Sauter le lanceur puis inflige des dégâts (L) à la cible après un délai."
+        },
+        {
+            "key": "SK_LW_DRG_M_4_SUB",
+            "value": "Fait Sauter le lanceur et inflige des dégâts (M) après un délai."
+        },
+        {
+            "key": "SK_LW_DRG_S_1",
+            "value": "Fait Sauter le lanceur et inflige des dégâts (M) après un délai."
+        },
+        {
+            "key": "SK_LW_DRG_M_3",
+            "value": "Augmente l'ATT du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_HUN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_M_4",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_HUN_M_2",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_HUN_S_4",
+            "value": "Inflige des dégâts (L) à la cible."
+        },
+        {
+            "key": "SK_LW_HUN_S_2_INIT",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_LW_HUN_M_3_INIT",
+            "value": "Inflige des dégâts (S) à la cible, et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_HUN_S_1",
+            "value": "Augmente considérablement le taux d'esquive du lanceur pendant 1 tour mais réduit sa Rés à tous les éléments et à toutes les attaques."
+        },
+        {
+            "key": "SK_LW_HUN_M_1",
+            "value": "Inflige des dégâts (M) à la cible (ne peut pas rater)."
+        },
+        {
+            "key": "SK_LW_HUN_S_3",
+            "value": "Inflige des dégâts (M) à la cible."
+        },
+        {
+            "key": "SK_LW_HUN_R_1",
+            "value": "Chance d'esquiver tous les types d'attaques."
+        },
+        {
+            "key": "SK_LW_HUN_P_1",
+            "value": "Portée +1 et augmente le taux de précision."
+        },
+        {
+            "key": "SK_LW_HUN_P_2",
+            "value": "Réduit considérablement le délai d'activation de compétence et augmente la puissance d'Att projectile."
+        },
+        {
+            "key": "SK_LW_HUN_M_4_SUB",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_HUN_M_2_SUB",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_HUN_S_4_SUB",
+            "value": "Inflige des dégâts (L) à la cible."
+        },
+        {
+            "key": "SK_LW_HUN_S_2",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_LW_HUN_M_3",
+            "value": "Inflige des dégâts (S) à la cible, et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GUN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_M_4",
+            "value": "Inflige des dégâts (L) à la cible et confère une chance d'infliger Incapacité pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GUN_M_3",
+            "value": "Inflige des dégâts (M) à la cible avec une chance élevée de coups critiques et repousse d'une case."
+        },
+        {
+            "key": "SK_LW_GUN_S_4",
+            "value": "Inflige des dégâts (M) en 2 coups à la cible."
+        },
+        {
+            "key": "SK_LW_GUN_M_1_INIT",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Cécité pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GUN_M_2_INIT",
+            "value": "Augmente l'Att projectile des alliés dans la zone autour du lanceur pendant 3 tours et Portée +1."
+        },
+        {
+            "key": "SK_LW_GUN_S_3",
+            "value": "Inflige des dégâts projectiles (M) à la cible, Perforation et accorde Tue-bêtes."
+        },
+        {
+            "key": "SK_LW_GUN_S_1",
+            "value": "Inflige des dégâts projectiles (S) à la cible et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GUN_S_2",
+            "value": "Augmente le taux de coups critiques des alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GUN_R_1",
+            "value": "Chance de contre-attaque lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_LW_GUN_P_1",
+            "value": "Portée +2 et réduit le taux d'esquive."
+        },
+        {
+            "key": "SK_LW_GUN_P_2",
+            "value": "Augmente l'Att projectile."
+        },
+        {
+            "key": "SK_LW_GUN_M_4_SUB",
+            "value": "Inflige des dégâts (L) à la cible et confère une chance d'infliger Incapacité pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GUN_M_3_SUB",
+            "value": "Inflige des dégâts (M) à la cible avec une chance élevée de coups critiques et repousse d'une case."
+        },
+        {
+            "key": "SK_LW_GUN_S_4_SUB",
+            "value": "Inflige des dégâts (M) en 2 coups à la cible."
+        },
+        {
+            "key": "SK_LW_GUN_M_1",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Cécité pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GUN_M_2",
+            "value": "Augmente l'Att projectile des alliés dans la zone autour du lanceur pendant 3 tours et Portée +1."
+        },
+        {
+            "key": "SK_LW_BLM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BLM_M_7",
+            "value": "Inflige des dégâts normaux (XL) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_M_3",
+            "value": "Chance d'infliger Crapaud à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_M_5",
+            "value": "Inflige des dégâts de feu (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_ICE_M_5",
+            "value": "Inflige des dégâts de glace (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_WIND_M_5",
+            "value": "Inflige des dégâts de vent (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_M_5",
+            "value": "Inflige des dégâts de terre (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_THUN_M_5",
+            "value": "Inflige des dégâts de foudre (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_WATR_M_5",
+            "value": "Inflige des dégâts d'eau (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_DARK_M_5",
+            "value": "Inflige des dégâts d'ombre (M) qui dépendent de la MAGIE du lanceur aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_M_5",
+            "value": "Inflige des dégâts de lumière (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_S_1_INIT",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur."
+        },
+        {
+            "key": "SK_LW_BLM_ICE_S_1_INIT",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_WIND_S_1_INIT",
+            "value": "Inflige des dégâts de vent (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_S_1_INIT",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_THUN_S_1_INIT",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_WATR_S_1_INIT",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_DARK_S_1_INIT",
+            "value": "Inflige des dégâts d'ombre (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_S_1_INIT",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_M_1_INIT",
+            "value": "Inflige des dégâts normaux (XS) qui dépendent de la MAGIE du lanceur à la cible et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_BLM_S_3",
+            "value": "Inflige des dégâts normaux (S) qui dépendent de la MAGIE du lanceur à la cible et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_M_4",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_ICE_M_4",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_WIND_M_4",
+            "value": "Inflige des dégâts de vent (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_M_4",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_THUN_M_4",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_WATR_M_4",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_DARK_M_4",
+            "value": "Inflige des dégâts d'ombre (S) qui dépendent de la MAGIE du lanceur aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_M_4",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_S_4",
+            "value": "Chance d'infliger Sommeil à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_BLM_M_2",
+            "value": "Absorbe les PT de la cible."
+        },
+        {
+            "key": "SK_LW_BLM_R_1",
+            "value": "Chance de contre-attaque lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_LW_BLM_P_1",
+            "value": "Augmente la MAGIE."
+        },
+        {
+            "key": "SK_LW_BLM_M_7_SUB",
+            "value": "Inflige des dégâts normaux (XL) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_M_3_SUB",
+            "value": "Chance d'infliger Crapaud à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_M_5_SUB",
+            "value": "Inflige des dégâts de feu (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_ICE_M_5_SUB",
+            "value": "Inflige des dégâts de glace (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_WIND_M_5_SUB",
+            "value": "Inflige des dégâts de vent (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_M_5_SUB",
+            "value": "Inflige des dégâts de terre (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_THUN_M_5_SUB",
+            "value": "Inflige des dégâts de foudre (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_WATR_M_5_SUB",
+            "value": "Inflige des dégâts d'eau (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_DARK_M_5_SUB",
+            "value": "Inflige des dégâts d'ombre (M) qui dépendent de la MAGIE du lanceur aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_M_5_SUB",
+            "value": "Inflige des dégâts de lumière (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_S_1",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur."
+        },
+        {
+            "key": "SK_LW_BLM_ICE_S_1",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_WIND_S_1",
+            "value": "Inflige des dégâts de vent (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_S_1",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_THUN_S_1",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_WATR_S_1",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_DARK_S_1",
+            "value": "Inflige des dégâts d'ombre (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_S_1",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_BLM_M_1",
+            "value": "Inflige des dégâts normaux (XS) qui dépendent de la MAGIE du lanceur à la cible et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_WHM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WHM_S_4_1",
+            "value": "Restaure les PV (M) des alliés dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_WHM_M_4",
+            "value": "Accorde la Récup des alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_WHM_M_6",
+            "value": "Inflige des dégâts de lumière (L) qui dépendent de la MAGIE du lanceur à la cible et Coup garanti et accorde Tue-esprits."
+        },
+        {
+            "key": "SK_LW_WHM_S_4_3",
+            "value": "Chance de guérir une cible de KO. et restaure les PV."
+        },
+        {
+            "key": "SK_LW_WHM_S_1_INIT",
+            "value": "Restaure les PV (S) de la cible."
+        },
+        {
+            "key": "SK_LW_WHM_M_2_INIT",
+            "value": "Dissipe Poison, Cécité, Sommeil, Silence, Paralysie, Confusion, Pétrification, Crapaud, Immobilisation, Incapacité, Berserk et Étourdissement pour la cible."
+        },
+        {
+            "key": "SK_LW_WHM_M_1",
+            "value": "Restaure les PV (S) des alliés dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_WHM_S_2",
+            "value": "Accorde Bouclier pour un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_WHM_S_3",
+            "value": "Accorde une barrière à un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_WHM_M_3",
+            "value": "Restaure les PV de la cible (M)."
+        },
+        {
+            "key": "SK_LW_WHM_M_5",
+            "value": "Chance de guérir une cible de KO. et restaure les PV (XS)."
+        },
+        {
+            "key": "SK_LW_WHM_R_1",
+            "value": "Chance d'accorder Récup au lanceur pendant 3 tours après avoir subi des dégâts."
+        },
+        {
+            "key": "SK_LW_WHM_P_1",
+            "value": "Immunise contre Peine de mort."
+        },
+        {
+            "key": "SK_LW_WHM_S_4_1_SUB",
+            "value": "Restaure les PV (M) des alliés dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_WHM_M_4_SUB",
+            "value": "Accorde la Récup des alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_WHM_M_6_SUB",
+            "value": "Inflige des dégâts de lumière (L) qui dépendent de la MAGIE du lanceur à la cible et Coup garanti et accorde Tue-esprits."
+        },
+        {
+            "key": "SK_LW_WHM_S_4_3_SUB",
+            "value": "Chance de guérir une cible de KO. et restaure les PV."
+        },
+        {
+            "key": "SK_LW_WHM_S_1",
+            "value": "Restaure les PV (S) de la cible."
+        },
+        {
+            "key": "SK_LW_WHM_M_2",
+            "value": "Dissipe Poison, Cécité, Sommeil, Silence, Paralysie, Confusion, Pétrification, Crapaud, Immobilisation, Incapacité, Berserk et Étourdissement pour la cible."
+        },
+        {
+            "key": "SK_LW_CLR_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_M_3",
+            "value": "Immunise la cible contre Poison, Cécité, Sommeil, Silence, Paralysie et Confusion pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_CLR_M_4",
+            "value": "Dissipe Poison, Cécité, Sommeil, Silence, Paralysie, Confusion, Pétrification, Crapaud, Immobilisation, Incapacité, Berserk et Étourdissement pour tous les alliés dans la zone."
+        },
+        {
+            "key": "SK_LW_CLR_S_5",
+            "value": "Dissipe tous les malus infligés aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_CLR_M_2_INIT",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_CLR_S_1_INIT",
+            "value": "Restaure les PV (S) de la cible."
+        },
+        {
+            "key": "SK_LW_CLR_M_1",
+            "value": "Inflige des dégâts (S) à la cible et réduit l'AGI pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_CLR_M_5",
+            "value": "Augmente la Rés lumière des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_CLR_M_6",
+            "value": "Augmente la Rés ombre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_CLR_R_1",
+            "value": "Chance de régénérer des PV (S) en recevant des dégâts."
+        },
+        {
+            "key": "SK_LW_CLR_P_1",
+            "value": "Augmente la PSY."
+        },
+        {
+            "key": "SK_LW_CLR_M_3_SUB",
+            "value": "Immunise la cible contre Poison, Cécité, Sommeil, Silence, Paralysie et Confusion pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_CLR_M_4_SUB",
+            "value": "Dissipe Poison, Cécité, Sommeil, Silence, Paralysie, Confusion, Pétrification, Crapaud, Immobilisation, Incapacité, Berserk et Étourdissement pour tous les alliés dans la zone."
+        },
+        {
+            "key": "SK_LW_CLR_S_5_SUB",
+            "value": "Dissipe tous les malus infligés aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_CLR_M_2",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_CLR_S_1",
+            "value": "Restaure les PV (S) de la cible."
+        },
+        {
+            "key": "SK_LW_GRM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GRM_M_4",
+            "value": "Inflige des dégâts (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et réduit toutes les rés élémentaires pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_3",
+            "value": "Augmente la Rés feu des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_3",
+            "value": "Augmente la Rés glace des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_3",
+            "value": "Augmente la Rés vent des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_3",
+            "value": "Augmente la Rés terre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_3",
+            "value": "Augmente la Rés foudre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_3",
+            "value": "Augmente la Rés eau des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_3",
+            "value": "Augmente la Rés lumière des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_3",
+            "value": "Augmente la Rés ombre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_S_3",
+            "value": "Dissipe tous les malus infligés aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_GRM_M_5_INIT",
+            "value": "Inflige des dégâts non-élémentaires (M) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_2_INIT",
+            "value": "Augmente la Rés feu des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_2_INIT",
+            "value": "Augmente la Rés glace des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_2_INIT",
+            "value": "Augmente la Rés vent des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_2_INIT",
+            "value": "Augmente la Rés terre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_2_INIT",
+            "value": "Augmente la Rés foudre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_2_INIT",
+            "value": "Augmente la Rés eau des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_2_INIT",
+            "value": "Augmente la Rés lumière des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_2_INIT",
+            "value": "Augmente la Rés ombre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_S_1",
+            "value": "Réduit la DEF des cibles dans la zone pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_S_2",
+            "value": "Réduit la PSY des cibles dans la zone pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_M_1",
+            "value": "Augmente l'AGI de la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_R_1",
+            "value": "Dissipe tous les bonus de l'ennemi lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_LW_GRM_P_1",
+            "value": "Augmente la Rés aux malus/Rés att magiques."
+        },
+        {
+            "key": "SK_LW_GRM_P_2",
+            "value": "Augmente la durée de l'effet des bonus/malus du lanceur de 1 tour."
+        },
+        {
+            "key": "SK_LW_GRM_M_4_SUB",
+            "value": "Inflige des dégâts (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et réduit toutes les rés élémentaires pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_3_SUB",
+            "value": "Augmente la Rés feu des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_3_SUB",
+            "value": "Augmente la Rés glace des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_3_SUB",
+            "value": "Augmente la Rés vent des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_3_SUB",
+            "value": "Augmente la Rés terre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_3_SUB",
+            "value": "Augmente la Rés foudre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_3_SUB",
+            "value": "Augmente la Rés eau des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_3_SUB",
+            "value": "Augmente la Rés lumière des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_3_SUB",
+            "value": "Augmente la Rés ombre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_S_3_SUB",
+            "value": "Dissipe tous les malus infligés aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_GRM_M_5",
+            "value": "Inflige des dégâts non-élémentaires (M) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_2",
+            "value": "Augmente la Rés feu des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_2",
+            "value": "Augmente la Rés glace des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_2",
+            "value": "Augmente la Rés vent des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_2",
+            "value": "Augmente la Rés terre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_2",
+            "value": "Augmente la Rés foudre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_2",
+            "value": "Augmente la Rés eau des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_2",
+            "value": "Augmente la Rés lumière des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_2",
+            "value": "Augmente la Rés ombre des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_RDM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_M_4",
+            "value": "Inflige des dégâts (M) à la cible à deux reprises, et réduit sa PSY pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_RDM_S_3",
+            "value": "Inflige des dégâts (L) qui dépendent de la MAGIE du lanceur à la cible et bloque l'activation des aptitudes."
+        },
+        {
+            "key": "SK_LW_RDM_S_4",
+            "value": "Réduit considérablement le délai d'activation de compétence des alliés pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_RDM_M_2_INIT",
+            "value": "Dissipe Poison, Cécité, Sommeil, Silence, Paralysie, Confusion, Pétrification, Crapaud, Immobilisation, Incapacité, Berserk et Étourdissement pour la cible."
+        },
+        {
+            "key": "SK_LW_RDM_S_2_INIT",
+            "value": "Restaure les PV (S) des alliés dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_FIRE_M_1_INIT",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_ICE_M_1_INIT",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_WIND_M_1_INIT",
+            "value": "Inflige des dégâts de vent (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_SOIL_M_1_INIT",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_THUN_M_1_INIT",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_WATR_M_1_INIT",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_DARK_M_1_INIT",
+            "value": "Inflige des dégâts d'ombre (S) qui dépendent de la MAGIE du lanceur aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_SHIN_M_1_INIT",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_S_1",
+            "value": "Chance d'infliger Sommeil à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_RDM_R_1",
+            "value": "Chance d'esquiver des attaques magiques."
+        },
+        {
+            "key": "SK_LW_RDM_P_1",
+            "value": "Augmente les PA initiaux."
+        },
+        {
+            "key": "SK_LW_RDM_P_2",
+            "value": "Augmente la Rés att magiques"
+        },
+        {
+            "key": "SK_LW_RDM_M_4_SUB",
+            "value": "Inflige des dégâts (M) à la cible à deux reprises, et réduit sa PSY pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_RDM_S_3_SUB",
+            "value": "Inflige des dégâts (L) qui dépendent de la MAGIE du lanceur à la cible et bloque l'activation des aptitudes."
+        },
+        {
+            "key": "SK_LW_RDM_S_4_SUB",
+            "value": "Réduit considérablement le délai d'activation de compétence des alliés pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_RDM_M_2",
+            "value": "Dissipe Poison, Cécité, Sommeil, Silence, Paralysie, Confusion, Pétrification, Crapaud, Immobilisation, Incapacité, Berserk et Étourdissement pour la cible."
+        },
+        {
+            "key": "SK_LW_RDM_S_2",
+            "value": "Restaure les PV (S) des alliés dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_FIRE_M_1",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_ICE_M_1",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_WIND_M_1",
+            "value": "Inflige des dégâts de vent (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_SOIL_M_1",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_THUN_M_1",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_WATR_M_1",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_DARK_M_1",
+            "value": "Inflige des dégâts d'ombre (S) qui dépendent de la MAGIE du lanceur aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_RDM_SHIN_M_1",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_TIM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TIM_M_5",
+            "value": "Inflige des dégâts non-élémentaires (L) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_TIM_S_2",
+            "value": "Chance d'infliger Stop à une cible, interrompant momentanément le chargement de sa jauge de CT."
+        },
+        {
+            "key": "SK_LW_TIM_M_4",
+            "value": "Accorde Accélération à un allié."
+        },
+        {
+            "key": "SK_LW_TIM_M_3_INIT",
+            "value": "Inflige des dégâts non-élémentaires (M) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_TIM_S_3_INIT",
+            "value": "Chance d'infliger Immobilisation à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_TIM_M_1",
+            "value": "Accorde Booster pour un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_TIM_S_4",
+            "value": "Accorde Apesanteur pour un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_TIM_M_2",
+            "value": "Échange de position avec la cible."
+        },
+        {
+            "key": "SK_LW_TIM_S_1",
+            "value": "Chance d'infliger Lenteur à la cible pendant 3 tours, ralentissant ainsi le chargement de sa jauge de CT."
+        },
+        {
+            "key": "SK_LW_TIM_R_1",
+            "value": "Chance d'infliger Lenteur à la cible pendant 3 tours lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_LW_TIM_P_2",
+            "value": "Immunise contre Lenteur et Stop, mais empêche de bénéficier de Booster et Accélération."
+        },
+        {
+            "key": "SK_LW_TIM_P_1",
+            "value": "Réduit considérablement le délai d'activation de compétence."
+        },
+        {
+            "key": "SK_LW_TIM_M_5_SUB",
+            "value": "Inflige des dégâts non-élémentaires (L) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_TIM_S_2_SUB",
+            "value": "Chance d'infliger Stop à une cible, interrompant momentanément le chargement de sa jauge de CT."
+        },
+        {
+            "key": "SK_LW_TIM_M_4_SUB",
+            "value": "Accorde Accélération à un allié."
+        },
+        {
+            "key": "SK_LW_TIM_M_3",
+            "value": "Inflige des dégâts non-élémentaires (M) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_TIM_S_3",
+            "value": "Chance d'infliger Immobilisation à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GLMS_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_M_4",
+            "value": "Inflige des dégâts de glace (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_GLMS_M_3",
+            "value": "Fait apparaître une barrière autour du lanceur qui réduit les dégâts (3 fois)."
+        },
+        {
+            "key": "SK_LW_GLMS_S_4",
+            "value": "Après déplacement jusqu'à la case ciblée, inflige des dégâts (L) à un ennemi."
+        },
+        {
+            "key": "SK_LW_GLMS_S_2",
+            "value": "Réduit la Rés att tranchantes des cibles dans la zone pendant 3 tours puis inflige des dégâts (S)."
+        },
+        {
+            "key": "SK_LW_GLMS_M_2",
+            "value": "Accorde Booster au lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GLMS_S_1",
+            "value": "Restaure les PV (S) des alliés dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_GLMS_M_1",
+            "value": "Inflige des dégâts (M) qui dépendent de la MAGIE du lanceur à la cible et réduit son ATT pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GLMS_S_3",
+            "value": "Augmente la Foi du lanceur et de la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_GLMS_R_1",
+            "value": "Chance de Frappe préventive lorsque des dégâts physiques sont subis."
+        },
+        {
+            "key": "SK_LW_GLMS_P_1",
+            "value": "Augmente les PA acquis."
+        },
+        {
+            "key": "SK_LW_GLMS_P_2",
+            "value": "Saut +1 et accorde Apesanteur."
+        },
+        {
+            "key": "SK_LW_FINA_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_M_1",
+            "value": "Restaure les PV (M) des alliés dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_FINA_M_3",
+            "value": "Accorde la Récup des alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_FINA_M_4",
+            "value": "Chance de guérir une cible de KO. et restaure les PV."
+        },
+        {
+            "key": "SK_LW_FINA_M_2",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_FINA_S_1",
+            "value": "Restaure les PV (S) de la cible."
+        },
+        {
+            "key": "SK_LW_FINA_S_2",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_LW_FINA_S_3",
+            "value": "Dissipe Poison, Cécité, Sommeil, Silence, Paralysie, Confusion, Pétrification, Crapaud, Immobilisation, Incapacité, Berserk et Étourdissement pour la cible."
+        },
+        {
+            "key": "SK_LW_FINA_S_4",
+            "value": "Restaure les PV (S) des alliés dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_FINA_S_5",
+            "value": "Augmente la Foi d'un allié, augmente l'ATT et la MAGIE pendant 3 tours, et confère Bouclier."
+        },
+        {
+            "key": "SK_LW_FINA_S_6",
+            "value": "Inflige des dégâts (S) à la cible (ne peut pas rater)."
+        },
+        {
+            "key": "SK_LW_FINA_S_7",
+            "value": "Inflige des dégâts de lumière (S) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_FINA_R_1",
+            "value": "Chance d'accorder Récup au lanceur pendant 3 tours après avoir subi des dégâts."
+        },
+        {
+            "key": "SK_LW_FINA_P_1",
+            "value": "Immunise contre Peine de mort."
+        },
+        {
+            "key": "SK_LW_FINA_P_2",
+            "value": "Portée +1 et augmente la MAGIE."
+        },
+        {
+            "key": "SK_LW_YSTL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_M_1",
+            "value": "Inflige des dégâts de feu (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_YSTL_M_2",
+            "value": "Réduit le délai d'activation de compétence du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_YSTL_M_4",
+            "value": "Inflige des dégâts de feu (L) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_LW_YSTL_S_1",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur."
+        },
+        {
+            "key": "SK_LW_YSTL_S_2",
+            "value": "Après déplacement jusqu'à la case ciblée, chance d'augmenter la jauge CT des alliés dans une zone."
+        },
+        {
+            "key": "SK_LW_YSTL_M_3",
+            "value": "Augmente la MAGIE du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_YSTL_S_3",
+            "value": "Inflige des dégâts de feu (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_YSTL_R_1",
+            "value": "Confère une chance de restaurer les PA du lanceur lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_LW_YSTL_P_1",
+            "value": "Augmente la MAGIE."
+        },
+        {
+            "key": "SK_LW_TNCR_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_S_3",
+            "value": "Après déplacement jusqu'à la case ciblée, inflige des dégâts (M) à un ennemi."
+        },
+        {
+            "key": "SK_LW_TNCR_M_3",
+            "value": "Consomme les PV du lanceur pour lui accorder une barrière qui réduit les dégâts (3 fois)."
+        },
+        {
+            "key": "SK_LW_TNCR_M_4",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_TNCR_M_2",
+            "value": "Inflige des dégâts (S) en 2 coups à la cible."
+        },
+        {
+            "key": "SK_LW_TNCR_S_1",
+            "value": "Augmente la puissance d'Att tranchante du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_TNCR_M_1",
+            "value": "Inflige des dégâts (M) à la cible."
+        },
+        {
+            "key": "SK_LW_TNCR_S_2",
+            "value": "Augmente la DEF de la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_TNCR_S_4",
+            "value": "Lance Récup sur un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_TNCR_R_1",
+            "value": "Chance de contre-attaque lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_LW_TNCR_P_1",
+            "value": "Augmente la Rés att projectiles."
+        },
+        {
+            "key": "SK_LW_TNCR_P_2",
+            "value": "Augmente la Rés att perçantes."
+        },
+        {
+            "key": "SK_LW_VIK_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_M_1",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et accorde Anthropophage."
+        },
+        {
+            "key": "SK_LW_VIK_M_2",
+            "value": "Inflige des dégâts (XL) à la cible."
+        },
+        {
+            "key": "SK_LW_VIK_M_3",
+            "value": "Inflige des dégâts (XS) aux cibles dans la zone autour du lanceur et absorbe les dégâts subis."
+        },
+        {
+            "key": "SK_LW_VIK_S_1_INIT",
+            "value": "Inflige des dégâts (S) à la cible, avec Perforation et une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_VIK_S_2_INIT",
+            "value": "Augmente l'ATT/DEF du lanceur pendant 3 tours et réduit le taux d'esquive."
+        },
+        {
+            "key": "SK_LW_VIK_S_1",
+            "value": "Inflige des dégâts (S) à la cible, avec Perforation et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_VIK_S_2",
+            "value": "Augmente l'ATT/DEF du lanceur pendant 3 tours et réduit le taux d'esquive."
+        },
+        {
+            "key": "SK_LW_VIK_S_3",
+            "value": "Augmente la Bravoure du lanceur."
+        },
+        {
+            "key": "SK_LW_VIK_S_4",
+            "value": "Inflige des dégâts (M) à la cible avec une chance élevée de coups critiques."
+        },
+        {
+            "key": "SK_LW_VIK_R_1",
+            "value": "Chance de restaurer les PV (M) du lanceur lorsque des dégâts sont subis et confère une chance d'infliger Berserker pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_VIK_P_1_2",
+            "value": "Augmente les PV max, et l'ATT."
+        },
+        {
+            "key": "SK_LW_VIK_P_2_2",
+            "value": "Augmente la Rés att projectiles."
+        },
+        {
+            "key": "SK_LW_VIK_M_1_SUB",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et accorde Anthropophage."
+        },
+        {
+            "key": "SK_LW_VIK_M_2_SUB",
+            "value": "Inflige des dégâts (XL) à la cible."
+        },
+        {
+            "key": "SK_LW_VIK_M_3_SUB",
+            "value": "Inflige des dégâts (XS) aux cibles dans la zone autour du lanceur et absorbe les dégâts subis."
+        },
+        {
+            "key": "SK_LW_VIK_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_M_1",
+            "value": "Inflige des dégâts (M) à la cible à trois reprises."
+        },
+        {
+            "key": "SK_FFT_RAMZ_M_2",
+            "value": "Inflige des dégâts (L) à la cible et réduit l'ATT et la MAGIE pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_RAMZ_M_3",
+            "value": "Augmente l'ATT, la MAGIE et la Bravoure des alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_2",
+            "value": "Consomme les PV du lanceur pour restaurer ceux (M) d'un allié."
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_3",
+            "value": "Inflige des dégâts (M) à la cible."
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_1",
+            "value": "Inflige des dégâts (XS) à la cible."
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_4",
+            "value": "Augmente la Bravoure d'un allié."
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_5",
+            "value": "Augmente l'AGI d'un allié pendant 3 tours (cumulabe jusqu'à 2 fois)."
+        },
+        {
+            "key": "SK_FFT_RAMZ_R_1",
+            "value": "Chance de contre-attaquer lorsque des dégâts sont subis, confère une chance de reculer de 1 case."
+        },
+        {
+            "key": "SK_FFT_RAMZ_P_1",
+            "value": "Augmente les PJ acquis pendant les quêtes (cristaux exceptés)."
+        },
+        {
+            "key": "SK_FFT_RAMZ_P_2",
+            "value": "Déplacement +1"
+        },
+        {
+            "key": "SK_FFT_GFGR_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_M_1",
+            "value": "Inflige des dégâts (S) à la cible et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_FFT_GFGR_M_2",
+            "value": "Augmente Anthropophage pour le lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_GFGR_M_3",
+            "value": "Consomme les PV du lanceur pour infliger des dégâts (L) aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_FFT_GFGR_S_1",
+            "value": "Inflige des dégâts tranchants (S) à la cible."
+        },
+        {
+            "key": "SK_FFT_GFGR_S_2",
+            "value": "Absorbe les PT de la cible."
+        },
+        {
+            "key": "SK_FFT_GFGR_S_3",
+            "value": "Inflige des dégâts (M) à la cible avec garantie de coups critiques si le lanceur est derrière la cible."
+        },
+        {
+            "key": "SK_FFT_GFGR_S_4",
+            "value": "Augmente le taux d'esquive du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_GFGR_S_5",
+            "value": "Consomme les PV du lanceur pour infliger des dégâts (L) aux cibles dans la zone autour de lui."
+        },
+        {
+            "key": "SK_FFT_GFGR_R_1",
+            "value": "Chance de contre-attaque lorsque des dégâts sont subis et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_FFT_GFGR_P_1",
+            "value": "Augmente considérablement l'ATT et réduit la Rés à toutes les attaques."
+        },
+        {
+            "key": "SK_FFT_GFGR_P_2",
+            "value": "Augmente la résistance à Confusion et Charme."
+        },
+        {
+            "key": "SK_FFT_ORND_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_M_1",
+            "value": "Inflige de dégâts (M) aux unités dans la zone ciblée, et réduit la résistance à la foudre pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_ORND_M_2",
+            "value": "Inflige des dégâts (L) à la cible et réduit l'ATT pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_ORND_M_3",
+            "value": "Inflige des dégâts (S) à la cible et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_FFT_ORND_S_1",
+            "value": "Réduit la DEF de la cible pendant 3 tours, puis inflige des dégâts (S)."
+        },
+        {
+            "key": "SK_FFT_ORND_S_2",
+            "value": "Augmente l'ATT du lanceur pendant 3 tours, et l'immunise contre Cécité, Paralysie et Sommeil."
+        },
+        {
+            "key": "SK_FFT_ORND_S_3",
+            "value": "Inflige des dégâts (M) à la cible et réduit ses PV max pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_ORND_S_4",
+            "value": "Absorbe les PT de la cible."
+        },
+        {
+            "key": "SK_FFT_ORND_S_5",
+            "value": "Inflige des dégâts (S) aux unités dans la zone ciblée, et confère une chance d'infliger Silence pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_ORND_R_1",
+            "value": "Confère une chance de restaurer les PA du lanceur lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_FFT_ORND_P_1",
+            "value": "Augmente considérablement l'ATT et réduit la Rés à toutes les attaques."
+        },
+        {
+            "key": "SK_FFT_ORND_P_2",
+            "value": "Saut +1, et augmente les PV max"
+        },
+        {
+            "key": "SK_LW_WGN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_M_1",
+            "value": "Significantly raises Missile ATK of allies within range around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
+        },
+        {
+            "key": "SK_LW_WGN_M_2",
+            "value": "Inflige des dégâts (S) en 4 coups à la cible."
+        },
+        {
+            "key": "SK_LW_WGN_M_3",
+            "value": "Inflige des dégâts (L) en 2 coups à la cible."
+        },
+        {
+            "key": "SK_LW_WGN_S_1_INIT",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_WGN_S_2_INIT",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_LW_WGN_S_3",
+            "value": "Augmente le taux d'esquive du lanceur et la DEF pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_WGN_S_4",
+            "value": "Confère une chance d'infliger Étourdissement aux cibles dans la zone ciblée pendant 1 tour."
+        },
+        {
+            "key": "SK_LW_WGN_S_5",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_WGN_R_1",
+            "value": "Chance de Frappe préventive lorsque des dégâts physiques sont subis."
+        },
+        {
+            "key": "SK_LW_WGN_P_1",
+            "value": "Augmente l'Att projectile."
+        },
+        {
+            "key": "SK_LW_WGN_P_2",
+            "value": "Augmente le taux perçant de l'AGI et de la DEF"
+        },
+        {
+            "key": "SK_LW_WGN_S_1",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_WGN_S_2",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_LW_WGN_M_1_SUB",
+            "value": "Significantly raises Missile ATK of allies within range around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
+        },
+        {
+            "key": "SK_LW_WGN_M_2_SUB",
+            "value": "Inflige des dégâts (S) en 4 coups à la cible."
+        },
+        {
+            "key": "SK_LW_WGN_M_3_SUB",
+            "value": "Inflige des dégâts (L) en 2 coups à la cible."
+        },
+        {
+            "key": "SK_LW_TU_BLM_ICE",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LB_LW_TU_MONT",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_SMN_TU_IFRT",
+            "value": "Invoque Ifrit, inflige des DgtM (Max) aux cibles dans la zone ciblée et active Champ d'effet (augmente l'ATT/MAGIE des alliés et réduit la Rés feu des ennemis)."
+        },
+        {
+            "key": "SK_LW_TU_WAR_M_4",
+            "value": "Inflige des dégâts tranchants (L) à la cible."
+        },
+        {
+            "key": "SK_LW_TU_CLR_M_2",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_TU_BHMT_M_01",
+            "value": "Inflige des dégâts (M) à l'ennemi avec une chance de le repousser d'1 case."
+        },
+        {
+            "key": "SK_TU_USE_RING",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BLM_BGN_M_3",
+            "value": "Chance d'infliger Crapaud à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_BLM_BGN_S_4",
+            "value": "Chance d'infliger Sommeil à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_BLM_BGN_M_1_2",
+            "value": "Inflige des dégâts normaux (XS) qui dépendent de la MAGIE du lanceur à la cible et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_BLM_BGN_M_1",
+            "value": "Inflige des dégâts normaux (XS) qui dépendent de la MAGIE du lanceur à la cible et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_BLM_BGN_S_2",
+            "value": "Chance d'infliger Cécité à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_BLM_BGN_S_2_2",
+            "value": "Chance d'infliger Cécité à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LB_LW_BGN_MONT",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LB_LW_BGN_STRN",
+            "value": "Inflige des dégâts (L) à la cible et augmente les dégâts du lanceur en fonction de ses PV manquants."
+        },
+        {
+            "key": "SK_LW_WHM_BGN",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WHM_BGN_M_5",
+            "value": "Chance de guérir une cible de KO. et restaure les PV (XS)."
+        },
+        {
+            "key": "SK_BTL_GETSP_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BLM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WHM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GRM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TIM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_BOMB_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_BOMB_M_01",
+            "value": "Réduit la Rés feu de la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_BOMB_M_02",
+            "value": "Inflige des dégâts de feu (M) aux ennemis dans la zone autour du lanceur, inflige des dégâts en fonction des PV du lanceur puis le met K.O."
+        },
+        {
+            "key": "SK_BOMB_M_02_1",
+            "value": "Inflige des dégâts de feu (L) aux ennemis dans la zone autour du lanceur, inflige des dégâts en fonction des PV du lanceur puis le met K.O."
+        },
+        {
+            "key": "SK_BOMB_M_03",
+            "value": "Chance de contre-attaque lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_BOMB_M_03_CHECK",
+            "value": "Chance de contre-attaque lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_BOMB_M_04",
+            "value": "Inflige des dégâts de feu (S) à la cible."
+        },
+        {
+            "key": "SK_BOMB_M_04_01",
+            "value": "Inflige des dégâts de feu (S) à la cible."
+        },
+        {
+            "key": "SK_BHMT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_BHMT_M_01",
+            "value": "Inflige des dégâts (M) à l'ennemi avec une chance de le repousser d'1 case."
+        },
+        {
+            "key": "SK_BHMT_M_02",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_BHMT_M_03",
+            "value": "Inflige des dégâts (L) à la cible et confère une chance d'infliger Mort instantanée."
+        },
+        {
+            "key": "SK_BHMT_ATK_01",
+            "value": ""
+        },
+        {
+            "key": "SK_BHMT_M_01_01",
+            "value": "Inflige des dégâts (M) à l'ennemi et le repousse de 4 cases."
+        },
+        {
+            "key": "SK_BHMT_M_02_01",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur et les repousse de 1 case."
+        },
+        {
+            "key": "SK_BHMT_M_03_01",
+            "value": "Inflige des dégâts (L) à la cible et confère une chance d'infliger Mort instantanée."
+        },
+        {
+            "key": "SK_MABR_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_MABR_M_01",
+            "value": "Inflige des dégâts (S) à l'ennemi et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_MABR_M_02",
+            "value": "Inflige des dégâts (M) à l'ennemi avec une faible chance d'infliger Paralysie pendant 3 tours."
+        },
+        {
+            "key": "SK_MABR_M_03",
+            "value": "Chance d'infliger une altération d'état (Poison, Cécité, Sommeil, Silence, Confusion, Pétrification et Crapaud) à l'ennemi pendant 3 tours."
+        },
+        {
+            "key": "SK_ARMN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ARMN_M_01",
+            "value": "Inflige des dégâts (S) à l'ennemi avec une chance de réduire sa Bravoure."
+        },
+        {
+            "key": "SK_ARMN_M_02",
+            "value": "Chance of inflicting Petrify on enemy."
+        },
+        {
+            "key": "SK_ARMN_M_03",
+            "value": "Inflige des dégâts (M) à l'ennemi avec une chance de déclencher Peine de mort, qui le mettra K.O à la fin de sa 4e action."
+        },
+        {
+            "key": "SK_OGRE_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_OGRE_M_01",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_OGRE_M_02",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_OGRE_M_03",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée avec une chance de repousser d'une case."
+        },
+        {
+            "key": "SK_WOLF_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_WOLF_M_01",
+            "value": "Inflige des dégâts (S) à la cible, et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_WOLF_M_02",
+            "value": "Inflige des dégâts (S) en 3 coups à la cible."
+        },
+        {
+            "key": "SK_WOLF_M_03",
+            "value": "Réduit l'ATT/MAGIE/AGI de la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_ZUUU_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ZUUU_M_01",
+            "value": "Inflige des dégâts (XS) aux cibles dans la zone autour du lanceur et les repousse d'une case."
+        },
+        {
+            "key": "SK_ZUUU_M_02",
+            "value": "Inflige des dégâts (M) à la cible avec une faible chance d'infliger Paralysie pendant 3 tours."
+        },
+        {
+            "key": "SK_ZUUU_M_03",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_SKEL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_SKEL_M_01",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_SKEL_M_02",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Incapacité pendant 3 tours."
+        },
+        {
+            "key": "SK_SKEL_M_03",
+            "value": "Chance d'infliger Cécité aux cibles dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_SKEL_M_04",
+            "value": "Inflige des dégâts (S) à la cible et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_CACT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CACT_M_01",
+            "value": "Inflige des dégâts fixes (1 000) à la cible."
+        },
+        {
+            "key": "SK_CACT_M_02",
+            "value": "Inflige des dégâts fixes (10 000) à la cible."
+        },
+        {
+            "key": "SK_CACT_M_03",
+            "value": "Chance de contre-attaquer en recevant des dégâts et confère une chance d'infliger Paralysie pendant 3 tours."
+        },
+        {
+            "key": "SK_CACT_M_03_CHECK",
+            "value": "Chance de contre-attaquer en recevant des dégâts et confère une chance d'infliger Paralysie pendant 3 tours."
+        },
+        {
+            "key": "SK_GLSP_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_GLSP_M_01",
+            "value": "Accorde jusqu'à 3 fois une barrière au lanceur qui réduit les DgtP (3 fois)."
+        },
+        {
+            "key": "SK_GLSP_M_02",
+            "value": "Inflige des dégâts (S) aux unités dans la zone ciblée et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_GLSP_R_01",
+            "value": "Chance d'infliger une attaque en 2 coups (S) en recevant des dégâts et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_ELEM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_R_01",
+            "value": "Chance de contre-attaque lorsque des dégâts sont subis."
+        },
+        {
+            "key": "SK_ELEM_M_01",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur."
+        },
+        {
+            "key": "SK_ELEM_M_02",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_ELEM_M_03",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_ELEM_M_04",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_ELEM_M_05",
+            "value": "Inflige des dégâts de vent (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_ELEM_M_06",
+            "value": "Inflige des dégâts de vent (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_ELEM_M_07",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_ELEM_M_08",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_ELEM_M_09",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_ELEM_M_10",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_ELEM_M_11",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_ELEM_M_12",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_ELEM_M_13",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_ELEM_M_14",
+            "value": "Restaure les PV (S) de la cible."
+        },
+        {
+            "key": "SK_ELEM_M_15",
+            "value": "Inflige des dégâts normaux (XS) qui dépendent de la MAGIE du lanceur à la cible et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_ELEM_M_16",
+            "value": "Inflige des dégâts normaux (S) qui dépendent de la MAGIE du lanceur à la cible et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_FF14BOSS_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FF14BOSS_M_01",
+            "value": "Inflige des dégâts (L) à la cible."
+        },
+        {
+            "key": "SK_FF14BOSS_M_02",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_FF14BOSS_M_03",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_CHCB_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB_M_01",
+            "value": "Restaure les PV (S) des alliés dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_CHCB_M_02",
+            "value": "Inflige des dégâts (M) à l'ennemi."
+        },
+        {
+            "key": "SK_CHCB_M_03",
+            "value": "Dissipe Poison, Cécité, Immobilisation, Incapacité, Stop, Silence et Pétrification pour les alliés dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_CHCB_M_04",
+            "value": "Inflige des dégâts (L) qui dépendent de la MAGIE du lanceur à l'ennemi."
+        },
+        {
+            "key": "SK_CHCB_R_01",
+            "value": "Confère une chance de contre-attaquer lorsque des dégâts sont subis, recule de 1 case."
+        },
+        {
+            "key": "SK_CHCB1_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB1_M_02",
+            "value": "Inflige des dégâts (M) à l'ennemi."
+        },
+        {
+            "key": "SK_CHCB1_R_01",
+            "value": "Confère une chance de contre-attaquer lorsque des dégâts sont subis, recule de 1 case."
+        },
+        {
+            "key": "SK_CCLI_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CCLI_M_01",
+            "value": "Inflige des dégâts (S) qui dépendent de la MAGIE du lanceur aux ennemis dans la zone ciblée, et confère une chance d'infliger Sommeil pendant 3 tours, et confère une chance d'infliger Peine de mort."
+        },
+        {
+            "key": "SK_CCLI_M_02",
+            "value": "Inflige des dégâts (L) qui dépendent de la MAGIE du lanceur à l'ennemi, et confère une chance d'infliger Incapacité pendant 3 tours."
+        },
+        {
+            "key": "SK_CCLI_M_03",
+            "value": "Inflige des dégâts (M) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée, et confère une chance d'infliger Lenteur pendant 3 tours."
+        },
+        {
+            "key": "SK_CCLI_M_04",
+            "value": "Inflige des dégâts (M) qui dépendent de la MAGIE du lanceur aux ennemis, et confère une chance d'infliger Poison pendant 3 tours, et confère une chance d'infliger Pétrification."
+        },
+        {
+            "key": "SK_CSLI_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_M_01",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_CSLI_M_02",
+            "value": "Inflige des dégâts (S) à la cible et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_CSLI_M_03",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur et confère une chance d'infliger Charme pendant 3 tours."
+        },
+        {
+            "key": "SK_CSLI_M_03_QE",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur et confère une chance d'infliger Charme pendant 3 tours."
+        },
+        {
+            "key": "SK_SLIM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_SLIM_M_01",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_SLIM_M_02",
+            "value": "Inflige des dégâts (S) à la cible et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_SLIM_M_03",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_IFRT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_IFRT_M_01",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur."
+        },
+        {
+            "key": "SK_IFRT_M_02",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_IFRT_M_03",
+            "value": "Augmente la puissance des attaques de feu du lanceur pendant 1 tour."
+        },
+        {
+            "key": "SK_IFRT_M_04",
+            "value": "Inflige des dégâts de feu (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_SIRE_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_SIRE_M_01",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_SIRE_M_02",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_SIRE_M_03",
+            "value": "Chance d'infliger Silence aux cibles dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_SIRE_M_04",
+            "value": "Inflige des dégâts d'eau (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée, et confère une chance d'infliger Sommeil pendant 3 tours."
+        },
+        {
+            "key": "SK_SHIV_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_SHIV_M_01",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_SHIV_M_02",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_SHIV_M_03",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée et confère une chance d'infliger Stop."
+        },
+        {
+            "key": "SK_SHIV_M_04",
+            "value": "Inflige des dégâts de glace (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_RAMU_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_RAMU_M_01",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_RAMU_M_02",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_RAMU_M_03",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur aux cibles dans la zone autour de lui, et confère une chance d'infliger Paralysie pendant 3 tours."
+        },
+        {
+            "key": "SK_RAMU_M_04",
+            "value": "Inflige des dégâts de foudre (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_GLEM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_GLEM_M_01",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_GLEM_M_02",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_GLEM_M_03",
+            "value": "Augmente la DEF et la PSY du lanceur pendant 1 tour."
+        },
+        {
+            "key": "SK_GLEM_M_04",
+            "value": "Inflige des dégâts de terre (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_ODIN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_M_01",
+            "value": "Inflige des dégâts perçants aux ennemis dans la zone ciblée."
+        },
+        {
+            "key": "SK_ODIN_M_02",
+            "value": "Transforme Gungnir en Einherjar pendant le prochain tour."
+        },
+        {
+            "key": "SK_ODIN_M_03",
+            "value": "Inflige des DgtM normaux (L) aux cibles dans la zone ciblée."
+        },
+        {
+            "key": "SK_ODIN_M_04",
+            "value": "Inflige des DgtP normaux (M) aux ennemis dans la zone ciblée et confère une chance d'infliger Mort instantanée."
+        },
+        {
+            "key": "SK_ODIN_R_01",
+            "value": "Augmente les chances d'infliger des DgtM aux unités dans la zone autour du lanceur lorsque des dégâts magiques sont subis."
+        },
+        {
+            "key": "SK_IGNT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_IGNT_M_01",
+            "value": "Augmente l'ATT/DEF du lanceur pendant 3 tours mais réduit la PSY."
+        },
+        {
+            "key": "SK_IGNT_M_02",
+            "value": "Inflige des dégâts (M) à la cible."
+        },
+        {
+            "key": "SK_IGNT_M_03",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et repousse d'une case."
+        },
+        {
+            "key": "SK_LAMA_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LAMA_M_01",
+            "value": "Chance d'infliger Charme à la cible pendant 3 tours."
+        },
+        {
+            "key": "SK_LAMA_M_01_MAN",
+            "value": "Grande chance d'infliger Charme à la cible pendant 3 tours (endommage seulement les unités masculines)."
+        },
+        {
+            "key": "SK_LAMA_M_02",
+            "value": "Augmente le taux d'esquive du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LAMA_M_03",
+            "value": "Inflige des dégâts (M) aux ennemis dans la zone ciblée, Tue-Mars, et confère une chance d'infliger Confusion pendant 3 tours."
+        },
+        {
+            "key": "SK_GL_LAMA_M_03",
+            "value": "Inflige des dégâts (M) aux ennemis dans la zone ciblée, et confère une chance d'infliger Confusion pendant 3 tours."
+        },
+        {
+            "key": "SK_TSLP_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_TSLP_M_01",
+            "value": "Inflige des dégâts magiques de vent (S) à la cible ennemie."
+        },
+        {
+            "key": "SK_TSLP_M_02",
+            "value": "Inflige des dégâts magiques de vent (S) aux ennemis dans la zone ciblée."
+        },
+        {
+            "key": "SK_TSLP_M_03",
+            "value": "Fait apparaître une barrière autour du lanceur qui réduit les dégâts de N % (3 fois)."
+        },
+        {
+            "key": "SK_TSLP_M_04",
+            "value": "Inflige des DgtM de vent (L) aux ennemis dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_E_VIK_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_M_1",
+            "value": "Inflige des dégâts (M) à la cible et augmente Pouvoir lorsqu'un coups critiques est lancé."
+        },
+        {
+            "key": "SK_LW_E_VIK_M_3",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur avec un faible taux de précision et augmente Pouvoir lorsqu'un coups critiques est lancé."
+        },
+        {
+            "key": "SK_LW_E_VIK_M_4",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et accorde Anthropophage."
+        },
+        {
+            "key": "SK_LW_E_VIK_S_1",
+            "value": "Inflige des dégâts (S) à la cible avec une chance de réduire sa rés att tranchantes pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_E_VIK_S_2",
+            "value": "Inflige des dégâts (S) aux unités dans la zone ciblée et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_LW_E_VIK_S_3",
+            "value": "Augmente l'ATT/DEF du lanceur pendant 3 tours et réduit le taux d'esquive."
+        },
+        {
+            "key": "SK_GMK_ATK_NEEDLE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_FIRE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_ARROW",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1",
+            "value": "Attaque de Gadget (Unité de catapulte simple)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2",
+            "value": "Attaque de Gadget (Zone de catapulte)"
+        },
+        {
+            "key": "SK_LB_LW_MONT",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LB_LW_MONT_B",
+            "value": "Inflige des dégâts (XL) aux unités dans la zone ciblée et augmente l'ATT du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_LB_LW_ELDE",
+            "value": "Augmente les chances du lanceur d'être pris pour cible et lui accorde une barrière qui réduit les dégâts (3 fois)."
+        },
+        {
+            "key": "SK_LB_LW_ELDE_B",
+            "value": "Augmente les chances du lanceur d'être pris pour cible et lui accorde une barrière qui réduit les dégâts (5 fois)."
+        },
+        {
+            "key": "SK_LB_LW_STRN",
+            "value": "Inflige des dégâts (L) à la cible et augmente les dégâts du lanceur en fonction de ses PV manquants."
+        },
+        {
+            "key": "SK_LB_LW_STRN_B",
+            "value": "Inflige des dégâts (XL) à la cible et augmente les dégâts du lanceur en fonction de ses PV manquants."
+        },
+        {
+            "key": "SK_LB_LW_ROBB",
+            "value": "Après déplacement jusqu'à la case ciblée, inflige des dégâts (L) et réduit les chances d'être pris pour cible."
+        },
+        {
+            "key": "SK_LB_LW_ROBB_B",
+            "value": "Après déplacement jusqu'à la case ciblée, inflige des dégâts (XL) et réduit les chances d'être pris pour cible."
+        },
+        {
+            "key": "SK_LB_LW_ENBT",
+            "value": "Inflige des dégâts (L) à la cible et augmente les dégâts du lanceur en fonction de ses PV manquants."
+        },
+        {
+            "key": "SK_LB_LW_ENBT_B",
+            "value": "Inflige des dégâts (XL) à la cible et augmente les dégâts du lanceur en fonction de ses PV manquants."
+        },
+        {
+            "key": "SK_LB_LW_FDRC",
+            "value": "Inflige des dégâts (L) à la cible et réduit sa jauge de CT."
+        },
+        {
+            "key": "SK_LB_LW_FDRC_B",
+            "value": "Inflige des dégâts (XL) à la cible et réduit sa jauge de CT."
+        },
+        {
+            "key": "SK_LB_LW_MRND",
+            "value": "Inflige des dégâts (L) qui dépendent de la MAGIE du lanceur aux cibles dans la zone autour de lui, et confère une chance d'infliger Confusion pendant 3 tours."
+        },
+        {
+            "key": "SK_LB_LW_MRND_B",
+            "value": "Inflige des dégâts (XL) qui dépendent de la MAGIE du lanceur aux cibles dans la zone autour de lui, et confère une chance d'infliger Confusion pendant 3 tours."
+        },
+        {
+            "key": "SK_LB_LW_AILN",
+            "value": "Réduit la Rés terre de la cible pendant 3 tours puis inflige des dégâts perçants (L)."
+        },
+        {
+            "key": "SK_LB_LW_AILN_B",
+            "value": "Réduit considérablement la Rés terre de la cible pendant 3 tours puis inflige des dégâts perçants (XL)."
+        },
+        {
+            "key": "SK_LB_LW_ZIZA",
+            "value": "Inflige des dégâts (L) à la cible et accorde Anthropophage augmenté."
+        },
+        {
+            "key": "SK_LB_LW_ZIZA_B",
+            "value": "Inflige des dégâts (XL) à la cible, accorde Anthropophage augmenté et augmente la jauge de CT du lanceur."
+        },
+        {
+            "key": "SK_LB_LW_MDNA",
+            "value": "Réduit la Rés glace des unités dans la zone ciblée pendant 3 tours et inflige des dégâts (L) qui dépendent de la MAGIE du lanceur."
+        },
+        {
+            "key": "SK_LB_LW_MDNA_B",
+            "value": "Réduit considérablement la rés glace des unités dans la zone ciblée pendant 3 tours puis inflige des dégâts (XL) qui dépendent de la MAGIE du lanceur."
+        },
+        {
+            "key": "SK_LB_LW_AYKA",
+            "value": "Restaure les PV (L) des alliés dans la zone ciblée, dissipe Stop et augmente leur Rés stop pendant 3 tours."
+        },
+        {
+            "key": "SK_LB_LW_AYKA_B",
+            "value": "Restaure les PV (XL) des alliés dans la zone ciblée, dissipe Stop et augmente la Rés stop pendant 3 tours."
+        },
+        {
+            "key": "SK_LB_LW_GLMS",
+            "value": "Inflige des dégâts (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée, et confère une chance d'infliger Lenteur pendant 3 tours."
+        },
+        {
+            "key": "SK_LB_LW_GLMS_B",
+            "value": "Inflige des dégâts (XL) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée, et confère une chance d'infliger Lenteur pendant 3 tours et augmente la jauge de CT du lanceur."
+        },
+        {
+            "key": "SK_LB_LW_KTON",
+            "value": "Inflige des dégâts (L) en 2 coups à la cible et confère une chance d'infliger Stop."
+        },
+        {
+            "key": "SK_LB_LW_KTON_B",
+            "value": "Inflige des dégâts (XL) en 2 coups à la cible et confère une chance d'infliger Stop."
+        },
+        {
+            "key": "SK_LB_LW_WHIS",
+            "value": "Inflige des dégâts (L) aux cibles dans la zone autour du lanceur et réduit leur Bravoure."
+        },
+        {
+            "key": "SK_LB_LW_WHIS_B",
+            "value": "Inflige des dégâts (XL) aux cibles dans la zone autour du lanceur et réduit leur Bravoure."
+        },
+        {
+            "key": "SK_LB_LW_MACR",
+            "value": "Inflige des dégâts (L) en 2 coups à la cible et augmente considérablement la Rés à toutes les attaques du lanceur pendant un tour."
+        },
+        {
+            "key": "SK_LB_LW_MACR_B",
+            "value": "Inflige des dégâts (XL) en 2 coups à la cible et augmente considérablement la rés à toutes les attaques du lanceur pendant un tour."
+        },
+        {
+            "key": "SK_LB_LW_LUCA",
+            "value": "Inflige des dégâts (L) en 2 coups à la cible et confère une chance d'infliger des altérations d'état (Immobilisation/Incapacité) pendant 3 tours."
+        },
+        {
+            "key": "SK_LB_LW_LUCA_B",
+            "value": "Inflige des dégâts (XL) en 2 coups à la cible et confère de grandes chances d'infliger des altérations d'état (Immobilisation/Incapacité) pendant 3 tours."
+        },
+        {
+            "key": "SK_LB_LW_YERM",
+            "value": "Inflige des dégâts (L) à la cible, réduit sa rés aux attaques d'unité pendant 3 tours et augmente celle du lanceur."
+        },
+        {
+            "key": "SK_LB_LW_YERM_B",
+            "value": "Inflige des dégâts (XL) à la cible, réduit considérablement sa rés aux attaques d'unité et augmente considérablement celle du lanceur."
+        },
+        {
+            "key": "SK_LB_FFT_RAMZ",
+            "value": "Inflige des dégâts normaux (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée, et Coup garanti"
+        },
+        {
+            "key": "SK_LB_FFT_ORND",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et accorde Booster au lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_SMN_IFRT",
+            "value": "Invoque Ifrit, inflige des dégâts de feu (XL) aux unités dans la zone ciblée et active des effets de carte temporaires (augmente l'ATT/MAGIE des alliés et réduit considérablement la Rés feu des ennemis)."
+        },
+        {
+            "key": "SK_SMN_GLEM",
+            "value": "Invoque Golem, inflige des dégâts de terre (XL) aux unités dans la zone ciblée et active des effets de carte temporaires (augmente l'ATT/MAGIE des alliés et réduit considérablement la Rés terre des ennemis)."
+        },
+        {
+            "key": "SK_SMN_RAMU",
+            "value": "Invoque Ramuh, inflige des dégâts de foudre (XL) aux unités dans la zone ciblée et active des effets de carte temporaires (augmente l'ATT/MAGIE des alliés et réduit considérablement la Rés foudre des ennemis)."
+        },
+        {
+            "key": "SK_SMN_SHIV",
+            "value": "Invoque Shiva, inflige des dégâts de glace (XL) aux unités dans la zone ciblée et active des effets de carte temporaires (augmente l'ATT/MAGIE des alliés et réduit considérablement la Rés glace des ennemis)."
+        },
+        {
+            "key": "SK_SMN_SIRE",
+            "value": "Invoque Sirène, inflige des dégâts d'eau (XL) aux unités dans la zone ciblée et active des effets de carte temporaires (augmente l'ATT/MAGIE des alliés et réduit considérablement la Rés eau des ennemis)."
+        },
+        {
+            "key": "SK_SMN_ODIN",
+            "value": "Invoque Odin, inflige des dégâts normaux (XL) aux unités dans la zone ciblée et active un effet de carte temporaire (augmente le taux de coups critiques des alliés)."
+        },
+        {
+            "key": "SK_SMN_IGNT",
+            "value": "Invoque Géant de fer, inflige des dégâts de lumière (L) aux unités dans la zone ciblée et les repousse d'une case."
+        },
+        {
+            "key": "SK_SMN_BHMT",
+            "value": "Invoque Béhémoth, inflige des dégâts d'ombre (L) aux cibles dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_SMN_MABR",
+            "value": "Invoque Morbol et confère une chance d'infliger une altération d'état (Poison, Cécité, Sommeil, Confusion et Silence) aux cibles dans la zone pendant 3 tours."
+        },
+        {
+            "key": "SK_SMN_CACT",
+            "value": "Invoque Pampa, inflige des dégâts fixes (1 000) à la cible."
+        },
+        {
+            "key": "SK_SMN_ARMN",
+            "value": "Invoque Œil flottant, inflige des dégâts de glace (S) avec une chance de baisser la Bravoure."
+        },
+        {
+            "key": "SK_SMN_ZUUU",
+            "value": "Invoque Zu, inflige des dégâts de vent (L) aux cibles dans la zone autour du lanceur et les repousse d'une case."
+        },
+        {
+            "key": "SK_SMN_OGRE",
+            "value": "Invoque Ogre et inflige des dégâts de foudre (L) à la cible."
+        },
+        {
+            "key": "SK_SMN_BOMB",
+            "value": "Invoque Bombo, inflige des dégâts de feu (L) aux cibles dans la zone autour du lanceur, inflige des dégâts en fonction de ses PV puis le rend K.O."
+        },
+        {
+            "key": "SK_SMN_LAMA",
+            "value": "Invoque la Reine Lamia, inflige des dégâts de feu (L) aux unités dans la zone ciblée, Cryophage, et confère une chance d'infliger Confusion pendant 3 tours."
+        },
+        {
+            "key": "SK_SMN_TSLP",
+            "value": "Invoque Tétra-Sylphides, inflige des dégâts de vent (XL) aux unités dans la zone ciblée et active des effets de carte temporaires (augmente le taux d'esquive des alliés et réduit considérablement la Rés vent des ennemis)."
+        },
+        {
+            "key": "SK_US_POTION",
+            "value": "Restaure les PV d'un allié (S)."
+        },
+        {
+            "key": "SK_US_HIPOTION",
+            "value": "Restaure les PV d'un allié (M)."
+        },
+        {
+            "key": "SK_US_EXPOTION",
+            "value": "Restaure les PV d'un allié (L)."
+        },
+        {
+            "key": "SK_US_ETHER",
+            "value": "Restaure les PT d'un allié (S)."
+        },
+        {
+            "key": "SK_US_ETHERTURBO",
+            "value": "Restaure les PT d'un allié (M)."
+        },
+        {
+            "key": "SK_US_ELIXIR",
+            "value": "Restaure complètement les PV/PT d'un allié."
+        },
+        {
+            "key": "SK_US_PNXFEATHER",
+            "value": "Guérit un allié de KO et restaure les PV (S)."
+        },
+        {
+            "key": "SK_US_ANTIDOTE",
+            "value": "Dissipe Poison pour un allié."
+        },
+        {
+            "key": "SK_US_EYEDROPS",
+            "value": "Dissipe Cécité pour un allié."
+        },
+        {
+            "key": "SK_US_REMINDER",
+            "value": "Dissipe Sommeil et Confusion pour un allié."
+        },
+        {
+            "key": "SK_US_ECHODROP",
+            "value": "Dissipe Silence pour un allié."
+        },
+        {
+            "key": "SK_US_UNICORNHORN",
+            "value": "Dissipe Paralysie pour un allié."
+        },
+        {
+            "key": "SK_US_MAIDENKISS",
+            "value": "Dissipe Crapaud pour un allié."
+        },
+        {
+            "key": "SK_US_GOLDNEEDLE",
+            "value": "Dissipe Pétrification pour un allié."
+        },
+        {
+            "key": "SK_US_REMEDY",
+            "value": "Dissipe Poison, Cécité, Sommeil, Silence, Paralysie et Confusion pour un allié."
+        },
+        {
+            "key": "SK_US_ENCHANTDRAG",
+            "value": "Dissipe Silence, Immobilisation et Incapacité pour un allié."
+        },
+        {
+            "key": "SK_US_HOLYTORCH",
+            "value": "Dissipe Haine, Récup, Bouclier, Barrière, Apesanteur d'un ennemi."
+        },
+        {
+            "key": "SK_US_HERODRINK",
+            "value": "Augmente l'ATT/MAGIE d'un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_US_BACCHUS",
+            "value": "Accorde Berserk pour un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_US_SHELL",
+            "value": "Accorde une barrière à un allié qui réduit les DgtP (3 tours)."
+        },
+        {
+            "key": "SK_US_PROTECT",
+            "value": "Accorde une barrière à un allié qui réduit les DgtM (3 tours)."
+        },
+        {
+            "key": "SK_US_HEALWATER",
+            "value": "Accorde Récup pour un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_US_HPPOTION",
+            "value": "Augmente les PV max d'un allié pendant 3 tours et restaure la différence."
+        },
+        {
+            "key": "SK_US_ATKPOTION",
+            "value": "Augmente l'ATT d'un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_US_MAGPOTION",
+            "value": "Augmente la MAGIE d'un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_US_SPDPOTION",
+            "value": "Augmente l'AGI d'un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_US_DEXPOTION",
+            "value": "Augmente la DEX d'un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_MA_LW_MONT",
+            "value": "DEF +15, Saut +1"
+        },
+        {
+            "key": "SK_MA_LW_STRN",
+            "value": "Dégâts critiques +25 %"
+        },
+        {
+            "key": "SK_MA_LW_ELDE",
+            "value": "PV max +10 %, ATT +20 %"
+        },
+        {
+            "key": "SK_MA_LW_ROBB",
+            "value": "Taux de coups critiques +10, taux d'esquive +5"
+        },
+        {
+            "key": "SK_MA_LW_ENBT",
+            "value": "DEF +15"
+        },
+        {
+            "key": "SK_MA_LW_ZIZA",
+            "value": "Att contondante +5, taux d'esquive +10"
+        },
+        {
+            "key": "SK_MA_LW_MRND",
+            "value": "ATT +15 %, MAGIE +15 %, DEF +5"
+        },
+        {
+            "key": "SK_MA_LW_AILN",
+            "value": "PT max +10 %, Att perçante +10"
+        },
+        {
+            "key": "SK_MA_LW_MDNA",
+            "value": "MAGIE +30 %"
+        },
+        {
+            "key": "SK_MA_LW_AYKA",
+            "value": "PV max +10 %, Rés stop +20"
+        },
+        {
+            "key": "SK_MA_LW_GLMS",
+            "value": "Att tranchante +10, AGI +10 %"
+        },
+        {
+            "key": "SK_MA_LW_GLMS_2",
+            "value": "PV +1 000, Taux de précision +15, Att tranchante +10, AGI +10 %"
+        },
+        {
+            "key": "SK_MA_LW_MACR",
+            "value": "PT max +10 %, AGI +10 %"
+        },
+        {
+            "key": "SK_MA_FF14_TNCR",
+            "value": "PV max +10 %, Att tranchante +10"
+        },
+        {
+            "key": "SK_MA_LW_HLNA",
+            "value": "MAGIE +30 %, AGI +10 %"
+        },
+        {
+            "key": "SK_MA_LW_LILS",
+            "value": "PV max +30 %"
+        },
+        {
+            "key": "SK_MA_LW_RAMD",
+            "value": "PT max +30 %, Att perçante +20"
+        },
+        {
+            "key": "SK_MA_LW_OOOO",
+            "value": "ATT +20 %, taux d'esquive +15"
+        },
+        {
+            "key": "SK_MA_LW_LRNZ",
+            "value": "PV max +25 %, DEF +10"
+        },
+        {
+            "key": "SK_MA_LW_RIRY",
+            "value": "DEX +15 %, dégâts critiques +15 %, portée +1"
+        },
+        {
+            "key": "SK_MA_LW_VSTR",
+            "value": "Rés att magique +15, taux d'esquive +15"
+        },
+        {
+            "key": "SK_MA_LW_CLEY",
+            "value": "PV max +15 %, modification de l'acquisition de PA +30 %, PA initiaux +10"
+        },
+        {
+            "key": "SK_MA_LW_KADI",
+            "value": "PT max +40 %, MAGIE +15 %"
+        },
+        {
+            "key": "SK_MA_LW_MRLK",
+            "value": "Dégâts critiques +40 %, AGI +10 %"
+        },
+        {
+            "key": "SK_MA_LW_MGRT",
+            "value": "PT max +15 %, AttM +30"
+        },
+        {
+            "key": "SK_MA_LW_PRAY",
+            "value": "MAGIE +20 %, Rés à toutes les attaques +10"
+        },
+        {
+            "key": "SK_MA_FF14_YSTL",
+            "value": "PT max +15 %, modification de l'acquisition de PA +30 %"
+        },
+        {
+            "key": "SK_MA_LW_SZRT",
+            "value": "DEX +15 %, taux de coups critiques +35"
+        },
+        {
+            "key": "SK_MA_LW_FINA",
+            "value": "DEX +15 %, Rés att magiques +25"
+        },
+        {
+            "key": "SK_MA_LW_BYLO",
+            "value": "AGI +10 %, CHA +30 %"
+        },
+        {
+            "key": "SK_MA_LW_RYER",
+            "value": "MAG +20 %, Luminophage +25"
+        },
+        {
+            "key": "SK_MA_LW_SCIA",
+            "value": "Att perçante +15, DEX +40 %"
+        },
+        {
+            "key": "SK_MA_LW_VRID",
+            "value": "PT max +45 %, modification de l'acquisition de PA +30 %"
+        },
+        {
+            "key": "SK_MA_LW_NAIA",
+            "value": "MAGIE +40 %, Délai d'activation de compétence -25 %"
+        },
+        {
+            "key": "SK_MA_LW_SRJS",
+            "value": "AGI +20 %, CHA +10 %"
+        },
+        {
+            "key": "SK_MA_LW_UNII",
+            "value": "PV max +30 %, Rés att tranchantes/perçantes/contondantes/projectiles +10"
+        },
+        {
+            "key": "SK_MA_LW_SEVR",
+            "value": "Rés à toutes les attaques +25"
+        },
+        {
+            "key": "SK_MA_LW_VADM",
+            "value": "Taux d'esquive +15, Rés att perçantes/magique +30"
+        },
+        {
+            "key": "SK_MA_LW_MURM",
+            "value": "MAGIE +20 %, Rés à toutes les attaques +10"
+        },
+        {
+            "key": "SK_MA_LW_PHBE",
+            "value": "AGI +20 %, Déplacement +1"
+        },
+        {
+            "key": "SK_MA_LW_RART",
+            "value": "Taux de Précision +50, Tue-aquatiques +50"
+        },
+        {
+            "key": "SK_MA_LW_MICE",
+            "value": "Délai d'activation de compétence -75 %, Tue-végétaux +50"
+        },
+        {
+            "key": "SK_MA_LW_MIIA",
+            "value": "Modification de l'acquisition de PA +100 %, Tue-esprits +50"
+        },
+        {
+            "key": "SK_MA_LW_ZZAN",
+            "value": "DEX +15 %, Déplacement +1, Saut +2"
+        },
+        {
+            "key": "SK_MA_LW_FDRC",
+            "value": "Att projectile +15"
+        },
+        {
+            "key": "SK_MA_LW_SDLX",
+            "value": "ATT +25 %, taux d'esquive +15"
+        },
+        {
+            "key": "SK_MA_LW_MINU",
+            "value": "Aptitude maître de Minnwu"
+        },
+        {
+            "key": "SK_MA_LW_YERM",
+            "value": "Dégâts critiques +15 %, taux de précision +10"
+        },
+        {
+            "key": "SK_MA_LW_P_NASR",
+            "value": "PV max +25 %"
+        },
+        {
+            "key": "SK_MA_LW_P_ETRE",
+            "value": "Déplacement +1, Saut +1, taux d'esquive +10"
+        },
+        {
+            "key": "SK_MA_FFT_RAMZ",
+            "value": "PV max +10 %, Att tranchante +10"
+        },
+        {
+            "key": "SK_MA_FFT_GFGR",
+            "value": "PA initiaux +10, dégâts critiques +25 %"
+        },
+        {
+            "key": "SK_MA_FFT_ORND",
+            "value": "Att tranchante +10, DEF +5"
+        },
+        {
+            "key": "SK_MA_LW_P_WHIS",
+            "value": "Att tranchante +5, Rés à toutes les attaques +5"
+        },
+        {
+            "key": "SK_MA_LW_P_KTON",
+            "value": "Taux d'esquive +15"
+        },
+        {
+            "key": "SK_MA_LW_DRND",
+            "value": "PV max +25 %, taux de coups critiques +15"
+        },
+        {
+            "key": "SK_MA_LW_P_LUCA",
+            "value": "ATT +10 %, Terraphage +15 %"
+        },
+        {
+            "key": "SK_MA_LW_P_ADLD",
+            "value": "MAGIE +25 %, DEX +10 %"
+        },
+        {
+            "key": "SK_LW_SLASH_1",
+            "value": "Att tranchante +2"
+        },
+        {
+            "key": "SK_LW_SLASH_2",
+            "value": "Att tranchante +3"
+        },
+        {
+            "key": "SK_LW_SLASH_3",
+            "value": "Att tranchante +5"
+        },
+        {
+            "key": "SK_LW_SLASH_4_N",
+            "value": "Att tranchante +6"
+        },
+        {
+            "key": "SK_LW_SLASH_5_N",
+            "value": "Att tranchante +10"
+        },
+        {
+            "key": "SK_LW_SLASH_4_R",
+            "value": "Att tranchante +6"
+        },
+        {
+            "key": "SK_LW_SLASH_5_R",
+            "value": "Att tranchante +12"
+        },
+        {
+            "key": "SK_LW_SLASH_4_SR",
+            "value": "Att tranchante +7"
+        },
+        {
+            "key": "SK_LW_SLASH_5_SR",
+            "value": "Att tranchante +13"
+        },
+        {
+            "key": "SK_LW_SLASH_4_SSR",
+            "value": "Att tranchante +8"
+        },
+        {
+            "key": "SK_LW_SLASH_5_SSR",
+            "value": "Att tranchante +15"
+        },
+        {
+            "key": "SK_LW_SLASH_4_UR",
+            "value": "Att tranchante +10"
+        },
+        {
+            "key": "SK_LW_SLASH_5_UR",
+            "value": "Att tranchante +20"
+        },
+        {
+            "key": "SK_LW_SWO_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ROD_003_1",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_ROD_004_5",
+            "value": "Restaure les PV (S) des alliés dans la zone ciblée."
+        },
+        {
+            "key": "SK_LW_SWO_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_MONT_1_1",
+            "value": "Augmente l'AGI des alliés dans la zone ciblée pendant 3 tours (cumulable 2 fois)."
+        },
+        {
+            "key": "SK_ARM_LW_STRN_1_1",
+            "value": "Augmente la résistance aux attaques de zone du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_CLK_LW_ELDE_1_1",
+            "value": "Augmente les PV max des alliés dans la zone autour du lanceur pendant 3 tours et restaure la différence."
+        },
+        {
+            "key": "SK_ARM_LW_ROBB_1_1",
+            "value": "Augmente l'Att tranchante et la jauge de CT des alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_SHI_LW_ENBT_1_1",
+            "value": "Consomme les PV du lanceur pour augmenter son ATT pendant 3 tours."
+        },
+        {
+            "key": "SK_ACC_LW_FDRC_1_1",
+            "value": "Immunise un allié contre Immobilisation, Incapacité et Stop pendant 3 tours."
+        },
+        {
+            "key": "SK_ACC_LW_ZIZA_1_1",
+            "value": "Accorde restauration automatique de PA pour le lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_CLT_LW_MRND_1_1",
+            "value": "Augmente l'AttM et la Rés att tranchantes des alliés dans la zone ciblée pendant 3 tours."
+        },
+        {
+            "key": "SK_HAT_LW_AILN_1_1",
+            "value": "Augmente l'ATT/PV max du lanceur pendant 3 tours et accorde Tue-pierres/Tue-machines."
+        },
+        {
+            "key": "SK_HAT_LW_MDNA_1_1",
+            "value": "Augmente les les PA acquis/ATT/MAGIE des alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_FTW_LW_AYKA_1_1",
+            "value": "Accorde une barrière aux alliés dans la zone ciblée qui réduit les dégâts pendant 3 tours et dissipe Poison, Cécité, Sommeil, Silence, Paralysie, Confusion et Pétrification."
+        },
+        {
+            "key": "SK_HLM_LW_GLMS_1_1",
+            "value": "Augmente considérablement la MAGIE du lanceur pendant 1 tour avec une chance d'augmenter sa jauge de CT."
+        },
+        {
+            "key": "SK_ACC_LW_MACR_1_1",
+            "value": "Restaure les PV (M) des alliés dans la zone autour du lanceur et accorde une barrière aux alliés dans la zone ciblée qui réduit les dégâts (3 fois)."
+        },
+        {
+            "key": "SK_BLT_LW_YERM_1_1",
+            "value": "Augmente considérablement l'ATT et le taux de précision du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_ARM_FFT_RAMZ_1_1",
+            "value": "Restaure les PT d'un allié"
+        },
+        {
+            "key": "SK_ACC_FFT_ORND_1_1",
+            "value": "Fait apparaître une barrière autour du lanceur qui réduit les dégâts (3 fois)."
+        },
+        {
+            "key": "SK_HAT_LW_WHIS_1_1",
+            "value": "Consomme les PV du lanceur pour augmenter considérablement la DEF et la PSY d'un allié pendant 1 tour."
+        },
+        {
+            "key": "SK_ARW_LW_KTON_1_1",
+            "value": "Augmente le Déplacement et le Saut de 1 pour le lanceur pendant 3 tours, et réduit ses chances d'être pris pour cible."
+        },
+        {
+            "key": "SK_ARM_LW_LUCA_1_1",
+            "value": "Augmente la portée de 1 pendant 3 tours et augmente l'AGI."
+        },
+        {
+            "key": "SK_SWO_LW_ADLD_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_HLNA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SWO_LW_LILS_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SPE_LW_RAMD_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_KAT_LW_OOOO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_NKN_LW_SDLX_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SPE_LW_LRNZ_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_GUN_LW_RIRY_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_DAG_LW_VSTR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BOW_LW_CLEY_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_MAC_LW_KADI_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FIS_LW_MRLK_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_MGRT_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_HAT_LW_WHIS_1_2",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_PRAY_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_FF14_YSTL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BOW_LW_FINA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BSW_LW_SZRT_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_BYLO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_RYER_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_SCIA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_VRID_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_NAIA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_SRJS_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_UNII_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_CLT_LW_SEVR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_VADM_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_MURM_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_PHBE_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_FF14_TNCR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SWO_FFT_GFGR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_AXE_LW_DRND_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_CMLO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_DRZA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_KTON_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_5",
+            "value": ""
+        },
+        {
+            "key": "SK_KAT_LW_DIAA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FTW_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CACT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ARMN_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ZUUU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OGRE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BOMB_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_JOBCRYSTAL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BYLO_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RART_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RYER_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RIRY_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CRYSTAL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DYNVERK_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_02_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MIRROR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CACT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ARMN_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ZUUU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OGRE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BOMB_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_JOBCRYSTAL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BYLO_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RART_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RYER_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RIRY_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CRYSTAL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DYNVERK_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_02_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MIRROR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_HP_1-999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_MP_1-999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_AP_1-999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_ATK_1-999PER_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_BRAVE_1-100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_FAITH_1-100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_MOVE_1-20_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JUMP_1-20_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_AP_1-999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_HP_1-999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_DF_1-80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_MDF_1-80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_BRAVE_1-100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_FAITH_1-100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_MOVE_1-20_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JUMP_1-20_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_HIT_1_999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_AVOI_1_999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_CRI_1_999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_CRIHIT_1_999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_CRIAVOI_1_999_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_HIT_1_999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_AVOI_1_999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_CRI_1_999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_CRIHIT_1_999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_CRIAVOI_1_999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_STR_MAGIC_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_STR_SLASH_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_STR_SPEAR_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_STR_SHOT_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_STR_BLOW_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_STR_MAGIC_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_STR_SLASH_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_STR_SPEAR_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_STR_SHOT_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_STR_BLOW_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_CASTTIME_1_999_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_DEBUFF_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_DEBUFF_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_POISON_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_DARKN_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SLEEP_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SILENCE_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_PARA_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_CONFU_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_CHARM_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_STONE_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_TOAD_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SLOW_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_STOP_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_DACT_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_DMOV_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_BERSK_1_100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_POISON_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_DARKN_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SLEEP_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SILENCE_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_PARA_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_CONFU_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_CHARM_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_STONE_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_TOAD_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_SLOW_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_STOP_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_DACT_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_DMOV_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_BERSK_1_100_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_INV_DEATH",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_INV_DOOM",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_INV_POISON",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_INV_HPDOWN",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_INV_MKBT",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_INV_CTDOWN",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_THI_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_HUN_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_GUN_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_WAR_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_PLD_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_KNT_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_SWN_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_MNK_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_LAN_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_SAM_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_DRG_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_NIN_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_CLR_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_BLM_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_WHM_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_TIM_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_GRM_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_RDM_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_JOB_MGK_1_15_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_GMK_ATK_TEST",
+            "value": "Attaque de Gadget provisoire"
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_FIRE",
+            "value": "Attaque de Gadget provisoire"
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_ARROW",
+            "value": "Attaque de Gadget provisoire (Arc)"
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_KATA_1",
+            "value": "Attaque de Gadget provisoire (Unité de catapulte simple)"
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_KATA_2",
+            "value": "Attaque de Gadget provisoire (Zone de catapulte)"
+        },
+        {
+            "key": "SK_LW_WAR_P_2",
+            "value": "Usage interdit"
+        },
+        {
+            "key": "SK_LW_PLD_P_2",
+            "value": "Usage interdit"
+        },
+        {
+            "key": "SK_LW_SWN_P_2",
+            "value": "Usage interdit"
+        },
+        {
+            "key": "SK_LW_SAM_P_2",
+            "value": "Usage interdit"
+        },
+        {
+            "key": "SK_LW_HUN_P_3",
+            "value": "Usage interdit"
+        },
+        {
+            "key": "SK_LW_WHM_P_2",
+            "value": "Usage interdit"
+        }
+    ]
+}

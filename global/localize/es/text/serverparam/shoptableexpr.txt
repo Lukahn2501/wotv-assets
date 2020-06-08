@@ -1,0 +1,388 @@
+{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "Espada de una mano. Pueden equiparla las siguientes profesiones: lord, guerrero, caballero, paladín, esgrimago, mago rojo, el Alado, escudero, espadachín sacro, caballero vil."
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "Espadón. Pueden equiparlo las siguientes profesiones: soldado."
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "Katana. Pueden equiparla las siguientes profesiones: samurái."
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "Puños. Pueden equiparlos las siguientes profesiones: monje."
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "Lanza. Pueden equiparla las siguientes profesiones: dragontino, lancero."
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "Daga. Pueden equiparla las siguientes profesiones: ladrón."
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "Hoja ninja. Pueden equiparla las siguientes profesiones: ninja."
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "Arco. Pueden equiparlo las siguientes profesiones: montaraz, maga blanca de Lapis."
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "Pistola. Pueden equiparla las siguientes profesiones: pistolero y pistolero doble."
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "Bastón. Pueden equiparlo las siguientes profesiones: mago blanco, mago negro, mago verde, mago del tiempo, hechicera."
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "Maza. Pueden equiparla las siguientes profesiones: clérigo."
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "Armadura. Pueden equiparla las siguientes profesiones: lord, guerrero, caballero, paladín, soldado, samurái, lancero, dragontino, esgrimago, el Alado, escudero, caballero vil."
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "Sombrero. Pueden equiparla las siguientes profesiones: lord, guerrero, monje, lancero, ladrón, montaraz, ninja, pistolero, mago blanco, mago negro, clérigo, mago rojo, mago del tiempo, mago verde, maga blanca de Lapis, pistolero doble, hechicera, sablepistolero, escudero, espadachín sacro."
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "Ropa. Pueden equiparla las siguientes profesiones: lord, guerrero, monje, lancero, ladrón, montaraz, ninja, pistolero, mago blanco, mago negro, clérigo, mago rojo, mago del tiempo, mago verde, maga blanca de Lapis, vikingo, pistolero doble, hechicera, sablepistolero, escudero, espadachín sacro."
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "Yelmo. Pueden equiparlo las siguientes profesiones: lord, guerrero, caballero, lancero, dragontino, paladín, soldado, esgrimago, el Alado, vikingo, escudero, caballero vil."
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "Accesorio. Pueden equiparlo todas las profesiones."
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "Hacha. Pueden equiparla las siguientes profesiones: vikingo."
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "Un lote que contiene objetos para recuperar VIT y curar estados alterados durante las misiones. Oferta especial de la Tienda del principiante."
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "Un lote económico de alcrists (verde) necesario para los nvs. 2–3 de profesión de unidad. Oferta especial de la Tienda del principiante."
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "Un lote económico con todos los tipos de jadeíta necesarios para los nvs. 2–3 de profesión de unidad. Oferta especial de la Tienda del principiante. ¡A mitad de precio!"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "Un lote económico con todos los tipos de jadeíta necesarios para los nvs. 2–3 de profesión de unidad. Oferta especial de la Tienda del principiante. ¡A mitad de precio!"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "Un lote económico de recetas de elaboración para equipo R que puede equiparse con todos los tipos de profesiones. Oferta especial de la Tienda del principiante. ¡A mitad de precio!"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "Un lote económico de recetas de elaboración para equipo R que puede equiparse con todos los tipos de profesiones. Oferta especial de la Tienda del principiante. ¡A mitad de precio!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de fuego y objetos de bonificación como prismas del despertar de fuego. ¡Imprescindible para despertar unidades de fuego!"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de agua y objetos de bonificación como prismas del despertar de agua. ¡Imprescindible para despertar unidades de agua!"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de viento y objetos de bonificación como prismas del despertar de viento. ¡Imprescindible para despertar unidades de viento!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de rayo y objetos de bonificación como prismas del despertar de rayo. ¡Imprescindible para despertar unidades de rayo!"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de tierra y objetos de bonificación como prismas del despertar de tierra. ¡Imprescindible para despertar unidades de tierra!"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de hielo y objetos de bonificación como prismas del despertar de hielo. ¡Imprescindible para despertar unidades de hielo!"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de luz y objetos de bonificación como prismas del despertar de luz. ¡Imprescindible para despertar unidades de luz!"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de oscuridad y objetos de bonificación como prismas del despertar de oscuridad. ¡Imprescindible para despertar unidades de oscuridad!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de fuego y prismas del despertar de fuego de bonificación. ¡Imprescindible para despertar unidades de fuego!"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de agua y objetos de bonificación como prismas del despertar de agua. ¡Imprescindible para despertar unidades de agua!"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de viento y prismas del despertar de viento de bonificación. ¡Imprescindible para despertar unidades de viento!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de rayo y prismas del despertar de rayo de bonificación. ¡Imprescindible para despertar unidades de rayo!"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de tierra y prismas del despertar de tierra de bonificación. ¡Imprescindible para despertar unidades de tierra!"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de hielo y prismas del despertar de hielo de bonificación. ¡Imprescindible para despertar unidades de hielo!"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de luz y prismas del despertar de luz de bonificación. ¡Imprescindible para despertar unidades de luz!"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "Un lote especial que incluye fragmentos de pensamiento de oscuridad y prismas del despertar de oscuridad de bonificación. ¡Imprescindible para despertar unidades de oscuridad!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "¡Un lote especial que incluye almas del despertar (2–4★) necesarias para despertar unidades de fuego!"
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "¡Un lote especial que incluye almas del despertar (2–4★) necesarias para despertar unidades de agua!"
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "¡Un lote especial que incluye almas del despertar (2–4★) necesarias para despertar unidades de viento!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "¡Un lote especial que incluye almas del despertar (2–4★) necesarias para despertar unidades de rayo!"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "¡Un lote especial que incluye almas del despertar (2–4★) necesarias para despertar unidades de tierra!"
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "¡Un lote especial que incluye almas del despertar (2–4★) necesarias para despertar unidades de hielo!"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "¡Un lote especial que incluye almas del despertar (2–4★) necesarias para despertar unidades de luz!"
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "¡Un lote especial que incluye almas del despertar (2–4★) necesarias para despertar unidades de oscuridad!"
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "Un lote especial que contiene cubos de EXP (XL) y esferas de visión arcoíris de bonificación. ¡Imprescindibles para mejorar tus unidades!"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "Este tícket te permite seleccionar una profesión e invocar 4 recuerdos (amarillos) que puedes usar para mejorar dicha profesión. *Los siguientes recuerdos de profesión de unidades de colaboración no están disponibles: sablepistolero, hechicera."
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "Este tícket te permite seleccionar una profesión e invocar 3 recuerdos (morados) que puedes usar para mejorar dicha profesión. *Los siguientes recuerdos de profesión de unidades de colaboración no están disponibles: sablepistolero, hechicera."
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "[Oferta especial para principiantes] ¡Un lote especial con recuerdos de héroe anónimo que se pueden usar en lugar de recuerdos de cualquier profesión!"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "[Oferta especial para principiantes] ¡Un lote especial que incluye un tícket seleccionador de 10 fragmentos de la memoria elementales junto con esferas de visión arcoíris, un tícket seleccionador de 10 prismas del despertar elementales y cubos de EXP (G) a modo de bonificación!"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "¡Este objeto que restaura energía se puede adquirir gratis una vez al día!"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "[Oferta especial por la conmemoración del lanzamiento] Un lote especial que contiene cubos de EXP (XL) junto con esferas de visión arcoíris y fragmentos de la memoria arcoíris a modo de bonificación. ¡Imprescindibles para mejorar tus unidades!"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "Un lote que contiene curas de energía (M) y tíckets de avance de historia."
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "Lote que contiene curas de energía (G) y tíckets de avance de historia."
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "Lote especial que contiene cubos de EXP (XL), una esfera de visión arcoíris a modo de bonificación y fragmentos de la memoria arcoíris. ¡Imprescindible para mejorar tus unidades!"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "¡Este objeto que restaura energía se puede adquirir gratis una vez al día!"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "¡Este objeto para ganar EXP se puede adquirir gratis una vez al día!"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "Lote que contiene cubos de EXP de tamaño P, M y G."
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "Lote que contiene curas de energía (G) y tíckets de avance de historia."
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "Lote que contiene recuerdos lejanos rojos, amarillos, morados y azules."
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "Lote que contiene cubos de EXP de tamaño M, G y XL."
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "Lote que contiene fragmentos de la memoria de rayo y prismas del despertar de rayo."
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "Lote que contiene fragmentos de la memoria de luz y prismas del despertar de luz."
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "Lote que contiene fragmentos de la memoria de tierra y prismas del despertar de tierra."
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "Lote que contiene fragmentos de la memoria de oscuridad y prismas del despertar de oscuridad."
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "Lote especial que contiene una esfera de visión arcoíris, un tícket seleccionador de 100 prismas del despertar y un tícket seleccionador de 100 fragmentos de la memoria. ¡Imprescindible para mejorar unidades!"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "¡Un lote especial que incluye fragmentos de unidad de Ramza UR necesarios para la ruptura de límite, fragmentos de pensamiento de luz necesarios para el despertar, y objetos de bonificación como fragmentos de pensamiento arcoíris y esferas de visión arcoíris!"
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "Lote especial que incluye la unidad de colaboración de FFT Ramza, esferas de visión arcoíris, fragmentos de la memoria arcoíris, prismas del despertar de luz y fragmentos de la memoria de luz."
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "Lote que contiene fragmentos de la memoria de fuego y prismas del despertar de fuego."
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "Lote que contiene fragmentos de la memoria de hielo y prismas del despertar de hielo."
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "¡Consigue tíckets de avance de historia gratis una vez al día!"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "Lote que contiene fragmentos de la memoria de rayo y prismas del despertar de rayo."
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "Lote que contiene fragmentos de la memoria de luz y prismas del despertar de luz."
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "Lote que contiene fragmentos de la memoria de tierra y prismas del despertar de tierra."
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "Lote que contiene fragmentos de la memoria de oscuridad y prismas del despertar de oscuridad."
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "Lote especial que contiene una esfera de visión arcoíris, un tícket seleccionador de 100 prismas del despertar y un tícket seleccionador de 100 fragmentos de la memoria. ¡Imprescindible para mejorar unidades!"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "¡Un lote especial que incluye cubos de EXP (G) y tarros de límite, imprescindibles para mejorar tus estallidos límite!"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "¡Lote especial que incluye adamantita (G) y tarros acorazados, imprescindibles para mejorar tu equipo y sus habilidades!"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "¡Lote especial que contiene un tícket seleccionador de 50 fragmentos de la memoria elementales, una esfera de visión arcoíris a modo de bonificación y un tícket seleccionador de 50 prismas del despertar!"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "Lote que contiene fragmentos de la memoria de agua y prismas del despertar de agua."
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "Lote que contiene fragmentos de la memoria de luz y prismas del despertar de luz."
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "Lote que contiene fragmentos de la memoria de tierra y prismas del despertar de tierra."
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "Lote que contiene huevos nutritivos (SR) y un tícket seleccionador de 10 magicitas elementales (M)."
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "Lote que contiene huevos nutritivos (SR) y un tícket seleccionador de 25 magicitas elementales (M)."
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "Lote que contiene huevos nutritivos (SR) y un tícket seleccionador de 100 magicitas elementales (G)."
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "Lote que contiene fragmentos de la memoria de oscuridad y prismas del despertar de oscuridad."
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "Lote que contiene fragmentos de la memoria de hielo y prismas del despertar de hielo."
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "¡Este objeto para ganar EXP de carta de visión se puede adquirir gratis una vez al día!"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "Lote que contiene un tícket de invocación de unidad UR garantizada, cubos de EXP (G y XL), un tícket seleccionador de 100 fragmentos de la memoria elementales, un tícket seleccionador de 100 prismas del despertar elementales, un fragmento de la memoria arcoíris y esferas de visión arcoíris. *No incluye unidades limitadas, de colaboración, ni a Kiton, Susurro o Miranda."
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "Lote que contiene un tícket de invocación de carta de visión UR garantizada, huevos nutritivos (R y SR), un tícket seleccionador de 10 magicitas (XL) elementales, y esferas de visión arcoíris. *No incluye cartas de visión limitadas, de colaboración, ni a «Odín, el Caballero Implacable»."
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "Lote que contiene fragmentos de la memoria de viento, prismas del despertar de viento, y una esfera de visión arcoíris."
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "Lote que contiene fragmentos de la memoria de fuego, prismas del despertar de fuego, y una esfera de visión arcoíris."
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "Lote que contiene un tícket seleccionador de 50 fragmentos de la memoria elementales, tíckets seleccionadores de 50 prismas del despertar elementales, y una esfera de visión arcoíris."
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "Lote que contiene un tícket seleccionador de 50 fragmentos de carta de visión UR, huevos nutritivos (SR), un tícket seleccionador de 100 magicitas elementales (G), y una esfera de visión arcoíris. *No incluye cartas de visión limitadas, de colaboración, ni a «Odín, el Caballero Implacable»."
+        }
+    ]
+}

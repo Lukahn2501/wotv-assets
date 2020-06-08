@@ -1,0 +1,148 @@
+{
+    "infos": [
+        {
+            "key": "Normal_gacha_A",
+            "value": "Invocation normale"
+        },
+        {
+            "key": "Normal_gacha_A_10",
+            "value": "Invocation normale (x10)"
+        },
+        {
+            "key": "Raregacha_A",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_GL20200408",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200408",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200408",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_GL20200422",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200422",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200422",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_GL20200520",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200520",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200520",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_p_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130",
+            "value": "Commémoration de lancement - Invocation normale limitée"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130_10",
+            "value": "Commémoration de lancement - Invocation x10 normale limitée"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401",
+            "value": "« 1 million de téléchargements » - Invocation normale limitée"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401_10",
+            "value": "« 1 million de téléchargements » - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408",
+            "value": "« 2 millions de téléchargements » - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408_10",
+            "value": "« 2 millions de téléchargements » - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422",
+            "value": "« 3 millions de téléchargements » - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422_10",
+            "value": "« 3 millions de téléchargements » - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_01",
+            "value": "« 4 millions de téléchargements » - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_10",
+            "value": "« 4 millions de téléchargements » - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_01",
+            "value": "Sortie du chapitre 6 ! - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_10",
+            "value": "Sortie du chapitre 6 ! - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_01",
+            "value": "« 5 millions de téléchargements » - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_10",
+            "value": "« 5 millions de téléchargements » - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_01",
+            "value": "Célébration de la nouvelle version - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_10",
+            "value": "Célébration de la nouvelle version - Invocation x10 normale limitée"
+        }
+    ]
+}

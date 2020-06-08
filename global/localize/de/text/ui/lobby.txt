@@ -1,0 +1,92 @@
+{
+    "infos": [
+        {
+            "key": "EVENT_TITLE",
+            "value": "Events"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "Besondere Gegenstände zu gewinnen!"
+        },
+        {
+            "key": "MULTI_TITLE",
+            "value": "Multi"
+        },
+        {
+            "key": "MULTI_DESC",
+            "value": "Mit Freunden auf Mission!"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "Kraftproben"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "Gemeinsam gegen mächtige Gegner!"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "Porzellanturm"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "Härteproben"
+        },
+        {
+            "key": "SUMMON_TITLE",
+            "value": "Höhle des Ungetüms"
+        },
+        {
+            "key": "SUMMON_DESC",
+            "value": "Sammle Erweckungsmaterialien für deine Esper!"
+        },
+        {
+            "key": "QLN_EVENT_1",
+            "value": "Kollaborationsevent jetzt aktiv!"
+        },
+        {
+            "key": "QLN_EVENT_2",
+            "value": "(Test) Ein neues Kapitel ist da!"
+        },
+        {
+            "key": "QLN_MULTI_1",
+            "value": "(Test) Arenamünzen x 2!"
+        },
+        {
+            "key": "QLN_MULTI_2",
+            "value": "(Test) Konfrontation im Gange!"
+        },
+        {
+            "key": "QLN_RAID_1",
+            "value": "Stürze den Schokopudding!"
+        },
+        {
+            "key": "QLN_RAID_2",
+            "value": "Abholzeitraum für Kraftprobenbelohnungen läuft."
+        },
+        {
+            "key": "QLN_TOWER_1",
+            "value": "Ein neues Event ist in Vorbereitung!"
+        },
+        {
+            "key": "QLN_SUMMON_1",
+            "value": "Der Eisengigant ist zurück!"
+        },
+        {
+            "key": "TOWER_OPEN_TITLE",
+            "value": "Freischaltbedingungen"
+        },
+        {
+            "key": "TOWER_OPEN_DESC",
+            "value": "Die folgenden Bedingungen müssen erfüllt sein: <br>Erreiche Spielerrang {0}"
+        },
+        {
+            "key": "QUEST_OPEN_DESC",
+            "value": "Event ist beendet"
+        },
+        {
+            "key": "CHALLENGE_OPEN_DESC",
+            "value": "Herausforderung ist beendet"
+        }
+    ]
+}

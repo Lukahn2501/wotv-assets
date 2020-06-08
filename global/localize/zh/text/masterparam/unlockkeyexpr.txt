@@ -1,0 +1,116 @@
+{
+    "infos": [
+        {
+            "key": "Battle1",
+            "value": ""
+        },
+        {
+            "key": "Battle2",
+            "value": ""
+        },
+        {
+            "key": "Gacha",
+            "value": ""
+        },
+        {
+            "key": "Quest",
+            "value": ""
+        },
+        {
+            "key": "ChallengeMission",
+            "value": ""
+        },
+        {
+            "key": "UnitStrength",
+            "value": ""
+        },
+        {
+            "key": "UnitAwake",
+            "value": "兵員：查看覺醒的導覽"
+        },
+        {
+            "key": "ArtifactCraft",
+            "value": "武具：查看製作的導覽"
+        },
+        {
+            "key": "EventQuest",
+            "value": "查看活動任務的導覽"
+        },
+        {
+            "key": "VisionCard",
+            "value": "查看幻兵卡的導覽"
+        },
+        {
+            "key": "ExplorationChocobo",
+            "value": "查看探險陸行鳥的導覽"
+        },
+        {
+            "key": "Party",
+            "value": "查看編配的導覽"
+        },
+        {
+            "key": "MultiQuest",
+            "value": "查看協力任務的導覽"
+        },
+        {
+            "key": "Arena",
+            "value": "查看鬥技場的導覽"
+        },
+        {
+            "key": "FreeMatch",
+            "value": ""
+        },
+        {
+            "key": "GuildJoin",
+            "value": ""
+        },
+        {
+            "key": "GuildAttendance",
+            "value": ""
+        },
+        {
+            "key": "GuildBarracks",
+            "value": ""
+        },
+        {
+            "key": "GuildStone",
+            "value": ""
+        },
+        {
+            "key": "UnitIntimacy",
+            "value": ""
+        },
+        {
+            "key": "SubQuest",
+            "value": ""
+        },
+        {
+            "key": "Unitsubjob",
+            "value": ""
+        },
+        {
+            "key": "HardQuest",
+            "value": "查看困難任務的導覽"
+        },
+        {
+            "key": "NetherBeast",
+            "value": "查看召喚獸的導覽"
+        },
+        {
+            "key": "CharaQuest",
+            "value": ""
+        },
+        {
+            "key": "GuildBattle",
+            "value": ""
+        },
+        {
+            "key": "SupportUnit",
+            "value": "查看同行者編配的導覽"
+        },
+        {
+            "key": "ItemExchange",
+            "value": ""
+        }
+    ]
+}

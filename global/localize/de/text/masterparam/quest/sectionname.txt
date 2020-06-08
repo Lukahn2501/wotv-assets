@@ -1,0 +1,412 @@
+{
+    "infos": [
+        {
+            "key": "SE_ST_010101",
+            "value": "Teil 1, Kapitel 1, Szene 1"
+        },
+        {
+            "key": "SE_ST_010102",
+            "value": "Teil 1, Kapitel 1, Szene 2"
+        },
+        {
+            "key": "SE_ST_010103",
+            "value": "Teil 1, Kapitel 1, Szene 3"
+        },
+        {
+            "key": "SE_ST_010201",
+            "value": "Teil 1, Kapitel 2, Szene 1"
+        },
+        {
+            "key": "SE_ST_010202",
+            "value": "Teil 1, Kapitel 2, Szene 2"
+        },
+        {
+            "key": "SE_ST_010203",
+            "value": "Teil 1, Kapitel 2, Szene 3"
+        },
+        {
+            "key": "SE_ST_010301",
+            "value": "Teil 1, Kapitel 3, Szene 1"
+        },
+        {
+            "key": "SE_ST_010302",
+            "value": "Teil 1, Kapitel 3, Szene 2"
+        },
+        {
+            "key": "SE_ST_010303",
+            "value": "Teil 1, Kapitel 3, Szene 3"
+        },
+        {
+            "key": "SE_ST_010401",
+            "value": "Teil 1, Kapitel 4, Szene 1"
+        },
+        {
+            "key": "SE_ST_010402",
+            "value": "Teil 1, Kapitel 4, Szene 2"
+        },
+        {
+            "key": "SE_ST_010403",
+            "value": "Teil 1, Kapitel 4, Szene 3"
+        },
+        {
+            "key": "SE_ST_010501",
+            "value": "Teil 1, Kapitel 5, Szene 1"
+        },
+        {
+            "key": "SE_ST_010502",
+            "value": "Teil 1, Kapitel 5, Szene 2"
+        },
+        {
+            "key": "SE_ST_010503",
+            "value": "Teil 1, Kapitel 5, Szene 3"
+        },
+        {
+            "key": "SE_ST_010601",
+            "value": "Teil 1, Kapitel 6, Szene 1"
+        },
+        {
+            "key": "SE_ST_010602",
+            "value": "Teil 1, Kapitel 6, Szene 2"
+        },
+        {
+            "key": "SE_WD_010101",
+            "value": "Weiter Wald des Löwen"
+        },
+        {
+            "key": "SE_WD_010102",
+            "value": "Schloss Leonis"
+        },
+        {
+            "key": "SE_WD_010103",
+            "value": "Der Berg Sorgie"
+        },
+        {
+            "key": "SE_WD_010104",
+            "value": "Überlandstraße des Löwen"
+        },
+        {
+            "key": "SE_WD_010105",
+            "value": "Schrein des Löwen"
+        },
+        {
+            "key": "SE_WD_010106",
+            "value": "Nördliche Symbus-Ebenen"
+        },
+        {
+            "key": "SE_WD_010107",
+            "value": "Südliche Symbus-Ebenen"
+        },
+        {
+            "key": "SE_WD_010108",
+            "value": "Reedar-Bergkette"
+        },
+        {
+            "key": "SE_WD_010109",
+            "value": "Zanagar-Feste"
+        },
+        {
+            "key": "SE_WD_010110",
+            "value": "Wald von Rasheena"
+        },
+        {
+            "key": "SE_WD_010201",
+            "value": "Die Festung Sykkel"
+        },
+        {
+            "key": "SE_SB_01",
+            "value": "Höhle des Ungetüms"
+        },
+        {
+            "key": "SE_SB_02",
+            "value": "Herausforderung des Eisengiganten"
+        },
+        {
+            "key": "SE_MU_SB_02",
+            "value": "Herausforderung des Eisengiganten"
+        },
+        {
+            "key": "SE_EV_UNITEXP_01",
+            "value": "ERF-Kammer"
+        },
+        {
+            "key": "SE_EV_GIL_01",
+            "value": "Gil-Kammer"
+        },
+        {
+            "key": "SE_EV_AFEXP_01",
+            "value": "Erz-Kammer"
+        },
+        {
+            "key": "SE_EV_VCEXP_01",
+            "value": "Belohnungsauftrag „Wachstumsei“"
+        },
+        {
+            "key": "SE_EV_WAEXP_01",
+            "value": "Belohnungsauftrag „Kessel“"
+        },
+        {
+            "key": "SE_EV_AW_FIRE",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_EV_AW_WIND",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_EV_AW_WATER",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_EV_AW_ICE",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_EV_AW_SOIL",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_EV_AW_DARK",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_EV_AW_THUN",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_EV_AW_SHIN",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_EV_SM_FIRE_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_EV_SM_WTR_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_EV_SM_WIND_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_EV_SM_EAR_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_EV_SM_THUN_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_EV_SM_ICE_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_EV_SM_DARK_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_EV_SM_SHIN_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_01",
+            "value": "(Vorläufig) Kammer mit hochstufigen Materialien"
+        },
+        {
+            "key": "SE_EV_GIL",
+            "value": "Gil-Kammer"
+        },
+        {
+            "key": "SE_EV_AFEXP",
+            "value": "Erz-Kammer"
+        },
+        {
+            "key": "SE_BGN_QUEST",
+            "value": "Anfängerauftrag"
+        },
+        {
+            "key": "SE_EV_GL_1M_DL",
+            "value": "Auftrag zur Feier von 1 Million Downloads"
+        },
+        {
+            "key": "SE_EV_FF14_01",
+            "value": "FINAL FANTASY XIV: Shadowbringers"
+        },
+        {
+            "key": "SE_EV_FF14_EX_01",
+            "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
+        },
+        {
+            "key": "SE_EV_ETRE",
+            "value": "Trainingsauftrag „Etre“"
+        },
+        {
+            "key": "SE_EV_ETRE_EX",
+            "value": "Hoher Schwierigkeitsgrad: Trainingsauftrag „Etre“ [EX]"
+        },
+        {
+            "key": "SE_EV_01_01",
+            "value": "Der begehrte Prinz"
+        },
+        {
+            "key": "SE_EV_01_EX_01",
+            "value": "Der begehrte Prinz"
+        },
+        {
+            "key": "SE_MU_EV_01_EX",
+            "value": "Der begehrte Prinz [EX]"
+        },
+        {
+            "key": "SE_EV_02_01",
+            "value": "Rundall, Bedrohung im Westen"
+        },
+        {
+            "key": "SE_EV_02_EX_01",
+            "value": "Rundall, Bedrohung im Westen"
+        },
+        {
+            "key": "SE_MU_EV_02_EX",
+            "value": "Rundall, Bedrohung im Westen [EX]"
+        },
+        {
+            "key": "SE_EV_ANV_19_10",
+            "value": "Auftrag zum Veröffentlichungsandenken"
+        },
+        {
+            "key": "SE_EV_GL_2M_DL",
+            "value": "„2 Millionen Downloads“-Feier: JP-Belohnungsauftrag"
+        },
+        {
+            "key": "SE_EV_GL_3M_DL",
+            "value": "„3 Millionen Downloads“-Feierauftrag"
+        },
+        {
+            "key": "SE_MU_AW_FIRE",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_MU_AW_WIND",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_MU_AW_WATER",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_MU_AW_ICE",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_MU_AW_SOIL",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_MU_AW_DARK",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_MU_AW_THUN",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_MU_AW_SHIN",
+            "value": "(Vorläufig) Kammer der Jobverbesserung (Elementarmaterialien)"
+        },
+        {
+            "key": "SE_MU_SM_FIRE_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_MU_SM_WTR_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_MU_SM_WIND_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_MU_SM_EAR_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_MU_SM_THUN_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_MU_SM_ICE_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_MU_SM_DARK_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_MU_SM_SHIN_01",
+            "value": "Esper-Erweckungskammer"
+        },
+        {
+            "key": "SE_MU_AW_HIGH_01",
+            "value": "(Vorläufig) Kammer mit hochstufigen Materialien"
+        },
+        {
+            "key": "SE_MU_EV_ETRE_EX",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Trainingsauftrag „Etre“ [EX]"
+        },
+        {
+            "key": "SE_EV_ART_CRF_01",
+            "value": "Ausrüstungsverbesserungsauftrag"
+        },
+        {
+            "key": "SE_EV_FFT_01",
+            "value": "FINAL FANTASY TACTICS-Auftrag"
+        },
+        {
+            "key": "SE_EV_FFT_01_EX",
+            "value": "FINAL FANTASY TACTICS-Auftrag [EX]"
+        },
+        {
+            "key": "SE_MU_FFT_01_EX",
+            "value": "FINAL FANTASY TACTICS-Auftrag [EX]"
+        },
+        {
+            "key": "SE_EV_ART_SCR_01",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
+        },
+        {
+            "key": "SE_MU_EV_SCR_01",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
+        },
+        {
+            "key": "SE_EV_JP_001",
+            "value": "JP-Belohnungsauftrag"
+        },
+        {
+            "key": "SE_EV_ART_CRF_02",
+            "value": "Brutaler Schwierigkeitsgrad: Ausrüstungsverbesserungsauftrag"
+        },
+        {
+            "key": "SE_MU_ART_CRF_02",
+            "value": "Brutaler Schwierigkeitsgrad: Ausrüstungsverbesserungsauftrag"
+        },
+        {
+            "key": "SE_EV_ART_CRF_03",
+            "value": "Ausrüstungsverbesserungsauftrag"
+        },
+        {
+            "key": "SE_MU_ART_CRF_03",
+            "value": "Ausrüstungsverbesserungsauftrag"
+        },
+        {
+            "key": "SE_EV_ART_SCR_02",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
+        },
+        {
+            "key": "SE_MU_EV_SCR_02",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
+        },
+        {
+            "key": "SE_EV_BEGN_2001",
+            "value": "Einheitentraining - Unterstützungsauftrag"
+        }
+    ]
+}

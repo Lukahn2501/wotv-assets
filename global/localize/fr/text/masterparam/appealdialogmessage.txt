@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "9999",
+            "value": "[Nombre total de tentatives pour les quêtes difficiles +10 A]<br>est disponible à l'achat !"
+        }
+    ]
+}

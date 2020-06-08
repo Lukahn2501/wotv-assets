@@ -1,0 +1,84 @@
+{
+    "infos": [
+        {
+            "key": "GE_DEFAULT1",
+            "value": "문장 1"
+        },
+        {
+            "key": "GE_DEFAULT2",
+            "value": "문장 2"
+        },
+        {
+            "key": "GE_DEFAULT3",
+            "value": "문장 3"
+        },
+        {
+            "key": "GE_DEFAULT4",
+            "value": "문장 4"
+        },
+        {
+            "key": "GE_DEFAULT5",
+            "value": "문장 5"
+        },
+        {
+            "key": "GE_REWARD1",
+            "value": "문장 6"
+        },
+        {
+            "key": "GE_REWARD2",
+            "value": "문장 7"
+        },
+        {
+            "key": "GE_REWARD3",
+            "value": "문장 8"
+        },
+        {
+            "key": "GE_REWARD4",
+            "value": "문장 9"
+        },
+        {
+            "key": "GE_REWARD5",
+            "value": "문장 10"
+        },
+        {
+            "key": "GE_REWARD6",
+            "value": "문장 11"
+        },
+        {
+            "key": "GE_REWARD7",
+            "value": "문장 12"
+        },
+        {
+            "key": "GE_REWARD8",
+            "value": "문장 13"
+        },
+        {
+            "key": "GE_REWARD9",
+            "value": "문장 14"
+        },
+        {
+            "key": "GE_REWARD10",
+            "value": "문장 15"
+        },
+        {
+            "key": "GE_REWARD11",
+            "value": "문장 16"
+        },
+        {
+            "key": "GE_REWARD12",
+            "value": "문장 20"
+        },
+        {
+            "key": "GE_REWARD13",
+            "value": "문장 19"
+        },
+        {
+            "key": "GE_REWARD14",
+            "value": "문장 18"
+        },
+        {
+            "key": "GE_REWARD15",
+            "value": "문장 17"
+        }
+    ]
+}

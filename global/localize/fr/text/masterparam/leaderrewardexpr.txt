@@ -1,0 +1,24 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "Récompenses de chef : rang 1"
+        },
+        {
+            "key": "2",
+            "value": "Récompenses de chef : rang 2"
+        },
+        {
+            "key": "3",
+            "value": "Récompenses de chef : rang 3"
+        },
+        {
+            "key": "4",
+            "value": "Récompenses de chef : rang 4"
+        },
+        {
+            "key": "5",
+            "value": "Récompenses de chef : rang 5"
+        }
+    ]
+}

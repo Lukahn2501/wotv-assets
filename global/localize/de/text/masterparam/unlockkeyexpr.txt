@@ -1,0 +1,116 @@
+{
+    "infos": [
+        {
+            "key": "Battle1",
+            "value": ""
+        },
+        {
+            "key": "Battle2",
+            "value": ""
+        },
+        {
+            "key": "Gacha",
+            "value": ""
+        },
+        {
+            "key": "Quest",
+            "value": ""
+        },
+        {
+            "key": "ChallengeMission",
+            "value": ""
+        },
+        {
+            "key": "UnitStrength",
+            "value": ""
+        },
+        {
+            "key": "UnitAwake",
+            "value": "Tutorial „Einheit – Erweckung“ ansehen."
+        },
+        {
+            "key": "ArtifactCraft",
+            "value": "Tutorial „Ausrüstung – Herstellung“ ansehen."
+        },
+        {
+            "key": "EventQuest",
+            "value": "Tutorial „Eventauftrag“ ansehen."
+        },
+        {
+            "key": "VisionCard",
+            "value": "Tutorial „Visionskarte“ ansehen."
+        },
+        {
+            "key": "ExplorationChocobo",
+            "value": "Tutorial „Chocobo-Expedition“ ansehen."
+        },
+        {
+            "key": "Party",
+            "value": "Tutorial „Aufstellung“ ansehen."
+        },
+        {
+            "key": "MultiQuest",
+            "value": "Tutorial „Multiauftrag“ ansehen."
+        },
+        {
+            "key": "Arena",
+            "value": "Tutorial „Arena“ ansehen."
+        },
+        {
+            "key": "FreeMatch",
+            "value": ""
+        },
+        {
+            "key": "GuildJoin",
+            "value": ""
+        },
+        {
+            "key": "GuildAttendance",
+            "value": ""
+        },
+        {
+            "key": "GuildBarracks",
+            "value": ""
+        },
+        {
+            "key": "GuildStone",
+            "value": ""
+        },
+        {
+            "key": "UnitIntimacy",
+            "value": ""
+        },
+        {
+            "key": "SubQuest",
+            "value": ""
+        },
+        {
+            "key": "Unitsubjob",
+            "value": ""
+        },
+        {
+            "key": "HardQuest",
+            "value": "Tutorial „Schwierige Aufträge“ ansehen."
+        },
+        {
+            "key": "NetherBeast",
+            "value": "Tutorial „Esper“ ansehen."
+        },
+        {
+            "key": "CharaQuest",
+            "value": ""
+        },
+        {
+            "key": "GuildBattle",
+            "value": ""
+        },
+        {
+            "key": "SupportUnit",
+            "value": "Tutorial „Aufstellung – Begleiter“ ansehen."
+        },
+        {
+            "key": "ItemExchange",
+            "value": ""
+        }
+    ]
+}

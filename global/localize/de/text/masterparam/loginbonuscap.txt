@@ -1,0 +1,76 @@
+{
+    "infos": [
+        {
+            "key": "LB_BEGINNER_001",
+            "value": "Einsteiger-Anmeldebonus"
+        },
+        {
+            "key": "LB_TOTAL_001",
+            "value": "Kumulativer Anmeldebonus"
+        },
+        {
+            "key": "LB_202003",
+            "value": "März-Anmeldebonus"
+        },
+        {
+            "key": "LB_202004",
+            "value": "April-Anmeldebonus"
+        },
+        {
+            "key": "LB_202005",
+            "value": "Mai-Anmeldebonus"
+        },
+        {
+            "key": "LB_202006",
+            "value": "Juni-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL_0001",
+            "value": "Veröffentlichungsandenken"
+        },
+        {
+            "key": "LB_LIMIT_0001",
+            "value": "Feierlicher „1 Million Downloads“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0000",
+            "value": "Feierlicher „2 Millionen Downloads“-Anmeldebonus"
+        },
+        {
+            "key": "LB_COMEBACK_001",
+            "value": "Anmeldebonus für Rückkehrer"
+        },
+        {
+            "key": "LB_LIMIT_0007",
+            "value": "Feierlicher FFT-Kollabo-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0001",
+            "value": "Feierlicher „3 Millionen Downloads“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0002",
+            "value": "Feierlicher „3 Millionen Downloads“-Anmeldebonus Teil 2"
+        },
+        {
+            "key": "LB_LIMIT_GL0003",
+            "value": "Feierlicher „4 Millionen Downloads“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0004",
+            "value": "„Kapitel 6 veröffentlicht!“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0005",
+            "value": "Feierlicher „5 Millionen Downloads“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0006",
+            "value": "Feierlicher „5 Millionen Downloads“-Anmeldebonus Teil II"
+        },
+        {
+            "key": "LB_LIMIT_GL0007",
+            "value": "Anmeldebonus zur Feier des Versionsupdates"
+        }
+    ]
+}

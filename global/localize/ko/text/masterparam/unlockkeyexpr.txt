@@ -1,0 +1,116 @@
+{
+    "infos": [
+        {
+            "key": "Battle1",
+            "value": ""
+        },
+        {
+            "key": "Battle2",
+            "value": ""
+        },
+        {
+            "key": "Gacha",
+            "value": ""
+        },
+        {
+            "key": "Quest",
+            "value": ""
+        },
+        {
+            "key": "ChallengeMission",
+            "value": ""
+        },
+        {
+            "key": "UnitStrength",
+            "value": ""
+        },
+        {
+            "key": "UnitAwake",
+            "value": "유닛: 각성 가이드를 봅니다."
+        },
+        {
+            "key": "ArtifactCraft",
+            "value": "장비: 제작 가이드를 봅니다."
+        },
+        {
+            "key": "EventQuest",
+            "value": "이벤트 퀘스트 가이드를 봅니다."
+        },
+        {
+            "key": "VisionCard",
+            "value": "비전 카드 가이드를 봅니다."
+        },
+        {
+            "key": "ExplorationChocobo",
+            "value": "탐험 초코보 가이드를 봅니다."
+        },
+        {
+            "key": "Party",
+            "value": "편성 가이드를 봅니다."
+        },
+        {
+            "key": "MultiQuest",
+            "value": "멀티 퀘스트 가이드를 봅니다."
+        },
+        {
+            "key": "Arena",
+            "value": "결투장 가이드를 봅니다."
+        },
+        {
+            "key": "FreeMatch",
+            "value": ""
+        },
+        {
+            "key": "GuildJoin",
+            "value": ""
+        },
+        {
+            "key": "GuildAttendance",
+            "value": ""
+        },
+        {
+            "key": "GuildBarracks",
+            "value": ""
+        },
+        {
+            "key": "GuildStone",
+            "value": ""
+        },
+        {
+            "key": "UnitIntimacy",
+            "value": ""
+        },
+        {
+            "key": "SubQuest",
+            "value": ""
+        },
+        {
+            "key": "Unitsubjob",
+            "value": ""
+        },
+        {
+            "key": "HardQuest",
+            "value": "하드 퀘스트 가이드를 봅니다."
+        },
+        {
+            "key": "NetherBeast",
+            "value": "소환수 가이드를 봅니다."
+        },
+        {
+            "key": "CharaQuest",
+            "value": ""
+        },
+        {
+            "key": "GuildBattle",
+            "value": ""
+        },
+        {
+            "key": "SupportUnit",
+            "value": "동행자 편성 가이드를 봅니다."
+        },
+        {
+            "key": "ItemExchange",
+            "value": ""
+        }
+    ]
+}

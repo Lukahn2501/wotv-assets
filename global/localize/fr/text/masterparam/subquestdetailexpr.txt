@@ -1,0 +1,92 @@
+{
+    "infos": [
+        {
+            "key": "SQ_WD_010101_01",
+            "value": "Terrassez 10 « Loups » ennemis"
+        },
+        {
+            "key": "SQ_WD_010101_02",
+            "value": "Améliorez 10 fois l'équipement"
+        },
+        {
+            "key": "SQ_WD_010102_01",
+            "value": "Améliorez 10 fois les aptitudes"
+        },
+        {
+            "key": "SQ_WD_010102_02",
+            "value": "Obtenez 10 « Cœurs meurtris »"
+        },
+        {
+            "key": "SQ_WD_010103_01",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 1 fois"
+        },
+        {
+            "key": "SQ_WD_010103_02",
+            "value": "Jouez 1 fois dans l'Arène"
+        },
+        {
+            "key": "SQ_WD_010104_01",
+            "value": "Envoyez 1 fois un cadeau à un ami"
+        },
+        {
+            "key": "SQ_WD_010104_02",
+            "value": "Terminez 1 fois la Chambre d'EXP (Intermédiaire)"
+        },
+        {
+            "key": "SQ_WD_010105_01",
+            "value": "Améliorez 10 fois les chimères"
+        },
+        {
+            "key": "SQ_WD_010105_02",
+            "value": "Terminez 1 fois la Chambre de Gils (Intermédiaire)"
+        },
+        {
+            "key": "SQ_WD_010106_01",
+            "value": "Sortez 1 fois vainqueur de l'Arène"
+        },
+        {
+            "key": "SQ_WD_010106_02",
+            "value": "Terminez 5 fois les quêtes multi"
+        },
+        {
+            "key": "SQ_WD_010107_01",
+            "value": "Éveillez 1 fois un équipement"
+        },
+        {
+            "key": "SQ_WD_010107_02",
+            "value": "Allez faire un tour dans les boutiques et réalisez des achats en 5 fois"
+        },
+        {
+            "key": "SQ_WD_010108_01",
+            "value": "Terminez 5 fois les quêtes avec un personnage de soutien"
+        },
+        {
+            "key": "SQ_WD_010108_02",
+            "value": "Sortez 5 fois vainqueur de l'Arène"
+        },
+        {
+            "key": "SQ_WD_010109_01",
+            "value": "Terminez 1 fois la Chambre d'EXP (Avancé)"
+        },
+        {
+            "key": "SQ_WD_010109_02",
+            "value": "Atteignez le niv. 10 de votre aptitude"
+        },
+        {
+            "key": "SQ_WD_010110_01",
+            "value": "Jouez 1 fois dans un face-à-face"
+        },
+        {
+            "key": "SQ_WD_010110_02",
+            "value": "Éveillez 1 fois une chimère"
+        },
+        {
+            "key": "SQ_WD_010201_01",
+            "value": "Terminez 1 fois la Chambre de pots (Avancé)"
+        },
+        {
+            "key": "SQ_WD_010201_02",
+            "value": "Terminez 1 fois la Chambre de l'Œuf de croissance (Avancé)"
+        }
+    ]
+}

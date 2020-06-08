@@ -1,0 +1,388 @@
+{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "Épée à une main : peut être équipée par les seigneurs, les guerriers, les chevaliers, les paladins, les magilames, les mages rouges, Ailes d'acier, les écuyers, les épées sacrées et les chevaliers occultes"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "Spathe : peut être équipée par les soldats"
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "Katana : peut être équipé par les samouraïs"
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "Poings : peuvent être équipés par les moines"
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "Lance : peut être équipée par les dragonniers et les lanciers"
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "Dague : peut être équipée par les voleurs"
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "Lame ninja : peut être équipée par les ninjas"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "Arc : peut être équipé par les chasseurs et les mages blancs de Lapis"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "Fusil : peut être équipé par les artilleurs et les artilleurs ambidextres"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "Bâton : peut être équipé par les mages blancs, les mages noirs, les mages verts, les chronomages et les sorcières"
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "Masse : peut être équipée par les prêtres"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "Armure : peut être équipée par les seigneurs, les guerriers, les chevaliers, les paladins, les soldats, les samouraïs, les lanciers, les dragonniers, les magilames, Ailes d'acier, les écuyers et les chevaliers occultes"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "Chapeau : peut être équipé par les seigneurs, les guerriers, les moines, les lanciers, les voleurs, les chasseurs, les ninjas, les artilleurs, les mages blancs, les mages noirs, les prêtres, les mages rouges, les chronomages, les mages verts, les mages blancs de Lapis, les artilleurs ambidextres, les sorcières, les pistosabreurs, les écuyers et les épées sacrées."
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "Vêtement : peut être équipé par les seigneurs, les guerriers, les moines, les lanciers, les voleurs, les chasseurs, les ninjas, les artilleurs, les mages blancs, les mages noirs, les prêtres, les mages rouges, les chronomages, les mages verts, les mages blancs de Lapis, les sorcières, les pistosabreurs, les écuyers et les épées sacrées."
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "Casque : peut être équipé par les seigneurs, les guerriers, les samouraïs, les lanciers, les dragonniers, les chevaliers, les paladins, les soldats, les magilames, Ailes d'acier, les vikings, les écuyers et les chevaliers occultes"
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "Accessoire : peut être équipé par tous les jobs"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "Hache : peut être équipée par les vikings"
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "Lot d'objets pour restaurer les PV et soigner les altérations d'état pendant les quêtes. Offre spéciale de la boutique du débutant."
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "Un lot spécial rempli d'alcrists (Vert) essentiels aux jobs des niv. 2-3. Offre spéciale de la boutique du débutant."
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "Un lot spécial rempli de tous les types de jades essentiels aux jobs des niv. 2-3. Offre spéciale de la boutique du débutant - Moitié prix !"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "Un lot spécial rempli de tous les types de jades essentiels aux jobs des niv. 2-3. Offre spéciale de la boutique du débutant - Moitié prix !"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "Un lot spécial rempli de recettes pour les équipements R qui sont compatibles avec tous les types de job. Offre spéciale de la boutique du débutant - Moitié prix !"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "Un lot spécial rempli de recettes pour les équipements R qui sont compatibles avec tous les types de job. Offre spéciale de la boutique du débutant - Moitié prix !"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "Un lot spécial rempli de fragments de pensée de feu et des bonus tels que des prismes d'éveil de feu ! De quoi éveiller vos unités de feu !"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "Un lot spécial rempli de fragments de pensée d'eau et des bonus tels que des prismes d'éveil d'eau ! De quoi éveiller vos unités d'eau !"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "Un lot spécial rempli de fragments de pensée de vent et des bonus tels que des prismes d'éveil de vent ! De quoi éveiller vos unités de vent !"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "Un lot spécial rempli de fragments de pensée de foudre et des bonus tels que des prismes d'éveil de foudre ! De quoi éveiller vos unités de foudre !"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "Un lot spécial rempli de fragments de pensée de terre et des bonus tels que des prismes d'éveil de terre ! De quoi éveiller vos unités de terre !"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "Un lot spécial rempli de fragments de pensée de glace et des bonus tels que des prismes d'éveil de glace ! De quoi éveiller vos unités de glace !"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "Un lot spécial rempli de fragments de pensée de lumière et des bonus tels que des prismes d'éveil de lumière ! De quoi éveiller vos unités de lumière !"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "Un lot spécial rempli de fragments de pensée d'ombre et des bonus tels que des prismes d'éveil d'ombre ! De quoi éveiller vos unités d'ombre !"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "Un lot spécial rempli de fragments de pensée de feu et des prismes d'éveil de feu en bonus ! De quoi éveiller vos unités de feu !"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "Un lot spécial rempli de fragments de pensée d'eau et des prismes d'éveil d'eau en bonus ! De quoi éveiller vos unités d'eau !"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "Un lot spécial rempli de fragments de pensée de vent et des prismes d'éveil de vent en bonus ! De quoi éveiller vos unités de vent !"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "Un lot spécial rempli de fragments de pensée de foudre et des prismes d'éveil de foudre en bonus ! De quoi éveiller vos unités de foudre !"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "Un lot spécial rempli de fragments de pensée de terre et des prismes d'éveil de terre en bonus ! De quoi éveiller vos unités de terre !"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "Un lot spécial rempli de fragments de pensée de glace et des bonus tels que des prismes d'éveil de glace ! De quoi éveiller vos unités de glace !"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "Un lot spécial rempli de fragments de pensée de lumière et des prismes d'éveil de lumière en bonus ! De quoi éveiller vos unités de lumière !"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "Un lot spécial rempli de fragments de pensée d'ombre et des prismes d'éveil d'ombre en bonus ! De quoi éveiller vos unités d'ombre !"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de feu."
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités d'eau."
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de vent."
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de foudre."
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de terre."
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de glace."
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de lumière."
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités d'ombre."
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "Un lot spécial rempli de cubes d'EXP (XL), avec des orbes de vision arc-en-ciel et des fragments de pensée arc-en-ciel en bonus ! De quoi renforcer vos unités !"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "Un ticket qui vous permet de sélectionner un job et d'invoquer quatre souvenirs jaunes que vous pourrez utiliser pour améliorer ce même job. *Les souvenirs des jobs des unités de la collaboration suivants ne sont pas inclus : pistosabreur et sorcière."
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "Un ticket qui vous permet de sélectionner un job et d'invoquer trois souvenirs violets que vous pourrez utiliser pour améliorer ce même job. *Les souvenirs des jobs des unités de la collaboration suivants ne sont pas inclus : pistosabreur et sorcière."
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "[Offre spéciale pour les débutants] Un lot spécial renfermant les souvenirs du héros sans nom, souvenirs qui peuvent être utilisés à la place de n'importe quel autre souvenir de job !"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "[Offre spéciale pour les débutants] Un lot spécial contenant un ticket sélectionneur de fragment de pensée (x10), avec en bonus des orbes de vision arc-en-ciel, un ticket sélectionneur de prisme d'éveil (x10) et des cubes d'EXP (L) !"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "Un objet qui vous permettra de restaurer votre endurance et qui peut être obtenu gratuitement une fois par jour !"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "[Offre spéciale pour le lancement du jeu] Un lot spécial rempli de cubes d'EXP (XL), avec des orbes de vision et des fragments de pensée arc-en-ciel en bonus ! De quoi renforcer vos unités !"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "Ce lot contient de la restauration d'endurance (M) et des tickets évit'quête (histoire)."
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "Ce lot contient de la restauration d'endurance (L) et des tickets évit'quête (histoire)."
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "Un lot spécial rempli de cubes d'EXP (XL), avec un orbe de vision arc-en-ciel et un fragment de pensée arc-en-ciel en bonus ! De quoi renforcer vos unités !"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "Un objet qui vous permettra de restaurer votre endurance et qui peut être obtenu gratuitement une fois par jour !"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "Un objet qui vous permet d'augmenter votre EXP et qui peut être obtenu gratuitement une fois par jour !"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "Ce lot contient des cubes d'EXP S, M et L."
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "Ce lot contient de la restauration d'endurance (L) et des tickets évit'quête (histoire)."
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "Ce lot contient des souvenirs confus rouges, jaunes, violets et bleus."
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "Ce lot contient des cubes d'EXP M, L et XL."
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "Ce lot contient des fragments de pensée de foudre et des prismes d'éveil de foudre."
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "Ce lot contient des fragments de pensée de lumière et des prismes d'éveil de lumière."
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "Ce lot contient des fragments de pensée de terre et des prismes d'éveil de terre."
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "Ce lot contient des fragments de pensée d'ombre et des prismes d'éveil d'ombre."
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "Un lot spécial contenant un orbe de vision arc-en-ciel, un ticket sélectionneur de prisme d'éveil (x100) et un ticket sélectionneur de fragment de pensée (x100) ! L'essentiel pour entraîner vos unités !"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "Un lot spécial rempli de fragments d'unité UR de Ramza, nécessaires pour briser la limite, ainsi que des fragments de pensée de lumière pour l'éveil et des bonus tels que des fragments de pensée arc-en-ciel et des orbes de vision arc-en-ciel !"
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "Un lot spécial qui contient l'unité Ramza de FFT, des orbes de vision arc-en-ciel, des fragments de pensée arc-en-ciel, des prismes d'éveil de lumière et des fragments de pensée de lumière."
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "Ce lot contient des fragments de pensée de feu et des prismes d'éveil de feu."
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "Ce lot contient des fragments de pensée de glace et des prismes d'éveil de glace."
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "Obtenez une fois par jour des tickets évit'quête gratuits !"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "Ce lot contient des fragments de pensée de foudre et des prismes d'éveil de foudre."
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "Ce lot contient des fragments de pensée de lumière et des prismes d'éveil de lumière."
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "Ce lot contient des fragments de pensée de terre et des prismes d'éveil de terre."
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "Ce lot contient des fragments de pensée d'ombre et des prismes d'éveil d'ombre."
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "Un lot spécial contenant un orbe de vision arc-en-ciel, un ticket sélectionneur de prisme d'éveil (x100) et un ticket sélectionneur de fragment de pensée (x100) ! L'essentiel pour entraîner vos unités !"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "Un lot spécial contenant des cubes d'EXP (L) avec des pots de limite. Des objets essentiels pour améliorer votre Limite !"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "Un lot spécial contenant de l'adamantine (L) et des pots d'armure. Des objets essentiels pour améliorer votre équipement et vos aptitudes !"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "Un lot spécial contenant un ticket sélectionneur de fragment de pensée x50, avec en bonus un orbe de vision arc-en-ciel et un ticket sélectionneur de prisme d'éveil x50 !"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "Ce lot contient des fragments de pensée d'eau et des prismes d'éveil d'eau."
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "Ce lot contient des fragments de pensée de lumière et des prismes d'éveil de lumière."
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "Ce lot contient des fragments de pensée de terre et des prismes d'éveil de terre."
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "Ce lot contient des œufs de croissance (SR) et 1 ticket sélectionneur de 10 magilithes élémentaires (M)."
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "Ce lot contient des œufs de croissance (SR) et 1 ticket sélectionneur de 25 magilithes élémentaires (M)."
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "Ce lot contient des œufs de croissance (SR) et 1 ticket sélectionneur de 100 magilithes élémentaires (L)."
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "Ce lot contient des fragments de pensée d'ombre et des prismes d'éveil d'ombre."
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "Ce lot contient des fragments de pensée de glace et des prismes d'éveil de glace."
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "Un objet qui vous permet d'augmenter l'EXP de votre atout-vision et qui peut être obtenu gratuitement une fois par jour !"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "Un lot contenant un ticket d'invocation d'unité UR garantie, des cubes d'EXP (L/XL), un ticket sélectionneur de 100 fragments de pensée élémentaires, un ticket sélectionneur de 100 prismes d'éveil élémentaires, un fragment de pensée arc-en-ciel et des orbes de vision arc-en-ciel ! * Les unités limitées, les unités des collaborations, ainsi que Kitone et « Chuchote », ne sont pas incluses."
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "Ce lot contient un ticket d'invocation d'atout-vision UR garanti, des œufs de croissance (R/SR), un ticket sélectionneur de 10 magilithes élémentaires (XL) et des orbes de vision arc-en-ciel. * Les atouts-visions limités, les atouts-visions des collaborations, ainsi que « Odin, le Saccageur », ne sont pas inclus."
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "Ce lot contient des fragments de pensée de vent, des prismes d'éveil de vent et un orbe de vision arc-en-ciel."
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "Ce lot contient des fragments de pensée de feu, des prismes d'éveil de feu et un orbe de vision arc-en-ciel."
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "Un lot qui contient un ticket sélectionneur de 50 fragments de pensée élémentaires, un orbe de vision arc-en-ciel et un ticket sélectionneur de 50 prismes d'éveil élémentaires !"
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "Ce lot contient un ticket sélectionneur de 50 fragments d'atout-vision UR, des œufs de croissance (SR), un ticket sélectionneur de 100 magilithes élémentaires (L) et un orbe de vision arc-en-ciel. * Les atouts-visions limités, les atouts-visions des collaborations, ainsi que « Odin, le Saccageur », ne sont pas inclus."
+        }
+    ]
+}

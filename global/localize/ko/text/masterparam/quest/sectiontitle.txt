@@ -1,0 +1,412 @@
+{
+    "infos": [
+        {
+            "key": "SE_ST_010101",
+            "value": "철의 공주"
+        },
+        {
+            "key": "SE_ST_010102",
+            "value": "야만족의 왕"
+        },
+        {
+            "key": "SE_ST_010103",
+            "value": "맹세의 말"
+        },
+        {
+            "key": "SE_ST_010201",
+            "value": "큰 역할"
+        },
+        {
+            "key": "SE_ST_010202",
+            "value": "의리에 살다"
+        },
+        {
+            "key": "SE_ST_010203",
+            "value": " '창궁' 귀환하다"
+        },
+        {
+            "key": "SE_ST_010301",
+            "value": "북쪽을 향해"
+        },
+        {
+            "key": "SE_ST_010302",
+            "value": "무라가의 비밀"
+        },
+        {
+            "key": "SE_ST_010303",
+            "value": "반격의 봉화"
+        },
+        {
+            "key": "SE_ST_010401",
+            "value": "지금이 바로 그때"
+        },
+        {
+            "key": "SE_ST_010402",
+            "value": "왕비의 결의"
+        },
+        {
+            "key": "SE_ST_010403",
+            "value": "혼돈"
+        },
+        {
+            "key": "SE_ST_010501",
+            "value": "다가오는 위협"
+        },
+        {
+            "key": "SE_ST_010502",
+            "value": "레오니스를 위하여"
+        },
+        {
+            "key": "SE_ST_010503",
+            "value": "천제의 검"
+        },
+        {
+            "key": "SE_ST_010601",
+            "value": "하얀 송곳니"
+        },
+        {
+            "key": "SE_ST_010602",
+            "value": "더럽혀진 혈통"
+        },
+        {
+            "key": "SE_WD_010101",
+            "value": "레온즈 대삼림"
+        },
+        {
+            "key": "SE_WD_010102",
+            "value": "레오니스 성"
+        },
+        {
+            "key": "SE_WD_010103",
+            "value": "소기 산"
+        },
+        {
+            "key": "SE_WD_010104",
+            "value": "레온즈 가도"
+        },
+        {
+            "key": "SE_WD_010105",
+            "value": "사자 사당"
+        },
+        {
+            "key": "SE_WD_010106",
+            "value": "북 심버즈 평원"
+        },
+        {
+            "key": "SE_WD_010107",
+            "value": "남 심버즈 평원"
+        },
+        {
+            "key": "SE_WD_010108",
+            "value": "리달 산맥"
+        },
+        {
+            "key": "SE_WD_010109",
+            "value": "자나갈 요새"
+        },
+        {
+            "key": "SE_WD_010110",
+            "value": "라시나 숲"
+        },
+        {
+            "key": "SE_WD_010201",
+            "value": "시클 요새"
+        },
+        {
+            "key": "SE_SB_01",
+            "value": "강적의 방"
+        },
+        {
+            "key": "SE_SB_02",
+            "value": "철거인 도전"
+        },
+        {
+            "key": "SE_MU_SB_02",
+            "value": "철거인 도전"
+        },
+        {
+            "key": "SE_EV_UNITEXP_01",
+            "value": "경험의 방"
+        },
+        {
+            "key": "SE_EV_GIL_01",
+            "value": "금전의 방"
+        },
+        {
+            "key": "SE_EV_AFEXP_01",
+            "value": "광석의 방"
+        },
+        {
+            "key": "SE_EV_VCEXP_01",
+            "value": "그로우 에그 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_WAEXP_01",
+            "value": "포트 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_AW_FIRE",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_WIND",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_WATER",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_ICE",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_SOIL",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_DARK",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_THUN",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_SHIN",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_SM_FIRE_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_WTR_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_WIND_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_EAR_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_THUN_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_ICE_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_DARK_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_SHIN_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_01",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_GIL",
+            "value": "금전의 방"
+        },
+        {
+            "key": "SE_EV_AFEXP",
+            "value": "광석의 방"
+        },
+        {
+            "key": "SE_BGN_QUEST",
+            "value": "초보자 퀘스트"
+        },
+        {
+            "key": "SE_EV_GL_1M_DL",
+            "value": "100만 다운로드 기념 퀘스트"
+        },
+        {
+            "key": "SE_EV_FF14_01",
+            "value": "파이널판타지14 칠흑의 반역자"
+        },
+        {
+            "key": "SE_EV_FF14_EX_01",
+            "value": "파이널판타지14 칠흑의 반역자 [EX]"
+        },
+        {
+            "key": "SE_EV_ETRE",
+            "value": "에트와 육성 퀘스트"
+        },
+        {
+            "key": "SE_EV_ETRE_EX",
+            "value": "고난도 에트와 육성 EX 퀘스트"
+        },
+        {
+            "key": "SE_EV_01_01",
+            "value": "동경하는 왕자님"
+        },
+        {
+            "key": "SE_EV_01_EX_01",
+            "value": "동경하는 왕자님"
+        },
+        {
+            "key": "SE_MU_EV_01_EX",
+            "value": "동경하는 왕자님 [EX]"
+        },
+        {
+            "key": "SE_EV_02_01",
+            "value": "서쪽의 위협 런달"
+        },
+        {
+            "key": "SE_EV_02_EX_01",
+            "value": "서쪽의 위협 런달"
+        },
+        {
+            "key": "SE_MU_EV_02_EX",
+            "value": "서쪽의 위협 런달 [EX]"
+        },
+        {
+            "key": "SE_EV_ANV_19_10",
+            "value": "출시 기념 퀘스트"
+        },
+        {
+            "key": "SE_EV_GL_2M_DL",
+            "value": "200만 다운로드 기념 JP 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_GL_3M_DL",
+            "value": "300만 다운로드 기념 퀘스트"
+        },
+        {
+            "key": "SE_MU_AW_FIRE",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_WIND",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_WATER",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_ICE",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_SOIL",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_DARK",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_THUN",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_SHIN",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_SM_FIRE_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_WTR_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_WIND_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_EAR_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_THUN_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_ICE_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_DARK_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_SHIN_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_AW_HIGH_01",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_EV_ETRE_EX",
+            "value": "고난도 에트와 육성 EX 퀘스트 멀티"
+        },
+        {
+            "key": "SE_EV_ART_CRF_01",
+            "value": "장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_EV_FFT_01",
+            "value": "FINAL FANTASY TACTICS 콜라보 퀘스트"
+        },
+        {
+            "key": "SE_EV_FFT_01_EX",
+            "value": "FINAL FANTASY TACTICS 콜라보 퀘스트 [EX]"
+        },
+        {
+            "key": "SE_MU_FFT_01_EX",
+            "value": "FINAL FANTASY TACTICS 콜라보 퀘스트 [EX]"
+        },
+        {
+            "key": "SE_EV_ART_SCR_01",
+            "value": "고난도 비전서 획득 퀘스트"
+        },
+        {
+            "key": "SE_MU_EV_SCR_01",
+            "value": "고난도 비전서 획득 퀘스트 멀티"
+        },
+        {
+            "key": "SE_EV_JP_001",
+            "value": "JP 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_ART_CRF_02",
+            "value": "초고난도 장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_MU_ART_CRF_02",
+            "value": "초고난도 장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_EV_ART_CRF_03",
+            "value": "장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_MU_ART_CRF_03",
+            "value": "장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_EV_ART_SCR_02",
+            "value": "고난도 비전서 획득 퀘스트"
+        },
+        {
+            "key": "SE_MU_EV_SCR_02",
+            "value": "고난도 비전서 획득 퀘스트 멀티"
+        },
+        {
+            "key": "SE_EV_BEGN_2001",
+            "value": "유닛 육성 응원 퀘스트"
+        }
+    ]
+}

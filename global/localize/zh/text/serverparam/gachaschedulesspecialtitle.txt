@@ -1,0 +1,332 @@
+{
+    "infos": [
+        {
+            "key": "init",
+            "value": "新手召喚"
+        },
+        {
+            "key": "p_gacha_unit_20191114",
+            "value": "上市紀念確保UR兵員10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_20191114",
+            "value": "上市紀念確保UR幻兵卡10連召喚"
+        },
+        {
+            "key": "ff14_gacha_20191114_01",
+            "value": "FFXIV聯動紀念召喚"
+        },
+        {
+            "key": "ff14_gacha_20191114_10",
+            "value": "FFXIV聯動紀念召喚　10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_20191118_10",
+            "value": "100萬下載紀念！免費10連召喚！"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step1",
+            "value": "新手衝刺 3 STEP UP召喚 STEP1"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step2",
+            "value": "新手衝刺 3 STEP UP召喚 STEP2"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step3",
+            "value": "新手衝刺 3 STEP UP召喚 STEP3"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_01",
+            "value": "新兵員、幻兵卡召喚"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_10",
+            "value": "新兵員、幻兵卡召喚　10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_GL20200408_10",
+            "value": "200萬下載紀念 確保1名UR兵員10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_GL20200408_10",
+            "value": "200萬下載紀念 確保1張UR幻兵卡10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_GL20200408_10",
+            "value": "200萬下載紀念 免費10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_GL20200415_10",
+            "value": "200萬下載紀念 免費10連召喚 第2階段"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_01",
+            "value": "200萬下載紀念精選召喚"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_10",
+            "value": "200萬下載紀念精選召喚 10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200422_10",
+            "value": "FFT聯動紀念 確保1名UR兵員10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_gl20200422_10",
+            "value": "FFT聯動紀念 確保1張UR幻兵卡10連召喚"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_1",
+            "value": "FFT聯動紀念召喚～奧爾蘭多～"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_10",
+            "value": "FFT聯動紀念召喚～奧爾蘭多～　10連召喚"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_1",
+            "value": "FFT聯動紀念召喚～拉姆薩～"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_10",
+            "value": "FFT聯動紀念召喚～拉姆薩～　10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_1",
+            "value": "FFT聯動紀念 每日免費召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_2",
+            "value": "FFT聯動紀念 每日免費召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_3",
+            "value": "FFT聯動紀念 每日免費召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_4",
+            "value": "FFT聯動紀念 每日免費召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_5",
+            "value": "FFT聯動紀念 每日免費召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_6",
+            "value": "FFT聯動紀念 每日免費召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_7",
+            "value": "FFT聯動紀念 每日免費召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_8",
+            "value": "FFT聯動紀念 每日免費召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_9",
+            "value": "FFT聯動紀念 每日免費召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_10",
+            "value": "FFT聯動紀念 每日免費召喚"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_01",
+            "value": "300萬下載紀念精選召喚"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_10",
+            "value": "300萬下載紀念精選召喚 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_01",
+            "value": "300萬下載紀念精選召喚 第2階段"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_10",
+            "value": "300萬下載紀念精選召喚 第2階段"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_01",
+            "value": "新兵員召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_10",
+            "value": "新兵員召喚 10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200506_10",
+            "value": "400萬下載紀念 確保1名UR兵員10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200513_10",
+            "value": "第6章公開紀念 免費10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_01",
+            "value": "武具育成任務支援召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_10",
+            "value": "武具育成任務支援召喚 10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_gl20200513_10",
+            "value": "第6章公開紀念 確保UR幻兵卡10連召喚"
+        },
+        {
+            "key": "gacha_vc_gl20200513_01",
+            "value": "新幻兵卡召喚"
+        },
+        {
+            "key": "gacha_vc_gl20200513_10",
+            "value": "新幻兵卡召喚 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_01",
+            "value": "新兵員、幻兵卡召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_10",
+            "value": "新兵員、幻兵卡召喚　10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200520_10",
+            "value": "500萬下載紀念 確保1名UR兵員 10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_gl20200520_10",
+            "value": "500萬下載紀念 確保1張UR幻兵卡 10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200520_10",
+            "value": "500萬下載紀念 免費10連召喚"
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200520_10",
+            "value": "日本版半年慶4個名額UR"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_01",
+            "value": "500萬下載紀念精選召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_10",
+            "value": "500萬下載紀念精選召喚 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_01",
+            "value": "500萬下載紀念②（吉爾伽美什、斯特恩）召喚　獎牌B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_10",
+            "value": "500萬下載紀念②（吉爾伽美什、斯特恩）召喚　獎牌B"
+        },
+        {
+            "key": "no_coin_gacha_gl20200527_10",
+            "value": "【限定1次】500萬下載紀念②免費10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10",
+            "value": "500萬下載紀念獎勵召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_1",
+            "value": "500萬下載紀念獎勵召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_2",
+            "value": "500萬下載紀念獎勵召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_3",
+            "value": "500萬下載紀念獎勵召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_4",
+            "value": "500萬下載紀念獎勵召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200603_10",
+            "value": "版本更新紀念 免費10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_01",
+            "value": "新兵員、幻兵卡召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_10",
+            "value": "新兵員、幻兵卡召喚　10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200603_10",
+            "value": "版本更新紀念 確保1名UR兵員 10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_gl20200603_10",
+            "value": "版本更新紀念 確保1張UR幻兵卡 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_01",
+            "value": "版本更新紀念 精選召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_10",
+            "value": "版本更新紀念 精選召喚　10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_1",
+            "value": "版本更新紀念 5 STEP UP召喚 STEP1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_2",
+            "value": "版本更新紀念 5 STEP UP召喚 STEP2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_3",
+            "value": "版本更新紀念 5 STEP UP召喚 STEP3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_4",
+            "value": "版本更新紀念 5 STEP UP召喚 STEP4"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_5",
+            "value": "版本更新紀念 5 STEP UP召喚 STEP5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10",
+            "value": ""
+        },
+        {
+            "key": "global_pickup_sterne_20200325_01",
+            "value": "上市紀念活動精選召喚"
+        },
+        {
+            "key": "global_pickup_sterne_20200325_10",
+            "value": "上市紀念活動精選10連召喚"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_01",
+            "value": "新兵員、幻兵卡召喚"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_10",
+            "value": "新兵員、幻兵卡召喚　10連召喚"
+        },
+        {
+            "key": "global_ur_unit_fredrica_20200401",
+            "value": "確保UR兵員10連召喚"
+        },
+        {
+            "key": "global_ur_vc_fredrica_20200401",
+            "value": "確保UR幻兵卡10連召喚"
+        }
+    ]
+}

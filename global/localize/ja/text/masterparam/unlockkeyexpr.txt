@@ -1,0 +1,116 @@
+{
+    "infos": [
+        {
+            "key": "Battle1",
+            "value": ""
+        },
+        {
+            "key": "Battle2",
+            "value": ""
+        },
+        {
+            "key": "Gacha",
+            "value": ""
+        },
+        {
+            "key": "Quest",
+            "value": ""
+        },
+        {
+            "key": "ChallengeMission",
+            "value": ""
+        },
+        {
+            "key": "UnitStrength",
+            "value": ""
+        },
+        {
+            "key": "UnitAwake",
+            "value": "ユニット：覚醒のガイダンスを見る"
+        },
+        {
+            "key": "ArtifactCraft",
+            "value": "武具：クラフトのガイダンスを見る"
+        },
+        {
+            "key": "EventQuest",
+            "value": "イベントクエストのガイダンスを見る"
+        },
+        {
+            "key": "VisionCard",
+            "value": "ビジョンカードのガイダンスを見る"
+        },
+        {
+            "key": "ExplorationChocobo",
+            "value": "探検チョコボのガイダンスを見る"
+        },
+        {
+            "key": "Party",
+            "value": "編成のガイダンスを見る"
+        },
+        {
+            "key": "MultiQuest",
+            "value": "マルチクエストのガイダンスを見る"
+        },
+        {
+            "key": "Arena",
+            "value": "アリーナのガイダンスを見る"
+        },
+        {
+            "key": "FreeMatch",
+            "value": ""
+        },
+        {
+            "key": "GuildJoin",
+            "value": ""
+        },
+        {
+            "key": "GuildAttendance",
+            "value": ""
+        },
+        {
+            "key": "GuildBarracks",
+            "value": ""
+        },
+        {
+            "key": "GuildStone",
+            "value": ""
+        },
+        {
+            "key": "UnitIntimacy",
+            "value": ""
+        },
+        {
+            "key": "SubQuest",
+            "value": ""
+        },
+        {
+            "key": "Unitsubjob",
+            "value": ""
+        },
+        {
+            "key": "HardQuest",
+            "value": "ハードクエストのガイダンスを見る"
+        },
+        {
+            "key": "NetherBeast",
+            "value": "召喚獣のガイダンスを見る"
+        },
+        {
+            "key": "CharaQuest",
+            "value": ""
+        },
+        {
+            "key": "GuildBattle",
+            "value": ""
+        },
+        {
+            "key": "SupportUnit",
+            "value": "同行者編成のガイダンスを見る"
+        },
+        {
+            "key": "ItemExchange",
+            "value": ""
+        }
+    ]
+}

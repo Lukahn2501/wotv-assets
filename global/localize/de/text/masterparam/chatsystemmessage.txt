@@ -1,0 +1,68 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "${playerName} ist der Gilde beigetreten."
+        },
+        {
+            "key": "2",
+            "value": "Neues Gildenemblem erhalten."
+        },
+        {
+            "key": "3",
+            "value": "${playerName} wurde die Position des Gildenvorstands übertragen."
+        },
+        {
+            "key": "4",
+            "value": "${playerName} ist aus der Gilde verbannt worden."
+        },
+        {
+            "key": "5",
+            "value": "${playerName} ist aus der Gilde ausgetreten."
+        },
+        {
+            "key": "6",
+            "value": "Da sich der bisherige Gildenvorstand eine bestimmte Zahl von Tagen nicht eingeloggt hat, wurde seine Position automatisch ${playerName} übertragen."
+        },
+        {
+            "key": "7",
+            "value": "${playerName} wurde zum Vize-Gildenvorstand ernannt."
+        },
+        {
+            "key": "8",
+            "value": "${statueName} hat Stufe ${level} erreicht."
+        },
+        {
+            "key": "9",
+            "value": "Die Gilde ist einem Gildenkampf beigetreten."
+        },
+        {
+            "key": "10",
+            "value": "Der Beitritt zum Gildenkampf ist nicht möglich, da die entsprechenden Teilnahmevoraussetzungen nicht erfüllt sind."
+        },
+        {
+            "key": "11",
+            "value": "Der Kampf gegen ${guildName} beginnt."
+        },
+        {
+            "key": "12",
+            "value": "Dieser Gildenkampf wurde automatisch gewonnen."
+        },
+        {
+            "key": "13",
+            "value": "Deine Gilde hat den Kampf gegen ${guildName} gewonnen."
+        },
+        {
+            "key": "14",
+            "value": "Deine Gilde hat den Kampf gegen ${guildName} verloren."
+        },
+        {
+            "key": "15",
+            "value": "Dein Ligalevel wurde von ${beforeLevelName} auf ${afterLevelName} erhöht."
+        },
+        {
+            "key": "16",
+            "value": "Deine Ligalevel wurde von ${beforeLevelName} auf ${afterLevelName} gesenkt."
+        }
+    ]
+}

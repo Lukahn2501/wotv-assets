@@ -1,0 +1,332 @@
+{
+    "infos": [
+        {
+            "key": "init",
+            "value": "チュートリアル召喚"
+        },
+        {
+            "key": "p_gacha_unit_20191114",
+            "value": "リリース記念URユニット確定10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_20191114",
+            "value": "リリース記念URビジョンカード確定10連召喚"
+        },
+        {
+            "key": "ff14_gacha_20191114_01",
+            "value": "FFXIVコラボ記念召喚"
+        },
+        {
+            "key": "ff14_gacha_20191114_10",
+            "value": "FFXIVコラボ記念召喚　10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_20191118_10",
+            "value": "100万DL記念 無料!10連召喚!"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step1",
+            "value": "スタートダッシュ 3ステップアップ召喚 STEP1"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step2",
+            "value": "スタートダッシュ 3ステップアップ召喚 STEP2"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step3",
+            "value": "スタートダッシュ 3ステップアップ召喚 STEP3"
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_01",
+            "value": "新ユニット/ビジョンカード召喚"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_10",
+            "value": "新ユニット/ビジョンカード召喚　10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_GL20200408_10",
+            "value": "200万DL記念 URユニット1体確定10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_GL20200408_10",
+            "value": "200万DL記念 URビジョンカード1枚確定10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_GL20200408_10",
+            "value": "200万DL記念 無料10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_GL20200415_10",
+            "value": "200万DL記念 無料10連召喚　第2弾"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_01",
+            "value": "200万DL記念ピックアップ召喚"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_10",
+            "value": "200万DL記念ピックアップ召喚　10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200422_10",
+            "value": "FFTコラボ記念 URユニット1体確定10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_gl20200422_10",
+            "value": "FFTコラボ記念 URビジョンカード1枚確定10連召喚"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_1",
+            "value": "FFTコラボ記念召喚～オルランドゥ～"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_10",
+            "value": "FFTコラボ記念召喚～オルランドゥ～　10連召喚"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_1",
+            "value": "FFTコラボ記念召喚～ラムザ～"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_10",
+            "value": "FFTコラボ記念召喚～ラムザ～　10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_1",
+            "value": "FFT Collab Daily Free Summon"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_2",
+            "value": "FFT Collab Daily Free Summon"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_3",
+            "value": "FFT Collab Daily Free Summon"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_4",
+            "value": "FFT Collab Daily Free Summon"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_5",
+            "value": "FFT Collab Daily Free Summon"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_6",
+            "value": "FFT Collab Daily Free Summon"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_7",
+            "value": "FFT Collab Daily Free Summon"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_8",
+            "value": "FFT Collab Daily Free Summon"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_9",
+            "value": "FFT Collab Daily Free Summon"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_10",
+            "value": "FFT Collab Daily Free Summon"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_01",
+            "value": "300万DL記念ピックアップ召喚"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_10",
+            "value": "300万DL記念ピックアップ召喚　10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_01",
+            "value": "300万DL記念ピックアップ召喚 第2弾"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_10",
+            "value": "300万DL記念ピックアップ召喚 第2弾 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_01",
+            "value": "新ユニット召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_10",
+            "value": "新ユニット召喚 10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200506_10",
+            "value": "400万DL記念 URユニット1体確定10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200513_10",
+            "value": "第6章公開記念 無料10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_01",
+            "value": "武具育成クエスト応援召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_10",
+            "value": "武具育成クエスト応援召喚 10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_gl20200513_10",
+            "value": "第6章公開記念　UR1枚確定ビジョンカード10連召喚"
+        },
+        {
+            "key": "gacha_vc_gl20200513_01",
+            "value": "新ビジョンカード召喚"
+        },
+        {
+            "key": "gacha_vc_gl20200513_10",
+            "value": "新ビジョンカード召喚 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_01",
+            "value": "新ユニット/ビジョンカード召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_10",
+            "value": "新ユニット/ビジョンカード召喚　10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200520_10",
+            "value": "500万DL記念 URユニット1体確定10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_gl20200520_10",
+            "value": "500万DL記念 UR1枚確定ビジョンカード10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200520_10",
+            "value": "500万DL記念 無料10連召喚"
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200520_10",
+            "value": "日本版ハーフアニバーサリー4枠UR"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_01",
+            "value": "500万DL記念ピックアップ召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_10",
+            "value": "500万DL記念ピックアップ召喚　10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_01",
+            "value": "500万DL記念②（ギルガ、シュテル）召喚　メダルB"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_10",
+            "value": "500万DL記念②（ギルガ、シュテル）召喚　メダルB"
+        },
+        {
+            "key": "no_coin_gacha_gl20200527_10",
+            "value": "[1回限定]500万DL記念②無料10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10",
+            "value": "500万DL記念オマケ召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_1",
+            "value": "500万DL記念オマケ召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_2",
+            "value": "500万DL記念オマケ召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_3",
+            "value": "500万DL記念オマケ召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_4",
+            "value": "500万DL記念オマケ召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200603_10",
+            "value": "バージョンアップ記念 無料10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_01",
+            "value": "新ユニット/ビジョンカード召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_10",
+            "value": "新ユニット/ビジョンカード召喚　10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200603_10",
+            "value": "バージョンアップ記念 URユニット1体確定10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_gl20200603_10",
+            "value": "バージョンアップ記念 UR1枚確定ビジョンカード10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_01",
+            "value": "バージョンアップ記念ピックアップ召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_10",
+            "value": "バージョンアップ記念ピックアップ召喚　10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_1",
+            "value": "バージョンアップ記念 5ステップアップ召喚 STEP1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_2",
+            "value": "バージョンアップ記念 5ステップアップ召喚 STEP2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_3",
+            "value": "バージョンアップ記念 5ステップアップ召喚 STEP3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_4",
+            "value": "バージョンアップ記念 5ステップアップ召喚 STEP4"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_5",
+            "value": "バージョンアップ記念 5ステップアップ召喚 STEP5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10",
+            "value": ""
+        },
+        {
+            "key": "global_pickup_sterne_20200325_01",
+            "value": "Release Commemoration Pick Up Summon"
+        },
+        {
+            "key": "global_pickup_sterne_20200325_10",
+            "value": "Release Commemoration Pick Up Summon 10x Summon"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_01",
+            "value": "新ユニット/ビジョンカード召喚"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_10",
+            "value": "新ユニット/ビジョンカード召喚　10連召喚"
+        },
+        {
+            "key": "global_ur_unit_fredrica_20200401",
+            "value": "URユニット確定10連召喚"
+        },
+        {
+            "key": "global_ur_vc_fredrica_20200401",
+            "value": "URビジョンカード確定10連召喚"
+        }
+    ]
+}

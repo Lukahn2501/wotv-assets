@@ -1,0 +1,412 @@
+{
+    "infos": [
+        {
+            "key": "SE_ST_010101",
+            "value": "La Demoiselle d'acier"
+        },
+        {
+            "key": "SE_ST_010102",
+            "value": "Le Roi des sauvages"
+        },
+        {
+            "key": "SE_ST_010103",
+            "value": "Le serment"
+        },
+        {
+            "key": "SE_ST_010201",
+            "value": "Une lourde tâche"
+        },
+        {
+            "key": "SE_ST_010202",
+            "value": "Vivre honorablement"
+        },
+        {
+            "key": "SE_ST_010203",
+            "value": "Retour de « Caelum »"
+        },
+        {
+            "key": "SE_ST_010301",
+            "value": "Direction le Nord"
+        },
+        {
+            "key": "SE_ST_010302",
+            "value": "Le secret de Muraga"
+        },
+        {
+            "key": "SE_ST_010303",
+            "value": "Le signal de ralliement"
+        },
+        {
+            "key": "SE_ST_010401",
+            "value": "C'est le moment."
+        },
+        {
+            "key": "SE_ST_010402",
+            "value": "Décision de la reine"
+        },
+        {
+            "key": "SE_ST_010403",
+            "value": "Chaos"
+        },
+        {
+            "key": "SE_ST_010501",
+            "value": "Menace imminente"
+        },
+        {
+            "key": "SE_ST_010502",
+            "value": "Pour Leonis !"
+        },
+        {
+            "key": "SE_ST_010503",
+            "value": "Lame sacrale"
+        },
+        {
+            "key": "SE_ST_010601",
+            "value": "Croc blanc"
+        },
+        {
+            "key": "SE_ST_010602",
+            "value": "Lignée corrompue"
+        },
+        {
+            "key": "SE_WD_010101",
+            "value": "Immense forêt du Lion"
+        },
+        {
+            "key": "SE_WD_010102",
+            "value": "Château de Leonis"
+        },
+        {
+            "key": "SE_WD_010103",
+            "value": "Mont Sorgi"
+        },
+        {
+            "key": "SE_WD_010104",
+            "value": "Route principale du Lion"
+        },
+        {
+            "key": "SE_WD_010105",
+            "value": "Sanctuaire du Lion"
+        },
+        {
+            "key": "SE_WD_010106",
+            "value": "Plaines nordiques de Symbus"
+        },
+        {
+            "key": "SE_WD_010107",
+            "value": "Plaines méridionales de Symbus"
+        },
+        {
+            "key": "SE_WD_010108",
+            "value": "Chaîne montagneuse de Reedar"
+        },
+        {
+            "key": "SE_WD_010109",
+            "value": "Forteresse de Zanagar"
+        },
+        {
+            "key": "SE_WD_010110",
+            "value": "Forêt de Rasheena"
+        },
+        {
+            "key": "SE_WD_010201",
+            "value": "Forteresse de Syckle"
+        },
+        {
+            "key": "SE_SB_01",
+            "value": "Le repaire de la bête"
+        },
+        {
+            "key": "SE_SB_02",
+            "value": "Défi du Géant de fer"
+        },
+        {
+            "key": "SE_MU_SB_02",
+            "value": "Défi du Géant de fer"
+        },
+        {
+            "key": "SE_EV_UNITEXP_01",
+            "value": "Chambre d'EXP"
+        },
+        {
+            "key": "SE_EV_GIL_01",
+            "value": "Chambre de Gils"
+        },
+        {
+            "key": "SE_EV_AFEXP_01",
+            "value": "Chambre de minerais"
+        },
+        {
+            "key": "SE_EV_VCEXP_01",
+            "value": "Quête des œufs de croissance"
+        },
+        {
+            "key": "SE_EV_WAEXP_01",
+            "value": "Quête de récompense de pots"
+        },
+        {
+            "key": "SE_EV_AW_FIRE",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_EV_AW_WIND",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_EV_AW_WATER",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_EV_AW_ICE",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_EV_AW_SOIL",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_EV_AW_DARK",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_EV_AW_THUN",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_EV_AW_SHIN",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_EV_SM_FIRE_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_EV_SM_WTR_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_EV_SM_WIND_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_EV_SM_EAR_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_EV_SM_THUN_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_EV_SM_ICE_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_EV_SM_DARK_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_EV_SM_SHIN_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_01",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_GIL",
+            "value": "Chambre de Gils"
+        },
+        {
+            "key": "SE_EV_AFEXP",
+            "value": "Chambre de minerais"
+        },
+        {
+            "key": "SE_BGN_QUEST",
+            "value": "Quête débutant"
+        },
+        {
+            "key": "SE_EV_GL_1M_DL",
+            "value": "Quête de la Célébration du « 1er million de téléchargements »"
+        },
+        {
+            "key": "SE_EV_FF14_01",
+            "value": "FINAL FANTASY XIV: Shadowbringers"
+        },
+        {
+            "key": "SE_EV_FF14_EX_01",
+            "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
+        },
+        {
+            "key": "SE_EV_ETRE",
+            "value": "Quête d'entraînement d'Éthéa"
+        },
+        {
+            "key": "SE_EV_ETRE_EX",
+            "value": "Quête d'entraînement EX d'Éthéa [Très difficile]"
+        },
+        {
+            "key": "SE_EV_01_01",
+            "value": "Le magnifique prince"
+        },
+        {
+            "key": "SE_EV_01_EX_01",
+            "value": "Le magnifique prince"
+        },
+        {
+            "key": "SE_MU_EV_01_EX",
+            "value": "Le magnifique prince [EX]"
+        },
+        {
+            "key": "SE_EV_02_01",
+            "value": "Rundall, menace à l'ouest"
+        },
+        {
+            "key": "SE_EV_02_EX_01",
+            "value": "Rundall, menace à l'ouest"
+        },
+        {
+            "key": "SE_MU_EV_02_EX",
+            "value": "Rundall, menace à l'ouest [EX]"
+        },
+        {
+            "key": "SE_EV_ANV_19_10",
+            "value": "Quête de commémoration de lancement"
+        },
+        {
+            "key": "SE_EV_GL_2M_DL",
+            "value": "Quête de PJ pour les « 2 millions de téléchargements »"
+        },
+        {
+            "key": "SE_EV_GL_3M_DL",
+            "value": "Quête de célébration des « 3 millions de téléchargements »"
+        },
+        {
+            "key": "SE_MU_AW_FIRE",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_MU_AW_WIND",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_MU_AW_WATER",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_MU_AW_ICE",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_MU_AW_SOIL",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_MU_AW_DARK",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_MU_AW_THUN",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_MU_AW_SHIN",
+            "value": "(Temporaire) Chambre des matériaux élémentaires des améliorations de job"
+        },
+        {
+            "key": "SE_MU_SM_FIRE_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_MU_SM_WTR_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_MU_SM_WIND_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_MU_SM_EAR_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_MU_SM_THUN_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_MU_SM_ICE_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_MU_SM_DARK_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_MU_SM_SHIN_01",
+            "value": "Antre de l'éveil chimérique"
+        },
+        {
+            "key": "SE_MU_AW_HIGH_01",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_EV_ETRE_EX",
+            "value": "[Multi] Quête d'entraînement EX d'Éthéa [Très difficile]"
+        },
+        {
+            "key": "SE_EV_ART_CRF_01",
+            "value": "Quête d'entraînement d'équipement"
+        },
+        {
+            "key": "SE_EV_FFT_01",
+            "value": "Quête FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "SE_EV_FFT_01_EX",
+            "value": "Quête FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "SE_MU_FFT_01_EX",
+            "value": "Quête FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "SE_EV_ART_SCR_01",
+            "value": "Quête du livre secret [Très difficile]"
+        },
+        {
+            "key": "SE_MU_EV_SCR_01",
+            "value": "[Multi] Quête du livre secret [Très difficile]"
+        },
+        {
+            "key": "SE_EV_JP_001",
+            "value": "Quête de PJ"
+        },
+        {
+            "key": "SE_EV_ART_CRF_02",
+            "value": "Quête d'entraînement d'équipement très difficile [Super difficile]"
+        },
+        {
+            "key": "SE_MU_ART_CRF_02",
+            "value": "Quête d'entraînement d'équipement [Super difficile]"
+        },
+        {
+            "key": "SE_EV_ART_CRF_03",
+            "value": "Quête d'entraînement d'équipement"
+        },
+        {
+            "key": "SE_MU_ART_CRF_03",
+            "value": "Quête d'entraînement d'équipement"
+        },
+        {
+            "key": "SE_EV_ART_SCR_02",
+            "value": "Quête du livre secret [Très difficile]"
+        },
+        {
+            "key": "SE_MU_EV_SCR_02",
+            "value": "[Multi] Quête du livre secret [Très difficile]"
+        },
+        {
+            "key": "SE_EV_BEGN_2001",
+            "value": "Quête de soutien d'entraînement d'unité"
+        }
+    ]
+}

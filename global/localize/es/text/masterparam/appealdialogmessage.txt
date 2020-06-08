@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "9999",
+            "value": "¡Ya puedes adquirir<br>[N.º intentos de misiones difíciles +10 A]!"
+        }
+    ]
+}

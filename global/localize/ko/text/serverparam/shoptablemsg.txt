@@ -1,0 +1,952 @@
+{
+    "infos": [
+        {
+            "key": "Realmoney-0101",
+            "value": "특별한 상점입니다."
+        },
+        {
+            "key": "Realmoney-0603",
+            "value": "특별한 상점입니다."
+        },
+        {
+            "key": "Begginer-20191114",
+            "value": "초보자 상점: 획득한 유닛을 강화해보세요!"
+        },
+        {
+            "key": "Normal-20191114_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20191114_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20191114_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20191122_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20191122_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20191122_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20191130_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20191130_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20191130_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20191209_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20191209_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20191209_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20191218_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20191218_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20191218_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20191227_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20191227_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20191227_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20200101_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20200101_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20200101_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20200108_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20200108_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20200108_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20200115_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20200115_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20200115_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20200122_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20200122_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20200122_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20200201_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20200201_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20200201_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Guerrilla-20191114A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191114B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191114C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-GL_20191122A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-GL_20191122B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-GL_20191122C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191130A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191130B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191130C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-GL20200415A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-GL20200415B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-GL20200415C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191218A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191218B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191218C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191227A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191227B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20191227C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200101A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200101B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200101C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200108A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200108B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200108C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200115A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200115B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200115C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200122A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200122B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200122C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200201A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200201B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200201C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Limited-20191227_A",
+            "value": "획득한 유닛과 비전 카드를 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200603_B",
+            "value": "버전 업 기념 상점"
+        },
+        {
+            "key": "Limited-gl20200603",
+            "value": "신규 유닛 픽업 상점: 획득한 유닛을 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200603_A",
+            "value": "픽업 상점: 획득한 유닛과 비전 카드를 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200527",
+            "value": "픽업 상점: 획득한 유닛과 비전 카드를 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200527_A",
+            "value": "500만 다운로드 기념 상점 제2탄: 특별한 상품 판매 중!"
+        },
+        {
+            "key": "Limited-gl20200520",
+            "value": "신규 유닛 픽업 상점: 획득한 유닛을 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200520_A",
+            "value": "픽업 상점: 획득한 유닛과 비전 카드를 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200520_B",
+            "value": "500만 다운로드 기념 상점: 특별한 상품 판매 중!"
+        },
+        {
+            "key": "Limited-gl20200513",
+            "value": "신규 픽업 상점: 획득한 유닛을 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200513_A",
+            "value": "스토리 제6장 개방 기념 상점: 특별한 상품 판매 중!"
+        },
+        {
+            "key": "Limited-gl20200513_B",
+            "value": "픽업 상점: 획득한 유닛과 비전 카드를 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200506_A",
+            "value": "400만 다운로드 기념 상점: 특별한 상품 판매 중!"
+        },
+        {
+            "key": "Limited-gl20200506",
+            "value": "픽업 상점: 획득한 유닛과 비전 카드를 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200429",
+            "value": "픽업 상점: 획득한 유닛과 비전 카드를 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200429_A",
+            "value": "300만 다운로드 기념 상점 제2탄: 특별한 상품 판매 중!"
+        },
+        {
+            "key": "Limited-gl20200422",
+            "value": "픽업 상점: 획득한 유닛과 비전 카드를 강화하세요!"
+        },
+        {
+            "key": "Limited-gl20200422_A",
+            "value": "300만 다운로드 기념 상점: 특별한 상품 판매 중!"
+        },
+        {
+            "key": "Limited-20191114",
+            "value": "출시 기념 상점: 획득한 유닛을 강화하세요!"
+        },
+        {
+            "key": "Limited-20191120",
+            "value": "100만 다운로드 기념 상점: 특별한 상품 판매 중!"
+        },
+        {
+            "key": "Limited-GL_20200408",
+            "value": "200만 다운로드 기념 상점: 특별한 상품 판매 중!"
+        },
+        {
+            "key": "Limited-20191122",
+            "value": "신규 유닛 픽업 상점: 획득한 유닛을 강화하세요!"
+        },
+        {
+            "key": "Limited-20191130_A",
+            "value": "신규 유닛 픽업 상점: 획득한 유닛을 강화하세요!"
+        },
+        {
+            "key": "Limited-20200415",
+            "value": "픽업 상점: 획득한 유닛과 비전 카드를 강화하세요!"
+        },
+        {
+            "key": "Event-FF14_1_20191114",
+            "value": "알라그 석판: 마전 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-FF14_2_20191114",
+            "value": "콜라보 소환 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Limited-FF14_3_20191114",
+            "value": "획득한 유닛과 비전 카드를 강화하세요!"
+        },
+        {
+            "key": "Event-EV02_1_20200201",
+            "value": "[6월] 이벤트 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Summon_GL20200603_A",
+            "value": "[6월] 소환 메달 A 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Summon_GL20200520_B",
+            "value": "[5월] 소환 메달 B 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Summon_GL20200513_A",
+            "value": "[5월] 소환 메달 A 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Summon_GL20200506_A",
+            "value": "[5월] 소환 메달 A 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-FFT_1_20191227",
+            "value": "FFT 콜라보 이벤트 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Summon_20191227_A",
+            "value": "FFT 콜라보 소환 메달 A 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Summon_20191227_B",
+            "value": "FFT 콜라보 소환 메달 B 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Summon_GL20200325_A",
+            "value": "[3월] 소환 메달 A 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Summon_GL20200401_A",
+            "value": "[4월] 소환 메달 A 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Summon_GL20200408_B",
+            "value": "[4월] 소환 메달 B 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Friend_20200201",
+            "value": "친구 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Arena_20200201",
+            "value": "결투장 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Match_20200201",
+            "value": "PVP 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Guild_20200201",
+            "value": "길드 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_UR_20191130",
+            "value": "영혼 메달[UR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_SSR_20191130",
+            "value": "영혼 메달[MR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_SR_20191130",
+            "value": "영혼 메달[SR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_R_20191130",
+            "value": "영혼 메달[R] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_N_20191130",
+            "value": "영혼 메달[N] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_UR_20191130",
+            "value": "비전 메달[UR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_SSR_20191130",
+            "value": "비전 메달[MR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_SR_20191130",
+            "value": "비전 메달[SR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_R_20191130",
+            "value": "비전 메달[R] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_N_20191130",
+            "value": "비전 메달[N] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Friend_gl20200501",
+            "value": "친구 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Arena_gl20200501",
+            "value": "결투장 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Match_gl20200501",
+            "value": "PVP 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Guild_gl20200501",
+            "value": "길드 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_UR_gl20200501",
+            "value": "영혼 메달[UR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200501",
+            "value": "영혼 메달[MR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_SR_gl20200501",
+            "value": "영혼 메달[SR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_R_gl20200501",
+            "value": "영혼 메달[R] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_N_gl20200501",
+            "value": "영혼 메달[N] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_UR_gl20200501",
+            "value": "비전 메달[UR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200501",
+            "value": "비전 메달[MR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_SR_gl20200501",
+            "value": "비전 메달[SR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_R_gl20200501",
+            "value": "비전 메달[R] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_N_gl20200501",
+            "value": "비전 메달[N] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Friend_gl20200601",
+            "value": "친구 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Arena_gl20200601",
+            "value": "결투장 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Match_gl20200601",
+            "value": "PVP 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Guild_gl20200601",
+            "value": "길드 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_UR_gl20200601",
+            "value": "영혼 메달[UR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200601",
+            "value": "영혼 메달[MR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_SR_gl20200601",
+            "value": "영혼 메달[SR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_R_gl20200601",
+            "value": "영혼 메달[R] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_N_gl20200601",
+            "value": "영혼 메달[N] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_UR_gl20200601",
+            "value": "비전 메달[UR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200601",
+            "value": "비전 메달[MR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_SR_gl20200601",
+            "value": "비전 메달[SR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_R_gl20200601",
+            "value": "비전 메달[R] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_N_gl20200601",
+            "value": "비전 메달[N] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Limited-WATER_2019_11_13",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2019_11_14",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2019_11_15",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2019_11_16",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE_2019_11_17",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2019_11_17",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2019_11_18",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2019_11_19",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2019_11_20",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2019_11_21",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2019_11_29",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2019_11_23",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE_2019_11_24",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2019_11_24",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2019_11_25",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2019_11_26",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2019_12_04",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2019_12_05",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2019_12_06",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2019_12_07",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE2019_12_08",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2019_12_08",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2019_12_09",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2019_12_10",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2019_12_04_2",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2019_12_05_2",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2019_12_06_2",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2019_12_07_2",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE2019_12_08_2",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2019_12_08_2",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2019_12_09_2",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2019_12_10_2",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2020_1_1",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2020_1_2",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2019_12_27",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2019_12_28",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE2019_12_29",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2019_12_29",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2019_12_30",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2019_12_31",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2020_1_1_2",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2020_1_2_2",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2019_12_27_2",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2019_12_28_2",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE2019_12_29_2",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2019_12_29_2",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2019_12_30_2",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2019_12_31_2",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2020_1_8",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2020_1_9",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2020_1_10",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2020_1_11",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE_2020_1_12",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2020_1_12",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2020_1_6",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2020_1_7",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2020_1_15",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2020_1_16",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2020_1_17",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2020_1_18",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE_2020_1_19",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2020_1_19",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2020_1_13",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2020_1_14",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2020_1_22",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2020_1_23",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2020_1_24",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2020_1_25",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE_2020_1_26",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2020_1_26",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2020_1_20",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2020_1_21",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2020_1_29",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2020_1_30",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2020_1_31",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_01",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_02",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2020_2_02",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2020_1_27",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2020_1_28",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2020_2_05",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2020_2_06",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_07",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_08",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_09",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2020_2_09",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2020_2_03",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_04",
+            "value": "일일 변경 불속성 상점"
+        }
+    ]
+}

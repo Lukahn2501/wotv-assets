@@ -1,0 +1,36 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "Colaboración de FFXIV<br>¡Invoca ahora!"
+        },
+        {
+            "key": "2",
+            "value": "¡Nuevas unidades y<br>espers!"
+        },
+        {
+            "key": "3",
+            "value": "¡Nuevas unidades y<br>espers!"
+        },
+        {
+            "key": "4",
+            "value": "Colaboración de FFT<br>¡Invoca ahora!"
+        },
+        {
+            "key": "5",
+            "value": "¡Nuevas<br>unidades destacadas!"
+        },
+        {
+            "key": "6",
+            "value": "¡Nuevas cartas de<br>visión destacadas!"
+        },
+        {
+            "key": "7",
+            "value": "¡Nuevas unidades<br>y espers!"
+        },
+        {
+            "key": "8",
+            "value": "¡Nuevas unidades<br>y espers!"
+        }
+    ]
+}
