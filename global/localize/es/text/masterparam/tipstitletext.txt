@@ -83,6 +83,18 @@
         {
             "key": "TIPS_MULTI_001",
             "value": "Sellos"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "Recompensas de duelos aleatorios"
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "Selección de modo"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "Jefes de asalto"
         }
     ]
 }

@@ -145,6 +145,18 @@
             "value": "Hauptladen"
         },
         {
+            "key": "Normal-20200207_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200207_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200207_C",
+            "value": "Hauptladen"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Guerilla-Geschäft"
         },
@@ -277,8 +289,28 @@
             "value": "Guerilla-Geschäft"
         },
         {
+            "key": "Guerrilla-20200207A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200207B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200207C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "FFT-Kollaboladen"
+        },
+        {
+            "key": "Limited-gl20200610",
+            "value": "Spezialitätenladen zur Feier der Kraftprobe"
+        },
+        {
+            "key": "Limited-gl20200610_A",
+            "value": "Laden für Einheiten im Blickpunkt"
         },
         {
             "key": "Limited-gl20200603_B",
@@ -383,6 +415,10 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "FFXIV: Shadowbringers-Kollabo-Laden"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "Tauschladen für Schokopudding-Kraftprobenmedaillen"
         },
         {
             "key": "Event-EV02_1_20200201",
@@ -946,6 +982,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_04",
+            "value": "Aschenbasar"
+        },
+        {
+            "key": "Limited-WATER_2020_2_12",
+            "value": "Gezeitenbasar"
+        },
+        {
+            "key": "Limited-WIND_2020_2_13",
+            "value": "Böenbasar"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_14",
+            "value": "Schockbasar"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_15",
+            "value": "Lehmbasar"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_16",
+            "value": "Schimmerbasar"
+        },
+        {
+            "key": "Limited-DARK_2020_2_16",
+            "value": "Schattenbasar"
+        },
+        {
+            "key": "Limited-ICE_2020_2_10",
+            "value": "Frostbasar"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_11",
             "value": "Aschenbasar"
         }
     ]

@@ -38,7 +38,7 @@
         },
         {
             "key": "IT_US_G_UR_01_20200506",
-            "value": ""
+            "value": "確保UR召喚券A"
         },
         {
             "key": "IT_US_G_V_UR_01",
@@ -99,6 +99,10 @@
         {
             "key": "IT_US_G_V_R_UR_01_20200603",
             "value": "確保幻兵卡召喚券A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200610",
+            "value": "確保UR召喚券A"
         }
     ]
 }

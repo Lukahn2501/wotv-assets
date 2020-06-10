@@ -2425,6 +2425,10 @@
             "value": "[Anleitung] Goldaxt"
         },
         {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "[Anleitung] Alexandritring"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Siegel des Lebens"
         },
@@ -2658,15 +2662,11 @@
         },
         {
             "key": "IT_EC_TOWER_001",
-            "value": "Turmmedaille (β)"
+            "value": ""
         },
         {
             "key": "IT_EC_EV02_1",
             "value": "Juni-Eventmedaille"
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "Schokopudding-Kraftprobenmedaille"
         },
         {
             "key": "IT_US_G_FFT_01",
@@ -2694,7 +2694,7 @@
         },
         {
             "key": "IT_US_10_U_SSR_UR_01",
-            "value": "„Garantiert MR oder höher“-Beschwörungsticket A (10-malig)"
+            "value": "„[MR+] garantiert“-Beschwörungsticket A (10-malig)"
         },
         {
             "key": "IT_US_G_V_SR_UR_01",
@@ -2702,7 +2702,7 @@
         },
         {
             "key": "IT_US_G_V_SSR_UR_01",
-            "value": "„Garantierte Visionskarte (MR oder höher)“-Beschwörungsticket A"
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_GL_G_V_SSR_UR_01",
@@ -2710,7 +2710,7 @@
         },
         {
             "key": "IT_US_G_U_SSR_UR_01",
-            "value": "„Garantierte Einheit (MR oder höher)“-Beschwörungsticket A"
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_GL_SE_PI_COM_1",
@@ -2762,15 +2762,15 @@
         },
         {
             "key": "IT_US_G_U_UR_01",
-            "value": "„Garantierte Einheit (UR)“-Beschwörungsticket A"
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_UR_01",
-            "value": "„Garantiert UR“-Beschwörungsticket A"
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_UR_02",
-            "value": "„Garantiert UR (Winter)“-Beschwörungsticket A"
+            "value": "„[UR] garantiert (Winter)“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_U_R_UR_01",
@@ -2782,7 +2782,7 @@
         },
         {
             "key": "IT_US_G_V_UR_01",
-            "value": "„Garantierte Visionskarte (UR)“-Beschwörungsticket A"
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_SE_JB_MM_01",
@@ -2806,7 +2806,7 @@
         },
         {
             "key": "IT_US_SE_UR_U_01",
-            "value": "„Auswählbare Einheit (UR)“-Beschwörungsticket A"
+            "value": "„Auswählbare [UR]-Einheit“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_SE_AW-ITEM_01",
@@ -2814,19 +2814,19 @@
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
-            "value": "„Garantierte Einheit (MR oder höher)“-Beschwörungsticket B"
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket B"
         },
         {
             "key": "IT_US_G_U_SSR_UR_03",
-            "value": "„Garantierte Einheit (MR oder höher)“-Beschwörungsticket C"
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket C"
         },
         {
             "key": "IT_US_G_U_SSR_UR_04",
-            "value": "„Garantierte Einheit (MR oder höher)“-Beschwörungsticket D"
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket D"
         },
         {
             "key": "IT_US_SE_UR_V_01",
-            "value": "„Auswählbare Visionskarte (UR)“-Beschwörungsticket A"
+            "value": "„Auswählbare [UR]-Visionskarte“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_SE_AW-ITEM_04",
@@ -3049,6 +3049,14 @@
             "value": "„Pfad der Rache“-Visionskartenfragment"
         },
         {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "„Geheimnisse des Herzens“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "„Kampf um den Angebeteten“-Visionskartenfragment"
+        },
+        {
             "key": "IT_VC_EXP_01",
             "value": "Wachstumsei (N)"
         },
@@ -3131,6 +3139,10 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Mächtiger Kiefer des Löwen (L)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Schokopudding-Kraftprobenmedaille"
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_1",

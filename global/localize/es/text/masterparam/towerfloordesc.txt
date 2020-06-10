@@ -14,7 +14,7 @@
         },
         {
             "key": "TW_01_004",
-            "value": ""
+            "value": "Unidad recomendada: Viento<br>Habilidad recomendada: Perforación de la DEF<br>Otro: El cactilio de metal usará Mil espinas al ser atacado 3 veces"
         },
         {
             "key": "TW_01_005",

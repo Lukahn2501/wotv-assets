@@ -1511,6 +1511,10 @@
         {
             "key": "UN_GM_PLACED_ATK",
             "value": "柱の罠（矢）"
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
+            "value": "馬車"
         }
     ]
 }

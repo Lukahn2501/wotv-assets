@@ -981,6 +981,46 @@
             "value": "Chapitre 6, Partie 2"
         },
         {
+            "key": "QE_ST_01060301",
+            "value": "Chapitre 6, Partie 3"
+        },
+        {
+            "key": "QE_ST_01060302",
+            "value": "Chapitre 6, Partie 3"
+        },
+        {
+            "key": "QE_ST_01060303",
+            "value": "Chapitre 6, Partie 3"
+        },
+        {
+            "key": "QE_ST_01060304",
+            "value": "Chapitre 6, Partie 3"
+        },
+        {
+            "key": "QE_ST_01060305",
+            "value": "Chapitre 6, Partie 3"
+        },
+        {
+            "key": "QE_ST_01060306",
+            "value": "Chapitre 6, Partie 3"
+        },
+        {
+            "key": "QE_ST_01060307",
+            "value": "Chapitre 6, Partie 3"
+        },
+        {
+            "key": "QE_ST_01060308",
+            "value": "Chapitre 6, Partie 3"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Chapitre 6, Partie 3"
+        },
+        {
+            "key": "QE_ST_01060310",
+            "value": "Chapitre 6, Partie 3"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Quête difficile"
         },

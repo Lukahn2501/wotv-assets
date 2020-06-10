@@ -170,15 +170,15 @@
         },
         {
             "key": "QE_RAID_EV_08_01",
-            "value": ""
+            "value": "討伐死亡機器"
         },
         {
             "key": "QE_RAID_EV_08_02",
-            "value": ""
+            "value": "討伐死亡機器"
         },
         {
             "key": "QE_RAID_EV_08_03",
-            "value": ""
+            "value": "討伐死亡機器"
         }
     ]
 }

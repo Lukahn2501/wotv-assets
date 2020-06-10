@@ -41,6 +41,10 @@
             "value": "　«¿Qué te parece aquí, cariño?» <br>«Q-queda bien. Desde abajo también hay buenas vistas… Sí, ahí va bien.» <br>«Cariño… estás mirando los adornos, ¿no? ¿O te estoy distrayendo?» <br>«Qu… ¡Qué tontería! ¡Pues claro que estaba mirando los adornos!» <br>«Vaya, qué lástima… Vale, entonces lo pongo aquí. Yyy… ya está. ¡Terminado! Creo que tengo un talento natural para esto. Espero mi recompensa al bajar… ¡un beso por lo bien que lo he hecho!» <br>«Qu… ¡¿Qué dices?! ¡No recuerdo haberte prometido nada!»"
         },
         {
+            "key": "VC_LW_VALE1",
+            "value": "«Qué hago, qué hago… ¿podré dárselo este año? ¿Acaso debería?».<br>Kiton le da vueltas a esta pregunta una y otra vez. El problema: un dulce casero que desea dar como muestra de gratitud por estar bajo su cuidado. Como no tiene segundas intenciones, debería poder dárselo sin más. A pesar de que ella lo cree así, se pregunta si quizá se pasó con la decoración, o si se pensará que tiene otras intenciones, por lo que nunca se lo da.<br>«¿Y si al final acabo dándoselo a Owe este año otra vez?».<br>Preocupada por que se le escapen esos pensamientos, los guarda para sí. También está bajo el cuidado de Owe, eso es indiscutible. Aun así… Aunque estos sentimientos tan opuestos se remueven en su corazón, comprendió que no llegará a actuar."
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "　Un monstruo gigante con una ostentosa armadura de hierro que presume de una defensa y un ataque devastadores. Es lógico asumir que sus cualidades defensivas son mucho más avanzadas de lo que aparenta a primera vista. Sus acometidas son virulentas y sorprendentemente veloces para tratarse de un gigante con una armadura tan pesada. Se cree incluso que Férreo actúa movido por algún tipo de magia o encantamiento."
         },
@@ -59,6 +63,10 @@
         {
             "key": "VC_LW_RAMU",
             "value": "　Un sabio anciano que tiene el poder de manipular el rayo a voluntad. Con una barba tan larga como su altura, Lamú emana un aura majestuosa que hace temblar de miedo a cualquier mortal. Su existencia es legendaria (el nombre de Lamú se conoce desde hace generaciones) y algunos lo veneran como al auténtico rey de la tierra. Curiosamente, se desconoce a cuántos años se remonta su leyenda."
+        },
+        {
+            "key": "VC_LW_VALE2",
+            "value": "«¿Lord Stern aceptará mis bombones?…»<br>«¿Qué pasa, Etra? Te has quedado quieta. Nasha ya casi ha terminado. Y yo lo haré también pronto.»<br>«¿Hm? ¿Has terminado? Yelma… qué… ¿qué estás haciendo?»<br>«Pues chocolate, está claro. ¿No?»<br>«Eh, ¿de verdad? Vaya… tiene un olor intenso… ¿Estás segura de que va todo bien, Yelma?»<br>«Intenso está bien. No es solo chocolate, es una sopa repleta de ingredientes riquísimos. Cuando Lord Stern se la beba, seguro que… je, je, je.»<br>«¡Pues yo creo que su vida peligra como se beba esto! ¡Tenemos que pararla, Nasha!»<br>«¡Oh, no, Lord Stern! ¡Mi corazoncito no está preparado para esto!…»<br>«¡Bueno, ya basta de soñar despiertas!»"
         },
         {
             "key": "VC_FFT_MV1",

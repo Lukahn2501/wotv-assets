@@ -2210,7 +2210,7 @@
         },
         {
             "key": "SK_LW_WGN_M_1",
-            "value": "Significantly raises Missile ATK of allies within range around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
+            "value": "Augmente considérablement l'Att projectile des alliés dans la zone autour du lanceur pendant 3 tours et augmente le taux de perforation de la DEF du lanceur pendant 3 tours."
         },
         {
             "key": "SK_LW_WGN_M_2",
@@ -2262,7 +2262,7 @@
         },
         {
             "key": "SK_LW_WGN_M_1_SUB",
-            "value": "Significantly raises Missile ATK of allies within range around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
+            "value": "Augmente considérablement l'Att projectile des alliés dans la zone autour du lanceur pendant 3 tours et augmente le taux de perforation de la DEF du lanceur pendant 3 tours."
         },
         {
             "key": "SK_LW_WGN_M_2_SUB",
@@ -2530,7 +2530,7 @@
         },
         {
             "key": "SK_ARMN_M_02",
-            "value": "Chance of inflicting Petrify on enemy."
+            "value": "Confère une chance d'infliger Pétrification à un ennemi."
         },
         {
             "key": "SK_ARMN_M_03",
@@ -3422,7 +3422,7 @@
         },
         {
             "key": "SK_MA_LW_GLMS_2",
-            "value": "PV +1 000, Taux de précision +15, Att tranchante +10, AGI +10 %"
+            "value": "PV +1.000, Taux de précision +15,  <br>Att tranchante +10, AGI +10 %"
         },
         {
             "key": "SK_MA_LW_MACR",
@@ -3518,7 +3518,7 @@
         },
         {
             "key": "SK_MA_LW_UNII",
-            "value": "PV max +30 %, Rés att tranchantes/perçantes/contondantes/projectiles +10"
+            "value": "PV max +30 %, <br>Rés aux attaques tranchantes, <br>perçantes, contondantes, projectiles +10"
         },
         {
             "key": "SK_MA_LW_SEVR",
@@ -3682,6 +3682,14 @@
         },
         {
             "key": "SK_LW_SWO_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_005_5",
             "value": ""
         },
         {
@@ -4365,6 +4373,26 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_VALE1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_GSAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_GLEM_P",
             "value": ""
         },
@@ -4750,6 +4778,26 @@
         },
         {
             "key": "SK_VC_LW_LILS_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_PAW",
             "value": ""
         },
         {

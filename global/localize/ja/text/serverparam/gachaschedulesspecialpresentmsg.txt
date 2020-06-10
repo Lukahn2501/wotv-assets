@@ -305,6 +305,18 @@
             "value": ""
         },
         {
+            "key": "no_coin_gacha_gl20200610_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200610_01",
+            "value": "RAID記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200610_10",
+            "value": "RAID記念ピックアップ召喚のおまけです"
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "ピックアップ召喚のおまけです"
         },

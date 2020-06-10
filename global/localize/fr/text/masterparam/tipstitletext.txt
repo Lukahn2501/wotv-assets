@@ -83,6 +83,18 @@
         {
             "key": "TIPS_MULTI_001",
             "value": "Vignettes"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "Récompenses des matchs libres"
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "Mode de sélection"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "Boss de raid"
         }
     ]
 }

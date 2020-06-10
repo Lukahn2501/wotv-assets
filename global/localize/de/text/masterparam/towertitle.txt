@@ -2,7 +2,7 @@
     "infos": [
         {
             "key": "TW_01",
-            "value": "Porzellanturm (β)"
+            "value": "Porzellanturm"
         }
     ]
 }

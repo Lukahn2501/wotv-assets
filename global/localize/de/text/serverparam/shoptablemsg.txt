@@ -145,6 +145,18 @@
             "value": "Spielerrang 60 und höher"
         },
         {
+            "key": "Normal-20200207_A",
+            "value": "Spielerrang 1 bis 29"
+        },
+        {
+            "key": "Normal-20200207_B",
+            "value": "Spielerrang 30 bis 59"
+        },
+        {
+            "key": "Normal-20200207_C",
+            "value": "Spielerrang 60 und höher"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Launischer Laden (Spielerrang 1 bis 29)"
         },
@@ -277,8 +289,28 @@
             "value": "Launischer Laden (Spielerrang 60 und höher)"
         },
         {
+            "key": "Guerrilla-20200207A",
+            "value": "Launischer Laden (Spielerrang 1 bis 29)"
+        },
+        {
+            "key": "Guerrilla-20200207B",
+            "value": "Launischer Laden (Spielerrang 30 bis 59)"
+        },
+        {
+            "key": "Guerrilla-20200207C",
+            "value": "Launischer Laden (Spielerrang 60 und höher)"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200610",
+            "value": "Spezialitätenladen zur Feier der Kraftprobe"
+        },
+        {
+            "key": "Limited-gl20200610_A",
+            "value": "Blickpunktladen: Verbessere die Einheiten und Visionskarten in deinem Besitz!"
         },
         {
             "key": "Limited-gl20200603_B",
@@ -383,6 +415,10 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "Dies ist der Tauschladen für Schokopudding-Kraftprobenmedaillen, kupo!"
         },
         {
             "key": "Event-EV02_1_20200201",
@@ -946,6 +982,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_04",
+            "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WATER_2020_2_12",
+            "value": "Der Gezeitenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WIND_2020_2_13",
+            "value": "Der Böenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_14",
+            "value": "Der Schockbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_15",
+            "value": "Der Lehmbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_16",
+            "value": "Der Schimmerbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-DARK_2020_2_16",
+            "value": "Der Schattenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-ICE_2020_2_10",
+            "value": "Der Frostbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_11",
             "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
         }
     ]

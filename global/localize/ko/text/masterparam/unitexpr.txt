@@ -1511,6 +1511,10 @@
         {
             "key": "UN_GM_PLACED_ATK",
             "value": "직선상에 있는 대상에게 사격 피해"
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
+            "value": ""
         }
     ]
 }

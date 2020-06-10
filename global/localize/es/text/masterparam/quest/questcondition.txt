@@ -174,7 +174,7 @@
         },
         {
             "key": "QE_RAID_EV_08_02",
-            "value": "Warmech"
+            "value": "Máquina mortal"
         },
         {
             "key": "QE_RAID_EV_08_03",

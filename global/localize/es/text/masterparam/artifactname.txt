@@ -1931,6 +1931,30 @@
         {
             "key": "AF_GUN_LW_LUCA_2",
             "value": "Pistola hechizante"
+        },
+        {
+            "key": "AF_LW_RNG_005",
+            "value": "Anillo de alejandrita"
+        },
+        {
+            "key": "AF_LW_RNG_005_1",
+            "value": "Anillo de alejandrita +1"
+        },
+        {
+            "key": "AF_LW_RNG_005_2",
+            "value": "Anillo de alejandrita +2"
+        },
+        {
+            "key": "AF_LW_RNG_005_3",
+            "value": "Anillo de alejandrita +3"
+        },
+        {
+            "key": "AF_LW_RNG_005_4",
+            "value": "Anillo de alejandrita +4"
+        },
+        {
+            "key": "AF_LW_RNG_005_5",
+            "value": "Anillo de alejandrita +5"
         }
     ]
 }

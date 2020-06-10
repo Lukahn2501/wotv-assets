@@ -41,6 +41,10 @@
             "value": "Sueño de Federica"
         },
         {
+            "key": "VC_LW_VALE1",
+            "value": "Secretos del corazón"
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "Férreo, el Demonio Metálico"
         },
@@ -59,6 +63,10 @@
         {
             "key": "VC_LW_RAMU",
             "value": "Lamú, el del Trueno Ensordecedor"
+        },
+        {
+            "key": "VC_LW_VALE2",
+            "value": "Admiradoras rivales"
         },
         {
             "key": "VC_FFT_MV1",

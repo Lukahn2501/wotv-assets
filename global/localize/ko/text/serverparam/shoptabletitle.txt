@@ -145,6 +145,18 @@
             "value": "일반 상점"
         },
         {
+            "key": "Normal-20200207_A",
+            "value": "일반 상점"
+        },
+        {
+            "key": "Normal-20200207_B",
+            "value": "일반 상점"
+        },
+        {
+            "key": "Normal-20200207_C",
+            "value": "일반 상점"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "게릴라 상점"
         },
@@ -277,8 +289,28 @@
             "value": "게릴라 상점"
         },
         {
+            "key": "Guerrilla-20200207A",
+            "value": "게릴라 상점"
+        },
+        {
+            "key": "Guerrilla-20200207B",
+            "value": "게릴라 상점"
+        },
+        {
+            "key": "Guerrilla-20200207C",
+            "value": "게릴라 상점"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "FFT 콜라보 기념 상점"
+        },
+        {
+            "key": "Limited-gl20200610",
+            "value": "레이드 기념 특별 상점"
+        },
+        {
+            "key": "Limited-gl20200610_A",
+            "value": "픽업 유닛 상점"
         },
         {
             "key": "Limited-gl20200603_B",
@@ -383,6 +415,10 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "파이널판타지14 칠흑의 반역자 콜라보 상점"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "초코 푸딩 레이드 메달 교환소"
         },
         {
             "key": "Event-EV02_1_20200201",
@@ -946,6 +982,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_04",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2020_2_12",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2020_2_13",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_14",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_15",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_16",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2020_2_16",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2020_2_10",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_11",
             "value": "일일 변경 불속성 상점"
         }
     ]

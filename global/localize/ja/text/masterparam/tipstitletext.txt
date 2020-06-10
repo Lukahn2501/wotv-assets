@@ -83,6 +83,18 @@
         {
             "key": "TIPS_MULTI_001",
             "value": "スタンプ"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "フリーマッチの報酬"
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "モードの選択"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "レイドボス"
         }
     ]
 }

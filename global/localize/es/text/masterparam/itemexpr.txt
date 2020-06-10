@@ -2425,6 +2425,10 @@
             "value": "Receta necesaria para forjar un hacha dorada"
         },
         {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "Receta necesaria para forjar un anillo de alejandrita"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Mayor probabilidad de que aumente la VIT si el equipo ha subido de nivel"
         },
@@ -2658,15 +2662,11 @@
         },
         {
             "key": "IT_EC_TOWER_001",
-            "value": "Medalla que se obtiene en la Torre de Porcelana (β)"
+            "value": "Medalla que se obtiene en la Torre de Porcelana"
         },
         {
             "key": "IT_EC_EV02_1",
             "value": "Objeto que puede adquirirse en los eventos de Rundal, la amenaza del oeste. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de evento de junio."
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "Medalla que se obtiene en los asaltos"
         },
         {
             "key": "IT_US_G_FFT_01",
@@ -3049,6 +3049,14 @@
             "value": "Objeto necesario para despertar una carta de visión"
         },
         {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
             "key": "IT_VC_EXP_01",
             "value": "Otorga EXP de carta de visión (poco)"
         },
@@ -3131,6 +3139,10 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Otorga EXP para la estatua del gremio [estatua de piedra del león] (mucho)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Medalla que se obtiene en los asaltos"
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_1",

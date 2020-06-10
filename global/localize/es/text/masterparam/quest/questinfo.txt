@@ -981,6 +981,46 @@
             "value": "Detalles de la misión<br>Recomendado: nv. 65, nv. de profesión 11"
         },
         {
+            "key": "QE_ST_01060301",
+            "value": "Detalles de misión<br>Recomendado: nv. 60, nv. de profesión 10"
+        },
+        {
+            "key": "QE_ST_01060302",
+            "value": "Detalles de misión<br>Recomendado: nv. 61, nv. de profesión 10"
+        },
+        {
+            "key": "QE_ST_01060303",
+            "value": "Detalles de misión<br>Recomendado: nv. 61, nv. de profesión 10"
+        },
+        {
+            "key": "QE_ST_01060304",
+            "value": "Detalles de misión<br>Recomendado: nv. 62, nv. de profesión 11"
+        },
+        {
+            "key": "QE_ST_01060305",
+            "value": "Detalles de misión<br>Recomendado: nv. 63, nv. de profesión 11"
+        },
+        {
+            "key": "QE_ST_01060306",
+            "value": "Detalles de misión<br>Recomendado: nv. 63, nv. de profesión 11"
+        },
+        {
+            "key": "QE_ST_01060307",
+            "value": "Detalles de misión<br>Recomendado: nv. 64, nv. de profesión 11"
+        },
+        {
+            "key": "QE_ST_01060308",
+            "value": "Detalles de la misión<br>Recomendado: nv. 65, nv. de profesión 11"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Detalles de la misión<br>Recomendado: nv. 65, nv. de profesión 11"
+        },
+        {
+            "key": "QE_ST_01060310",
+            "value": "Detalles de la misión<br>Recomendado: nv. 70, nv. de profesión 12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Detalles de misión<br>Recomendado: nv. 17, nv. de profesión 3<br>Condiciones para desbloquear: Consigue a [Zazán]"
         },

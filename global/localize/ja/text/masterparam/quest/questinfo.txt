@@ -981,6 +981,46 @@
             "value": "クエスト情報<br>推奨：UnitLv.65 JobLv.11"
         },
         {
+            "key": "QE_ST_01060301",
+            "value": "クエスト情報<br>推奨：UnitLv.60 JobLv.10"
+        },
+        {
+            "key": "QE_ST_01060302",
+            "value": "クエスト情報<br>推奨：UnitLv.61 JobLv.10"
+        },
+        {
+            "key": "QE_ST_01060303",
+            "value": "クエスト情報<br>推奨：UnitLv.61 JobLv.10"
+        },
+        {
+            "key": "QE_ST_01060304",
+            "value": "クエスト情報<br>推奨：UnitLv.62 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01060305",
+            "value": "クエスト情報<br>推奨：UnitLv.63 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01060306",
+            "value": "クエスト情報<br>推奨：UnitLv.63 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01060307",
+            "value": "クエスト情報<br>推奨：UnitLv.64 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01060308",
+            "value": "クエスト情報<br>推奨：UnitLv.65 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "クエスト情報<br>推奨：UnitLv.65 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01060310",
+            "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "クエスト情報<br>推奨：UnitLv.17 JobLv.3<br>解放条件：ユニット「ザザン」を獲得"
         },

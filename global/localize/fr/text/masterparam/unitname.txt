@@ -1511,6 +1511,10 @@
         {
             "key": "UN_GM_PLACED_ATK",
             "value": "Piège pointu (Flèches)"
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
+            "value": "Carrosse"
         }
     ]
 }

@@ -143,6 +143,14 @@
         {
             "key": "Normal_gacha_A_gl20200603_10",
             "value": "Limitierte Normale Beschwörung zur Feier des Versionsupdates (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_01",
+            "value": "Limitierte Normale Beschwörung zur Feier der Kraftprobe"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_10",
+            "value": "Limitierte Normale Beschwörung zur Feier der Kraftprobe (10-malig)"
         }
     ]
 }

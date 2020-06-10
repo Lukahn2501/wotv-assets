@@ -250,7 +250,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_06",
-            "value": "경험치 큐브 일일 패키지 B"
+            "value": "경험치 큐브 일일 패키지"
         },
         {
             "key": "IT_SET_3MDL_THUNDER",
@@ -383,6 +383,62 @@
         {
             "key": "IT_SET_VC",
             "value": "비전 카드 육성 패키지"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "1일 1회 무료 멀티 레이드 회복약 × 1"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "레이드 지원 패키지"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "불의 각성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "바람의 각성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "땅의 각성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "얼음의 각성 패키지"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "장비[HP] 강화 패키지"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "장비[공격력] 강화 패키지"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "장비[명중률] 강화 패키지"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_AWK_02",
+            "value": "유닛 각성 패키지 II"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": ""
         }
     ]
 }

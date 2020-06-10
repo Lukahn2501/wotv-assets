@@ -250,7 +250,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_06",
-            "value": "Lot de cube d'EXP quotidien [B]"
+            "value": "Lot de cube d'EXP quotidien"
         },
         {
             "key": "IT_SET_3MDL_THUNDER",
@@ -383,6 +383,62 @@
         {
             "key": "IT_SET_VC",
             "value": "Lot d'entraînement d'atout-vision"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "Restauration multi-raid (Complète) quotidienne x1"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "Lot de soutien de raid"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "Lot d’éveil de feu"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "Lot d’éveil de vent"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "Lot d’éveil de terre"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "Lot d’éveil de glace"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "Lot d'amélioration des PV de l'équipement"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "Lot d'amélioration de l'ATT de l'équipement"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "Lot d'amélioration de la précision de l'équipement"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_AWK_02",
+            "value": "Lot d'éveil d'unité II"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": ""
         }
     ]
 }

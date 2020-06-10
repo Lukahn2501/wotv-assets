@@ -2,7 +2,7 @@
     "infos": [
         {
             "key": "TW_01",
-            "value": "Tour de porcelaine (β)"
+            "value": "Tour de porcelaine"
         }
     ]
 }

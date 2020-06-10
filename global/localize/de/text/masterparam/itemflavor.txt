@@ -2425,6 +2425,10 @@
             "value": "Eine Anleitung, die beschreibt, welche Materialien wie kombiniert werden müssen, um eine Goldaxt anfertigen zu können. Ist man im Besitz der richtigen Art und Menge der Materialien, kann der entsprechende Gegenstand durch einfaches Befolgen der in der Anleitung aufgeführten Schritte hergestellt werden. Diese Herstellungsmethode wird überall auf der Welt angewandt, da hierfür weder das Fachwissen noch die praktischen Fähigkeiten eines Schmiedes benötigt werden."
         },
         {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "Eine Anleitung, die beschreibt, welche Materialien wie kombiniert werden müssen, um einen Alexandritring anfertigen zu können. Ist man im Besitz der richtigen Art und Menge der Materialien, kann der entsprechende Gegenstand durch einfaches Befolgen der in der Anleitung aufgeführten Schritte hergestellt werden. Diese Herstellungsmethode wird überall auf der Welt angewandt, da hierfür weder das Fachwissen noch die praktischen Fähigkeiten eines Schmiedes benötigt werden."
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Das Einritzen bestimmter Muster in Ausrüstungsgegenstände während des Schmiedeprozesses erzeugt einen Effekt, der einem kleinformatigen magischen Feld ähnelt und dem entsprechenden Objekt eine Reihe von Kräften verleiht. Dieses spezielle Gravurmuster scheint die LP der Person zu erhöhen, die einen entsprechend ziselierten Ausrüstungsgegenstand angelegt hat."
         },
@@ -2662,10 +2666,6 @@
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": ""
-        },
-        {
-            "key": "IT_EC_RAID_02",
             "value": ""
         },
         {
@@ -3049,6 +3049,14 @@
             "value": ""
         },
         {
+            "key": "IT_VPI_LW_VALE1",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": ""
+        },
+        {
             "key": "IT_VC_EXP_01",
             "value": "Ein durchscheinendes, eiförmiges Gefäß, das bis zum Rand mit einer rätselhaften Flüssigkeit gefüllt ist. Bei genauerem Hinsehen sind einige Bläschen zu erkennen, die sanft im Inneren hin- und herschweben. Der Einsatz dieses Kleinods ermöglicht die Verbesserung einer Visionskarte."
         },
@@ -3131,6 +3139,10 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Dieser Gegenstand wurde im Aussehen dem Kiefer eines Löwen nachempfunden und gewährt den Segen erhöhter Angriffskraft, wenn er der Löwenstatue als Opfer dargebracht wird. Ein kurzer Blick auf das enorme handwerkliche Können, das offensichtlich bei der Verfertigung angewandt wurde, ruft beim Betrachter Bilder des Tieres an sich hervor. Wie man hört, fällt die gewährte Segnung umso stärker aus, je mehr dieser Amulette als Opfer dargebracht werden."
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": ""
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_1",

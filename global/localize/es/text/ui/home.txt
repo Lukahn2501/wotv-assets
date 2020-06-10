@@ -4774,7 +4774,7 @@
         },
         {
             "key": "RAID_END",
-            "value": "Fin"
+            "value": "Finalizados"
         },
         {
             "key": "RAID_CHALLENGE",

@@ -385,6 +385,14 @@
             "value": "Completa el capítulo 6, escena 2: Conquista del trono II"
         },
         {
+            "key": "M_ST_0006_03",
+            "value": "Completa el capítulo 6, escena 3: Solidus, ¡al ataque!"
+        },
+        {
+            "key": "M_ST_0006_03_2",
+            "value": "Completa el capítulo 6, escena 3: Estrellas tempestuosas"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Alcanza el rango vip 1"
         },
@@ -1413,26 +1421,6 @@
             "value": "Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) 5 veces"
         },
         {
-            "key": "M_ART_SCR_16",
-            "value": "Completa la misión difícil de recompensa de libro secreto (bastones, katanas, dagas)"
-        },
-        {
-            "key": "M_ART_SCR_17",
-            "value": "Completa la misión difícil de recompensa de libro secreto (bastones, katanas, dagas)"
-        },
-        {
-            "key": "M_ART_SCR_18",
-            "value": "Completa la misión difícil de recompensa de libro secreto (bastones, katanas, dagas) 3 veces"
-        },
-        {
-            "key": "M_ART_SCR_19",
-            "value": "Completa la misión difícil de recompensa de libro secreto (bastones, katanas, dagas) 3 veces"
-        },
-        {
-            "key": "M_ART_SCR_20",
-            "value": "Completa la misión difícil de recompensa de libro secreto (bastones, katanas, dagas) 5 veces"
-        },
-        {
             "key": "M_MU_ART_SCR_07",
             "value": "[Multijugador] Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja)"
         },
@@ -1443,18 +1431,6 @@
         {
             "key": "M_MU_ART_SCR_09",
             "value": "[Multijugador] Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) 5 veces"
-        },
-        {
-            "key": "M_MU_ART_SCR_10",
-            "value": "[Multijugador] Completa la misión difícil de recompensa de libro secreto (bastones, katanas, dagas)"
-        },
-        {
-            "key": "M_MU_ART_SCR_11",
-            "value": "[Multijugador] Completa la misión difícil de recompensa de libro secreto (bastones, katanas, dagas) 3 veces"
-        },
-        {
-            "key": "M_MU_ART_SCR_12",
-            "value": "[Multijugador] Completa la misión difícil de recompensa de libro secreto (bastones, katanas, dagas) 5 veces"
         },
         {
             "key": "MG_PR_001_001",

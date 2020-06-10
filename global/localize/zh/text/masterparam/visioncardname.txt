@@ -41,6 +41,10 @@
             "value": "弗蕾德麗卡的夢想"
         },
         {
+            "key": "VC_LW_VALE1",
+            "value": "無法傳達的感情"
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "鋼之魔人　鐵巨人"
         },
@@ -59,6 +63,10 @@
         {
             "key": "VC_LW_RAMU",
             "value": "響震於空之雷鳴　拉姆"
+        },
+        {
+            "key": "VC_LW_VALE2",
+            "value": "帥哥爭奪戰！！"
         },
         {
             "key": "VC_FFT_MV1",

@@ -83,6 +83,18 @@
         {
             "key": "TIPS_MULTI_001",
             "value": "Du kannst mit anderen Spielern kommunizieren, indem du Sticker antippst. Sende anderen Spielern Sticker und gehe gemeinsam mit ihnen Aufträge an!"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "Belohnungen können bis zu fünf Mal pro Tag abgeholt werden und sind je nach Ausgang deiner Matches unterschiedlich. Ab dem sechsten Match, können Belohnungen nicht mehr abgeholt werden."
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "Du kannst zwischen Solo-Modus, 2-Spieler Duo-Modus und 4-Spieler Quartett-Modus auswählen. Bei einer Kraftprobe im 2- und 4-Spieler-Modus lassen sich mehr Punkte sammeln, als wenn du sie alleine bestreitest. Besiege den Boss also am besten gemeinsam mit Freunden!"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "Selbst wenn ein Kraftproben-Boss nicht gleich beim ersten Versuch besiegt werden kann, wird sein letzter LP-Stand unverändert in den nächsten Kampf übernommen. Strecke den Boss nieder, bevor er entkommen kann!"
         }
     ]
 }

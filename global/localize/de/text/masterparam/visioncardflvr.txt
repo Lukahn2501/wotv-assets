@@ -41,6 +41,10 @@
             "value": "　„Wie sieht es hier aus, Liebchen, passt alles?“ „J-Ja, alles perfekt. Das sieht man sogar von unten... Mach nur weiter.“ „Liebchen? Du schaust schon brav die Dekoration an, und nicht etwa mich, oder?“ „S-So ein Unsinn! Natürlich meinte ich die Dekoration!!“ „... Hach, wie schade ... Na gut. Dann hänge ich das noch hierhin, und ... Fertig! Wow, hab ich das toll gemacht! Ich finde, dafür habe ich mir ein Küsschen als Belohnung verdient, wenn ich runterkomme!“ „Spinnst du?! I-Ich kann mich nicht daran erinnern, so etwas versprochen zu haben!“"
         },
         {
+            "key": "VC_LW_VALE1",
+            "value": "„Was soll ich tun ... Ob ich es wohl dieses Jahr schaffe, es ihm zu geben? Aber sollte ich das überhaupt?“<br>Wieder und wieder geht Kiton diesen Ablauf in Gedanken durch. Konkret geht es um die selbstgemachte Süßspeise, mit der sie ihm dafür danken möchte, dass er sich stets um sie kümmert. Ansonsten stecken keinerlei versteckte Absichten dahinter, also sollte sie doch eigentlich in der Lage sein, es ihm ganz normal zu geben. Sie fürchtet allerdings, es mit der Dekoration etwas übertrieben zu haben oder missverstanden zu werden, weswegen sie es letztendlich noch nie über sich gebracht hat, ihm das süße Geschenk zu überreichen. <br>„Vielleicht werde ich es letzten Endes ja auch dieses Jahr Ornh geben ...“ <br>Hastig beißt sie sich auf die Zunge, damit ihr nicht aus Versehen etwas herausrutscht. Die Idee an sich ist ja nicht unbedingt abwegig, schließlich kümmert sich auch Ornh sehr gut um sie. Und dennoch ... Noch während sie die Angelegenheit in Gedanken dreht und wendet, wird ihr klar, dass sie es wohl auch dieses Jahr nicht schaffen wird. "
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "　Ein gigantisches Monster, gekleidet in eine edle Eisenrüstung, mit überragender Offensive und Defensive. Selbst seine von der Rüstung unbedeckte Haut ist so hart wie Metall. Daher liegt man wohl kaum falsch in der Annahme, dass seine defensiven Kapazitäten weit fortgeschrittener sind, als man mit bloßem Auge erkennen kann. Seine Angriffe sind heftig und überraschend flink für einen Giganten in einem schweren Panzer. Man vermutet, dass der Eisengigant von einer Art Magie oder durch irgendeine Beschwörungsformel in den Kampf gesteuert wird."
         },
@@ -59,6 +63,10 @@
         {
             "key": "VC_LW_RAMU",
             "value": "　Ein schrumpeliger alter Mann mit der Kraft, über Blitze zu herrschen. Sein stolzer Bart ist beinahe so lang, wie er groß ist. Ramuh ist von einer würdevollen Aura umgeben, die jeden gewöhnlichen Sterblichen in Ehrfurcht vor ihm erzittern lässt. Er ist eine lebende Legende – tatsächlich ist der Name Ramuh schon seit Generationen bekannt – und es gibt Leute, die ihn als ihren einen, wahren König verehren. Interessanterweise lässt sich kaum feststellen, in welcher fernen Vergangenheit die Legende von Ramuh ihren Ursprung nahm."
+        },
+        {
+            "key": "VC_LW_VALE2",
+            "value": "„Ob Seine Majestät Styr meine Schokolade wohl annehmen wird ...?“<br>„Was ist los, Etre? Warum machst du nicht weiter? Nashia ist schon fast fertig, und ich brauche auch nicht mehr lange.“<br>„... Hm? Das heißt, du bist auch bald fertig? Yerma ... was genau kochst du da?“<br>„Bist du blind? Schokolade natürlich!“<br>„Äh, wirklich? ... Uh, das riecht ja sehr ... dynamisch ... Bist du sicher, dass du alles richtig gemacht hast?“ <br>„Oh ja, dynamisch ist genau richtig! Das ist keine normale Schokolade, sondern eine Suppe mit lauter köstlichen Zutaten drin! Wenn Styr die isst, wird er sich sicher ... hehehe ...“<br>„... Wird er sich sicher in Lebensgefahr begeben! Nashia, wir müssen sie aufhalten!“<br>„Styr, nicht .... Mein zartes Herzchen ist noch nicht bereit ...“<br> „Kommt mal wieder zurück in die Wirklichkeit, ihr zwei ...!“"
         },
         {
             "key": "VC_FFT_MV1",

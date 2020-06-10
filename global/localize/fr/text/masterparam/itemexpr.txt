@@ -2425,6 +2425,10 @@
             "value": "Une recette nécessaire à la fabrication d'une Hache en or"
         },
         {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "Une recette nécessaire à la fabrication d'un anneau d'alexandrite"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Augmente les chances de voir ses PV augmenter lorsque l'équipement passe au niveau supérieur."
         },
@@ -2658,15 +2662,11 @@
         },
         {
             "key": "IT_EC_TOWER_001",
-            "value": "Une médaille qui s'obtient dans la Tour de porcelaine (β)"
+            "value": "Une médaille qui s'obtient dans la Tour de porcelaine"
         },
         {
             "key": "IT_EC_EV02_1",
             "value": "Un objet échangeable qui peut être obtenu grâce aux événements de « Rundall, menace à l'ouest ». Il peut être échangé contre divers objets dans la Boutique d’échange de médailles d'événement de juin."
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "Une médaille qui s'obtient lors des combats de raid"
         },
         {
             "key": "IT_US_G_FFT_01",
@@ -3049,6 +3049,14 @@
             "value": "Un objet nécessaire à l'éveil d'un atout-vision"
         },
         {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
             "key": "IT_VC_EXP_01",
             "value": "Acquisition d'EXP pour un atout-vision (S)"
         },
@@ -3131,6 +3139,10 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Lion en pierre » (L)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Une médaille qui s'obtient lors des combats de raid"
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_1",

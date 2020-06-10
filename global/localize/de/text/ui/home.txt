@@ -2590,7 +2590,7 @@
         },
         {
             "key": "EXCHANGE_LIMIT_DAY",
-            "value": "<size=1.2em><color=#F0C040>{0}</color></size> Tage(n)"
+            "value": "<size=1.2em><color=#F0C040>{0}</color></size> T."
         },
         {
             "key": "EXCHANGE_TITLE",

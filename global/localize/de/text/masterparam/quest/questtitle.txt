@@ -981,6 +981,46 @@
             "value": "Um den Thron zu erlangen II"
         },
         {
+            "key": "QE_ST_01060301",
+            "value": "Mögen die Kristalle uns leiten"
+        },
+        {
+            "key": "QE_ST_01060302",
+            "value": "Ins Löwenschloss"
+        },
+        {
+            "key": "QE_ST_01060303",
+            "value": "Verblühende Leben"
+        },
+        {
+            "key": "QE_ST_01060304",
+            "value": "Schicksalswende"
+        },
+        {
+            "key": "QE_ST_01060305",
+            "value": "„Solidus“, Marsch!"
+        },
+        {
+            "key": "QE_ST_01060306",
+            "value": "Verteidigungsgürtel"
+        },
+        {
+            "key": "QE_ST_01060307",
+            "value": "In der Kutsche I"
+        },
+        {
+            "key": "QE_ST_01060308",
+            "value": "In der Kutsche II"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Ich warte"
+        },
+        {
+            "key": "QE_ST_01060310",
+            "value": "Aufgebrachte Sterne"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Fragmentauftrag: Zazan"
         },

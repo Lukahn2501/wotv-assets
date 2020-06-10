@@ -853,6 +853,10 @@
             "value": "<span=0.03>銀の影　地上に降り立つ月波の化身よ<wait=0.35><br><span=0.03>咆哮せよ、<wait=0.7><span=0.02>フェンリル！<wait=0.5>"
         },
         {
+            "key": "SK_SMN_TITN",
+            "value": "<span=0.03>大地震わす憤怒の前に　人の子はただ無力<wait=0.35><br><span=0.03>踏み鳴らせ、<wait=0.7><span=0.02>タイタン！<wait=0.5>"
+        },
+        {
             "key": "SK_SMN_IGNT",
             "value": "<span=0.03>鋼鉄の剣士に殲滅を命ず<wait=0.35><br><span=0.03>出撃せよ、<wait=0.7><span=0.02>鉄巨人！<wait=0.5>"
         },

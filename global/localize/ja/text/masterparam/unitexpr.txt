@@ -1511,6 +1511,10 @@
         {
             "key": "UN_GM_PLACED_ATK",
             "value": "直線上にいる対象に射撃ダメージ"
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
+            "value": ""
         }
     ]
 }

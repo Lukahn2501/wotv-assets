@@ -1931,6 +1931,30 @@
         {
             "key": "AF_GUN_LW_LUCA_2",
             "value": "Lu‘Cias geliebte Pistole, eine Hochleistungswaffe mit der modernsten Technologie, die Rundall zu bieten hat. Als „verzaubernd“ wird sie deswegen bezeichnet, da sie die einzigartige Eigenschaft hat, mit unvergleichlicher Präzision das Herz eines jeden zu durchstoßen, auf den sie gerichtet wird."
+        },
+        {
+            "key": "AF_LW_RNG_005",
+            "value": "Ein mit einem faszinierend leuchtenden Alexandrit besetzter Ring. Seine Eigenschaft, mit auftreffendem Licht seine Farbe zu ändern, brachte ihm den Titel „König der Edelsteine“ ein. Exemplare, die sich durch hohe Transparenz und Farbenreichtum auszeichnen, sind außerordentlich selten und wechseln nur gegen hohe Preise den Besitzer."
+        },
+        {
+            "key": "AF_LW_RNG_005_1",
+            "value": "Ein mit einem faszinierend leuchtenden Alexandrit besetzter Ring. Seine Eigenschaft, mit auftreffendem Licht seine Farbe zu ändern, brachte ihm den Titel „König der Edelsteine“ ein. Exemplare, die sich durch hohe Transparenz und Farbenreichtum auszeichnen, sind außerordentlich selten und wechseln nur gegen hohe Preise den Besitzer."
+        },
+        {
+            "key": "AF_LW_RNG_005_2",
+            "value": "Ein mit einem faszinierend leuchtenden Alexandrit besetzter Ring. Seine Eigenschaft, mit auftreffendem Licht seine Farbe zu ändern, brachte ihm den Titel „König der Edelsteine“ ein. Exemplare, die sich durch hohe Transparenz und Farbenreichtum auszeichnen, sind außerordentlich selten und wechseln nur gegen hohe Preise den Besitzer."
+        },
+        {
+            "key": "AF_LW_RNG_005_3",
+            "value": "Ein mit einem faszinierend leuchtenden Alexandrit besetzter Ring. Seine Eigenschaft, mit auftreffendem Licht seine Farbe zu ändern, brachte ihm den Titel „König der Edelsteine“ ein. Exemplare, die sich durch hohe Transparenz und Farbenreichtum auszeichnen, sind außerordentlich selten und wechseln nur gegen hohe Preise den Besitzer."
+        },
+        {
+            "key": "AF_LW_RNG_005_4",
+            "value": "Ein mit einem faszinierend leuchtenden Alexandrit besetzter Ring. Seine Eigenschaft, mit auftreffendem Licht seine Farbe zu ändern, brachte ihm den Titel „König der Edelsteine“ ein. Exemplare, die sich durch hohe Transparenz und Farbenreichtum auszeichnen, sind außerordentlich selten und wechseln nur gegen hohe Preise den Besitzer."
+        },
+        {
+            "key": "AF_LW_RNG_005_5",
+            "value": "Ein mit einem faszinierend leuchtenden Alexandrit besetzter Ring. Seine Eigenschaft, mit auftreffendem Licht seine Farbe zu ändern, brachte ihm den Titel „König der Edelsteine“ ein. Exemplare, die sich durch hohe Transparenz und Farbenreichtum auszeichnen, sind außerordentlich selten und wechseln nur gegen hohe Preise den Besitzer."
         }
     ]
 }

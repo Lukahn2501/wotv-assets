@@ -6,27 +6,27 @@
         },
         {
             "key": "2",
-            "value": "<cspace=1>100만 다운로드 기념 상점"
+            "value": "<cspace=1>100만 다운로드<br>기념 상점"
         },
         {
             "key": "3",
-            "value": "<cspace=1>200만 다운로드 기념 상점"
+            "value": "<cspace=1>200만 다운로드<br>기념 상점"
         },
         {
             "key": "4",
-            "value": "람자 이용 가능!"
+            "value": "람자<br>이용 가능!"
         },
         {
             "key": "5",
-            "value": "<cspace=1>FFT 콜라보<cspace=-0.5> 5월 12일 종료"
+            "value": "<cspace=1>FFT 콜라보<cspace=-0.5><br>5월 12일 종료"
         },
         {
             "key": "6",
-            "value": "<cspace=1>스토리 제6장 개방 기념 상점"
+            "value": "<cspace=1>스토리 제6장 개방<br>기념 상점"
         },
         {
             "key": "7",
-            "value": "<cspace=1>500만 다운로드 기념 상점"
+            "value": "<cspace=1>500만 다운로드<br>기념 상점"
         },
         {
             "key": "8",
@@ -35,6 +35,10 @@
         {
             "key": "9",
             "value": "<cspace=1>버전 업 기념<br>상점"
+        },
+        {
+            "key": "10",
+            "value": "<cspace=1>레이드 기념<br>특별 상점!"
         }
     ]
 }

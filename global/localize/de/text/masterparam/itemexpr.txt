@@ -2425,6 +2425,10 @@
             "value": "Eine Anleitung, die zum Herstellen einer Goldaxt benötigt wird."
         },
         {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "Eine Anleitung, die zum Herstellen eines Alexandritrings benötigt wird."
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Erhöht die Wahrscheinlichkeit einer LP-Steigerung beim Stufenaufstieg von Ausrüstung."
         },
@@ -2658,15 +2662,11 @@
         },
         {
             "key": "IT_EC_TOWER_001",
-            "value": "Eine Medaille, die im Porzellanturm (β) erlangt werden kann."
+            "value": "Eine Medaille, die im Porzellanturm erlangt werden kann."
         },
         {
             "key": "IT_EC_EV02_1",
             "value": "Ein Gegenstand, der im Event „Rundall, Bedrohung im Westen“ erlangt werden kann und im Tauschladen für Juni-Eventmedaillen in unterschiedliche Gegenstände eingelöst werden kann."
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "Eine Medaille, die über Kraftproben erlangt werden kann."
         },
         {
             "key": "IT_US_G_FFT_01",
@@ -2782,7 +2782,7 @@
         },
         {
             "key": "IT_US_G_V_UR_01",
-            "value": "Ein Ticket, mit sich garantiert eine Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
+            "value": "Ein Ticket, mit dem sich garantiert eine Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
         },
         {
             "key": "IT_US_SE_JB_MM_01",
@@ -3049,6 +3049,14 @@
             "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
         },
         {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
             "key": "IT_VC_EXP_01",
             "value": "Gewährt Gewinn von Visionskarten-ERF (S)."
         },
@@ -3131,6 +3139,10 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Gewährt der „Steinernen Löwenstatue“ der Gilde einen Erfahrungsgewinn (L)."
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Eine Medaille, die über Kraftproben erlangt werden kann."
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_1",

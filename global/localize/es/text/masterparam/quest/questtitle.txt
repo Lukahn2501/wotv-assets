@@ -981,6 +981,46 @@
             "value": "Conquista del trono II"
         },
         {
+            "key": "QE_ST_01060301",
+            "value": "Que la luz de los cristales nos guíe"
+        },
+        {
+            "key": "QE_ST_01060302",
+            "value": "Hacia el castillo de Leonis"
+        },
+        {
+            "key": "QE_ST_01060303",
+            "value": "Aferrarse a la vida"
+        },
+        {
+            "key": "QE_ST_01060304",
+            "value": "Suerte cambiante"
+        },
+        {
+            "key": "QE_ST_01060305",
+            "value": "Solidus, ¡al ataque!"
+        },
+        {
+            "key": "QE_ST_01060306",
+            "value": "Nos abriremos paso"
+        },
+        {
+            "key": "QE_ST_01060307",
+            "value": "Hallazgo en el carruaje I"
+        },
+        {
+            "key": "QE_ST_01060308",
+            "value": "Hallazgo en el carruaje II"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Estoy esperando..."
+        },
+        {
+            "key": "QE_ST_01060310",
+            "value": "Estrellas tempestuosas"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Misión de fragmentos: Zazán"
         },

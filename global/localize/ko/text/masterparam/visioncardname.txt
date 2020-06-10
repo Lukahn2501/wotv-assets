@@ -41,6 +41,10 @@
             "value": "프레데리카의 꿈"
         },
         {
+            "key": "VC_LW_VALE1",
+            "value": "전할 수 없는 마음"
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "강철의 마인-철거인"
         },
@@ -59,6 +63,10 @@
         {
             "key": "VC_LW_RAMU",
             "value": "하늘에 울리는 뇌명-라무"
+        },
+        {
+            "key": "VC_LW_VALE2",
+            "value": "미남 쟁탈전!!"
         },
         {
             "key": "VC_FFT_MV1",

@@ -1931,6 +1931,30 @@
         {
             "key": "AF_GUN_LW_LUCA_2",
             "value": "La preciada pistola de Lu'Cía, un arma de alto rendimiento que incorpora la tecnología más novedosa de Rundal. Se la llegó a apodar «la hechizante» porque la pistola es capaz de perforar el corazón de quienquiera que sea su objetivo con una precisión inigualable."
+        },
+        {
+            "key": "AF_LW_RNG_005",
+            "value": "Un anillo con incrustaciones de radiante alejandrita. Esta gema cambia de color dependiendo de la luz que choca contra su superficie, y es tanta la belleza que irradia que se la conoce como la reina de las piedras preciosas. Las piedras de gran calidad y con variedad de color son sumamente inusuales, por lo que se venden a un precio extremadamente alto."
+        },
+        {
+            "key": "AF_LW_RNG_005_1",
+            "value": "Un anillo con incrustaciones de radiante alejandrita. Esta gema cambia de color dependiendo de la luz que choca contra su superficie, y es tanta la belleza que irradia que se la conoce como la reina de las piedras preciosas. Las piedras de gran calidad y con variedad de color son sumamente inusuales, por lo que se venden a un precio extremadamente alto."
+        },
+        {
+            "key": "AF_LW_RNG_005_2",
+            "value": "Un anillo con incrustaciones de radiante alejandrita. Esta gema cambia de color dependiendo de la luz que choca contra su superficie, y es tanta la belleza que irradia que se la conoce como la reina de las piedras preciosas. Las piedras de gran calidad y con variedad de color son sumamente inusuales, por lo que se venden a un precio extremadamente alto."
+        },
+        {
+            "key": "AF_LW_RNG_005_3",
+            "value": "Un anillo con incrustaciones de radiante alejandrita. Esta gema cambia de color dependiendo de la luz que choca contra su superficie, y es tanta la belleza que irradia que se la conoce como la reina de las piedras preciosas. Las piedras de gran calidad y con variedad de color son sumamente inusuales, por lo que se venden a un precio extremadamente alto."
+        },
+        {
+            "key": "AF_LW_RNG_005_4",
+            "value": "Un anillo con incrustaciones de radiante alejandrita. Esta gema cambia de color dependiendo de la luz que choca contra su superficie, y es tanta la belleza que irradia que se la conoce como la reina de las piedras preciosas. Las piedras de gran calidad y con variedad de color son sumamente inusuales, por lo que se venden a un precio extremadamente alto."
+        },
+        {
+            "key": "AF_LW_RNG_005_5",
+            "value": "Un anillo con incrustaciones de radiante alejandrita. Esta gema cambia de color dependiendo de la luz que choca contra su superficie, y es tanta la belleza que irradia que se la conoce como la reina de las piedras preciosas. Las piedras de gran calidad y con variedad de color son sumamente inusuales, por lo que se venden a un precio extremadamente alto."
         }
     ]
 }

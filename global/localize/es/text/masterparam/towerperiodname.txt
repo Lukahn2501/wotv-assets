@@ -2,7 +2,7 @@
     "infos": [
         {
             "key": "TW_01_PR",
-            "value": "Torre de Porcelana (β)"
+            "value": "Torre de Porcelana"
         }
     ]
 }

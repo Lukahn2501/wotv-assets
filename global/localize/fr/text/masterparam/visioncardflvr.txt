@@ -41,6 +41,10 @@
             "value": "　« Qu'est-ce que tu en penses, mon ange ? »<br>« Oh, euh, pfiou ! J'ai une vue magnifique d'ici... Continue, je t'en prie. »<br> « Dis-moi, mon ange... C'est bien les décorations, que tu regardes, hm ? Je ne t'ai pas distrait, au moins ? »<br> « Moi ? Distrait ? Bien sûr que je regardais les décorations ! »<br> « Bon, tant pis... Alors, je mets ça ici... eeeet voilà ! Fini ! Je me débrouille bien ! Je mérite bien une petite récompense quand je redescendrai ! Un baiser par exemple ? En l'honneur de cette magnifique décoration ! »<br> « Un b-baiser ?! Je n'ai jamais promis une chose pareille ! »"
         },
         {
+            "key": "VC_LW_VALE1",
+            "value": "« J'ose ? Je n'ose pas ! Est-ce que je vais enfin réussir à lui en offrir cette année ? Est-ce que je devrais lui en offrir cette année ? »<br>Kitone se bat avec son propre courage depuis des heures. L'objet de son angoisse ? Une sucrerie faite maison qu'elle voudrait offrir à une certaine personne en gage de gratitude. Pour ça, et rien d'autre. Elle ne devrait donc avoir aucun mal à lui donner mais... elle a toujours peur d'avoir eu la main un peu trop lourde sur la décoration, ou qu'il se trompe sur ses intentions, alors elle n'a jamais osé.<br>« Je vais sans doute encore finir par l'offrir à Owe comme tous les ans... »<br>Mais elle chasse ces idées de sa tête, de peur qu'elles s'échappent malgré elle. Owe mérite bien des chocolats, lui aussi, sans aucun doute. Seulement... Ah, c'est sûr, comme elle est partie, ce n'est pas encore cette année qu'elle osera se lancer."
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "　Sous l'armure en fer qui renforce encore son attaque et sa défense, ce monstre gigantesque est également recouvert d'une peau semblable à du métal, qu'aucune lame ne peut transpercer. Il est sage d'en déduire que ses capacités défensives sont beaucoup plus développées qu'il n'y paraît. Ses attaques sont rapides et précises malgré l'énorme poids de son armure. On dit que c'est la magie, voire une malédiction, qui permet au Géant de fer de se mouvoir en combat."
         },
@@ -59,6 +63,10 @@
         {
             "key": "VC_LW_RAMU",
             "value": "　Un vieux sage auquel la foudre obéit au doigt et à l'œil. Sa barbe est si longue qu'elle descend jusqu'à ses pieds de géant, et sa figure majestueuse foudroie n'importe quel mortel de terreur. L'origine de Ramuh se perd dans l'histoire, bien que son nom légendaire soit connu depuis des générations et que certains le vénèrent comme le roi véritable."
+        },
+        {
+            "key": "VC_LW_VALE2",
+            "value": "« Je me demande si le prince Sterne aimera mes chocolats... »<br>« Tout va bien, Éthéa ? Tu ne bouges plus depuis 5 minutes. Nasha a bientôt fini, et moi aussi. »<br>« Hein ? Tu as déjà fini ? Yelma... qu'est-ce que... c'est que ça ? »<br>« Du chocolat, ça me paraît évident. »<br>« Évident ? Moui... ça sent fort en tout cas. Tu ne t'es pas trompée dans la recette, quand même ? »<br>« Plus c'est fort, mieux c'est ! Ce ne sont pas de simples chocolats, c'est un bouillon d'ingrédients délicieux. Quand le prince Sterne les goûtera il sera sûrement... Hu hu hu ! »<br>« Il va perdre connaissance, oui ! Nasha, aide-moi à l'empêcher de lui faire manger ça ! »<br>« Oh, Prince Sterne, non, ne mourrez pas ! Mon cœur ne s'en remettra jamais ! »<br>« Bon allez, la pause est finie ! »"
         },
         {
             "key": "VC_FFT_MV1",

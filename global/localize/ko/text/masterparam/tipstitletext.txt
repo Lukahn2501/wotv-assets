@@ -83,6 +83,18 @@
         {
             "key": "TIPS_MULTI_001",
             "value": "스탬프"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "프리 매치 보상"
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "모드 선택"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "레이드 보스"
         }
     ]
 }

@@ -41,6 +41,10 @@
             "value": "Rêve de Frederika"
         },
         {
+            "key": "VC_LW_VALE1",
+            "value": "Cœur insondable"
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "Géant de fer, le Dæmon de métal"
         },
@@ -59,6 +63,10 @@
         {
             "key": "VC_LW_RAMU",
             "value": "Ramuh, le Tonnerre hurlant"
+        },
+        {
+            "key": "VC_LW_VALE2",
+            "value": "Admiratrices rivales"
         },
         {
             "key": "VC_FFT_MV1",

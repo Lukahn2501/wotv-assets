@@ -83,6 +83,18 @@
         {
             "key": "TIPS_MULTI_001",
             "value": "貼圖"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "自由匹配的報酬"
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "模式選擇"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "共鬥頭目"
         }
     ]
 }

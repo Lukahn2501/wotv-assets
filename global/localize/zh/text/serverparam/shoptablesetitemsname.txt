@@ -250,7 +250,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_06",
-            "value": "經驗立方每日禮包B"
+            "value": "經驗立方每日禮包"
         },
         {
             "key": "IT_SET_3MDL_THUNDER",
@@ -383,6 +383,62 @@
         {
             "key": "IT_SET_VC",
             "value": "幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "1天1次免費協力共鬥恢復藥×1"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "共鬥支援禮包"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "火之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "風之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "土之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "冰之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "武具【HP】強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "武具【攻擊】強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "武具【命中】強化禮包"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_AWK_02",
+            "value": "兵員覺醒禮包II"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": ""
         }
     ]
 }

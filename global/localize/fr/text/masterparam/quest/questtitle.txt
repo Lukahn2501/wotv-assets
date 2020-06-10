@@ -981,6 +981,46 @@
             "value": "S'emparer du trône II"
         },
         {
+            "key": "QE_ST_01060301",
+            "value": "Que les Cristaux nous guident"
+        },
+        {
+            "key": "QE_ST_01060302",
+            "value": "Au Château de Leonis"
+        },
+        {
+            "key": "QE_ST_01060303",
+            "value": "Amour de la vie"
+        },
+        {
+            "key": "QE_ST_01060304",
+            "value": "La roue tourne"
+        },
+        {
+            "key": "QE_ST_01060305",
+            "value": "« Solidus », en avant !"
+        },
+        {
+            "key": "QE_ST_01060306",
+            "value": "Percée"
+        },
+        {
+            "key": "QE_ST_01060307",
+            "value": "Quelque chose dans le carrosse I"
+        },
+        {
+            "key": "QE_ST_01060308",
+            "value": "Quelque chose dans le carrosse II"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Je vous attends"
+        },
+        {
+            "key": "QE_ST_01060310",
+            "value": "Brouhaha d'étoiles"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Quête de fragments : Zazan"
         },

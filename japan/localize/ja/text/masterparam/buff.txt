@@ -613,6 +613,10 @@
             "value": "人キラー"
         },
         {
+            "key": "BUFF_KillerSpeciesPHuman",
+            "value": "物理攻撃時人キラー"
+        },
+        {
             "key": "BUFF_KillerSpeciesMHuman",
             "value": "魔法攻撃時人キラー"
         },

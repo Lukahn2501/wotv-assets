@@ -143,6 +143,14 @@
         {
             "key": "Normal_gacha_A_gl20200603_10",
             "value": "版本更新紀念 限定普通召喚 10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_01",
+            "value": "共鬥紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_10",
+            "value": "共鬥紀念 限定普通召喚　10連召喚"
         }
     ]
 }

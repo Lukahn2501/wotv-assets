@@ -2425,6 +2425,10 @@
             "value": "Boutique ordinaire"
         },
         {
+            "key": "IT_AF_LW_RNG_005",
+            "value": ""
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Boutique d'échange des médailles d'arène / Boutique d'échange des médailles de JcJ"
         },
@@ -2662,10 +2666,6 @@
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": ""
-        },
-        {
-            "key": "IT_EC_RAID_02",
             "value": ""
         },
         {
@@ -3049,6 +3049,14 @@
             "value": "Boutique ordinaire / Boutique d'échange des médailles de vision MR"
         },
         {
+            "key": "IT_VPI_LW_VALE1",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": ""
+        },
+        {
             "key": "IT_VC_EXP_01",
             "value": "Boutique ordinaire / Boutique surprise / Expédition chocobo"
         },
@@ -3131,6 +3139,10 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Boutique d'échange des médailles de guilde"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": ""
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_1",

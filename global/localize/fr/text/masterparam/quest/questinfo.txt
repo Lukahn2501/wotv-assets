@@ -981,6 +981,46 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 65, job niv. 11"
         },
         {
+            "key": "QE_ST_01060301",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 60, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01060302",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 61, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01060303",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 61, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01060304",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 62, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01060305",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 63, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01060306",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 63, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01060307",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 64, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01060308",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 65, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 65, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01060310",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 70, job niv. 12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 17, job niv. 3<br>Condition d'accès : posséder l'unité « Zazan »"
         },

@@ -38,7 +38,7 @@
         },
         {
             "key": "IT_US_G_UR_01_20200506",
-            "value": ""
+            "value": "Ticket d'invocation UR garantie [A]"
         },
         {
             "key": "IT_US_G_V_UR_01",
@@ -99,6 +99,10 @@
         {
             "key": "IT_US_G_V_R_UR_01_20200603",
             "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200610",
+            "value": "Ticket d'invocation UR garantie [A]"
         }
     ]
 }

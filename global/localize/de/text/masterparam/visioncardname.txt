@@ -41,6 +41,10 @@
             "value": "Frederikas Traum"
         },
         {
+            "key": "VC_LW_VALE1",
+            "value": "Geheimnisse des Herzens"
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "Eisengigant, der Metalldämon"
         },
@@ -59,6 +63,10 @@
         {
             "key": "VC_LW_RAMU",
             "value": "Ramuh, der Dröhnende Donner"
+        },
+        {
+            "key": "VC_LW_VALE2",
+            "value": "Kampf um den Angebeteten"
         },
         {
             "key": "VC_FFT_MV1",

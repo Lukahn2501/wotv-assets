@@ -1931,6 +1931,30 @@
         {
             "key": "AF_GUN_LW_LUCA_2",
             "value": "Le pistolet adoré de Lu'Cia, rendu hautement létal par la technologie de pointe de Rundall dont il est équipé. On le qualifie souvent de « crève-cœur », tant il perce avec précision l'organe vital de ses victimes, quelles qu'elles soient."
+        },
+        {
+            "key": "AF_LW_RNG_005",
+            "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
+        },
+        {
+            "key": "AF_LW_RNG_005_1",
+            "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
+        },
+        {
+            "key": "AF_LW_RNG_005_2",
+            "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
+        },
+        {
+            "key": "AF_LW_RNG_005_3",
+            "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
+        },
+        {
+            "key": "AF_LW_RNG_005_4",
+            "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
+        },
+        {
+            "key": "AF_LW_RNG_005_5",
+            "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
         }
     ]
 }

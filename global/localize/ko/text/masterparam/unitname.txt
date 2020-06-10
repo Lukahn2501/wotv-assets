@@ -1511,6 +1511,10 @@
         {
             "key": "UN_GM_PLACED_ATK",
             "value": "기둥 함정(화살)"
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
+            "value": "마차"
         }
     ]
 }

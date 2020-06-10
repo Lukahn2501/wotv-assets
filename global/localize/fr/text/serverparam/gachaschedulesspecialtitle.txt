@@ -6,11 +6,11 @@
         },
         {
             "key": "p_gacha_unit_20191114",
-            "value": "Invocation d'unité UR garantie pour le lancement du jeu (x10)"
+            "value": "Invocation x10 d'unité UR garantie pour le lancement du jeu"
         },
         {
             "key": "p_gacha_vc_20191114",
-            "value": "Invocation d'Atout-Vision UR garanti pour le lancement du jeu (x10)"
+            "value": "Invocation x10 d'atout-vision UR garanti pour le lancement du jeu"
         },
         {
             "key": "ff14_gacha_20191114_01",
@@ -18,7 +18,7 @@
         },
         {
             "key": "ff14_gacha_20191114_10",
-            "value": "Invocation de la collaboration FFXIV (x10)"
+            "value": "Invocation x10 de la collaboration FFXIV"
         },
         {
             "key": "no_coin_gacha_20191118_10",
@@ -86,7 +86,7 @@
         },
         {
             "key": "fft_gacha_20191226_ORND_10",
-            "value": "Orlandeau - Invocation de la collaboration FFT (x10)"
+            "value": "Orlandeau - Invocation x10 de la collaboration FFT"
         },
         {
             "key": "fft_gacha_20191226_RAMZ_1",
@@ -94,7 +94,7 @@
         },
         {
             "key": "fft_gacha_20191226_RAMZ_10",
-            "value": "Ramza - Invocation de la collaboration FFT (x10)"
+            "value": "Ramza - Invocation x10 de la collaboration FFT"
         },
         {
             "key": "no_coin_gacha_gl20200422_10_1",
@@ -305,12 +305,24 @@
             "value": ""
         },
         {
+            "key": "no_coin_gacha_gl20200610_10",
+            "value": "Célébration de raid - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200610_01",
+            "value": "Célébration de raid - Invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200610_10",
+            "value": "Célébration de raid - Invocation x10 du moment"
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Invocation du moment de célébration du lancement du jeu"
         },
         {
             "key": "global_pickup_sterne_20200325_10",
-            "value": "Invocation du moment de célébration du lancement du jeu (x10)"
+            "value": "Invocation x10 du moment de célébration du lancement du jeu"
         },
         {
             "key": "global_pickup_fredrica_20200401_01",

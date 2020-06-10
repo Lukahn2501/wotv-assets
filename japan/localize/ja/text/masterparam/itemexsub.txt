@@ -187,6 +187,62 @@
         {
             "key": "EX_SUB_JB_AXE",
             "value": "斧の宝石"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SW",
+            "value": "精錬の秘伝書（剣）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_LS",
+            "value": "精錬の秘伝書（大剣）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_JS",
+            "value": "精錬の秘伝書（刀）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_FI",
+            "value": "精錬の秘伝書（拳）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SP",
+            "value": "精錬の秘伝書（槍）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SS",
+            "value": "精錬の秘伝書（短剣）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_KU",
+            "value": "精錬の秘伝書（忍刀）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_BO",
+            "value": "精錬の秘伝書（弓）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_GU",
+            "value": "精錬の秘伝書（銃）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_ST",
+            "value": "精錬の秘伝書（杖）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_MA",
+            "value": "精錬の秘伝書（メイス）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AX",
+            "value": "精錬の秘伝書（斧）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AR",
+            "value": "精錬の秘伝書（防具）"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AC",
+            "value": "精錬の秘伝書（アクセサリ）"
         }
     ]
 }

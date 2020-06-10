@@ -613,6 +613,10 @@
             "value": "エネミー/NPC"
         },
         {
+            "key": "UN_LW_E_TH_00_THI_RA",
+            "value": "エネミー/NPC"
+        },
+        {
             "key": "UN_LW_E_SO_00",
             "value": "エネミー/NPC"
         },
@@ -1105,6 +1109,10 @@
             "value": "エネミー"
         },
         {
+            "key": "UN_LW_E_WOLF_02_RA",
+            "value": "エネミー"
+        },
+        {
             "key": "UN_LW_E_ZUUU",
             "value": "エネミー"
         },
@@ -1285,6 +1293,10 @@
             "value": "エネミー"
         },
         {
+            "key": "UN_LW_E_BHMT_01_RAID",
+            "value": "エネミー"
+        },
+        {
             "key": "UN_LW_E_GLSP",
             "value": "エネミー"
         },
@@ -1306,6 +1318,14 @@
         },
         {
             "key": "UN_LW_E_CACT_RAID",
+            "value": "エネミー"
+        },
+        {
+            "key": "UN_LW_E_TNBR",
+            "value": "エネミー"
+        },
+        {
+            "key": "UN_LW_E_TNBR_RAID",
             "value": "エネミー"
         },
         {
@@ -1362,6 +1382,10 @@
         },
         {
             "key": "UN_LW_E_FNRR",
+            "value": "エネミー"
+        },
+        {
+            "key": "UN_LW_E_TITN",
             "value": "エネミー"
         },
         {
@@ -1458,6 +1482,10 @@
         },
         {
             "key": "UN_LW_E_FNRR_SIREN",
+            "value": "エネミー"
+        },
+        {
+            "key": "UN_LW_E_TITN_SIREN",
             "value": "エネミー"
         },
         {
@@ -1670,6 +1698,10 @@
         },
         {
             "key": "UN_LW_S_FNRR",
+            "value": "召喚獣"
+        },
+        {
+            "key": "UN_LW_S_TITN",
             "value": "召喚獣"
         },
         {

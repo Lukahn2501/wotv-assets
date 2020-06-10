@@ -6,7 +6,7 @@
         },
         {
             "key": "Normal_gacha_A_10",
-            "value": "Invocation normale (x10)"
+            "value": "Invocation x10 normale"
         },
         {
             "key": "Raregacha_A",
@@ -143,6 +143,14 @@
         {
             "key": "Normal_gacha_A_gl20200603_10",
             "value": "Célébration de la nouvelle version - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_01",
+            "value": "Célébration de raid - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_10",
+            "value": "Célébration de raid - Invocation x10 normale limitée"
         }
     ]
 }

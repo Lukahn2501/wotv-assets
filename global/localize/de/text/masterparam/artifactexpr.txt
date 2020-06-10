@@ -1931,6 +1931,30 @@
         {
             "key": "AF_GUN_LW_LUCA_2",
             "value": "Art der Ausrüstung: Pistole<br>Angemessene Waffenkenntnis: B oder höher"
+        },
+        {
+            "key": "AF_LW_RNG_005",
+            "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_RNG_005_1",
+            "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_RNG_005_2",
+            "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_RNG_005_3",
+            "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_RNG_005_4",
+            "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_RNG_005_5",
+            "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
         }
     ]
 }

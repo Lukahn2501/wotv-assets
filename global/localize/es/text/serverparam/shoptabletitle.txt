@@ -145,6 +145,18 @@
             "value": "Tienda normal"
         },
         {
+            "key": "Normal-20200207_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200207_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200207_C",
+            "value": "Tienda normal"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Tienda de guerrilla"
         },
@@ -277,8 +289,28 @@
             "value": "Tienda de guerrilla"
         },
         {
+            "key": "Guerrilla-20200207A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200207B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200207C",
+            "value": "Tienda de guerrilla"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "Tienda de colaboración de FFT"
+        },
+        {
+            "key": "Limited-gl20200610",
+            "value": "Tienda especial de celebración de asalto"
+        },
+        {
+            "key": "Limited-gl20200610_A",
+            "value": "Tienda de unidad destacada"
         },
         {
             "key": "Limited-gl20200603_B",
@@ -383,6 +415,10 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "Tienda de colaboración de FFXIV: Shadowbringers"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "Tienda de intercambio de medallas de asalto del flan de chocolate"
         },
         {
             "key": "Event-EV02_1_20200201",
@@ -946,6 +982,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_04",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_2_12",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_2_13",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_14",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_15",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_16",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_2_16",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_2_10",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_11",
             "value": "Tienda de fuego"
         }
     ]

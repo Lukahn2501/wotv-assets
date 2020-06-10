@@ -981,6 +981,46 @@
             "value": "Kapitel 6, Szene 2"
         },
         {
+            "key": "QE_ST_01060301",
+            "value": "Kapitel 6, Szene 3"
+        },
+        {
+            "key": "QE_ST_01060302",
+            "value": "Kapitel 6, Szene 3"
+        },
+        {
+            "key": "QE_ST_01060303",
+            "value": "Kapitel 6, Szene 3"
+        },
+        {
+            "key": "QE_ST_01060304",
+            "value": "Kapitel 6, Szene 3"
+        },
+        {
+            "key": "QE_ST_01060305",
+            "value": "Kapitel 6, Szene 3"
+        },
+        {
+            "key": "QE_ST_01060306",
+            "value": "Kapitel 6, Szene 3"
+        },
+        {
+            "key": "QE_ST_01060307",
+            "value": "Kapitel 6, Szene 3"
+        },
+        {
+            "key": "QE_ST_01060308",
+            "value": "Kapitel 6, Szene 3"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Kapitel 6, Szene 3"
+        },
+        {
+            "key": "QE_ST_01060310",
+            "value": "Kapitel 6, Szene 3"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Schwieriger Auftrag"
         },

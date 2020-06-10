@@ -182,11 +182,11 @@
         },
         {
             "key": "MG_EV_ART_SCR_02",
-            "value": "Quête du livre secret II [Très difficile]"
+            "value": "Quête du livre secret [Très difficile]"
         },
         {
             "key": "MG_MU_ART_SCR_02",
-            "value": "[Multi] Quête du livre secret II [Très difficile]"
+            "value": "[Multi] Quête du livre secret [Très difficile]"
         },
         {
             "key": "MG_DAILY_002_5",

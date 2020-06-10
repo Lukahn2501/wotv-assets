@@ -385,6 +385,14 @@
             "value": "Schließe Kapitel 6, Szene 2 „Um den Thron zu erlangen II“ ab"
         },
         {
+            "key": "M_ST_0006_03",
+            "value": "Schließe Kapitel 6, Szene 3 „‚Solidus‘, Marsch!“ ab"
+        },
+        {
+            "key": "M_ST_0006_03_2",
+            "value": "Schließe Kapitel 6, Szene 3 „Rastlose Sterne“ ab"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Royaler Rang 1: Anmeldebonus"
         },
@@ -1413,26 +1421,6 @@
             "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ ab (5/5)"
         },
         {
-            "key": "M_ART_SCR_16",
-            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab I (1/5)"
-        },
-        {
-            "key": "M_ART_SCR_17",
-            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab II (1/5)"
-        },
-        {
-            "key": "M_ART_SCR_18",
-            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab I (3/5)"
-        },
-        {
-            "key": "M_ART_SCR_19",
-            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab II (3/5)"
-        },
-        {
-            "key": "M_ART_SCR_20",
-            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab (5/5)"
-        },
-        {
             "key": "M_MU_ART_SCR_07",
             "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ ab (1/5)"
         },
@@ -1443,18 +1431,6 @@
         {
             "key": "M_MU_ART_SCR_09",
             "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ ab (5/5)"
-        },
-        {
-            "key": "M_MU_ART_SCR_10",
-            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab (1/5)"
-        },
-        {
-            "key": "M_MU_ART_SCR_11",
-            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab (3/5)"
-        },
-        {
-            "key": "M_MU_ART_SCR_12",
-            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab (5/5)"
         },
         {
             "key": "MG_PR_001_001",

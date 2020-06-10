@@ -2273,6 +2273,14 @@
             "value": "フェンリルの獣醒石（★3）"
         },
         {
+            "key": "IT_SB_AW_TITN_R2",
+            "value": "タイタンの獣醒石（★2）"
+        },
+        {
+            "key": "IT_SB_AW_TITN_R3",
+            "value": "タイタンの獣醒石（★3）"
+        },
+        {
             "key": "IT_TICKET_STORY",
             "value": "ストーリースキップチケット"
         },
@@ -2583,6 +2591,10 @@
         {
             "key": "IT_AF_LW_KAT_003",
             "value": "備前長船のクラフトレシピ"
+        },
+        {
+            "key": "IT_AF_LW_KAT_008",
+            "value": "紫電のクラフトレシピ"
         },
         {
             "key": "IT_AF_LW_FIS_001",
@@ -2925,6 +2937,10 @@
             "value": "【5月】レイドメダル"
         },
         {
+            "key": "IT_EC_RAID_06",
+            "value": "【6月】レイドメダル"
+        },
+        {
             "key": "IT_EC_MATCH",
             "value": "PVPメダル"
         },
@@ -3257,6 +3273,14 @@
             "value": "属性の魔石（極）×30選択召喚券"
         },
         {
+            "key": "IT_US_SE_SB_EXP_06",
+            "value": "属性の魔石（中）×500選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_07",
+            "value": "属性の魔石（大）×150選択召喚券"
+        },
+        {
             "key": "IT_US_G_U_UR_01",
             "value": "UR確定ユニット召喚券A"
         },
@@ -3321,16 +3345,20 @@
             "value": "【GW記念】URVカード欠片×25選択召喚券"
         },
         {
+            "key": "IT_US_SE_VPI_04",
+            "value": "【HA記念】URVカード欠片×25選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_VPI_05",
+            "value": "【HA記念】URVカード欠片×50選択召喚券"
+        },
+        {
             "key": "IT_US_SE_PI_01",
             "value": "【GW記念】URユニット欠片×40選択召喚券"
         },
         {
             "key": "IT_US_SE_PI_02",
             "value": "【HA記念】URユニット欠片×40選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_VPI_04",
-            "value": "【HA記念】URVカード欠片×25選択召喚券"
         },
         {
             "key": "IT_US_SE_R_UR_U_03",
@@ -3473,6 +3501,10 @@
             "value": "月影狼牙　フェンリルの欠片"
         },
         {
+            "key": "IT_VPI_LW_TITN",
+            "value": "猛る大地　タイタンの欠片"
+        },
+        {
             "key": "IT_VPI_LW_IGNT",
             "value": "鋼の魔人　鉄巨人の欠片"
         },
@@ -3567,6 +3599,10 @@
         {
             "key": "IT_VPI_LW_ORDR",
             "value": "届かぬ想いの欠片"
+        },
+        {
+            "key": "IT_VPI_LW_KING",
+            "value": "戦乱四君の欠片"
         },
         {
             "key": "IT_VPI_LW_CACT",

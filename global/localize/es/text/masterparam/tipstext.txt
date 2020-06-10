@@ -54,7 +54,7 @@
         },
         {
             "key": "TIPS_ALLQE_009",
-            "value": "La probabilidad de activar una habilidad de reacción al recibir daño físico es proporcinal al nivel de bravura de la unidad. Si la bravura es de 9 o inferior, la unidad pasará al estado gallina y no podrás controlarla."
+            "value": "La probabilidad de activar una habilidad de reacción al recibir daño físico es proporcional al nivel de bravura de la unidad. Si la bravura es de 9 o inferior, la unidad pasará al estado gallina y no podrás controlarla."
         },
         {
             "key": "TIPS_ALLQE_010",
@@ -83,6 +83,18 @@
         {
             "key": "TIPS_MULTI_001",
             "value": "Puedes comunicarte con otros jugadores pulsando en Sellos. Envía sellos a otros jugadores y disfrutad de las misiones juntos."
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "Puedes recibir recompensas 5 veces al día, y estas cambiarán según el resultado de tus duelos. No podrás recibir recompensas a partir del 6.º duelo en adelante."
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "Puedes elegir entre modo en solitario, modo para 2 jugadores (Pareja) y modo para 4 jugadores (Cuarteto). Puedes obtener más puntos completando asaltos en los modos Pareja y Cuarteto que jugando solo. Derrota al jefe con tus amigos."
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "Aunque no puedas vencer al jefe de asalto en una sola batalla, su VIT restante será la misma en la siguiente. ¡Derrota a los jefes de asalto antes de que escapen!"
         }
     ]
 }

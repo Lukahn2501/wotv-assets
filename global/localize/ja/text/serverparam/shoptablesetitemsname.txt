@@ -250,7 +250,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_06",
-            "value": "経験キューブデイリーパックB"
+            "value": "経験キューブデイリーパック"
         },
         {
             "key": "IT_SET_3MDL_THUNDER",
@@ -383,6 +383,62 @@
         {
             "key": "IT_SET_VC",
             "value": "ビジョンカード育成パック"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "1日1回無料マルチレイド回復薬×1"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "レイド支援パック"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "火の覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "風の覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "土の覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "氷の覚醒パック"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "武具【HP】強化パック"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "武具【攻撃】強化パック"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "武具【命中】強化パック"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": "Vカード育成パックC"
+        },
+        {
+            "key": "IT_SET_AWK_02",
+            "value": "ユニット覚醒パックⅡ"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": "武具【回避】強化パック"
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": "武具【魔力】強化パック"
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": "武具【クリティカル】強化パック"
         }
     ]
 }

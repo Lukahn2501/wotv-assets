@@ -274,7 +274,7 @@
         },
         {
             "key": "IT_SET_GROW_RAMZ",
-            "value": "Ein besonderes Paket mit (UR) Ramza-Einheitenfragmenten (benötigt für Limitbrüche), Licht-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogen-Gedankenfragmenten und Regenbogenfarbenen Visionskugeln!"
+            "value": "Ein besonderes Paket mit [UR] Ramza-Einheitenfragmenten (benötigt für Limitbrüche), Licht-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogen-Gedankenfragmenten und Regenbogenfarbenen Visionskugeln!"
         },
         {
             "key": "IT_SET_FFT_RAMZ",
@@ -382,7 +382,63 @@
         },
         {
             "key": "IT_SET_VC",
-            "value": "Ein Paket, das ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket, Wachstumseier (SR), ein „Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket und eine Regenbogenfarbene Visionskugel enthält. *Limitierte Visionskarten, Kollabo-Visionskarten sowie „Odin, der Mythische Marodeur“ sind nicht inkludiert."
+            "value": "Ein Paket, das ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket, Wachstumseier (SR), ein „Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket und eine Regenbogenfarbene Visionskugel enthält. *Limitierte Visionskarten, Kollabo-Visionskarten sowie „Tetrasylphid, die Himmlischen Vier der Winde“ sind nicht inkludiert."
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "Ein Gegenstand zur Wiederherstellung von Kraftprobenjuwelen, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "Ein Paket mit Ausdauerstimulanzien (L), Storyüberspringtickets und Multi-Kraftproben-Wiederherstellern (vollständig)."
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "Ein Paket, das Feuer-Gedankenfragmente und Feuer-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "Ein Paket, das Wind-Gedankenfragmente und Wind-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "Ein Paket, das Erd-Gedankenfragmente und Erd-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "Ein Paket, das Eis-Gedankenfragmente und Eis-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln des Lebens für eine erhöhte Chance auf eine Steigerung des LP-Wertes und Zwergenhämmern der Lebenskraft zum weiteren Ausbau des LP-Wertes!"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln des Angriffs für eine erhöhte Chance auf eine Steigerung des ANG-Wertes und Zwergenhämmern des Angriffs zum weiteren Ausbau des ANG-Wertes!"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln der Gewandtheit für eine erhöhte Chance auf eine Steigerung des PRÄ-Wertes und Zwergenhämmern der Präzision zum weiteren Ausbau des PRÄ-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": "Ein Paket, das Wachstumseier (SR) und „Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_AWK_02",
+            "value": "Ein besonderes Paket, das „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket sowie Regenbogenfarbene Visionskugeln und ein „Auswählbares Erweckungsprisma x100“-Beschwörungsticket enthält!"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": ""
         }
     ]
 }

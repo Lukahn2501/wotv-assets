@@ -2425,6 +2425,10 @@
             "value": "황금 도끼 제작법"
         },
         {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "알렉산드라이트 반지 제작법"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "생명의 각인"
         },
@@ -2658,15 +2662,11 @@
         },
         {
             "key": "IT_EC_TOWER_001",
-            "value": "타워 메달(β)"
+            "value": "타워 메달"
         },
         {
             "key": "IT_EC_EV02_1",
             "value": "[6월] 이벤트 메달"
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "초코 푸딩 레이드 메달"
         },
         {
             "key": "IT_US_G_FFT_01",
@@ -3049,6 +3049,14 @@
             "value": " '복수를 위한 여행'의 조각"
         },
         {
+            "key": "IT_VPI_LW_VALE1",
+            "value": " '전할 수 없는 마음'의 조각"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": " '미남 쟁탈전!!'의 조각"
+        },
+        {
             "key": "IT_VC_EXP_01",
             "value": "그로우 에그(N)"
         },
@@ -3133,6 +3141,10 @@
             "value": "사자의 턱뼈(대)"
         },
         {
+            "key": "IT_EC_RAID_02",
+            "value": "초코 푸딩 레이드 메달"
+        },
+        {
             "key": "IT_US_GL_SE_SB_EXP_1",
             "value": "속성 마석(중) × 500 선택 소환 티켓 "
         },
@@ -3154,7 +3166,7 @@
         },
         {
             "key": "IT_US_SE_UR_U_02",
-            "value": "추천 UR 유닛 선택 소환 티켓 A"
+            "value": "추천 UR 유닛 선택 소환 티켓"
         },
         {
             "key": "IT_US_SE_SSR_U_01",

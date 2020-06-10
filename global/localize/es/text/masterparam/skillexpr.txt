@@ -2210,7 +2210,7 @@
         },
         {
             "key": "SK_LW_WGN_M_1",
-            "value": "Significantly raises Missile ATK of allies within range around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
+            "value": "Aumenta considerablemente el ataque a distancia de los aliados de alrededor durante 3 turnos y la tasa de perforación de la DEF durante 3 turnos."
         },
         {
             "key": "SK_LW_WGN_M_2",
@@ -2262,7 +2262,7 @@
         },
         {
             "key": "SK_LW_WGN_M_1_SUB",
-            "value": "Significantly raises Missile ATK of allies within range around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
+            "value": "Aumenta considerablemente el ataque a distancia de los aliados de alrededor durante 3 turnos y la tasa de perforación de la DEF durante 3 turnos."
         },
         {
             "key": "SK_LW_WGN_M_2_SUB",
@@ -2530,7 +2530,7 @@
         },
         {
             "key": "SK_ARMN_M_02",
-            "value": "Chance of inflicting Petrify on enemy."
+            "value": "Probabilidad de infligir piedra al enemigo."
         },
         {
             "key": "SK_ARMN_M_03",
@@ -3422,7 +3422,7 @@
         },
         {
             "key": "SK_MA_LW_GLMS_2",
-            "value": "VIT +1.000, tasa de precisión +15, ataque de corte +10, AGI +10 %"
+            "value": "VIT +1.000, tasa de precisión +15, <br>ataque de corte +10, AGI +10 %"
         },
         {
             "key": "SK_MA_LW_MACR",
@@ -3518,7 +3518,7 @@
         },
         {
             "key": "SK_MA_LW_UNII",
-            "value": "VIT máx. +30 %, res. a corte, perforación, golpe y proyectiles +10"
+            "value": "VIT máx. +30 %, res. a corte, <br>perforación, golpe y proyectiles +10"
         },
         {
             "key": "SK_MA_LW_SEVR",
@@ -3682,6 +3682,14 @@
         },
         {
             "key": "SK_LW_SWO_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_005_5",
             "value": ""
         },
         {
@@ -4365,6 +4373,26 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_VALE1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_GSAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_GLEM_P",
             "value": ""
         },
@@ -4750,6 +4778,26 @@
         },
         {
             "key": "SK_VC_LW_LILS_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_PAW",
             "value": ""
         },
         {

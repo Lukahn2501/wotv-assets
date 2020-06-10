@@ -2425,6 +2425,10 @@
             "value": "Receta que describe la combinación de materiales necesarios para fabricar un hacha dorada. Con el tipo y la cantidad de materiales correctos, se puede crear el objeto con tan solo seguir la receta. Este método se lleva a cabo en todo el mundo, pues no requiere los conocimientos ni la habilidad de un herrero."
         },
         {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "Receta que describe la combinación de materiales necesarios para fabricar un anillo de alejandrita. Con el tipo y la cantidad de materiales correctos, se puede crear el objeto con tan solo seguir la receta. Este método se lleva a cabo en todo el mundo, pues no requiere los conocimientos ni la habilidad de un herrero."
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Grabar adornos especiales en el equipo mientras se forja crea un efecto similar al de un campo mágico a pequeña escala que lo imbuye de diferentes poderes. Este sello en concreto aumenta la VIT de quien se ponga el equipo con esta inscripción."
         },
@@ -2662,10 +2666,6 @@
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": ""
-        },
-        {
-            "key": "IT_EC_RAID_02",
             "value": ""
         },
         {
@@ -3049,6 +3049,14 @@
             "value": ""
         },
         {
+            "key": "IT_VPI_LW_VALE1",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": ""
+        },
+        {
             "key": "IT_VC_EXP_01",
             "value": "Un recipiente translúcido con forma ovalada que rebosa de un líquido peculiar. Si se observa de cerca, se aprecian unas burbujitas que ascienden lentamente desde la base. Se puede mejorar una carta de visión al usar este huevo."
         },
@@ -3131,6 +3139,10 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Objeto que otorga la bendición del aumento de ataque cuando se entrega como ofrenda a la estatua del león. Se creó para representar la mandíbula de un león. Contemplar la impecable obra basta para evocar imágenes del mismísimo animal. Se dice que, cuantos más amuletos de estos se ofrezcan, mayores serán los efectos de la bendición."
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": ""
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_1",

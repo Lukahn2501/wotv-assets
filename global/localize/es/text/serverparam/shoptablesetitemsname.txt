@@ -250,7 +250,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_06",
-            "value": "Lote diario de cubos de EXP B"
+            "value": "Lote diario de cubos de EXP"
         },
         {
             "key": "IT_SET_3MDL_THUNDER",
@@ -383,6 +383,62 @@
         {
             "key": "IT_SET_VC",
             "value": "Lote de entrenamiento de carta de visión"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "Restaurador de asalto multijugador gratuito diario x1"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "Lote de apoyo de asalto"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "Lote del despertar de fuego"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "Lote del despertar de viento"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "Lote del despertar de tierra"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "Lote del despertar de hielo"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "Lote de mejora de VIT de equipo"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "Lote de mejora de ATQ de equipo"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "Lote de mejora de ACI de equipo"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_AWK_02",
+            "value": "Lote para despertar unidad II"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": ""
         }
     ]
 }

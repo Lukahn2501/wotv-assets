@@ -69,6 +69,10 @@
             "value": "Saison 1, Chapitre 6, Partie 2"
         },
         {
+            "key": "SE_ST_010603",
+            "value": "Saison 1, Chapitre 6, Partie 3"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "L'immense forêt du Lion"
         },

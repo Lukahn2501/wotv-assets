@@ -69,6 +69,10 @@
             "value": "Lignée corrompue"
         },
         {
+            "key": "SE_ST_010603",
+            "value": "Le Lion et le Loup"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Immense forêt du Lion"
         },

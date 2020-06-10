@@ -145,6 +145,18 @@
             "value": "Boutique ordinaire"
         },
         {
+            "key": "Normal-20200207_A",
+            "value": "Boutique ordinaire"
+        },
+        {
+            "key": "Normal-20200207_B",
+            "value": "Boutique ordinaire"
+        },
+        {
+            "key": "Normal-20200207_C",
+            "value": "Boutique ordinaire"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Boutique de combat"
         },
@@ -277,8 +289,28 @@
             "value": "Boutique de combat"
         },
         {
+            "key": "Guerrilla-20200207A",
+            "value": "Boutique de combat"
+        },
+        {
+            "key": "Guerrilla-20200207B",
+            "value": "Boutique de combat"
+        },
+        {
+            "key": "Guerrilla-20200207C",
+            "value": "Boutique de combat"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "Boutique de la collaboration FFT"
+        },
+        {
+            "key": "Limited-gl20200610",
+            "value": "Boutique spéciale de raid"
+        },
+        {
+            "key": "Limited-gl20200610_A",
+            "value": "Boutique des unités du moment"
         },
         {
             "key": "Limited-gl20200603_B",
@@ -383,6 +415,10 @@
         {
             "key": "Limited-FF14_3_20191114",
             "value": "Boutique de la collaboration FFXIV: Shadowbringers"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "Boutique d'échange des médailles du raid du Chocoflan"
         },
         {
             "key": "Event-EV02_1_20200201",
@@ -946,6 +982,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_04",
+            "value": "Jobs de feu"
+        },
+        {
+            "key": "Limited-WATER_2020_2_12",
+            "value": "Jobs d'eau"
+        },
+        {
+            "key": "Limited-WIND_2020_2_13",
+            "value": "Jobs de vent"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_14",
+            "value": "Jobs de foudre"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_15",
+            "value": "Jobs de terre"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_16",
+            "value": "Jobs de lumière"
+        },
+        {
+            "key": "Limited-DARK_2020_2_16",
+            "value": "Jobs d'ombre"
+        },
+        {
+            "key": "Limited-ICE_2020_2_10",
+            "value": "Jobs de glace"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_11",
             "value": "Jobs de feu"
         }
     ]

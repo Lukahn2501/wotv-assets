@@ -981,6 +981,46 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 65, Jobstufe 11"
         },
         {
+            "key": "QE_ST_01060301",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 60, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01060302",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 61, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01060303",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 61, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01060304",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 62, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01060305",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 63, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01060306",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 63, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01060307",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 64, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01060308",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 65, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 65, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01060310",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 70, Jobstufe 12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 17, Jobstufe 3<br>Freischaltbedingungen: Einheit „Zazan“ im Besitz"
         },

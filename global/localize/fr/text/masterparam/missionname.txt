@@ -385,6 +385,14 @@
             "value": "Terminez le Chapitre 6, Partie 2 [S'emparer du trône II]"
         },
         {
+            "key": "M_ST_0006_03",
+            "value": "Terminez le Chapitre 6, Partie 3 [« Solidus », en avant !]"
+        },
+        {
+            "key": "M_ST_0006_03_2",
+            "value": "Terminez le Chapitre 6, Partie 3 [Brouhaha d'étoiles]"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Bonus de connexion pour le Rang royal 1"
         },
@@ -1413,26 +1421,6 @@
             "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] (5/5)"
         },
         {
-            "key": "M_ART_SCR_16",
-            "value": "Terminez la Quête du livre secret (bâton, katana, dague) I [Très difficile] (1/5)"
-        },
-        {
-            "key": "M_ART_SCR_17",
-            "value": "Terminez la Quête du livre secret (bâton, katana, dague) II [Très difficile] (1/5)"
-        },
-        {
-            "key": "M_ART_SCR_18",
-            "value": "Terminez la Quête du livre secret (bâton, katana, dague) I [Très difficile] (3/5)"
-        },
-        {
-            "key": "M_ART_SCR_19",
-            "value": "Terminez la Quête du livre secret (bâton, katana, dague) II [Très difficile] (3/5)"
-        },
-        {
-            "key": "M_ART_SCR_20",
-            "value": "Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile] (5/5)"
-        },
-        {
             "key": "M_MU_ART_SCR_07",
             "value": "[Multi] Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] (1/5)"
         },
@@ -1443,18 +1431,6 @@
         {
             "key": "M_MU_ART_SCR_09",
             "value": "[Multi] Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] (5/5)"
-        },
-        {
-            "key": "M_MU_ART_SCR_10",
-            "value": "[Multi] Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile] (1/5)"
-        },
-        {
-            "key": "M_MU_ART_SCR_11",
-            "value": "[Multi] Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile] (3/5)"
-        },
-        {
-            "key": "M_MU_ART_SCR_12",
-            "value": "[Multi] Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile] (5/5)"
         },
         {
             "key": "MG_PR_001_001",

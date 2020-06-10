@@ -1301,6 +1301,46 @@
             "value": "クエスト情報<br>推奨：UnitLv.77 JobLv.13"
         },
         {
+            "key": "QE_ST_01090201",
+            "value": "クエスト情報<br>推奨：UnitLv.68 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01090202",
+            "value": "クエスト情報<br>推奨：UnitLv.69 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01090203",
+            "value": "クエスト情報<br>推奨：UnitLv.69 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01090204",
+            "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01090205",
+            "value": "クエスト情報<br>推奨：UnitLv.71 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01090206",
+            "value": "クエスト情報<br>推奨：UnitLv.71 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01090207",
+            "value": "クエスト情報<br>推奨：UnitLv.72 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01090208",
+            "value": "クエスト情報<br>推奨：UnitLv.73 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01090209",
+            "value": "クエスト情報<br>推奨：UnitLv.73 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01090210",
+            "value": "クエスト情報<br>推奨：UnitLv.78 JobLv.13"
+        },
+        {
             "key": "QE_HA_LW_MONT",
             "value": "クエスト情報<br>推奨：UnitLv.17 JobLv.3"
         },
@@ -2573,6 +2613,30 @@
             "value": "クエスト情報<br>なし"
         },
         {
+            "key": "QE_RAID_EV_10_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_10_02",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_10_03",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_10_04",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_10_05",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_10_06",
+            "value": "クエスト情報<br>なし"
+        },
+        {
             "key": "QE_EV_ETRE_01",
             "value": "クエスト情報<br>なし"
         },
@@ -2810,6 +2874,10 @@
         },
         {
             "key": "QE_SB_FNRR_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_SB_TITN_01",
             "value": "クエスト情報<br>なし"
         },
         {

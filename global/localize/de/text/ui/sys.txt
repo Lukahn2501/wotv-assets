@@ -566,19 +566,19 @@
         },
         {
             "key": "VALUE_DAY",
-            "value": "Tag(e)"
+            "value": "T."
         },
         {
             "key": "VALUE_HOUR",
-            "value": "Stunde(n)"
+            "value": "Std."
         },
         {
             "key": "VALUE_MONTH",
-            "value": "Monat(e)"
+            "value": "Mon."
         },
         {
             "key": "VALUE_YEAR",
-            "value": "Jahr(e)"
+            "value": "Jhr."
         },
         {
             "key": "VALUE_AD",
@@ -586,11 +586,11 @@
         },
         {
             "key": "VALUE_MINUITES",
-            "value": "Minute(n)"
+            "value": "Min."
         },
         {
             "key": "VALUE_SECONDS",
-            "value": "Sekunde(n)"
+            "value": "Sek."
         },
         {
             "key": "VALUE_PERIOD",
@@ -4262,7 +4262,7 @@
         },
         {
             "key": "DAY_TEXT",
-            "value": ""
+            "value": "T."
         },
         {
             "key": "HOUR_TEXT",
@@ -4270,19 +4270,19 @@
         },
         {
             "key": "MINUTE_TEXT",
-            "value": "m"
+            "value": "Min."
         },
         {
             "key": "MONTH_TEXT",
-            "value": ""
+            "value": "Mon."
         },
         {
             "key": "SECOND_TEXT",
-            "value": "s"
+            "value": "Sek."
         },
         {
             "key": "YEAR_TEXT",
-            "value": ""
+            "value": "Jhr."
         },
         {
             "key": "DEBUG_SELECT_TUTORIAL_TITLE",

@@ -250,7 +250,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_06",
-            "value": "Tägliches ERF-Würfel-Paket B"
+            "value": "Tägliches ERF-Würfel-Paket"
         },
         {
             "key": "IT_SET_3MDL_THUNDER",
@@ -383,6 +383,62 @@
         {
             "key": "IT_SET_VC",
             "value": "Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "Täglicher kostenloser Multi-Kraftproben-Wiederhersteller x1"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "Kraftprobenpaket"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "Feuer-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "Wind-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "Erd-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "Eis-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "LP-Paket"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "Angriffspaket"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "Präzisionspaket"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_AWK_02",
+            "value": "Einheitenerweckungspaket II"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": ""
         }
     ]
 }

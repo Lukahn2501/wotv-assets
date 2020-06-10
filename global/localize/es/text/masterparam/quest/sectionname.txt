@@ -69,6 +69,10 @@
             "value": "Parte 1, capítulo 6: escena 2"
         },
         {
+            "key": "SE_ST_010603",
+            "value": "Parte 1, capítulo 6: escena 3"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Gran Bosque del León"
         },

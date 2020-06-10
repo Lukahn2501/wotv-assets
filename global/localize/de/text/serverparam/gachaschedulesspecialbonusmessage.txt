@@ -26,15 +26,15 @@
         },
         {
             "key": "Nstep_beginner_gacha_10_20191218_step1",
-            "value": "Noch zwei Beschwörungen bis zu einer garantierten UR-Einheit"
+            "value": "Noch zwei Beschwörungen bis zu einer garantierten [UR]-Einheit"
         },
         {
             "key": "Nstep_beginner_gacha_10_20191218_step2",
-            "value": "Noch eine Beschwörung bis zu einer garantierten UR-Einheit"
+            "value": "Noch eine Beschwörung bis zu einer garantierten [UR]-Einheit"
         },
         {
             "key": "Nstep_beginner_gacha_10_20191218_step3",
-            "value": "Eine UR-Einheit garantiert"
+            "value": "Eine [UR]-Einheit garantiert"
         },
         {
             "key": "Nstep_beginner_gacha_10_20191218",
@@ -303,6 +303,18 @@
         {
             "key": "gacha_unit_vc_gl20200603_b_10",
             "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200610_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200610_01",
+            "value": "Mit 10 Juni-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200610_10",
+            "value": "Mit 100 Juni-Beschwörungsmedaillen A"
         },
         {
             "key": "global_pickup_sterne_20200325_01",

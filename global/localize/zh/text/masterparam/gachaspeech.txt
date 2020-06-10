@@ -2,7 +2,7 @@
     "infos": [
         {
             "key": "UN_LW_P_MONT",
-            "value": "我會保護妳！<br>我絕對會保護好妳的！"
+            "value": "我會保護你！<br>我絕對會保護好你的！"
         },
         {
             "key": "UN_LW_P_STRN",
@@ -1510,6 +1510,10 @@
         },
         {
             "key": "UN_GM_PLACED_ATK",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
             "value": ""
         }
     ]

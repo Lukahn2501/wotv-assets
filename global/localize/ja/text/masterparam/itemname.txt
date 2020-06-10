@@ -2425,6 +2425,10 @@
             "value": "ゴールドアックスのクラフトレシピ"
         },
         {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "アレキサンドライトの指輪のクラフトレシピ"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "命の刻印"
         },
@@ -2658,15 +2662,11 @@
         },
         {
             "key": "IT_EC_TOWER_001",
-            "value": "タワーメダル（β）"
+            "value": "タワーメダル"
         },
         {
             "key": "IT_EC_EV02_1",
             "value": "【6月】イベントメダル"
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "チョコレートプリンレイドメダル"
         },
         {
             "key": "IT_US_G_FFT_01",
@@ -3049,6 +3049,14 @@
             "value": "復讐の旅の欠片"
         },
         {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "伝えられない気持ちの欠片"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "イケメン争奪戦！！の欠片"
+        },
+        {
             "key": "IT_VC_EXP_01",
             "value": "グロウエッグ（N）"
         },
@@ -3131,6 +3139,10 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "獅子の強咢（大）"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "チョコレートプリンレイドメダル"
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_1",

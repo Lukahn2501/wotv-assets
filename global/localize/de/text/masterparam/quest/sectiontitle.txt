@@ -69,6 +69,10 @@
             "value": "Beschmutzte Blutlinie"
         },
         {
+            "key": "SE_ST_010603",
+            "value": "Der Löwe und der Wolf"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Weiter Wald des Löwen"
         },

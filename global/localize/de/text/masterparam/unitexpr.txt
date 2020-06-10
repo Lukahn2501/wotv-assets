@@ -254,7 +254,7 @@
         },
         {
             "key": "UN_LW_E_MURG",
-            "value": "Gleichwertig mit MS/Wikinger/Ritter/Soldat: Maximalwert beinhaltet Job-Kompensation."
+            "value": "Gleichwertig mit [MR]/Wikinger/Ritter/Soldat: Maximalwert beinhaltet Job-Kompensation."
         },
         {
             "key": "UN_LW_E_ADLD",
@@ -414,19 +414,19 @@
         },
         {
             "key": "UN_LW_E_TH_00",
-            "value": "Weise Werte zu, die denen eines Diebes der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Diebes der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_TH_01",
-            "value": "Weise Werte zu, die denen eines Diebes der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Diebes der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_TH_02",
-            "value": "Weise Werte zu, die denen eines Diebes der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Diebes der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_TH_02_THI",
-            "value": "Weise Werte zu, die denen eines Diebes der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Diebes der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_TH_02_MNK",
@@ -510,7 +510,7 @@
         },
         {
             "key": "UN_LW_E_SO_00",
-            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_SO_00_HUN",
@@ -622,7 +622,7 @@
         },
         {
             "key": "UN_LW_E_SO_01",
-            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_SO_01_HUN",
@@ -702,27 +702,27 @@
         },
         {
             "key": "UN_LW_E_SO_04",
-            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_BM_00",
-            "value": "Weise Werte zu, die von einem Schwarzmagier der Kategorie N erwartet werden."
+            "value": "Weise Werte zu, die von einem Schwarzmagier der Kategorie [N] erwartet werden."
         },
         {
             "key": "UN_LW_E_WM_00",
-            "value": "Weise Werte zu, die von einem Weißmagier der Kategorie N erwartet werden."
+            "value": "Weise Werte zu, die von einem Weißmagier der Kategorie [N] erwartet werden."
         },
         {
             "key": "UN_LW_E_TM_00",
-            "value": "Weise Werte zu, die von einem Zeitmagier der Kategorie N erwartet werden."
+            "value": "Weise Werte zu, die von einem Zeitmagier der Kategorie [N] erwartet werden."
         },
         {
             "key": "UN_LW_E_NJ_00",
-            "value": "Weise Werte zu, die denen eines Ninjas der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Ninjas der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_NJ_01",
-            "value": "Weise Werte zu, die denen eines Ninjas der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Ninjas der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_PR_01_HUN",
@@ -766,39 +766,39 @@
         },
         {
             "key": "UN_LW_E_OGRE",
-            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_OGRE_01",
-            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie SS entsprechen."
+            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_OGRE_02",
-            "value": "Weise Werte zu, die denen eines Schwarzmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Schwarzmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_BOMB",
-            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_BOMB_01",
-            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_BOMB_02",
-            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie SS entsprechen."
+            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_MABR",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_MABR_01",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie SR entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_MABR_02",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie MR entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [MR] entsprechen."
         },
         {
             "key": "UN_LW_E_MABR_03",
@@ -806,83 +806,83 @@
         },
         {
             "key": "UN_LW_E_WOLF",
-            "value": "Weise Werte zu, die denen eines Diebes der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Diebes der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_WOLF_01",
-            "value": "Weise Werte zu, die denen eines Diebes der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Diebes der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_WOLF_02",
-            "value": "Weise Werte zu, die denen eines Diebes der Kategorie SS entsprechen."
+            "value": "Weise Werte zu, die denen eines Diebes der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_ZUUU",
-            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_ZUUU_01",
-            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_ZUUU_02",
-            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie SS entsprechen."
+            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_SKEL",
-            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_SKEL_01",
-            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_SKEL_02",
-            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie SS entsprechen."
+            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_ARMN",
-            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_ARMN_01",
-            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_ARMN_02",
-            "value": "Weise Werte zu, die denen eines Schwertmagiers der Kategorie SS entsprechen."
+            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_ELEM",
-            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_ELEM_01",
-            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_ELEM_02",
-            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_ELEM_03",
-            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_ELEM_04",
-            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_ELEM_05",
-            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_ELEM_06",
-            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_ELEM_07",
-            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Grünmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_LAMA",
@@ -938,19 +938,19 @@
         },
         {
             "key": "UN_LW_E_IGNT",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie SR entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_IGNT_QE",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie SR entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_IGNT_01",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie MR entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [MR] entsprechen."
         },
         {
             "key": "UN_LW_E_IGNT_01_QE",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie MR entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [MR] entsprechen."
         },
         {
             "key": "UN_LW_E_IGNT_2",
@@ -966,27 +966,27 @@
         },
         {
             "key": "UN_LW_E_BHMT",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie SR entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_BHMT_01",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie MR entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [MR] entsprechen."
         },
         {
             "key": "UN_LW_E_BHMT_02",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie UR entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [UR] entsprechen."
         },
         {
             "key": "UN_LW_E_GLSP",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_E_CACT",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_E_CACT_01",
-            "value": "Weise Werte zu, die denen eines Paladins der Kategorie SR entsprechen."
+            "value": "Weise Werte zu, die denen eines Paladins der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_E_CACT_02",
@@ -1238,27 +1238,27 @@
         },
         {
             "key": "UN_LW_BGN_OGRE",
-            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_BGN_OGRE_01",
-            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie SS entsprechen."
+            "value": "Weise Werte zu, die denen eines Kriegers der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_BGN_OGRE_02",
-            "value": "Weise Werte zu, die denen eines Schwarzmagiers der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Schwarzmagiers der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_BGN_ZUUU",
-            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie N entsprechen."
+            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie [N] entsprechen."
         },
         {
             "key": "UN_LW_BGN_ZUUU_01",
-            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie S entsprechen."
+            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie [R] entsprechen."
         },
         {
             "key": "UN_LW_BGN_ZUUU_02",
-            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie SS entsprechen."
+            "value": "Weise Werte zu, die denen eines Dragoners der Kategorie [SR] entsprechen."
         },
         {
             "key": "UN_LW_U_TOAD",
@@ -1511,6 +1511,10 @@
         {
             "key": "UN_GM_PLACED_ATK",
             "value": "Fügt sich in gerader Linie zum Ausführenden befindlichen Gegnern Geschossschaden zu."
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
+            "value": ""
         }
     ]
 }

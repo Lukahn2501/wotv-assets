@@ -6,27 +6,27 @@
         },
         {
             "key": "IT_US_G_U_SSR_UR_01",
-            "value": "„Garantierte Einheit (MR+)“-Beschwörungsticket A"
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
-            "value": "„Garantierte Einheit (MR+)“-Beschwörungsticket B"
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket B"
         },
         {
             "key": "IT_US_G_U_SSR_UR_03",
-            "value": "„Garantierte Einheit (MR+)“-Beschwörungsticket C"
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket C"
         },
         {
             "key": "IT_US_G_U_SSR_UR_04",
-            "value": "„Garantierte Einheit (MR+)“-Beschwörungsticket D"
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket D"
         },
         {
             "key": "IT_US_G_V_SSR_UR_01",
-            "value": "„Garantierte Visionskarte (MR+)“-Beschwörungsticket A"
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_U_UR_01",
-            "value": "„Garantierte Einheit (UR)“-Beschwörungsticket A"
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_FF14_01",
@@ -34,15 +34,15 @@
         },
         {
             "key": "IT_US_10_U_SSR_UR_01",
-            "value": "„Garantiert MR+ (10-malig)“-Beschwörungsticket A"
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_UR_01_20200506",
-            "value": ""
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_V_UR_01",
-            "value": "„Garantierte Visionskarte (UR)“-Beschwörungsticket A"
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_U_R_UR_01",
@@ -58,7 +58,7 @@
         },
         {
             "key": "IT_US_G_UR_01",
-            "value": "„Garantiert UR“-Beschwörungsticket A"
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_UR_01_20200520",
@@ -99,6 +99,10 @@
         {
             "key": "IT_US_G_V_R_UR_01_20200603",
             "value": "„Garantierte Visionskarte“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200610",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
         }
     ]
 }

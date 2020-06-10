@@ -382,7 +382,63 @@
         },
         {
             "key": "IT_SET_VC",
-            "value": "Lote que contiene un tícket seleccionador de 50 fragmentos de carta de visión UR, huevos nutritivos (SR), un tícket seleccionador de 100 magicitas elementales (G), y una esfera de visión arcoíris. *No incluye cartas de visión limitadas, de colaboración, ni a «Odín, el Caballero Implacable»."
+            "value": "Lote que contiene un tícket seleccionador de 50 fragmentos de carta de visión UR, huevos nutritivos (SR), un tícket seleccionador de 100 magicitas elementales (G), y una esfera de visión arcoíris. *No incluye cartas de visión limitadas, de colaboración, ni a «Tetra Sílfide, las Cuatro Progenitoras de Vendavales»."
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "¡Este objeto que restaura orbes de asalto se puede adquirir gratis una vez al día!"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "Lote que contiene curas de energía (G), tíckets de avance de historia y restauradores de asalto multijugador (todos)."
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "Lote que contiene fragmentos de la memoria de fuego y prismas del despertar de fuego."
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "Lote que contiene fragmentos de la memoria de viento y prismas del despertar de viento."
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "Lote que contiene fragmentos de la memoria de tierra y prismas del despertar de tierra."
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "Lote que contiene fragmentos de la memoria de hielo y prismas del despertar de hielo."
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "¡Un lote especial que contiene un martillo de restablecimiento, necesario para restablecer los atributos de una pieza del equipo, sellos de vitalidad, que incrementan la probabilidad de que aumente la VIT de una pieza del equipo cuando sube de nivel, y martillos enanos de VIT para aumentar aún más el VIT de tu equipo!"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "¡Un lote especial que contiene un martillo de restablecimiento, necesario para restablecer los atributos de una pieza del equipo, sellos de ataque, que incrementan la probabilidad de que aumente el ATQ de una pieza del equipo cuando sube de nivel, y martillos enanos de ATQ para aumentar aún más el ATQ de tu equipo!"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "¡Un lote especial que contiene un martillo de restablecimiento, necesario para restablecer los atributos de una pieza del equipo, sellos de habilidad, que incrementan la probabilidad de que aumente el ACI de una pieza del equipo cuando sube de nivel, y martillos enanos de precisión para aumentar aún más el ACI de tu equipo!"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": "Lote que contiene huevos nutritivos (SR) y un tícket seleccionador de 100 magicitas elementales (G)."
+        },
+        {
+            "key": "IT_SET_AWK_02",
+            "value": "¡Un lote especial que incluye un tícket seleccionador de 100 fragmentos de la memoria elementales junto con esferas de visión arcoíris y un tícket seleccionador de 100 prismas del despertar elementales a modo de bonificación!"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": ""
         }
     ]
 }

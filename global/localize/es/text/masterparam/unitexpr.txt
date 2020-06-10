@@ -1511,6 +1511,10 @@
         {
             "key": "UN_GM_PLACED_ATK",
             "value": "Inflige daño a distancia a los objetivos en línea recta a la vista"
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
+            "value": ""
         }
     ]
 }

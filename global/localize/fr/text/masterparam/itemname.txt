@@ -2425,6 +2425,10 @@
             "value": "Recette d'artisanat : Hache en or"
         },
         {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "Recette d'artisanat : Anneau d'Alexandrite"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Sceau de vie"
         },
@@ -2658,15 +2662,11 @@
         },
         {
             "key": "IT_EC_TOWER_001",
-            "value": "Médaille de la tour (β)"
+            "value": ""
         },
         {
             "key": "IT_EC_EV02_1",
             "value": "Médaille d'événement de juin"
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "Médaille de raid du Chocoflan"
         },
         {
             "key": "IT_US_G_FFT_01",
@@ -3049,6 +3049,14 @@
             "value": "Fragment de l'atout-vision : Voie de la vengeance"
         },
         {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "Fragment de l'atout-vision : Cœur insondable"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "Fragment de l'atout-vision : Admiratrices rivales"
+        },
+        {
             "key": "IT_VC_EXP_01",
             "value": "Œuf de croissance (N)"
         },
@@ -3131,6 +3139,10 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Puissante mâchoire de lion (L)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Médaille de raid du Chocoflan"
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_1",

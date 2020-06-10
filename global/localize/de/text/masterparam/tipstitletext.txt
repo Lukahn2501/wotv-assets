@@ -83,6 +83,18 @@
         {
             "key": "TIPS_MULTI_001",
             "value": "Stempel"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "Belohnungen für Freie Matches"
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "Modusauswahl"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "Kraftproben-Bosse"
         }
     ]
 }

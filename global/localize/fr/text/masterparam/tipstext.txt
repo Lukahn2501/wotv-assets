@@ -83,6 +83,18 @@
         {
             "key": "TIPS_MULTI_001",
             "value": "Les vignettes vous permettent de communiquer avec les autres joueurs. Envoyez des vignettes aux autres pour rendre les quêtes plus conviviales !"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "Vous pouvez obtenir 5 lots de récompenses par jour, qui changent en fonction du résultat des matchs. À partir du sixième match, vous ne recevrez plus de récompense."
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "Vous avez le choix entre le mode Solo, le mode 2 joueurs (Duo) et le mode 4 joueurs (Quatuor). Les modes 2 et 4 joueurs permettent de gagner plus de points quand vous terminez le raid. Alors invitez vos amis à affronter les boss !"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "Même si vous n'avez pas réussi à vaincre le Boss en un raid, il ne recouvrera pas ses PV pour le prochain affrontement. Relancez le raid avant qu'il ne s'enfuie !"
         }
     ]
 }

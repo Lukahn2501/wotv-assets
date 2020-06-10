@@ -1293,6 +1293,46 @@
             "value": "第９章第１節"
         },
         {
+            "key": "QE_ST_01090201",
+            "value": "第９章第２節"
+        },
+        {
+            "key": "QE_ST_01090202",
+            "value": "第９章第２節"
+        },
+        {
+            "key": "QE_ST_01090203",
+            "value": "第９章第２節"
+        },
+        {
+            "key": "QE_ST_01090204",
+            "value": "第９章第２節"
+        },
+        {
+            "key": "QE_ST_01090205",
+            "value": "第９章第２節"
+        },
+        {
+            "key": "QE_ST_01090206",
+            "value": "第９章第２節"
+        },
+        {
+            "key": "QE_ST_01090207",
+            "value": "第９章第２節"
+        },
+        {
+            "key": "QE_ST_01090208",
+            "value": "第９章第２節"
+        },
+        {
+            "key": "QE_ST_01090209",
+            "value": "第９章第２節"
+        },
+        {
+            "key": "QE_ST_01090210",
+            "value": "第９章第２節"
+        },
+        {
             "key": "QE_HA_LW_MONT",
             "value": "ハードクエスト"
         },
@@ -2565,6 +2605,30 @@
             "value": "レイドボス"
         },
         {
+            "key": "QE_RAID_EV_10_01",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_EV_10_02",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_EV_10_03",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_EV_10_04",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_EV_10_05",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_EV_10_06",
+            "value": "レイドボス"
+        },
+        {
             "key": "QE_EV_ETRE_01",
             "value": "推奨：UnitLv.5 JobLv.1"
         },
@@ -2802,6 +2866,10 @@
         },
         {
             "key": "QE_SB_FNRR_01",
+            "value": "推奨：UnitLv.70 JobLv.10"
+        },
+        {
+            "key": "QE_SB_TITN_01",
             "value": "推奨：UnitLv.70 JobLv.10"
         },
         {

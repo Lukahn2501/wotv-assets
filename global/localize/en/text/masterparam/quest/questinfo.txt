@@ -981,6 +981,46 @@
             "value": "Quest Information<br>Recommended: Unit Lv. 65, Job Lv. 11"
         },
         {
+            "key": "QE_ST_01060301",
+            "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01060302",
+            "value": "Quest Information<br>Recommended: Unit Lv. 61, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01060303",
+            "value": "Quest Information<br>Recommended: Unit Lv. 61, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01060304",
+            "value": "Quest Information<br>Recommended: Unit Lv. 62, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01060305",
+            "value": "Quest Information<br>Recommended: Unit Lv. 63, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01060306",
+            "value": "Quest Information<br>Recommended: Unit Lv. 63, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01060307",
+            "value": "Quest Information<br>Recommended: Unit Lv. 64, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01060308",
+            "value": "Quest Information<br>Recommended: Unit Lv. 65, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Quest Information<br>Recommended: Unit Lv. 65, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01060310",
+            "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Quest Information<br>Recommended: Unit Lv. 17, Job Lv. 3<br>Conditions to Unlock: Acquire Unit [Zazan]"
         },

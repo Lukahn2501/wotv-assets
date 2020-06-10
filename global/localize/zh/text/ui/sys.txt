@@ -58,7 +58,7 @@
         },
         {
             "key": "FOLLOW_MEDAL_TITLE",
-            "value": "追蹤獎勵"
+            "value": "救援獎勵"
         },
         {
             "key": "FOLLOW_MEDAL_DESC",
