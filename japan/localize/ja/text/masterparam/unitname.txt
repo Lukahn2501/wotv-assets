@@ -313,6 +313,14 @@
             "value": "ラスウェル"
         },
         {
+            "key": "UN_LW_P_SCAL",
+            "value": "スカール"
+        },
+        {
+            "key": "UN_LW_P_MRAL",
+            "value": "マリアル"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "モント・リオニス"
         },

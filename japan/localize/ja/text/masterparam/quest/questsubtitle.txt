@@ -1589,6 +1589,14 @@
             "value": "ハードクエスト"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "ハードクエスト"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "ハードクエスト"
+        },
+        {
             "key": "QE_CH_LW_MONT",
             "value": "キャラクタークエスト"
         },
@@ -1901,6 +1909,14 @@
             "value": "キャラクタークエスト"
         },
         {
+            "key": "QE_CH_LW_SCAL",
+            "value": "キャラクタークエスト"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "キャラクタークエスト"
+        },
+        {
             "key": "QE_EV_CDOWN_01_1",
             "value": "Half Anniversary"
         },
@@ -2006,6 +2022,10 @@
         },
         {
             "key": "QE_EV_GRSR_01",
+            "value": "期間限定"
+        },
+        {
+            "key": "QE_EV_SCAL_01",
             "value": "期間限定"
         },
         {
@@ -2174,6 +2194,18 @@
         },
         {
             "key": "QE_EV_ART_CRF_08",
+            "value": "推奨：UnitLv.50 JobLv.9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "推奨：UnitLv.50 JobLv.9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_05",
+            "value": "推奨：UnitLv.50 JobLv.9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_06",
             "value": "推奨：UnitLv.50 JobLv.9"
         },
         {
@@ -2725,14 +2757,6 @@
             "value": "推奨：UnitLv.80 JobLv.12"
         },
         {
-            "key": "QE_EV_ART_CRF_05",
-            "value": "推奨：UnitLv.50 JobLv.9"
-        },
-        {
-            "key": "QE_EV_ART_CRF_06",
-            "value": "推奨：UnitLv.50 JobLv.9"
-        },
-        {
             "key": "QE_EV_ANV_19_10",
             "value": "リリース記念"
         },
@@ -2917,6 +2941,18 @@
             "value": "推奨：UnitLv.50 JobLv.9"
         },
         {
+            "key": "QE_MU_ART_CRF_09",
+            "value": "推奨：UnitLv.50 JobLv.9"
+        },
+        {
+            "key": "QE_MU_ART_CRF_05",
+            "value": "推奨：UnitLv.50 JobLv.9"
+        },
+        {
+            "key": "QE_MU_ART_CRF_06",
+            "value": "推奨：UnitLv.50 JobLv.9"
+        },
+        {
             "key": "QE_MU_EV_05_EX1",
             "value": "推奨：UnitLv.50 JobLv.10"
         },
@@ -2983,14 +3019,6 @@
         {
             "key": "QE_MU_EV_TH_EX2",
             "value": "推奨：UnitLv.50 JobLv.10"
-        },
-        {
-            "key": "QE_MU_ART_CRF_05",
-            "value": "推奨：UnitLv.50 JobLv.9"
-        },
-        {
-            "key": "QE_MU_ART_CRF_06",
-            "value": "推奨：UnitLv.50 JobLv.9"
         },
         {
             "key": "QE_MU_EV_SCR_01",

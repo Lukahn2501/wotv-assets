@@ -1597,6 +1597,14 @@
             "value": "欠片獲得 ロレイラ"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "欠片獲得 スカール"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "欠片獲得 マリアル"
+        },
+        {
             "key": "QE_CH_LW_MONT",
             "value": "モント・リオニス"
         },
@@ -1909,6 +1917,14 @@
             "value": "ロレイラ"
         },
         {
+            "key": "QE_CH_LW_SCAL",
+            "value": "スカール"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "マリアル"
+        },
+        {
             "key": "QE_EV_CDOWN_01_1",
             "value": "カウントダウンクエスト"
         },
@@ -2015,6 +2031,10 @@
         {
             "key": "QE_EV_GRSR_01",
             "value": "限定ハードクエスト（グラセラ・ウェズエット）"
+        },
+        {
+            "key": "QE_EV_SCAL_01",
+            "value": "限定ハードクエスト（スカール）"
         },
         {
             "key": "QE_PT_001_01",
@@ -2183,6 +2203,18 @@
         {
             "key": "QE_EV_ART_CRF_08",
             "value": "武具育成クエスト（サンゴの剣）"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "武具育成クエスト（プラチナロッド）"
+        },
+        {
+            "key": "QE_EV_ART_CRF_05",
+            "value": "武具育成クエスト（眠りの剣）"
+        },
+        {
+            "key": "QE_EV_ART_CRF_06",
+            "value": "武具育成クエスト（ゴールドアックス）"
         },
         {
             "key": "QE_EV_JP_001",
@@ -2733,14 +2765,6 @@
             "value": "超高難度　武具育成クエスト"
         },
         {
-            "key": "QE_EV_ART_CRF_05",
-            "value": "武具育成クエスト（眠りの剣）"
-        },
-        {
-            "key": "QE_EV_ART_CRF_06",
-            "value": "武具育成クエスト（ゴールドアックス）"
-        },
-        {
             "key": "QE_EV_ANV_19_10",
             "value": "リリース記念クエスト"
         },
@@ -2925,6 +2949,18 @@
             "value": "武具育成クエスト（サンゴの剣）"
         },
         {
+            "key": "QE_MU_ART_CRF_09",
+            "value": "武具育成クエスト（プラチナロッド）"
+        },
+        {
+            "key": "QE_MU_ART_CRF_05",
+            "value": "武具育成クエスト（眠りの剣）"
+        },
+        {
+            "key": "QE_MU_ART_CRF_06",
+            "value": "武具育成クエスト（ゴールドアックス）"
+        },
+        {
             "key": "QE_MU_EV_05_EX1",
             "value": "ゴウガとサイガ　前編 【EX1】"
         },
@@ -2991,14 +3027,6 @@
         {
             "key": "QE_MU_EV_TH_EX2",
             "value": "高難度　サリアの欠片獲得　EXクエスト2"
-        },
-        {
-            "key": "QE_MU_ART_CRF_05",
-            "value": "武具育成クエスト（眠りの剣）"
-        },
-        {
-            "key": "QE_MU_ART_CRF_06",
-            "value": "武具育成クエスト（ゴールドアックス）"
         },
         {
             "key": "QE_MU_EV_SCR_01",
@@ -3277,6 +3305,10 @@
             "value": "洞窟"
         },
         {
+            "key": "QE_ARENA_00007",
+            "value": "地下遺跡"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "闘技場"
         },
@@ -3309,6 +3341,10 @@
             "value": "闘技場"
         },
         {
+            "key": "QE_PVP_FRE_0003",
+            "value": "遺跡"
+        },
+        {
             "key": "QE_PVP_FRI_0001",
             "value": "平原"
         },
@@ -3333,8 +3369,20 @@
             "value": "洞窟"
         },
         {
+            "key": "QE_PVP_FRI_0007",
+            "value": "地下遺跡"
+        },
+        {
+            "key": "QE_PVP_FRI_0008",
+            "value": "遺跡"
+        },
+        {
             "key": "QE_PVP_RANK_0001",
             "value": "闘技場"
+        },
+        {
+            "key": "QE_PVP_RANK_0002",
+            "value": "遺跡"
         },
         {
             "key": "QE_TEST_FOR",

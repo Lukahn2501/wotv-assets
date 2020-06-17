@@ -107,6 +107,10 @@
         {
             "key": "27",
             "value": "<line-height=15><cspace=1>体力回復薬<cspace=-0.5><br>1日1回無料！"
+        },
+        {
+            "key": "28",
+            "value": "<line-height=15><cspace=1>ミニアムポット<cspace=-0.5><br>1日1回無料！"
         }
     ]
 }

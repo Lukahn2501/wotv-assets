@@ -313,6 +313,14 @@
             "value": "小林裕介"
         },
         {
+            "key": "UN_LW_P_SCAL",
+            "value": "－"
+        },
+        {
+            "key": "UN_LW_P_MRAL",
+            "value": "－"
+        },
+        {
             "key": "UN_LW_E_VKTR",
             "value": "豊口めぐみ"
         },

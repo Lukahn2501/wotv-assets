@@ -9,6 +9,10 @@
             "value": "召喚"
         },
         {
+            "key": "GLOBAL_MAIN_GACHA_COMEBACK",
+            "value": "<space=-2><line-height=18><cspace=-5.5>カム<space=3>バック</cspace><br><space=-2>召喚"
+        },
+        {
             "key": "GLOBAL_MAIN_SHOP",
             "value": "ショップ"
         },
@@ -1317,6 +1321,10 @@
             "value": "防御貫通効果"
         },
         {
+            "key": "ABILITY_ENHANCE_RESULT_RESIST_IGNORE",
+            "value": "耐性無視効果"
+        },
+        {
             "key": "NETHERBEAST_SYNCHRO_TITLE",
             "value": "共鳴度"
         },
@@ -1499,6 +1507,10 @@
         {
             "key": "QUEST_SUBMENU_HARD_AMOUNT",
             "value": "本日のハードクエスト挑戦可能回数"
+        },
+        {
+            "key": "QUEST_SUBMENU_HARD",
+            "value": "Hard Quest<br>一覧"
         },
         {
             "key": "QUEST_CONDITION_PLAYER_LEVEL",
@@ -1695,6 +1707,46 @@
         {
             "key": "WORLDQUEST_AREA_ACHIEVEDALL_DESC",
             "value": "このエリアの全てのクエストを達成済みです"
+        },
+        {
+            "key": "WORLDQUEST_HARDLIST_TITLE",
+            "value": "Hard Quest 一覧"
+        },
+        {
+            "key": "WORLDQUEST_HARDLIST_DESC",
+            "value": "アイコンからクエストを選択できます。"
+        },
+        {
+            "key": "WORLDQUEST_HARDLIST_BOOKMARK",
+            "value": "ブックマーク"
+        },
+        {
+            "key": "WORLDQUEST_HARDLIST_BOOKMARKEDIT",
+            "value": "ブックマーク編集"
+        },
+        {
+            "key": "WORLDQUEST_HARDLIST_SKIP",
+            "value": "一括スキップ"
+        },
+        {
+            "key": "WORLDQUEST_HARDLIST_NOLIST",
+            "value": "ハードクエストが存在しません。"
+        },
+        {
+            "key": "WORLDQUEST_HARDLIST_NOBOOKMARK",
+            "value": "ブックマークが登録されていません。"
+        },
+        {
+            "key": "WORLDQUEST_BOOKMARK_TITLE",
+            "value": "ブックマーク編集"
+        },
+        {
+            "key": "WORLDQUEST_BOOKMARK_DESC",
+            "value": "アイコンをタップすることでブックマークの追加と解除を切り替えることができます。"
+        },
+        {
+            "key": "WORLDQUEST_BOOKMARK_SAVE",
+            "value": "保存"
         },
         {
             "key": "DEFAULT_PARTY_NAME",
@@ -2041,6 +2093,10 @@
             "value": "マンスリー"
         },
         {
+            "key": "SHOP_STEPUP",
+            "value": "STEP"
+        },
+        {
             "key": "SHOP_BUY_CHECK_TITLE",
             "value": "購入確認"
         },
@@ -2147,6 +2203,10 @@
         {
             "key": "SHOP_RANDOM_LIMIT",
             "value": "30分間限定OPEN!"
+        },
+        {
+            "key": "SHOP_COMEBACK_OPEN",
+            "value": "<space=0.5em><cspace=-0.05em>カムバック専用パック販売中！"
         },
         {
             "key": "SHOP_MISSION_TAB_PRODUCT",
@@ -2323,6 +2383,18 @@
         {
             "key": "SHOP_BUY_ITEM_CAPACITY_OVER_MESSAGE",
             "value": "アイテムの所持数が上限に達するため購入できません。"
+        },
+        {
+            "key": "SHOP_HOME_APPEAL_TITLE",
+            "value": "限定商品登場！！"
+        },
+        {
+            "key": "SHOP_HOME_APPEAL_CONFIRM_TITLE",
+            "value": "期間制限のある商品です"
+        },
+        {
+            "key": "SHOP_HOME_APPEAL_CONFIRM_DESC",
+            "value": "この商品はスペシャルショップで<br>また確認できます。<br>商品情報を閉じますか？"
         },
         {
             "key": "EXCHANGE_UPPER",
@@ -2643,6 +2715,30 @@
         {
             "key": "MENU_OPTION_VIBRATE_DESC",
             "value": "バトル終了時に端末を振動させる"
+        },
+        {
+            "key": "MENU_OPTION_VIBRATE_PROCEDURE",
+            "value": "手順時"
+        },
+        {
+            "key": "MENU_OPTION_VIBRATE_END",
+            "value": "終了時"
+        },
+        {
+            "key": "MENU_OPTION_VIBRATE_TITLE_QUEST",
+            "value": "クエスト <size=20>※白磁の塔含む"
+        },
+        {
+            "key": "MENU_OPTION_VIBRATE_TITLE_MULTI",
+            "value": "マルチ／レイド"
+        },
+        {
+            "key": "MENU_OPTION_VIBRATE_TITLE_DUEL",
+            "value": "デュエル <size=20>※手順はマッチのみ"
+        },
+        {
+            "key": "MENU_OPTION_VIBRATE_TITLE_GUILDBATTLE",
+            "value": "ギルドバトル"
         },
         {
             "key": "MENU_OPTION_NOTIFICATION_TITLE",
@@ -3293,6 +3389,18 @@
             "value": "アイテムがこれ以上獲得できません"
         },
         {
+            "key": "EXPEDITION_AREA_CLOSED_TITLE",
+            "value": "期間外のエリアです"
+        },
+        {
+            "key": "EXPEDITION_AREA_CLOSED",
+            "value": "該当エリアを選択する期間外となります。別のエリアを選択してください。"
+        },
+        {
+            "key": "EXPEDITION_CONFIRM",
+            "value": "確認"
+        },
+        {
             "key": "EXPEDITION_BONUS_GIL",
             "value": "<line-height=1.2em>獲得ギル<br><space=6><size=1.25em>{0}</size>倍"
         },
@@ -3755,6 +3863,10 @@
         {
             "key": "MULTI_ROOM_HOST",
             "value": "部屋主"
+        },
+        {
+            "key": "MULTI_ROOM_RESET",
+            "value": "ルーム解散<br>（再設定可能）"
         },
         {
             "key": "MULTI_ROOM_DISSOLVE_CHECK_TITLE",
@@ -4375,6 +4487,10 @@
         {
             "key": "GACHA_TICKET_SELECT",
             "value": "選べるチケット"
+        },
+        {
+            "key": "GACHA_TICKET_OVER_DETAIL",
+            "value": "(虫眼鏡タップで詳細確認)"
         },
         {
             "key": "GACHA_TICKET_TITLE",
@@ -5117,6 +5233,14 @@
             "value": "開催期間"
         },
         {
+            "key": "LOGIN_BONUS_TODAY_REWARD",
+            "value": "本日の報酬"
+        },
+        {
+            "key": "LOGIN_BONUS_NEXT_REWARD",
+            "value": "明日の報酬"
+        },
+        {
             "key": "LOGIN_CONTINUOUS_DAYS",
             "value": "{0}日目"
         },
@@ -5795,6 +5919,22 @@
         {
             "key": "CLASS_EFFECT_RANKING",
             "value": "Ranking"
+        },
+        {
+            "key": "CLASSMATCH_SCHEDULE_TITLE",
+            "value": "スケジュール"
+        },
+        {
+            "key": "CLASSMATCH_SCHEDULE_SEASON",
+            "value": "シーズン開催期間"
+        },
+        {
+            "key": "CLASSMATCH_SCHEDULE_BATTLE_TITLE",
+            "value": "バトル可能期間"
+        },
+        {
+            "key": "CLASSMATCH_SCHEDULE_TIMES_TITLE",
+            "value": "時間帯"
         },
         {
             "key": "PVP_TOP_ARENA",
@@ -7185,6 +7325,30 @@
             "value": "今回のギルドバトルで<br>出撃できる回数に達しています"
         },
         {
+            "key": "GUILD_BATTLE_NOATTACK2_DIALOG_TITLE",
+            "value": "対戦できません"
+        },
+        {
+            "key": "GUILD_BATTLE_NOATTACK2_DIALOG_DESC",
+            "value": "既に戦った相手です。"
+        },
+        {
+            "key": "GUILD_BATTLE_NOATTACK3_DIALOG_TITLE",
+            "value": "対戦できません"
+        },
+        {
+            "key": "GUILD_BATTLE_NOATTACK3_DIALOG_DESC",
+            "value": "相手はHPがありません。"
+        },
+        {
+            "key": "GUILD_BATTLE_NOATTACK4_DIALOG_TITLE",
+            "value": "対戦できません"
+        },
+        {
+            "key": "GUILD_BATTLE_NOATTACK4_DIALOG_DESC",
+            "value": "自分のパーティーのHPがありません。"
+        },
+        {
             "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
             "value": "残り行動回数0です"
         },
@@ -8163,6 +8327,82 @@
         {
             "key": "POINTQUEST_GACHA_RESET_FINISH_DESC",
             "value": "ラインナップをリセットしました。"
+        },
+        {
+            "key": "JPBOOST_TITLE",
+            "value": "JP獲得UPアイテムを使用するユニットを選んでください"
+        },
+        {
+            "key": "JPBOOST_USE",
+            "value": "本日の使用回数"
+        },
+        {
+            "key": "JPBOOST_SORTIE",
+            "value": "決定して出撃"
+        },
+        {
+            "key": "JPBOOST_UPPER_LIMIT_TITLE",
+            "value": "使用回数上限"
+        },
+        {
+            "key": "JPBOOST_UPPER_LIMIT_DESC",
+            "value": "本日の使用回数上限に達しています。<br>アイテムは使用されません。<br><br>AM5時に使用回数がリセットされます。"
+        },
+        {
+            "key": "JPBOOST_UPPER_LIMIT_YES",
+            "value": "出撃"
+        },
+        {
+            "key": "JPBOOST_UPPER_LIMIT_NO",
+            "value": "キャンセル"
+        },
+        {
+            "key": "JPBOOST_OVER_LIMIT_TITLE",
+            "value": "使用回数上限"
+        },
+        {
+            "key": "JPBOOST_OVER_LIMIT_DESC",
+            "value": "本日の使用回数上限を越えています。<br>上限を超えたアイテムは使用されません。"
+        },
+        {
+            "key": "JPBOOST_OVER_LIMIT_YES",
+            "value": "出撃"
+        },
+        {
+            "key": "JPBOOST_OVER_LIMIT_NO",
+            "value": "キャンセル"
+        },
+        {
+            "key": "JPBOOST_RESETLAPIS_TITLE",
+            "value": "使用回数のリセット"
+        },
+        {
+            "key": "JPBOOST_RESETLAPIS_DESC",
+            "value": "<color=#FFF080>幻導石{0}個</color>を消費して<br><color=#FFF080>使用"
+        },
+        {
+            "key": "JPBOOST_RESETLAPIS_RANK",
+            "value": "RoyalRank {0}でリセットを更に{1}回<br>行えるようになります。"
+        },
+        {
+            "key": "JPBOOST_RESET_DESC",
+            "value": "本日のリセット回数が<br>上限に達しています。"
+        },
+        {
+            "key": "JPBOOST_RESET_COMPLETE",
+            "value": "使用回数をリセットしました。"
+        },
+        {
+            "key": "JPBOOST_AUTOITEM_VALUE_ADD",
+            "value": "{0}"
+        },
+        {
+            "key": "JPBOOST_AUTOITEM_VALUE_MUL",
+            "value": "{0}%"
+        },
+        {
+            "key": "JPBOOST_AUTOITEM_AMOUNT",
+            "value": " UP"
         },
         {
             "key": "POINTQUEST_MODE_NORMAL",

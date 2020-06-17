@@ -613,6 +613,10 @@
             "value": "まで"
         },
         {
+            "key": "VALUE_STORY_PERIOD",
+            "value": "{0}クリアまで"
+        },
+        {
             "key": "VALUE_SECONDS_AGO",
             "value": "秒前"
         },
@@ -1745,6 +1749,14 @@
             "value": "所持数："
         },
         {
+            "key": "ITEM_AMOUNT_LIMIT_OVER",
+            "value": "所持上限"
+        },
+        {
+            "key": "ITEM_AMOUNT_LIMIT_OVER_VALUE",
+            "value": "所持上限<space=0.3em><size=1.3em>{0}</size>個"
+        },
+        {
             "key": "ITEM_AMOUNT_TICKET",
             "value": "枚"
         },
@@ -1979,6 +1991,18 @@
         {
             "key": "ARTIFACT_DETAIL_TITLE",
             "value": "詳細"
+        },
+        {
+            "key": "ARTIFACT_LIMIT_OVER_TITLE",
+            "value": "所持上限アイテムがあります"
+        },
+        {
+            "key": "ARTIFACT_LIMIT_OVER_DESC_RESULT",
+            "value": "<line-height=36>以下のアイテムが既に所持上限に達しているため、<br>報酬として受け取れませんでした。"
+        },
+        {
+            "key": "ARTIFACT_LIMIT_OVER_DESC_SHOP",
+            "value": "<line-height=36>以下のアイテムが既に所持上限に達しているため、<br>獲得できません。"
         },
         {
             "key": "INTIMACY_BONUS_TITLE",
@@ -3753,6 +3777,10 @@
             "value": "アビリティ演出"
         },
         {
+            "key": "OPTION_JPBOOST",
+            "value": "JP獲得UPアイテム使用"
+        },
+        {
             "key": "OPTION_EFFECT",
             "value": "範囲エフェクトの表示"
         },
@@ -4023,6 +4051,54 @@
         {
             "key": "CLASSMATCH_REWARD_PROM_DESC",
             "value": "クラス昇格報酬を受け取りました。"
+        },
+        {
+            "key": "CLASSMATCH_OPEN_TITLE",
+            "value": "開催中"
+        },
+        {
+            "key": "CLASSMATCH_ENABLE_BATTLE_TITLE",
+            "value": "バトル可能"
+        },
+        {
+            "key": "CLASSMATCH_ENABLE_BATTLE_DESC",
+            "value": "あと<space=7><size=26><color=#FFF080>{0}</color></size>時間"
+        },
+        {
+            "key": "CLASSMATCH_ENABLE_BATTLE_MINUTES",
+            "value": "あと<space=7><size=26><color=#FFF080>{0}</color></size>分"
+        },
+        {
+            "key": "CLASSMATCH_ENABLE_BATTLE_SECOND",
+            "value": "あと<space=7><size=26><color=#FFF080>{0}</color></size>秒"
+        },
+        {
+            "key": "CLASSMATCH_CLOSE_TITLE",
+            "value": "バトル終了"
+        },
+        {
+            "key": "CLASSMATCH_NEXT_BATTLE_TITLE",
+            "value": "次回バトル"
+        },
+        {
+            "key": "CLASSMATCH_BATTLE_PERIOD",
+            "value": "{0}<space=10>~<space=5>{1}"
+        },
+        {
+            "key": "CLASSMATCH_GET_REWARD_TITLE",
+            "value": "報酬受取期間"
+        },
+        {
+            "key": "CLASSMATCH_GET_REWARD_DESC",
+            "value": "~<space=5>{0}"
+        },
+        {
+            "key": "CLASSMATCH_PERIOD_OUTSIDE_TITLE",
+            "value": "【開催期間外】"
+        },
+        {
+            "key": "CLASSMATCH_PERIOD_OUTSIDE_DESC",
+            "value": "次回の開催をお待ちください"
         },
         {
             "key": "PRESENT_CAP_OVER_TITLE",

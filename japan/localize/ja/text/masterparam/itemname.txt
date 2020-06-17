@@ -1977,6 +1977,14 @@
             "value": "ラスウェルの欠片"
         },
         {
+            "key": "IT_PI_LW_SCAL",
+            "value": "スカールの欠片"
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": "マリアルの欠片"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "赤の魔石（小）"
         },
@@ -3043,6 +3051,10 @@
         {
             "key": "IT_EC_SUMMON_06_A",
             "value": "【6月】召喚メダルA"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "【6月】召喚メダルB"
         },
         {
             "key": "IT_EC_VISION",

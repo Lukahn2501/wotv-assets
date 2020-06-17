@@ -159,6 +159,10 @@
         {
             "key": "LB_LIMIT_0028",
             "value": "HalfAnniversary第4弾ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_0029",
+            "value": "1100万DL記念ログインボーナス"
         }
     ]
 }

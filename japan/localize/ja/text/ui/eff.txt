@@ -82,11 +82,15 @@
         },
         {
             "key": "VISION_LEVELUP",
-            "value": "<size=58>L<cspace=-6><size=50>EV</cspace>EL</size><space=6>UP</size>"
+            "value": "<size=1.16em>L</size>EVEL<space=0.1em>UP"
         },
         {
             "key": "VISION_AWAKE",
-            "value": "<cspace=2><size=96>A<space=-14><size=80>W<space=-20>A<space=-6>KENIN<space=-4>G"
+            "value": "<cspace=0.04em><size=1.2em>A<space=-14><size=1em>W<space=-0.25em>A<space=-0.15em>KENIN<space=-0.1em>G"
+        },
+        {
+            "key": "VISION_GROWTH_MAX",
+            "value": "<cspace=-0.04em>最大育成ボーナス"
         },
         {
             "key": "NEW_BONUS",

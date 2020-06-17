@@ -1597,6 +1597,14 @@
             "value": "クエスト情報<br>推奨：UnitLv.66 JobLv.11<br>解放条件：ユニット「ロレイラ」を獲得"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "クエスト情報<br>推奨：UnitLv.67 JobLv.11<br>解放条件：ユニット「スカール」を獲得"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "クエスト情報<br>推奨：UnitLv.67 JobLv.11<br>解放条件：ユニット「マリアル」を獲得"
+        },
+        {
             "key": "QE_CH_LW_MONT",
             "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「モント・リオニス」UnitLv.40以上"
         },
@@ -1909,6 +1917,14 @@
             "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ロレイラ」UnitLv.40以上"
         },
         {
+            "key": "QE_CH_LW_SCAL",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「スカール」UnitLv.40以上"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「マリアル」UnitLv.40以上"
+        },
+        {
             "key": "QE_EV_CDOWN_01_1",
             "value": "Half Anniversaryまであと7日"
         },
@@ -2015,6 +2031,10 @@
         {
             "key": "QE_EV_GRSR_01",
             "value": "クエスト情報<br>解放条件：ユニット「グラセラ・ウェズエット」を獲得"
+        },
+        {
+            "key": "QE_EV_SCAL_01",
+            "value": "クエスト情報<br>解放条件：ユニット「スカール」を獲得"
         },
         {
             "key": "QE_PT_001_01",
@@ -2182,6 +2202,18 @@
         },
         {
             "key": "QE_EV_ART_CRF_08",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_05",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_06",
             "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
         },
         {
@@ -2733,14 +2765,6 @@
             "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>ヒント：堅そうなヤツ等は防御、精神が非常に高いので下げて戦おう。メタルなヤツは残りHP割合や行動回数によって攻撃が変化するので気を付けよう。"
         },
         {
-            "key": "QE_EV_ART_CRF_05",
-            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
-        },
-        {
-            "key": "QE_EV_ART_CRF_06",
-            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
-        },
-        {
             "key": "QE_EV_ANV_19_10",
             "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
         },
@@ -2925,6 +2949,18 @@
             "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
         },
         {
+            "key": "QE_MU_ART_CRF_09",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+        },
+        {
+            "key": "QE_MU_ART_CRF_05",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+        },
+        {
+            "key": "QE_MU_ART_CRF_06",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+        },
+        {
             "key": "QE_MU_EV_05_EX1",
             "value": "クエスト情報<br>なし"
         },
@@ -2991,14 +3027,6 @@
         {
             "key": "QE_MU_EV_TH_EX2",
             "value": "クエスト情報<br>なし"
-        },
-        {
-            "key": "QE_MU_ART_CRF_05",
-            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
-        },
-        {
-            "key": "QE_MU_ART_CRF_06",
-            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
         },
         {
             "key": "QE_MU_EV_SCR_01",
@@ -3277,6 +3305,10 @@
             "value": "単体攻撃耐性アップ"
         },
         {
+            "key": "QE_ARENA_00007",
+            "value": "斬撃攻撃耐性アップ"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "なし"
         },
@@ -3309,6 +3341,10 @@
             "value": "なし"
         },
         {
+            "key": "QE_PVP_FRE_0003",
+            "value": "なし"
+        },
+        {
             "key": "QE_PVP_FRI_0001",
             "value": "なし"
         },
@@ -3333,8 +3369,20 @@
             "value": "なし"
         },
         {
+            "key": "QE_PVP_FRI_0007",
+            "value": "なし"
+        },
+        {
+            "key": "QE_PVP_FRI_0008",
+            "value": "なし"
+        },
+        {
             "key": "QE_PVP_RANK_0001",
             "value": "全ユニット、火属性ダメージ+20％、火属性耐性-20%"
+        },
+        {
+            "key": "QE_PVP_RANK_0002",
+            "value": "Cost制限540以下"
         },
         {
             "key": "QE_TEST_FOR",

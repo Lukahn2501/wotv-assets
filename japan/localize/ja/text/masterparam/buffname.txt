@@ -77,6 +77,10 @@
             "value": "通常攻撃（死の宣告）"
         },
         {
+            "key": "BUFF_SWO_LW_MRAL_1_1_EN",
+            "value": "通常攻撃（精神ダウン）"
+        },
+        {
             "key": "BUFF_ARENA_00003",
             "value": "射程+1"
         },
@@ -93,6 +97,10 @@
             "value": "単体攻撃耐性アップ"
         },
         {
+            "key": "BUFF_ARENA_00007",
+            "value": "斬撃攻撃耐性アップ"
+        },
+        {
             "key": "BUFF_GVG_001",
             "value": "闇属性アビリティ攻撃アップ"
         },
@@ -107,6 +115,10 @@
         {
             "key": "BUFF_GVG_004",
             "value": "刺突攻撃アップ"
+        },
+        {
+            "key": "BUFF_CLASSMATCH_001",
+            "value": "Cost制限540以下"
         },
         {
             "key": "BUFF_IFRT_01",

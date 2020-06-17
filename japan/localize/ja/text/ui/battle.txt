@@ -338,7 +338,7 @@
         },
         {
             "key": "RESULT_POINT_AGGREGATE_ATTACK_CHAIN_MAX",
-            "value": "アタックチェイン最大数"
+            "value": "チェイン最大数"
         },
         {
             "key": "RESULT_POINT_AGGREGATE_ELEMENT_CHAIN_MAX",
