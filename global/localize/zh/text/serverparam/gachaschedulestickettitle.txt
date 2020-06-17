@@ -103,6 +103,10 @@
         {
             "key": "IT_US_G_UR_01_gl20200610",
             "value": "確保UR召喚券A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200617",
+            "value": "確保UR召喚券A"
         }
     ]
 }

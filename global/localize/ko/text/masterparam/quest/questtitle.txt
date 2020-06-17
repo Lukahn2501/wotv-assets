@@ -1221,6 +1221,14 @@
             "value": "조각 획득: 애들러드"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "조각 획득: 살리아"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "조각 획득: 빅토라"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "자잔"
         },
@@ -1427,6 +1435,14 @@
         {
             "key": "QE_CH_LW_ADLD",
             "value": "애들러드"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "살리아"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
+            "value": "빅토라"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1677,6 +1693,46 @@
             "value": "서쪽의 위협 런달 [EX]"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "한정 하드 퀘스트(빅토라)"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": " '살리아의 조각' 획득 퀘스트 퀘스트 1"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": " '살리아의 조각' 획득 퀘스트 퀘스트 2"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": " '살리아의 조각' 획득 퀘스트 퀘스트 3"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": " '살리아의 조각' 획득 퀘스트 퀘스트 4"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": " '살리아의 조각' 획득 퀘스트 퀘스트 5"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "고난도 '살리아의 조각' 획득 EX 퀘스트 1"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "고난도 '살리아의 조각' 획득 EX 퀘스트 2"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "고난도 '살리아의 조각' 획득 EX 퀘스트 1"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "고난도 '살리아의 조각' 획득 EX 퀘스트 2"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "서쪽의 위협 런달 [EX]"
         },
@@ -1835,6 +1891,10 @@
         {
             "key": "QE_SB_LAMA_01",
             "value": "라미아 퀸 전투"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
+            "value": "오츄 전투"
         },
         {
             "key": "QE_SB_TSLP_01",
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": "투기장"
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": "투기장"
         },
         {

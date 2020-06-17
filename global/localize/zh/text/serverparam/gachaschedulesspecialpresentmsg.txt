@@ -317,6 +317,34 @@
             "value": "共鬥紀念精選召喚的贈品"
         },
         {
+            "key": "gacha_unit_vc_gl20200617_01",
+            "value": "新兵員、幻兵卡召喚的贈品"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_10",
+            "value": "新兵員、幻兵卡召喚的贈品"
+        },
+        {
+            "key": "p_gacha_unit_gl20200617_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200617_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_a_01",
+            "value": "初夏紀念精選召喚的贈品"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_a_10",
+            "value": "初夏紀念精選召喚的贈品"
+        },
+        {
+            "key": "no_coin_gacha_gl20200617_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "精選召喚的贈品"
         },

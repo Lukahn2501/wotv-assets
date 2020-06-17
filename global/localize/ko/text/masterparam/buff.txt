@@ -358,7 +358,7 @@
         },
         {
             "key": "BUFF_OtherCrtRate",
-            "value": "크리티컬"
+            "value": "크리티컬 피해"
         },
         {
             "key": "BUFF_OtherCrtHit",

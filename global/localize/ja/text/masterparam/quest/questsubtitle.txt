@@ -1221,6 +1221,14 @@
             "value": "ハードクエスト"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "ハードクエスト"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "ハードクエスト"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "キャラクタークエスト"
         },
@@ -1426,6 +1434,14 @@
         },
         {
             "key": "QE_CH_LW_ADLD",
+            "value": "キャラクタークエスト"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "キャラクタークエスト"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
             "value": "キャラクタークエスト"
         },
         {
@@ -1677,6 +1693,46 @@
             "value": "推奨：UnitLv.50 JobLv.10"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "期間限定"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "推奨：UnitLv.5 JobLv.1"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "推奨：UnitLv.10 JobLv.2"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "推奨：UnitLv.20 JobLv.4"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "推奨：UnitLv.30 JobLv.6"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "推奨：UnitLv.40 JobLv.6"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "推奨：UnitLv.50 JobLv.10"
         },
@@ -1834,6 +1890,10 @@
         },
         {
             "key": "QE_SB_LAMA_01",
+            "value": "推奨：UnitLv.60 JobLv.10"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
             "value": "推奨：UnitLv.60 JobLv.10"
         },
         {
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": ""
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": ""
         },
         {

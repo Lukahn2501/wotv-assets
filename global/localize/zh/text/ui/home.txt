@@ -3506,7 +3506,7 @@
         },
         {
             "key": "EXPEDITION_BONUS_GIL",
-            "value": "<line-height=1.2em>獲得金幣<br><space=6><size=1.25em>{0}</size>倍"
+            "value": "<line-height=1.2em>獲得金幣<br><space=6>{0}倍"
         },
         {
             "key": "EXPEDITION_BONUS_RARE",
@@ -4854,7 +4854,7 @@
         },
         {
             "key": "RAID_VALUE_RANK_LIST",
-            "value": "排名<space=-4>{0}<size=0.7em></size>"
+            "value": "排名{0}"
         },
         {
             "key": "RAID_VALUE_POINT",

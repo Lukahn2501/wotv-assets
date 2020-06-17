@@ -1337,6 +1337,118 @@
             "value": "[Multijugador] Completa la misión difícil EX de entrenamiento de Etra II (5/5)"
         },
         {
+            "key": "M_THLA01_1_01",
+            "value": "Completa la misión de recompensa de fragmento de Saria I (1/3)"
+        },
+        {
+            "key": "M_THLA01_1_02",
+            "value": "Completa la misión de recompensa de fragmento de Saria I (2/3)"
+        },
+        {
+            "key": "M_THLA01_1_03",
+            "value": "Completa la misión de recompensa de fragmento de Saria I (3/3)"
+        },
+        {
+            "key": "M_THLA01_1_04",
+            "value": "Completa la misión de recompensa de fragmento de Saria II (1/3)"
+        },
+        {
+            "key": "M_THLA01_1_05",
+            "value": "Completa la misión de recompensa de fragmento de Saria II (2/3)"
+        },
+        {
+            "key": "M_THLA01_1_06",
+            "value": "Completa la misión de recompensa de fragmento de Saria II (3/3)"
+        },
+        {
+            "key": "M_THLA01_1_07",
+            "value": "Completa la misión de recompensa de fragmento de Saria III (1/3)"
+        },
+        {
+            "key": "M_THLA01_1_08",
+            "value": "Completa la misión de recompensa de fragmento de Saria III (2/3)"
+        },
+        {
+            "key": "M_THLA01_1_09",
+            "value": "Completa la misión de recompensa de fragmento de Saria III (3/3)"
+        },
+        {
+            "key": "M_THLA01_1_10",
+            "value": "Completa la misión de recompensa de fragmento de Saria IV (1/3)"
+        },
+        {
+            "key": "M_THLA01_1_11",
+            "value": "Completa la misión de recompensa de fragmento de Saria IV (2/3)"
+        },
+        {
+            "key": "M_THLA01_1_12",
+            "value": "Completa la misión de recompensa de fragmento de Saria IV (3/3)"
+        },
+        {
+            "key": "M_THLA01_1_13",
+            "value": "Completa la misión de recompensa de fragmento de Saria V (1/15)"
+        },
+        {
+            "key": "M_THLA01_1_14",
+            "value": "Completa la misión de recompensa de fragmento de Saria V (5/15)"
+        },
+        {
+            "key": "M_THLA01_1_15",
+            "value": "Completa la misión de recompensa de fragmento de Saria V (10/15)"
+        },
+        {
+            "key": "M_THLA01_1_16",
+            "value": "Completa la misión de recompensa de fragmento de Saria V (15/15)"
+        },
+        {
+            "key": "M_THLA01_EX1_01",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta (1/5)"
+        },
+        {
+            "key": "M_THLA01_EX1_02",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta (3/5)"
+        },
+        {
+            "key": "M_THLA01_EX1_03",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta (5/5)"
+        },
+        {
+            "key": "M_THLA01_EX2_01",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta (1/5)"
+        },
+        {
+            "key": "M_THLA01_EX2_02",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta (3/5)"
+        },
+        {
+            "key": "M_THLA01_EX2_03",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta (5/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX1_01",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta (1/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX1_02",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta (3/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX1_03",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta (5/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX2_01",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta (1/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX2_02",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta (3/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX2_03",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta (5/5)"
+        },
+        {
             "key": "M_ART_SCR_01",
             "value": "Completa la misión difícil de recompensa de libro secreto (espada, espadón, hacha) I (1/5)"
         },
@@ -1958,6 +2070,42 @@
         },
         {
             "key": "M_QEST_045",
+            "value": "Misiones de historia: tarea 9"
+        },
+        {
+            "key": "M_QEST_046",
+            "value": "Misiones de historia: tarea 1"
+        },
+        {
+            "key": "M_QEST_047",
+            "value": "Misiones de historia: tarea 2"
+        },
+        {
+            "key": "M_QEST_048",
+            "value": "Misiones de historia: tarea 3"
+        },
+        {
+            "key": "M_QEST_049",
+            "value": "Misiones de historia: tarea 4"
+        },
+        {
+            "key": "M_QEST_050",
+            "value": "Misiones de historia: tarea 5"
+        },
+        {
+            "key": "M_QEST_051",
+            "value": "Misiones de historia: tarea 6"
+        },
+        {
+            "key": "M_QEST_052",
+            "value": "Misiones de historia: tarea 7"
+        },
+        {
+            "key": "M_QEST_053",
+            "value": "Misiones de historia: tarea 8"
+        },
+        {
+            "key": "M_QEST_054",
             "value": "Misiones de historia: tarea 9"
         },
         {
@@ -3735,6 +3883,30 @@
         {
             "key": "M_LAPS_P_LUCA_06",
             "value": "Gasta visiores: bonificación de tiempo limitado 06"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_01",
+            "value": "Tiempo limitado: Gasta visiores: tarea 01"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_02",
+            "value": "Tiempo limitado: Gasta visiores: tarea 02"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_03",
+            "value": "Tiempo limitado: Gasta visiores: tarea 03"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_04",
+            "value": "Tiempo limitado: Gasta visiores: tarea 04"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_05",
+            "value": "Tiempo limitado: Gasta visiores: tarea 05"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_06",
+            "value": "Tiempo limitado: Gasta visiores: tarea 06"
         },
         {
             "key": "M_COMEBACK_0001",

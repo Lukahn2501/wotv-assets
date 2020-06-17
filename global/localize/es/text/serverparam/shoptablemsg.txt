@@ -157,6 +157,18 @@
             "value": "Rango de jugador: 60 o superior"
         },
         {
+            "key": "Normal-20200214_A",
+            "value": "Rango de jugador: 1–29"
+        },
+        {
+            "key": "Normal-20200214_B",
+            "value": "Rango de jugador: 30–59"
+        },
+        {
+            "key": "Normal-20200214_C",
+            "value": "Rango de jugador: 60 o superior"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
         },
@@ -301,8 +313,32 @@
             "value": "Tienda fugaz (jugadores de rango 60 o superior)"
         },
         {
+            "key": "Guerrilla-20200214A",
+            "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
+        },
+        {
+            "key": "Guerrilla-20200214B",
+            "value": "Tienda fugaz (jugadores de rango 30-59)"
+        },
+        {
+            "key": "Guerrilla-20200214C",
+            "value": "Tienda fugaz (jugadores de rango 60 o superior)"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "¡Mejora tus unidades y cartas de visión!"
+        },
+        {
+            "key": "Limited-gl20200617",
+            "value": "Tienda especial de comienzo del verano"
+        },
+        {
+            "key": "Limited-gl20200617_A",
+            "value": "Tienda de nueva unidad destacada: ¡Mejora tus unidades!"
+        },
+        {
+            "key": "Limited-gl20200617_B",
+            "value": "Tienda destacada: ¡Mejora tus unidades y cartas de visión!"
         },
         {
             "key": "Limited-gl20200610",
@@ -423,6 +459,10 @@
         {
             "key": "Event-EV02_1_20200201",
             "value": "¡Esta es la tienda de intercambio de medallas de evento de junio, kupó!"
+        },
+        {
+            "key": "Event-Summon_GL20200617_B",
+            "value": "¡Esta es la tienda de intercambio de medallas de invocación (B) de junio, kupó!"
         },
         {
             "key": "Event-Summon_GL20200603_A",
@@ -1014,6 +1054,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_11",
+            "value": "Tienda con artículos especiales para profesiones de fuego del día"
+        },
+        {
+            "key": "Limited-WATER_2020_2_19",
+            "value": "Tienda con artículos especiales para profesiones de agua del día"
+        },
+        {
+            "key": "Limited-WIND_2020_2_20",
+            "value": "Tienda con artículos especiales para profesiones de viento del día"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_21",
+            "value": "Tienda con artículos especiales para profesiones de rayo del día"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_22",
+            "value": "Tienda con artículos especiales para profesiones de tierra del día"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_23",
+            "value": "Tienda con artículos especiales para profesiones de luz del día"
+        },
+        {
+            "key": "Limited-DARK_2020_2_23",
+            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+        },
+        {
+            "key": "Limited-ICE_2020_2_17",
+            "value": "Tienda con artículos especiales para profesiones de hielo del día"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_18",
             "value": "Tienda con artículos especiales para profesiones de fuego del día"
         }
     ]

@@ -22,7 +22,7 @@
         },
         {
             "key": "006",
-            "value": "Rien qu'aujourd'hui, j'ai frôlé plusieurs fois la mort... J'ai l'impression d'être devenu un peu plus fort."
+            "value": "Rien qu'aujourd'hui, j'ai frôlé plusieurs fois la mort… J'ai l'impression d'être devenu un peu plus fort."
         },
         {
             "key": "007",

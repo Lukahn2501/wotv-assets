@@ -38,7 +38,7 @@
         },
         {
             "key": "010",
-            "value": "Vous ne ressentez aucune compassion à son égard ?"
+            "value": "Vous ne ressentez aucune compassion à son égard ?"
         },
         {
             "key": "011",

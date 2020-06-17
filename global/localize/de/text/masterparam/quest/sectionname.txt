@@ -117,6 +117,10 @@
             "value": "Die Festung Sykkel"
         },
         {
+            "key": "SE_WD_010202",
+            "value": "Yaarm-Höhle"
+        },
+        {
             "key": "SE_SB_01",
             "value": "Höhle des Ungetüms"
         },
@@ -411,6 +415,22 @@
         {
             "key": "SE_EV_BEGN_2001",
             "value": "Einheitentraining - Unterstützungsauftrag"
+        },
+        {
+            "key": "SE_EV_VKTR_01",
+            "value": "Limitierter Schwieriger Auftrag („Viktora“)"
+        },
+        {
+            "key": "SE_EV_THLA",
+            "value": "Fragment-Belohnungsauftrag „Salire“"
+        },
+        {
+            "key": "SE_EV_THLA_EX",
+            "value": "Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag „Salire“ [EX]"
+        },
+        {
+            "key": "SE_MU_EV_THLA_EX",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag „Salire“ [EX]"
         }
     ]
 }

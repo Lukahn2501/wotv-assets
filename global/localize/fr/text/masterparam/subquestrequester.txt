@@ -87,6 +87,14 @@
         {
             "key": "SQ_WD_010201_02",
             "value": "Artiste de renom"
+        },
+        {
+            "key": "SQ_WD_010202_01",
+            "value": "Forgeron vétéran"
+        },
+        {
+            "key": "SQ_WD_010202_02",
+            "value": "Réceptionniste de l'académie"
         }
     ]
 }

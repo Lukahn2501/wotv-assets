@@ -81,6 +81,18 @@
             "value": "Rare Beschwörung"
         },
         {
+            "key": "Raregacha_A_gl20200617_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_P",
+            "value": "Rare Beschwörung"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Veröffentlichungsandenken – limitierte normale Beschwörung"
         },
@@ -151,6 +163,14 @@
         {
             "key": "Normal_gacha_A_gl20200610_10",
             "value": "Limitierte Normale Beschwörung zur Feier der Kraftprobe (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_01",
+            "value": "Frühsommer: Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_10",
+            "value": "Frühsommer: Normale Beschwörung (10-malig)"
         }
     ]
 }

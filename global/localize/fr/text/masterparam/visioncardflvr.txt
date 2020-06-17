@@ -45,6 +45,26 @@
             "value": "« J'ose ? Je n'ose pas ! Est-ce que je vais enfin réussir à lui en offrir cette année ? Est-ce que je devrais lui en offrir cette année ? »<br>Kitone se bat avec son propre courage depuis des heures. L'objet de son angoisse ? Une sucrerie faite maison qu'elle voudrait offrir à une certaine personne en gage de gratitude. Pour ça, et rien d'autre. Elle ne devrait donc avoir aucun mal à lui donner mais... elle a toujours peur d'avoir eu la main un peu trop lourde sur la décoration, ou qu'il se trompe sur ses intentions, alors elle n'a jamais osé.<br>« Je vais sans doute encore finir par l'offrir à Owe comme tous les ans... »<br>Mais elle chasse ces idées de sa tête, de peur qu'elles s'échappent malgré elle. Owe mérite bien des chocolats, lui aussi, sans aucun doute. Seulement... Ah, c'est sûr, comme elle est partie, ce n'est pas encore cette année qu'elle osera se lancer."
         },
         {
+            "key": "VC_LW_SHIV",
+            "value": "　Une femme magnifique enveloppée de brume glacée où dansent des cristaux. La beauté de Shiva est un piège gelé où se précipitent tous ceux qui posent les yeux sur elle, le cœur figé d'émoi tandis qu'ils se transforment en statues de glace. Obtenir l'aide de Shiva est loin d'être aisé, car elle n'accordera son immense pouvoir qu'à ceux qui sauront toucher son âme et réchauffer son cœur."
+        },
+        {
+            "key": "VC_LW_RAMU",
+            "value": "　Un vieux sage auquel la foudre obéit au doigt et à l'œil. Sa barbe est si longue qu'elle descend jusqu'à ses pieds de géant, et sa figure majestueuse foudroie n'importe quel mortel de terreur. L'origine de Ramuh se perd dans l'histoire, bien que son nom légendaire soit connu depuis des générations et que certains le vénèrent comme le roi véritable."
+        },
+        {
+            "key": "VC_FFT_MV1",
+            "value": "　C'est dans la très noble Maison militaire Béoulve, au service de la famille royale Atkascha depuis des générations, que Ramza voit le jour. Ses membres dirigent traditionnellement l'Ordre du Septentrion, la plus grande force armée d'Ivalice. C'est Zalbaag, le grand frère de Ramza, qui en est aujourd'hui à la tête, succédant à l'aîné des garçons, Dycedarg, et à leur père Barbaneth avant eux. Le jeune Ramza, quant à lui, a choisi de prendre ses distances avec l'Ordre pour se dédier à la vie de mercenaire. Mais ce n'est pas ainsi que l'entendait le destin quand il l'a fait découvrir l'enlèvement de la princesse. L'incident mettra le feu aux poudres, nourrissant la rivalité entre le Duc Larg de Galionne dont la bannière est ornée d'un lion blanc, et le Duc Goltanna de Zeltennia, dont la bannière est ornée d'un lion noir. Ramza se retrouve bien vite embarqué dans la lutte de pouvoir entre les deux Maisons, querelle qui sera surnommée plus tard la Guerre des Lions."
+        },
+        {
+            "key": "VC_LW_ODIN",
+            "value": "　Un colosse monté sur un cheval à six jambes est déjà un spectacle épique, mais la puissante stature d'Odin est une vision à nulle autre comparable. Il est dépeint sous bien des formes dans les légendes qui courent depuis les temps anciens : guerrier, mage, et même roi.<br>Un seul coup de son épée pourrait fendre n'importe quoi, même l'espace et le temps eux-mêmes. Si par malheur vous deviez goûter l'acier de sa lame, elle vous entraînerait dans une faille dimensionnelle d'où nul ne s'est jamais échappé."
+        },
+        {
+            "key": "VC_LW_TSLP",
+            "value": "　Quatre sœurs féériques apportées par le vent. Elles portent sur leurs têtes déjà dotées d'ailes magnifiques et d'un plumage sans pareil un diadème d'or étincelant. Les humains se laissent facilement séduire par la beauté de leurs plumes. Prudence, cependant, car les approcher à la légère a tendance à les rendre folles de rage et il est généralement recommandé de ne pas essayer. Les vents provoqués par le battement de leurs ailes peuvent s'associer pour former des tornades impressionnantes. Ensemble, elles sont plus puissantes que toutes les autres fées."
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "　Sous l'armure en fer qui renforce encore son attaque et sa défense, ce monstre gigantesque est également recouvert d'une peau semblable à du métal, qu'aucune lame ne peut transpercer. Il est sage d'en déduire que ses capacités défensives sont beaucoup plus développées qu'il n'y paraît. Ses attaques sont rapides et précises malgré l'énorme poids de son armure. On dit que c'est la magie, voire une malédiction, qui permet au Géant de fer de se mouvoir en combat."
         },
@@ -57,20 +77,8 @@
             "value": "　Un monstre ignoble aux allures de plante vivante affublé d'inombrables tiges tentaculaires, dont les organes sensoriels ressemblent à autant d'yeux et dont la bouche est tapissée de rangées d'épines comme des crocs. Bien que le simple fait de le voir onduler suffise à glacer quiconque d'effroi, l'horreur véritable réside dans son haleine abominable. Ceux qui la respirent seront frappés de poison, perdront la vue ainsi que la capacité à différencier amis et ennemis, jusqu'à être engloutis dans la gueule putride du monstre. "
         },
         {
-            "key": "VC_LW_SHIV",
-            "value": "　Une femme magnifique enveloppée de brume glacée où dansent des cristaux. La beauté de Shiva est un piège gelé où se précipitent tous ceux qui posent les yeux sur elle, le cœur figé d'émoi tandis qu'ils se transforment en statues de glace. Obtenir l'aide de Shiva est loin d'être aisé, car elle n'accordera son immense pouvoir qu'à ceux qui sauront toucher son âme et réchauffer son cœur."
-        },
-        {
-            "key": "VC_LW_RAMU",
-            "value": "　Un vieux sage auquel la foudre obéit au doigt et à l'œil. Sa barbe est si longue qu'elle descend jusqu'à ses pieds de géant, et sa figure majestueuse foudroie n'importe quel mortel de terreur. L'origine de Ramuh se perd dans l'histoire, bien que son nom légendaire soit connu depuis des générations et que certains le vénèrent comme le roi véritable."
-        },
-        {
             "key": "VC_LW_VALE2",
             "value": "« Je me demande si le prince Sterne aimera mes chocolats... »<br>« Tout va bien, Éthéa ? Tu ne bouges plus depuis 5 minutes. Nasha a bientôt fini, et moi aussi. »<br>« Hein ? Tu as déjà fini ? Yelma... qu'est-ce que... c'est que ça ? »<br>« Du chocolat, ça me paraît évident. »<br>« Évident ? Moui... ça sent fort en tout cas. Tu ne t'es pas trompée dans la recette, quand même ? »<br>« Plus c'est fort, mieux c'est ! Ce ne sont pas de simples chocolats, c'est un bouillon d'ingrédients délicieux. Quand le prince Sterne les goûtera il sera sûrement... Hu hu hu ! »<br>« Il va perdre connaissance, oui ! Nasha, aide-moi à l'empêcher de lui faire manger ça ! »<br>« Oh, Prince Sterne, non, ne mourrez pas ! Mon cœur ne s'en remettra jamais ! »<br>« Bon allez, la pause est finie ! »"
-        },
-        {
-            "key": "VC_FFT_MV1",
-            "value": "　C'est dans la très noble Maison militaire Béoulve, au service de la famille royale Atkascha depuis des générations, que Ramza voit le jour. Ses membres dirigent traditionnellement l'Ordre du Septentrion, la plus grande force armée d'Ivalice. C'est Zalbaag, le grand frère de Ramza, qui en est aujourd'hui à la tête, succédant à l'aîné des garçons, Dycedarg, et à leur père Barbaneth avant eux. Le jeune Ramza, quant à lui, a choisi de prendre ses distances avec l'Ordre pour se dédier à la vie de mercenaire. Mais ce n'est pas ainsi que l'entendait le destin quand il l'a fait découvrir l'enlèvement de la princesse. L'incident mettra le feu aux poudres, nourrissant la rivalité entre le Duc Larg de Galionne dont la bannière est ornée d'un lion blanc, et le Duc Goltanna de Zeltennia, dont la bannière est ornée d'un lion noir. Ramza se retrouve bien vite embarqué dans la lutte de pouvoir entre les deux Maisons, querelle qui sera surnommée plus tard la Guerre des Lions."
         },
         {
             "key": "VC_LW_FAMILY",
@@ -113,6 +121,14 @@
             "value": "　La garde d'élite rapprochée de Sadali Crysthea. Ses membres le suivent comme son ombre et le protègent de toute menace émergente. Ne vous fiez pas à leur apparence de frêles jeunes femmes, elles sont tout à fait capables de repousser un assaut ennemi lorsqu'elles passent en défense. En attaque, elles ont la puissance d'une armée entière. C'est sur elles que Sadali fonde avant tout la puissance de l'Église, à l'égal des autres grandes nations.<br>Elles réservent leur parole pour le seul Sadali, aussi restent-elles une énigme, même pour les autres membres de l'Église du Cristal. Elles semblent en revanche partager un air de famille, derrière leur masque. Certaines rumeurs affirment qu'elles sont même sœurs.  "
         },
         {
+            "key": "VC_LW_LILS",
+            "value": "　Pendant environ deux ans, Lilyth s'absenta de Leonis. Cet exil fut provoqué par la mort tragique de son frère Volke pendant la guerre contre Fennes. Serrant son corps ravagé dans ses bras, elle jura de le venger. Ce qu'elle fit pendant ces deux années est un mystère, tant elle est avare de détails, même pour Mont. Bretteuse d'exception ou pas, s'attaquer seule au roi d'une nation toute entière ne peut que s'apparenter à de la folie. On raconte qu'elle pourchassa Muraga sans relâche, taillant son chemin à travers des armées sous la neige comme sous le soleil de plomb, à la recherche de la moindre occasion de se venger. La plupart des cicatrices qui marquent son corps aujourd'hui viennent de cette époque. Bien qu'elle finit par rentrer sans avoir assouvi sa soif de vengeance, elle est toujours à l'affût d'un moyen d'y parvenir."
+        },
+        {
+            "key": "VC_LW_OCHU",
+            "value": "　Un titan végétal aussi grand qu'une colline. Sa bouche énorme, surmontée de ce qui ressemble à des moustaches de poisson-chat, s'ouvre sur des rangées de crocs acérés. C'est un monstre redouté pour sa capacité à infliger aux humains toutes sortes d'altérations morbides, de l'empoisonnement à la paralysie. Il a aussi la particularité de s'ébrouer quand il s'énerve, comme s'il se mettait à danser. On le rencontre parfois accompagné de ses petits microtyugh."
+        },
+        {
             "key": "VC_LW_CACT",
             "value": "　Une monstre de la faune désertique qui partage une troublante ressemblance - et peut-être sa fabuleuse capacité à stocker de l'eau - avec le cactus. De forme oblongue et recouvert d'épines, il se confond si bien avec la véritable plante qu'il est presque impossible de l'en différencier quand il se tient immobile. Il est même fait mention de rares spécimens arborant des fleurs très convaincantes. Nombre de voyageurs en sont restés stupéfaits. Il possède des cavités oculaires et buccale caractéristiques, ainsi que des bras et des jambes qui devraient lui permettre de marcher comme un humain... bien qu'un tel phénomène n'ait encore jamais été observé. L'étude du Pampa est entravée par sa fâcheuse manie à s'immobiliser quand on le regarde et à disparaître dès qu'on le perd de vue. "
         },
@@ -127,10 +143,6 @@
         {
             "key": "VC_LW_OGRE",
             "value": "　Un monstre géant particulièrement cruel. Il semble être friand des humains qui le craignent et le détestent en retour. Sa force est proportionnelle à sa taille - égale à celle de plusieurs hommes - et à sa large carrure. Il représente une sérieuse menace pour tous les habitants d'Ardra."
-        },
-        {
-            "key": "VC_LW_ODIN",
-            "value": "　Un colosse monté sur un cheval à six jambes est déjà un spectacle épique, mais la puissante stature d'Odin est une vision à nulle autre comparable. Il est dépeint sous bien des formes dans les légendes qui courent depuis les temps anciens : guerrier, mage, et même roi.<br>Un seul coup de son épée pourrait fendre n'importe quoi, même l'espace et le temps eux-mêmes. Si par malheur vous deviez goûter l'acier de sa lame, elle vous entraînerait dans une faille dimensionnelle d'où nul ne s'est jamais échappé."
         },
         {
             "key": "VC_LW_BOMB",
@@ -211,14 +223,6 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "　Une Relique séculaire rappelant un miroir, au travers duquel il est possible d'observer des contrées lointaines. Il est orné d'une figure ailée au bras de laquelle est posé une oiseau de proie. "
-        },
-        {
-            "key": "VC_LW_TSLP",
-            "value": "　Quatre sœurs féériques apportées par le vent. Elles portent sur leurs têtes déjà dotées d'ailes magnifiques et d'un plumage sans pareil un diadème d'or étincelant. Les humains se laissent facilement séduire par la beauté de leurs plumes. Prudence, cependant, car les approcher à la légère a tendance à les rendre folles de rage et il est généralement recommandé de ne pas essayer. Les vents provoqués par le battement de leurs ailes peuvent s'associer pour former des tornades impressionnantes. Ensemble, elles sont plus puissantes que toutes les autres fées."
-        },
-        {
-            "key": "VC_LW_LILS",
-            "value": "　Pendant environ deux ans, Lilyth s'absenta de Leonis. Cet exil fut provoqué par la mort tragique de son frère Volke pendant la guerre contre Fennes. Serrant son corps ravagé dans ses bras, elle jura de le venger. Ce qu'elle fit pendant ces deux années est un mystère, tant elle est avare de détails, même pour Mont. Bretteuse d'exception ou pas, s'attaquer seule au roi d'une nation toute entière ne peut que s'apparenter à de la folie. On raconte qu'elle pourchassa Muraga sans relâche, taillant son chemin à travers des armées sous la neige comme sous le soleil de plomb, à la recherche de la moindre occasion de se venger. La plupart des cicatrices qui marquent son corps aujourd'hui viennent de cette époque. Bien qu'elle finit par rentrer sans avoir assouvi sa soif de vengeance, elle est toujours à l'affût d'un moyen d'y parvenir."
         },
         {
             "key": "VC_EXP_01",

@@ -157,6 +157,18 @@
             "value": "Tienda normal"
         },
         {
+            "key": "Normal-20200214_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200214_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200214_C",
+            "value": "Tienda normal"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Tienda de guerrilla"
         },
@@ -301,8 +313,32 @@
             "value": "Tienda de guerrilla"
         },
         {
+            "key": "Guerrilla-20200214A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200214B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200214C",
+            "value": "Tienda de guerrilla"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "Tienda de colaboración de FFT"
+        },
+        {
+            "key": "Limited-gl20200617",
+            "value": "Tienda especial de comienzo del verano"
+        },
+        {
+            "key": "Limited-gl20200617_A",
+            "value": "Tienda de nueva unidad y carta de visión destacada"
+        },
+        {
+            "key": "Limited-gl20200617_B",
+            "value": "Tienda de unidad destacada"
         },
         {
             "key": "Limited-gl20200610",
@@ -318,7 +354,7 @@
         },
         {
             "key": "Limited-gl20200603",
-            "value": "Tienda de nuevas unidades y cartas de visión destacadas"
+            "value": "Tienda de nueva unidad y carta de visión destacada"
         },
         {
             "key": "Limited-gl20200603_A",
@@ -334,7 +370,7 @@
         },
         {
             "key": "Limited-gl20200520",
-            "value": "Tienda de nuevas unidades y cartas de visión destacadas"
+            "value": "Tienda de nueva unidad y carta de visión destacada"
         },
         {
             "key": "Limited-gl20200520_A",
@@ -423,6 +459,10 @@
         {
             "key": "Event-EV02_1_20200201",
             "value": "Medalla de evento de junio"
+        },
+        {
+            "key": "Event-Summon_GL20200617_B",
+            "value": "Tienda de intercambio de medallas de invocación"
         },
         {
             "key": "Event-Summon_GL20200603_A",
@@ -1014,6 +1054,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_11",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_2_19",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_2_20",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_21",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_22",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_23",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_2_23",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_2_17",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_18",
             "value": "Tienda de fuego"
         }
     ]

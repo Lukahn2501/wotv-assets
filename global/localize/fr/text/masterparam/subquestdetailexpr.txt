@@ -87,6 +87,14 @@
         {
             "key": "SQ_WD_010201_02",
             "value": "Terminez 1 fois la Chambre de l'Œuf de croissance (Avancé)"
+        },
+        {
+            "key": "SQ_WD_010202_01",
+            "value": "Atteignez le niv. 30 avec un équipement"
+        },
+        {
+            "key": "SQ_WD_010202_02",
+            "value": "Sélectionnez 1 fois une aptitude par le biais du Choix des aptitudes"
         }
     ]
 }

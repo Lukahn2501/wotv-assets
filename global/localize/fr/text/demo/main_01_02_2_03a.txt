@@ -70,7 +70,7 @@
         },
         {
             "key": "018",
-            "value": "La seconde division ennemie est en train d'avancer !"
+            "value": "La seconde division ennemie est en train d'avancer !"
         },
         {
             "key": "019",

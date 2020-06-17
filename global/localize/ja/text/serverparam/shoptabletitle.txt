@@ -157,6 +157,18 @@
             "value": "通常ショップ"
         },
         {
+            "key": "Normal-20200214_A",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200214_B",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200214_C",
+            "value": "通常ショップ"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "ゲリラショップ"
         },
@@ -301,8 +313,32 @@
             "value": "ゲリラショップ"
         },
         {
+            "key": "Guerrilla-20200214A",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200214B",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200214C",
+            "value": "ゲリラショップ"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "FFTコラボ記念ショップ"
+        },
+        {
+            "key": "Limited-gl20200617",
+            "value": "アーリーサマー記念特別ショップ"
+        },
+        {
+            "key": "Limited-gl20200617_A",
+            "value": "新ユニット&ビジョンカードピックアップショップ"
+        },
+        {
+            "key": "Limited-gl20200617_B",
+            "value": "ピックアップユニットショップ"
         },
         {
             "key": "Limited-gl20200610",
@@ -423,6 +459,10 @@
         {
             "key": "Event-EV02_1_20200201",
             "value": "【6月】イベントメダル交換所"
+        },
+        {
+            "key": "Event-Summon_GL20200617_B",
+            "value": "召喚メダル交換所"
         },
         {
             "key": "Event-Summon_GL20200603_A",
@@ -1014,6 +1054,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_11",
+            "value": "日替わり火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_2_19",
+            "value": "日替わり水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_2_20",
+            "value": "日替わり風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_21",
+            "value": "日替わり雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_22",
+            "value": "日替わり土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_23",
+            "value": "日替わり光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_2_23",
+            "value": "日替わり闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_2_17",
+            "value": "日替わり氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_18",
             "value": "日替わり火属性ショップ"
         }
     ]

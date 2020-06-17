@@ -14,7 +14,7 @@
         },
         {
             "key": "TALK_005",
-            "value": "Essayons de vous assigner en tant que personnage de soutien maîtrisant l'élément terre, Sire Mont."
+            "value": "Sire Mont, essayons de vous assigner en tant que personnage de soutien maîtrisant l'élément terre."
         },
         {
             "key": "TALK_006",

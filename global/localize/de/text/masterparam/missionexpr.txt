@@ -886,11 +886,11 @@
         },
         {
             "key": "M_EV_IGNT_01",
-            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Eisengiganten“ einmal ab"
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Eisengiganten“ ab"
         },
         {
             "key": "M_EV_IGNT_02",
-            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Eisengiganten“ einmal ab"
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Eisengiganten“ ab"
         },
         {
             "key": "M_EV_IGNT_03",
@@ -906,7 +906,7 @@
         },
         {
             "key": "M_EV_IGNT_06",
-            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Eisengiganten“ einmal ab"
+            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Eisengiganten“ ab"
         },
         {
             "key": "M_EV_IGNT_07",
@@ -918,7 +918,7 @@
         },
         {
             "key": "M_EV_IGNT_09",
-            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Eisengiganten“ einmal ab"
+            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Eisengiganten“ ab"
         },
         {
             "key": "M_EV_IGNT_10",
@@ -1070,7 +1070,7 @@
         },
         {
             "key": "M_EV02_1_01",
-            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 1“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 1“ ab"
         },
         {
             "key": "M_EV02_1_02",
@@ -1082,7 +1082,7 @@
         },
         {
             "key": "M_EV02_1_04",
-            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 2“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 2“ ab"
         },
         {
             "key": "M_EV02_1_05",
@@ -1094,7 +1094,7 @@
         },
         {
             "key": "M_EV02_1_07",
-            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 3“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 3“ ab"
         },
         {
             "key": "M_EV02_1_08",
@@ -1106,7 +1106,7 @@
         },
         {
             "key": "M_EV02_1_10",
-            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 4“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 4“ ab"
         },
         {
             "key": "M_EV02_1_11",
@@ -1118,7 +1118,7 @@
         },
         {
             "key": "M_EV02_1_13",
-            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 5“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 5“ ab"
         },
         {
             "key": "M_EV02_1_14",
@@ -1130,7 +1130,7 @@
         },
         {
             "key": "M_EV02_1_16",
-            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 6“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 6“ ab"
         },
         {
             "key": "M_EV02_1_17",
@@ -1142,7 +1142,7 @@
         },
         {
             "key": "M_EV02_1_19",
-            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 7“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 7“ ab"
         },
         {
             "key": "M_EV02_1_20",
@@ -1154,7 +1154,7 @@
         },
         {
             "key": "M_EV02_1_22",
-            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 8“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 8“ ab"
         },
         {
             "key": "M_EV02_1_23",
@@ -1166,7 +1166,7 @@
         },
         {
             "key": "M_EV02_1_25",
-            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 9“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 9“ ab"
         },
         {
             "key": "M_EV02_1_26",
@@ -1178,7 +1178,7 @@
         },
         {
             "key": "M_EV02_1_28",
-            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 10“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen, Episode 10“ ab"
         },
         {
             "key": "M_EV02_1_29",
@@ -1194,7 +1194,7 @@
         },
         {
             "key": "M_EV02_1_32",
-            "value": "Schließe „Rundall, Bedrohung im Westen [EX]“ einmal ab"
+            "value": "Schließe „Rundall, Bedrohung im Westen [EX]“ ab"
         },
         {
             "key": "M_EV02_1_33",
@@ -1210,7 +1210,7 @@
         },
         {
             "key": "M_EV02_1_36",
-            "value": "[Multi] Schließe „Rundall, Bedrohung im Westen [EX]“ einmal ab"
+            "value": "[Multi] Schließe „Rundall, Bedrohung im Westen [EX]“ ab"
         },
         {
             "key": "M_EV02_1_37",
@@ -1335,6 +1335,118 @@
         {
             "key": "M_MU_ET01_EX2_03",
             "value": "Schließe „Hoher Schwierigkeitsgrad: Trainingsauftrag ‚Etre‘ [EX] II“ fünfmal ab"
+        },
+        {
+            "key": "M_THLA01_1_01",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ I“ ab"
+        },
+        {
+            "key": "M_THLA01_1_02",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ I“ zweimal ab"
+        },
+        {
+            "key": "M_THLA01_1_03",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ I“ dreimal ab"
+        },
+        {
+            "key": "M_THLA01_1_04",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ II“ ab"
+        },
+        {
+            "key": "M_THLA01_1_05",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ II“ zweimal ab"
+        },
+        {
+            "key": "M_THLA01_1_06",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ II“ dreimal ab"
+        },
+        {
+            "key": "M_THLA01_1_07",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ III“ ab"
+        },
+        {
+            "key": "M_THLA01_1_08",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ III“ zweimal ab"
+        },
+        {
+            "key": "M_THLA01_1_09",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ III“ dreimal ab"
+        },
+        {
+            "key": "M_THLA01_1_10",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ IV“ ab"
+        },
+        {
+            "key": "M_THLA01_1_11",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ IV“ zweimal ab"
+        },
+        {
+            "key": "M_THLA01_1_12",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ IV“ dreimal ab"
+        },
+        {
+            "key": "M_THLA01_1_13",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ V“ ab"
+        },
+        {
+            "key": "M_THLA01_1_14",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ V“ fünfmal ab"
+        },
+        {
+            "key": "M_THLA01_1_15",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ V“ zehnmal ab"
+        },
+        {
+            "key": "M_THLA01_1_16",
+            "value": "Schließe „Fragment-Belohnungsauftrag ‚Salire‘ V“ 15-mal ab"
+        },
+        {
+            "key": "M_THLA01_EX1_01",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] I“ ab"
+        },
+        {
+            "key": "M_THLA01_EX1_02",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] I“ dreimal ab"
+        },
+        {
+            "key": "M_THLA01_EX1_03",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] I“ fünfmal ab"
+        },
+        {
+            "key": "M_THLA01_EX2_01",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] II“ ab"
+        },
+        {
+            "key": "M_THLA01_EX2_02",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] II“ dreimal ab"
+        },
+        {
+            "key": "M_THLA01_EX2_03",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] II“ fünfmal ab"
+        },
+        {
+            "key": "M_MU_TH01_EX1_01",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] I“ ab"
+        },
+        {
+            "key": "M_MU_TH01_EX1_02",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] I“ dreimal ab"
+        },
+        {
+            "key": "M_MU_TH01_EX1_03",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] I“ fünfmal ab"
+        },
+        {
+            "key": "M_MU_TH01_EX2_01",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] II“ ab"
+        },
+        {
+            "key": "M_MU_TH01_EX2_02",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] II“ dreimal ab"
+        },
+        {
+            "key": "M_MU_TH01_EX2_03",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag ‚Salire‘ [EX] II“ fünfmal ab"
         },
         {
             "key": "M_ART_SCR_01",
@@ -1959,6 +2071,42 @@
         {
             "key": "M_QEST_045",
             "value": "Schließe Kapitel 5, Szene 3 „‚Solidus‘“ ab"
+        },
+        {
+            "key": "M_QEST_046",
+            "value": "Schließe Kapitel 6, Szene 1 „Vor der Höhle I“ ab"
+        },
+        {
+            "key": "M_QEST_047",
+            "value": "Schließe Kapitel 6, Szene 1 „Für die, die ich liebe II“ ab"
+        },
+        {
+            "key": "M_QEST_048",
+            "value": "Schließe Kapitel 6, Szene 1 „Lass dein Schwert sprechen“ ab"
+        },
+        {
+            "key": "M_QEST_049",
+            "value": "Schließe Kapitel 6, Szene 2 „Hungrige Wölfe“ ab"
+        },
+        {
+            "key": "M_QEST_050",
+            "value": "Schließe Kapitel 6, Szene 2 „Rundalls Köter“ ab"
+        },
+        {
+            "key": "M_QEST_051",
+            "value": "Schließe Kapitel 6, Szene 2 „Um den Thron zu erlangen II“ ab"
+        },
+        {
+            "key": "M_QEST_052",
+            "value": "Schließe Kapitel 6, Szene 3 „Mögen die Kristalle uns leiten“ ab"
+        },
+        {
+            "key": "M_QEST_053",
+            "value": "Schließe Kapitel 6, Szene 3 „‚Solidus‘, Marsch!“ ab"
+        },
+        {
+            "key": "M_QEST_054",
+            "value": "Schließe Kapitel 6, Szene 3 „Rastlose Sterne“ ab"
         },
         {
             "key": "M_GL_RANK_001",
@@ -3734,6 +3882,30 @@
         },
         {
             "key": "M_LAPS_P_LUCA_06",
+            "value": "Verbrauche 50.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_01",
+            "value": "Verbrauche 500 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_02",
+            "value": "Verbrauche 3.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_03",
+            "value": "Verbrauche 6.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_04",
+            "value": "Verbrauche 12.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_05",
+            "value": "Verbrauche 24.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_06",
             "value": "Verbrauche 50.000 Visiore"
         },
         {

@@ -189,6 +189,14 @@
             "value": "[Dorand] de nv. 1 o superior"
         },
         {
+            "key": "COND_HA_LW_VKTR",
+            "value": "[Victra] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_THLA",
+            "value": "[Saria] de nv. 1 o superior"
+        },
+        {
             "key": "COND_HA_LW_LUCA",
             "value": "[Lu'Cía] de nv. 1 o superior"
         },
@@ -423,6 +431,14 @@
         {
             "key": "COND_CH_LW_ADLD",
             "value": "[Adelardo] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_THLA",
+            "value": "[Saria] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_VKTR",
+            "value": "[Victra] de nv. 40 o superior"
         }
     ]
 }

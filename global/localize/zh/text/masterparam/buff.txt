@@ -358,7 +358,7 @@
         },
         {
             "key": "BUFF_OtherCrtRate",
-            "value": "暴擊"
+            "value": "暴擊傷害"
         },
         {
             "key": "BUFF_OtherCrtHit",

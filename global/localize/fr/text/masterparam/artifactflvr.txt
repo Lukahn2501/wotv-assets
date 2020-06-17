@@ -1933,6 +1933,18 @@
             "value": "Le pistolet adoré de Lu'Cia, rendu hautement létal par la technologie de pointe de Rundall dont il est équipé. On le qualifie souvent de « crève-cœur », tant il perce avec précision l'organe vital de ses victimes, quelles qu'elles soient."
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "Armure solide et légère volée à la barbe d'un dragonnier Heindler. Modifiée pour correspondre à un usage personnel, elle est équipée d'un système de freinage si abouti qu'il donne parfois l'illusion que Viktora est suspendue dans les airs."
+        },
+        {
+            "key": "AF_SPE_LW_VKTR_2",
+            "value": "Une lance qui atterrit entre les mains de Viktora à une époque où elle ne possédait rien. Bien qu'originairement de peu de valeur, elle bénéficia d'améliorations au fil du temps et fut décorée avec beaucoup de goût. Elle est aujourd'hui non seulement une arme solide et résistante mais aussi d'une beauté fascinante. Nul ne se souvient de son ancienne apparence si ce n'est Viktora."
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "Un ruban purement ornemental noué autour la cuisse de Saliah. Il regorge d'une magie qui lui permet de ne pas se défaire quelle que soit l'intensité des mouvements de la jeune fille. Saliah prétend que ses jambes ne sont pas nues puisqu'elle porte ce ruban, mais elle ne réussit à convaincre personne pour l'instant."
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
         },

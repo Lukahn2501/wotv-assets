@@ -35,6 +35,10 @@
         {
             "key": "9",
             "value": "¡Invocación destacada<br>disponible!"
+        },
+        {
+            "key": "10",
+            "value": "¡Nuevas unidades<br>y espers!"
         }
     ]
 }

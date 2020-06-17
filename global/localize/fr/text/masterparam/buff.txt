@@ -358,7 +358,7 @@
         },
         {
             "key": "BUFF_OtherCrtRate",
-            "value": "Critique"
+            "value": "Dégâts critiques"
         },
         {
             "key": "BUFF_OtherCrtHit",

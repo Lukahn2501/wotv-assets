@@ -150,7 +150,7 @@
         },
         {
             "key": "CM_PRO_38",
-            "value": "Complétez 5 quêtes d'événement"
+            "value": "Terminez 5 quêtes d'événement"
         },
         {
             "key": "CM_PRO_39",
@@ -478,7 +478,7 @@
         },
         {
             "key": "M_DAILY_001_07",
-            "value": "Lancez des invocations normales"
+            "value": "Lancez une invocation normale"
         },
         {
             "key": "M_DAILY_001_08",
@@ -554,7 +554,7 @@
         },
         {
             "key": "M_MONDAY_0005",
-            "value": "Complétez 10 quêtes d'événement"
+            "value": "Terminez 10 quêtes d'événement"
         },
         {
             "key": "M_MONDAY_0006",
@@ -886,11 +886,11 @@
         },
         {
             "key": "M_EV_IGNT_01",
-            "value": "Relevez le défi du Géant de fer [Très difficile] 1 fois"
+            "value": "Relevez le défi du Géant de fer [Très difficile]"
         },
         {
             "key": "M_EV_IGNT_02",
-            "value": "Relevez le défi du Géant de fer [Très difficile] 1 fois"
+            "value": "Relevez le défi du Géant de fer [Très difficile]"
         },
         {
             "key": "M_EV_IGNT_03",
@@ -906,7 +906,7 @@
         },
         {
             "key": "M_EV_IGNT_06",
-            "value": "Relevez le défi du Géant de fer [Super difficile] 1 fois"
+            "value": "Relevez le défi du Géant de fer [Super difficile]"
         },
         {
             "key": "M_EV_IGNT_07",
@@ -918,7 +918,7 @@
         },
         {
             "key": "M_EV_IGNT_09",
-            "value": "[Multi] Relevez le défi du Géant de fer [Super difficile] 1 fois"
+            "value": "[Multi] Relevez le défi du Géant de fer [Super difficile]"
         },
         {
             "key": "M_EV_IGNT_10",
@@ -1070,7 +1070,7 @@
         },
         {
             "key": "M_EV02_1_01",
-            "value": "Terminez [Rundall, menace à l'ouest], épisode 1, 1 fois"
+            "value": "Terminez [Rundall, menace à l'ouest], épisode 1"
         },
         {
             "key": "M_EV02_1_02",
@@ -1082,7 +1082,7 @@
         },
         {
             "key": "M_EV02_1_04",
-            "value": "Terminez [Rundall, menace à l'ouest], épisode 2, 1 fois"
+            "value": "Terminez [Rundall, menace à l'ouest], épisode 2"
         },
         {
             "key": "M_EV02_1_05",
@@ -1094,7 +1094,7 @@
         },
         {
             "key": "M_EV02_1_07",
-            "value": "Terminez [Rundall, menace à l'ouest], épisode 3, 1 fois"
+            "value": "Terminez [Rundall, menace à l'ouest], épisode 3"
         },
         {
             "key": "M_EV02_1_08",
@@ -1106,7 +1106,7 @@
         },
         {
             "key": "M_EV02_1_10",
-            "value": "Terminez [Rundall, menace à l'ouest], épisode 4, 1 fois"
+            "value": "Terminez [Rundall, menace à l'ouest], épisode 4"
         },
         {
             "key": "M_EV02_1_11",
@@ -1118,7 +1118,7 @@
         },
         {
             "key": "M_EV02_1_13",
-            "value": "Terminez [Rundall, menace à l'ouest], épisode 5, 1 fois"
+            "value": "Terminez [Rundall, menace à l'ouest], épisode 5"
         },
         {
             "key": "M_EV02_1_14",
@@ -1130,7 +1130,7 @@
         },
         {
             "key": "M_EV02_1_16",
-            "value": "Terminez [Rundall, menace à l'ouest], épisode 6, 1 fois"
+            "value": "Terminez [Rundall, menace à l'ouest], épisode 6"
         },
         {
             "key": "M_EV02_1_17",
@@ -1142,7 +1142,7 @@
         },
         {
             "key": "M_EV02_1_19",
-            "value": "Terminez [Rundall, menace à l'ouest], épisode 7, 1 fois"
+            "value": "Terminez [Rundall, menace à l'ouest], épisode 7"
         },
         {
             "key": "M_EV02_1_20",
@@ -1154,7 +1154,7 @@
         },
         {
             "key": "M_EV02_1_22",
-            "value": "Terminez [Rundall, menace à l'ouest], épisode 8, 1 fois"
+            "value": "Terminez [Rundall, menace à l'ouest], épisode 8"
         },
         {
             "key": "M_EV02_1_23",
@@ -1166,7 +1166,7 @@
         },
         {
             "key": "M_EV02_1_25",
-            "value": "Terminez [Rundall, menace à l'ouest], épisode 9, 1 fois"
+            "value": "Terminez [Rundall, menace à l'ouest], épisode 9"
         },
         {
             "key": "M_EV02_1_26",
@@ -1178,7 +1178,7 @@
         },
         {
             "key": "M_EV02_1_28",
-            "value": "Terminez [Rundall, menace à l'ouest], épisode 10, 1 fois"
+            "value": "Terminez [Rundall, menace à l'ouest], épisode 10"
         },
         {
             "key": "M_EV02_1_29",
@@ -1194,7 +1194,7 @@
         },
         {
             "key": "M_EV02_1_32",
-            "value": "Terminez « Rundall, menace à l'ouest » [EX] 1 fois"
+            "value": "Terminez « Rundall, menace à l'ouest » [EX]"
         },
         {
             "key": "M_EV02_1_33",
@@ -1210,7 +1210,7 @@
         },
         {
             "key": "M_EV02_1_36",
-            "value": "[Multi] Terminez « Rundall, menace à l'ouest » [EX] 1 fois"
+            "value": "[Multi] Terminez « Rundall, menace à l'ouest » [EX]"
         },
         {
             "key": "M_EV02_1_37",
@@ -1335,6 +1335,118 @@
         {
             "key": "M_MU_ET01_EX2_03",
             "value": "[Multi] Terminez la Quête d'entraînement EX d'Éthéa II [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_THLA01_1_01",
+            "value": "Terminez la quête I des fragments d'unité de Saliah"
+        },
+        {
+            "key": "M_THLA01_1_02",
+            "value": "Terminez la quête I des fragments d'unité de Saliah 2 fois"
+        },
+        {
+            "key": "M_THLA01_1_03",
+            "value": "Terminez la quête I des fragments d'unité de Saliah 3 fois"
+        },
+        {
+            "key": "M_THLA01_1_04",
+            "value": "Terminez la quête II des fragments d'unité de Saliah"
+        },
+        {
+            "key": "M_THLA01_1_05",
+            "value": "Terminez la quête II des fragments d'unité de Saliah 2 fois"
+        },
+        {
+            "key": "M_THLA01_1_06",
+            "value": "Terminez la quête II des fragments d'unité de Saliah 3 fois"
+        },
+        {
+            "key": "M_THLA01_1_07",
+            "value": "Terminez la quête III des fragments d'unité de Saliah"
+        },
+        {
+            "key": "M_THLA01_1_08",
+            "value": "Terminez la quête III des fragments d'unité de Saliah 2 fois"
+        },
+        {
+            "key": "M_THLA01_1_09",
+            "value": "Terminez la quête III des fragments d'unité de Saliah 3 fois"
+        },
+        {
+            "key": "M_THLA01_1_10",
+            "value": "Terminez la quête IV des fragments d'unité de Saliah"
+        },
+        {
+            "key": "M_THLA01_1_11",
+            "value": "Terminez la quête IV des fragments d'unité de Saliah 2 fois"
+        },
+        {
+            "key": "M_THLA01_1_12",
+            "value": "Terminez la quête IV des fragments d'unité de Saliah 3 fois"
+        },
+        {
+            "key": "M_THLA01_1_13",
+            "value": "Terminez la quête V des fragments d'unité de Saliah"
+        },
+        {
+            "key": "M_THLA01_1_14",
+            "value": "Terminez la quête V des fragments d'unité de Saliah 5 fois"
+        },
+        {
+            "key": "M_THLA01_1_15",
+            "value": "Terminez la quête V des fragments d'unité de Saliah 10 fois"
+        },
+        {
+            "key": "M_THLA01_1_16",
+            "value": "Terminez la quête V des fragments d'unité de Saliah 15 fois"
+        },
+        {
+            "key": "M_THLA01_EX1_01",
+            "value": "Terminez la quête EX I des fragments d'unité de Saliah [Très difficile]"
+        },
+        {
+            "key": "M_THLA01_EX1_02",
+            "value": "Terminez la quête EX I des fragments d'unité de Saliah [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_THLA01_EX1_03",
+            "value": "Terminez la quête EX I des fragments d'unité de Saliah [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_THLA01_EX2_01",
+            "value": "Terminez la quête EX II des fragments d'unité de Saliah [Très difficile]"
+        },
+        {
+            "key": "M_THLA01_EX2_02",
+            "value": "Terminez la quête EX II des fragments d'unité de Saliah [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_THLA01_EX2_03",
+            "value": "Terminez la quête EX II des fragments d'unité de Saliah [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_MU_TH01_EX1_01",
+            "value": "[Multi] Terminez la quête EX I des fragments d'unité de Saliah [Très difficile]"
+        },
+        {
+            "key": "M_MU_TH01_EX1_02",
+            "value": "[Multi] Terminez la quête EX I des fragments d'unité de Saliah [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_MU_TH01_EX1_03",
+            "value": "[Multi] Terminez la quête EX I des fragments d'unité de Saliah [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_MU_TH01_EX2_01",
+            "value": "[Multi] Terminez la quête EX II des fragments d'unité de Saliah [Très difficile]"
+        },
+        {
+            "key": "M_MU_TH01_EX2_02",
+            "value": "[Multi] Terminez la quête EX II des fragments d'unité de Saliah [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_MU_TH01_EX2_03",
+            "value": "[Multi] Terminez la quête EX II des fragments d'unité de Saliah [Très difficile] 5 fois"
         },
         {
             "key": "M_ART_SCR_01",
@@ -1602,183 +1714,183 @@
         },
         {
             "key": "MG_PR_003_002",
-            "value": "Réussissez 5 Éveils d'unité"
+            "value": "Réussissez 5 éveils d'unité"
         },
         {
             "key": "MG_PR_003_003",
-            "value": "Réussissez 10 Éveils d'unité"
+            "value": "Réussissez 10 éveils d'unité"
         },
         {
             "key": "MG_PR_003_004",
-            "value": "Réussissez 15 Éveils d'unité"
+            "value": "Réussissez 15 éveils d'unité"
         },
         {
             "key": "MG_PR_003_005",
-            "value": "Réussissez 20 Éveils d'unité"
+            "value": "Réussissez 20 éveils d'unité"
         },
         {
             "key": "MG_PR_003_006",
-            "value": "Réussissez 30 Éveils d'unité"
+            "value": "Réussissez 30 éveils d'unité"
         },
         {
             "key": "MG_PR_003_007",
-            "value": "Réussissez 40 Éveils d'unité"
+            "value": "Réussissez 40 éveils d'unité"
         },
         {
             "key": "MG_PR_003_008",
-            "value": "Réussissez 50 Éveils d'unité"
+            "value": "Réussissez 50 éveils d'unité"
         },
         {
             "key": "MG_PR_003_009",
-            "value": "Réussissez 60 Éveils d'unité"
+            "value": "Réussissez 60 éveils d'unité"
         },
         {
             "key": "MG_PR_003_010",
-            "value": "Réussissez 70 Éveils d'unité"
+            "value": "Réussissez 70 éveils d'unité"
         },
         {
             "key": "MG_PR_003_011",
-            "value": "Réussissez 80 Éveils d'unité"
+            "value": "Réussissez 80 éveils d'unité"
         },
         {
             "key": "MG_PR_003_012",
-            "value": "Réussissez 90 Éveils d'unité"
+            "value": "Réussissez 90 éveils d'unité"
         },
         {
             "key": "MG_PR_003_013",
-            "value": "Réussissez 100 Éveils d'unité"
+            "value": "Réussissez 100 éveils d'unité"
         },
         {
             "key": "MG_PR_003_014",
-            "value": "Réussissez 120 Éveils d'unité"
+            "value": "Réussissez 120 éveils d'unité"
         },
         {
             "key": "MG_PR_003_015",
-            "value": "Réussissez 140 Éveils d'unité"
+            "value": "Réussissez 140 éveils d'unité"
         },
         {
             "key": "MG_PR_003_016",
-            "value": "Réussissez 160 Éveils d'unité"
+            "value": "Réussissez 160 éveils d'unité"
         },
         {
             "key": "MG_PR_003_017",
-            "value": "Réussissez 180 Éveils d'unité"
+            "value": "Réussissez 180 éveils d'unité"
         },
         {
             "key": "MG_PR_003_018",
-            "value": "Réussissez 200 Éveils d'unité"
+            "value": "Réussissez 200 éveils d'unité"
         },
         {
             "key": "MG_PR_003_019",
-            "value": "Réussissez 220 Éveils d'unité"
+            "value": "Réussissez 220 éveils d'unité"
         },
         {
             "key": "MG_PR_003_020",
-            "value": "Réussissez 240 Éveils d'unité"
+            "value": "Réussissez 240 éveils d'unité"
         },
         {
             "key": "MG_PR_003_021",
-            "value": "Réussissez 260 Éveils d'unité"
+            "value": "Réussissez 260 éveils d'unité"
         },
         {
             "key": "MG_PR_003_022",
-            "value": "Réussissez 280 Éveils d'unité"
+            "value": "Réussissez 280 éveils d'unité"
         },
         {
             "key": "MG_PR_003_023",
-            "value": "Réussissez 300 Éveils d'unité"
+            "value": "Réussissez 300 éveils d'unité"
         },
         {
             "key": "MG_PR_004_001",
-            "value": "Augmentez la limite d'une unité"
+            "value": "Brisez la limite d'une unité"
         },
         {
             "key": "MG_PR_004_002",
-            "value": "Augmentez la limite d'une unité 5 fois"
+            "value": "Brisez 5 limites d'unité"
         },
         {
             "key": "MG_PR_004_003",
-            "value": "Augmentez la limite d'une unité 10 fois"
+            "value": "Brisez 10 limites d'unité"
         },
         {
             "key": "MG_PR_004_004",
-            "value": "Augmentez la limite d'une unité 15 fois"
+            "value": "Brisez 15 limites d'unité"
         },
         {
             "key": "MG_PR_004_005",
-            "value": "Augmentez la limite d'une unité 20 fois"
+            "value": "Brisez 20 limites d'unité"
         },
         {
             "key": "MG_PR_004_006",
-            "value": "Augmentez la limite d'une unité 30 fois"
+            "value": "Brisez 30 limites d'unité"
         },
         {
             "key": "MG_PR_004_007",
-            "value": "Augmentez la limite d'une unité 40 fois"
+            "value": "Brisez 40 limites d'unité"
         },
         {
             "key": "MG_PR_004_008",
-            "value": "Augmentez la limite d'une unité 50 fois"
+            "value": "Brisez 50 limites d'unité"
         },
         {
             "key": "MG_PR_004_009",
-            "value": "Augmentez la limite d'une unité 60 fois"
+            "value": "Brisez 60 limites d'unité"
         },
         {
             "key": "MG_PR_004_010",
-            "value": "Augmentez la limite d'une unité 70 fois"
+            "value": "Brisez 70 limites d'unité"
         },
         {
             "key": "MG_PR_004_011",
-            "value": "Augmentez la limite d'une unité 80 fois"
+            "value": "Brisez 80 limites d'unité"
         },
         {
             "key": "MG_PR_004_012",
-            "value": "Augmentez la limite d'une unité 90 fois"
+            "value": "Brisez 90 limites d'unité"
         },
         {
             "key": "MG_PR_004_013",
-            "value": "Augmentez la limite d'une unité 100 fois"
+            "value": "Brisez 100 limites d'unité"
         },
         {
             "key": "MG_PR_004_014",
-            "value": "Augmentez la limite d'une unité 120 fois"
+            "value": "Brisez 120 limites d'unité"
         },
         {
             "key": "MG_PR_004_015",
-            "value": "Augmentez la limite d'une unité 140 fois"
+            "value": "Brisez 140 limites d'unité"
         },
         {
             "key": "MG_PR_004_016",
-            "value": "Augmentez la limite d'une unité 160 fois"
+            "value": "Brisez 160 limites d'unité"
         },
         {
             "key": "MG_PR_004_017",
-            "value": "Augmentez la limite d'une unité 180 fois"
+            "value": "Brisez 180 limites d'unité"
         },
         {
             "key": "MG_PR_004_018",
-            "value": "Augmentez la limite d'une unité 200 fois"
+            "value": "Brisez 200 limites d'unité"
         },
         {
             "key": "MG_PR_004_019",
-            "value": "Augmentez la limite d'une unité 220 fois"
+            "value": "Brisez 220 limites d'unité"
         },
         {
             "key": "MG_PR_004_020",
-            "value": "Augmentez la limite d'une unité 240 fois"
+            "value": "Brisez 240 limites d'unité"
         },
         {
             "key": "MG_PR_004_021",
-            "value": "Augmentez la limite d'une unité 260 fois"
+            "value": "Brisez 260 limites d'unité"
         },
         {
             "key": "MG_PR_004_022",
-            "value": "Augmentez la limite d'une unité 280 fois"
+            "value": "Brisez 280 limites d'unité"
         },
         {
             "key": "MG_PR_004_023",
-            "value": "Augmentez la limite d'une unité 300 fois"
+            "value": "Brisez 300 limites d'unité"
         },
         {
             "key": "M_QEST_001",
@@ -1959,6 +2071,42 @@
         {
             "key": "M_QEST_045",
             "value": "Terminez le Chapitre 5, Partie 3 [« Solidus »]"
+        },
+        {
+            "key": "M_QEST_046",
+            "value": "Terminez le Chapitre 6, Partie 1 [Avant la grotte I]"
+        },
+        {
+            "key": "M_QEST_047",
+            "value": "Terminez le Chapitre 6, Partie 1 [Je me battrai II]"
+        },
+        {
+            "key": "M_QEST_048",
+            "value": "Terminez le Chapitre 6, Partie 1 [Les paroles d'une lame]"
+        },
+        {
+            "key": "M_QEST_049",
+            "value": "Terminez le Chapitre 6, Partie 2 [Loups affamés]"
+        },
+        {
+            "key": "M_QEST_050",
+            "value": "Terminez le Chapitre 6, Partie 2 [Le chien de Rundall]"
+        },
+        {
+            "key": "M_QEST_051",
+            "value": "Terminez le Chapitre 6, Partie 2 [S'emparer du trône II]"
+        },
+        {
+            "key": "M_QEST_052",
+            "value": "Terminez le Chapitre 6, Partie 3 [Que les Cristaux nous guident]"
+        },
+        {
+            "key": "M_QEST_053",
+            "value": "Terminez le Chapitre 6, Partie 3 [« Solidus », en avant !]"
+        },
+        {
+            "key": "M_QEST_054",
+            "value": "Terminez le Chapitre 6, Partie 3 [Brouhaha d'étoiles]"
         },
         {
             "key": "M_GL_RANK_001",
@@ -2546,83 +2694,83 @@
         },
         {
             "key": "M_MONTHLY_0118",
-            "value": "Améliorez les Statues de guilde 3 fois"
+            "value": "Améliorez les statues de guilde 3 fois"
         },
         {
             "key": "M_MONTHLY_0119",
-            "value": "Améliorez les Statues de guilde 6 fois"
+            "value": "Améliorez les statues de guilde 6 fois"
         },
         {
             "key": "M_MONTHLY_0120",
-            "value": "Améliorez les Statues de guilde 9 fois"
+            "value": "Améliorez les statues de guilde 9 fois"
         },
         {
             "key": "M_MONTHLY_0121",
-            "value": "Améliorez les Statues de guilde 12 fois"
+            "value": "Améliorez les statues de guilde 12 fois"
         },
         {
             "key": "M_MONTHLY_0122",
-            "value": "Améliorez les Statues de guilde 15 fois"
+            "value": "Améliorez les statues de guilde 15 fois"
         },
         {
             "key": "M_MONTHLY_0123",
-            "value": "Améliorez les Statues de guilde 18 fois"
+            "value": "Améliorez les statues de guilde 18 fois"
         },
         {
             "key": "M_MONTHLY_0124",
-            "value": "Améliorez les Statues de guilde 21 fois"
+            "value": "Améliorez les statues de guilde 21 fois"
         },
         {
             "key": "M_MONTHLY_0125",
-            "value": "Améliorez les Statues de guilde 24 fois"
+            "value": "Améliorez les statues de guilde 24 fois"
         },
         {
             "key": "M_MONTHLY_0126",
-            "value": "Améliorez les Statues de guilde 27 fois"
+            "value": "Améliorez les statues de guilde 27 fois"
         },
         {
             "key": "M_MONTHLY_0127",
-            "value": "Améliorez les Statues de guilde 30 fois"
+            "value": "Améliorez les statues de guilde 30 fois"
         },
         {
             "key": "M_MONTHLY_0128",
-            "value": "Améliorez les Statues de guilde 33 fois"
+            "value": "Améliorez les statues de guilde 33 fois"
         },
         {
             "key": "M_MONTHLY_0129",
-            "value": "Améliorez les Statues de guilde 36 fois"
+            "value": "Améliorez les statues de guilde 36 fois"
         },
         {
             "key": "M_MONTHLY_0130",
-            "value": "Améliorez les Statues de guilde 39 fois"
+            "value": "Améliorez les statues de guilde 39 fois"
         },
         {
             "key": "M_MONTHLY_0131",
-            "value": "Améliorez les Statues de guilde 42 fois"
+            "value": "Améliorez les statues de guilde 42 fois"
         },
         {
             "key": "M_MONTHLY_0132",
-            "value": "Améliorez les Statues de guilde 45 fois"
+            "value": "Améliorez les statues de guilde 45 fois"
         },
         {
             "key": "M_MONTHLY_0133",
-            "value": "Améliorez les Statues de guilde 50 fois"
+            "value": "Améliorez les statues de guilde 50 fois"
         },
         {
             "key": "M_MONTHLY_0134",
-            "value": "Améliorez les Statues de guilde 55 fois"
+            "value": "Améliorez les statues de guilde 55 fois"
         },
         {
             "key": "M_MONTHLY_0135",
-            "value": "Améliorez les Statues de guilde 60 fois"
+            "value": "Améliorez les statues de guilde 60 fois"
         },
         {
             "key": "M_MONTHLY_0136",
-            "value": "Améliorez les Statues de guilde 65 fois"
+            "value": "Améliorez les statues de guilde 65 fois"
         },
         {
             "key": "M_MONTHLY_0137",
-            "value": "Améliorez les Statues de guilde 70 fois"
+            "value": "Améliorez les statues de guilde 70 fois"
         },
         {
             "key": "M_MONTHLY_0138",
@@ -3090,83 +3238,83 @@
         },
         {
             "key": "M_MONTHLY_0254",
-            "value": "Améliorez les Statues de guilde 3 fois"
+            "value": "Améliorez les statues de guilde 3 fois"
         },
         {
             "key": "M_MONTHLY_0255",
-            "value": "Améliorez les Statues de guilde 6 fois"
+            "value": "Améliorez les statues de guilde 6 fois"
         },
         {
             "key": "M_MONTHLY_0256",
-            "value": "Améliorez les Statues de guilde 9 fois"
+            "value": "Améliorez les statues de guilde 9 fois"
         },
         {
             "key": "M_MONTHLY_0257",
-            "value": "Améliorez les Statues de guilde 12 fois"
+            "value": "Améliorez les statues de guilde 12 fois"
         },
         {
             "key": "M_MONTHLY_0258",
-            "value": "Améliorez les Statues de guilde 15 fois"
+            "value": "Améliorez les statues de guilde 15 fois"
         },
         {
             "key": "M_MONTHLY_0259",
-            "value": "Améliorez les Statues de guilde 18 fois"
+            "value": "Améliorez les statues de guilde 18 fois"
         },
         {
             "key": "M_MONTHLY_0260",
-            "value": "Améliorez les Statues de guilde 21 fois"
+            "value": "Améliorez les statues de guilde 21 fois"
         },
         {
             "key": "M_MONTHLY_0261",
-            "value": "Améliorez les Statues de guilde 24 fois"
+            "value": "Améliorez les statues de guilde 24 fois"
         },
         {
             "key": "M_MONTHLY_0262",
-            "value": "Améliorez les Statues de guilde 27 fois"
+            "value": "Améliorez les statues de guilde 27 fois"
         },
         {
             "key": "M_MONTHLY_0263",
-            "value": "Améliorez les Statues de guilde 30 fois"
+            "value": "Améliorez les statues de guilde 30 fois"
         },
         {
             "key": "M_MONTHLY_0264",
-            "value": "Améliorez les Statues de guilde 33 fois"
+            "value": "Améliorez les statues de guilde 33 fois"
         },
         {
             "key": "M_MONTHLY_0265",
-            "value": "Améliorez les Statues de guilde 36 fois"
+            "value": "Améliorez les statues de guilde 36 fois"
         },
         {
             "key": "M_MONTHLY_0266",
-            "value": "Améliorez les Statues de guilde 39 fois"
+            "value": "Améliorez les statues de guilde 39 fois"
         },
         {
             "key": "M_MONTHLY_0267",
-            "value": "Améliorez les Statues de guilde 42 fois"
+            "value": "Améliorez les statues de guilde 42 fois"
         },
         {
             "key": "M_MONTHLY_0268",
-            "value": "Améliorez les Statues de guilde 45 fois"
+            "value": "Améliorez les statues de guilde 45 fois"
         },
         {
             "key": "M_MONTHLY_0269",
-            "value": "Améliorez les Statues de guilde 50 fois"
+            "value": "Améliorez les statues de guilde 50 fois"
         },
         {
             "key": "M_MONTHLY_0270",
-            "value": "Améliorez les Statues de guilde 55 fois"
+            "value": "Améliorez les statues de guilde 55 fois"
         },
         {
             "key": "M_MONTHLY_0271",
-            "value": "Améliorez les Statues de guilde 60 fois"
+            "value": "Améliorez les statues de guilde 60 fois"
         },
         {
             "key": "M_MONTHLY_0272",
-            "value": "Améliorez les Statues de guilde 65 fois"
+            "value": "Améliorez les statues de guilde 65 fois"
         },
         {
             "key": "M_MONTHLY_0273",
-            "value": "Améliorez les Statues de guilde 70 fois"
+            "value": "Améliorez les statues de guilde 70 fois"
         },
         {
             "key": "M_MONTHLY_0274",
@@ -3634,83 +3782,83 @@
         },
         {
             "key": "M_MONTHLY_0390",
-            "value": "Améliorez les Statues de guilde 3 fois"
+            "value": "Améliorez les statues de guilde 3 fois"
         },
         {
             "key": "M_MONTHLY_0391",
-            "value": "Améliorez les Statues de guilde 6 fois"
+            "value": "Améliorez les statues de guilde 6 fois"
         },
         {
             "key": "M_MONTHLY_0392",
-            "value": "Améliorez les Statues de guilde 9 fois"
+            "value": "Améliorez les statues de guilde 9 fois"
         },
         {
             "key": "M_MONTHLY_0393",
-            "value": "Améliorez les Statues de guilde 12 fois"
+            "value": "Améliorez les statues de guilde 12 fois"
         },
         {
             "key": "M_MONTHLY_0394",
-            "value": "Améliorez les Statues de guilde 15 fois"
+            "value": "Améliorez les statues de guilde 15 fois"
         },
         {
             "key": "M_MONTHLY_0395",
-            "value": "Améliorez les Statues de guilde 18 fois"
+            "value": "Améliorez les statues de guilde 18 fois"
         },
         {
             "key": "M_MONTHLY_0396",
-            "value": "Améliorez les Statues de guilde 21 fois"
+            "value": "Améliorez les statues de guilde 21 fois"
         },
         {
             "key": "M_MONTHLY_0397",
-            "value": "Améliorez les Statues de guilde 24 fois"
+            "value": "Améliorez les statues de guilde 24 fois"
         },
         {
             "key": "M_MONTHLY_0398",
-            "value": "Améliorez les Statues de guilde 27 fois"
+            "value": "Améliorez les statues de guilde 27 fois"
         },
         {
             "key": "M_MONTHLY_0399",
-            "value": "Améliorez les Statues de guilde 30 fois"
+            "value": "Améliorez les statues de guilde 30 fois"
         },
         {
             "key": "M_MONTHLY_0400",
-            "value": "Améliorez les Statues de guilde 33 fois"
+            "value": "Améliorez les statues de guilde 33 fois"
         },
         {
             "key": "M_MONTHLY_0401",
-            "value": "Améliorez les Statues de guilde 36 fois"
+            "value": "Améliorez les statues de guilde 36 fois"
         },
         {
             "key": "M_MONTHLY_0402",
-            "value": "Améliorez les Statues de guilde 39 fois"
+            "value": "Améliorez les statues de guilde 39 fois"
         },
         {
             "key": "M_MONTHLY_0403",
-            "value": "Améliorez les Statues de guilde 42 fois"
+            "value": "Améliorez les statues de guilde 42 fois"
         },
         {
             "key": "M_MONTHLY_0404",
-            "value": "Améliorez les Statues de guilde 45 fois"
+            "value": "Améliorez les statues de guilde 45 fois"
         },
         {
             "key": "M_MONTHLY_0405",
-            "value": "Améliorez les Statues de guilde 50 fois"
+            "value": "Améliorez les statues de guilde 50 fois"
         },
         {
             "key": "M_MONTHLY_0406",
-            "value": "Améliorez les Statues de guilde 55 fois"
+            "value": "Améliorez les statues de guilde 55 fois"
         },
         {
             "key": "M_MONTHLY_0407",
-            "value": "Améliorez les Statues de guilde 60 fois"
+            "value": "Améliorez les statues de guilde 60 fois"
         },
         {
             "key": "M_MONTHLY_0408",
-            "value": "Améliorez les Statues de guilde 65 fois"
+            "value": "Améliorez les statues de guilde 65 fois"
         },
         {
             "key": "M_MONTHLY_0409",
-            "value": "Améliorez les Statues de guilde 70 fois"
+            "value": "Améliorez les statues de guilde 70 fois"
         },
         {
             "key": "M_LAPS_P_LUCA_01",
@@ -3737,6 +3885,30 @@
             "value": "Dépensez 50 000 visiores"
         },
         {
+            "key": "M_LAPS_P_VKTR_01",
+            "value": "Dépensez 500 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_02",
+            "value": "Dépensez 3 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_03",
+            "value": "Dépensez 6 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_04",
+            "value": "Dépensez 12 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_05",
+            "value": "Dépensez 24 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_06",
+            "value": "Dépensez 50 000 visiores"
+        },
+        {
             "key": "M_COMEBACK_0001",
             "value": "Terminez 10 quêtes d'histoire"
         },
@@ -3746,7 +3918,7 @@
         },
         {
             "key": "M_COMEBACK_0003",
-            "value": "Complétez 10 quêtes d'événement"
+            "value": "Terminez 10 quêtes d'événement"
         },
         {
             "key": "M_COMEBACK_0004",

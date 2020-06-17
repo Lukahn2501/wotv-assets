@@ -3005,6 +3005,26 @@
             "value": "對指定範圍內敵方造成風屬性魔法傷害（大）"
         },
         {
+            "key": "SK_OCHU_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_OCHU_M_01",
+            "value": "以自身為中心，一定機率對範圍內目標施加中毒，使其3回合內持續減少HP"
+        },
+        {
+            "key": "SK_OCHU_M_02",
+            "value": "對目標造成突刺傷害（中）&一定機率施加麻痹，使其3回合內難以行動"
+        },
+        {
+            "key": "SK_OCHU_M_03",
+            "value": "以自身為中心對範圍內目標造成物攻傷害（中）&一定機率對敵方施加3回合異常狀態（中毒、麻痺、沉默、停止、止動）"
+        },
+        {
+            "key": "SK_OCHU_M_04",
+            "value": "對目標造成魔法傷害（大）"
+        },
+        {
             "key": "SK_LW_E_VIK_ATK",
             "value": ""
         },
@@ -3205,6 +3225,10 @@
             "value": "對範圍內目標造成傷害（大）&對自身施加急速，使積蓄CT速度提升3回合"
         },
         {
+            "key": "SK_LB_LW_VKTR",
+            "value": "以自身為中心對範圍內目標造成傷害（大）&一定機率對目標施加魅惑，使其3回合內無法操作並攻擊同伴"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "召喚『伊弗利特』，對範圍內目標造成火屬性傷害（極大）&一定時間內發動地圖效果（提升己方隊員的攻擊、魔力&大幅降低敵方的火屬性耐性）"
         },
@@ -3267,6 +3291,10 @@
         {
             "key": "SK_SMN_TSLP",
             "value": "召喚『四方風精靈』，對範圍內目標造成風屬性傷害（極大）&一定時間內發動地圖效果（提升己方隊員的閃避率&大幅降低敵方的風屬性耐性）"
+        },
+        {
+            "key": "SK_SMN_OCHU",
+            "value": "召喚『食腐獸』，對範圍內目標造成土屬性傷害（大）"
         },
         {
             "key": "SK_US_POTION",
@@ -3609,6 +3637,14 @@
             "value": "魔力+25%、靈巧+10%"
         },
         {
+            "key": "SK_MA_LW_VKTR",
+            "value": "突刺攻擊力+10、發動能力時間-20%"
+        },
+        {
+            "key": "SK_MA_LW_THLA",
+            "value": "魔力+20%、魔法攻擊力+15"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "斬擊攻擊力+2"
         },
@@ -3769,6 +3805,10 @@
             "value": "3回合自身射程+1&提升敏捷"
         },
         {
+            "key": "SK_ARM_LW_VKTR_1_1",
+            "value": "大幅提升自身突刺攻擊能力1回合&提升命中率"
+        },
+        {
             "key": "SK_SWO_LW_ADLD_1_1",
             "value": ""
         },
@@ -3906,6 +3946,10 @@
         },
         {
             "key": "SK_ARM_LW_KTON_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_THLA_1_1",
             "value": ""
         },
         {
@@ -4246,6 +4290,14 @@
         },
         {
             "key": "SK_VC_LW_LAMA_01_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_GSAW",
             "value": ""
         },
         {
@@ -4781,6 +4833,14 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_OCHU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_VALE1_P",
             "value": ""
         },
@@ -5193,6 +5253,18 @@
             "value": "任務調整用技能"
         },
         {
+            "key": "SK_BTL_INV_HPDOWN",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_INV_MKBT",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_INV_CTDOWN",
+            "value": "任務調整用技能"
+        },
+        {
             "key": "SK_BTL_RES_SLEEP_1_100_D",
             "value": "任務調整用技能"
         },
@@ -5250,18 +5322,6 @@
         },
         {
             "key": "SK_BTL_INV_POISON",
-            "value": "任務調整用技能"
-        },
-        {
-            "key": "SK_BTL_INV_HPDOWN",
-            "value": "任務調整用技能"
-        },
-        {
-            "key": "SK_BTL_INV_MKBT",
-            "value": "任務調整用技能"
-        },
-        {
-            "key": "SK_BTL_INV_CTDOWN",
             "value": "任務調整用技能"
         },
         {

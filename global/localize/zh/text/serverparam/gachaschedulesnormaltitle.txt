@@ -81,6 +81,18 @@
             "value": "稀有召喚"
         },
         {
+            "key": "Raregacha_A_gl20200617_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_P",
+            "value": "稀有召喚"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "上市紀念 期間限定 普通召喚"
         },
@@ -151,6 +163,14 @@
         {
             "key": "Normal_gacha_A_gl20200610_10",
             "value": "共鬥紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_01",
+            "value": "初夏紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_10",
+            "value": "初夏紀念 限定普通召喚　10連召喚"
         }
     ]
 }

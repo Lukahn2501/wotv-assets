@@ -35,6 +35,10 @@
         {
             "key": "9",
             "value": "Blickpunktbeschwörung<br>jetzt verfügbar!"
+        },
+        {
+            "key": "10",
+            "value": "Neue Einheiten<br>& Esper!"
         }
     ]
 }

@@ -87,6 +87,14 @@
         {
             "key": "SQ_WD_010201_02",
             "value": "Artista reconocido"
+        },
+        {
+            "key": "SQ_WD_010202_01",
+            "value": "Herrero veterano"
+        },
+        {
+            "key": "SQ_WD_010202_02",
+            "value": "Recepcionista de la academia"
         }
     ]
 }

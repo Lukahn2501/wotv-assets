@@ -407,6 +407,70 @@
         {
             "key": "DU_LW_IFRT",
             "value": "イフリート"
+        },
+        {
+            "key": "DU_LW_LYCS",
+            "value": "レイシェス"
+        },
+        {
+            "key": "DU_LW_GLAR",
+            "value": "グラール"
+        },
+        {
+            "key": "DU_LW_MLNA",
+            "value": "メルニア"
+        },
+        {
+            "key": "DU_LW_RNEL",
+            "value": "ラネル"
+        },
+        {
+            "key": "DU_LW_HWLT",
+            "value": "ハウレット"
+        },
+        {
+            "key": "DU_LW_TITU",
+            "value": "タイタス"
+        },
+        {
+            "key": "DU_LW_CHEL",
+            "value": "チェル"
+        },
+        {
+            "key": "DU_LW_MRND",
+            "value": "ミランダ"
+        },
+        {
+            "key": "DU_LW_LVES",
+            "value": "ラヴィエス"
+        },
+        {
+            "key": "DU_LW_TREL",
+            "value": "ティレル"
+        },
+        {
+            "key": "DU_LW_CH_00",
+            "value": "少年"
+        },
+        {
+            "key": "DU_LW_WYVN",
+            "value": "ワイバーン"
+        },
+        {
+            "key": "DU_LW_WYVN_01",
+            "value": "ワイバーン"
+        },
+        {
+            "key": "DU_LW_IGNT",
+            "value": "鉄巨人"
+        },
+        {
+            "key": "DU_LW_IGNT_02",
+            "value": "黒鉄魔人,鉄巨人"
+        },
+        {
+            "key": "DU_LW_GLEM",
+            "value": "ゴーレム"
         }
     ]
 }

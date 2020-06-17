@@ -1673,6 +1673,14 @@
             "value": "„Adelard“-Einheitenfragment"
         },
         {
+            "key": "IT_PI_LW_VKTR",
+            "value": "„Viktora“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "„Salire“-Einheitenfragment"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Roter Maginit (S)"
         },
@@ -1919,6 +1927,14 @@
         {
             "key": "IT_SB_AW_TSLP_R3",
             "value": "Tetrasylphids Erweckungsstein (3★)"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "Küsschens Erweckungsstein (2★)"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "Küsschens Erweckungsstein (3★)"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2649,6 +2665,10 @@
             "value": "Juni-Beschwörungsmedaille A"
         },
         {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "Juni-Beschwörungsmedaille B"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT-Eventmedaille"
         },
@@ -2662,7 +2682,7 @@
         },
         {
             "key": "IT_EC_TOWER_001",
-            "value": ""
+            "value": "Turmmedaille"
         },
         {
             "key": "IT_EC_EV02_1",
@@ -2770,7 +2790,7 @@
         },
         {
             "key": "IT_US_G_UR_02",
-            "value": "„[UR] garantiert (Winter)“-Beschwörungsticket A"
+            "value": "„[UR] garantiert“-Beschwörungsticket B"
         },
         {
             "key": "IT_US_G_U_R_UR_01",
@@ -3047,6 +3067,10 @@
         {
             "key": "IT_VPI_LW_LILS",
             "value": "„Pfad der Rache“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": "„Küsschen, Vitale Vegetation“-Visionskartenfragment"
         },
         {
             "key": "IT_VPI_LW_VALE1",

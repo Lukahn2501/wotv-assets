@@ -103,6 +103,10 @@
         {
             "key": "IT_US_G_UR_01_gl20200610",
             "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200617",
+            "value": "UR 보장 소환 티켓 A"
         }
     ]
 }

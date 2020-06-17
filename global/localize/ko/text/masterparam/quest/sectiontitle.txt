@@ -117,6 +117,10 @@
             "value": "시클 요새"
         },
         {
+            "key": "SE_WD_010202",
+            "value": "얌 동굴"
+        },
+        {
             "key": "SE_SB_01",
             "value": "강적의 방"
         },
@@ -411,6 +415,22 @@
         {
             "key": "SE_EV_BEGN_2001",
             "value": "유닛 육성 응원 퀘스트"
+        },
+        {
+            "key": "SE_EV_VKTR_01",
+            "value": "한정 하드 퀘스트(빅토라)"
+        },
+        {
+            "key": "SE_EV_THLA",
+            "value": " '살리아의 조각' 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_THLA_EX",
+            "value": "고난도 '살리아의 조각' 획득 EX 퀘스트"
+        },
+        {
+            "key": "SE_MU_EV_THLA_EX",
+            "value": "고난도 '살리아의 조각' 획득 EX 퀘스트 멀티"
         }
     ]
 }

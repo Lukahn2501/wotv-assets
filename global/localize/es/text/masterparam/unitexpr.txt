@@ -229,6 +229,14 @@
             "value": "El rey de Fennes, el país de los salvajes que controlan las tierras fronterizas. Cree firmemente que la reliquia ancestral de Leonis es la razón por la que Fennes no es capaz de derrotar a este reino a pesar de su superioridad militar. En la actualidad, Muraga se ha aliado con Sadali, el líder de la Iglesia, para robar esta reliquia y usarla para destruir a Hourne."
         },
         {
+            "key": "UN_LW_P_VKTR",
+            "value": "Una dragontina tacaña que viaja por el mundo. No le gusta gastarse el dinero, menos cuando se trata de comprar productos estéticos. Victra aceptó la invitación del rey Kuri de volver a Wezette, su país de origen, y Kuri le prometió que la convertiría en la reina si conseguía llevar al país a la victoria."
+        },
+        {
+            "key": "UN_LW_P_THLA",
+            "value": "Una maga negra de Nitor, la segunda división de Hourne, que también es la hermana pequeña de Adelardo. Saria se expresa de una forma bastante vulgar, incluso delante del rey Rob, y siente muchísimo afecto por su hermano. De hecho, se convirtió en maga negra para protegerlo y, si alguien se le acerca demasiado, lo considera una amenaza."
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": ""
         },
@@ -1021,11 +1029,15 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_CSLI",
+            "key": "UN_LW_E_OCHU",
             "value": ""
         },
         {
             "key": "UN_LW_E_SLIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CSLI",
             "value": ""
         },
         {
@@ -1077,7 +1089,15 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_OCHU_SIREN",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_YERM_2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OCHU_QE",
             "value": ""
         },
         {
@@ -1462,6 +1482,18 @@
         },
         {
             "key": "UN_LW_S_TSLP_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU",
+            "value": "Un gran monstruo plantoide de inmensas fauces repletas de colmillos puntiagudos y numerosos tentáculos que tienen voluntad propia. Cuando está alterado, su cuerpo tiembla y esparce polen nocivo."
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW2",
             "value": ""
         },
         {

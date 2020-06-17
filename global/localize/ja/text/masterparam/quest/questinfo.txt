@@ -1221,6 +1221,14 @@
             "value": "クエスト情報<br>推奨：UnitLv.60 JobLv.10<br>解放条件：ユニット「アドラード」を獲得"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "クエスト情報<br>推奨：UnitLv.62 JobLv.10<br>解放条件：ユニット「サリア」を獲得"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "クエスト情報<br>推奨：UnitLv.62 JobLv.10<br>解放条件：ユニット「ヴィクトラ」を獲得"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ザザン」UnitLv.40以上"
         },
@@ -1427,6 +1435,14 @@
         {
             "key": "QE_CH_LW_ADLD",
             "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「アドラード」UnitLv.40以上"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「サリア」UnitLv.40以上"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ヴィクトラ」UnitLv.40以上"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1677,6 +1693,46 @@
             "value": "クエスト情報<br>なし"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "クエスト情報<br>解放条件：ユニット「ヴィクトラ」を獲得"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "クエスト情報<br>なし"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "クエスト情報<br>なし"
         },
@@ -1835,6 +1891,10 @@
         {
             "key": "QE_SB_LAMA_01",
             "value": "クエスト情報<br>ヒント：魅了はやっかいだが・・・"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
+            "value": "クエスト情報<br>なし"
         },
         {
             "key": "QE_SB_TSLP_01",
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": "なし"
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": "なし"
         },
         {

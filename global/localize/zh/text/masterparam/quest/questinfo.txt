@@ -1221,6 +1221,14 @@
             "value": "任務資訊<br>推薦：兵員等級60 職業等級10<br>解鎖條件：獲得兵員『阿德拉德』"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "任務資訊<br>推薦：兵員等級62 職業等級10<br>解鎖條件：獲得兵員『薩麗雅』"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "任務資訊<br>推薦：兵員等級62 職業等級10<br>解鎖條件：獲得兵員『維克托拉』"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "任務資訊<br>推薦：兵員等級40 職業等級8<br>解鎖條件：『扎贊』兵員等級40以上"
         },
@@ -1427,6 +1435,14 @@
         {
             "key": "QE_CH_LW_ADLD",
             "value": "任務資訊<br>推薦：兵員等級40 職業等級8<br>解鎖條件：『阿德拉德』兵員等級40以上"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "任務資訊<br>推薦：兵員等級40 職業等級8<br>解鎖條件：『薩麗雅』兵員等級40以上"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
+            "value": "任務資訊<br>推薦：兵員等級40 職業等級8<br>解鎖條件：『維克托拉』兵員等級40以上"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1677,6 +1693,46 @@
             "value": "任務資訊<br>無"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "任務資訊<br>解鎖條件：獲得兵員『維克托拉』"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "任務資訊<br>無"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "任務資訊<br>無"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "任務資訊<br>無"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "任務資訊<br>無"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "任務資訊<br>無"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "任務資訊<br>無"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "任務資訊<br>無"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "任務資訊<br>無"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "任務資訊<br>無"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "任務資訊<br>無"
         },
@@ -1835,6 +1891,10 @@
         {
             "key": "QE_SB_LAMA_01",
             "value": "任務資訊<br>提示：魅惑是很麻煩的…"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
+            "value": "任務資訊<br>無"
         },
         {
             "key": "QE_SB_TSLP_01",
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": "無"
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": "無"
         },
         {

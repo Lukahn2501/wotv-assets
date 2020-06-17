@@ -189,6 +189,14 @@
             "value": "유닛 '도랜드'의 레벨이 1 이상"
         },
         {
+            "key": "COND_HA_LW_VKTR",
+            "value": "유닛 '빅토라'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_THLA",
+            "value": "유닛 '살리아'의 레벨이 1 이상"
+        },
+        {
             "key": "COND_HA_LW_LUCA",
             "value": "유닛 '루시아'의 레벨이 1 이상"
         },
@@ -423,6 +431,14 @@
         {
             "key": "COND_CH_LW_ADLD",
             "value": "유닛 '애들러드'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_THLA",
+            "value": "유닛 '살리아'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_VKTR",
+            "value": "유닛 '빅토라'의 레벨이 40 이상"
         }
     ]
 }

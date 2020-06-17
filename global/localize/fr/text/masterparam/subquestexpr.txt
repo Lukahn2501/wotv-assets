@@ -87,6 +87,14 @@
         {
             "key": "SQ_WD_010201_02",
             "value": "Complétez la Chambre de l'Œuf de croissance (Avancé)"
+        },
+        {
+            "key": "SQ_WD_010202_01",
+            "value": "Améliorez un équipement"
+        },
+        {
+            "key": "SQ_WD_010202_02",
+            "value": "Sélectionner une aptitude"
         }
     ]
 }

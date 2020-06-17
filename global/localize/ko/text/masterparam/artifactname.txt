@@ -1933,6 +1933,18 @@
             "value": "매혹의 총"
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "그리드 아머"
+        },
+        {
+            "key": "AF_SPE_LW_VKTR_2",
+            "value": "그리드 랜스"
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "마력 끈"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "알렉산드라이트 반지"
         },

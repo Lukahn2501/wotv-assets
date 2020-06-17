@@ -45,6 +45,26 @@
             "value": "«Qué hago, qué hago… ¿podré dárselo este año? ¿Acaso debería?».<br>Kiton le da vueltas a esta pregunta una y otra vez. El problema: un dulce casero que desea dar como muestra de gratitud por estar bajo su cuidado. Como no tiene segundas intenciones, debería poder dárselo sin más. A pesar de que ella lo cree así, se pregunta si quizá se pasó con la decoración, o si se pensará que tiene otras intenciones, por lo que nunca se lo da.<br>«¿Y si al final acabo dándoselo a Owe este año otra vez?».<br>Preocupada por que se le escapen esos pensamientos, los guarda para sí. También está bajo el cuidado de Owe, eso es indiscutible. Aun así… Aunque estos sentimientos tan opuestos se remueven en su corazón, comprendió que no llegará a actuar."
         },
         {
+            "key": "VC_LW_SHIV",
+            "value": "　Una mujer esplendorosa envuelta en una neblina helada y siempre rodeada de cristales danzantes. Nadie es capaz de resistirse a sus encantos y muchos se han topado con un destino fatal en sus garras. Ganarse el favor de Shiva no es nada fácil: solo cuando alguien logre transmitirle de verdad su deseo, se derretirá su helado corazón y de ella brotará un inagotable manantial de poder."
+        },
+        {
+            "key": "VC_LW_RAMU",
+            "value": "　Un sabio anciano que tiene el poder de manipular el rayo a voluntad. Con una barba tan larga como su altura, Lamú emana un aura majestuosa que hace temblar de miedo a cualquier mortal. Su existencia es legendaria (el nombre de Lamú se conoce desde hace generaciones) y algunos lo veneran como al auténtico rey de la tierra. Curiosamente, se desconoce a cuántos años se remonta su leyenda."
+        },
+        {
+            "key": "VC_FFT_MV1",
+            "value": "　La noble casa de los Beoulve ha servido a la familia real Atkascha durante generaciones, y fue en esa familia militar de renombre en la que Ramza nació. Los miembros de la casa Beoulve han liderado la Orden del Cielo Norteño, la mayor fuerza militar de Ivalice, durante generaciones. Ahora la lidera el hermano mayor de Ramza, Zalbaag, siguiendo los pasos de su hermano, Dycedarg, y de su padre, Barbaneth. El joven Ramza, no obstante, decide alejarse de la orden y se convierte en mercenario. Pero el destino quiere que sea él el que se tope con el secuestro de la princesa. El incidente provoca el conflicto entre el duque Larg de Gallionne, que enarbola el estandarte del león blanco y el duque de Zeltennia, con el del león negro. Ramza pronto se ve envuelto en la disputa entre las dos casas, una disputa que pasaría a ser recordada como la Guerra de los Leones."
+        },
+        {
+            "key": "VC_LW_ODIN",
+            "value": "　Un gigante montando un enorme caballo de seis patas es, sin duda, una imagen heroica, pero se dice que la corpulencia de Odín no tiene parangón. Desde antaño, las leyendas lo han descrito de mil formas: de guerrero, de mago, e incluso, de rey. <br>Se dice que un solo mandoble de su espada puede abrir una fisura en cualquier cosa, incluidos el tiempo y el espacio. A aquellos que tienen la mala suerte de probar su acero los absorbe una grieta dimensional de la que no pueden volver."
+        },
+        {
+            "key": "VC_LW_TSLP",
+            "value": "　Cuatro hermosas hermanas que llegan con el viento. Aunque sus cabezas ya poseen alas y plumaje llamativo, las adornan con tiaras doradas. Los humanos se embelesan fácilmente con la belleza de sus plumas. Aproximarse a estas hermanas sin cuidado provocará su ira, por lo que se dice que nadie debe acercarse a ellas. Los vientos que crean cada una de ellas con sus alas pueden combinarse para formar tornados colosales. Se dice que la fuerza conjunta de estas hermanas cuando están unidas supera la de cualquier otra ninfa."
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "　Un monstruo gigante con una ostentosa armadura de hierro que presume de una defensa y un ataque devastadores. Es lógico asumir que sus cualidades defensivas son mucho más avanzadas de lo que aparenta a primera vista. Sus acometidas son virulentas y sorprendentemente veloces para tratarse de un gigante con una armadura tan pesada. Se cree incluso que Férreo actúa movido por algún tipo de magia o encantamiento."
         },
@@ -57,20 +77,8 @@
             "value": "　Un monstruo repugnante con aspecto de planta y órganos sensoriales que parecen ojos, además de montones de hileras de afilados colmillos y decenas de bucles que le recorren el cuerpo a modo de tentáculos. Pese a que la sola imagen de su ondulante figura ya basta para abrumar a cualquiera, su verdadero peligro reside en el nauseabundo aliento que arroja. El terrible aliento del molbol envenena, ciega y confunde a quienquiera que alcanza, lo que impide distinguir aliado de enemigo… Tras esto, la bestia putrefacta termina devorando a sus víctimas."
         },
         {
-            "key": "VC_LW_SHIV",
-            "value": "　Una mujer esplendorosa envuelta en una neblina helada y siempre rodeada de cristales danzantes. Nadie es capaz de resistirse a sus encantos y muchos se han topado con un destino fatal en sus garras. Ganarse el favor de Shiva no es nada fácil: solo cuando alguien logre transmitirle de verdad su deseo, se derretirá su helado corazón y de ella brotará un inagotable manantial de poder."
-        },
-        {
-            "key": "VC_LW_RAMU",
-            "value": "　Un sabio anciano que tiene el poder de manipular el rayo a voluntad. Con una barba tan larga como su altura, Lamú emana un aura majestuosa que hace temblar de miedo a cualquier mortal. Su existencia es legendaria (el nombre de Lamú se conoce desde hace generaciones) y algunos lo veneran como al auténtico rey de la tierra. Curiosamente, se desconoce a cuántos años se remonta su leyenda."
-        },
-        {
             "key": "VC_LW_VALE2",
             "value": "«¿Lord Stern aceptará mis bombones?…»<br>«¿Qué pasa, Etra? Te has quedado quieta. Nasha ya casi ha terminado. Y yo lo haré también pronto.»<br>«¿Hm? ¿Has terminado? Yelma… qué… ¿qué estás haciendo?»<br>«Pues chocolate, está claro. ¿No?»<br>«Eh, ¿de verdad? Vaya… tiene un olor intenso… ¿Estás segura de que va todo bien, Yelma?»<br>«Intenso está bien. No es solo chocolate, es una sopa repleta de ingredientes riquísimos. Cuando Lord Stern se la beba, seguro que… je, je, je.»<br>«¡Pues yo creo que su vida peligra como se beba esto! ¡Tenemos que pararla, Nasha!»<br>«¡Oh, no, Lord Stern! ¡Mi corazoncito no está preparado para esto!…»<br>«¡Bueno, ya basta de soñar despiertas!»"
-        },
-        {
-            "key": "VC_FFT_MV1",
-            "value": "　La noble casa de los Beoulve ha servido a la familia real Atkascha durante generaciones, y fue en esa familia militar de renombre en la que Ramza nació. Los miembros de la casa Beoulve han liderado la Orden del Cielo Norteño, la mayor fuerza militar de Ivalice, durante generaciones. Ahora la lidera el hermano mayor de Ramza, Zalbaag, siguiendo los pasos de su hermano, Dycedarg, y de su padre, Barbaneth. El joven Ramza, no obstante, decide alejarse de la orden y se convierte en mercenario. Pero el destino quiere que sea él el que se tope con el secuestro de la princesa. El incidente provoca el conflicto entre el duque Larg de Gallionne, que enarbola el estandarte del león blanco y el duque de Zeltennia, con el del león negro. Ramza pronto se ve envuelto en la disputa entre las dos casas, una disputa que pasaría a ser recordada como la Guerra de los Leones."
         },
         {
             "key": "VC_LW_FAMILY",
@@ -113,6 +121,14 @@
             "value": "　La guardia de élite de Sadali Crysthea, famosa por seguirle como una sombra y por protegerle de cualquier peligro que se cierna sobre él. Aunque las tres puedan parecer muy modestas, son más que capaces de frenar invasiones enemigas, y su talento ofensivo está a la altura del poder que despliega un ejército entero. Esta fuerza en la que Sadali confía ciegamente ayuda a poner a Santocristal a la altura del de otras naciones poderosas. <br>Como rara vez se las oye hablar, a no ser que se dirijan al propio Sadali, son un enigma incluso para los de la Iglesia del Cristal. No obstante, y aunque algunos aspectos evidencian que son de edades diferentes, existen ciertas similitudes entre los rostros impolutos que ocultan tras esas máscaras, y eso ha dado pie a que se rumoree que son hermanas."
         },
         {
+            "key": "VC_LW_LILS",
+            "value": "　Hubo un lapso de aproximadamente dos años en los que Lilit estuvo lejos de Leonis. La razón detrás de esto fue la muerte de su hermano menor, Volke, durante la guerra contra Fennes. Mientras sostenía su cuerpo maltrecho, juró cobrar venganza. No menciona nada de lo ocurrido durante esos dos años, ni siquiera a Mont. En cualquier caso, dada su maestría con la espada, no es difícil imaginar que su intención de vengarse ella sola del rey de toda una nación fuese un hazaña temeraria. Se dice que perseguía fervientemente a las incansables tropas dael ejército de Muraga a través del clima frío y del terreno escarpado, buscando el más mínimo instante en el que bajaran la guardia. La mayor parte de las cicatrices que recorren su piel son de esta etapa. Aunque acabó volviendo sin haber conseguido vengarse, sus ojos permanecen alerta ante cualquier oportunidad de poder hacerlo."
+        },
+        {
+            "key": "VC_LW_OCHU",
+            "value": "　Un gigantesco monstruo plantoide cuyo cuerpo mide lo mismo que una pequeña colina. Tiene enormes fauces de colmillos puntiagudos y numerosos zarcillos que se asemejan a los bigotes de un bagre. Es famoso por su habilidad de inducir una variedad de estados alterados en el cuerpo humano, desde envenenamiento hasta parálisis. Cuando está nervioso, su cuerpo tiembla de forma peculiar, como si fuera una especie de baile. Es habitual ver a especímenes sueltos acompañados por varias crías de microchús."
+        },
+        {
             "key": "VC_LW_CACT",
             "value": "　Un monstruo con aspecto de planta que suele habitar en zonas desérticas. Su gran parecido con los cactus, plantas jugosas que retienen mucho líquido y suelen encontrarse también en desiertos y climas áridos, es el origen de su curioso nombre. Su forma espinada se asemeja a las punzantes hojas de los cactus y, cuando permanece inmóvil, resulta casi imposible diferenciarlo de estos. Se conocen pocos casos de cactilios en flor similares a diferencia de sus homólogos vegetales y, de hecho, algún que otro viajero se ha visto sorprendido por estos delicados imitadores. Sus ojos y su boca son huecos y, pese a disponer de todos los apéndices necesarios para caminar como un ser humano, nunca se le ha visto hacer algo así. Puede que esto se deba a que permanece inmóvil ante cualquier presencia desconocida para lanzar sus púas cuando el enemigo se encuentra distraído."
         },
@@ -127,10 +143,6 @@
         {
             "key": "VC_LW_OGRE",
             "value": "　Un monstruo gigante y agresivo que disfruta torturando. Los humanos lo temen y odian a partes iguales, y muchos lo llaman el devorahombres. Es enorme y musculoso, y supera con creces a cualquier humano en fuerza. Esto lo convierte en toda una amenaza para los habitantes de Ardra."
-        },
-        {
-            "key": "VC_LW_ODIN",
-            "value": "　Un gigante montando un enorme caballo de seis patas es, sin duda, una imagen heroica, pero se dice que la corpulencia de Odín no tiene parangón. Desde antaño, las leyendas lo han descrito de mil formas: de guerrero, de mago, e incluso, de rey. <br>Se dice que un solo mandoble de su espada puede abrir una fisura en cualquier cosa, incluidos el tiempo y el espacio. A aquellos que tienen la mala suerte de probar su acero los absorbe una grieta dimensional de la que no pueden volver."
         },
         {
             "key": "VC_LW_BOMB",
@@ -211,14 +223,6 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "　Una reliquia ancestral que, según parece, es capaz de mostrar imágenes de regiones lejanas. El espejo está adornado con la figurita de una mujer con alas de pájaro que sostiene un ave de presa en el brazo."
-        },
-        {
-            "key": "VC_LW_TSLP",
-            "value": "　Cuatro hermosas hermanas que llegan con el viento. Aunque sus cabezas ya poseen alas y plumaje llamativo, las adornan con tiaras doradas. Los humanos se embelesan fácilmente con la belleza de sus plumas. Aproximarse a estas hermanas sin cuidado provocará su ira, por lo que se dice que nadie debe acercarse a ellas. Los vientos que crean cada una de ellas con sus alas pueden combinarse para formar tornados colosales. Se dice que la fuerza conjunta de estas hermanas cuando están unidas supera la de cualquier otra ninfa."
-        },
-        {
-            "key": "VC_LW_LILS",
-            "value": "　Hubo un lapso de aproximadamente dos años en los que Lilit estuvo lejos de Leonis. La razón detrás de esto fue la muerte de su hermano menor, Volke, durante la guerra contra Fennes. Mientras sostenía su cuerpo maltrecho, juró cobrar venganza. No menciona nada de lo ocurrido durante esos dos años, ni siquiera a Mont. En cualquier caso, dada su maestría con la espada, no es difícil imaginar que su intención de vengarse ella sola del rey de toda una nación fuese un hazaña temeraria. Se dice que perseguía fervientemente a las incansables tropas dael ejército de Muraga a través del clima frío y del terreno escarpado, buscando el más mínimo instante en el que bajaran la guardia. La mayor parte de las cicatrices que recorren su piel son de esta etapa. Aunque acabó volviendo sin haber conseguido vengarse, sus ojos permanecen alerta ante cualquier oportunidad de poder hacerlo."
         },
         {
             "key": "VC_EXP_01",

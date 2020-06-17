@@ -238,7 +238,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_05",
-            "value": "経験キューブデイリーパックA"
+            "value": "経験キューブデイリーパック"
         },
         {
             "key": "IT_SET_3MDL_DAILY",
@@ -425,8 +425,20 @@
             "value": "Vカード育成パックC"
         },
         {
-            "key": "IT_SET_AWK_02",
-            "value": "ユニット覚醒パックⅡ"
+            "key": "IT_SET_AWK_GL01",
+            "value": "ユニット覚醒パック"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "1日1回無料スキップチケットx10"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "雷の覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "闇の覚醒パック"
         },
         {
             "key": "IT_SET_WA_DOD_GL01",

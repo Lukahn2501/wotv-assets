@@ -1673,6 +1673,14 @@
             "value": ""
         },
         {
+            "key": "IT_PI_LW_VKTR",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": ""
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Ein besonderer Kristall, der einen schwachen, feuerroten Lichtschein abgibt. Taucht man eine mit dem Schutz des Feuers belegte Esper in dieses Licht, werden die in ihr ruhenden Kräfte geweckt. Das Ausmaß der so erweckten Stärke hängt dabei von der Größe des Kristalls und der Intensität besagten Lichtes ab. Über die dem Schein innewohnenden Mächte existieren bislang kaum gesicherte Kenntnisse."
         },
@@ -1919,6 +1927,14 @@
         {
             "key": "IT_SB_AW_TSLP_R3",
             "value": "Ein spezieller Erweckungsstein, der die Bande zu Tetrasylphid weiter stärkt und zur fortschreitenden Erweckung der Esper benötigt wird. Verwendet man den Stein, kommt es zu einer Lichtexplosion, die zu grell ist, um sie direkt ansehen zu können. Sobald der Effekt abklingt, ist die Erweckung der Esper vollzogen und der Stein zu Staub zerfallen."
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "Eine besondere Art von Erweckungsstein, mit der die Esper Küsschen erweckt werden kann. Die Ursache des Lichtscheins der bei seiner Benutzung entsteht, ist noch unbekannt, aber er scheint die Esper für einen Moment untauglich zu machen."
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "Ein spezieller Erweckungsstein, der die Bande zu Küsschen weiter stärkt und zur fortschreitenden Erweckung der Esper benötigt wird. Verwendet man den Stein, kommt es zu einer Lichtexplosion, die zu grell ist, um sie direkt ansehen zu können. Sobald der Effekt abklingt, ist die Erweckung der Esper vollzogen und der Stein zu Staub zerfallen."
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2649,6 +2665,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -3046,6 +3066,10 @@
         },
         {
             "key": "IT_VPI_LW_LILS",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
             "value": ""
         },
         {

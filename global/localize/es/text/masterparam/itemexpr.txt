@@ -1673,6 +1673,14 @@
             "value": "Objeto necesario para romper el límite de una unidad"
         },
         {
+            "key": "IT_PI_LW_VKTR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Otorga EXP de esper (poco)"
         },
@@ -1919,6 +1927,14 @@
         {
             "key": "IT_SB_AW_TSLP_R3",
             "value": "Objeto necesario para despertar a Tetra Sílfide a 3★"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "Objeto necesario para despertar a Ochú a 2★"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "Objeto necesario para despertar a Ochú a 3★"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2649,6 +2665,10 @@
             "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 30/6/2020 23:59, hora mundial PST)"
         },
         {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 14/7/2020 23:59, hora mundial PST)"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Objeto que puede adquirirse en los eventos de colaboración de FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medalla de evento de FFT"
         },
@@ -2830,7 +2850,7 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_04",
-            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar N prismas del despertar"
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 30 prismas del despertar"
         },
         {
             "key": "IT_US_SE_AW-ITEM_05",
@@ -3046,6 +3066,10 @@
         },
         {
             "key": "IT_VPI_LW_LILS",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
             "value": "Objeto necesario para despertar una carta de visión"
         },
         {

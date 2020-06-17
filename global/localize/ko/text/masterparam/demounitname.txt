@@ -407,6 +407,70 @@
         {
             "key": "DU_LW_IFRT",
             "value": "이프리트"
+        },
+        {
+            "key": "DU_LW_LYCS",
+            "value": "레이셰스"
+        },
+        {
+            "key": "DU_LW_GLAR",
+            "value": "그랄"
+        },
+        {
+            "key": "DU_LW_MLNA",
+            "value": "메르니아"
+        },
+        {
+            "key": "DU_LW_RNEL",
+            "value": "라넬"
+        },
+        {
+            "key": "DU_LW_HWLT",
+            "value": "하울렛"
+        },
+        {
+            "key": "DU_LW_TITU",
+            "value": "타이타스"
+        },
+        {
+            "key": "DU_LW_CHEL",
+            "value": "첼"
+        },
+        {
+            "key": "DU_LW_MRND",
+            "value": "미란다"
+        },
+        {
+            "key": "DU_LW_LVES",
+            "value": "라비에스"
+        },
+        {
+            "key": "DU_LW_TREL",
+            "value": "티렐"
+        },
+        {
+            "key": "DU_LW_CH_00",
+            "value": "소년"
+        },
+        {
+            "key": "DU_LW_WYVN",
+            "value": "와이번"
+        },
+        {
+            "key": "DU_LW_WYVN_01",
+            "value": "와이번"
+        },
+        {
+            "key": "DU_LW_IGNT",
+            "value": "철거인"
+        },
+        {
+            "key": "DU_LW_IGNT_02",
+            "value": "흑철마인, 철거인"
+        },
+        {
+            "key": "DU_LW_GLEM",
+            "value": "골렘"
         }
     ]
 }

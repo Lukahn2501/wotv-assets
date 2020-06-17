@@ -22,11 +22,11 @@
         },
         {
             "key": "CM_PRO_06",
-            "value": "Complétez une quête d'événement"
+            "value": "Terminez une quête d'événement"
         },
         {
             "key": "CM_PRO_07",
-            "value": "Complétez une quête avec un personnage de soutien"
+            "value": "Terminez une quête avec un personnage de soutien"
         },
         {
             "key": "CM_PRO_08",
@@ -454,11 +454,11 @@
         },
         {
             "key": "M_DAILY_001_01",
-            "value": "Terminez les Quêtes d'histoire"
+            "value": "Terminez des quêtes d'histoire"
         },
         {
             "key": "M_DAILY_001_02",
-            "value": "Complétez une quête difficile"
+            "value": "Terminez une quête difficile"
         },
         {
             "key": "M_DAILY_001_03",
@@ -466,7 +466,7 @@
         },
         {
             "key": "M_DAILY_001_04",
-            "value": "Complétez une quête multi"
+            "value": "Terminez une quête multi"
         },
         {
             "key": "M_DAILY_001_05",
@@ -478,7 +478,7 @@
         },
         {
             "key": "M_DAILY_001_07",
-            "value": "Lancez des invocations normales"
+            "value": "Lancez une invocation normale"
         },
         {
             "key": "M_DAILY_001_08",
@@ -1337,6 +1337,118 @@
             "value": "[Multi] Terminez la Quête d'entraînement EX d'Éthéa II [Très difficile] (5/5)"
         },
         {
+            "key": "M_THLA01_1_01",
+            "value": "Terminez la quête I des fragments d'unité de Saliah (1/3)"
+        },
+        {
+            "key": "M_THLA01_1_02",
+            "value": "Terminez la quête I des fragments d'unité de Saliah (2/3)"
+        },
+        {
+            "key": "M_THLA01_1_03",
+            "value": "Terminez la quête I des fragments d'unité de Saliah (3/3)"
+        },
+        {
+            "key": "M_THLA01_1_04",
+            "value": "Terminez la quête II des fragments d'unité de Saliah (1/3)"
+        },
+        {
+            "key": "M_THLA01_1_05",
+            "value": "Terminez la quête II des fragments d'unité de Saliah (2/3)"
+        },
+        {
+            "key": "M_THLA01_1_06",
+            "value": "Terminez la quête II des fragments d'unité de Saliah (3/3)"
+        },
+        {
+            "key": "M_THLA01_1_07",
+            "value": "Terminez la quête III des fragments d'unité de Saliah (1/3)"
+        },
+        {
+            "key": "M_THLA01_1_08",
+            "value": "Terminez la quête III des fragments d'unité de Saliah (2/3)"
+        },
+        {
+            "key": "M_THLA01_1_09",
+            "value": "Terminez la quête III des fragments d'unité de Saliah (3/3)"
+        },
+        {
+            "key": "M_THLA01_1_10",
+            "value": "Terminez la quête IV des fragments d'unité de Saliah (1/3)"
+        },
+        {
+            "key": "M_THLA01_1_11",
+            "value": "Terminez la quête IV des fragments d'unité de Saliah (2/3)"
+        },
+        {
+            "key": "M_THLA01_1_12",
+            "value": "Terminez la quête IV des fragments d'unité de Saliah (3/3)"
+        },
+        {
+            "key": "M_THLA01_1_13",
+            "value": "Terminez la quête V des fragments d'unité de Saliah (1/15)"
+        },
+        {
+            "key": "M_THLA01_1_14",
+            "value": "Terminez la quête V des fragments d'unité de Saliah (5/15)"
+        },
+        {
+            "key": "M_THLA01_1_15",
+            "value": "Terminez la quête V des fragments d'unité de Saliah (10/15)"
+        },
+        {
+            "key": "M_THLA01_1_16",
+            "value": "Terminez la quête V des fragments d'unité de Saliah (15/15)"
+        },
+        {
+            "key": "M_THLA01_EX1_01",
+            "value": "Terminez la quête EX I des fragments d'unité de Saliah [Très difficile] (1/5)"
+        },
+        {
+            "key": "M_THLA01_EX1_02",
+            "value": "Terminez la quête EX I des fragments d'unité de Saliah [Très difficile] (3/5)"
+        },
+        {
+            "key": "M_THLA01_EX1_03",
+            "value": "Terminez la quête EX I des fragments d'unité de Saliah [Très difficile] (5/5)"
+        },
+        {
+            "key": "M_THLA01_EX2_01",
+            "value": "Terminez la quête EX II des fragments d'unité de Saliah [Très difficile] (1/5)"
+        },
+        {
+            "key": "M_THLA01_EX2_02",
+            "value": "Terminez la quête EX II des fragments d'unité de Saliah [Très difficile] (3/5)"
+        },
+        {
+            "key": "M_THLA01_EX2_03",
+            "value": "Terminez la quête EX II des fragments d'unité de Saliah [Très difficile] (5/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX1_01",
+            "value": "[Multi] Terminez la quête EX I des fragments d'unité de Saliah [Très difficile] (1/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX1_02",
+            "value": "[Multi] Terminez la quête EX I des fragments d'unité de Saliah [Très difficile] (3/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX1_03",
+            "value": "[Multi] Terminez la quête EX I des fragments d'unité de Saliah [Très difficile] (5/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX2_01",
+            "value": "[Multi] Terminez la quête EX II des fragments d'unité de Saliah [Très difficile] (1/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX2_02",
+            "value": "[Multi] Terminez la quête EX II des fragments d'unité de Saliah [Très difficile] (3/5)"
+        },
+        {
+            "key": "M_MU_TH01_EX2_03",
+            "value": "[Multi] Terminez la quête EX II des fragments d'unité de Saliah [Très difficile] (5/5)"
+        },
+        {
             "key": "M_ART_SCR_01",
             "value": "Terminez la Quête du livre secret (épée, spathe, hache) I [Très difficile] (1/5)"
         },
@@ -1958,6 +2070,42 @@
         },
         {
             "key": "M_QEST_045",
+            "value": "Quêtes d'histoire - Mission 9"
+        },
+        {
+            "key": "M_QEST_046",
+            "value": "Quêtes d'histoire - Mission 1"
+        },
+        {
+            "key": "M_QEST_047",
+            "value": "Quêtes d'histoire - Mission 2"
+        },
+        {
+            "key": "M_QEST_048",
+            "value": "Quêtes d'histoire - Mission 3"
+        },
+        {
+            "key": "M_QEST_049",
+            "value": "Quêtes d'histoire - Mission 4"
+        },
+        {
+            "key": "M_QEST_050",
+            "value": "Quêtes d'histoire - Mission 5"
+        },
+        {
+            "key": "M_QEST_051",
+            "value": "Quêtes d'histoire - Mission 6"
+        },
+        {
+            "key": "M_QEST_052",
+            "value": "Quêtes d'histoire - Mission 7"
+        },
+        {
+            "key": "M_QEST_053",
+            "value": "Quêtes d'histoire - Mission 8"
+        },
+        {
+            "key": "M_QEST_054",
             "value": "Quêtes d'histoire - Mission 9"
         },
         {
@@ -3737,8 +3885,32 @@
             "value": "Utilisez des visiores - Bonus à durée limitée 06"
         },
         {
+            "key": "M_LAPS_P_VKTR_01",
+            "value": "Limité : utilisez des visiores - Mission 1"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_02",
+            "value": "Limité : utilisez des visiores - Mission 2"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_03",
+            "value": "Limité : utilisez des visiores - Mission 3"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_04",
+            "value": "Limité : utilisez des visiores - Mission 4"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_05",
+            "value": "Limité : utilisez des visiores - Mission 5"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_06",
+            "value": "Limité : utilisez des visiores - Mission 6"
+        },
+        {
             "key": "M_COMEBACK_0001",
-            "value": "Terminez les Quêtes d'histoire"
+            "value": "Terminez des quêtes d'histoire"
         },
         {
             "key": "M_COMEBACK_0002",
@@ -3746,7 +3918,7 @@
         },
         {
             "key": "M_COMEBACK_0003",
-            "value": "Complétez une quête d'événement"
+            "value": "Terminez une quête d'événement"
         },
         {
             "key": "M_COMEBACK_0004",
@@ -3762,7 +3934,7 @@
         },
         {
             "key": "M_COMEBACK_0007",
-            "value": "Complétez une quête difficile"
+            "value": "Terminez une quête difficile"
         },
         {
             "key": "M_COMEBACK_0008",

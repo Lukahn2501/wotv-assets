@@ -130,7 +130,7 @@
         },
         {
             "key": "033",
-            "value": "Alors, allons-y avant que le roi Eldo ne nous trouve..."
+            "value": "Alors, allons-y avant que le roi Eldo ne nous trouve…"
         },
         {
             "key": "034",

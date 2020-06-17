@@ -1673,6 +1673,14 @@
             "value": "阿德拉德的碎片"
         },
         {
+            "key": "IT_PI_LW_VKTR",
+            "value": "維克托拉的碎片"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "薩麗雅的碎片"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "紅色魔石（小）"
         },
@@ -1919,6 +1927,14 @@
         {
             "key": "IT_SB_AW_TSLP_R3",
             "value": "四方風精靈的獸醒石（★3）"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "食腐獸的獸醒石（★2）"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "食腐獸的獸醒石（★3）"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2649,6 +2665,10 @@
             "value": "【6月】召喚獎牌A"
         },
         {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "【6月】召喚獎牌B"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT聯動活動獎牌"
         },
@@ -2770,7 +2790,7 @@
         },
         {
             "key": "IT_US_G_UR_02",
-            "value": "確保UR召喚券（冬日）"
+            "value": "確保UR召喚券B"
         },
         {
             "key": "IT_US_G_U_R_UR_01",
@@ -3047,6 +3067,10 @@
         {
             "key": "IT_VPI_LW_LILS",
             "value": "復仇之旅的碎片"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": "豪快植物　食腐獸的碎片"
         },
         {
             "key": "IT_VPI_LW_VALE1",

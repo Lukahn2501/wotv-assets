@@ -229,6 +229,14 @@
             "value": "Der König von Fennes. Dieses Land der Wilden kontrolliert die Grenzregion. Muraga ist davon überzeugt, dass Leonis’ Relikt der Altvorderen der Grund dafür ist, dass Fennes Leonis nicht bezwingen kann, obwohl es Letzterem militärisch weit überlegen ist. Muraga folgt Sadali, dem Oberhaupt der Kirche, dessen Plan es ist, das Artefakt zu stehlen und damit Hourne zu vernichten."
         },
         {
+            "key": "UN_LW_P_VKTR",
+            "value": "Eine durch die Lande ziehende Dragonerin, der es zuwider ist, für etwas anderes als ihr Aussehen Geld auszugeben. Sie folgte der Einladung König Khuris, in ihre Heimat zurückzukehren. Er versprach, sie zur Königin zu machen, wenn sie Wezette zum Sieg führen würde."
+        },
+        {
+            "key": "UN_LW_P_THLA",
+            "value": "Eine Schwarzmagierin, die Hournes 2. Division „Nitor“ angehört. Sie ist Adelards jüngere Schwester und hält ihre lose Zunge selbst im Gespräch mit König Robb nicht im Zaum. Sie liebt ihren Bruder sehr und sieht jeden, der ihm zu nahe kommt, als Bedrohung an. Ihn zu beschützen war auch der Grund, warum sie sich für den Pfad der Schwarzmagie entschied."
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": ""
         },
@@ -1021,11 +1029,15 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_CSLI",
+            "key": "UN_LW_E_OCHU",
             "value": ""
         },
         {
             "key": "UN_LW_E_SLIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CSLI",
             "value": ""
         },
         {
@@ -1077,7 +1089,15 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_OCHU_SIREN",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_YERM_2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OCHU_QE",
             "value": ""
         },
         {
@@ -1462,6 +1482,18 @@
         },
         {
             "key": "UN_LW_S_TSLP_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU",
+            "value": "Ein monumentales Pflanzenmonster mit einem weit klaffenden Maul, spitzen Fangzähnen und zahlreichen Tentakeln, die es nach Belieben bewegen kann. In Erregung versetzt, schüttelt es sich und stößt dabei schädliche Pollen aus."
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW2",
             "value": ""
         },
         {

@@ -189,6 +189,14 @@
             "value": "兵員『多蘭多』的等級在1以上"
         },
         {
+            "key": "COND_HA_LW_VKTR",
+            "value": "兵員『維克托拉』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_THLA",
+            "value": "兵員『薩麗雅』的等級在1以上"
+        },
+        {
             "key": "COND_HA_LW_LUCA",
             "value": "兵員『魯·西雅』的等級在1以上"
         },
@@ -423,6 +431,14 @@
         {
             "key": "COND_CH_LW_ADLD",
             "value": "兵員『阿德拉德』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_THLA",
+            "value": "兵員『薩麗雅』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_VKTR",
+            "value": "兵員『維克托拉』的等級在40以上"
         }
     ]
 }

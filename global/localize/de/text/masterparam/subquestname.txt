@@ -87,6 +87,14 @@
         {
             "key": "SQ_WD_010201_02",
             "value": "Wenn ich doch nur ein Wachstumsei hätte ...!"
+        },
+        {
+            "key": "SQ_WD_010202_01",
+            "value": "Kannst du eine bessere Waffe herstellen als ich?"
+        },
+        {
+            "key": "SQ_WD_010202_02",
+            "value": "Fähigkeiten wollen festgelegt werden!"
         }
     ]
 }

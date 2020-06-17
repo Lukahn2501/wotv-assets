@@ -87,6 +87,14 @@
         {
             "key": "SQ_WD_010201_02",
             "value": "¿Me traes un huevo nutritivo?"
+        },
+        {
+            "key": "SQ_WD_010202_01",
+            "value": "¿Puedes forjar un arma mejor que la mía?"
+        },
+        {
+            "key": "SQ_WD_010202_02",
+            "value": "Tienes que seleccionar tus habilidades, ¿eh?"
         }
     ]
 }

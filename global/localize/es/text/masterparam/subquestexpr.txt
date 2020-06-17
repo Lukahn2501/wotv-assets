@@ -87,6 +87,14 @@
         {
             "key": "SQ_WD_010201_02",
             "value": "Completa la Cámara de los huevos nutritivos (avanzado)"
+        },
+        {
+            "key": "SQ_WD_010202_01",
+            "value": "Mejora una pieza de equipo"
+        },
+        {
+            "key": "SQ_WD_010202_02",
+            "value": "Establece una habilidad"
         }
     ]
 }

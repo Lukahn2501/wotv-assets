@@ -81,6 +81,18 @@
             "value": "Invocation rare"
         },
         {
+            "key": "Raregacha_A_gl20200617_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_P",
+            "value": "Invocation rare"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Commémoration de lancement - Invocation normale limitée"
         },
@@ -151,6 +163,14 @@
         {
             "key": "Normal_gacha_A_gl20200610_10",
             "value": "Célébration de raid - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_01",
+            "value": "Début de l'été - Invocation normale"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_10",
+            "value": "Début de l'été - Invocation x10 normale"
         }
     ]
 }

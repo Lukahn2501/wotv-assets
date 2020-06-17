@@ -34,7 +34,7 @@
         },
         {
             "key": "GUREN",
-            "value": "홍련"
+            "value": " '홍련'"
         },
         {
             "key": "OWIS",

@@ -25,6 +25,10 @@
             "value": "Lote de misión de historia V"
         },
         {
+            "key": "MP_QEST_06",
+            "value": "Lote de misión de historia VI"
+        },
+        {
             "key": "MP_GL_RANK_02",
             "value": "Lote de rango de jugador II"
         },

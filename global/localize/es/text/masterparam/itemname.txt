@@ -134,7 +134,7 @@
         },
         {
             "key": "IT_RANKMP_02",
-            "value": "Restaurador de puntos de clasificatorias (todos)"
+            "value": "Restaurador de puntos de duelos (todos)"
         },
         {
             "key": "IT_CG_01",
@@ -1673,6 +1673,14 @@
             "value": "Fragmento de Adelardo"
         },
         {
+            "key": "IT_PI_LW_VKTR",
+            "value": "Fragmento de Victra"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "Fragmento de Saria"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Magicita roja (P)"
         },
@@ -1921,6 +1929,14 @@
             "value": "Piedra del despertar de Tetra Sílfide (3★)"
         },
         {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "Piedra del despertar de ochú (2★)"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "Piedra del despertar de ochú (3★)"
+        },
+        {
             "key": "IT_TICKET_STORY",
             "value": "Tícket de avance de historia"
         },
@@ -2006,27 +2022,27 @@
         },
         {
             "key": "IT_AF_MAT_ICE_01",
-            "value": "Crist de hielo"
+            "value": "Cristal Hielo"
         },
         {
             "key": "IT_AF_MAT_THUNDER_01",
-            "value": "Crist de rayo"
+            "value": "Cristal Electro"
         },
         {
             "key": "IT_AF_MAT_WATER_01",
-            "value": "Crist de agua"
+            "value": "Cristal Aqua"
         },
         {
             "key": "IT_AF_MAT_SOIL_01",
-            "value": "Crist de tierra"
+            "value": "Cristal Tierra"
         },
         {
             "key": "IT_AF_MAT_WIND_01",
-            "value": "Crist de viento"
+            "value": "Cristal Aero"
         },
         {
             "key": "IT_AF_MAT_SHINE_01",
-            "value": "Crist de luz"
+            "value": "Cristal Sanctus"
         },
         {
             "key": "IT_AF_MAT_DARK_01",
@@ -2649,6 +2665,10 @@
             "value": "Medalla de invocación de junio (A)"
         },
         {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "Medalla de invocación de junio (B)"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Medalla de evento de FFT"
         },
@@ -2662,7 +2682,7 @@
         },
         {
             "key": "IT_EC_TOWER_001",
-            "value": ""
+            "value": "Medalla de la torre"
         },
         {
             "key": "IT_EC_EV02_1",
@@ -2770,7 +2790,7 @@
         },
         {
             "key": "IT_US_G_UR_02",
-            "value": "Tícket de invocación UR garantizada (invierno)"
+            "value": "Tícket de invocación UR garantizada B"
         },
         {
             "key": "IT_US_G_U_R_UR_01",
@@ -2934,7 +2954,7 @@
         },
         {
             "key": "IT_VPI_LW_NEWYEAR",
-            "value": "Fragmento de carta de visión de Desde tierras lejanas"
+            "value": "Fragmento de la carta de visión «Desde tierras lejanas»"
         },
         {
             "key": "IT_VPI_LW_LAMA_01",
@@ -3042,11 +3062,15 @@
         },
         {
             "key": "IT_VPI_LW_TSLP",
-            "value": "Fragmento de la carta de visión «Tetra Sílfide, cuarta divina conjuradora de vendavales»"
+            "value": "Fragmento de la carta de visión «Tetra Sílfide, las Cuatro Progenitoras de Vendavales»"
         },
         {
             "key": "IT_VPI_LW_LILS",
             "value": "Fragmento de la carta de visión «Camino a la venganza»"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": "Fragmento de la carta de visión «Ochú, el de la Vegetación Vigorosa»"
         },
         {
             "key": "IT_VPI_LW_VALE1",

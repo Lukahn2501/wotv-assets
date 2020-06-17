@@ -1221,6 +1221,14 @@
             "value": "Fragmentauftrag: Adelard"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "Fragmentauftrag: Salire"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "Fragmentauftrag: Viktora"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Zazan"
         },
@@ -1427,6 +1435,14 @@
         {
             "key": "QE_CH_LW_ADLD",
             "value": "Adelard"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "Salire"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
+            "value": "Viktora"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1677,6 +1693,46 @@
             "value": "Rundall, Bedrohung im Westen [EX]"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "Limitierter Schwieriger Auftrag („Viktora“)"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "Fragment-Belohnungsauftrag „Salire“ I"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "Fragment-Belohnungsauftrag „Salire“ II"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "Fragment-Belohnungsauftrag „Salire“ III"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "Fragment-Belohnungsauftrag „Salire“ IV"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "Fragment-Belohnungsauftrag „Salire“ V"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag „Salire“ [EX] I"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag „Salire“ [EX] II"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag „Salire“ [EX] I"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag „Salire“ [EX] II"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "Rundall, Bedrohung im Westen [EX]"
         },
@@ -1835,6 +1891,10 @@
         {
             "key": "QE_SB_LAMA_01",
             "value": "Kampf gegen Lamia-Königin"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
+            "value": "Kampf gegen Küsschen"
         },
         {
             "key": "QE_SB_TSLP_01",
@@ -2067,6 +2127,10 @@
         {
             "key": "QE_GVG_00001",
             "value": "Die Arena"
+        },
+        {
+            "key": "QE_GVG_00002",
+            "value": "Arena"
         },
         {
             "key": "QE_PVP_FRE_0001",

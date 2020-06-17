@@ -157,6 +157,18 @@
             "value": "Rang de joueur 60 et plus"
         },
         {
+            "key": "Normal-20200214_A",
+            "value": "Rang de joueur 1 à 29"
+        },
+        {
+            "key": "Normal-20200214_B",
+            "value": "Rang de joueur 30 à 59"
+        },
+        {
+            "key": "Normal-20200214_C",
+            "value": "Rang de joueur 60 et plus"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Boutique surprise (Rang de joueur 1 à 29)"
         },
@@ -301,8 +313,32 @@
             "value": "Boutique surprise (Rang de joueur 60 et plus)"
         },
         {
+            "key": "Guerrilla-20200214A",
+            "value": "Boutique surprise (Rang de joueur 1 à 29)"
+        },
+        {
+            "key": "Guerrilla-20200214B",
+            "value": "Boutique surprise (Rang de joueur 30 à 59)"
+        },
+        {
+            "key": "Guerrilla-20200214C",
+            "value": "Boutique surprise (Rang de joueur 60 et plus)"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "Améliorez vos unités et vos atouts-visions !"
+        },
+        {
+            "key": "Limited-gl20200617",
+            "value": "Début de l'été - Boutique spéciale"
+        },
+        {
+            "key": "Limited-gl20200617_A",
+            "value": "Boutique des nouvelles unités du moment : améliorez vos unités !"
+        },
+        {
+            "key": "Limited-gl20200617_B",
+            "value": "Boutique du moment : améliorez vos unités et vos atouts-visions !"
         },
         {
             "key": "Limited-gl20200610",
@@ -423,6 +459,10 @@
         {
             "key": "Event-EV02_1_20200201",
             "value": "Bienvenue dans la boutique d'échange des médailles d'événement de juin, kupo !"
+        },
+        {
+            "key": "Event-Summon_GL20200617_B",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'invocation (B) de juin, kupo !"
         },
         {
             "key": "Event-Summon_GL20200603_A",
@@ -1014,6 +1054,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_11",
+            "value": "Objets quotidiens spéciaux pour les jobs de feu"
+        },
+        {
+            "key": "Limited-WATER_2020_2_19",
+            "value": "Objets quotidiens spéciaux pour les jobs d'eau"
+        },
+        {
+            "key": "Limited-WIND_2020_2_20",
+            "value": "Objets quotidiens spéciaux pour les jobs de vent"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_21",
+            "value": "Objets quotidiens spéciaux pour les jobs de foudre"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_22",
+            "value": "Objets quotidiens spéciaux pour les jobs de terre"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_23",
+            "value": "Objets quotidiens spéciaux pour les jobs de lumière"
+        },
+        {
+            "key": "Limited-DARK_2020_2_23",
+            "value": "Objets quotidiens spéciaux pour les jobs d'ombre"
+        },
+        {
+            "key": "Limited-ICE_2020_2_17",
+            "value": "Objets quotidiens spéciaux pour les jobs de glace"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_18",
             "value": "Objets quotidiens spéciaux pour les jobs de feu"
         }
     ]

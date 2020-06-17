@@ -1221,6 +1221,14 @@
             "value": "하드 퀘스트"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "하드 퀘스트"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "하드 퀘스트"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "캐릭터 퀘스트"
         },
@@ -1426,6 +1434,14 @@
         },
         {
             "key": "QE_CH_LW_ADLD",
+            "value": "캐릭터 퀘스트"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "캐릭터 퀘스트"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
             "value": "캐릭터 퀘스트"
         },
         {
@@ -1677,6 +1693,46 @@
             "value": "권장: 유닛 레벨 50 / 직업 레벨 10"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "기간 한정"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "권장: 유닛 레벨 5 / 직업 레벨 1"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "권장: 유닛 레벨 10 / 직업 레벨 2"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "권장: 유닛 레벨 20 / 직업 레벨 4"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "권장: 유닛 레벨 30 / 직업 레벨 6"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "권장: 유닛 레벨 40 / 직업 레벨 6"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "권장: 유닛 레벨 50 / 직업 레벨 10"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "권장: 유닛 레벨 50 / 직업 레벨 10"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "권장: 유닛 레벨 50 / 직업 레벨 10"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "권장: 유닛 레벨 50 / 직업 레벨 10"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "권장: 유닛 레벨 50 / 직업 레벨 10"
         },
@@ -1834,6 +1890,10 @@
         },
         {
             "key": "QE_SB_LAMA_01",
+            "value": "권장: 유닛 레벨 60 / 직업 레벨 10"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
             "value": "권장: 유닛 레벨 60 / 직업 레벨 10"
         },
         {
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": ""
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": ""
         },
         {

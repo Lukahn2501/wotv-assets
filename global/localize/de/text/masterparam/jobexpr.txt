@@ -110,39 +110,39 @@
         },
         {
             "key": "JB_LW_SWN",
-            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf LP-zehrende Feuerkraft spezialisiert, um gewaltigen Schaden anrichtende Attacken zu entfesseln."
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
         },
         {
             "key": "JB_LW_SWN_FIRE",
-            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf LP-zehrende Feuerkraft spezialisiert, um gewaltigen Schaden anrichtende Attacken zu entfesseln."
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
         },
         {
             "key": "JB_LW_SWN_ICE",
-            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf LP-zehrende Feuerkraft spezialisiert, um gewaltigen Schaden anrichtende Attacken zu entfesseln."
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
         },
         {
             "key": "JB_LW_SWN_WIND",
-            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf LP-zehrende Feuerkraft spezialisiert, um gewaltigen Schaden anrichtende Attacken zu entfesseln."
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
         },
         {
             "key": "JB_LW_SWN_SOIL",
-            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf LP-zehrende Feuerkraft spezialisiert, um gewaltigen Schaden anrichtende Attacken zu entfesseln."
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
         },
         {
             "key": "JB_LW_SWN_THUN",
-            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf LP-zehrende Feuerkraft spezialisiert, um gewaltigen Schaden anrichtende Attacken zu entfesseln."
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
         },
         {
             "key": "JB_LW_SWN_WATER",
-            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf LP-zehrende Feuerkraft spezialisiert, um gewaltigen Schaden anrichtende Attacken zu entfesseln."
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
         },
         {
             "key": "JB_LW_SWN_SHINE",
-            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf LP-zehrende Feuerkraft spezialisiert, um gewaltigen Schaden anrichtende Attacken zu entfesseln."
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
         },
         {
             "key": "JB_LW_SWN_DARK",
-            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf LP-zehrende Feuerkraft spezialisiert, um gewaltigen Schaden anrichtende Attacken zu entfesseln."
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
         },
         {
             "key": "JB_LW_HUN",

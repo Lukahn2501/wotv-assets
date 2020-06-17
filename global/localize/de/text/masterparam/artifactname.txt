@@ -1933,6 +1933,18 @@
             "value": "Verzaubernde Pistole"
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "Rüstung der Gier"
+        },
+        {
+            "key": "AF_SPE_LW_VKTR_2",
+            "value": "Lanze der Gier"
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "Magisches Band"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Alexandritring"
         },

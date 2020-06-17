@@ -117,6 +117,10 @@
             "value": "Fortaleza de Guadiaña"
         },
         {
+            "key": "SE_WD_010202",
+            "value": "Cavernas de Yaarm"
+        },
+        {
             "key": "SE_SB_01",
             "value": "Guarida de la Bestia"
         },
@@ -411,6 +415,22 @@
         {
             "key": "SE_EV_BEGN_2001",
             "value": "Misión de apoyo de entrenamiento de unidad"
+        },
+        {
+            "key": "SE_EV_VKTR_01",
+            "value": "[Limitada] Misión difícil (Victra)"
+        },
+        {
+            "key": "SE_EV_THLA",
+            "value": "Misión de recompensa de fragmento de Saria"
+        },
+        {
+            "key": "SE_EV_THLA_EX",
+            "value": "[Difícil] Misión EX de recompensa de fragmento de Saria"
+        },
+        {
+            "key": "SE_MU_EV_THLA_EX",
+            "value": "[Multijugador] [Difícil] Misión EX de recompensa de fragmento de Saria"
         }
     ]
 }

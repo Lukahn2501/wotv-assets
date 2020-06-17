@@ -45,6 +45,26 @@
             "value": "„Was soll ich tun ... Ob ich es wohl dieses Jahr schaffe, es ihm zu geben? Aber sollte ich das überhaupt?“<br>Wieder und wieder geht Kiton diesen Ablauf in Gedanken durch. Konkret geht es um die selbstgemachte Süßspeise, mit der sie ihm dafür danken möchte, dass er sich stets um sie kümmert. Ansonsten stecken keinerlei versteckte Absichten dahinter, also sollte sie doch eigentlich in der Lage sein, es ihm ganz normal zu geben. Sie fürchtet allerdings, es mit der Dekoration etwas übertrieben zu haben oder missverstanden zu werden, weswegen sie es letztendlich noch nie über sich gebracht hat, ihm das süße Geschenk zu überreichen. <br>„Vielleicht werde ich es letzten Endes ja auch dieses Jahr Ornh geben ...“ <br>Hastig beißt sie sich auf die Zunge, damit ihr nicht aus Versehen etwas herausrutscht. Die Idee an sich ist ja nicht unbedingt abwegig, schließlich kümmert sich auch Ornh sehr gut um sie. Und dennoch ... Noch während sie die Angelegenheit in Gedanken dreht und wendet, wird ihr klar, dass sie es wohl auch dieses Jahr nicht schaffen wird. "
         },
         {
+            "key": "VC_LW_SHIV",
+            "value": "　Eine prachtvolle Frau, umschmeichelt von eisigem Nebel und stets umtanzt von funkelnden Kristallen. Jeder wird augenblicklich von ihrer Schönheit verzaubert – viele jedoch erlagen schon ihrer kalten Umarmung und erstarrten zu Eis.  Normale Bemühungen reichen nicht aus, um Shivas Unterstützung zu erringen. Nur, wenn der Wunsch eines Bittstellers sie wirklich berührt, taut ihr gefrorenes Herz auf und lässt ihn an ihrem Quell der Kraft teilhaben."
+        },
+        {
+            "key": "VC_LW_RAMU",
+            "value": "　Ein schrumpeliger alter Mann mit der Kraft, über Blitze zu herrschen. Sein stolzer Bart ist beinahe so lang, wie er groß ist. Ramuh ist von einer würdevollen Aura umgeben, die jeden gewöhnlichen Sterblichen in Ehrfurcht vor ihm erzittern lässt. Er ist eine lebende Legende – tatsächlich ist der Name Ramuh schon seit Generationen bekannt – und es gibt Leute, die ihn als ihren einen, wahren König verehren. Interessanterweise lässt sich kaum feststellen, in welcher fernen Vergangenheit die Legende von Ramuh ihren Ursprung nahm."
+        },
+        {
+            "key": "VC_FFT_MV1",
+            "value": "　Das noble Haus Beoulve dient der königlichen Familie von Atkascha seit Generationen. In diese Militärfamilie wurde Ramza hineingeboren. Mitglieder von Haus Beoulve führen seit Generationen den Orden des Nordhimmels an, die größte militärische Macht in ganz Ivalice. Ramzas älterer Bruder Zalbag kommandiert nun den Orden, den sein ältester Bruder Dycedarg und ihr Vater Barbaneth bereits vor ihm anführten. Der junge Ramza beschloss jedoch, sich vom Orden fernzuhalten, und arbeitet stattdessen als Söldner. Und doch ist er derjenige, der durch Zufall die Entführung der Prinzessin aufdeckt. Der Zwischenfall führt zu Konflikten zwischen Herzog Larg von Gallionne, der der Flagge des Weißen Löwen ergeben ist, und Herzog Goltana von Zeltenia, der dem Schwarzen Löwen dient. Bald findet sich Ramza zwischen den Fronten der beiden Häuser wieder, in einem Konflikt, der später als Krieg der Löwen in die Geschichte eingeht"
+        },
+        {
+            "key": "VC_LW_ODIN",
+            "value": "　Ein Titan auf einem gewaltigen, sechsbeinigen Reittier ist in der Tat ein heroischer Anblick, und Odins stämmiger Körperbau soll den anderer Giganten sogar noch übertreffen. Bereits seit längst vergangenen Zeiten in Legenden besungen, zeigte sich Odin nicht nur in Gestalt eines Soldaten, sondern auch als Magier oder König, je nachdem, wessen Münder seine Geschichte erzählten.<br>Es heißt, dass sein allesschneidendes Schwert nicht nur physische Objekte, sondern gar Zeit und Raum selbst zu teilen vermag, und jene, die seiner Opfer wurden, sollen auf immer und ewig vom Spalt im Raum verschlungen werden, noch bevor sie wussten, wie ihnen geschah."
+        },
+        {
+            "key": "VC_LW_TSLP",
+            "value": "　Vier Schwestern unvergleichlicher Schönheit, die die Winde mit sich bringen. Neben den Flügeln und pompösen Federn auf ihrem Haupt schmücken sie sich außerdem noch mit goldenen Diademen. Die Schönheit ihrer Schwingen zieht seit alten Zeiten Menschen in ihren Bann, doch wer es wagt, sich den Schwestern ungeschickt zu nähern, zieht sogleich ihren rasenden Zorn auf sich. Kombiniert sind die Winde, die ihre Schwingen entfachen, in der Lage, einen kolossalen Tornado zu entfachen, und sie gelten nicht ohne Grund als stärkste aller Fabelwesen."
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "　Ein gigantisches Monster, gekleidet in eine edle Eisenrüstung, mit überragender Offensive und Defensive. Selbst seine von der Rüstung unbedeckte Haut ist so hart wie Metall. Daher liegt man wohl kaum falsch in der Annahme, dass seine defensiven Kapazitäten weit fortgeschrittener sind, als man mit bloßem Auge erkennen kann. Seine Angriffe sind heftig und überraschend flink für einen Giganten in einem schweren Panzer. Man vermutet, dass der Eisengigant von einer Art Magie oder durch irgendeine Beschwörungsformel in den Kampf gesteuert wird."
         },
@@ -57,20 +77,8 @@
             "value": "　Ein widerwärtiges Pflanzenmonster mit augenartigen Sinnesorganen, Unmengen scharfer Zähne und Dutzenden Ranken, die sich um seinen Körper winden wie Tentakel. Auch wenn der bloße Anblick seines wallenden Körpers ausreicht, um jeden zu überwältigen, ist das Fürchterlichste der faule Atem, den es aufstößt. Wer dem stinkenden Atem eines Morbol ausgesetzt wird, erblindet, wird vergiftet und verfällt in einen benebelten Geisteszustand, in dem er Freund nicht mehr von Feind unterscheiden kann – bevor er von der fauligen Bestie verschlungen wird. "
         },
         {
-            "key": "VC_LW_SHIV",
-            "value": "　Eine prachtvolle Frau, umschmeichelt von eisigem Nebel und stets umtanzt von funkelnden Kristallen. Jeder wird augenblicklich von ihrer Schönheit verzaubert – viele jedoch erlagen schon ihrer kalten Umarmung und erstarrten zu Eis.  Normale Bemühungen reichen nicht aus, um Shivas Unterstützung zu erringen. Nur, wenn der Wunsch eines Bittstellers sie wirklich berührt, taut ihr gefrorenes Herz auf und lässt ihn an ihrem Quell der Kraft teilhaben."
-        },
-        {
-            "key": "VC_LW_RAMU",
-            "value": "　Ein schrumpeliger alter Mann mit der Kraft, über Blitze zu herrschen. Sein stolzer Bart ist beinahe so lang, wie er groß ist. Ramuh ist von einer würdevollen Aura umgeben, die jeden gewöhnlichen Sterblichen in Ehrfurcht vor ihm erzittern lässt. Er ist eine lebende Legende – tatsächlich ist der Name Ramuh schon seit Generationen bekannt – und es gibt Leute, die ihn als ihren einen, wahren König verehren. Interessanterweise lässt sich kaum feststellen, in welcher fernen Vergangenheit die Legende von Ramuh ihren Ursprung nahm."
-        },
-        {
             "key": "VC_LW_VALE2",
             "value": "„Ob Seine Majestät Styr meine Schokolade wohl annehmen wird ...?“<br>„Was ist los, Etre? Warum machst du nicht weiter? Nashia ist schon fast fertig, und ich brauche auch nicht mehr lange.“<br>„... Hm? Das heißt, du bist auch bald fertig? Yerma ... was genau kochst du da?“<br>„Bist du blind? Schokolade natürlich!“<br>„Äh, wirklich? ... Uh, das riecht ja sehr ... dynamisch ... Bist du sicher, dass du alles richtig gemacht hast?“ <br>„Oh ja, dynamisch ist genau richtig! Das ist keine normale Schokolade, sondern eine Suppe mit lauter köstlichen Zutaten drin! Wenn Styr die isst, wird er sich sicher ... hehehe ...“<br>„... Wird er sich sicher in Lebensgefahr begeben! Nashia, wir müssen sie aufhalten!“<br>„Styr, nicht .... Mein zartes Herzchen ist noch nicht bereit ...“<br> „Kommt mal wieder zurück in die Wirklichkeit, ihr zwei ...!“"
-        },
-        {
-            "key": "VC_FFT_MV1",
-            "value": "　Das noble Haus Beoulve dient der königlichen Familie von Atkascha seit Generationen. In diese Militärfamilie wurde Ramza hineingeboren. Mitglieder von Haus Beoulve führen seit Generationen den Orden des Nordhimmels an, die größte militärische Macht in ganz Ivalice. Ramzas älterer Bruder Zalbag kommandiert nun den Orden, den sein ältester Bruder Dycedarg und ihr Vater Barbaneth bereits vor ihm anführten. Der junge Ramza beschloss jedoch, sich vom Orden fernzuhalten, und arbeitet stattdessen als Söldner. Und doch ist er derjenige, der durch Zufall die Entführung der Prinzessin aufdeckt. Der Zwischenfall führt zu Konflikten zwischen Herzog Larg von Gallionne, der der Flagge des Weißen Löwen ergeben ist, und Herzog Goltana von Zeltenia, der dem Schwarzen Löwen dient. Bald findet sich Ramza zwischen den Fronten der beiden Häuser wieder, in einem Konflikt, der später als Krieg der Löwen in die Geschichte eingeht"
         },
         {
             "key": "VC_LW_FAMILY",
@@ -113,6 +121,14 @@
             "value": "　Sadali Krystheas Eliteleibwächterinnen, die ihm wie ein Schatten folgen und jegliche Bedrohung von ihm abwenden. Sie wirken alles andere als bedrohlich, sind aber mehr als fähig, feindliche Angriffsversuche im Keim zu ersticken, und wenn sie in die Offensive gehen, entspricht ihre Stärke allein der einer ganzen Armee. Sadali baut auf sie mehr als auf alles andere, da sie es sind, die die Kristallene Stätte in die Ränge der anderen großen Nationen erheben.<br>Da sie außer in Zwiesprache mit ihrem Meister Sadali nur selten ihre Stimmen ertönen lassen, bleiben sie selbst Angehörigen der Kirche des Kristalls ein Mysterium. Die Altersunterschiede zwischen den drei sind leicht ersichtlich, doch aufgrund ihrer Masken, die jeweils einen anderen Teil ihrer ansonsten verblüffend ähnlichen Gesichtszüge verbergen, munkelt man, ob sich bei ihnen nicht vielleicht um Schwestern handelt."
         },
         {
+            "key": "VC_LW_LILS",
+            "value": "　Es gab einen Zeitraum von etwa zwei Jahren, in dem Lilith Leonis den Rücken kehrte. Der Grund hierfür war der Tod ihres Bruders Falk im Krieg gegen Fennes: seinen lädierten, leblosen Körper umklammernd, schwor sie Rache. Was genau innerhalb dieser zwei Jahre geschah, gibt sie nicht einmal Mont preis. Selbst für eine Schwertkämpferin ihres Kalibers stellt das Ansinnen, ganz alleine den König einer Kriegernation niederstrecken zu wollen, ein wahnwitziges Vorhaben dar. Angeblich soll sie Muraga und seine Armee unaufhörlich durch kalte Tundren und lebensfeindliche Gebiete verfolgt haben, alles in dem Bestreben, in einem Moment der Unaufmerksamkeit zuzuschlagen; auch ihre unzähligen Narben stammen aus dieser Zeit. Wenngleich sie letzten Endes heimkehrte, ohne ihre Rachegelüste befriedigt zu haben, so wartet sie auch jetzt noch auf eine Chance, Vergeltung zu üben."
+        },
+        {
+            "key": "VC_LW_OCHU",
+            "value": "　Ein massives Pflanzenmonster, dessen Größe mühelos kleinere Hügel in den Schatten stellt. Neben seinem gigantischen Maul mit spitzen Fangzähnen zeichnet es sich durch seine zahllosen Ranken aus, die den Barteln eines Wels ähneln. Es ist berüchtigt für seine Fähigkeit, eine Reihe schädlicher Zustandsveränderungen wie Gift oder Lähmung hervorrufen zu können. Sobald es in Erregung gerät, schüttelt es seinen gewaltigen Körper, was für manche eine Art Tanz darstellt. Oft werden sie auch von einer Schar junger Kleinküsschen begleitet."
+        },
+        {
             "key": "VC_LW_CACT",
             "value": "　Ein Monster vom Typ Pflanze, das normalerweise in Wüstenregionen gesichtet wird. Seine verblüffende Ähnlichkeit mit einem Kaktus – einer sukkulenten, wasserspeichernden Pflanze, die in Wüsten oder anderen trockenen Biomen zu Hause ist – gab ihm seinen kuriosen Namen. Sein stacheliges Äußeres erinnert stark an die dornigen Blätter eines Kaktus, und wenn er stillsteht, ist er kaum von der tatsächlichen Pflanze zu unterscheiden. In seltenen Fällen wachsen einem Kaktor sogar Blüten wie seinem botanischen Gegenstück; nicht wenige Wüstenwanderer fielen schon auf diesen hoch spezialisierten Doppelgänger herein. Mund und Augen dieser Kreatur sind seltsam hohl, und obwohl der Kaktor über alle Gliedmaßen verfügt, die er zum aufrechten Gehen bräuchte, wurde er noch nie dabei beobachtet. Das mag allerdings daran liegen, dass er im Augenblick seiner Sichtung erstarrt und blitzartig verschwindet, sobald sein Gegenüber auch nur eine Sekunde lang abgelenkt ist."
         },
@@ -127,10 +143,6 @@
         {
             "key": "VC_LW_OGRE",
             "value": "　Ein kampflustiges Monster mit einem Faible für Folter. Von Menschen gleichermaßen gefürchtet wie gehasst, wird es auch der Menschenfresser genannt. Seine enorm muskulöse Gestalt – und die damit einhergehende Stärke – beträgt das Vielfache eines gewöhnlichen Menschenkörpers, was es zu einer wahrhaft bedrohlichen Präsenz für die Völker von Ardra macht."
-        },
-        {
-            "key": "VC_LW_ODIN",
-            "value": "　Ein Titan auf einem gewaltigen, sechsbeinigen Reittier ist in der Tat ein heroischer Anblick, und Odins stämmiger Körperbau soll den anderer Giganten sogar noch übertreffen. Bereits seit längst vergangenen Zeiten in Legenden besungen, zeigte sich Odin nicht nur in Gestalt eines Soldaten, sondern auch als Magier oder König, je nachdem, wessen Münder seine Geschichte erzählten.<br>Es heißt, dass sein allesschneidendes Schwert nicht nur physische Objekte, sondern gar Zeit und Raum selbst zu teilen vermag, und jene, die seiner Opfer wurden, sollen auf immer und ewig vom Spalt im Raum verschlungen werden, noch bevor sie wussten, wie ihnen geschah."
         },
         {
             "key": "VC_LW_BOMB",
@@ -211,14 +223,6 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "　Ein Relikt der Altvorderen, das angeblich Bilder aus fernen Landen zeigen kann. Eine kleine weibliche Figur mit vogelartigen Flügeln ziert den Spiegel, und auf ihrem Arm sitzt ein Greifvogel."
-        },
-        {
-            "key": "VC_LW_TSLP",
-            "value": "　Vier Schwestern unvergleichlicher Schönheit, die die Winde mit sich bringen. Neben den Flügeln und pompösen Federn auf ihrem Haupt schmücken sie sich außerdem noch mit goldenen Diademen. Die Schönheit ihrer Schwingen zieht seit alten Zeiten Menschen in ihren Bann, doch wer es wagt, sich den Schwestern ungeschickt zu nähern, zieht sogleich ihren rasenden Zorn auf sich. Kombiniert sind die Winde, die ihre Schwingen entfachen, in der Lage, einen kolossalen Tornado zu entfachen, und sie gelten nicht ohne Grund als stärkste aller Fabelwesen."
-        },
-        {
-            "key": "VC_LW_LILS",
-            "value": "　Es gab einen Zeitraum von etwa zwei Jahren, in dem Lilith Leonis den Rücken kehrte. Der Grund hierfür war der Tod ihres Bruders Falk im Krieg gegen Fennes: seinen lädierten, leblosen Körper umklammernd, schwor sie Rache. Was genau innerhalb dieser zwei Jahre geschah, gibt sie nicht einmal Mont preis. Selbst für eine Schwertkämpferin ihres Kalibers stellt das Ansinnen, ganz alleine den König einer Kriegernation niederstrecken zu wollen, ein wahnwitziges Vorhaben dar. Angeblich soll sie Muraga und seine Armee unaufhörlich durch kalte Tundren und lebensfeindliche Gebiete verfolgt haben, alles in dem Bestreben, in einem Moment der Unaufmerksamkeit zuzuschlagen; auch ihre unzähligen Narben stammen aus dieser Zeit. Wenngleich sie letzten Endes heimkehrte, ohne ihre Rachegelüste befriedigt zu haben, so wartet sie auch jetzt noch auf eine Chance, Vergeltung zu üben."
         },
         {
             "key": "VC_EXP_01",

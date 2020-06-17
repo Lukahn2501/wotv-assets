@@ -425,20 +425,32 @@
             "value": "Ein Paket, das Wachstumseier (SR) und „Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket enthält."
         },
         {
-            "key": "IT_SET_AWK_02",
-            "value": "Ein besonderes Paket, das „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket sowie Regenbogenfarbene Visionskugeln und ein „Auswählbares Erweckungsprisma x100“-Beschwörungsticket enthält!"
+            "key": "IT_SET_AWK_GL01",
+            "value": "Ein besonderes Paket, das eine Regenbogenfarbene Visionskugel, ein „Auswählbares Erweckungsprisma x100“-Beschwörungsticket und ein „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket  enthält! Perfekt zum Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "Hol dir einmal täglich gratis Storyüberspringtickets!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "Ein Paket, das Blitz-Gedankenfragmente und Blitz-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "Ein Paket, das Dunkel-Gedankenfragmente und Dunkel-Erweckungsprismen enthält."
         },
         {
             "key": "IT_SET_WA_DOD_GL01",
-            "value": ""
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln des Ausweichens für eine erhöhte Chance auf eine Steigerung des Ausweichgeschick-Wertes und Zwergenhämmern der Vermeidung zum weiteren Ausbau des Ausweichgeschick-Wertes!"
         },
         {
             "key": "IT_SET_WA_MND_GL01",
-            "value": ""
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln der Magie für eine erhöhte Chance auf eine Steigerung des MAG-Wertes und Zwergenhämmern der Magie zum weiteren Ausbau des MAG-Wertes!"
         },
         {
             "key": "IT_SET_WA_CRI_GL01",
-            "value": ""
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln des Schadens für eine erhöhte Chance auf eine Steigerung des KRIT-Wertes und Zwergenhämmern der Beendigun zum weiteren Ausbau des KRIT-Wertes!"
         }
     ]
 }

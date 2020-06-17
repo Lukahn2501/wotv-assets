@@ -3005,6 +3005,26 @@
             "value": "Viento celestial"
         },
         {
+            "key": "SK_OCHU_ATK",
+            "value": "Ataque normal"
+        },
+        {
+            "key": "SK_OCHU_M_01",
+            "value": "Polvo venenoso"
+        },
+        {
+            "key": "SK_OCHU_M_02",
+            "value": "Látigo entumecedor"
+        },
+        {
+            "key": "SK_OCHU_M_03",
+            "value": "Danza de ochú"
+        },
+        {
+            "key": "SK_OCHU_M_04",
+            "value": "Cañón de semillas orientado"
+        },
+        {
             "key": "SK_LW_E_VIK_ATK",
             "value": "Ataque normal"
         },
@@ -3205,6 +3225,10 @@
             "value": "Esgrima: Dios del trueno"
         },
         {
+            "key": "SK_LB_LW_VKTR",
+            "value": "Trampa encantadora"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Fuego infernal"
         },
@@ -3267,6 +3291,10 @@
         {
             "key": "SK_SMN_TSLP",
             "value": "Viento celestial"
+        },
+        {
+            "key": "SK_SMN_OCHU",
+            "value": "Cañon de semilla orientado"
         },
         {
             "key": "SK_US_POTION",
@@ -3609,6 +3637,14 @@
             "value": "Habilidad maestra"
         },
         {
+            "key": "SK_MA_LW_VKTR",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_LW_THLA",
+            "value": "Habilidad maestra"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Ataque de corte +2"
         },
@@ -3769,6 +3805,10 @@
             "value": "Limitador desactivado"
         },
         {
+            "key": "SK_ARM_LW_VKTR_1_1",
+            "value": "Ojo del dragón"
+        },
+        {
             "key": "SK_SWO_LW_ADLD_1_1",
             "value": ""
         },
@@ -3906,6 +3946,10 @@
         },
         {
             "key": "SK_ARM_LW_KTON_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_THLA_1_1",
             "value": ""
         },
         {
@@ -4246,6 +4290,14 @@
         },
         {
             "key": "SK_VC_LW_LAMA_01_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_GSAW",
             "value": ""
         },
         {
@@ -4781,6 +4833,14 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_OCHU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_VALE1_P",
             "value": ""
         },
@@ -5193,6 +5253,18 @@
             "value": "Res. ceguera↓"
         },
         {
+            "key": "SK_BTL_INV_HPDOWN",
+            "value": "Anula VIT máx.↓"
+        },
+        {
+            "key": "SK_BTL_INV_MKBT",
+            "value": "Res. mecánica"
+        },
+        {
+            "key": "SK_BTL_INV_CTDOWN",
+            "value": "Anula las alteraciones al TC"
+        },
+        {
             "key": "SK_BTL_RES_SLEEP_1_100_D",
             "value": "Res. sueño↓"
         },
@@ -5251,18 +5323,6 @@
         {
             "key": "SK_BTL_INV_POISON",
             "value": "Anula veneno"
-        },
-        {
-            "key": "SK_BTL_INV_HPDOWN",
-            "value": "Anula VIT máx.↓"
-        },
-        {
-            "key": "SK_BTL_INV_MKBT",
-            "value": "Res. mecánica"
-        },
-        {
-            "key": "SK_BTL_INV_CTDOWN",
-            "value": "Anula las alteraciones al TC"
         },
         {
             "key": "SK_BTL_JOB_THI_1_15_U",

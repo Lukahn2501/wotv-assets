@@ -317,6 +317,34 @@
             "value": "RAID記念ピックアップ召喚のおまけです"
         },
         {
+            "key": "gacha_unit_vc_gl20200617_01",
+            "value": "新ユニット/ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_10",
+            "value": "新ユニット/ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "p_gacha_unit_gl20200617_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200617_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_a_01",
+            "value": "アーリーサマー記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_a_10",
+            "value": "アーリーサマー記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "no_coin_gacha_gl20200617_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "ピックアップ召喚のおまけです"
         },

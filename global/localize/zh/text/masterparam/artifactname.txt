@@ -1933,6 +1933,18 @@
             "value": "魅惑火槍"
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "貪婪之鎧"
+        },
+        {
+            "key": "AF_SPE_LW_VKTR_2",
+            "value": "貪婪之槍"
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "魔力繩"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "變石戒指"
         },

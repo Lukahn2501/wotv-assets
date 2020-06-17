@@ -407,6 +407,70 @@
         {
             "key": "DU_LW_IFRT",
             "value": "Ifrit"
+        },
+        {
+            "key": "DU_LW_LYCS",
+            "value": "Reychess"
+        },
+        {
+            "key": "DU_LW_GLAR",
+            "value": "Grahl"
+        },
+        {
+            "key": "DU_LW_MLNA",
+            "value": "Melenia"
+        },
+        {
+            "key": "DU_LW_RNEL",
+            "value": "Ranel"
+        },
+        {
+            "key": "DU_LW_HWLT",
+            "value": "Howlet"
+        },
+        {
+            "key": "DU_LW_TITU",
+            "value": "Thytas"
+        },
+        {
+            "key": "DU_LW_CHEL",
+            "value": "Chel"
+        },
+        {
+            "key": "DU_LW_MRND",
+            "value": "Miranda"
+        },
+        {
+            "key": "DU_LW_LVES",
+            "value": "Raviesse"
+        },
+        {
+            "key": "DU_LW_TREL",
+            "value": "Tyrrell"
+        },
+        {
+            "key": "DU_LW_CH_00",
+            "value": "Jeune garçon"
+        },
+        {
+            "key": "DU_LW_WYVN",
+            "value": "Wyverne"
+        },
+        {
+            "key": "DU_LW_WYVN_01",
+            "value": "Wyverne"
+        },
+        {
+            "key": "DU_LW_IGNT",
+            "value": "Géant de fer"
+        },
+        {
+            "key": "DU_LW_IGNT_02",
+            "value": "Géant de fer, Dæmon en acier noir"
+        },
+        {
+            "key": "DU_LW_GLEM",
+            "value": "Golem"
         }
     ]
 }

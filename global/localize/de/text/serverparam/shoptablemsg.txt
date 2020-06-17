@@ -157,6 +157,18 @@
             "value": "Spielerrang 60 und höher"
         },
         {
+            "key": "Normal-20200214_A",
+            "value": "Spielerrang 1 bis 29"
+        },
+        {
+            "key": "Normal-20200214_B",
+            "value": "Spielerrang 30 bis 59"
+        },
+        {
+            "key": "Normal-20200214_C",
+            "value": "Spielerrang 60 und höher"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Launischer Laden (Spielerrang 1 bis 29)"
         },
@@ -301,8 +313,32 @@
             "value": "Launischer Laden (Spielerrang 60 und höher)"
         },
         {
+            "key": "Guerrilla-20200214A",
+            "value": "Launischer Laden (Spielerrang 1 bis 29)"
+        },
+        {
+            "key": "Guerrilla-20200214B",
+            "value": "Launischer Laden (Spielerrang 30 bis 59)"
+        },
+        {
+            "key": "Guerrilla-20200214C",
+            "value": "Launischer Laden (Spielerrang 60 und höher)"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200617",
+            "value": "Frühsommer-Spezialitätenladen"
+        },
+        {
+            "key": "Limited-gl20200617_A",
+            "value": "Der Laden für neue Einheiten im Blickpunkt: Verbessere die Einheiten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200617_B",
+            "value": "Blickpunktladen: Verbessere die Einheiten und Visionskarten in deinem Besitz!"
         },
         {
             "key": "Limited-gl20200610",
@@ -423,6 +459,10 @@
         {
             "key": "Event-EV02_1_20200201",
             "value": "Dies ist der Tauschladen für Juni-Eventmedaillen, Kupo!"
+        },
+        {
+            "key": "Event-Summon_GL20200617_B",
+            "value": "Dies ist der Tauschladen für Juni-Beschwörungsmedaillen B, kupo!"
         },
         {
             "key": "Event-Summon_GL20200603_A",
@@ -1014,6 +1054,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_11",
+            "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WATER_2020_2_19",
+            "value": "Der Gezeitenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WIND_2020_2_20",
+            "value": "Der Böenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_21",
+            "value": "Der Schockbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_22",
+            "value": "Der Lehmbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_23",
+            "value": "Der Schimmerbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-DARK_2020_2_23",
+            "value": "Der Schattenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-ICE_2020_2_17",
+            "value": "Der Frostbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_18",
             "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
         }
     ]

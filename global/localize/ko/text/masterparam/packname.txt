@@ -25,6 +25,10 @@
             "value": "스토리 퀘스트 패키지 V"
         },
         {
+            "key": "MP_QEST_06",
+            "value": "스토리 퀘스트 패키지 VI"
+        },
+        {
             "key": "MP_GL_RANK_02",
             "value": "플레이어 랭크 패키지 II"
         },

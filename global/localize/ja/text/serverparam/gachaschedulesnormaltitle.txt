@@ -81,6 +81,18 @@
             "value": "レア召喚"
         },
         {
+            "key": "Raregacha_A_gl20200617_01",
+            "value": "レア召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_10",
+            "value": "レア召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_P",
+            "value": "レア召喚"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "リリース記念 期間限定 ノーマル召喚"
         },
@@ -151,6 +163,14 @@
         {
             "key": "Normal_gacha_A_gl20200610_10",
             "value": "レイド記念 期間限定 ノーマル召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_01",
+            "value": "アーリーサマー記念ノーマル召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_10",
+            "value": "アーリーサマー記念ノーマル召喚　10連召喚"
         }
     ]
 }

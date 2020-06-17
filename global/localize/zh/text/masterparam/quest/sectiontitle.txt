@@ -117,6 +117,10 @@
             "value": "希庫魯要塞"
         },
         {
+            "key": "SE_WD_010202",
+            "value": "亞姆洞穴"
+        },
+        {
             "key": "SE_SB_01",
             "value": "強敵之間"
         },
@@ -411,6 +415,22 @@
         {
             "key": "SE_EV_BEGN_2001",
             "value": "兵員育成支援任務"
+        },
+        {
+            "key": "SE_EV_VKTR_01",
+            "value": "限定困難任務（維克托拉）"
+        },
+        {
+            "key": "SE_EV_THLA",
+            "value": "薩麗雅的碎片獲得任務"
+        },
+        {
+            "key": "SE_EV_THLA_EX",
+            "value": "高難度 薩麗雅的碎片獲得 EX任務"
+        },
+        {
+            "key": "SE_MU_EV_THLA_EX",
+            "value": "高難度 薩麗雅的碎片獲得 EX任務協力"
         }
     ]
 }

@@ -39,6 +39,10 @@
         {
             "key": "10",
             "value": "<line-height=15>¡Tienda especial de celebración de asalto!"
+        },
+        {
+            "key": "11",
+            "value": "<line-height=15>Tienda especial<br>de comienzo del verano"
         }
     ]
 }

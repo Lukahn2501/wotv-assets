@@ -157,6 +157,18 @@
             "value": "Hauptladen"
         },
         {
+            "key": "Normal-20200214_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200214_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200214_C",
+            "value": "Hauptladen"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Guerilla-Geschäft"
         },
@@ -301,8 +313,32 @@
             "value": "Guerilla-Geschäft"
         },
         {
+            "key": "Guerrilla-20200214A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200214B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200214C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "FFT-Kollaboladen"
+        },
+        {
+            "key": "Limited-gl20200617",
+            "value": "Frühsommer-Spezialitätenladen"
+        },
+        {
+            "key": "Limited-gl20200617_A",
+            "value": "Laden für neue Einheiten & Visionskarten im Blickpunkt"
+        },
+        {
+            "key": "Limited-gl20200617_B",
+            "value": "Laden für Einheiten im Blickpunkt"
         },
         {
             "key": "Limited-gl20200610",
@@ -423,6 +459,10 @@
         {
             "key": "Event-EV02_1_20200201",
             "value": "Juni-Eventmedaille"
+        },
+        {
+            "key": "Event-Summon_GL20200617_B",
+            "value": "Tauschladen für Beschwörungsmedaillen"
         },
         {
             "key": "Event-Summon_GL20200603_A",
@@ -1014,6 +1054,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_11",
+            "value": "Aschenbasar"
+        },
+        {
+            "key": "Limited-WATER_2020_2_19",
+            "value": "Gezeitenbasar"
+        },
+        {
+            "key": "Limited-WIND_2020_2_20",
+            "value": "Böenbasar"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_21",
+            "value": "Schockbasar"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_22",
+            "value": "Lehmbasar"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_23",
+            "value": "Schimmerbasar"
+        },
+        {
+            "key": "Limited-DARK_2020_2_23",
+            "value": "Schattenbasar"
+        },
+        {
+            "key": "Limited-ICE_2020_2_17",
+            "value": "Frostbasar"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_18",
             "value": "Aschenbasar"
         }
     ]

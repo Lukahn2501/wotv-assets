@@ -75,6 +75,10 @@
         {
             "key": "LB_LIMIT_GL0008",
             "value": "Bonificación de acceso de celebración de asalto"
+        },
+        {
+            "key": "LB_LIMIT_GL0009",
+            "value": "Bonificación de acceso de comienzo del verano"
         }
     ]
 }

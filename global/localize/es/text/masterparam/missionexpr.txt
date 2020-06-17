@@ -886,11 +886,11 @@
         },
         {
             "key": "M_EV_IGNT_01",
-            "value": "Completa el desafío de Férreo en dificultad alta 1 vez"
+            "value": "Completa el desafío de Férreo en dificultad alta"
         },
         {
             "key": "M_EV_IGNT_02",
-            "value": "Completa el desafío de Férreo en dificultad alta 1 vez"
+            "value": "Completa el desafío de Férreo en dificultad alta"
         },
         {
             "key": "M_EV_IGNT_03",
@@ -906,7 +906,7 @@
         },
         {
             "key": "M_EV_IGNT_06",
-            "value": "Completa el desafío de Férreo en dificultad extrema 1 vez"
+            "value": "Completa el desafío de Férreo en dificultad extrema"
         },
         {
             "key": "M_EV_IGNT_07",
@@ -918,7 +918,7 @@
         },
         {
             "key": "M_EV_IGNT_09",
-            "value": "[Multijugador] Completa el desafío de Férreo en dificultad extrema 1 vez"
+            "value": "[Multijugador] Completa el desafío de Férreo en dificultad extrema"
         },
         {
             "key": "M_EV_IGNT_10",
@@ -1070,7 +1070,7 @@
         },
         {
             "key": "M_EV02_1_01",
-            "value": "Completa la amenaza del oeste, Rundal, Ep. 1 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste, Ep. 1"
         },
         {
             "key": "M_EV02_1_02",
@@ -1082,7 +1082,7 @@
         },
         {
             "key": "M_EV02_1_04",
-            "value": "Completa la amenaza del oeste, Rundal, Ep. 2 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste, Ep. 2"
         },
         {
             "key": "M_EV02_1_05",
@@ -1094,7 +1094,7 @@
         },
         {
             "key": "M_EV02_1_07",
-            "value": "Completa la amenaza del oeste, Rundal, Ep. 3 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste, Ep. 3"
         },
         {
             "key": "M_EV02_1_08",
@@ -1106,7 +1106,7 @@
         },
         {
             "key": "M_EV02_1_10",
-            "value": "Completa la amenaza del oeste, Rundal, Ep. 4 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste, Ep. 4"
         },
         {
             "key": "M_EV02_1_11",
@@ -1118,7 +1118,7 @@
         },
         {
             "key": "M_EV02_1_13",
-            "value": "Completa la amenaza del oeste, Rundal, Ep. 5 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste, Ep. 5"
         },
         {
             "key": "M_EV02_1_14",
@@ -1130,7 +1130,7 @@
         },
         {
             "key": "M_EV02_1_16",
-            "value": "Completa la amenaza del oeste, Rundal, Ep. 6 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste, Ep. 6"
         },
         {
             "key": "M_EV02_1_17",
@@ -1142,7 +1142,7 @@
         },
         {
             "key": "M_EV02_1_19",
-            "value": "Completa la amenaza del oeste, Rundal, Ep. 7 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste, Ep. 7"
         },
         {
             "key": "M_EV02_1_20",
@@ -1154,7 +1154,7 @@
         },
         {
             "key": "M_EV02_1_22",
-            "value": "Completa la amenaza del oeste, Rundal, Ep. 8 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste, Ep. 8"
         },
         {
             "key": "M_EV02_1_23",
@@ -1166,7 +1166,7 @@
         },
         {
             "key": "M_EV02_1_25",
-            "value": "Completa la amenaza del oeste, Rundal, Ep. 9 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste, Ep. 9"
         },
         {
             "key": "M_EV02_1_26",
@@ -1178,7 +1178,7 @@
         },
         {
             "key": "M_EV02_1_28",
-            "value": "Completa la amenaza del oeste, Rundal, Ep. 10 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste, Ep. 10"
         },
         {
             "key": "M_EV02_1_29",
@@ -1194,7 +1194,7 @@
         },
         {
             "key": "M_EV02_1_32",
-            "value": "Completa la amenaza del oeste, Rundal [EX] 1 vez"
+            "value": "Completa Rundal, la amenaza del oeste [EX]"
         },
         {
             "key": "M_EV02_1_33",
@@ -1210,7 +1210,7 @@
         },
         {
             "key": "M_EV02_1_36",
-            "value": "[Multijugador] Completa la amenaza del oeste, Rundal [EX] 1 vez"
+            "value": "[Multijugador] Completa Rundal, la amenaza del oeste [EX]"
         },
         {
             "key": "M_EV02_1_37",
@@ -1335,6 +1335,118 @@
         {
             "key": "M_MU_ET01_EX2_03",
             "value": "[Multijugador] Completa la misión difícil EX de entrenamiento de Etra II 5 veces"
+        },
+        {
+            "key": "M_THLA01_1_01",
+            "value": "Completa la misión de recompensa de fragmento de Saria I"
+        },
+        {
+            "key": "M_THLA01_1_02",
+            "value": "Completa la misión de recompensa de fragmento de Saria I 2 veces"
+        },
+        {
+            "key": "M_THLA01_1_03",
+            "value": "Completa la misión de recompensa de fragmento de Saria I 3 veces"
+        },
+        {
+            "key": "M_THLA01_1_04",
+            "value": "Completa la misión de recompensa de fragmento de Saria II"
+        },
+        {
+            "key": "M_THLA01_1_05",
+            "value": "Completa la misión de recompensa de fragmento de Saria II 2 veces"
+        },
+        {
+            "key": "M_THLA01_1_06",
+            "value": "Completa la misión de recompensa de fragmento de Saria II 3 veces"
+        },
+        {
+            "key": "M_THLA01_1_07",
+            "value": "Completa la misión de recompensa de fragmento de Saria III"
+        },
+        {
+            "key": "M_THLA01_1_08",
+            "value": "Completa la misión de recompensa de fragmento de Saria III 2 veces"
+        },
+        {
+            "key": "M_THLA01_1_09",
+            "value": "Completa la misión de recompensa de fragmento de Saria III 3 veces"
+        },
+        {
+            "key": "M_THLA01_1_10",
+            "value": "Completa la misión de recompensa de fragmento de Saria IV"
+        },
+        {
+            "key": "M_THLA01_1_11",
+            "value": "Completa la misión de recompensa de fragmento de Saria IV 2 veces"
+        },
+        {
+            "key": "M_THLA01_1_12",
+            "value": "Completa la misión de recompensa de fragmento de Saria IV 3 veces"
+        },
+        {
+            "key": "M_THLA01_1_13",
+            "value": "Completa la misión de recompensa de fragmento de Saria V"
+        },
+        {
+            "key": "M_THLA01_1_14",
+            "value": "Completa la misión de recompensa de fragmento de Saria V 5 veces"
+        },
+        {
+            "key": "M_THLA01_1_15",
+            "value": "Completa la misión de recompensa de fragmento de Saria V 10 veces"
+        },
+        {
+            "key": "M_THLA01_1_16",
+            "value": "Completa la misión de recompensa de fragmento de Saria V 15 veces"
+        },
+        {
+            "key": "M_THLA01_EX1_01",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta"
+        },
+        {
+            "key": "M_THLA01_EX1_02",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta 3 veces"
+        },
+        {
+            "key": "M_THLA01_EX1_03",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta 5 veces"
+        },
+        {
+            "key": "M_THLA01_EX2_01",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta"
+        },
+        {
+            "key": "M_THLA01_EX2_02",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta 3 veces"
+        },
+        {
+            "key": "M_THLA01_EX2_03",
+            "value": "Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta 5 veces"
+        },
+        {
+            "key": "M_MU_TH01_EX1_01",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta"
+        },
+        {
+            "key": "M_MU_TH01_EX1_02",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta 3 veces"
+        },
+        {
+            "key": "M_MU_TH01_EX1_03",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria I en dificultad alta 5 veces"
+        },
+        {
+            "key": "M_MU_TH01_EX2_01",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta"
+        },
+        {
+            "key": "M_MU_TH01_EX2_02",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta 3 veces"
+        },
+        {
+            "key": "M_MU_TH01_EX2_03",
+            "value": "[Multijugador] Completa la misión EX de recompensa de fragmento de Saria II en dificultad alta 5 veces"
         },
         {
             "key": "M_ART_SCR_01",
@@ -1959,6 +2071,42 @@
         {
             "key": "M_QEST_045",
             "value": "Completa el capítulo 5, escena 3: Solidus"
+        },
+        {
+            "key": "M_QEST_046",
+            "value": "Completa el capítulo 6, escena 1: A la salida de la cueva I"
+        },
+        {
+            "key": "M_QEST_047",
+            "value": "Completa el capítulo 6, escena 1: Lucharé II"
+        },
+        {
+            "key": "M_QEST_048",
+            "value": "Completa el capítulo 6, escena 1: Que sea tu espada la que hable"
+        },
+        {
+            "key": "M_QEST_049",
+            "value": "Completa el capítulo 6, escena 2: Lobos hambrientos"
+        },
+        {
+            "key": "M_QEST_050",
+            "value": "Completa el capítulo 6, escena 2: El perro de Rundal"
+        },
+        {
+            "key": "M_QEST_051",
+            "value": "Completa el capítulo 6, escena 2: Conquista del trono II"
+        },
+        {
+            "key": "M_QEST_052",
+            "value": "Completa el capítulo 6, escena 3: Que la luz de los cristales nos guíe"
+        },
+        {
+            "key": "M_QEST_053",
+            "value": "Completa el capítulo 6, escena 3: Solidus, ¡al ataque!"
+        },
+        {
+            "key": "M_QEST_054",
+            "value": "Completa el capítulo 6, escena 3: Estrellas tempestuosas"
         },
         {
             "key": "M_GL_RANK_001",
@@ -3734,6 +3882,30 @@
         },
         {
             "key": "M_LAPS_P_LUCA_06",
+            "value": "Gasta 50 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_01",
+            "value": "Gasta 500 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_02",
+            "value": "Gasta 3000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_03",
+            "value": "Gasta 6000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_04",
+            "value": "Gasta 12 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_05",
+            "value": "Gasta 24 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VKTR_06",
             "value": "Gasta 50 000 visiores"
         },
         {

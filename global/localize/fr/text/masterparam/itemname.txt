@@ -1673,6 +1673,14 @@
             "value": "Fragment d'unité d'Adelard"
         },
         {
+            "key": "IT_PI_LW_VKTR",
+            "value": "Fragment d'unité de Viktora"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "Fragment d'unité de Saliah"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Magilithe rouge (S)"
         },
@@ -1919,6 +1927,14 @@
         {
             "key": "IT_SB_AW_TSLP_R3",
             "value": "Pierre d’éveil de Tétra-Sylphides (3★)"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "Pierre d’éveil d'Otyugh (2★)"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "Pierre d’éveil d'Otyugh (3★)"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2649,6 +2665,10 @@
             "value": "Médailles d’invocation A [Juin]"
         },
         {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "Médailles d’invocation B [Juin]"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Médaille d'événement FFT"
         },
@@ -2662,7 +2682,7 @@
         },
         {
             "key": "IT_EC_TOWER_001",
-            "value": ""
+            "value": "Médaille de la tour"
         },
         {
             "key": "IT_EC_EV02_1",
@@ -2770,7 +2790,7 @@
         },
         {
             "key": "IT_US_G_UR_02",
-            "value": "Ticket d'invocation UR garantie [Hiver]"
+            "value": "Ticket d'invocation UR garantie [B]"
         },
         {
             "key": "IT_US_G_U_R_UR_01",
@@ -3047,6 +3067,10 @@
         {
             "key": "IT_VPI_LW_LILS",
             "value": "Fragment de l'atout-vision : Voie de la vengeance"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": "Fragment de l'atout-vision : Otyugh, la Plante déchaînée"
         },
         {
             "key": "IT_VPI_LW_VALE1",

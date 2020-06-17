@@ -87,6 +87,14 @@
         {
             "key": "SQ_WD_010201_02",
             "value": "Tu me rapporterais un œuf de croissance ?"
+        },
+        {
+            "key": "SQ_WD_010202_01",
+            "value": "Serais-tu capable de fabriquer de meilleures armes que les miennes ?"
+        },
+        {
+            "key": "SQ_WD_010202_02",
+            "value": "Tu dois choisir une aptitude, t'sais !"
         }
     ]
 }

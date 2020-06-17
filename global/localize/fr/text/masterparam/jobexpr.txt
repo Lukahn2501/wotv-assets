@@ -110,39 +110,39 @@
         },
         {
             "key": "JB_LW_SWN",
-            "value": "Combattant de première ligne<br><br>Un job avec une grande puissance d'attaque qui consomme des PV mais inflige de lourds dégâts."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
         },
         {
             "key": "JB_LW_SWN_FIRE",
-            "value": "Combattant de première ligne<br><br>Un job avec une grande puissance d'attaque qui consomme des PV mais inflige de lourds dégâts."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
         },
         {
             "key": "JB_LW_SWN_ICE",
-            "value": "Combattant de première ligne<br><br>Un job avec une grande puissance d'attaque qui consomme des PV mais inflige de lourds dégâts."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
         },
         {
             "key": "JB_LW_SWN_WIND",
-            "value": "Combattant de première ligne<br><br>Un job avec une grande puissance d'attaque qui consomme des PV mais inflige de lourds dégâts."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
         },
         {
             "key": "JB_LW_SWN_SOIL",
-            "value": "Combattant de première ligne<br><br>Un job avec une grande puissance d'attaque qui consomme des PV mais inflige de lourds dégâts."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
         },
         {
             "key": "JB_LW_SWN_THUN",
-            "value": "Combattant de première ligne<br><br>Un job avec une grande puissance d'attaque qui consomme des PV mais inflige de lourds dégâts."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
         },
         {
             "key": "JB_LW_SWN_WATER",
-            "value": "Combattant de première ligne<br><br>Un job avec une grande puissance d'attaque qui consomme des PV mais inflige de lourds dégâts."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
         },
         {
             "key": "JB_LW_SWN_SHINE",
-            "value": "Combattant de première ligne<br><br>Un job avec une grande puissance d'attaque qui consomme des PV mais inflige de lourds dégâts."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
         },
         {
             "key": "JB_LW_SWN_DARK",
-            "value": "Combattant de première ligne<br><br>Un job avec une grande puissance d'attaque qui consomme des PV mais inflige de lourds dégâts."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
         },
         {
             "key": "JB_LW_HUN",

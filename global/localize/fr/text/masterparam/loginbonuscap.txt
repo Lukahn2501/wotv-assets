@@ -75,6 +75,10 @@
         {
             "key": "LB_LIMIT_GL0008",
             "value": "Bonus de connexion pour la célébration de raid"
+        },
+        {
+            "key": "LB_LIMIT_GL0009",
+            "value": "Bonus de connexion du début de l'été"
         }
     ]
 }

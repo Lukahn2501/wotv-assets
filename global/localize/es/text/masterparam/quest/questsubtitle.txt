@@ -1221,6 +1221,14 @@
             "value": "Misión difícil"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "Misión difícil"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "Misión difícil"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Misión de personaje"
         },
@@ -1426,6 +1434,14 @@
         },
         {
             "key": "QE_CH_LW_ADLD",
+            "value": "Misión de personaje"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "Misión de personaje"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
             "value": "Misión de personaje"
         },
         {
@@ -1677,6 +1693,46 @@
             "value": "Recomendado: nv. 50, nv. de profesión 10"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "Limitado"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "Recomendado: nv. 5, nv. de profesión 1"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "Recomendado: nv. 10, nv. de profesión 2"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "Recomendado: nv. 20, nv. de profesión 4"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "Recomendado: nv. 30, nv. de profesión 6"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "Recomendado: nv. 40, nv. de profesión 6"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "Recomendado: nv. 50, nv. de profesión 10"
         },
@@ -1834,6 +1890,10 @@
         },
         {
             "key": "QE_SB_LAMA_01",
+            "value": "Recomendado: nv. 60, nv. de profesión 10"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
             "value": "Recomendado: nv. 60, nv. de profesión 10"
         },
         {
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": ""
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": ""
         },
         {

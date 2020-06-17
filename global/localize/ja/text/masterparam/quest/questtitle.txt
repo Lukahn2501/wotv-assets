@@ -1221,6 +1221,14 @@
             "value": "欠片獲得 アドラード"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "欠片獲得 サリア"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "欠片獲得 ヴィクトラ"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "ザザン"
         },
@@ -1427,6 +1435,14 @@
         {
             "key": "QE_CH_LW_ADLD",
             "value": "アドラード"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "サリア"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
+            "value": "ヴィクトラ"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1677,6 +1693,46 @@
             "value": "西の脅威ランダル 【EX】"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "限定ハードクエスト（ヴィクトラ）"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "サリアの欠片獲得クエスト　クエスト1"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "サリアの欠片獲得クエスト　クエスト2"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "サリアの欠片獲得クエスト　クエスト3"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "サリアの欠片獲得クエスト　クエスト4"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "サリアの欠片獲得クエスト　クエスト5"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "高難度　サリアの欠片獲得　EXクエスト1"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "高難度　サリアの欠片獲得　EXクエスト2"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "高難度　サリアの欠片獲得　EXクエスト1"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "高難度　サリアの欠片獲得　EXクエスト2"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "西の脅威ランダル 【EX】"
         },
@@ -1835,6 +1891,10 @@
         {
             "key": "QE_SB_LAMA_01",
             "value": "ラミアクイーン戦"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
+            "value": "オチュー戦"
         },
         {
             "key": "QE_SB_TSLP_01",
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": "闘技場"
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": "闘技場"
         },
         {

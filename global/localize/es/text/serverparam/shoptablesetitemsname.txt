@@ -238,7 +238,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_05",
-            "value": "Lote diario de cubos de EXP A"
+            "value": "Lote diario de cubos de EXP"
         },
         {
             "key": "IT_SET_3MDL_DAILY",
@@ -422,23 +422,35 @@
         },
         {
             "key": "IT_SET_VC_GROW_02",
-            "value": ""
+            "value": "Lote de entrenamiento de carta de visión C"
         },
         {
-            "key": "IT_SET_AWK_02",
-            "value": "Lote para despertar unidad II"
+            "key": "IT_SET_AWK_GL01",
+            "value": "Lote para despertar unidad"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "Tícket de avance gratuito diario x10"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "Lote del despertar de rayo"
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "Lote del despertar de oscuridad"
         },
         {
             "key": "IT_SET_WA_DOD_GL01",
-            "value": ""
+            "value": "Lote de mejora de EVASIÓN de equipo"
         },
         {
             "key": "IT_SET_WA_MND_GL01",
-            "value": ""
+            "value": "Lote de mejora de MAG de equipo"
         },
         {
             "key": "IT_SET_WA_CRI_GL01",
-            "value": ""
+            "value": "Lote de mejora de CRÍT de equipo"
         }
     ]
 }

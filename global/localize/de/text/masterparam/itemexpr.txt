@@ -1673,6 +1673,14 @@
             "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
         },
         {
+            "key": "IT_PI_LW_VKTR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Gewährt Gewinn von Esper-ERF (S)."
         },
@@ -1919,6 +1927,14 @@
         {
             "key": "IT_SB_AW_TSLP_R3",
             "value": "Ein Gegenstand, der zur Erweckung von Tetrasylphid auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Küsschen auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Küsschen auf 3★ benötigt wird."
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2649,6 +2665,10 @@
             "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 30.6.2020 23:59, Weltzeit (PST))."
         },
         {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 14.7.2020 23:59, Weltzeit (PST))."
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Ein Gegenstand, der im FFT-Kollaborationsevent erlangt werden kann und im „FFT“-Tauschladen in unterschiedliche Gegenstände eingelöst werden kann."
         },
@@ -2830,7 +2850,7 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_04",
-            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um N Erweckungsprismen zu beschwören."
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 30 Erweckungsprismen zu beschwören."
         },
         {
             "key": "IT_US_SE_AW-ITEM_05",
@@ -3046,6 +3066,10 @@
         },
         {
             "key": "IT_VPI_LW_LILS",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
             "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
         },
         {

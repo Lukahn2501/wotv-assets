@@ -38,7 +38,7 @@
         },
         {
             "key": "010",
-            "value": "En êtes-vous sûre ? Si nous les laissons partir ainsi..."
+            "value": "En êtes-vous sûre ? Si nous les laissons partir ainsi…"
         },
         {
             "key": "011",

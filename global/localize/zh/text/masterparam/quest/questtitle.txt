@@ -1221,6 +1221,14 @@
             "value": "獲得碎片 阿德拉德"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "獲得碎片 薩麗雅"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "獲得碎片 維克托拉"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "扎贊"
         },
@@ -1427,6 +1435,14 @@
         {
             "key": "QE_CH_LW_ADLD",
             "value": "阿德拉德"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "薩麗雅"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
+            "value": "維克托拉"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1677,6 +1693,46 @@
             "value": "西方的威脅朗德爾【EX】"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "限定困難任務（維克托拉）"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "薩麗雅的碎片獲得任務 任務1"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "薩麗雅的碎片獲得任務 任務2"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "薩麗雅的碎片獲得任務 任務3"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "薩麗雅的碎片獲得任務 任務4"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "薩麗雅的碎片獲得任務 任務5"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "高難度 薩麗雅的碎片獲得 EX任務1"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "高難度 薩麗雅的碎片獲得 EX任務2"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "高難度 薩麗雅的碎片獲得 EX任務1"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "高難度 薩麗雅的碎片獲得 EX任務2"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "西方的威脅朗德爾【EX】"
         },
@@ -1835,6 +1891,10 @@
         {
             "key": "QE_SB_LAMA_01",
             "value": "蛇身女王戰"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
+            "value": "食腐獸戰"
         },
         {
             "key": "QE_SB_TSLP_01",
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": "鬥技場"
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": "鬥技場"
         },
         {

@@ -407,6 +407,70 @@
         {
             "key": "DU_LW_IFRT",
             "value": "伊弗利特"
+        },
+        {
+            "key": "DU_LW_LYCS",
+            "value": "蕾榭思"
+        },
+        {
+            "key": "DU_LW_GLAR",
+            "value": "葛拉爾"
+        },
+        {
+            "key": "DU_LW_MLNA",
+            "value": "梅爾妮雅"
+        },
+        {
+            "key": "DU_LW_RNEL",
+            "value": "菈涅兒"
+        },
+        {
+            "key": "DU_LW_HWLT",
+            "value": "哈烏雷特"
+        },
+        {
+            "key": "DU_LW_TITU",
+            "value": "泰塔斯"
+        },
+        {
+            "key": "DU_LW_CHEL",
+            "value": "切爾"
+        },
+        {
+            "key": "DU_LW_MRND",
+            "value": "米蘭達"
+        },
+        {
+            "key": "DU_LW_LVES",
+            "value": "菈薇絲"
+        },
+        {
+            "key": "DU_LW_TREL",
+            "value": "泰瑞爾"
+        },
+        {
+            "key": "DU_LW_CH_00",
+            "value": "少年"
+        },
+        {
+            "key": "DU_LW_WYVN",
+            "value": "雙足飛龍"
+        },
+        {
+            "key": "DU_LW_WYVN_01",
+            "value": "雙足飛龍"
+        },
+        {
+            "key": "DU_LW_IGNT",
+            "value": "鐵巨人"
+        },
+        {
+            "key": "DU_LW_IGNT_02",
+            "value": "黑鐵魔人,鐵巨人"
+        },
+        {
+            "key": "DU_LW_GLEM",
+            "value": "巨像兵"
         }
     ]
 }

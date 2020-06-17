@@ -1221,6 +1221,14 @@
             "value": "困難任務"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "困難任務"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "困難任務"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "角色任務"
         },
@@ -1426,6 +1434,14 @@
         },
         {
             "key": "QE_CH_LW_ADLD",
+            "value": "角色任務"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "角色任務"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
             "value": "角色任務"
         },
         {
@@ -1677,6 +1693,46 @@
             "value": "推薦：兵員等級50 職業等級10"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "期間限定"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "推薦：兵員等級5 職業等級1"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "推薦：兵員等級10 職業等級2"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "推薦：兵員等級20 職業等級4"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "推薦：兵員等級30 職業等級6"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "推薦：兵員等級40 職業等級6"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "推薦：兵員等級50 職業等級10"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "推薦：兵員等級50 職業等級10"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "推薦：兵員等級50 職業等級10"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "推薦：兵員等級50 職業等級10"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "推薦：兵員等級50 職業等級10"
         },
@@ -1834,6 +1890,10 @@
         },
         {
             "key": "QE_SB_LAMA_01",
+            "value": "推薦：兵員等級60 職業等級10"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
             "value": "推薦：兵員等級60 職業等級10"
         },
         {
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": ""
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": ""
         },
         {

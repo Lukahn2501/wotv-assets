@@ -270,7 +270,7 @@
         },
         {
             "key": "IT_SET_3MDL_AW",
-            "value": "Lote especial que contiene una esfera de visión arcoíris, un tícket seleccionador de 100 prismas del despertar y un tícket seleccionador de 100 fragmentos de la memoria. ¡Imprescindible para mejorar unidades!"
+            "value": "Lote especial que contiene una esfera de visión arcoíris, un tícket seleccionador de 100 prismas del despertar y un tícket seleccionador de 100 fragmentos de la memoria elementales. ¡Imprescindible para mejorar unidades!"
         },
         {
             "key": "IT_SET_GROW_RAMZ",
@@ -310,7 +310,7 @@
         },
         {
             "key": "IT_SET_4MDL_AW",
-            "value": "Lote especial que contiene una esfera de visión arcoíris, un tícket seleccionador de 100 prismas del despertar y un tícket seleccionador de 100 fragmentos de la memoria. ¡Imprescindible para mejorar unidades!"
+            "value": "Lote especial que contiene una esfera de visión arcoíris, un tícket seleccionador de 100 prismas del despertar y un tícket seleccionador de 100 fragmentos de la memoria elementales. ¡Imprescindible para mejorar unidades!"
         },
         {
             "key": "IT_SET_LB_EXP_00",
@@ -425,20 +425,32 @@
             "value": "Lote que contiene huevos nutritivos (SR) y un tícket seleccionador de 100 magicitas elementales (G)."
         },
         {
-            "key": "IT_SET_AWK_02",
-            "value": "¡Un lote especial que incluye un tícket seleccionador de 100 fragmentos de la memoria elementales junto con esferas de visión arcoíris y un tícket seleccionador de 100 prismas del despertar elementales a modo de bonificación!"
+            "key": "IT_SET_AWK_GL01",
+            "value": "Lote especial que contiene una esfera de visión arcoíris, un tícket seleccionador de 100 prismas del despertar y un tícket seleccionador de 100 fragmentos de la memoria elementales. ¡Imprescindible para mejorar unidades!"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "¡Consigue tíckets de avance de historia gratis una vez al día!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "Lote que contiene fragmentos de la memoria de rayo y prismas del despertar de rayo."
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "Lote que contiene fragmentos de la memoria de oscuridad y prismas del despertar de oscuridad."
         },
         {
             "key": "IT_SET_WA_DOD_GL01",
-            "value": ""
+            "value": "¡Un lote especial que contiene un martillo de restablecimiento, necesario para restablecer los atributos de una pieza del equipo, sellos de evasión, que incrementan la probabilidad de que aumente la EVASIÓN de una pieza del equipo cuando sube de nivel, y martillos enanos de evasión para aumentar aún más la EVASIÓN de tu equipo!"
         },
         {
             "key": "IT_SET_WA_MND_GL01",
-            "value": ""
+            "value": "¡Un lote especial que contiene un martillo de restablecimiento, necesario para restablecer los atributos de una pieza del equipo, sellos de magia, que incrementan la probabilidad de que aumente la MAG de una pieza del equipo cuando sube de nivel, y martillos enanos de MAG para aumentar aún más la MAG de tu equipo!"
         },
         {
             "key": "IT_SET_WA_CRI_GL01",
-            "value": ""
+            "value": "¡Un lote especial que contiene un martillo de restablecimiento, necesario para restablecer los atributos de una pieza del equipo, sellos de daño, que incrementan la probabilidad de que aumente el CRÍT de una pieza del equipo cuando sube de nivel, y martillos enanos de remate para aumentar aún más el CRÍT de tu equipo!"
         }
     ]
 }

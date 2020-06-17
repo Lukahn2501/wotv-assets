@@ -358,7 +358,7 @@
         },
         {
             "key": "BUFF_OtherCrtRate",
-            "value": "クリティカル"
+            "value": "クリティカルダメージ"
         },
         {
             "key": "BUFF_OtherCrtHit",
@@ -498,11 +498,11 @@
         },
         {
             "key": "BUFF_OtherBraveBonus",
-            "value": "ブレイブボーナス"
+            "value": "Braveボーナス"
         },
         {
             "key": "BUFF_OtherFaithBonus",
-            "value": "フェイスボーナス"
+            "value": "Faithボーナス"
         },
         {
             "key": "BUFF_OtherJpGain",

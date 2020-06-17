@@ -1673,6 +1673,14 @@
             "value": "Un objet nécessaire pour briser la limite d'une unité"
         },
         {
+            "key": "IT_PI_LW_VKTR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Acquisition d'EXP pour une chimère (S)"
         },
@@ -1919,6 +1927,14 @@
         {
             "key": "IT_SB_AW_TSLP_R3",
             "value": "Un objet nécessaire à l'éveil de Tétra-Sylphides à 3★"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "Un objet nécessaire à l'éveil d'Otyugh à 2★"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "Un objet nécessaire à l'éveil d'Otyugh à 3★"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2649,6 +2665,10 @@
             "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 30/06/2020, 23:59, heure universelle (PST))"
         },
         {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 14/07/2020, 23:59, heure universelle (PST))"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Un objet échangeable qui peut être obtenu grâce aux événements de la collaboration avec FFT. Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement FFT."
         },
@@ -2830,7 +2850,7 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_04",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer N prismes d'éveil parmi les 8 éléments proposés"
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 30 prismes d'éveil parmi les 8 éléments proposés."
         },
         {
             "key": "IT_US_SE_AW-ITEM_05",
@@ -3046,6 +3066,10 @@
         },
         {
             "key": "IT_VPI_LW_LILS",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
             "value": "Un objet nécessaire à l'éveil d'un atout-vision"
         },
         {

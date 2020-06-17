@@ -229,6 +229,14 @@
             "value": "Le roi de Fennes, un pays de barbares tenant les terres frontalières d'une main de fer. Muraga est convaincu que l'« anneau séculaire » détenu par Leonis est la seule chose qui se dresse entre le royaume et son invincible armée de sauvages. Il obéit à Sadali, l'autorité suprême de l'Église, et prévoit de s'emparer lui-même du pouvoir de Leonis pour anéantir Hourne."
         },
         {
+            "key": "UN_LW_P_VKTR",
+            "value": "Une dragonnière qui voyage de contrée en contrée et répugne à l'idée de dépenser son argent sur toute chose autre que son apparence. Sommée par le roi Khory de rentrer en son pays natal de Wezett, elle accepta en effet l'invitation, mais uniquement car le monarque promit de faire d'elle sa reine si elle lui apportait la victoire."
+        },
+        {
+            "key": "UN_LW_P_THLA",
+            "value": "Une mage noire de « Nitor », la seconde division de Hourne. Saliah est la sœur cadette d'Adelard, et a la fâcheuse tendance de s'adresser au roi Rob sur un ton débordant d'irrévérence. Elle aime tendrement son frère et perçoit quiconque tente de se rapprocher de lui comme une menace, au point d'être devenue mage noire pour le protéger."
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": ""
         },
@@ -1021,11 +1029,15 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_CSLI",
+            "key": "UN_LW_E_OCHU",
             "value": ""
         },
         {
             "key": "UN_LW_E_SLIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CSLI",
             "value": ""
         },
         {
@@ -1077,7 +1089,15 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_OCHU_SIREN",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_YERM_2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OCHU_QE",
             "value": ""
         },
         {
@@ -1462,6 +1482,18 @@
         },
         {
             "key": "UN_LW_S_TSLP_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU",
+            "value": "Un titan végétal dont la gueule énorme s'ouvre sur des rangées de crocs acérés. Il se sert de ses innombrables tentacules comme d'armes et quand il s'ébroue de rage, son corps libère un nuage de pollen toxique autour de lui."
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW2",
             "value": ""
         },
         {

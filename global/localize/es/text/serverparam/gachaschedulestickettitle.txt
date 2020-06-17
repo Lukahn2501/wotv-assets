@@ -103,6 +103,10 @@
         {
             "key": "IT_US_G_UR_01_gl20200610",
             "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200617",
+            "value": "Tícket de invocación UR garantizada A"
         }
     ]
 }

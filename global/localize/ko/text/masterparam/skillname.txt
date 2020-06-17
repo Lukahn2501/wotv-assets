@@ -3005,6 +3005,26 @@
             "value": "사천의 바람"
         },
         {
+            "key": "SK_OCHU_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_OCHU_M_01",
+            "value": "맹독 꽃가루"
+        },
+        {
+            "key": "SK_OCHU_M_02",
+            "value": "마비 채찍"
+        },
+        {
+            "key": "SK_OCHU_M_03",
+            "value": "오츄 댄스"
+        },
+        {
+            "key": "SK_OCHU_M_04",
+            "value": "집속: 씨앗 대포"
+        },
+        {
             "key": "SK_LW_E_VIK_ATK",
             "value": "일반 공격"
         },
@@ -3205,6 +3225,10 @@
             "value": "뇌신의 검기"
         },
         {
+            "key": "SK_LB_LW_VKTR",
+            "value": "감미로운 덫"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "지옥의 화염"
         },
@@ -3267,6 +3291,10 @@
         {
             "key": "SK_SMN_TSLP",
             "value": "사천의 바람"
+        },
+        {
+            "key": "SK_SMN_OCHU",
+            "value": "집속: 씨앗 대포"
         },
         {
             "key": "SK_US_POTION",
@@ -3609,6 +3637,14 @@
             "value": "마스터 어빌리티"
         },
         {
+            "key": "SK_MA_LW_VKTR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_THLA",
+            "value": "마스터 어빌리티"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "베기 공격력+2"
         },
@@ -3769,6 +3805,10 @@
             "value": "리미터 오프"
         },
         {
+            "key": "SK_ARM_LW_VKTR_1_1",
+            "value": "요사한 용의 눈동자"
+        },
+        {
             "key": "SK_SWO_LW_ADLD_1_1",
             "value": ""
         },
@@ -3906,6 +3946,10 @@
         },
         {
             "key": "SK_ARM_LW_KTON_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_THLA_1_1",
             "value": ""
         },
         {
@@ -4246,6 +4290,14 @@
         },
         {
             "key": "SK_VC_LW_LAMA_01_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_GSAW",
             "value": ""
         },
         {
@@ -4781,6 +4833,14 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_OCHU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_VALE1_P",
             "value": ""
         },
@@ -5193,6 +5253,18 @@
             "value": "▼상태이상[실명] 저항력 감소"
         },
         {
+            "key": "SK_BTL_INV_HPDOWN",
+            "value": "최대 HP감소 무효화"
+        },
+        {
+            "key": "SK_BTL_INV_MKBT",
+            "value": "무기물 저항력"
+        },
+        {
+            "key": "SK_BTL_INV_CTDOWN",
+            "value": "CT 변동 무효화"
+        },
+        {
             "key": "SK_BTL_RES_SLEEP_1_100_D",
             "value": "▼상태이상[수면] 저항력 감소"
         },
@@ -5251,18 +5323,6 @@
         {
             "key": "SK_BTL_INV_POISON",
             "value": "독 무효화"
-        },
-        {
-            "key": "SK_BTL_INV_HPDOWN",
-            "value": "최대 HP감소 무효화"
-        },
-        {
-            "key": "SK_BTL_INV_MKBT",
-            "value": "무기물 저항력"
-        },
-        {
-            "key": "SK_BTL_INV_CTDOWN",
-            "value": "CT 변동 무효화"
         },
         {
             "key": "SK_BTL_JOB_THI_1_15_U",

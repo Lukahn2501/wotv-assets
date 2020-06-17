@@ -39,6 +39,10 @@
         {
             "key": "10",
             "value": "<line-height=15>Boutique spéciale de raid !"
+        },
+        {
+            "key": "11",
+            "value": "<line-height=15>Début de l'été<br>Boutique spéciale"
         }
     ]
 }

@@ -34,7 +34,7 @@
         },
         {
             "key": "GUREN",
-            "value": "紅蓮"
+            "value": "≪紅蓮≫"
         },
         {
             "key": "OWIS",

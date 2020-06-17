@@ -238,7 +238,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_05",
-            "value": "경험치 큐브 일일 패키지 A"
+            "value": "경험치 큐브 일일 패키지"
         },
         {
             "key": "IT_SET_3MDL_DAILY",
@@ -422,23 +422,35 @@
         },
         {
             "key": "IT_SET_VC_GROW_02",
-            "value": ""
+            "value": "비전 카드 육성 패키지 C"
         },
         {
-            "key": "IT_SET_AWK_02",
-            "value": "유닛 각성 패키지 II"
+            "key": "IT_SET_AWK_GL01",
+            "value": "유닛 각성 패키지"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "1일 1회 무료 건너뛰기 티켓 × 10"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "번개의 각성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "어둠의 각성 패키지"
         },
         {
             "key": "IT_SET_WA_DOD_GL01",
-            "value": ""
+            "value": "장비[회피율] 강화 패키지"
         },
         {
             "key": "IT_SET_WA_MND_GL01",
-            "value": ""
+            "value": "장비[마력] 강화 패키지"
         },
         {
             "key": "IT_SET_WA_CRI_GL01",
-            "value": ""
+            "value": "장비[크리티컬 발생률] 강화 패키지"
         }
     ]
 }

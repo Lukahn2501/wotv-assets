@@ -1221,6 +1221,14 @@
             "value": "Misión de fragmentos: Adelardo"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "Misión de fragmentos: Saria"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "Misión de fragmentos: Victra"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Zazán"
         },
@@ -1427,6 +1435,14 @@
         {
             "key": "QE_CH_LW_ADLD",
             "value": "Adelardo"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "Saria"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
+            "value": "Victra"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1677,6 +1693,46 @@
             "value": "Rundal, la amenaza del oeste [EX]"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "[Limitada] Misión difícil (Victra)"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "Misión de recompensa de fragmento de Saria I"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "Misión de recompensa de fragmento de Saria II"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "Misión de recompensa de fragmento de Saria III"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "Misión de recompensa de fragmento de Saria IV"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "Misión de recompensa de fragmento de Saria V"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "[Difícil] Misión EX de recompensa de fragmento de Saria I"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "[Difícil] Misión EX de recompensa de fragmento de Saria II"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "[Difícil] Misión EX de recompensa de fragmento de Saria I"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "[Difícil] Misión EX de recompensa de fragmento de Saria II"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "Rundal, la amenaza del oeste [EX]"
         },
@@ -1835,6 +1891,10 @@
         {
             "key": "QE_SB_LAMA_01",
             "value": "Batalla contra la Reina Lamia"
+        },
+        {
+            "key": "QE_SB_OCHU_01",
+            "value": "Batalla contra Ochú"
         },
         {
             "key": "QE_SB_TSLP_01",
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": "Palestra"
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": "Palestra"
         },
         {

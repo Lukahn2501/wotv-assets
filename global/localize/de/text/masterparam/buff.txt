@@ -358,7 +358,7 @@
         },
         {
             "key": "BUFF_OtherCrtRate",
-            "value": "Volltreffer"
+            "value": "Kritischer Schaden"
         },
         {
             "key": "BUFF_OtherCrtHit",

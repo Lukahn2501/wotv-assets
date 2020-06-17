@@ -290,7 +290,7 @@
         },
         {
             "key": "IT_SET_STORY_GL_FREE_00",
-            "value": "Obtenez une fois par jour des tickets évit'quête gratuits !"
+            "value": "Obtenez une fois par jour des tickets évit'quête (histoire) gratuits !"
         },
         {
             "key": "IT_SET_4MDL_THUNDER",
@@ -425,20 +425,32 @@
             "value": "Ce lot contient des œufs de croissance (SR) et un ticket sélectionneur de 100 magilithes élémentaires (L)."
         },
         {
-            "key": "IT_SET_AWK_02",
-            "value": "Un lot spécial contenant un ticket sélectionneur de fragment de pensée x100, avec en bonus des orbes de vision arc-en-ciel et un ticket sélectionneur de prisme d'éveil x100 !"
+            "key": "IT_SET_AWK_GL01",
+            "value": "Un lot spécial contenant un orbe de vision arc-en-ciel, un ticket sélectionneur de 100 prismes d'éveil et un ticket sélectionneur de 100 fragments de pensée ! L'essentiel pour entraîner vos unités !"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "Obtenez une fois par jour des tickets évit'quête (histoire) gratuits !"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "Ce lot contient des fragments de pensée de foudre et des prismes d'éveil de foudre."
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "Ce lot contient des fragments de pensée d'ombre et des prismes d'éveil d'ombre."
         },
         {
             "key": "IT_SET_WA_DOD_GL01",
-            "value": ""
+            "value": "Un lot spécial contenant un marteau de reforge pour réinitialiser les caractéristiques d'un équipement, des sceaux d'esquive pour augmenter les chances d'améliorer l'esquive quand un équipement gagne un niveau, ainsi que des marteaux nains d'esquive pour augmenter l'esquive de votre équipement !"
         },
         {
             "key": "IT_SET_WA_MND_GL01",
-            "value": ""
+            "value": "Un lot spécial contenant un marteau de reforge pour réinitialiser les caractéristiques d'un équipement, des sceaux magiques pour augmenter les chances d'améliorer la MAGIE quand un équipement gagne un niveau, ainsi que des marteaux nains de MAGIE pour augmenter la MAGIE de votre équipement !"
         },
         {
             "key": "IT_SET_WA_CRI_GL01",
-            "value": ""
+            "value": "Un lot spécial contenant un marteau de reforge pour réinitialiser les caractéristiques d'un équipement, des sceaux de dégâts pour augmenter les chances d'améliorer la « CRIT » quand un équipement gagne un niveau, ainsi que des marteaux nains du coup de grâce pour augmenter la « CRIT » de votre équipement !"
         }
     ]
 }

@@ -6,7 +6,7 @@
         },
         {
             "key": "002",
-            "value": "Alors ce serait donc ça le fameux pouvoir de la relique séculaire qui se transmet depuis des générations parmi les héritiers des Hourne ?"
+            "value": "Alors ce serait donc ça le fameux pouvoir de la relique séculaire qui se transmet depuis des générations parmi les héritiers de Hourne ?"
         },
         {
             "key": "003",

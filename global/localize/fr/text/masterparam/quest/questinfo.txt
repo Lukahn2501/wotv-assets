@@ -1221,6 +1221,14 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 60, job niv. 10<br>Condition d'accès : posséder l'unité « Adelard »"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 62, job niv. 10<br>Condition d'accès : posséder l'unité « Saliah »"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 62, job niv. 10<br>Condition d'accès : posséder l'unité « Viktora »"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Zazan » au niv. 40 au moins."
         },
@@ -1427,6 +1435,14 @@
         {
             "key": "QE_CH_LW_ADLD",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : l'unité « Adelard » doit être au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : l'unité « Saliah » doit être au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : l'unité « Viktora » doit être au niv. 40 au moins."
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1677,6 +1693,46 @@
             "value": "Informations sur la quête<br>Aucune"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "Informations sur la quête<br>Condition d'accès : posséder l'unité « Viktora »"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "Informations sur la quête<br>Aucune"
         },
@@ -1835,6 +1891,10 @@
         {
             "key": "QE_SB_LAMA_01",
             "value": "Informations sur la quête<br>Astuce : charmer l'ennemi n'est pas une mauvaise idée..."
+        },
+        {
+            "key": "QE_SB_OCHU_01",
+            "value": "Informations sur la quête<br>Aucune"
         },
         {
             "key": "QE_SB_TSLP_01",
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": "Aucune"
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": "Aucune"
         },
         {

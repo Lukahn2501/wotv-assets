@@ -1673,6 +1673,14 @@
             "value": "일반 상점/변덕쟁이 상점/탐험 초코보"
         },
         {
+            "key": "IT_PI_LW_VKTR",
+            "value": "일반 상점/변덕쟁이 상점/탐험 초코보"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "일반 상점/변덕쟁이 상점/탐험 초코보"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "탐험 초코보"
         },
@@ -1918,6 +1926,14 @@
         },
         {
             "key": "IT_SB_AW_TSLP_R3",
+            "value": ""
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "강적의 방 오츄 전투"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
             "value": ""
         },
         {
@@ -2649,6 +2665,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -3046,6 +3066,10 @@
         },
         {
             "key": "IT_VPI_LW_LILS",
+            "value": "일반 상점/비전 메달[MR] 교환소"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
             "value": "일반 상점/비전 메달[MR] 교환소"
         },
         {

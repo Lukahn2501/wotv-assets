@@ -317,6 +317,34 @@
             "value": "레이드 기념 픽업 소환 10회 소환"
         },
         {
+            "key": "gacha_unit_vc_gl20200617_01",
+            "value": "신규 유닛/비전 카드 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_10",
+            "value": "신규 유닛/비전 카드 소환 10회 소환"
+        },
+        {
+            "key": "p_gacha_unit_gl20200617_10",
+            "value": "초여름 기념 UR 유닛 1명 보장 10회 소환"
+        },
+        {
+            "key": "p_gacha_vc_gl20200617_10",
+            "value": "초여름 기념 UR 비전 카드 1장 보장 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_a_01",
+            "value": "초여름 기념 픽업 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_a_10",
+            "value": "초여름 기념 픽업 소환 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200617_10",
+            "value": "초여름 기념 무료 10회 소환"
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "출시 기념 픽업 소환"
         },

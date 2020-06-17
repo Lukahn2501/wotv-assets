@@ -1221,6 +1221,14 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 60, Jobstufe 10<br>Freischaltbedingungen: Einheit „Adelard“ im Besitz"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 62, Jobstufe 10<br>Freischaltbedingungen: Einheit „Salire“ im Besitz"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 62, Jobstufe 10<br>Freischaltbedingungen: Einheit „Viktora“ im Besitz"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Zazan“ ist mindestens auf Stufe 40"
         },
@@ -1427,6 +1435,14 @@
         {
             "key": "QE_CH_LW_ADLD",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Adelard“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Salire“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Viktora“ ist mindestens auf Stufe 40"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1677,6 +1693,46 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "Informationen zum Auftrag<br>Freischaltbedingungen: Einheit „Viktora“ im Besitz"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "Informationen zum Auftrag<br>Keine"
         },
@@ -1835,6 +1891,10 @@
         {
             "key": "QE_SB_LAMA_01",
             "value": "Informationen zum Auftrag<br>Tipp: Den Gegner zu betören, ist immer einen Versuch wert ..."
+        },
+        {
+            "key": "QE_SB_OCHU_01",
+            "value": "Informationen zum Auftrag<br>Keine"
         },
         {
             "key": "QE_SB_TSLP_01",
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": "Keine"
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": "Keine"
         },
         {

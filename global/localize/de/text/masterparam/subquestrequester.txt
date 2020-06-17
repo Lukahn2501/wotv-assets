@@ -87,6 +87,14 @@
         {
             "key": "SQ_WD_010201_02",
             "value": "Berühmter Maler"
+        },
+        {
+            "key": "SQ_WD_010202_01",
+            "value": "Altgedienter Schmied"
+        },
+        {
+            "key": "SQ_WD_010202_02",
+            "value": "Rezeptionistin des Übungsplatzes"
         }
     ]
 }

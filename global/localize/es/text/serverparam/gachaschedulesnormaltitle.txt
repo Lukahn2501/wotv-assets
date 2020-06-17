@@ -81,6 +81,18 @@
             "value": "Invocación insólita"
         },
         {
+            "key": "Raregacha_A_gl20200617_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_P",
+            "value": "Invocación insólita"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Invocación normal limitada: Conmemoración del lanzamiento"
         },
@@ -151,6 +163,14 @@
         {
             "key": "Normal_gacha_A_gl20200610_10",
             "value": "Invocación normal (x10) limitada: Celebración de asalto"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_01",
+            "value": "Invocación normal de comienzo del verano"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_10",
+            "value": "Invocación normal (x10) de comienzo del verano"
         }
     ]
 }

@@ -35,6 +35,10 @@
         {
             "key": "9",
             "value": "Invocation du moment<br>disponible !"
+        },
+        {
+            "key": "10",
+            "value": "Nouvelles unités <br>et chimères !"
         }
     ]
 }

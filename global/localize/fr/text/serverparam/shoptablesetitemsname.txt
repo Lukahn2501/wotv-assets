@@ -238,7 +238,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_05",
-            "value": "Lot de cube d'EXP quotidien [A]"
+            "value": "Lot de cube d'EXP quotidien"
         },
         {
             "key": "IT_SET_3MDL_DAILY",
@@ -422,23 +422,35 @@
         },
         {
             "key": "IT_SET_VC_GROW_02",
-            "value": ""
+            "value": "Lot d'entraînement d'atout-vision [C]"
         },
         {
-            "key": "IT_SET_AWK_02",
-            "value": "Lot d'éveil d'unité II"
+            "key": "IT_SET_AWK_GL01",
+            "value": "Lot d'éveil d'unité"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "Ticket évit'quête quotidien gratuit x10"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "Lot d’éveil de foudre"
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "Lot d’éveil d’ombre"
         },
         {
             "key": "IT_SET_WA_DOD_GL01",
-            "value": ""
+            "value": "Lot d'amélioration de l'esquive de l'équipement"
         },
         {
             "key": "IT_SET_WA_MND_GL01",
-            "value": ""
+            "value": "Lot d'amélioration de la MAGIE de l'équipement"
         },
         {
             "key": "IT_SET_WA_CRI_GL01",
-            "value": ""
+            "value": "Lot d'amélioration de la CRIT de l'équipement"
         }
     ]
 }

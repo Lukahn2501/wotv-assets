@@ -1673,6 +1673,14 @@
             "value": "애들러드의 조각"
         },
         {
+            "key": "IT_PI_LW_VKTR",
+            "value": "빅토라의 조각"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "살리아의 조각"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "빨간색 마석(소)"
         },
@@ -1919,6 +1927,14 @@
         {
             "key": "IT_SB_AW_TSLP_R3",
             "value": "테트라 실피드의 각성석(★3)"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "오츄의 각성석(★2)"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "오츄의 각성석(★3)"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2649,6 +2665,10 @@
             "value": "[6월] 소환 메달 A"
         },
         {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "[6월] 소환 메달 B"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT 콜라보 이벤트 메달"
         },
@@ -2770,7 +2790,7 @@
         },
         {
             "key": "IT_US_G_UR_02",
-            "value": "한겨울맞이 UR 보장 소환 티켓"
+            "value": "UR 보장 소환 티켓 B"
         },
         {
             "key": "IT_US_G_U_R_UR_01",
@@ -3047,6 +3067,10 @@
         {
             "key": "IT_VPI_LW_LILS",
             "value": " '복수를 위한 여행'의 조각"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": " '야성적인 식물-오츄'의 조각"
         },
         {
             "key": "IT_VPI_LW_VALE1",

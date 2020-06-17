@@ -117,6 +117,10 @@
             "value": "Forteresse de Syckle"
         },
         {
+            "key": "SE_WD_010202",
+            "value": "Grottes de Yaarm"
+        },
+        {
             "key": "SE_SB_01",
             "value": "Le repaire de la bête"
         },
@@ -411,6 +415,22 @@
         {
             "key": "SE_EV_BEGN_2001",
             "value": "Quête de soutien d'entraînement d'unité"
+        },
+        {
+            "key": "SE_EV_VKTR_01",
+            "value": "Quête difficile limitée (Viktora)"
+        },
+        {
+            "key": "SE_EV_THLA",
+            "value": "Quête des fragments d'unité de Saliah"
+        },
+        {
+            "key": "SE_EV_THLA_EX",
+            "value": "Quête EX des fragments d'unité de Saliah [Très difficile]"
+        },
+        {
+            "key": "SE_MU_EV_THLA_EX",
+            "value": "[Multi] Quête EX des fragments d'unité de Saliah [Très difficile]"
         }
     ]
 }

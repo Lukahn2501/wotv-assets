@@ -22,7 +22,7 @@
         },
         {
             "key": "TALK_006",
-            "value": "Félicitations ! Vous avez augmenté votre rang."
+            "value": "Félicitations ! Votre rang a augmenté."
         },
         {
             "key": "TALK_007",
@@ -38,7 +38,7 @@
         },
         {
             "key": "DIALOG_001_M",
-            "value": "• Quêtes d'histoire •<br>Il s'agit de la fonction la plus importante pour progresser dans le jeu. Participer aux quêtes d'histoire vous permettra de <color=#00ffff>débloquer de nombreuses autres fonctions de jeu</color>."
+            "value": "• Quêtes d'histoire •<br>Il s'agit de la fonction la plus importante pour progresser dans le jeu. Participer aux quêtes d'histoire vous permettra de <color=#00ffff>débloquer de nombreuses autres fonctions du jeu</color>."
         },
         {
             "key": "DIALOG_002_T",

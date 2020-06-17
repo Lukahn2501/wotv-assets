@@ -87,6 +87,14 @@
         {
             "key": "SQ_WD_010201_02",
             "value": "Schließe die Eierkammer (Fortgeschritten) ab."
+        },
+        {
+            "key": "SQ_WD_010202_01",
+            "value": "Verbessere einen Ausrüstungsgegenstand."
+        },
+        {
+            "key": "SQ_WD_010202_02",
+            "value": "Lege eine Fähigkeit fest."
         }
     ]
 }

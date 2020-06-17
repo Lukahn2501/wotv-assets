@@ -189,6 +189,14 @@
             "value": "ユニット「ドランド」のレベルが1以上"
         },
         {
+            "key": "COND_HA_LW_VKTR",
+            "value": "ユニット「ヴィクトラ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_THLA",
+            "value": "ユニット「サリア」のレベルが1以上"
+        },
+        {
             "key": "COND_HA_LW_LUCA",
             "value": "ユニット「ル・シア」のレベルが1以上"
         },
@@ -423,6 +431,14 @@
         {
             "key": "COND_CH_LW_ADLD",
             "value": "ユニット「アドラード」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_THLA",
+            "value": "ユニット「サリア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_VKTR",
+            "value": "ユニット「ヴィクトラ」のレベルが40以上"
         }
     ]
 }

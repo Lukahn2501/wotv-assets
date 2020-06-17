@@ -317,6 +317,34 @@
             "value": "Bonificación de invocación destacada de celebración de asalto"
         },
         {
+            "key": "gacha_unit_vc_gl20200617_01",
+            "value": "Bonificación de invocación de nueva unidad o carta de visión"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_10",
+            "value": "Bonificación de invocación de nueva unidad o carta de visión"
+        },
+        {
+            "key": "p_gacha_unit_gl20200617_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200617_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_a_01",
+            "value": "Bonificación de invocación destacada de comienzo del verano"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_a_10",
+            "value": "Bonificación de invocación destacada de comienzo del verano"
+        },
+        {
+            "key": "no_coin_gacha_gl20200617_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Bonificación de invocación destacada"
         },

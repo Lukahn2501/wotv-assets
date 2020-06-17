@@ -146,7 +146,7 @@
         },
         {
             "key": "ARTIFACT_CRTICAL",
-            "value": "크리티컬 확률"
+            "value": "크리티컬"
         },
         {
             "key": "ARTIFACT_SHIELD",

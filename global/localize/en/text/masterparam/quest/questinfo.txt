@@ -1221,6 +1221,14 @@
             "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Adelard]"
         },
         {
+            "key": "QE_HA_LW_THLA",
+            "value": "Quest Information<br>Recommended: Unit Lv. 62, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Salire]"
+        },
+        {
+            "key": "QE_HA_LW_VKTR",
+            "value": "Quest Information<br>Recommended: Unit Lv. 62, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Viktora]"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Zazan] is at least Lv. 40"
         },
@@ -1427,6 +1435,14 @@
         {
             "key": "QE_CH_LW_ADLD",
             "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Adelard] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_THLA",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Salire] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_VKTR",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Viktora] is at least Lv. 40"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1677,6 +1693,46 @@
             "value": "Quest Information<br>None"
         },
         {
+            "key": "QE_EV_VKTR_01",
+            "value": "Quest Information<br>Conditions to Unlock: Acquire Unit [Viktora]"
+        },
+        {
+            "key": "QE_EV_THLA_01",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_THLA_02",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_THLA_03",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_THLA_04",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_THLA_05",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_THLA_EX1",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_THLA_EX2",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "Quest Information<br>None"
+        },
+        {
             "key": "QE_MU_EV_02_EX1",
             "value": "Quest Information<br>None"
         },
@@ -1835,6 +1891,10 @@
         {
             "key": "QE_SB_LAMA_01",
             "value": "Quest Information<br>Hint: It wouldn't hurt to try Charming the enemy..."
+        },
+        {
+            "key": "QE_SB_OCHU_01",
+            "value": "Quest Information<br>None"
         },
         {
             "key": "QE_SB_TSLP_01",
@@ -2066,6 +2126,10 @@
         },
         {
             "key": "QE_GVG_00001",
+            "value": "None"
+        },
+        {
+            "key": "QE_GVG_00002",
             "value": "None"
         },
         {

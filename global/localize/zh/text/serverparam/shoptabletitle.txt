@@ -157,6 +157,18 @@
             "value": "普通商店"
         },
         {
+            "key": "Normal-20200214_A",
+            "value": "普通商店"
+        },
+        {
+            "key": "Normal-20200214_B",
+            "value": "普通商店"
+        },
+        {
+            "key": "Normal-20200214_C",
+            "value": "普通商店"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "快閃店 "
         },
@@ -301,8 +313,32 @@
             "value": "快閃店 "
         },
         {
+            "key": "Guerrilla-20200214A",
+            "value": "快閃店 "
+        },
+        {
+            "key": "Guerrilla-20200214B",
+            "value": "快閃店 "
+        },
+        {
+            "key": "Guerrilla-20200214C",
+            "value": "快閃店 "
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "FFT聯動紀念商店"
+        },
+        {
+            "key": "Limited-gl20200617",
+            "value": "初夏紀念特別商店"
+        },
+        {
+            "key": "Limited-gl20200617_A",
+            "value": "新兵員&幻兵卡精選召喚商店"
+        },
+        {
+            "key": "Limited-gl20200617_B",
+            "value": "精選兵員商店"
         },
         {
             "key": "Limited-gl20200610",
@@ -423,6 +459,10 @@
         {
             "key": "Event-EV02_1_20200201",
             "value": "【6月】活動獎牌交換所"
+        },
+        {
+            "key": "Event-Summon_GL20200617_B",
+            "value": "召喚獎牌交換所"
         },
         {
             "key": "Event-Summon_GL20200603_A",
@@ -1014,6 +1054,38 @@
         },
         {
             "key": "Limited-FIRE_2020_2_11",
+            "value": "每日輪替火屬性商店"
+        },
+        {
+            "key": "Limited-WATER_2020_2_19",
+            "value": "每日輪替水屬性商店"
+        },
+        {
+            "key": "Limited-WIND_2020_2_20",
+            "value": "每日輪替風屬性商店"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_21",
+            "value": "每日輪替雷屬性商店"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_22",
+            "value": "每日輪替土屬性商店"
+        },
+        {
+            "key": "Limited-SHINE_2020_2_23",
+            "value": "每日輪替光屬性商店"
+        },
+        {
+            "key": "Limited-DARK_2020_2_23",
+            "value": "每日輪替暗屬性商店"
+        },
+        {
+            "key": "Limited-ICE_2020_2_17",
+            "value": "每日輪替冰屬性商店"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_18",
             "value": "每日輪替火屬性商店"
         }
     ]

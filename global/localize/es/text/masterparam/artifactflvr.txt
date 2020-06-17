@@ -1933,6 +1933,18 @@
             "value": "La preciada pistola de Lu'Cía, un arma de alto rendimiento que incorpora la tecnología más novedosa de Rundal. Se la llegó a apodar «la hechizante» porque la pistola es capaz de perforar el corazón de quienquiera que sea su objetivo con una precisión inigualable."
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "Armadura resistente y ligera que le fue robada a un dragontino de Heindler. Ahora está adaptada para uso personal y posee excepcionales capacidades de frenado aéreo con las que crea la ilusión de que Victra puede detenerse momentáneamente en el aire."
+        },
+        {
+            "key": "AF_SPE_LW_VKTR_2",
+            "value": "Una lanza que llegó a manos de Victra cuando no tenía nada. Con el paso del tiempo, esta arma que comenzó siendo endeble experimentó diversas mejoras, además de llevar accesorios cada vez más llamativos. Como resultado, la lanza no solo se ha vuelto robusta y resistente, sino que además posee una belleza cautivadora. Nadie salvo Victra recuerda su aspecto original."
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "Cinta que Saria lleva atada al muslo por cuestiones de moda. Está impregnada de una magia que hace que permanezca atada por mucho trajín que se le dé. Por otra parte, Saria siempre dice que, gracias a esta cinta, sus piernas no van desnudas, aunque nadie más comparte esta opinión."
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Un anillo con incrustaciones de radiante alejandrita. Esta gema cambia de color dependiendo de la luz que choca contra su superficie, y es tanta la belleza que irradia que se la conoce como la reina de las piedras preciosas. Las piedras de gran calidad y con variedad de color son sumamente inusuales, por lo que se venden a un precio extremadamente alto."
         },

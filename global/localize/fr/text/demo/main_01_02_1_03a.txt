@@ -82,7 +82,7 @@
         },
         {
             "key": "021",
-            "value": "Je m'excuse également d'avoir parlé trop librement... Cependant, il semble plus brave qu'avant, tout d'un coup."
+            "value": "Je m'excuse également d'avoir parlé trop librement… Cependant, il semble plus brave qu'avant, tout d'un coup."
         },
         {
             "key": "022",

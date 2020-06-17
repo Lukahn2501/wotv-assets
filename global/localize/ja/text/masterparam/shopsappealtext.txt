@@ -39,6 +39,10 @@
         {
             "key": "10",
             "value": "<line-height=15><cspace=1>レイド記念特別ショップ"
+        },
+        {
+            "key": "11",
+            "value": "<line-height=15><cspace=1>アーリーサマー<br>記念特別ショップ"
         }
     ]
 }
