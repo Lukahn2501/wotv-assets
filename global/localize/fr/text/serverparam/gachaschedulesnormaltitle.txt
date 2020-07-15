@@ -93,6 +93,42 @@
             "value": "Invocation rare"
         },
         {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "Invocation rare"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Commémoration de lancement - Invocation normale limitée"
         },
@@ -171,6 +207,38 @@
         {
             "key": "Normal_gacha_A_gl20200617_10",
             "value": "Début de l'été - Invocation x10 normale"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "Sortie du chapitre 7 ! - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "FF EXVIUS Universe - Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "FF EXVIUS Universe - Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "FF EXVIUS Universe - Invocation normale limitée [Partie II]"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "FF EXVIUS Universe - Invocation x10 normale limitée [Partie II]"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "Invocation x10 normale limitée"
         }
     ]
 }

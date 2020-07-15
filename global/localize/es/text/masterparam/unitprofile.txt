@@ -237,6 +237,26 @@
             "value": "La Maga Negra Ingenua"
         },
         {
+            "key": "UN_LW_P_RAIN",
+            "value": "Alma Abrasante"
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "La Esgrimaga Elegante"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "Luna Oscura"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "El Erudito Nervioso"
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "El Escudito"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "Enemigo/PNJ"
         },
@@ -285,11 +305,23 @@
             "value": "Enemigo/PNJ"
         },
         {
+            "key": "UN_LW_E_OOOO",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": "Enemigo/PNJ"
+        },
+        {
             "key": "UN_LW_E_RIRY",
             "value": "Enemigo/PNJ"
         },
         {
             "key": "UN_LW_E_VSTR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_CLEY",
             "value": "Enemigo/PNJ"
         },
         {
@@ -358,6 +390,46 @@
         },
         {
             "key": "UN_LW_E_KTON",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_DRZA",
             "value": "Enemigo/PNJ"
         },
         {
@@ -709,6 +781,10 @@
             "value": "Enemigo/PNJ"
         },
         {
+            "key": "UN_LW_E_02_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
             "key": "UN_LW_E_SO_04",
             "value": "Enemigo/PNJ"
         },
@@ -733,6 +809,18 @@
             "value": "Enemigo/PNJ"
         },
         {
+            "key": "UN_LW_E_PR_01",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": "Enemigo/PNJ"
+        },
+        {
             "key": "UN_LW_E_PR_01_HUN",
             "value": "Enemigo/PNJ"
         },
@@ -745,7 +833,35 @@
             "value": "Enemigo/PNJ"
         },
         {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
             "key": "UN_LW_E_PR_02_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
             "value": "Enemigo/PNJ"
         },
         {
@@ -757,7 +873,15 @@
             "value": "Enemigo/PNJ"
         },
         {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": "Enemigo/PNJ"
+        },
+        {
             "key": "UN_LW_E_PR_01_RDM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
             "value": "Enemigo/PNJ"
         },
         {
@@ -770,6 +894,62 @@
         },
         {
             "key": "UN_LW_E_PR_02_TIM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
             "value": "Enemigo/PNJ"
         },
         {
@@ -945,6 +1125,10 @@
             "value": "Enemigo"
         },
         {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": "Enemigo"
+        },
+        {
             "key": "UN_LW_E_IGNT",
             "value": "Enemigo"
         },
@@ -1093,12 +1277,56 @@
             "value": "Enemigo"
         },
         {
+            "key": "UN_LW_E_ENBT",
+            "value": "Enemigo"
+        },
+        {
             "key": "UN_LW_E_YERM_2",
             "value": "Enemigo"
         },
         {
             "key": "UN_LW_E_OCHU_QE",
             "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "El Señorito de la Casa Beoulve"
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1546,6 +1774,10 @@
         },
         {
             "key": "UN_GM_PLACED_BASH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW_01",
             "value": ""
         }
     ]

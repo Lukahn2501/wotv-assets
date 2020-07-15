@@ -30,7 +30,7 @@
         },
         {
             "key": "ROD",
-            "value": "Sceptre"
+            "value": "Bâton"
         },
         {
             "key": "NINJASWORD",
@@ -74,7 +74,7 @@
         },
         {
             "key": "HAND",
-            "value": "Mélée"
+            "value": "Poings"
         },
         {
             "key": "SHIELD",
@@ -102,7 +102,7 @@
         },
         {
             "key": "CLOTHES",
-            "value": "Vêtement"
+            "value": "Tissu"
         },
         {
             "key": "LIGHTARMOR",

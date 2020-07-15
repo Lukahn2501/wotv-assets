@@ -1861,6 +1861,34 @@
             "value": "진홍의 검"
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "그리드 아머"
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "마력 끈"
+        },
+        {
+            "key": "AF_CLT_LW_RAIN_1",
+            "value": "레인의 옷"
+        },
+        {
+            "key": "AF_ACC_LW_FRVA_1",
+            "value": "화려한 머리핀"
+        },
+        {
+            "key": "AF_ACC_LW_VNLA_1",
+            "value": "환혹의 구두"
+        },
+        {
+            "key": "AF_SWO_LW_DRIO_1",
+            "value": "섬광의 검"
+        },
+        {
+            "key": "AF_ACC_LW_TREL_1",
+            "value": "뱀 투사의 관"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "레온 소드"
         },
@@ -1933,16 +1961,20 @@
             "value": "매혹의 총"
         },
         {
-            "key": "AF_ARM_LW_VKTR_1",
-            "value": "그리드 아머"
-        },
-        {
             "key": "AF_SPE_LW_VKTR_2",
             "value": "그리드 랜스"
         },
         {
-            "key": "AF_ACC_LW_THLA_1",
-            "value": "마력 끈"
+            "key": "AF_BSW_LW_RAIN_2",
+            "value": "레인용"
+        },
+        {
+            "key": "AF_SWO_LW_FRVA_2",
+            "value": "프레이비아용"
+        },
+        {
+            "key": "AF_DAG_LW_VNLA_2",
+            "value": "어쌔신 크리스"
         },
         {
             "key": "AF_LW_RNG_005",
@@ -1967,6 +1999,10 @@
         {
             "key": "AF_LW_RNG_005_5",
             "value": "알렉산드라이트 반지+5"
+        },
+        {
+            "key": "AF_LW_BSW_011",
+            "value": "진홍의 군도"
         }
     ]
 }

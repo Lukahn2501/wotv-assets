@@ -290,7 +290,7 @@
         },
         {
             "key": "gacha_unit_vc_gl20200603_b_10_3",
-            "value": "Mit 50 Dunkel-Erweckungsprismen"
+            "value": "Mit 50 Erweckungsprismen"
         },
         {
             "key": "gacha_unit_vc_gl20200603_b_10_4",
@@ -342,6 +342,286 @@
         },
         {
             "key": "no_coin_gacha_gl20200617_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_01",
+            "value": "Mit 10 Juni-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_10",
+            "value": "Mit 100 Juni-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_01",
+            "value": "Mit 10 Juni-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_10",
+            "value": "Mit 100 Juni-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "no_coin_gacha_gl20200624_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200624_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200624_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200624_10",
+            "value": ""
+        },
+        {
+            "key": "beginner_gacha_10_20200624",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_1",
+            "value": "Mit 20 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_1",
+            "value": "Mit 30 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_1",
+            "value": "Mit 30 Wachstumseiern (MR) und einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_1",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_2",
+            "value": "Mit 20 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_2",
+            "value": "Mit 30 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_2",
+            "value": "Mit 30 Wachstumseiern (MR) und einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_2",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_3",
+            "value": "Mit 20 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_3",
+            "value": "Mit 30 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_3",
+            "value": "Mit 30 Wachstumseiern (MR) und einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_3",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_4",
+            "value": "Mit 20 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_4",
+            "value": "Mit 30 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_4",
+            "value": "Mit 30 Wachstumseiern (MR) und einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_4",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_5",
+            "value": "Mit 20 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_5",
+            "value": "Mit 30 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_5",
+            "value": "Mit 30 Wachstumseiern (MR) und einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_5",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_6",
+            "value": "Mit 20 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_6",
+            "value": "Mit 30 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_6",
+            "value": "Mit 30 Wachstumseiern (MR) und einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_6",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_7",
+            "value": "Mit 20 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_7",
+            "value": "Mit 30 Wachstumseiern (MR)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_7",
+            "value": "Mit 30 Wachstumseiern (MR) und einer Regenbogenfarbenen Visionskugel"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_7",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step1",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step2",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step3",
+            "value": "Mit 50 Erweckungsprismen"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step4",
+            "value": "Mit 50 Gedankenfragmenten"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step5",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200701_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step3",
+            "value": "Eine FFBE-[UR]-Einheit garantiert"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step2",
+            "value": "Eine [UR]-Einheit/-Visionskarte garantiert"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step1",
+            "value": "Eine [UR]-Einheit/-Visionskarte garantiert"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_base",
+            "value": ""
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_1",
+            "value": "Mit 10 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_10",
+            "value": "Mit 100 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_1",
+            "value": "Mit 10 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_10",
+            "value": "Mit 100 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_1",
+            "value": "Mit 10 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_10",
+            "value": "Mit 100 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_1",
+            "value": "Mit 10 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_10",
+            "value": "Mit 100 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_01",
+            "value": "Mit 10 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10",
+            "value": "Mit 100 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_01",
+            "value": "Mit 10 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_10",
+            "value": "Mit 100 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "p_gacha_unit_gl20200701_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200701_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200708_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_01",
+            "value": "Mit 10 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_10",
+            "value": "Mit 100 Juli-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_01",
+            "value": "Mit 10 Juli-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_10",
+            "value": "Mit 100 Juli-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_01",
+            "value": "Mit 10 Juli-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_10",
+            "value": "Mit 100 Juli-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "p_gacha_unit_gl20200715_10",
             "value": ""
         },
         {

@@ -22,7 +22,7 @@
         },
         {
             "key": "VC_LW_MACR",
-            "value": "　Les Reliques séculaires possèdent le pouvoir mystérieux d'invoquer des chimères. À l'occasion de son mariage arrangé avec Muraga, le roi de Fennes, Machalie reçut une de ces Reliques en dot de la part de son père, le roi Rob de Hourne.C'est Sadali, le fondateur de l'Église du Cristal, qui soumit l'idée de ce mariage, afin d'inciter Hourne à s'allier avec Fennes et ainsi endiguer la menace représentée par Rundall à l'ouest. L'arrangement prévoyait également qu'en contrepartie de l'alliance de Hourne et Fennes, la fille de Muraga, Vinera, se marierait au prince Dario. L'insistance de Machalie finit par venir à bout des réticences du roi Rob, qui convint que c'était la meilleure façon de protéger Hourne. Ce bijou, destiné à demeurer au royaume à moins d'une guerre, est le témoin du grand amour que le père voue à sa fille."
+            "value": "　Les Reliques séculaires possèdent le pouvoir mystérieux d'invoquer des chimères. À l'occasion de son mariage arrangé avec Muraga, le roi de Fennes, Machalie reçut une de ces Reliques en dot de la part de son père, le roi Rob de Hourne. C'est Sadali, le fondateur de l'Église du Cristal, qui soumit l'idée de ce mariage, afin d'inciter Hourne à s'allier avec Fennes et ainsi endiguer la menace représentée par Rundall à l'ouest. L'arrangement prévoyait également qu'en contrepartie de l'alliance de Hourne et Fennes, la fille de Muraga, Vinera, se marierait au prince Dario. L'insistance de Machalie finit par venir à bout des réticences du roi Rob, qui convint que c'était la meilleure façon de protéger Hourne. Ce bijou, destiné à demeurer au royaume à moins d'une guerre, est le témoin du grand amour que le père voue à sa fille."
         },
         {
             "key": "VC_LW_MURG",
@@ -65,6 +65,10 @@
             "value": "　Quatre sœurs féériques apportées par le vent. Elles portent sur leurs têtes déjà dotées d'ailes magnifiques et d'un plumage sans pareil un diadème d'or étincelant. Les humains se laissent facilement séduire par la beauté de leurs plumes. Prudence, cependant, car les approcher à la légère a tendance à les rendre folles de rage et il est généralement recommandé de ne pas essayer. Les vents provoqués par le battement de leurs ailes peuvent s'associer pour former des tornades impressionnantes. Ensemble, elles sont plus puissantes que toutes les autres fées."
         },
         {
+            "key": "VC_MBFF_MV1",
+            "value": "« Le Guerrier de la lumière vaincra le Chaos et sauvera le monde. »<br>La prophétie au cœur de la légende... a omis d'en narrer la fin. Oui, le Chaos qui avait plongé l'humanité dans la désolation fut détruit, mais le héros qui avait ravivé la lueur d'espoir disparut.<br><br>À cause de vous, en effet.<br><br>C'est vous qui avez mis fin à la légende du « Guerrier de la lumière ».<br>Le nom qu'on VOUS donna pour vos actions héroïques...<br>sombra dans l'oubli.<br><br>Mais le peuple amnésique murmure encore.<br><br>On dit qu'il existe un être qui transforma ce monde jadis si beau et rempli d'optimisme.<br><br>« Le Guerrier du désespoir », inconnu de tous.<br>À une époque privée de récits épiques, le monde a soif... de légende."
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "　Sous l'armure en fer qui renforce encore son attaque et sa défense, ce monstre gigantesque est également recouvert d'une peau semblable à du métal, qu'aucune lame ne peut transpercer. Il est sage d'en déduire que ses capacités défensives sont beaucoup plus développées qu'il n'y paraît. Ses attaques sont rapides et précises malgré l'énorme poids de son armure. On dit que c'est la magie, voire une malédiction, qui permet au Géant de fer de se mouvoir en combat."
         },
@@ -102,7 +106,7 @@
         },
         {
             "key": "VC_LW_HUNT",
-            "value": "　Le roi Khory de Wezett est réputé pour être un archer exceptionnel. Il aime répéter que « des sens aiguisés par une concentration optimale permettent de prévoir n'importe quelle situation ». En agissant de la sorte, l'esprit devient alors capable de guider la flèche décochée et de tuer n'importe quelle proie qui, en temps normal, s'échapperait. Quand il prend des décisions pour son royaume, le roi Khory évalue non seulement la situation actuelle, mais aussi toutes les développements potentiels. Certaines décisions semblent alors aller à l'encontre des intérêts immédiats du pays, voire même favoriser ses ennemis, mais il n'en est rien. Grâce à son acuité hors pair, le roi décèle les meilleures marges de manœuvre à son avantage. Certains le considèrent comme calculateur, d'autres voient en lui un roi bienveillant."
+            "value": "　Le roi Khory de Wezett est réputé pour être un archer exceptionnel. Il aime répéter que « des sens aiguisés par une concentration optimale permettent de prévoir n'importe quelle situation ». En agissant de la sorte, l'esprit devient alors capable de guider la flèche décochée et de tuer n'importe quelle proie qui, en temps normal, s'échapperait. Quand il prend des décisions pour son royaume, le roi Khory évalue non seulement la situation actuelle, mais aussi tous les développements potentiels. Certaines décisions semblent alors aller à l'encontre des intérêts immédiats du pays, voire même favoriser ses ennemis, mais il n'en est rien. Grâce à son acuité hors pair, le roi décèle les meilleures marges de manœuvre à son avantage. Certains le considèrent comme calculateur, d'autres voient en lui un roi bienveillant."
         },
         {
             "key": "VC_FF14_MV2",
@@ -127,6 +131,10 @@
         {
             "key": "VC_LW_OCHU",
             "value": "　Un titan végétal aussi grand qu'une colline. Sa bouche énorme, surmontée de ce qui ressemble à des moustaches de poisson-chat, s'ouvre sur des rangées de crocs acérés. C'est un monstre redouté pour sa capacité à infliger aux humains toutes sortes d'altérations morbides, de l'empoisonnement à la paralysie. Il a aussi la particularité de s'ébrouer quand il s'énerve, comme s'il se mettait à danser. On le rencontre parfois accompagné de ses petits microtyugh."
+        },
+        {
+            "key": "VC_MBFF_MV2",
+            "value": "　Vous n'appartenez pas à ce monde. Vous vous êtes retrouvé ici, à Palamecia, dépourvu de tout souvenir. Nombre d'étrangers ont échoué là avec vous, atteints de la même affliction. La page vierge de votre mémoire vous a valu le surnom de « Néo ». Mais si vous avez perdu votre passé, votre futur vous appartient encore.<br>À Palamecia, une prophétie annonce ceci : « Un jour le Guerrier de la lumière apparaîtra pour ramener l'espoir sur cette terre ».<br>Se pourrait-il que l'un des amnésiques... ? Non, ce ne peut être que vous ! Seriez-vous ce Guerrier de la lumière ?<br>Battez-vous pour un futur meilleur et ravivez la flamme de l'espoir à Palamecia !"
         },
         {
             "key": "VC_LW_CACT",
@@ -154,7 +162,7 @@
         },
         {
             "key": "VC_LW_BYLO",
-            "value": "　Même en plein combat, Beilo ne peut s'empêcher d'avoir faim. C'est un bon vivant et il sait parfaitement que son appétit est bien au-dessus de la moyenne. Son poids fait souvent l'objet de railleries, mais cela ne le trouble guère, car son esprit est occupé à des choses plus importantes, comme se demander ce qu'il mangera au prochain repas. Beilo est quelqu'un de positif. Il aime à penser que sa force est liée à l'importante quantité de nourriture qu'il ingère. Il affirme, au grand dam de ses compagnons, que c'est sa façon à lui de contribuer à la force de « Caelum ». Bien que Learte l'en dissuade assez fréquemment, Beilo tente d'établir plusieurs records liés à la nourriture. Quand il se rend dans un restaurant, il aime manger tous les plats du menu, et il lui arrive même d'en commander en plusieurs exemplaires. Ces exploits-là aussi sont mis au crédit de «la gloire de Caelum »."
+            "value": "　Même en plein combat, Beilo ne peut s'empêcher d'avoir faim. C'est un bon vivant et il sait parfaitement que son appétit est bien au-dessus de la moyenne. Son poids fait souvent l'objet de railleries, mais cela ne le trouble guère, car son esprit est occupé à des choses plus importantes, comme se demander ce qu'il mangera au prochain repas. Beilo est quelqu'un de positif. Il aime à penser que sa force est liée à l'importante quantité de nourriture qu'il ingère. Il affirme, au grand dam de ses compagnons, que c'est sa façon à lui de contribuer à la force de « Caelum ». Bien que Learte l'en dissuade assez fréquemment, Beilo tente d'établir plusieurs records liés à la nourriture. Quand il se rend dans un restaurant, il aime manger tous les plats du menu, et il lui arrive même d'en commander en plusieurs exemplaires. Ces exploits-là aussi sont mis au crédit de « la gloire de Caelum »."
         },
         {
             "key": "VC_LW_RART",
@@ -162,7 +170,7 @@
         },
         {
             "key": "VC_LW_RYER",
-            "value": "　C'est un incident au château de Leonis qui donna à Lillyla l'occasion d'intégrer la division « Fortem ». Ce jour-là, un banquet était organisé en l'honneur des nobles visiteurs des royaumes voisins. Mais la fête faillit être gâchée quand la reine Helena remarqua la disparition de son précieux diadème. Au milieu de la panique générale, c'est Lillyla, simple chevaleresse mystique, qui résolut l'affaire. Quand on eu bloqué toutes les sorties et que les esprits commençaient à s'échauffer, Lillyla inspecta les informations à sa disposition. Elle conclut que le coupable ne pouvait être qu'un membre de l'assitance, qui savait que la reine porterait son diadème pour le banquet. On interrogea rudement les domestiques, jusqu'à ce qu'une servante avoue avoir été forcée d'agir par un noble déchu et criblé de dettes. Les talents d'enquêtrice de Lillyla ne passèrent pas inaperçus et quelques jours plus tard, sire Owe l'invita à rejoindre « Fortem »."
+            "value": "　C'est un incident au château de Leonis qui donna à Lillyla l'occasion d'intégrer la division « Fortem ». Ce jour-là, un banquet était organisé en l'honneur des nobles visiteurs des royaumes voisins. Mais la fête faillit être gâchée quand la reine Helena remarqua la disparition de son précieux diadème. Au milieu de la panique générale, c'est Lillyla, simple chevaleresse mystique, qui résolut l'affaire. Quand on eu bloqué toutes les sorties et que les esprits commençaient à s'échauffer, Lillyla inspecta les informations à sa disposition. Elle conclut que le coupable ne pouvait être qu'un membre de l'assitance, qui savait que la reine porterait son diadème pour le banquet. On interrogea rudement les domestiques, jusqu'à ce qu'une servante avoue avoir été forcée d'agir par un noble déchu et criblé de dettes. Les talents d'enquêtrice de Lillyla ne passèrent pas inaperçus et quelques jours plus tard, sire Owe l'invita à rejoindre « Fortem »."
         },
         {
             "key": "VC_LW_VNLA",
@@ -235,6 +243,10 @@
         {
             "key": "VC_EXP_03",
             "value": "　Un récipient translucide en forme d'œuf, rempli à ras bord d'un curieux liquide. En l'observant de plus près, on peut déceler de nombreuses petites bulles remontant vers la surface. Il peut être utilisé pour améliorer les Atouts-Vision."
+        },
+        {
+            "key": "VC_EXP_04",
+            "value": "　Un récipient translucide en forme d'œuf, rempli à ras bord d'un curieux liquide. En l'observant de plus près, on peut déceler de nombreuses petites bulles remontant vers la surface. Il peut être utilisé pour améliorer les atouts-visions."
         }
     ]
 }

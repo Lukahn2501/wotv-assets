@@ -106,11 +106,15 @@
         },
         {
             "key": "SupportUnit",
-            "value": "Ya podéis designar compañeros."
+            "value": "Lord Mont, ¿sabéis qué son los ajustes de compañero?"
         },
         {
             "key": "ItemExchange",
             "value": "Lord Mont, parece que la tienda de intercambio se encuentra disponible. ¿Qué os parece si vamos a verla?"
+        },
+        {
+            "key": "Tower",
+            "value": "Veo que habéis atravesado el umbral de la Torre de Porcelana..."
         }
     ]
 }

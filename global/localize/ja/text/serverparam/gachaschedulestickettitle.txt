@@ -107,6 +107,46 @@
         {
             "key": "IT_US_G_UR_01_gl20200617",
             "value": "UR確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200701",
+            "value": "UR確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200701",
+            "value": "UR確定ユニット召喚券A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200701",
+            "value": "URVカード確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200701",
+            "value": "SSR以上確定ユニット召喚券A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200701",
+            "value": "SSR以上確定Vカード召喚券A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200701",
+            "value": "SSR以上1体確定10連召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200701",
+            "value": "ユニット確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200701",
+            "value": "Vカード確定召喚券A"
+        },
+        {
+            "key": "IT_US_G_N_TW_10_gl20200701",
+            "value": "【白磁の塔】ノーマル10連召喚券"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200715",
+            "value": "UR確定召喚券A"
         }
     ]
 }

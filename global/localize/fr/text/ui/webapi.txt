@@ -566,7 +566,7 @@
         },
         {
             "key": "APP_ERROR_2202",
-            "value": "Il est trop tard pour récupérer la récompense de raid."
+            "value": "La récompense de raid n'est plus disponible."
         },
         {
             "key": "APP_ERROR_2203",
@@ -1411,6 +1411,38 @@
         {
             "key": "SNS_LIMIT_REACHED",
             "value": "Limite d'association à un compte social atteinte"
+        },
+        {
+            "key": "APP_ERROR_5201",
+            "value": "Code inexistant."
+        },
+        {
+            "key": "APP_ERROR_5202",
+            "value": "La campagne n'est pas ouverte."
+        },
+        {
+            "key": "APP_ERROR_5203",
+            "value": "Limite max pour la campagne atteinte."
+        },
+        {
+            "key": "APP_ERROR_5204",
+            "value": "Numéro de série déjà utilisé."
+        },
+        {
+            "key": "APP_ERROR_5205",
+            "value": "Plateforme incorrecte."
+        },
+        {
+            "key": "APP_ERROR_5300",
+            "value": "Groupe cible incorrect."
+        },
+        {
+            "key": "APP_ERROR_5301",
+            "value": "Nombre d'actions insuffisant."
+        },
+        {
+            "key": "APP_ERROR_5302",
+            "value": "Le groupe a été modifié. Veuillez rafraîchir et réessayer."
         }
     ]
 }

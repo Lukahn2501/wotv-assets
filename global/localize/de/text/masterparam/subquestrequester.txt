@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Rezeptionistin des Übungsplatzes"
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Erfahrener Abenteurer"
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "Gildenrezeptionist"
         }
     ]
 }

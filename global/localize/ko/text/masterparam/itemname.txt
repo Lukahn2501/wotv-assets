@@ -1001,6 +1001,46 @@
             "value": "쌍총술사의 기억: 빨강"
         },
         {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "그랑셸트의 기사(불꽃)의 기억: 초록"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "그랑셸트의 기사(불꽃)의 기억: 파랑"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "그랑셸트의 기사(불꽃)의 기억: 보라"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "그랑셸트의 기사(불꽃)의 기억: 노랑"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "그랑셸트의 기사(불꽃)의 기억: 빨강"
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "어쌔신의 기억: 초록"
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "어쌔신의 기억: 파랑"
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "어쌔신의 기억: 보라"
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "어쌔신의 기억: 노랑"
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "어쌔신의 기억: 빨강"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "불의 휘석: 초록"
         },
@@ -1679,6 +1719,26 @@
         {
             "key": "IT_PI_LW_THLA",
             "value": "살리아의 조각"
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "레인의 조각"
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "프레이비아의 조각"
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "비네라 페네스의 조각"
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "다리오 호른의 조각"
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": "티렐의 조각"
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -2637,10 +2697,6 @@
             "value": "콜라보 소환 메달"
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "파이널판타지14 콜라보 이벤트 소환 티켓"
-        },
-        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "[3월] 소환 메달 A"
         },
@@ -2669,6 +2725,14 @@
             "value": "[6월] 소환 메달 B"
         },
         {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "[7월] 소환 메달 A"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "[7월] 소환 메달 B"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT 콜라보 이벤트 메달"
         },
@@ -2689,8 +2753,12 @@
             "value": "[6월] 이벤트 메달"
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "FFT 콜라보 이벤트 소환 티켓"
+            "key": "IT_EC_EV03_1",
+            "value": "[7월] 이벤트 메달"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "초코 푸딩 레이드 메달"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2781,30 +2849,6 @@
             "value": "속성 마석(중) x 50 선택 소환 티켓 "
         },
         {
-            "key": "IT_US_G_U_UR_01",
-            "value": "UR 유닛 보장 소환 티켓 A"
-        },
-        {
-            "key": "IT_US_G_UR_01",
-            "value": "UR 보장 소환 티켓 A"
-        },
-        {
-            "key": "IT_US_G_UR_02",
-            "value": "UR 보장 소환 티켓 B"
-        },
-        {
-            "key": "IT_US_G_U_R_UR_01",
-            "value": "유닛 보장 소환 티켓 A"
-        },
-        {
-            "key": "IT_US_G_V_R_UR_01",
-            "value": "비전 카드 보장 소환 티켓 A"
-        },
-        {
-            "key": "IT_US_G_V_UR_01",
-            "value": "UR 비전 카드 보장 소환 티켓 A"
-        },
-        {
             "key": "IT_US_SE_JB_MM_01",
             "value": "직업의 기억: 초록 × 1 선택 소환 티켓"
         },
@@ -2831,6 +2875,82 @@
         {
             "key": "IT_US_SE_AW-ITEM_01",
             "value": "각성 휘석 × 10 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "속성 마석(중) × 500 선택 소환 티켓 "
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "속성 마석(중) × 10 선택 소환 티켓 "
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "속성 마석(중) × 25 선택 소환 티켓 "
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "속성 마석(대) × 100 선택 소환 티켓 "
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "UR 비전 카드의 조각 × 50 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "UR 비전 카드의 조각 × 50 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "UR 비전 카드의 조각 × 50 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "추천 UR 유닛 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "추천 MR 유닛 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "UR 유닛의 조각 × 40 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "UR 보장 소환 티켓 B"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FFT 콜라보 이벤트 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "파이널판타지14 콜라보 이벤트 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "[백자탑] 일반 10회 소환 티켓"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -2925,6 +3045,10 @@
             "value": " '하늘에 울리는 뇌명-라무'의 조각"
         },
         {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": " '절망과 진실의 뫼비우스'의 조각"
+        },
+        {
             "key": "IT_VPI_LW_FAMILY",
             "value": " '새로운 생명의 탄생'의 조각"
         },
@@ -2963,6 +3087,10 @@
         {
             "key": "IT_VPI_LW_GUARD",
             "value": " '순백의 친위대'의 조각"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": " '희망과 환상의 뫼비우스'의 조각"
         },
         {
             "key": "IT_VPI_LW_CACT",
@@ -3093,6 +3221,10 @@
             "value": "그로우 에그(SR)"
         },
         {
+            "key": "IT_VC_EXP_04",
+            "value": "그로우 에그(MR)"
+        },
+        {
             "key": "IT_GU_FOOD_01",
             "value": "유리사탕"
         },
@@ -3163,38 +3295,6 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "사자의 턱뼈(대)"
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "초코 푸딩 레이드 메달"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "속성 마석(중) × 500 선택 소환 티켓 "
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "속성 마석(중) × 10 선택 소환 티켓 "
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "속성 마석(중) × 25 선택 소환 티켓 "
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "속성 마석(대) × 100 선택 소환 티켓 "
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "UR 비전 카드의 조각 × 50 선택 소환 티켓"
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "추천 UR 유닛 선택 소환 티켓"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "추천 MR 유닛 선택 소환 티켓 A"
         }
     ]
 }

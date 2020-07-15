@@ -30,7 +30,7 @@
         },
         {
             "key": "ROD",
-            "value": "홀장"
+            "value": "지팡이"
         },
         {
             "key": "NINJASWORD",

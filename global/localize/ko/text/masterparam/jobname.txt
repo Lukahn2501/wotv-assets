@@ -763,6 +763,46 @@
         {
             "key": "JB_FFT_ORND",
             "value": "검성"
+        },
+        {
+            "key": "JB_LW_RAIN",
+            "value": "그랑셸트의 기사"
+        },
+        {
+            "key": "JB_LW_ASS",
+            "value": "어쌔신"
+        },
+        {
+            "key": "JB_LW_ASS_FIRE",
+            "value": "어쌔신"
+        },
+        {
+            "key": "JB_LW_ASS_ICE",
+            "value": "어쌔신"
+        },
+        {
+            "key": "JB_LW_ASS_WIND",
+            "value": "어쌔신"
+        },
+        {
+            "key": "JB_LW_ASS_SOIL",
+            "value": "어쌔신"
+        },
+        {
+            "key": "JB_LW_ASS_THUN",
+            "value": "어쌔신"
+        },
+        {
+            "key": "JB_LW_ASS_WATER",
+            "value": "어쌔신"
+        },
+        {
+            "key": "JB_LW_ASS_SHINE",
+            "value": "어쌔신"
+        },
+        {
+            "key": "JB_LW_ASS_DARK",
+            "value": "어쌔신"
         }
     ]
 }

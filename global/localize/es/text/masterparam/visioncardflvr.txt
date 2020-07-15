@@ -42,7 +42,7 @@
         },
         {
             "key": "VC_LW_VALE1",
-            "value": "«Qué hago, qué hago… ¿podré dárselo este año? ¿Acaso debería?».<br>Kiton le da vueltas a esta pregunta una y otra vez. El problema: un dulce casero que desea dar como muestra de gratitud por estar bajo su cuidado. Como no tiene segundas intenciones, debería poder dárselo sin más. A pesar de que ella lo cree así, se pregunta si quizá se pasó con la decoración, o si se pensará que tiene otras intenciones, por lo que nunca se lo da.<br>«¿Y si al final acabo dándoselo a Owe este año otra vez?».<br>Preocupada por que se le escapen esos pensamientos, los guarda para sí. También está bajo el cuidado de Owe, eso es indiscutible. Aun así… Aunque estos sentimientos tan opuestos se remueven en su corazón, comprendió que no llegará a actuar."
+            "value": "«Qué hago, qué hago… ¿podré dárselo este año? ¿Acaso debería?».<br>Kiton le da vueltas a esta pregunta una y otra vez. El problema: un dulce casero que desea dar como muestra de gratitud por estar bajo su cuidado. Como no tiene segundas intenciones, debería poder dárselo sin más. A pesar de que ella lo cree así, se pregunta si quizá se pasó con la decoración, o si se pensará que tiene otras intenciones, por lo que nunca se lo da.<br>«¿Y si al final acabo dándoselo a Owe este año otra vez?».<br>Preocupada por que se le escapen esos pensamientos, los guarda para sí. También está bajo el cuidado de Owe, eso es indiscutible. Aun así… Aunque estos sentimientos tan opuestos se remueven en su corazón, sabe que no llegará a actuar."
         },
         {
             "key": "VC_LW_SHIV",
@@ -65,6 +65,10 @@
             "value": "　Cuatro hermosas hermanas que llegan con el viento. Aunque sus cabezas ya poseen alas y plumaje llamativo, las adornan con tiaras doradas. Los humanos se embelesan fácilmente con la belleza de sus plumas. Aproximarse a estas hermanas sin cuidado provocará su ira, por lo que se dice que nadie debe acercarse a ellas. Los vientos que crean cada una de ellas con sus alas pueden combinarse para formar tornados colosales. Se dice que la fuerza conjunta de estas hermanas cuando están unidas supera la de cualquier otra ninfa."
         },
         {
+            "key": "VC_MBFF_MV1",
+            "value": "«El Guerrero de la Luz prevalecerá sobre el caos y traerá la salvación al mundo».<br>Así lo anunciaba la profecía... Mas lo que acabó sucediendo no es lo que estaba previsto. El caos que condujo a la humanidad a la desesperación se esfumó, pero también lo hizo el héroe que trajo la esperanza.<br><br>Sí, por tu culpa.<br><br>Tú eres el que puso fin a la historia del «Guerrero de la Luz».<br>Nadie recuerda ya la valiente figura del «Guerrero de la Luz»,<br>tu propia figura.<br><br>Habiendo olvidado, la gente susurra.<br><br>Aquel que transformó este mundo, otrora bello y lleno de esperanza, existe.<br><br>El «Guerrero de la Desesperación», al que nadie conoce.<br>En esta era carente de historias que contar, el mundo aguarda con ansia el nacimiento de una nueva leyenda."
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "　Un monstruo gigante con una ostentosa armadura de hierro que presume de una defensa y un ataque devastadores. Es lógico asumir que sus cualidades defensivas son mucho más avanzadas de lo que aparenta a primera vista. Sus acometidas son virulentas y sorprendentemente veloces para tratarse de un gigante con una armadura tan pesada. Se cree incluso que Férreo actúa movido por algún tipo de magia o encantamiento."
         },
@@ -78,7 +82,7 @@
         },
         {
             "key": "VC_LW_VALE2",
-            "value": "«¿Lord Stern aceptará mis bombones?…»<br>«¿Qué pasa, Etra? Te has quedado quieta. Nasha ya casi ha terminado. Y yo lo haré también pronto.»<br>«¿Hm? ¿Has terminado? Yelma… qué… ¿qué estás haciendo?»<br>«Pues chocolate, está claro. ¿No?»<br>«Eh, ¿de verdad? Vaya… tiene un olor intenso… ¿Estás segura de que va todo bien, Yelma?»<br>«Intenso está bien. No es solo chocolate, es una sopa repleta de ingredientes riquísimos. Cuando Lord Stern se la beba, seguro que… je, je, je.»<br>«¡Pues yo creo que su vida peligra como se beba esto! ¡Tenemos que pararla, Nasha!»<br>«¡Oh, no, Lord Stern! ¡Mi corazoncito no está preparado para esto!…»<br>«¡Bueno, ya basta de soñar despiertas!»"
+            "value": "«¿Lord Stern aceptará mis bombones?…».<br>«¿Qué pasa, Etra? Te has quedado quieta. Nasha ya casi ha terminado. Y yo lo haré también pronto».<br>«¿Hm? ¿Has terminado? Yelma… qué… ¿qué estás haciendo?».<br>«Pues chocolate, está claro. ¿No?».<br>«Eh, ¿de verdad? Vaya… tiene un olor intenso… ¿Estás segura de que va todo bien, Yelma?».<br>«Intenso está bien. No es solo chocolate, es una sopa repleta de ingredientes riquísimos. Cuando Lord Stern se la beba, seguro que… je, je, je».<br>«¡Pues yo creo que su vida peligra como se beba esto! ¡Tenemos que pararla, Nasha!».<br>«¡Ay, no, Lord Stern! ¡Mi corazoncito no está preparado para esto!…».<br>«¡Bueno, ya basta de soñar despiertas!»."
         },
         {
             "key": "VC_LW_FAMILY",
@@ -127,6 +131,10 @@
         {
             "key": "VC_LW_OCHU",
             "value": "　Un gigantesco monstruo plantoide cuyo cuerpo mide lo mismo que una pequeña colina. Tiene enormes fauces de colmillos puntiagudos y numerosos zarcillos que se asemejan a los bigotes de un bagre. Es famoso por su habilidad de inducir una variedad de estados alterados en el cuerpo humano, desde envenenamiento hasta parálisis. Cuando está nervioso, su cuerpo tiembla de forma peculiar, como si fuera una especie de baile. Es habitual ver a especímenes sueltos acompañados por varias crías de microchús."
+        },
+        {
+            "key": "VC_MBFF_MV2",
+            "value": "　Este no es tu mundo. Tras haber perdido tus recuerdos, te hallas aquí, en Palamecia. Te acompañan muchos otros forasteros que han aparecido aquí sin recordar nada. Despojados de vuestro pasado, se os conoce como los «blan». Mas todavía tenéis futuro.<br>Existe una profecía en Palamecia que dice: «Un día, el Guerrero de la Luz aparecerá y devolverá la esperanza al mundo».<br>Quizá uno de los blan…, o incluso tú, podría ser el Guerrero de la Luz del que habla la profecía.<br>¡Lucha por tu futuro y trae la esperanza a Palamecia!"
         },
         {
             "key": "VC_LW_CACT",
@@ -234,6 +242,10 @@
         },
         {
             "key": "VC_EXP_03",
+            "value": "　Un recipiente translúcido con forma ovalada que rebosa de un líquido peculiar. Si se observa de cerca, se aprecian unas burbujitas que ascienden lentamente desde la base. Se puede mejorar una carta de visión al usar este huevo."
+        },
+        {
+            "key": "VC_EXP_04",
             "value": "　Un recipiente translúcido con forma ovalada que rebosa de un líquido peculiar. Si se observa de cerca, se aprecian unas burbujitas que ascienden lentamente desde la base. Se puede mejorar una carta de visión al usar este huevo."
         }
     ]

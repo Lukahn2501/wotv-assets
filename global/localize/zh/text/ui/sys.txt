@@ -2638,11 +2638,11 @@
         },
         {
             "key": "PARTYEDITOR_GUILD_PARTY_OFFENSE",
-            "value": "攻擊隊伍"
+            "value": "攻擊"
         },
         {
             "key": "PARTYEDITOR_GUILD_PARTY_DEFENSE",
-            "value": "防禦隊伍"
+            "value": "防禦"
         },
         {
             "key": "PARTYEDITOR_GUILD_CAUTION",
@@ -2947,10 +2947,6 @@
         {
             "key": "RECOMMEND_TEAM_DESC",
             "value": "請設定優先項目"
-        },
-        {
-            "key": "RECOMMEND_TEAM_CAUTION",
-            "value": "<line-height=26>※兵員·武具·召喚獸·幻兵卡<br>會根據設定好的項目自動編配。"
         },
         {
             "key": "RECOMMEND_TEAM_FAVORITE",
@@ -3682,7 +3678,7 @@
         },
         {
             "key": "LAPIS_RIGHT_LIMITED",
-            "value": "限定{0}天"
+            "value": "購買後{0}天有效"
         },
         {
             "key": "LAPIS_RIGHT_PURCHESED",
@@ -4283,6 +4279,550 @@
         {
             "key": "YEAR_TEXT",
             "value": "年"
+        },
+        {
+            "key": "POWER_SAVE",
+            "value": "觸碰水晶解除省電模式"
+        },
+        {
+            "key": "SORT_TITLE_AP",
+            "value": "AP"
+        },
+        {
+            "key": "SORT_TITLE_DEFENCE",
+            "value": "防禦"
+        },
+        {
+            "key": "SORT_TITLE_MIND",
+            "value": "精神"
+        },
+        {
+            "key": "SORT_TITLE_DEXTERITY",
+            "value": "靈巧"
+        },
+        {
+            "key": "SORT_TITLE_LUCK",
+            "value": "運氣"
+        },
+        {
+            "key": "STATUS_HATE",
+            "value": "仇恨"
+        },
+        {
+            "key": "ABILITY_STATUS_USE_AUTO",
+            "value": "於自動能力使用"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL",
+            "value": "詳細設定"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL_ON",
+            "value": "詳細設定：ON"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TITLE",
+            "value": "於自動戰鬥使用"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_QUEST",
+            "value": "任務"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_MULTI",
+            "value": "協力"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_DUEL",
+            "value": "決鬥"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_GUILD",
+            "value": "公會戰鬥"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TOWER",
+            "value": "白磁之塔"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
+            "value": "選擇兵員"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
+            "value": "已被編配在<br>另一隊伍（{0}）。<br>確定要選擇嗎？<br>（會將兵員從已編配的<br>隊伍移除。）"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
+            "value": "普通"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
+            "value": "期間限定"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
+            "value": "編配規則"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
+            "value": "<line-height=22>※無法於複數的攻擊／防禦隊伍編配同一個兵員、武具、召喚獸及幻兵卡。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
+            "value": "選擇優先項目"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
+            "value": "選擇自動編配對象"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
+            "value": "全部自動編配"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
+            "value": "武具"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
+            "value": "幻兵卡"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
+            "value": "召喚獸"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
+            "value": "<line-height=26>※兵員、武具、召喚獸、幻兵卡<br>會根據設定好的項目自動編配。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
+            "value": "<line-height=26>※所勾選的裝備品將會根據設定自動編配，<br>其餘則不變。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
+            "value": "<line-height=26>※勾選後則會優先編配<br>於兵員詳細資訊設定的鎖定武具。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_TITLE",
+            "value": "請勾選項目"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
+            "value": "請由武具、幻兵卡、召喚獸中<br>最少選1個勾選。"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_CHAT",
+            "value": "聊天"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
+            "value": "戰鬥紀錄"
+        },
+        {
+            "key": "OPTION_EFFECT",
+            "value": "範圍效果顯示"
+        },
+        {
+            "key": "OPTION_LAP_TITLE",
+            "value": "連刷設定"
+        },
+        {
+            "key": "OPTION_LAP_LIMIT",
+            "value": "連刷限制"
+        },
+        {
+            "key": "OPTION_LAP_NONE",
+            "value": "無限制"
+        },
+        {
+            "key": "OPTION_LAP_TIMES",
+            "value": "連刷數"
+        },
+        {
+            "key": "OPTION_LAP_ITEM",
+            "value": "獲得道具"
+        },
+        {
+            "key": "OPTION_LAP_USE_ITEM",
+            "value": "消耗體力"
+        },
+        {
+            "key": "OPTION_LAP_STOP",
+            "value": "停止連刷"
+        },
+        {
+            "key": "OPTION_LAP_FEAVER",
+            "value": "探險陸行鳥Fever"
+        },
+        {
+            "key": "OPTION_LAP_CAPRICIOUS",
+            "value": "遇到流動商店"
+        },
+        {
+            "key": "OPTION_LAP_RAID",
+            "value": "共鬥頭目出現"
+        },
+        {
+            "key": "OPTION_LAP_STOP_CAUTION",
+            "value": "※若設定為ON，出現跳轉演示畫面時將會停止連刷。"
+        },
+        {
+            "key": "OPTION_LAP_AP_USE",
+            "value": "自動使用體力恢復薬"
+        },
+        {
+            "key": "OPTION_LAP_AP_TIMES",
+            "value": "恢復回数上限"
+        },
+        {
+            "key": "OPTION_LAP_AP_CAUTION",
+            "value": "※連刷中體力不足時將自動恢復體力。<br>※不會以消耗恢復藥以外的方式恢復體力。<br>※會由恢復量較大的恢復藥用起。"
+        },
+        {
+            "key": "OPTION_ITEM_TITLE",
+            "value": "選擇道具"
+        },
+        {
+            "key": "ARTI_CONDITION_TITLE",
+            "value": "可裝備條件"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_TITLE",
+            "value": "可裝備職業"
+        },
+        {
+            "key": "ARTI_CONDITION_NONE",
+            "value": "無可裝備條件"
+        },
+        {
+            "key": "ARTI_CONDITION_COUNTRY",
+            "value": "·{0}出身"
+        },
+        {
+            "key": "ARTI_CONDITION_SEX",
+            "value": "·{0}"
+        },
+        {
+            "key": "ARTI_CONDITION_UNIT",
+            "value": "·{0}"
+        },
+        {
+            "key": "ARTI_CONDITION_RARITY",
+            "value": "·稀有度 {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_AWAKE",
+            "value": "·覺醒數 {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_RANK",
+            "value": "·極限突破數 {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_SERIES",
+            "value": "·系列 {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_NONE",
+            "value": "所有職業都可以裝備"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
+            "value": "兵員詳細資訊"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
+            "value": "※覺醒★{0}/極限突破{1}/等級·全職業等級(JobLv)為MAX時"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
+            "value": "幻兵卡詳細資訊"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
+            "value": "※覺醒★{0}/等級MAX時"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
+            "value": "召喚獸詳細資訊"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
+            "value": "※僅限初次可獲得召喚獸"
+        },
+        {
+            "key": "VISION_DETAIL_STATUS",
+            "value": "狀態"
+        },
+        {
+            "key": "VISION_DETAIL_INFO",
+            "value": "資訊"
+        },
+        {
+            "key": "VISION_DETAIL_ADD_EFF",
+            "value": "賦予效果"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE_BONUS",
+            "value": "覺醒獎勵"
+        },
+        {
+            "key": "VISION_DETAIL_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE",
+            "value": "覺醒"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_STATUS",
+            "value": "<cspace=0.5>狀態"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_SYNCHRO",
+            "value": "共鳴度"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_RESIST",
+            "value": "耐性"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
+            "value": "召喚魔法"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
+            "value": "召喚獸育成盤"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
+            "value": "召喚獸強化"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
+            "value": "一併強化"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
+            "value": "召喚獸等級已達上限"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
+            "value": "會超出召喚獸等級MAX所需的經驗值，確定繼續？"
+        },
+        {
+            "key": "UNIT_DETAIL_AWAKE",
+            "value": "覺醒"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP",
+            "value": "極限突破"
+        },
+        {
+            "key": "UNIT_DETAIL_INTIMACY",
+            "value": "親密度"
+        },
+        {
+            "key": "UNIT_DETAIL_STATUS_DETAIL",
+            "value": "狀態詳細資訊"
+        },
+        {
+            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
+            "value": "信賴度滿點報酬"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_BORD",
+            "value": "兵員能力盤"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_SET",
+            "value": "能力設置"
+        },
+        {
+            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
+            "value": "召喚獸育成盤"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_AWAKE",
+            "value": "覺醒"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ABILITY",
+            "value": "能力"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
+            "value": "<cspace=0.5>Trust"
+        },
+        {
+            "key": "UNIT_DETAIL_RANK_LIMIT",
+            "value": "等級上限"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ON",
+            "value": "已鎖定"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_OFF",
+            "value": "已解除鎖定"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP_CONDITION",
+            "value": "極限突破「{0}」後解鎖"
+        },
+        {
+            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
+            "value": "武具熟練度"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP",
+            "value": "裝備"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI",
+            "value": "鎖定武具"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
+            "value": "設定"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
+            "value": "強化素材"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
+            "value": "沒有強化素材"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
+            "value": "一併強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
+            "value": "強化確認"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
+            "value": "兵員等級已達上限"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
+            "value": "會超出兵員等級MAX所需的經驗值，確定繼續？"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
+            "value": "主要"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
+            "value": "必要兵員等級"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
+            "value": "職業強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
+            "value": "職業強化素材"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
+            "value": "<cspace=-1>已到達職業等級(JobLv)上限"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
+            "value": "<cspace=-1>素材不足"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITYSET_SET",
+            "value": "設定"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_STATUS",
+            "value": "<cspace=0.6>兵員狀態"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_JOB",
+            "value": "<cspace=0.6>職業"
+        },
+        {
+            "key": "UNIT_ARTI_SET_TITLE",
+            "value": "武具裝備"
+        },
+        {
+            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
+            "value": "顯示耐性"
+        },
+        {
+            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
+            "value": "裝備中的武具除外"
+        },
+        {
+            "key": "UNIT_ARTI_SET_REMOVE",
+            "value": "移除"
+        },
+        {
+            "key": "UNIT_ARTI_SET_CONFIRM",
+            "value": "已被其他兵員裝備。<br>確定要裝備嗎？<br>（會將裝備從已裝備的<br>兵員身上卸下。）"
+        },
+        {
+            "key": "ARTI_STATUS_ADD_NONE",
+            "value": "沒有附加能力"
+        },
+        {
+            "key": "ARTI_STATUS_WA_TITLE",
+            "value": "武具能力"
+        },
+        {
+            "key": "ARTI_STATUS_LB_TITLE",
+            "value": "極限技"
+        },
+        {
+            "key": "ARTI_STATUS_LB_ENHANCE",
+            "value": "已裝備"
+        },
+        {
+            "key": "TRUST_MASTER_TITLE",
+            "value": "信賴度滿點報酬"
+        },
+        {
+            "key": "TRUST_MASTER_CONDITION",
+            "value": "極限突破5·覺醒★6後獲得"
+        },
+        {
+            "key": "TRUST_MASTER_COMPLETE",
+            "value": "已獲得"
+        },
+        {
+            "key": "QRCODE_TAKE_TITLE",
+            "value": "序號"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_BATTLE",
+            "value": "已讀取序號。<br>請至主畫面確認。"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_HOME",
+            "value": "已讀取序號。<br>回到主畫面。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_CAUTION",
+            "value": "<line-height=26>※兵員、武具、召喚獸、幻兵卡<br>會根據設定好的項目自動編配。"
         },
         {
             "key": "DEBUG_SELECT_TUTORIAL_TITLE",

@@ -451,6 +451,126 @@
         {
             "key": "IT_SET_WA_CRI_GL01",
             "value": "장비[크리티컬 발생률] 강화 패키지"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "MOBIUS FINAL FANTASY 콜라보 기념 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": " '절망과 진실의 뫼비우스' 육성 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": " '희망과 환상의 뫼비우스' 육성 패키지"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "비전 카드 육성 패키지 II"
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "유닛 육성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "빛의 각성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "물의 각성 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "프레이비아 육성 패키지"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "불의 휘석 패키지"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "얼음의 휘석 패키지"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "바람의 휘석 패키지"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "번개의 휘석 패키지"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "땅의 휘석 패키지"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "얼음의 휘석 패키지"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "빛의 휘석 패키지"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "어둠의 휘석 패키지"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "백자탑 개최 기념 경험치 큐브 패키지"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "장비 어빌리티 강화 패키지"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "1일 1회 무료 체력 회복약(대)"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "백자탑 비전 카드 육성 패키지"
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "백자탑 불속성 강화 패키지"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "백자탑 물속성 강화 패키지"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "백자탑 얼음속성 강화 패키지"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "백자탑 바람속성 강화 패키지"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "백자탑 번개속성 강화 패키지"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "백자탑 땅속성 강화 패키지"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "백자탑 빛속성 강화 패키지"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "백자탑 어둠속성 강화 패키지"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "길드 석상 육성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "어둠속성 풀 각성 패키지"
         }
     ]
 }

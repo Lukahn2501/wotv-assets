@@ -93,6 +93,42 @@
             "value": "Invocación insólita"
         },
         {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "Invocación insólita"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Invocación normal limitada: Conmemoración del lanzamiento"
         },
@@ -171,6 +207,38 @@
         {
             "key": "Normal_gacha_A_gl20200617_10",
             "value": "Invocación normal (x10) de comienzo del verano"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "¡Capítulo 7 disponible! Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "¡Capítulo 7 disponible! Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "Invocación normal limitada de FF EXVIUS Universe"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "Invocación normal (x10) limitada de FF EXVIUS Universe"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "Invocación normal limitada de FF EXVIUS Universe, parte II"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "Invocación normal (x10) limitada de FF EXVIUS Universe, parte II"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "Invocación normal (x10) limitada"
         }
     ]
 }

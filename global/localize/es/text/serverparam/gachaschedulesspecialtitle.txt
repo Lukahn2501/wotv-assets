@@ -210,7 +210,7 @@
         },
         {
             "key": "p_gacha_4unitvc_gl20200520_10",
-            "value": "Invocación UR x4: 6 primeros meses de la versión japonesa"
+            "value": "Invocación de 4 UR: 6 primeros meses de la versión japonesa"
         },
         {
             "key": "gacha_unit_vc_gl20200520_a_01",
@@ -343,6 +343,286 @@
         {
             "key": "no_coin_gacha_gl20200617_10",
             "value": "Invocación (x10) GRATUITA de comienzo del verano"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_01",
+            "value": "Invocación de carta de visión de MOBIUS FINAL FANTASY"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_10",
+            "value": "Invocación (x10) de carta de visión de MOBIUS FINAL FANTASY"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_01",
+            "value": "Invocación destacada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_10",
+            "value": "Invocación (x10) destacada"
+        },
+        {
+            "key": "no_coin_gacha_gl20200624_10",
+            "value": "¡Capítulo 7 disponible! Invocación (x10) GRATUITA"
+        },
+        {
+            "key": "p_gacha_unit_gl20200624_10",
+            "value": "¡Capítulo 7 disponible! Invocación (x10) de unidad UR garantizada"
+        },
+        {
+            "key": "p_gacha_vc_gl20200624_10",
+            "value": "¡Capítulo 7 disponible! Invocación (x10) de carta de visión UR garantizada"
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200624_10",
+            "value": "4.º aniversario de FFBE: Invocación (x10) de 4 UR garantizadas"
+        },
+        {
+            "key": "beginner_gacha_10_20200624",
+            "value": "Invocación (x10) GRATUITA de unidad UR garantizada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_1",
+            "value": "¡Capítulo 7 disponible! Paso 1 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_1",
+            "value": "¡Capítulo 7 disponible! Paso 2 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_1",
+            "value": "¡Capítulo 7 disponible! Paso 3 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_1",
+            "value": "¡Capítulo 7 disponible! Invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_2",
+            "value": "¡Capítulo 7 disponible! Paso 1 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_2",
+            "value": "¡Capítulo 7 disponible! Paso 2 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_2",
+            "value": "¡Capítulo 7 disponible! Paso 3 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_2",
+            "value": "¡Capítulo 7 disponible! Invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_3",
+            "value": "¡Capítulo 7 disponible! Paso 1 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_3",
+            "value": "¡Capítulo 7 disponible! Paso 2 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_3",
+            "value": "¡Capítulo 7 disponible! Paso 3 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_3",
+            "value": "¡Capítulo 7 disponible! Invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_4",
+            "value": "¡Capítulo 7 disponible! Paso 1 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_4",
+            "value": "¡Capítulo 7 disponible! Paso 2 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_4",
+            "value": "¡Capítulo 7 disponible! Paso 3 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_4",
+            "value": "¡Capítulo 7 disponible! Invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_5",
+            "value": "¡Capítulo 7 disponible! Paso 1 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_5",
+            "value": "¡Capítulo 7 disponible! Paso 2 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_5",
+            "value": "¡Capítulo 7 disponible! Paso 3 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_5",
+            "value": "¡Capítulo 7 disponible! Invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_6",
+            "value": "¡Capítulo 7 disponible! Paso 1 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_6",
+            "value": "¡Capítulo 7 disponible! Paso 2 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_6",
+            "value": "¡Capítulo 7 disponible! Paso 3 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_6",
+            "value": "¡Capítulo 7 disponible! Invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_7",
+            "value": "¡Capítulo 7 disponible! Paso 1 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_7",
+            "value": "¡Capítulo 7 disponible! Paso 2 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_7",
+            "value": "¡Capítulo 7 disponible! Paso 3 de la invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_7",
+            "value": "¡Capítulo 7 disponible! Invocación (x10) de pasos"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step1",
+            "value": "Paso 1 de la invocación (x10) de 5 pasos del capítulo 7"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step2",
+            "value": "Paso 2 de la invocación (x10) de 5 pasos del capítulo 7"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step3",
+            "value": "Paso 3 de la invocación (x10) de 5 pasos del capítulo 7"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step4",
+            "value": "Paso 4 de la invocación (x10) de 5 pasos del capítulo 7"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step5",
+            "value": "Paso 5 de la invocación (x10) de 5 pasos del capítulo 7"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200701_10",
+            "value": "Invocación (x10) gratuita de celebración de los 100 días de la versión internacional"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step3",
+            "value": "Paso 3 de la invocación (x10) de pasos con unidad UR de FFBE garantizada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step2",
+            "value": "Paso 2 de la invocación (x10) de pasos con unidad UR de FFBE garantizada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step1",
+            "value": "Paso 1 de la invocación (x10) de pasos con unidad UR de FFBE garantizada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_base",
+            "value": ""
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_1",
+            "value": "Celebración del lanzamiento de la Torre de Porcelana: Invocación destacada I"
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_10",
+            "value": "Celebración del lanzamiento de la Torre de Porcelana: Invocación (x10) destacada I"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_1",
+            "value": "Celebración del lanzamiento de la Torre de Porcelana: Invocación destacada II"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_10",
+            "value": "Celebración del lanzamiento de la Torre de Porcelana: Invocación (x10) destacada II"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_1",
+            "value": "Celebración del lanzamiento de la Torre de Porcelana: Invocación destacada III"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_10",
+            "value": "Celebración del lanzamiento de la Torre de Porcelana: Invocación (x10) destacada III"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_1",
+            "value": "Celebración del lanzamiento de la Torre de Porcelana: Invocación destacada IV"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_10",
+            "value": "Celebración del lanzamiento de la Torre de Porcelana: Invocación (x10) destacada IV"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_01",
+            "value": "Invocación de colaboración de FF EXVIUS Universe: Fryevia"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10",
+            "value": "Invocación (x10) de colaboración de FF EXVIUS Universe: Fryevia"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_01",
+            "value": "Invocación de colaboración de FF EXVIUS Universe: Rain"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_10",
+            "value": "Invocación (x10) de colaboración de FF EXVIUS Universe: Rain"
+        },
+        {
+            "key": "p_gacha_unit_gl20200701_10",
+            "value": "Invocación (x10) de unidad UR garantizada de FF EXVIUS Universe"
+        },
+        {
+            "key": "p_gacha_vc_gl20200701_10",
+            "value": "Invocación (x10) de carta de visión UR garantizada de FF EXVIUS Universe  "
+        },
+        {
+            "key": "no_coin_gacha_gl20200708_10",
+            "value": "Invocación (x10) GRATUITA de FF EXVIUS Universe"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_01",
+            "value": "Invocación destacada de celebración del lanzamiento de la Torre de Porcelana, parte II"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_10",
+            "value": "Invocación (x10) destacada de celebración del lanzamiento de la Torre de Porcelana, parte II"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_01",
+            "value": "Invocación de nueva unidad destacada"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_10",
+            "value": "Invocación (x10) de nueva unidad destacada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_01",
+            "value": "Invocación destacada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_10",
+            "value": "Invocación (x10) destacada"
+        },
+        {
+            "key": "p_gacha_unit_gl20200715_10",
+            "value": "Invocación (x10) de unidad UR garantizada"
         },
         {
             "key": "global_pickup_sterne_20200325_01",

@@ -763,6 +763,46 @@
         {
             "key": "JB_FFT_ORND",
             "value": "Schwertheiliger"
+        },
+        {
+            "key": "JB_LW_RAIN",
+            "value": "Ritter von Grandshelt"
+        },
+        {
+            "key": "JB_LW_ASS",
+            "value": "Assassine"
+        },
+        {
+            "key": "JB_LW_ASS_FIRE",
+            "value": "Assassine"
+        },
+        {
+            "key": "JB_LW_ASS_ICE",
+            "value": "Assassine"
+        },
+        {
+            "key": "JB_LW_ASS_WIND",
+            "value": "Assassine"
+        },
+        {
+            "key": "JB_LW_ASS_SOIL",
+            "value": "Assassine"
+        },
+        {
+            "key": "JB_LW_ASS_THUN",
+            "value": "Assassine"
+        },
+        {
+            "key": "JB_LW_ASS_WATER",
+            "value": "Assassine"
+        },
+        {
+            "key": "JB_LW_ASS_SHINE",
+            "value": "Assassine"
+        },
+        {
+            "key": "JB_LW_ASS_DARK",
+            "value": "Assassine"
         }
     ]
 }

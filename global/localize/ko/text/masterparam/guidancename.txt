@@ -106,11 +106,15 @@
         },
         {
             "key": "SupportUnit",
-            "value": "변경"
+            "value": "동행자 설정"
         },
         {
             "key": "ItemExchange",
             "value": "교환소"
+        },
+        {
+            "key": "Tower",
+            "value": "탑"
         }
     ]
 }

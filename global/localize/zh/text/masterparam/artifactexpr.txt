@@ -1861,6 +1861,34 @@
             "value": "武具種類：劍<br>適用武器熟練度：B以上"
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "武具種類：鎧甲<br>適用防具熟練度：A以上"
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "武具種類：裝飾品<br>適用裝飾品熟練度：B以上"
+        },
+        {
+            "key": "AF_CLT_LW_RAIN_1",
+            "value": "武具種類：衣服<br>適用防具熟練度：A以上"
+        },
+        {
+            "key": "AF_ACC_LW_FRVA_1",
+            "value": "武具種類：裝飾品<br>適用裝飾品熟練度：A以上"
+        },
+        {
+            "key": "AF_ACC_LW_VNLA_1",
+            "value": "武具種類：裝飾品<br>適用裝飾品熟練度：A以上"
+        },
+        {
+            "key": "AF_SWO_LW_DRIO_1",
+            "value": "武具種類：劍<br>適用武器熟練度：B以上"
+        },
+        {
+            "key": "AF_ACC_LW_TREL_1",
+            "value": "武具種類：裝飾品<br>適用裝飾品熟練度：B以上"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "武具種類：劍<br>適用武器熟練度：B以上"
         },
@@ -1933,16 +1961,20 @@
             "value": "武具種類：火槍<br>適用武器熟練度：B以上"
         },
         {
-            "key": "AF_ARM_LW_VKTR_1",
-            "value": "武具種類：鎧甲<br>適用防具熟練度：A以上"
-        },
-        {
             "key": "AF_SPE_LW_VKTR_2",
             "value": "武具種類：槍<br>適用武器熟練度：B以上"
         },
         {
-            "key": "AF_ACC_LW_THLA_1",
-            "value": "武具種類：裝飾品<br>適用裝飾品熟練度：B以上"
+            "key": "AF_BSW_LW_RAIN_2",
+            "value": "武具種類：大劍<br>適用武器熟練度：B以上"
+        },
+        {
+            "key": "AF_SWO_LW_FRVA_2",
+            "value": "武具種類：劍<br>適用武器熟練度：A以上"
+        },
+        {
+            "key": "AF_DAG_LW_VNLA_2",
+            "value": "武具種類：短劍<br>適用武器熟練度：A以上"
         },
         {
             "key": "AF_LW_RNG_005",
@@ -1967,6 +1999,10 @@
         {
             "key": "AF_LW_RNG_005_5",
             "value": "武具種類：裝飾品<br>適用裝飾品熟練度：A以上"
+        },
+        {
+            "key": "AF_LW_BSW_011",
+            "value": "武具種類：大劍<br>適用武器熟練度：A以上"
         }
     ]
 }

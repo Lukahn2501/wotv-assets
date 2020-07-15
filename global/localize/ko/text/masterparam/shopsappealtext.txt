@@ -43,6 +43,18 @@
         {
             "key": "11",
             "value": "<cspace=1>초여름 기념<br>특별 상점"
+        },
+        {
+            "key": "12",
+            "value": "<cspace=1>MOBIUS FF<br>콜라보 기념 상점"
+        },
+        {
+            "key": "13",
+            "value": "<cspace=1>백자탑 개최<cspace=-0.5><br>기념 상점!"
+        },
+        {
+            "key": "14",
+            "value": "<cspace=1>길드 응원<cspace=-0.5><br>캠페인 상점!"
         }
     ]
 }

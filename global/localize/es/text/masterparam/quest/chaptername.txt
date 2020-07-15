@@ -29,6 +29,10 @@
             "value": "Traición"
         },
         {
+            "key": "CH_ST_0107",
+            "value": "Aprovechar la ventaja"
+        },
+        {
             "key": "CH_WD_0102",
             "value": "Tierras glaciales"
         }

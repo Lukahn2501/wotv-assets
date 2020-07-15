@@ -42,7 +42,7 @@
         },
         {
             "key": "DIALOG_003_M",
-            "value": "Pour sélectionner les unités que vous souhaitez définir comme des personnages de soutien, rendez-vous dans l'<color=#00ffff>écran de Formation</color> et ouvrez les <color=#00ffff>Paramètres des personnages de soutien</color>."
+            "value": "Pour sélectionner les unités que vous souhaitez définir comme des personnages de soutien, rendez-vous dans l'<color=#00ffff>écran de formation</color> et ouvrez les <color=#00ffff>paramètres des personnages de soutien</color>."
         },
         {
             "key": "DIALOG_004_T",

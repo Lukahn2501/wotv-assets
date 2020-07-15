@@ -2273,6 +2273,122 @@
             "value": "대상에게 2연속 피해(대)"
         },
         {
+            "key": "SK_LW_RAIN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_M_1",
+            "value": "범위 내 대상에게 마력 의존 불속성 피해(중)"
+        },
+        {
+            "key": "SK_LW_RAIN_M_2",
+            "value": "3턴 동안 자신의 얼음속성 저항력 증가+상태이상(독/실명/석화) 무효화"
+        },
+        {
+            "key": "SK_LW_RAIN_M_3",
+            "value": "대상에게 3연속 마력 의존 피해(중)"
+        },
+        {
+            "key": "SK_LW_RAIN_M_3_B",
+            "value": "대상에게 3연속 마력 의존 피해(대)"
+        },
+        {
+            "key": "SK_LW_RAIN_S_1",
+            "value": "대상에게 마력 의존 불속성 피해(소)"
+        },
+        {
+            "key": "SK_LW_RAIN_S_2",
+            "value": "대상에게 마력 의존 피해(소)+3턴 동안 공격력 감소"
+        },
+        {
+            "key": "SK_LW_RAIN_S_3",
+            "value": "자신이 공격받을 확률 증가+3턴 동안 자신에게 마법 피해 보호막"
+        },
+        {
+            "key": "SK_LW_RAIN_S_4",
+            "value": "대상에게 마력 의존 피해(소)+3턴 동안 공격력/마력/방어력/정신력 감소"
+        },
+        {
+            "key": "SK_LW_RAIN_R_1",
+            "value": "피해를 받으면 일정 확률로 반격"
+        },
+        {
+            "key": "SK_LW_RAIN_P_1",
+            "value": "정신력 증가"
+        },
+        {
+            "key": "SK_LW_RAIN_P_2",
+            "value": "마력 증가+'홍염의 영혼' 위력 증가"
+        },
+        {
+            "key": "SK_LW_ASS_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_M_4",
+            "value": "3턴 동안 대상의 방어력 감소+피해(대)"
+        },
+        {
+            "key": "SK_LW_ASS_M_3",
+            "value": "자신을 중심으로 범위 내 대상에게 피해(중)"
+        },
+        {
+            "key": "SK_LW_ASS_S_4",
+            "value": "대상에게 피해(중)+일정 확률로 죽음의 선고(4번째 행동 시작 시 전투불능) 효과"
+        },
+        {
+            "key": "SK_LW_ASS_S_1_INIT",
+            "value": "대상에게 피해(소)+일정 확률로 독(3턴 동안 서서히 HP 감소) 효과"
+        },
+        {
+            "key": "SK_LW_ASS_M_1_INIT",
+            "value": "대상에게 피해(중)+일정 확률로 아이템 훔치기"
+        },
+        {
+            "key": "SK_LW_ASS_S_2",
+            "value": "대상에게 일정 확률로 마비(3턴 동안 고확률로 행동 불가) 효과"
+        },
+        {
+            "key": "SK_LW_ASS_M_2",
+            "value": "대상에게 피해(중)+후면 공격일 경우 피해를 주기 전 방어력 대폭 감소"
+        },
+        {
+            "key": "SK_LW_ASS_S_3",
+            "value": "대상의 AP 모두 흡수"
+        },
+        {
+            "key": "SK_LW_ASS_R_1",
+            "value": "피해를 받으면 일정 확률로 3턴 동안 자신의 회피율 증가(최대 3중첩)+CT 증가"
+        },
+        {
+            "key": "SK_LW_ASS_P_1",
+            "value": "회피율 증가"
+        },
+        {
+            "key": "SK_LW_ASS_M_4_SUB",
+            "value": "3턴 동안 대상의 방어력 감소+피해(대)"
+        },
+        {
+            "key": "SK_LW_ASS_M_3_SUB",
+            "value": "자신을 중심으로 범위 내 대상에게 피해(중)"
+        },
+        {
+            "key": "SK_LW_ASS_S_4_SUB",
+            "value": "대상에게 피해(중)+일정 확률로 죽음의 선고(4번째 행동 시작 시 전투불능) 효과"
+        },
+        {
+            "key": "SK_LW_ASS_S_1",
+            "value": "대상에게 피해(소)+일정 확률로 독(3턴 동안 서서히 HP 감소) 효과"
+        },
+        {
+            "key": "SK_LW_ASS_M_1",
+            "value": "대상에게 피해(중)+일정 확률로 아이템 훔치기"
+        },
+        {
+            "key": "SK_LW_ASS_P_2",
+            "value": "획득 AP 증가"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "범위 내 대상에게 마력 의존 얼음속성 피해(소)"
         },
@@ -2798,11 +2914,11 @@
         },
         {
             "key": "SK_CSLI_M_03",
-            "value": "자신을 중심으로 범위 내 대상에게 피해(중)+대상에게 일정 확률로 매료(3턴 동안 조작 불가/대상의 아군 공격) 효과"
+            "value": "자신을 중심으로 범위 내 대상에게 피해(중)+일정 확률로 매료(3턴 동안 조작 불가/대상의 아군 공격) 효과"
         },
         {
             "key": "SK_CSLI_M_03_QE",
-            "value": "자신을 중심으로 범위 내 대상에게 피해(중)+대상에게 일정 확률로 매료(3턴 동안 조작 불가/대상의 아군 공격) 효과"
+            "value": "자신을 중심으로 범위 내 대상에게 피해(중)+일정 확률로 매료(3턴 동안 조작 불가/대상의 아군 공격) 효과"
         },
         {
             "key": "SK_SLIM_ATK",
@@ -3229,6 +3345,18 @@
             "value": "자신을 중심으로 범위 내 대상에게 피해(대)+대상에게 일정 확률로 매료(3턴 동안 조작 불가/대상의 아군 공격) 효과"
         },
         {
+            "key": "SK_LB_LW_RAIN",
+            "value": "3턴 동안 대상의 불속성 저항력 감소+2연속 마력 의존 피해(대)"
+        },
+        {
+            "key": "SK_LB_LW_FRVA",
+            "value": "범위 내 대상에게 마력 의존 피해(대)+3턴 동안 자신의 소비 AP 감소"
+        },
+        {
+            "key": "SK_LB_LW_VNLA",
+            "value": "대상에게 3연속 피해(대)+일정 확률로 독(3턴 동안 서서히 HP 감소) 효과"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": " '이프리트'를 소환하여 범위 내 대상에게 불속성 피해(극대)+일정 시간 동안 맵 효과 발동(아군의 공격력/마력 증가+적의 불속성 저항력 대폭 감소)"
         },
@@ -3645,6 +3773,26 @@
             "value": "마력+20%, 마법 공격력+15"
         },
         {
+            "key": "SK_MA_LW_RAIN",
+            "value": "정신력+15"
+        },
+        {
+            "key": "SK_MA_LW_FRVA",
+            "value": "최대 HP+10%, 마법 저항력+10"
+        },
+        {
+            "key": "SK_MA_LW_VNLA",
+            "value": "공격력+10%, 회피율+10"
+        },
+        {
+            "key": "SK_MA_LW_DRIO",
+            "value": "방어력/정신력+10"
+        },
+        {
+            "key": "SK_MA_LW_TREL",
+            "value": "HP+20%, 베기 공격력+10"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "베기 공격력+2"
         },
@@ -3809,6 +3957,50 @@
             "value": "1턴 동안 자신의 찌르기 공격력 대폭 증가+명중률 증가"
         },
         {
+            "key": "SK_CLT_LW_RAIN_1_1",
+            "value": "3턴 동안 자신을 중심으로 범위 내 아군의 정신력 증가"
+        },
+        {
+            "key": "SK_ACC_LW_FRVA_1_1",
+            "value": "1턴 동안 자신의 공격력/마력 대폭 증가+바람속성 킬러"
+        },
+        {
+            "key": "SK_ACC_LW_VNLA_1_1",
+            "value": "자신이 공격받을 확률 감소+3턴 동안 자신에게 빛속성 킬러"
+        },
+        {
+            "key": "SK_ACC_LW_MONT_ARENA",
+            "value": "3턴 동안 범위 내 아군의 민첩성 증가(최대 2중첩)"
+        },
+        {
+            "key": "SK_ACC_LW_ZIZA_ARENA",
+            "value": "3턴 동안 자신의 AP 자동 축적"
+        },
+        {
+            "key": "SK_ARW_LW_KTON_ARENA",
+            "value": "3턴 동안 자신의 이동력/점프 1 증가+자신이 공격받을 확률 감소"
+        },
+        {
+            "key": "SK_ARM_LW_LUCA_ARENA",
+            "value": "3턴 동안 자신의 사정거리 1 증가+민첩성 증가"
+        },
+        {
+            "key": "SK_HAT_LW_MDNA_ARENA",
+            "value": "3턴 동안 자신을 중심으로 범위 내 아군의 AP 축적량/공격력/마력 증가"
+        },
+        {
+            "key": "SK_ARM_FFT_RAMZ_ARENA",
+            "value": "아군의 TP 회복"
+        },
+        {
+            "key": "SK_SHI_LW_ENBT_ARENA",
+            "value": "자신의 HP를 소비하여 3턴 동안 공격력 증가"
+        },
+        {
+            "key": "SK_ACC_LW_FDRC_ARENA",
+            "value": "3턴 동안 아군에게 돈무브/돈액트/스톱 무효화 효과"
+        },
+        {
             "key": "SK_SWO_LW_ADLD_1_1",
             "value": ""
         },
@@ -3953,6 +4145,10 @@
             "value": ""
         },
         {
+            "key": "SK_SWO_LW_DRIO_1_1",
+            "value": ""
+        },
+        {
             "key": "SK_LW_SWO_005_1",
             "value": ""
         },
@@ -4026,6 +4222,18 @@
         },
         {
             "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
             "value": ""
         },
         {
@@ -4306,6 +4514,26 @@
         },
         {
             "key": "SK_VC_LW_GUARD_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_GSAW",
             "value": ""
         },
         {
@@ -4714,6 +4942,26 @@
         },
         {
             "key": "SK_VC_LW_GUARD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_PAW",
             "value": ""
         },
         {
@@ -5313,6 +5561,250 @@
             "value": "퀘스트 조정용 스킬"
         },
         {
+            "key": "SK_BTL_FAP_1-999_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_FAP_1-999_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_U_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_D_KISOARK_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_D_KISO",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_HP_1-999_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_MP_1-999_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_AP_1-999_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_DF_1-80_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_MDF_1-80_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_HATE_1-100_U_PA",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_SATK_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_SATK_1-100_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RATK_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RATK_1-100_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_KILLER_MAN_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_KILLER_FIRE_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_KILLER_WATER_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_KILLER_WIND_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_KILLER_THUNDER_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_KILLER_ICE_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_KILLER_SOIL_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_KILLER_DARK_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_KILLER_SHINE_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_TOAD_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_STONE_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_DONMV_1-100_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_DEFPIERCE_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
             "key": "SK_BTL_INV_DEATH",
             "value": "퀘스트 조정용 스킬"
         },
@@ -5443,6 +5935,18 @@
         {
             "key": "SK_LW_WHM_P_2",
             "value": "사용 금지"
+        },
+        {
+            "key": "SK_ARMN_M_01_TW",
+            "value": "[탑 EX용] 적에게 피해(소)+용기 감소"
+        },
+        {
+            "key": "SK_ARMN_M_02_TW",
+            "value": "[탑 EX용] 적에게 일정 확률로 석화(3턴 동안 행동 불가) 효과"
+        },
+        {
+            "key": "SK_ARMN_M_03_TW",
+            "value": "[탑 EX용] 적에게 피해(중)+죽음의 선고(4번째 행동 종료 시 전투불능) 효과"
         }
     ]
 }

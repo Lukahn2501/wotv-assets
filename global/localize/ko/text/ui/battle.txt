@@ -594,7 +594,7 @@
         },
         {
             "key": "TOWER_COMPLETE_RANKING_UNIT",
-            "value": "위"
+            "value": "#"
         },
         {
             "key": "TOWER_COMPLETE_SCORE",
@@ -619,6 +619,18 @@
         {
             "key": "BATTLE_HEIGHT_ABBREV",
             "value": "h"
+        },
+        {
+            "key": "MENU_SKIP",
+            "value": "건너뛰기"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "추가 ★ 획득"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "이 플레이어가<br>설정하지 않은 방어 파티 분량의<br><color=#F0C040>★ × {0}개</color>도 획득했습니다."
         },
         {
             "key": "RESULT_RETRY",

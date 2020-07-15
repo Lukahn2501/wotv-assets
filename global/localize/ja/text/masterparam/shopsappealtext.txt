@@ -43,6 +43,18 @@
         {
             "key": "11",
             "value": "<line-height=15><cspace=1>アーリーサマー<br>記念特別ショップ"
+        },
+        {
+            "key": "12",
+            "value": "<line-height=15><cspace=1>メビウスコラボ<br>記念ショップ"
+        },
+        {
+            "key": "13",
+            "value": "<line-height=15><cspace=1>白磁の塔<cspace=-0.5><br>開催記念ショップ！"
+        },
+        {
+            "key": "14",
+            "value": "<line-height=15><cspace=1>ギルド応援<cspace=-0.5><br>キャンペーンショップ！"
         }
     ]
 }

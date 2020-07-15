@@ -1861,6 +1861,34 @@
             "value": "L'épée rouge portée par Adelard. Elle fut forgée dans un métal magique qui permet à l'énergie de circuler librement le long de sa lame et ainsi d'être une arme digne d'un mage rouge. Grâce à sa forte affinité avec le feu, il suffit d'un peu de magie pour embraser son tranchant d'un torrent de flammes."
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "Armure solide et légère volée à la barbe d'un dragonnier Heindler. Modifiée pour correspondre à un usage personnel, elle est équipée d'un système de freinage si abouti qu'il donne parfois l'illusion que Viktora est suspendue dans les airs."
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "Un ruban purement ornemental noué autour la cuisse de Saliah. Il regorge d'une magie qui lui permet de ne pas se défaire quelle que soit l'intensité des mouvements de la jeune fille. Saliah prétend que ses jambes ne sont pas nues puisqu'elle porte ce ruban, mais elle ne réussit à convaincre personne pour l'instant."
+        },
+        {
+            "key": "AF_CLT_LW_RAIN_1",
+            "value": "L'équipement de Rain, à l'image des émotions passionnées qui brûlent en lui. Les tons rouge et vert sombre qui le composent sont rehaussés par le tissage d'or. Il a été spécialement conçu pour rester avant tout léger et maniable en combat. Si le rouge attire l'attention sur son porteur dans la bataille, il ne détonne pas avec la tendance de celui-ci à se jeter en première ligne pour mener ses alliés avec une détermination sans faille et la volonté de survivre."
+        },
+        {
+            "key": "AF_ACC_LW_FRVA_1",
+            "value": "Splendide ornement capillaire finement décoré. Cet héritage familial est le bijou favori de Fryevia. Elle le porte constamment sur elle afin de garder une certaine élégance même dans les situations les plus éprouvantes."
+        },
+        {
+            "key": "AF_ACC_LW_VNLA_1",
+            "value": "Des chaussures conçues spécialement pour mettre en valeur la beauté de Vinera. Le jour où elle s'est liée par le mariage à la lignée de Hourne, le tintement froid des talons semblait faire écho à la distance qu'elle sentait entre elle et sa nouvelle famille. Mais en apprenant à connaître Dario, leur chant est devenu plus calme et plus doux. On raconte que le claquement de ces talons bat le rythme effréné du cœur de ceux que la beauté de Vinera captive."
+        },
+        {
+            "key": "AF_SWO_LW_DRIO_1",
+            "value": "Un épée forgée pour Dario par le même maître forgeron qui a créé l'épée de Rob. Elle ne se contente pas d'être aiguisée ; elle est aussi capable de canaliser la magie du prince. Comme son nom l'indique, elle peut aveugler l'adversaire en un seul coup gorgé de magie et possède un terrible pouvoir de destruction. Si Dario ne craignait pas déjà assez son propre pouvoir, cette épée aurait achevé de le terroriser."
+        },
+        {
+            "key": "AF_ACC_LW_TREL_1",
+            "value": "Un diadème remis aux diplômés de l'institut d'entraînement des shinobis de Fennes. C’est à Tyrrell que l’on doit le raffinement actuel de cet accessoire, jadis assez simple. Il conserve les caractéristiques défensives du métal à la fois léger et solide qui le compose. Avant de partir pour Hourne, Tyrrell s’est plus d’une fois autorisé à apporter des modifications à ce diadème, ce qui n'a jamais manqué de rendre furieux ses supérieurs lorsqu’ils s’en apercevaient."
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Une épée à une main élaborée tout spécialement pour Mont par le fidèle forgeron de Leonis. Le prince ayant réclamé une arme plus facile à manier, elle a la modeste apparence d'une épée d'entraînement. Si certains auraient souhaité pour lui une arme un peu plus royale, Mont en est très satisfait."
         },
@@ -1933,16 +1961,20 @@
             "value": "Le pistolet adoré de Lu'Cia, rendu hautement létal par la technologie de pointe de Rundall dont il est équipé. On le qualifie souvent de « crève-cœur », tant il perce avec précision l'organe vital de ses victimes, quelles qu'elles soient."
         },
         {
-            "key": "AF_ARM_LW_VKTR_1",
-            "value": "Armure solide et légère volée à la barbe d'un dragonnier Heindler. Modifiée pour correspondre à un usage personnel, elle est équipée d'un système de freinage si abouti qu'il donne parfois l'illusion que Viktora est suspendue dans les airs."
-        },
-        {
             "key": "AF_SPE_LW_VKTR_2",
             "value": "Une lance qui atterrit entre les mains de Viktora à une époque où elle ne possédait rien. Bien qu'originairement de peu de valeur, elle bénéficia d'améliorations au fil du temps et fut décorée avec beaucoup de goût. Elle est aujourd'hui non seulement une arme solide et résistante mais aussi d'une beauté fascinante. Nul ne se souvient de son ancienne apparence si ce n'est Viktora."
         },
         {
-            "key": "AF_ACC_LW_THLA_1",
-            "value": "Un ruban purement ornemental noué autour la cuisse de Saliah. Il regorge d'une magie qui lui permet de ne pas se défaire quelle que soit l'intensité des mouvements de la jeune fille. Saliah prétend que ses jambes ne sont pas nues puisqu'elle porte ce ruban, mais elle ne réussit à convaincre personne pour l'instant."
+            "key": "AF_BSW_LW_RAIN_2",
+            "value": ""
+        },
+        {
+            "key": "AF_SWO_LW_FRVA_2",
+            "value": "Une épée effilée, favorite de Fryevia. On raconte qu'elle fut autrefois maniée par un célèbre épéiste. Cette arme magnifique, légère et facile à manier, lui fut confiée par son grand-père lorsqu'elle fut en âge de manipuler un tel objet."
+        },
+        {
+            "key": "AF_DAG_LW_VNLA_2",
+            "value": "Une arme d'assassin dont la forme particulière permet d'éviter les os pour se concentrer sur la perforation des organes internes. Vinera est capable d'éliminer ses adversaires d'un geste si naturel qu'il est difficile, même pour les guerriers les plus expérimentés, de deviner ce qu'elle dissimule."
         },
         {
             "key": "AF_LW_RNG_005",
@@ -1967,6 +1999,10 @@
         {
             "key": "AF_LW_RNG_005_5",
             "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
+        },
+        {
+            "key": "AF_LW_BSW_011",
+            "value": "Une large épée qui brille de mille feux entre les mains d'un Chevalier de Grandshelt nommé Rain. Sa magnifique lame argentée réagit aux émotions de son propriétaire en s'embrasant à la manière d'un torrent de flammes. On raconte qu'elle a été forgée grâce à une technique spéciale, qui lui a donné la courbe caractéristique en son centre et qu'on ne retrouve nulle part ailleurs."
         }
     ]
 }

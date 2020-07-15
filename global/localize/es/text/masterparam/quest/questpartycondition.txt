@@ -59,6 +59,10 @@
         {
             "key": "PR_BGN_13",
             "value": "Formación con unidades usadas en las misiones de principiantes"
+        },
+        {
+            "key": "PR_TW_01",
+            "value": "Nv. de unidad 20 o superior"
         }
     ]
 }

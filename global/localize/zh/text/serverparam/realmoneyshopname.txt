@@ -343,6 +343,38 @@
         {
             "key": "wotvffbeww.realmoney.exhaustion.starter.004",
             "value": "啟程禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "FF EXVIUS幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "FF EXVIUS幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "FF EXVIUS幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "FF EXVIUS幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "FF EXVIUS幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "FF EXVIUS幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "FFI 每日曙光禮包"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "FFI 曙光禮包"
         }
     ]
 }

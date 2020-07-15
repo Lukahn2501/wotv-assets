@@ -1021,6 +1021,86 @@
             "value": "ざわめく星々"
         },
         {
+            "key": "QE_ST_01070101",
+            "value": "ウェズエットの王クーリ"
+        },
+        {
+            "key": "QE_ST_01070102",
+            "value": "試される力１"
+        },
+        {
+            "key": "QE_ST_01070103",
+            "value": "試される力２"
+        },
+        {
+            "key": "QE_ST_01070104",
+            "value": "仲間のために"
+        },
+        {
+            "key": "QE_ST_01070105",
+            "value": "リオニス領の秘密"
+        },
+        {
+            "key": "QE_ST_01070106",
+            "value": "洞窟"
+        },
+        {
+            "key": "QE_ST_01070107",
+            "value": "≪紅蓮≫１"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "≪紅蓮≫２"
+        },
+        {
+            "key": "QE_ST_01070109",
+            "value": "白き大地"
+        },
+        {
+            "key": "QE_ST_01070110",
+            "value": "砦"
+        },
+        {
+            "key": "QE_ST_01070201",
+            "value": "束の間の休息"
+        },
+        {
+            "key": "QE_ST_01070202",
+            "value": "追跡者の影"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "ならば敵だ"
+        },
+        {
+            "key": "QE_ST_01070204",
+            "value": "ウェズエットを目指して"
+        },
+        {
+            "key": "QE_ST_01070205",
+            "value": "砦を奪え１"
+        },
+        {
+            "key": "QE_ST_01070206",
+            "value": "砦を奪え２"
+        },
+        {
+            "key": "QE_ST_01070207",
+            "value": "オルドア参上"
+        },
+        {
+            "key": "QE_ST_01070208",
+            "value": "砦を奪え３"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "砦を奪え４"
+        },
+        {
+            "key": "QE_ST_01070210",
+            "value": "遠話装置の罠"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "欠片獲得 ザザン"
         },
@@ -1227,6 +1307,18 @@
         {
             "key": "QE_HA_LW_VKTR",
             "value": "欠片獲得 ヴィクトラ"
+        },
+        {
+            "key": "QE_HA_LW_RAIN",
+            "value": "欠片獲得 レイン"
+        },
+        {
+            "key": "QE_HA_LW_DRIO",
+            "value": "欠片獲得 ダリオ・ホルン"
+        },
+        {
+            "key": "QE_HA_LW_VNLA",
+            "value": "欠片獲得 ヴィネラ・フェネス"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1445,6 +1537,26 @@
             "value": "ヴィクトラ"
         },
         {
+            "key": "QE_CH_GL_LW_FRVA",
+            "value": "Fryevia"
+        },
+        {
+            "key": "QE_CH_LW_RAIN",
+            "value": "レイン"
+        },
+        {
+            "key": "QE_CH_LW_DRIO",
+            "value": "ダリオ・ホルン"
+        },
+        {
+            "key": "QE_CH_LW_VNLA",
+            "value": "ヴィネラ・フェネス"
+        },
+        {
+            "key": "QE_CH_LW_TREL",
+            "value": "ティレル"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "ヤ・シュトラ"
         },
@@ -1547,6 +1659,10 @@
         {
             "key": "QE_MU_FFT_EX_01",
             "value": "FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "QE_GL_EV_FFEXU_01",
+            "value": "FF EXVIUS ユニバースクエスト"
         },
         {
             "key": "QE_EV_GL_1M_FIR",
@@ -1693,6 +1809,118 @@
             "value": "西の脅威ランダル 【EX】"
         },
         {
+            "key": "QE_EV_03_01",
+            "value": "1話 ダリオの居室へ１"
+        },
+        {
+            "key": "QE_EV_03_02",
+            "value": "2話 ダリオの居室へ２"
+        },
+        {
+            "key": "QE_EV_03_03",
+            "value": "3話 裏切り者１"
+        },
+        {
+            "key": "QE_EV_03_04",
+            "value": "4話 裏切り者２"
+        },
+        {
+            "key": "QE_EV_03_05",
+            "value": "5話 命の灯１"
+        },
+        {
+            "key": "QE_EV_03_06",
+            "value": "6話 命の灯２"
+        },
+        {
+            "key": "QE_EV_03_07",
+            "value": "7話 命の灯３"
+        },
+        {
+            "key": "QE_EV_03_08",
+            "value": "8話 牢獄のようだから"
+        },
+        {
+            "key": "QE_EV_03_09",
+            "value": "9話 城外へ"
+        },
+        {
+            "key": "QE_EV_03_10",
+            "value": "10話 自由"
+        },
+        {
+            "key": "QE_EV_03_EX",
+            "value": "命を燃やし尽くすために 【EX】"
+        },
+        {
+            "key": "QE_MU_EV_03_EX",
+            "value": "命を燃やし尽くすために 【EX】"
+        },
+        {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "ギルドバトル模擬戦"
+        },
+        {
+            "key": "QE_EV_VNLA_01",
+            "value": "限定ハードクエスト（ヴィネラ・フェネス）"
+        },
+        {
+            "key": "QE_EV_RAIN_01",
+            "value": "限定ハードクエスト（レイン）"
+        },
+        {
+            "key": "QE_SB_CSLI_02",
+            "value": "高難度　チョコプリンチャレンジ"
+        },
+        {
+            "key": "QE_SB_CSLI_03",
+            "value": "超高難度　チョコプリンチャレンジ"
+        },
+        {
+            "key": "QE_EV_SB_EXP_FIR",
+            "value": "【火】赤の魔石獲得クエスト"
+        },
+        {
+            "key": "QE_EV_SB_EXP_ICE",
+            "value": "【氷】青の魔石獲得クエスト"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WIN",
+            "value": "【風】緑の魔石獲得クエスト"
+        },
+        {
+            "key": "QE_EV_SB_EXP_EAR",
+            "value": "【土】橙の魔石獲得クエスト"
+        },
+        {
+            "key": "QE_EV_SB_EXP_THU",
+            "value": "【雷】黄の魔石獲得クエスト"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WTR",
+            "value": "【水】水の魔石獲得クエスト"
+        },
+        {
+            "key": "QE_EV_SB_EXP_SHI",
+            "value": "【光】白の魔石獲得クエスト"
+        },
+        {
+            "key": "QE_EV_SB_EXP_DAR",
+            "value": "【闇】紫の魔石獲得クエスト"
+        },
+        {
+            "key": "QE_EV_ARENA_01_1",
+            "value": "アリーナ模擬戦（初級）"
+        },
+        {
+            "key": "QE_EV_ARENA_01_2",
+            "value": "アリーナ模擬戦（中級）"
+        },
+        {
+            "key": "QE_EV_ARENA_01_3",
+            "value": "アリーナ模擬戦（上級）"
+        },
+        {
             "key": "QE_EV_VKTR_01",
             "value": "限定ハードクエスト（ヴィクトラ）"
         },
@@ -1725,52 +1953,12 @@
             "value": "高難度　サリアの欠片獲得　EXクエスト2"
         },
         {
-            "key": "QE_MU_EV_TH_EX1",
-            "value": "高難度　サリアの欠片獲得　EXクエスト1"
-        },
-        {
-            "key": "QE_MU_EV_TH_EX2",
-            "value": "高難度　サリアの欠片獲得　EXクエスト2"
-        },
-        {
-            "key": "QE_MU_EV_02_EX1",
-            "value": "西の脅威ランダル 【EX】"
-        },
-        {
             "key": "QE_SB_IGNT_02",
             "value": "高難度　鉄巨人チャレンジ"
         },
         {
             "key": "QE_SB_IGNT_03",
             "value": "超高難度　鉄巨人チャレンジ"
-        },
-        {
-            "key": "QE_EV_JP_001",
-            "value": "JP獲得クエスト"
-        },
-        {
-            "key": "QE_EV_ART_SCR_01",
-            "value": "高難度　秘伝書獲得クエスト(剣、大剣、斧)"
-        },
-        {
-            "key": "QE_EV_ART_SCR_02",
-            "value": "高難度　秘伝書獲得クエスト(槍、拳、銃)"
-        },
-        {
-            "key": "QE_EV_ART_SCR_03",
-            "value": "高難度　秘伝書獲得クエスト(防具、アクセサリ、忍刀)"
-        },
-        {
-            "key": "QE_MU_EV_SCR_01",
-            "value": "高難度　秘伝書獲得クエスト(剣、大剣、斧)"
-        },
-        {
-            "key": "QE_MU_EV_SCR_02",
-            "value": "高難度　秘伝書獲得クエスト(槍、拳、銃)"
-        },
-        {
-            "key": "QE_MU_EV_SCR_03",
-            "value": "高難度　秘伝書獲得クエスト(防具、アクセサリ、忍刀)"
         },
         {
             "key": "QE_EV_ETRE_01",
@@ -1805,12 +1993,24 @@
             "value": "高難度　エトア育成　EXクエスト2"
         },
         {
-            "key": "QE_MU_EV_ET_EX1",
-            "value": "高難度　エトア育成　EXクエスト1"
+            "key": "QE_EV_JP_001",
+            "value": "JP獲得クエスト"
         },
         {
-            "key": "QE_MU_EV_ET_EX2",
-            "value": "高難度　エトア育成　EXクエスト2"
+            "key": "QE_EV_ART_SCR_01",
+            "value": "高難度　秘伝書獲得クエスト(剣、大剣、斧)"
+        },
+        {
+            "key": "QE_EV_ART_SCR_02",
+            "value": "高難度　秘伝書獲得クエスト(槍、拳、銃)"
+        },
+        {
+            "key": "QE_EV_ART_SCR_03",
+            "value": "高難度　秘伝書獲得クエスト(防具、アクセサリ、忍刀)"
+        },
+        {
+            "key": "QE_EV_ART_SCR_04",
+            "value": "高難度　秘伝書獲得クエスト(杖、刀、短剣)"
         },
         {
             "key": "QE_EV_ANV_19_10",
@@ -1833,16 +2033,60 @@
             "value": "超高難度　武具育成クエスト"
         },
         {
-            "key": "QE_MU_ART_CRF_04",
-            "value": "超高難度　武具育成クエスト"
-        },
-        {
             "key": "QE_EV_ART_CRF_05",
             "value": "武具育成クエスト（眠りの剣）"
         },
         {
             "key": "QE_EV_ART_CRF_06",
             "value": "武具育成クエスト（ゴールドアックス）"
+        },
+        {
+            "key": "QE_MU_CSLI_03",
+            "value": "超高難度　チョコプリンチャレンジ"
+        },
+        {
+            "key": "QE_MU_IGNT_03",
+            "value": "超高難度　鉄巨人チャレンジ"
+        },
+        {
+            "key": "QE_MU_EV_SCR_01",
+            "value": "高難度　秘伝書獲得クエスト(剣、大剣、斧)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_02",
+            "value": "高難度　秘伝書獲得クエスト(槍、拳、銃)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_03",
+            "value": "高難度　秘伝書獲得クエスト(防具、アクセサリ、忍刀)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_04",
+            "value": "高難度　秘伝書獲得クエスト(杖、刀、短剣)"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX1",
+            "value": "高難度　エトア育成　EXクエスト1"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX2",
+            "value": "高難度　エトア育成　EXクエスト2"
+        },
+        {
+            "key": "QE_MU_EV_02_EX1",
+            "value": "西の脅威ランダル 【EX】"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "高難度　サリアの欠片獲得　EXクエスト1"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "高難度　サリアの欠片獲得　EXクエスト2"
+        },
+        {
+            "key": "QE_MU_ART_CRF_04",
+            "value": "超高難度　武具育成クエスト"
         },
         {
             "key": "QE_MU_ART_CRF_05",
@@ -1915,10 +2159,6 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "チョコレートプリンレイド"
-        },
-        {
-            "key": "QE_MU_IGNT_03",
-            "value": "超高難度　鉄巨人チャレンジ"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2131,6 +2371,10 @@
         {
             "key": "QE_GVG_00002",
             "value": "闘技場"
+        },
+        {
+            "key": "QE_GVG_00003",
+            "value": "遺跡"
         },
         {
             "key": "QE_PVP_FRE_0001",

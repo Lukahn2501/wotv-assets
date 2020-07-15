@@ -17,6 +17,10 @@
             "value": "Misión de evento diaria del gremio"
         },
         {
+            "key": "MG_GL_DAILY_GUILD_01",
+            "value": "Tarea de la campaña de apoyo al gremio"
+        },
+        {
             "key": "MG_STORY_001",
             "value": "Misión de historia - Parte 1"
         },
@@ -121,6 +125,14 @@
             "value": "[Multijugador] Desafío de Férreo"
         },
         {
+            "key": "MG_EV_CSLI_01",
+            "value": "Desafío del flan de chocolate"
+        },
+        {
+            "key": "MG_MU_CSLI_01",
+            "value": "[Multijugador] Desafío del flan de chocolate"
+        },
+        {
             "key": "MG_EV_ART_CRF_01",
             "value": "Misión de entrenamiento de equipo"
         },
@@ -165,6 +177,18 @@
             "value": "[Multijugador] Rundal, la amenaza del oeste [EX]"
         },
         {
+            "key": "MG_EV03_1_01",
+            "value": "Vida ardiente"
+        },
+        {
+            "key": "MG_EV03_1_02",
+            "value": "Vida ardiente [EX]"
+        },
+        {
+            "key": "MG_MU_EV03_1_02",
+            "value": "[Multijugador] Vida ardiente [EX]"
+        },
+        {
             "key": "MG_ETRE01_01",
             "value": "Misión de entrenamiento de Etra"
         },
@@ -189,6 +213,14 @@
             "value": "[Multijugador] [Difícil] Misión EX de recompensa de fragmento de Saria"
         },
         {
+            "key": "MG_EV_ART_SCR_00",
+            "value": ""
+        },
+        {
+            "key": "MG_MU_ART_SCR_00",
+            "value": ""
+        },
+        {
             "key": "MG_EV_ART_SCR_01",
             "value": "[Difícil] Misión de libro secreto"
         },
@@ -198,11 +230,11 @@
         },
         {
             "key": "MG_EV_ART_SCR_02",
-            "value": "[Difícil] Misión de libro secreto"
+            "value": "[Difícil] Misión de libro secreto II"
         },
         {
             "key": "MG_MU_ART_SCR_02",
-            "value": "[Multijugador] [Difícil] Misión de libro secreto"
+            "value": "[Multijugador] [Difícil] Misión de libro secreto II"
         },
         {
             "key": "MG_DAILY_002_5",
@@ -230,6 +262,34 @@
         },
         {
             "key": "MG_DAILY_002_4",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_1",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_2",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_3",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_4",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_5",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_6",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_7",
             "value": "Tarea diaria"
         },
         {
@@ -321,16 +381,52 @@
             "value": "[Tarea mensual] Estatuas del gremio"
         },
         {
+            "key": "MG_MONTHLY_004_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_004_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_004_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_004_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_004_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_004_6",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_004_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "Gasta visiores: bonificación de tiempo limitado"
         },
         {
             "key": "MG_LAPS_P_VKTR",
-            "value": "Tiempo limitado: Gasta visiores"
+            "value": "Gasta visores: tiempo limitado"
+        },
+        {
+            "key": "MG_GL_LAPS_P_FRVA",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
         },
         {
             "key": "MG_COMEBACK_001",
             "value": "Tarea de regreso al juego"
+        },
+        {
+            "key": "MG_LAPS_P_VNLA",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
         }
     ]
 }

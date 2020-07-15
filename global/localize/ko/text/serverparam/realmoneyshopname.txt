@@ -343,6 +343,38 @@
         {
             "key": "wotvffbeww.realmoney.exhaustion.starter.004",
             "value": "스타터 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "FF EXVIUS 환도석 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "FF EXVIUS 환도석 패키지 II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "FF EXVIUS 환도석 패키지 III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "FF EXVIUS 환도석 패키지 IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "FF EXVIUS 환도석 패키지 V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "FF EXVIUS 환도석 패키지 VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "FFI 매일 신나는 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "FFI 신나는 패키지"
         }
     ]
 }

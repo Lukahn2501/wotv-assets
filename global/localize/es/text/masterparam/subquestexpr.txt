@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Establece una habilidad"
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Cambia de subprofesión"
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "Únete a un gremio"
         }
     ]
 }

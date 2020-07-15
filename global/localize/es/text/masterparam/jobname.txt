@@ -763,6 +763,46 @@
         {
             "key": "JB_FFT_ORND",
             "value": "Espadachín sacro"
+        },
+        {
+            "key": "JB_LW_RAIN",
+            "value": "Caballero de Grandshelt"
+        },
+        {
+            "key": "JB_LW_ASS",
+            "value": "Asesino"
+        },
+        {
+            "key": "JB_LW_ASS_FIRE",
+            "value": "Asesino"
+        },
+        {
+            "key": "JB_LW_ASS_ICE",
+            "value": "Asesino"
+        },
+        {
+            "key": "JB_LW_ASS_WIND",
+            "value": "Asesino"
+        },
+        {
+            "key": "JB_LW_ASS_SOIL",
+            "value": "Asesino"
+        },
+        {
+            "key": "JB_LW_ASS_THUN",
+            "value": "Asesino"
+        },
+        {
+            "key": "JB_LW_ASS_WATER",
+            "value": "Asesino"
+        },
+        {
+            "key": "JB_LW_ASS_SHINE",
+            "value": "Asesino"
+        },
+        {
+            "key": "JB_LW_ASS_DARK",
+            "value": "Asesino"
         }
     ]
 }

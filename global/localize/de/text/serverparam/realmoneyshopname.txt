@@ -343,6 +343,38 @@
         {
             "key": "wotvffbeww.realmoney.exhaustion.starter.004",
             "value": "Starterpaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "[FF EXVIUS] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "[FF EXVIUS] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "[FF EXVIUS] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "[FF EXVIUS] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "[FF EXVIUS] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "[FF EXVIUS] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "Tägliches FFI-Vorfreudepaket"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "FFI-Vorfreudepaket"
         }
     ]
 }

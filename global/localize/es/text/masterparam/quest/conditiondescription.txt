@@ -205,6 +205,18 @@
             "value": "[Adelardo] de nv. 1 o superior"
         },
         {
+            "key": "COND_HA_LW_RAIN",
+            "value": "[Rain] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_DRIO",
+            "value": "[Darío Hourne] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_VNLA",
+            "value": "[Vinera Fennes] de nv. 1 o superior"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "[Mont Leonis] de nv. 40 o superior"
         },
@@ -439,6 +451,26 @@
         {
             "key": "COND_CH_LW_VKTR",
             "value": "[Victra] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_GL_LW_FRVA",
+            "value": "[Fryevia] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_RAIN",
+            "value": "[Rain] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_DRIO",
+            "value": "[Darío Hourne] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_VNLA",
+            "value": "[Vinera Fennes] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_TREL",
+            "value": "[Tyrell] de nv. 40 o superior"
         }
     ]
 }

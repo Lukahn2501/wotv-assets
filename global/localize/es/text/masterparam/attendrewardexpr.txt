@@ -19,6 +19,26 @@
         {
             "key": "5",
             "value": "Recompensa de asistencia: rango 5"
+        },
+        {
+            "key": "6",
+            "value": "Recompensa de asistencia: rango 6"
+        },
+        {
+            "key": "7",
+            "value": "Recompensa de asistencia: rango 7"
+        },
+        {
+            "key": "8",
+            "value": "Recompensa de asistencia: rango 8"
+        },
+        {
+            "key": "9",
+            "value": "Recompensa de asistencia: rango 9"
+        },
+        {
+            "key": "10",
+            "value": "Recompensa de asistencia: rango 10"
         }
     ]
 }

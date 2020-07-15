@@ -65,6 +65,10 @@
             "value": "Tetra Sílfide, las Cuatro Progenitoras de Vendavales"
         },
         {
+            "key": "VC_MBFF_MV1",
+            "value": "Mobius de desesperación y verdad"
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "Férreo, el Demonio Metálico"
         },
@@ -127,6 +131,10 @@
         {
             "key": "VC_LW_OCHU",
             "value": "Ochú, el de la Vegetación Vigorosa"
+        },
+        {
+            "key": "VC_MBFF_MV2",
+            "value": "Mobius de esperanza e ilusión"
         },
         {
             "key": "VC_LW_CACT",
@@ -235,6 +243,10 @@
         {
             "key": "VC_EXP_03",
             "value": "Huevo nutritivo (SR)"
+        },
+        {
+            "key": "VC_EXP_04",
+            "value": "Huevo nutritivo (MR)"
         }
     ]
 }

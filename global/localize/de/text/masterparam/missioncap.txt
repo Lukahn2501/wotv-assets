@@ -17,6 +17,10 @@
             "value": "Täglicher Gildeneventauftrag"
         },
         {
+            "key": "MG_GL_DAILY_GUILD_01",
+            "value": "Kampagnenmission zur Gildenunterstützung"
+        },
+        {
             "key": "MG_STORY_001",
             "value": "Storyauftrag – Teil 1"
         },
@@ -121,6 +125,14 @@
             "value": "[Multi] Herausforderung des Eisengiganten"
         },
         {
+            "key": "MG_EV_CSLI_01",
+            "value": "Herausforderung des Schokopuddings"
+        },
+        {
+            "key": "MG_MU_CSLI_01",
+            "value": "[Multi] Herausforderung des Schokopuddings"
+        },
+        {
             "key": "MG_EV_ART_CRF_01",
             "value": "Ausrüstungsverbesserungsauftrag"
         },
@@ -165,6 +177,18 @@
             "value": "[Multi] Rundall, Bedrohung im Westen"
         },
         {
+            "key": "MG_EV03_1_01",
+            "value": "Brennender Lebenswille"
+        },
+        {
+            "key": "MG_EV03_1_02",
+            "value": "Brennender Lebenswille [EX]"
+        },
+        {
+            "key": "MG_MU_EV03_1_02",
+            "value": "[Multi] Brennender Lebenswille [EX]"
+        },
+        {
             "key": "MG_ETRE01_01",
             "value": "Trainingsauftrag „Etre“"
         },
@@ -189,6 +213,14 @@
             "value": "[Multi] Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag „Salire“ [EX]"
         },
         {
+            "key": "MG_EV_ART_SCR_00",
+            "value": ""
+        },
+        {
+            "key": "MG_MU_ART_SCR_00",
+            "value": ""
+        },
+        {
             "key": "MG_EV_ART_SCR_01",
             "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
         },
@@ -198,11 +230,11 @@
         },
         {
             "key": "MG_EV_ART_SCR_02",
-            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag II"
         },
         {
             "key": "MG_MU_ART_SCR_02",
-            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag II"
         },
         {
             "key": "MG_DAILY_002_5",
@@ -230,6 +262,34 @@
         },
         {
             "key": "MG_DAILY_002_4",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_1",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_2",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_3",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_4",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_5",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_6",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_7",
             "value": "Tagesmission"
         },
         {
@@ -321,6 +381,34 @@
             "value": "[Monatsmission] Gildenstatuen"
         },
         {
+            "key": "MG_MONTHLY_004_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_004_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_004_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_004_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_004_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_004_6",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_004_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "Visiore einsetzen: Limitierter Bonus"
         },
@@ -329,8 +417,16 @@
             "value": "Visiore einsetzen: Begrenzter Zeitraum"
         },
         {
+            "key": "MG_GL_LAPS_P_FRVA",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
             "key": "MG_COMEBACK_001",
             "value": "Rückkehrermission"
+        },
+        {
+            "key": "MG_LAPS_P_VNLA",
+            "value": "Visiore einsetzen: Limitierter Bonus"
         }
     ]
 }

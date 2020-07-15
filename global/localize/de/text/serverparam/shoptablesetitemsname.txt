@@ -338,7 +338,7 @@
         },
         {
             "key": "IT_SET_VC_GROW_00",
-            "value": "Visionskarten-Trainingspaket A"
+            "value": "Visionskartentrainingspaket A"
         },
         {
             "key": "IT_SET_VC_GROW_01",
@@ -451,6 +451,126 @@
         {
             "key": "IT_SET_WA_CRI_GL01",
             "value": "Kritisch-Paket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "MOBIUS FINAL FANTASY Kollabo-Paket"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "„Mobius der Verzweiflung und der Wahrheit“-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "„Mobius der Hoffnung und der Illusion“-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "Visionskarten-Trainingspaket II"
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "Einheitentrainingspaket"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "Licht-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "Wasser-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "Fryevia-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "Feuer-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "Wasser-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "Wind-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "Blitz-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "Erd-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "Eis-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "Licht-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "Dunkel-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "ERF-Würfel-Paket zur Feier der Porzellanturm-Eröffnung"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "Ausrüstungsfähigkeitenpaket"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "Tägliches Gratis-Ausdauerstimulans (L)"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "Porzellanturm-Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "Porzellanturm-Feuerverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "Porzellanturm-Wasserverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "Porzellanturm-Eisverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "Porzellanturm-Windverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "Porzellanturm-Blitzverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "Porzellanturm-Erdverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "Porzellanturm-Lichtverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "Porzellanturm-Dunkelverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "Gildenstatuen-Verbesserungspaket"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "Dunkel-Erweckungspaket (vollst.)"
         }
     ]
 }

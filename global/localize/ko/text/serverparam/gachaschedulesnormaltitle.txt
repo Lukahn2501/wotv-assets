@@ -93,6 +93,42 @@
             "value": "레어 소환"
         },
         {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "레어 소환"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "출시 기념 기간 한정 일반 소환"
         },
@@ -171,6 +207,38 @@
         {
             "key": "Normal_gacha_A_gl20200617_10",
             "value": "초여름 기념 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "스토리 제7장 개방 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "스토리 제7장 개방 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "FF EXVIUS Universe 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "FF EXVIUS Universe 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "FF EXVIUS Universe 기간 한정 일반 소환 제2탄"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "FF EXVIUS Universe 기간 한정 일반 소환 제2탄 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "기간 한정 일반 소환 10회 소환"
         }
     ]
 }

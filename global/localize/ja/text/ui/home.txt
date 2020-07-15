@@ -1522,7 +1522,7 @@
         },
         {
             "key": "NETHERBEAST_EQUIP_CONFIRM",
-            "value": "同じパーティーのユニットが<br>既に装備済です。<br>それでも装備しますか？<br>（装備済のユニットからは<br>装備が外されます。）"
+            "value": "別のユニットが既に装備済です。<br>それでも装備しますか？<br>（装備済のユニットからは<br>装備が外されます。）"
         },
         {
             "key": "NETHERBEAST_LEVELUP_CHECK_TITLE",
@@ -5554,7 +5554,7 @@
         },
         {
             "key": "VISION_EQUIP_CONFIRM",
-            "value": "同じパーティーのユニットが<br>既に装備済です。<br>それでも装備しますか？<br>（装備済のユニットからは<br>装備が外されます。）"
+            "value": "別のユニットが既に装備済です。<br>それでも装備しますか？<br>（装備済のユニットからは<br>装備が外されます。）"
         },
         {
             "key": "PVP_ARENA_BTN_TOP",
@@ -6354,7 +6354,7 @@
         },
         {
             "key": "GUILD_LEAGUE_DURATION_PRE",
-            "value": "対戦開始まであと"
+            "value": "準備期間あと"
         },
         {
             "key": "GUILD_LEAGUE_DURATION_END",
@@ -6654,7 +6654,7 @@
         },
         {
             "key": "GUILD_MENU_CHECK_CAUTION_SECESSION",
-            "value": "<line-height=30>※ギルドに関連するセーブデータは全て消去されます<br>※脱退後、24時間ギルド設立/加入が行なえません"
+            "value": "<line-height=30>※ギルドに関連するデータは全て消去されます<br>※脱退後、24時間ギルド設立/加入が行なえません"
         },
         {
             "key": "GUILD_MENU_CHECK_BTN_SECESSION",
@@ -7386,7 +7386,7 @@
         },
         {
             "key": "GUILD_BATTLE_NOATTACK_DIALOG_DESC",
-            "value": "今回のギルドバトルで出撃できる回数に達しています"
+            "value": "今回のギルドバトルで<br>出撃できる回数に達しています"
         },
         {
             "key": "GUILD_BATTLE_PLAYER_DETAIL_ABILITY",
@@ -7858,7 +7858,7 @@
         },
         {
             "key": "TOWER_RETRY_CAUTION",
-            "value": "<line-height=33>※リセット後の各階層のクリア報酬は<br>1周目のクリア報酬とは異なります。<br><line-height=12><br><line-height=33>※未クリアの1周目EXについては<br>次回開催時に再挑戦が可能です。"
+            "value": "<line-height=33>※リセット後の各階層のクリア報酬は<br>1周目のクリア報酬とは異なります。<br><line-height=12><br><line-height=33>※EXをクリアせずにリセットすると1周目の<br>報酬はもらえなくなりますのでご注意ください。"
         },
         {
             "key": "TOWER_RETRY_BTN_RETRY",
@@ -8062,11 +8062,275 @@
         },
         {
             "key": "GL_GM_CONTINUATION_PACK_DAILY_REWARD",
-            "value": "Continuation Pack Rewards Day ${days_remaining}/${days_duration}"
+            "value": "30-Day Visiore Value Pack"
+        },
+        {
+            "key": "GL_GM_CONTINUATION_PACK_REWARD_DAYS_REMAINING",
+            "value": "Continuation Pack Rewards ${days_remaining} day(s) left"
         },
         {
             "key": "ARTI_STATUS_MAX",
             "value": "ステータス<br>MAX"
+        },
+        {
+            "key": "GL_BUY_LAPIS_ALREADY_OWNED_DESC",
+            "value": "Transaction is still in progress. Please come back again later"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
+            "value": "バトル中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
+            "value": "<line-height=20>期間限定<br><size=15><cspace=-0.5>ギルドバトル開催中!!"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
+            "value": "マッチング中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
+            "value": "バトル開始"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
+            "value": "<cspace=1.6>集計中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
+            "value": "次回バトル準備中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
+            "value": "MM/dd HH:mm～"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
+            "value": "～MM/dd HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
+            "value": "～MM/dd HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
+            "value": "最終結果閲覧"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_TITLE",
+            "value": "節電モード"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_DESC",
+            "value": "<line-height=33>設定した時間操作がないと自動的に画面が切り替わり<br>バッテリー消費が抑えられる状態になります"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_SECOND",
+            "value": "30秒"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_MINUTE",
+            "value": "1分"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
+            "value": "3分"
+        },
+        {
+            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
+            "value": "対戦相手決定!"
+        },
+        {
+            "key": "GUILD_LIMITED_TITLE",
+            "value": "期間限定ギルドバトル"
+        },
+        {
+            "key": "GUILD_LIMITED_POINT",
+            "value": "バトルポイント"
+        },
+        {
+            "key": "GUILD_LIMITED_PERIOD",
+            "value": "開催期間："
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END",
+            "value": "最終結果閲覧："
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END_FMT",
+            "value": "～MM/dd HH:mm"
+        },
+        {
+            "key": "GUILD_RANKING_TAB_LIMITED",
+            "value": "<cspace=-0.6>期間限定"
+        },
+        {
+            "key": "GUILD_RANKING_LIMITED_POINTS",
+            "value": "バトルポイント"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL",
+            "value": "イベント詳細"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_ABSTENTION",
+            "value": "<line-height=32>今期間<br>エントリーなし"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE",
+            "value": "不戦勝"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE_DESC",
+            "value": "対戦相手が見つからなかったため<br>不戦勝となりました。"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
+            "value": "残り行動回数0です"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
+            "value": "今回のギルドバトルで<br>行動できる回数に達しています"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_DESC",
+            "value": "<line-height=32>以下の参加条件を<br>満たしていなかったため<br>エントリーしませんでした。"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
+            "value": "ギルドリーグレベル"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
+            "value": "{0}以上"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
+            "value": "ギルドメンバー"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
+            "value": "{0}名以上"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
+            "value": "リーダー"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
+            "value": "{0}日以内ログインなし"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_POINT",
+            "value": "バトルポイント:"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
+            "value": "(不戦勝★ {0}%)"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
+            "value": "応援"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
+            "value": "{0}を偵察\\n{0}パーティを開示させました"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
+            "value": "{0}から偵察\\nパーティを開示させられました"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
+            "value": "{0}を補給\\n{0}パーティの行動回数を回復しました"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
+            "value": "{0}からの補給\\nパーティの行動回数が回復しました"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
+            "value": "{0}へ詠唱\\n{0}パーティのアビリティ回数を回復しました"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
+            "value": "{0}から詠唱\\nパーティのアビリティ回数が回復しました"
+        },
+        {
+            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
+            "value": "防御パーティー設定数："
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
+            "value": "攻撃"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
+            "value": "応援"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_TITLE",
+            "value": "応援"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE",
+            "value": "使用"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
+            "value": "{0}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
+            "value": "<color=#F0C040>{0}</color>の<br><color=#F0C040>{1}</color>の<br>{2}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
+            "value": "行動報酬を受け取りました"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
+            "value": "攻撃する敵パーティーを選択してください"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
+            "value": "応援するパーティーを選択してください"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
+            "value": "{0}詳細"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
+            "value": "${period}開始の期間限定ギルドバトル、通算${entry_count}戦目参加報酬です"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
+            "value": "${period}開始の期間限定ギルドバトル報酬です"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
+            "value": "${period}開始の期間限定ギルドバトルの最終ランキング${ranking}位の報酬です"
+        },
+        {
+            "key": "QRCODE_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_MESSAGE",
+            "value": "{0}。"
+        },
+        {
+            "key": "QRCODE_ERROR_TITLE",
+            "value": "エラー"
+        },
+        {
+            "key": "QRCODE_ERROR_MESSAGE",
+            "value": "無効なプラットフォームです。"
         },
         {
             "key": "SERVER_Normal_gacha_A_NAME",

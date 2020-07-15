@@ -106,11 +106,15 @@
         },
         {
             "key": "SupportUnit",
-            "value": "Vous pouvez désormais assigner des personnages de soutien."
+            "value": "Sire Mont, savez-vous paramétrer les personnages de soutien ?"
         },
         {
             "key": "ItemExchange",
             "value": "Sire Mont ! Il semblerait qu'une boutique d'échange vient d'ouvrir ses portes. Et si nous allions y jeter un coup d'œil ?"
+        },
+        {
+            "key": "Tower",
+            "value": "Je constate que vous avez franchi le seuil de la Tour de porcelaine..."
         }
     ]
 }

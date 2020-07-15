@@ -58,11 +58,11 @@
         },
         {
             "key": "15",
-            "value": "리그 레벨이 ${beforeLevelName}에서 ${afterLevelName}(으)로 승격했습니다."
+            "value": "리그 레벨이 ${beforeLevelName}에서 ${afterLevelName}(으)로 승급되었습니다."
         },
         {
             "key": "16",
-            "value": "리그 레벨이 ${beforeLevelName}에서 ${afterLevelName}(으)로 하락했습니다."
+            "value": "리그 레벨이 ${beforeLevelName}에서 ${afterLevelName}(으)로 강등되었습니다."
         }
     ]
 }

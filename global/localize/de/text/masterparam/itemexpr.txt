@@ -130,7 +130,7 @@
         },
         {
             "key": "IT_RAIDAP_01",
-            "value": "Stellt alle Kraftprobenpunkte wieder her."
+            "value": "Stellt alle Kraftprobenjuwelen wieder her."
         },
         {
             "key": "IT_RANKMP_02",
@@ -1001,6 +1001,46 @@
             "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Doppelschütze) der Stufe 15 benötigt wird."
         },
         {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Flamme) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Flamme) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Flamme) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Flamme) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Flamme) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Assassine) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Assassine) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Assassine) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Assassine) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Assassine) der Stufe 15 benötigt wird."
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Ein Gegenstand, der zur Verbesserung eines Feuereinheiten-Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
         },
@@ -1678,6 +1718,26 @@
         },
         {
             "key": "IT_PI_LW_THLA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_TREL",
             "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
         },
         {
@@ -2466,15 +2526,15 @@
         },
         {
             "key": "IT_AF_SUP_AVO",
-            "value": "Erhöht die Wahrscheinlichkeit einer Steigerung des Ausweichgeschicks beim Stufenaufstieg von Ausrüstung."
+            "value": "Erhöht die Wahrscheinlichkeit einer AUSW-Steigerung beim Stufenaufstieg von Ausrüstung."
         },
         {
             "key": "IT_AF_SUP_HIT",
-            "value": "Erhöht die Wahrscheinlichkeit einer Steigerung des Genauigkeitswertes beim Stufenaufstieg von Ausrüstung."
+            "value": "Erhöht die Wahrscheinlichkeit einer PRÄ-Steigerung beim Stufenaufstieg von Ausrüstung."
         },
         {
             "key": "IT_AF_SUP_CRI",
-            "value": "Erhöht die Wahrscheinlichkeit einer Steigerung des „Kritische Treffer“-Wertes beim Stufenaufstieg von Ausrüstung."
+            "value": "Erhöht die Wahrscheinlichkeit einer KRIT-Steigerung beim Stufenaufstieg von Ausrüstung."
         },
         {
             "key": "IT_AF_PT_ATK",
@@ -2637,10 +2697,6 @@
             "value": "Eine Medaille, die bei FFXIV-Kollaborationsbeschwörungen erlangt werden kann. Im Tauschladen für Kollabo-Beschwörungsmedaillen kann sie in unterschiedliche Gegenstände eingelöst werden."
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "Ein Ticket, das durch den Eintausch von im FFXIV-Kollaborationsevent erlangten Allagischen Steinen der Goëtie erhalten werden kann."
-        },
-        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 14.4.2020, 23:59 PST)."
         },
@@ -2669,6 +2725,14 @@
             "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 14.7.2020 23:59, Weltzeit (PST))."
         },
         {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 28.7.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 11.8.2020 23:59, Weltzeit (PST))."
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Ein Gegenstand, der im FFT-Kollaborationsevent erlangt werden kann und im „FFT“-Tauschladen in unterschiedliche Gegenstände eingelöst werden kann."
         },
@@ -2689,8 +2753,12 @@
             "value": "Ein Gegenstand, der im Event „Rundall, Bedrohung im Westen“ erlangt werden kann und im Tauschladen für Juni-Eventmedaillen in unterschiedliche Gegenstände eingelöst werden kann."
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "Ein Ticket, das in FFT-Events erhalten werden kann."
+            "key": "IT_EC_EV03_1",
+            "value": "Ein Gegenstand, der im Event „Brennender Lebenswille“ erlangt werden kann und im Tauschladen für Juli-Eventmedaillen in unterschiedliche Gegenstände eingelöst werden kann."
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Eine Medaille, die über Kraftproben erlangt werden kann."
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2781,30 +2849,6 @@
             "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 50 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
         },
         {
-            "key": "IT_US_G_U_UR_01",
-            "value": "Ein Ticket, mit dem sich garantiert eine Einheit der Seltenheit [UR] heraufbeschwören lässt."
-        },
-        {
-            "key": "IT_US_G_UR_01",
-            "value": "Ein Ticket, mit dem sich garantiert eine Einheit oder Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
-        },
-        {
-            "key": "IT_US_G_UR_02",
-            "value": "Ein Ticket, mit dem sich garantiert eine Einheit oder Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
-        },
-        {
-            "key": "IT_US_G_U_R_UR_01",
-            "value": "Ein Ticket, mit dem sich garantiert eine Einheit der Seltenheit [R] oder höher heraufbeschwören lässt."
-        },
-        {
-            "key": "IT_US_G_V_R_UR_01",
-            "value": "Ein Ticket, mit dem sich garantiert eine Visionskarte der Seltenheit [R] oder höher heraufbeschwören lässt."
-        },
-        {
-            "key": "IT_US_G_V_UR_01",
-            "value": "Ein Ticket, mit dem sich garantiert eine Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
-        },
-        {
             "key": "IT_US_SE_JB_MM_01",
             "value": "Ein Ticket, das es dem Besitzer erlaubt, eine Joberinnerung (Grün) eines beliebigen Jobs zu beschwören."
         },
@@ -2831,6 +2875,82 @@
         {
             "key": "IT_US_SE_AW-ITEM_01",
             "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 10 Erweckungsprismen zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 500 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 10 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 25 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 100 zur Verbesserung von Espern benötigte Maginite (L) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 20. Mai veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für Visionskarten, die bis inkl. 24. Juni erschienen sind. * Kann nicht für „Der Bund der Schatten“ und „Beoulves Nachkomme“ eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 17. Juni veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine empfohlene Einheit der Seltenheit [UR] auszuwählen und heraufzubeschwören. *Wird eine Einheit beschworen, die sich bereits in deinem Besitz befindet, wird sie in 40 Einheitenfragmente umgewandelt."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine empfohlene Einheit der Seltenheit [MR] auszuwählen und heraufzubeschwören. *Wird eine Einheit beschworen, die sich bereits in deinem Besitz befindet, wird sie in 20 Einheitenfragmente umgewandelt."
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Ein „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket für Einheiten, die bis inkl. 17. Juni erschienen sind. * Kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit der Seltenheit [UR] heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit oder Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit oder Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit der Seltenheit [R] oder höher heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Visionskarte der Seltenheit [R] oder höher heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Ein Ticket, das in FFT-Events erhalten werden kann."
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "Ein Ticket, das durch den Eintausch von im FFXIV-Kollaborationsevent erlangten Allagischen Steinen der Goëtie erhalten werden kann."
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "Ein Ticket, durch das Gegenstände wie Einheitenfragmente oder Visionskartenfragmente erlangt werden können."
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -2925,6 +3045,10 @@
             "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
         },
         {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
             "key": "IT_VPI_LW_FAMILY",
             "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
         },
@@ -2962,6 +3086,10 @@
         },
         {
             "key": "IT_VPI_LW_GUARD",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
             "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
         },
         {
@@ -3093,6 +3221,10 @@
             "value": "Gewährt Gewinn von Visionskarten-ERF (L)."
         },
         {
+            "key": "IT_VC_EXP_04",
+            "value": "Gewährt Gewinn von Visionskarten-ERF (XL)."
+        },
+        {
             "key": "IT_GU_FOOD_01",
             "value": "Füllt Vorräte in der Gildenkaserne mit 1000 Einheiten Verpflegung auf."
         },
@@ -3163,38 +3295,6 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Gewährt der „Steinernen Löwenstatue“ der Gilde einen Erfahrungsgewinn (L)."
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "Eine Medaille, die über Kraftproben erlangt werden kann."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 500 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 10 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 25 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 100 zur Verbesserung von Espern benötigte Maginite (L) zu beschwören."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 20. Mai veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine Einheit der Seltenheit [UR] auszuwählen und heraufzubeschwören."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine Einheit der Seltenheit [MR] auszuwählen und heraufzubeschwören."
         }
     ]
 }

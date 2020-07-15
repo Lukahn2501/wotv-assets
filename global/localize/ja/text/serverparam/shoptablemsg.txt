@@ -9,6 +9,10 @@
             "value": "スペシャルなショップです"
         },
         {
+            "key": "Realmoney-0715",
+            "value": "スペシャルなショップです"
+        },
+        {
             "key": "Begginer-20191114",
             "value": "ビギナーズショップ：獲得したユニットを強化しよう！"
         },
@@ -169,6 +173,90 @@
             "value": "プレイヤーRANK60以上"
         },
         {
+            "key": "Normal-20200221_A",
+            "value": "プレイヤーRANK1～RANK29"
+        },
+        {
+            "key": "Normal-20200221_B",
+            "value": "プレイヤーRANK30～RANK59"
+        },
+        {
+            "key": "Normal-20200221_C",
+            "value": "プレイヤーRANK60以上"
+        },
+        {
+            "key": "Normal-20200317_A",
+            "value": "プレイヤーRANK1～RANK29"
+        },
+        {
+            "key": "Normal-20200317_B",
+            "value": "プレイヤーRANK30～RANK59"
+        },
+        {
+            "key": "Normal-20200317_C",
+            "value": "プレイヤーRANK60以上"
+        },
+        {
+            "key": "Normal-20200319_A",
+            "value": "プレイヤーRANK1～RANK29"
+        },
+        {
+            "key": "Normal-20200319_B",
+            "value": "プレイヤーRANK30～RANK59"
+        },
+        {
+            "key": "Normal-20200319_C",
+            "value": "プレイヤーRANK60以上"
+        },
+        {
+            "key": "Normal-20200321_A",
+            "value": "プレイヤーRANK1～RANK29"
+        },
+        {
+            "key": "Normal-20200321_B",
+            "value": "プレイヤーRANK30～RANK59"
+        },
+        {
+            "key": "Normal-20200321_C",
+            "value": "プレイヤーRANK60以上"
+        },
+        {
+            "key": "Normal-20200323_A",
+            "value": "プレイヤーRANK1～RANK29"
+        },
+        {
+            "key": "Normal-20200323_B",
+            "value": "プレイヤーRANK30～RANK59"
+        },
+        {
+            "key": "Normal-20200323_C",
+            "value": "プレイヤーRANK60以上"
+        },
+        {
+            "key": "Normal-20200325_A",
+            "value": "プレイヤーRANK1～RANK29"
+        },
+        {
+            "key": "Normal-20200325_B",
+            "value": "プレイヤーRANK30～RANK59"
+        },
+        {
+            "key": "Normal-20200325_C",
+            "value": "プレイヤーRANK60以上"
+        },
+        {
+            "key": "Normal-20200328_A",
+            "value": "プレイヤーRANK1～RANK29"
+        },
+        {
+            "key": "Normal-20200328_B",
+            "value": "プレイヤーRANK30～RANK59"
+        },
+        {
+            "key": "Normal-20200328_C",
+            "value": "プレイヤーRANK60以上"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "プレイヤーランク29以下の気まぐれ屋"
         },
@@ -325,8 +413,148 @@
             "value": "プレイヤーランク60以上の気まぐれ屋"
         },
         {
+            "key": "Guerrilla-20200221A",
+            "value": "プレイヤーランク29以下の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200221B",
+            "value": "プレイヤーランク30～59の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200221C",
+            "value": "プレイヤーランク60以上の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200317A",
+            "value": "プレイヤーランク29以下の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200317B",
+            "value": "プレイヤーランク30～59の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200317C",
+            "value": "プレイヤーランク60以上の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200319A",
+            "value": "プレイヤーランク29以下の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200319B",
+            "value": "プレイヤーランク30～59の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200319C",
+            "value": "プレイヤーランク60以上の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200321A",
+            "value": "プレイヤーランク29以下の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200321B",
+            "value": "プレイヤーランク30～59の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200321C",
+            "value": "プレイヤーランク60以上の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200323A",
+            "value": "プレイヤーランク29以下の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200323B",
+            "value": "プレイヤーランク30～59の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200323C",
+            "value": "プレイヤーランク60以上の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200325A",
+            "value": "プレイヤーランク29以下の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200325B",
+            "value": "プレイヤーランク30～59の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200325C",
+            "value": "プレイヤーランク60以上の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200328A",
+            "value": "プレイヤーランク29以下の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200328B",
+            "value": "プレイヤーランク30～59の気まぐれ屋"
+        },
+        {
+            "key": "Guerrilla-20200328C",
+            "value": "プレイヤーランク60以上の気まぐれ屋"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "獲得したユニットとビジョンカードを強化しよう！"
+        },
+        {
+            "key": "Limited-gl20200715",
+            "value": "ギルド応援キャンペーンショップ：特別なラインアップ販売中！"
+        },
+        {
+            "key": "Limited-gl20200715_A",
+            "value": "新ユニットピックアップショップ：獲得したユニットを強化しよう！"
+        },
+        {
+            "key": "Limited-gl20200715_B",
+            "value": "ピックアップユニット/VC ショップ：獲得したユニットとビジョンカードを強化しよう！"
+        },
+        {
+            "key": "Limited-gl20200708",
+            "value": "白磁の塔開催記念第2弾ショップ：記念の特別なラインアップ販売中！"
+        },
+        {
+            "key": "Limited-gl20200708_A",
+            "value": "ピックアップショップ：獲得したユニットとビジョンカードを強化しよう！"
+        },
+        {
+            "key": "Limited-gl20200701",
+            "value": "FF EXVIUS Universeキャンペーンショップ：特別なラインアップ販売中！"
+        },
+        {
+            "key": "Limited-gl20200701_A",
+            "value": "白磁の塔開催記念ショップ：記念の特別なラインアップ販売中！"
+        },
+        {
+            "key": "Limited-gl20200701_B_1",
+            "value": "ピックアップユニット/VC ショップⅠ：獲得したユニットとビジョンカードを強化しよう！"
+        },
+        {
+            "key": "Limited-gl20200701_B_2",
+            "value": "ピックアップユニット/VCショップ Ⅱ：獲得したユニットとビジョンカードを強化しよう！"
+        },
+        {
+            "key": "Limited-gl20200701_B_3",
+            "value": "ピックアップユニット/VCショップ Ⅲ：獲得したユニットとビジョンカードを強化しよう！"
+        },
+        {
+            "key": "Limited-gl20200701_B_4",
+            "value": "ピックアップユニット/VCショップ Ⅳ：獲得したユニットとビジョンカードを強化しよう！"
+        },
+        {
+            "key": "Limited-gl20200624_A",
+            "value": "メビウスコラボ記念ショップ：獲得したユニットとビジョンカードを強化しよう！"
+        },
+        {
+            "key": "Limited-gl20200624",
+            "value": "ストーリー7章公開記念ショップ：特別なラインアップ販売中！"
+        },
+        {
+            "key": "Limited-gl20200624_B",
+            "value": "ピックアップショップ：獲得したユニットとビジョンカードを強化しよう！"
         },
         {
             "key": "Limited-gl20200617",
@@ -453,12 +681,32 @@
             "value": "獲得したユニットとビジョンカードを強化しよう！"
         },
         {
-            "key": "Event-Raid_20200207",
-            "value": "チョコプリンレイドメダル交換所だクポ～"
+            "key": "Event-Quest_20200301",
+            "value": "【7月】イベントメダル交換所だクポ～"
+        },
+        {
+            "key": "Event-Tower_20200317",
+            "value": "タワーメダル交換所だクポ～"
+        },
+        {
+            "key": "Event-Summon_GL20200715_B",
+            "value": "【7月】召喚メダルB交換所だクポ～"
+        },
+        {
+            "key": "Event-Summon_GL20200701_A",
+            "value": "【7月】召喚メダルA交換所だクポ～"
         },
         {
             "key": "Event-EV02_1_20200201",
             "value": "【6月】イベントメダル交換所だクポ～"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "チョコプリンレイドメダル交換所だクポ～"
+        },
+        {
+            "key": "Event-Summon_GL20200624_B",
+            "value": "【6月】召喚メダルB交換所だクポ～"
         },
         {
             "key": "Event-Summon_GL20200617_B",
@@ -670,6 +918,62 @@
         },
         {
             "key": "Event-Vision_N_gl20200601",
+            "value": "ビジョンメダル【N】の交換所だクポ～"
+        },
+        {
+            "key": "Event-Friend_gl20200701",
+            "value": "フレンドメダルの交換所だクポ～"
+        },
+        {
+            "key": "Event-Arena_gl20200701",
+            "value": "アリーナメダルの交換所だクポ～"
+        },
+        {
+            "key": "Event-Match_gl20200701",
+            "value": "PVPメダルの交換所だクポ～"
+        },
+        {
+            "key": "Event-Guild_gl20200701",
+            "value": "ギルドメダルの交換所だクポ～"
+        },
+        {
+            "key": "Event-Soul_UR_gl20200701",
+            "value": "ソウルメダル【UR】の交換所だクポ～"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200701",
+            "value": "ソウルメダル【SSR】の交換所だクポ～"
+        },
+        {
+            "key": "Event-Soul_SR_gl20200701",
+            "value": "ソウルメダル【SR】の交換所だクポ～"
+        },
+        {
+            "key": "Event-Soul_R_gl20200701",
+            "value": "ソウルメダル【R】の交換所だクポ～"
+        },
+        {
+            "key": "Event-Soul_N_gl20200701",
+            "value": "ソウルメダル【N】の交換所だクポ～"
+        },
+        {
+            "key": "Event-Vision_UR_gl20200701",
+            "value": "ビジョンメダル【UR】の交換所だクポ～"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200701",
+            "value": "ビジョンメダル【SSR】の交換所だクポ～"
+        },
+        {
+            "key": "Event-Vision_SR_gl20200701",
+            "value": "ビジョンメダル【SR】の交換所だクポ～"
+        },
+        {
+            "key": "Event-Vision_R_gl20200701",
+            "value": "ビジョンメダル【R】の交換所だクポ～"
+        },
+        {
+            "key": "Event-Vision_N_gl20200701",
             "value": "ビジョンメダル【N】の交換所だクポ～"
         },
         {
@@ -1086,6 +1390,134 @@
         },
         {
             "key": "Limited-FIRE_2020_2_18",
+            "value": "日替わりの火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_2_26",
+            "value": "日替わりの水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_2_27",
+            "value": "日替わりの風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_28",
+            "value": "日替わりの雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_29",
+            "value": "日替わりの土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_01",
+            "value": "日替わりの光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_3_01",
+            "value": "日替わりの闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_2_24",
+            "value": "日替わりの氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_25",
+            "value": "日替わりの火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_3_04",
+            "value": "日替わりの水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_3_05",
+            "value": "日替わりの風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_06",
+            "value": "日替わりの雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_07",
+            "value": "日替わりの土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_08",
+            "value": "日替わりの光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_3_08",
+            "value": "日替わりの闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_3_02",
+            "value": "日替わりの氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_03",
+            "value": "日替わりの火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_3_11",
+            "value": "日替わりの水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_3_12",
+            "value": "日替わりの風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_13",
+            "value": "日替わりの雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_14",
+            "value": "日替わりの土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_15",
+            "value": "日替わりの光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_3_15",
+            "value": "日替わりの闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_3_09",
+            "value": "日替わりの氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_10",
+            "value": "日替わりの火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_3_18",
+            "value": "日替わりの水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_3_19",
+            "value": "日替わりの風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_20",
+            "value": "日替わりの雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_21",
+            "value": "日替わりの土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_22",
+            "value": "日替わりの光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_3_22",
+            "value": "日替わりの闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_3_16",
+            "value": "日替わりの氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_17",
             "value": "日替わりの火属性ショップ"
         }
     ]

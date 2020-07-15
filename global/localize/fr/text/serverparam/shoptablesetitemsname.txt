@@ -451,6 +451,126 @@
         {
             "key": "IT_SET_WA_CRI_GL01",
             "value": "Lot d'amélioration de la CRIT de l'équipement"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "Lot de la collaboration avec MOBIUS FINAL FANTASY"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "Lot d'entraînement du « Mobius du désespoir et de la vérité »"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "Lot d'entraînement du « Mobius de l'espoir et des illusions »"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "Lot d'entraînement d'atout-vision II"
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "Lot d'entraînement d'unité"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "Lot d’éveil de lumière"
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "Lot d’éveil d'eau"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "Lot d'entraînement de Fryevia"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "Lot d'alcrist de feu"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "Lot d'alcrist d'eau"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "Lot d'alcrist de vent"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "Lot d'alcrist de foudre"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "Lot d'alcrist de terre"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "Lot d'alcrist de glace"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "Lot d'alcrist de lumière"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "Lot d'alcrist d'ombre"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "Lot de cubes d'EXP spécial lancement de la Tour de porcelaine"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "Lot d'aptitude d'équipement"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "Restauration d'END gratuite quotidienne (L)"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "Tour de porcelaine - Lot d'entraînement d'atout-vision"
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "Tour de porcelaine - Lot d'amélioration de feu"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "Tour de porcelaine - Lot d'amélioration d'eau"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "Tour de porcelaine - Lot d'amélioration de glace"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "Tour de porcelaine - Lot d'amélioration de vent"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "Tour de porcelaine - Lot d'amélioration de foudre"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "Tour de porcelaine - Lot d'amélioration de terre"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "Tour de porcelaine - Lot d'amélioration de lumière"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "Tour de porcelaine - Lot d'amélioration d'ombre"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "Lot d'entraînement pour statue de guilde"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "Lot d’éveil d'ombre absolu"
         }
     ]
 }

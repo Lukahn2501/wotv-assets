@@ -93,6 +93,42 @@
             "value": "Rare Beschwörung"
         },
         {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "Rare Beschwörung"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Veröffentlichungsandenken – limitierte normale Beschwörung"
         },
@@ -171,6 +207,38 @@
         {
             "key": "Normal_gacha_A_gl20200617_10",
             "value": "Frühsommer: Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "„Kapitel 7 veröffentlicht!“ — Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "„Kapitel 7 veröffentlicht!“ — Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "„FF EXVIUS Universe“: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "„FF EXVIUS Universe“: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "FF EXVIUS Universe Teil II: Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "FF EXVIUS Universe Teil II: Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
         }
     ]
 }

@@ -318,7 +318,7 @@
         },
         {
             "key": "APP_ERROR_1306",
-            "value": "No se ha podido forjar el equipo."
+            "value": "No se ha podido elaborar el equipo."
         },
         {
             "key": "APP_ERROR_1307",
@@ -1411,6 +1411,38 @@
         {
             "key": "SNS_LIMIT_REACHED",
             "value": "Has alcanzado el límite de cuentas SNS"
+        },
+        {
+            "key": "APP_ERROR_5201",
+            "value": "El código no existe."
+        },
+        {
+            "key": "APP_ERROR_5202",
+            "value": "Fuera del periodo de campaña."
+        },
+        {
+            "key": "APP_ERROR_5203",
+            "value": "Se ha sobrepasado el límite permitido de la campaña."
+        },
+        {
+            "key": "APP_ERROR_5204",
+            "value": "Código de serie ya usado."
+        },
+        {
+            "key": "APP_ERROR_5205",
+            "value": "Plataforma no válida."
+        },
+        {
+            "key": "APP_ERROR_5300",
+            "value": "Grupo objetivo no autorizado."
+        },
+        {
+            "key": "APP_ERROR_5301",
+            "value": "Turnos insuficientes."
+        },
+        {
+            "key": "APP_ERROR_5302",
+            "value": "El grupo ha cambiado. Actualiza e inténtalo otra vez."
         }
     ]
 }

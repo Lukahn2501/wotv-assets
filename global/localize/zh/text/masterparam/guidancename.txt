@@ -106,11 +106,15 @@
         },
         {
             "key": "SupportUnit",
-            "value": "變更"
+            "value": "同行者設定"
         },
         {
             "key": "ItemExchange",
             "value": "交換所"
+        },
+        {
+            "key": "Tower",
+            "value": "塔"
         }
     ]
 }

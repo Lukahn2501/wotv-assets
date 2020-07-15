@@ -1861,6 +1861,34 @@
             "value": "La espada roja que lleva Adelardo. Para que pudiera usar su magia roja, esta espada se forjó usando un material que facilita los flujos de magia. Además, al ser muy afín al fuego, hasta la más mínima cantidad de magia hace que la hoja se cubra en llamas."
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "Armadura resistente y ligera que le fue robada a un dragontino de Heindler. Ahora está adaptada para uso personal y posee excepcionales capacidades de frenado aéreo con las que crea la ilusión de que Victra puede detenerse momentáneamente en el aire."
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "Cinta que Saria lleva atada al muslo por cuestiones de moda. Está impregnada de una magia que hace que permanezca atada por mucho trajín que se le dé. Por otra parte, Saria siempre dice que, gracias a esta cinta, sus piernas no van desnudas, aunque nadie más comparte esta opinión."
+        },
+        {
+            "key": "AF_CLT_LW_RAIN_1",
+            "value": "Equipo de Rain que manifiesta sus emociones. Diseñado con tonos rojos y verdes oscuros acentuados con adornos dorados. Se confeccionó para que fuese ligero durante el combate. Su color rojo resalta a su portador, y es perfecto para aquellos con la determinación necesaria para liderar a sus aliados en la batalla con la firme determinación de sobrevivir."
+        },
+        {
+            "key": "AF_ACC_LW_FRVA_1",
+            "value": "La horquilla favorita de Fryevia, decorada con todo lujo de detalles. Se trata de una reliquia familiar que siempre lleva para que le dé cierto aire de elegancia, incluso en las situaciones más peliagudas."
+        },
+        {
+            "key": "AF_ACC_LW_VNLA_1",
+            "value": "Unos zapatos elaborados para realzar la belleza de Vinera. Cuando pasó a ser parte de la familia Hourne, el frío tintineo de estos tacones resonaba en la distancia que sentía frente a su nueva familia política, pero eso quedó atrás después de ir conociendo mejor a Darío. Se dice que el color de los zapatos realzaba su belleza, cautivando el corazón de muchos."
+        },
+        {
+            "key": "AF_SWO_LW_DRIO_1",
+            "value": "Una espada que recibió Darío del mismo famoso herrero que forjó la espada de su padre, Rob. Además de estar bien afilada, esta espada canaliza la magia de Darío con gran eficiencia. Tal como sugiere su nombre, su giro imbuido en magia emite un destello, y se dice que posee una gran fuerza destructiva. Darío temía este arma, ya que llevaba su poder a límites insospechados."
+        },
+        {
+            "key": "AF_ACC_LW_TREL_1",
+            "value": "Una corona que se le entrega a los graduados de una academia ninja de Fennes. Aunque en principio era un simple adorno, fue Tyrell quien le otorgó el fascinante diseño que tiene ahora. Como originalmente estaba hecha de metal ligero y resistente, su función defensiva sigue intacta. Tyrell hizo muchas coronas por su cuenta antes de irse a Hourne, lo que enfadó al oficial superior de la academia cuando se enteró."
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Espada de una mano forjada específicamente para Mont por el herrero de la casa real de Leonis. Se elaboró bajo petición expresa de Mont, pues necesitaba una espada fácil de manejar. Esta, en concreto, tiene pinta de ser un poco mejor que una espada de entrenamiento. Por eso, mucha gente le sugirió al príncipe que optara por una espada más propia de reyes, pero, en lo que a Mont respecta, está más que satisfecho con esta."
         },
@@ -1933,16 +1961,20 @@
             "value": "La preciada pistola de Lu'Cía, un arma de alto rendimiento que incorpora la tecnología más novedosa de Rundal. Se la llegó a apodar «la hechizante» porque la pistola es capaz de perforar el corazón de quienquiera que sea su objetivo con una precisión inigualable."
         },
         {
-            "key": "AF_ARM_LW_VKTR_1",
-            "value": "Armadura resistente y ligera que le fue robada a un dragontino de Heindler. Ahora está adaptada para uso personal y posee excepcionales capacidades de frenado aéreo con las que crea la ilusión de que Victra puede detenerse momentáneamente en el aire."
-        },
-        {
             "key": "AF_SPE_LW_VKTR_2",
             "value": "Una lanza que llegó a manos de Victra cuando no tenía nada. Con el paso del tiempo, esta arma que comenzó siendo endeble experimentó diversas mejoras, además de llevar accesorios cada vez más llamativos. Como resultado, la lanza no solo se ha vuelto robusta y resistente, sino que además posee una belleza cautivadora. Nadie salvo Victra recuerda su aspecto original."
         },
         {
-            "key": "AF_ACC_LW_THLA_1",
-            "value": "Cinta que Saria lleva atada al muslo por cuestiones de moda. Está impregnada de una magia que hace que permanezca atada por mucho trajín que se le dé. Por otra parte, Saria siempre dice que, gracias a esta cinta, sus piernas no van desnudas, aunque nadie más comparte esta opinión."
+            "key": "AF_BSW_LW_RAIN_2",
+            "value": ""
+        },
+        {
+            "key": "AF_SWO_LW_FRVA_2",
+            "value": "La espada de esgrima que usa Fryevia. Se dice que tiempo atrás perteneció a un famoso espadachín. Fryevia la recibió en herencia de su abuelo cuando cumplió la mayoría de edad. La espada no solo es bonita a la vista, sino también ligera y fácil de blandir."
+        },
+        {
+            "key": "AF_DAG_LW_VNLA_2",
+            "value": "Un arma asesina diseñada específicamente para evitar huesos y dañar órganos internos. Como Vinera puede derrotar a sus enemigos con total naturalidad, es difícil incluso para los guerreros más experimentados saber qué es lo que oculta."
         },
         {
             "key": "AF_LW_RNG_005",
@@ -1967,6 +1999,10 @@
         {
             "key": "AF_LW_RNG_005_5",
             "value": "Un anillo con incrustaciones de radiante alejandrita. Esta gema cambia de color dependiendo de la luz que choca contra su superficie, y es tanta la belleza que irradia que se la conoce como la reina de las piedras preciosas. Las piedras de gran calidad y con variedad de color son sumamente inusuales, por lo que se venden a un precio extremadamente alto."
+        },
+        {
+            "key": "AF_LW_BSW_011",
+            "value": "Una espada grande que resplandece como una llama ardiente que porta un caballero de Grandshelt llamado Rain. Su preciosa hoja plateada reacciona a las emociones de su portador, emitiendo un resplandor parecido al de una llama. Se dice que esta espada se forjó mediante el empleo de una técnica especial, de ahí su diseño original curvo alrededor del centro que no se ve en otras espadas."
         }
     ]
 }

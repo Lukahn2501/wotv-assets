@@ -237,6 +237,26 @@
             "value": "Salire"
         },
         {
+            "key": "UN_LW_P_RAIN",
+            "value": "Rain"
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "Fryevia"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "Vinera Fennes"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "Dario Hourne"
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "Tyrrel"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "Mont Leonis"
         },
@@ -285,12 +305,24 @@
             "value": "Garkas"
         },
         {
+            "key": "UN_LW_E_OOOO",
+            "value": "Ornh"
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": "Lorenzo"
+        },
+        {
             "key": "UN_LW_E_RIRY",
             "value": "Rairyu"
         },
         {
             "key": "UN_LW_E_VSTR",
             "value": "Vystraal"
+        },
+        {
+            "key": "UN_LW_E_CLEY",
+            "value": "Khuri Wezette"
         },
         {
             "key": "UN_LW_E_YERM",
@@ -359,6 +391,46 @@
         {
             "key": "UN_LW_E_KTON",
             "value": "Kiton"
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": "Mediena"
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": "Robb Hourne"
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": "Vadim"
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": "Rain"
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": "Tyrrel"
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": "Aileen"
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": "Vinera Fennes"
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": "Deah"
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": "Oldoa"
+        },
+        {
+            "key": "UN_LW_E_DRZA",
+            "value": "Doluza"
         },
         {
             "key": "UN_LW_E_RU_01_THI",
@@ -709,6 +781,10 @@
             "value": "Shinobi"
         },
         {
+            "key": "UN_LW_E_02_NIN",
+            "value": "Fennischer Shinobi"
+        },
+        {
             "key": "UN_LW_E_SO_04",
             "value": "Rundallscher Soldat"
         },
@@ -733,6 +809,18 @@
             "value": "Shinobi (weiblich)"
         },
         {
+            "key": "UN_LW_E_PR_01",
+            "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": "Mönchsoldat"
+        },
+        {
             "key": "UN_LW_E_PR_01_HUN",
             "value": "Mönchsoldat"
         },
@@ -745,7 +833,35 @@
             "value": "Mönchsoldat"
         },
         {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": "Mönchsoldat"
+        },
+        {
             "key": "UN_LW_E_PR_02_MNK",
+            "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
             "value": "Mönchsoldat"
         },
         {
@@ -757,7 +873,15 @@
             "value": "Mönchsoldat"
         },
         {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": "Mönchsoldat"
+        },
+        {
             "key": "UN_LW_E_PR_01_RDM",
+            "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
             "value": "Mönchsoldat"
         },
         {
@@ -771,6 +895,62 @@
         {
             "key": "UN_LW_E_PR_02_TIM",
             "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": "Mönchsoldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": "„Rubeus“-Soldat"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
+            "value": "„Rubeus“-Soldat"
         },
         {
             "key": "UN_LW_E_OGRE",
@@ -945,6 +1125,10 @@
             "value": "Gaffgarion"
         },
         {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": "Eisengigant"
+        },
+        {
             "key": "UN_LW_E_IGNT",
             "value": "Eisengigant"
         },
@@ -1093,12 +1277,56 @@
             "value": "Küsschen"
         },
         {
+            "key": "UN_LW_E_ENBT",
+            "value": "Engelbert"
+        },
+        {
             "key": "UN_LW_E_YERM_2",
             "value": "Yerma"
         },
         {
             "key": "UN_LW_E_OCHU_QE",
             "value": "Küsschen"
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": "Gilgamesch"
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": "Yerma"
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": "Frederika"
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": "Mediena"
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": "Mont Leonis"
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": "Miranda"
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": "Lu'Cia"
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": "Engelbert"
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": "Orlandeau"
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "Ramza"
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1547,6 +1775,10 @@
         {
             "key": "UN_GM_PLACED_BASH",
             "value": "Kutsche"
+        },
+        {
+            "key": "UN_GM_MGSW_01",
+            "value": "Beschwörungskreis (Monstervernichtung)"
         }
     ]
 }

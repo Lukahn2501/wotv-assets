@@ -606,7 +606,7 @@
         },
         {
             "key": "TOWER_COMPLETE_TYPE_DEAD",
-            "value": "兵員無法戰鬥的次數"
+            "value": "無法戰鬥的兵員數量"
         },
         {
             "key": "TOWER_COMPLETE_TYPE_GIVEUP",
@@ -619,6 +619,18 @@
         {
             "key": "BATTLE_HEIGHT_ABBREV",
             "value": "h"
+        },
+        {
+            "key": "MENU_SKIP",
+            "value": "跳過"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "獲得追加的★"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "獲得此玩家<br>沒有設定防禦隊伍的<br><color=#F0C040>★x{0}個</color>。"
         },
         {
             "key": "RESULT_RETRY",

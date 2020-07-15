@@ -642,7 +642,7 @@
         },
         {
             "key": "VALUE_RANK",
-            "value": "순위: "
+            "value": "#"
         },
         {
             "key": "VALUE_TO",
@@ -2638,11 +2638,11 @@
         },
         {
             "key": "PARTYEDITOR_GUILD_PARTY_OFFENSE",
-            "value": "공격 파티"
+            "value": "공격"
         },
         {
             "key": "PARTYEDITOR_GUILD_PARTY_DEFENSE",
-            "value": "방어 파티"
+            "value": "방어"
         },
         {
             "key": "PARTYEDITOR_GUILD_CAUTION",
@@ -2947,10 +2947,6 @@
         {
             "key": "RECOMMEND_TEAM_DESC",
             "value": "우선할 항목을 설정하십시오."
-        },
-        {
-            "key": "RECOMMEND_TEAM_CAUTION",
-            "value": "<line-height=26>※ 유닛/장비/소환수/비전 카드가<br>설정한 항목에 따라 자동적으로 편성됩니다."
         },
         {
             "key": "RECOMMEND_TEAM_FAVORITE",
@@ -3682,7 +3678,7 @@
         },
         {
             "key": "LAPIS_RIGHT_LIMITED",
-            "value": "{0}일간 한정!"
+            "value": "구매 후 {0}일간 유효"
         },
         {
             "key": "LAPIS_RIGHT_PURCHESED",
@@ -3930,7 +3926,7 @@
         },
         {
             "key": "DEMO_SKIP",
-            "value": "<cspace=1>Skip"
+            "value": "<cspace=1>건너뛰기"
         },
         {
             "key": "DEMO_AUTO",
@@ -4283,6 +4279,550 @@
         {
             "key": "YEAR_TEXT",
             "value": "년"
+        },
+        {
+            "key": "POWER_SAVE",
+            "value": "크리스탈 접촉 시 절전 모드 해제"
+        },
+        {
+            "key": "SORT_TITLE_AP",
+            "value": "AP"
+        },
+        {
+            "key": "SORT_TITLE_DEFENCE",
+            "value": "방어력"
+        },
+        {
+            "key": "SORT_TITLE_MIND",
+            "value": "정신력"
+        },
+        {
+            "key": "SORT_TITLE_DEXTERITY",
+            "value": "솜씨"
+        },
+        {
+            "key": "SORT_TITLE_LUCK",
+            "value": "행운"
+        },
+        {
+            "key": "STATUS_HATE",
+            "value": "헤이트"
+        },
+        {
+            "key": "ABILITY_STATUS_USE_AUTO",
+            "value": "자동 어빌리티 사용"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL",
+            "value": "상세 설정"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL_ON",
+            "value": "상세 설정: ON"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TITLE",
+            "value": "자동 전투에서 사용"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_QUEST",
+            "value": "퀘스트"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_MULTI",
+            "value": "멀티"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_DUEL",
+            "value": "PvP"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_GUILD",
+            "value": "길드 전투"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TOWER",
+            "value": "백자탑"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
+            "value": "유닛 선택"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
+            "value": "다른 파티 ({0})에서<br>이미 선택 중입니다.<br>그래도 선택하시겠습니까?<br>(다른 파티에서<br>대상 유닛이 제외됩니다.)"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
+            "value": "일반"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
+            "value": "기간 한정"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
+            "value": "편성 규칙"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
+            "value": "<line-height=22>※ 여러 공격 파티에서 같은 유닛, 장비, 소환수, 비전 카드를 설정할 수는 없습니다. 여러 방어 파티에서도 동일합니다."
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
+            "value": "우선 항목 선택"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
+            "value": "추천 편성 선택"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
+            "value": "전부 추천"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
+            "value": "장비"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
+            "value": "비전 카드"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
+            "value": "소환수"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
+            "value": "<line-height=26>※ 유닛/장비/비전카드/소환수가<br>설정한 항목에 따라 자동적으로 편성됩니다."
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
+            "value": "<line-height=26>※ 체크한 장비만 설정에 따라 자동 편성되며,<br>그밖에는 현재 편성이 그대로 남습니다."
+        },
+        {
+            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
+            "value": "<line-height=26>※ 체크 표시를 해 두면 유닛 정보 화면에서<br>설정한 즐겨찾기 장비가 우선적으로 편성됩니다."
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_TITLE",
+            "value": "강화에 사용할 항목을 체크하십시오."
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
+            "value": "장비, 비전카드, 소환수 중<br>최소 1개 항목에<br>체크하십시오."
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_CHAT",
+            "value": "채팅"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
+            "value": "전투 기록"
+        },
+        {
+            "key": "OPTION_EFFECT",
+            "value": "범위 효과 표시"
+        },
+        {
+            "key": "OPTION_LAP_TITLE",
+            "value": "반복 설정"
+        },
+        {
+            "key": "OPTION_LAP_LIMIT",
+            "value": "반복 제한"
+        },
+        {
+            "key": "OPTION_LAP_NONE",
+            "value": "제한 없음"
+        },
+        {
+            "key": "OPTION_LAP_TIMES",
+            "value": "반복 횟수"
+        },
+        {
+            "key": "OPTION_LAP_ITEM",
+            "value": "아이템 획득"
+        },
+        {
+            "key": "OPTION_LAP_USE_ITEM",
+            "value": "소비 체력"
+        },
+        {
+            "key": "OPTION_LAP_STOP",
+            "value": "반복 정지"
+        },
+        {
+            "key": "OPTION_LAP_FEAVER",
+            "value": "탐험 초코보 Fever"
+        },
+        {
+            "key": "OPTION_LAP_CAPRICIOUS",
+            "value": "변덕쟁이 상점"
+        },
+        {
+            "key": "OPTION_LAP_RAID",
+            "value": "레이드 조우"
+        },
+        {
+            "key": "OPTION_LAP_STOP_CAUTION",
+            "value": "※ ON으로 설정하면 연출 발생 시 반복이 중지됩니다."
+        },
+        {
+            "key": "OPTION_LAP_AP_USE",
+            "value": "자동 체력 회복약 사용"
+        },
+        {
+            "key": "OPTION_LAP_AP_TIMES",
+            "value": "반복 횟수 한도"
+        },
+        {
+            "key": "OPTION_LAP_AP_CAUTION",
+            "value": "※ 반복 중에 체력이 떨어졌을 경우 자동으로 체력을 회복합니다.<br>※ 체력 회복에는 회복약만 사용합니다.<br>※ 보유 중인 회복약 중에서 회복량이 큰 약부터 사용됩니다."
+        },
+        {
+            "key": "OPTION_ITEM_TITLE",
+            "value": "아이템 선택"
+        },
+        {
+            "key": "ARTI_CONDITION_TITLE",
+            "value": "장착 가능 조건"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_TITLE",
+            "value": "장착 가능 직업"
+        },
+        {
+            "key": "ARTI_CONDITION_NONE",
+            "value": "장착 가능 조건 없음"
+        },
+        {
+            "key": "ARTI_CONDITION_COUNTRY",
+            "value": "· {0} 출신"
+        },
+        {
+            "key": "ARTI_CONDITION_SEX",
+            "value": "· {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_UNIT",
+            "value": "· {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_RARITY",
+            "value": "· 레어도 {0} 이상"
+        },
+        {
+            "key": "ARTI_CONDITION_AWAKE",
+            "value": "· 각성 수 {0} 이상"
+        },
+        {
+            "key": "ARTI_CONDITION_RANK",
+            "value": "· 한계 돌파 수 {0} 이상"
+        },
+        {
+            "key": "ARTI_CONDITION_SERIES",
+            "value": "· 시리즈 {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_NONE",
+            "value": "모든 직업이 장착할 수 있습니다."
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
+            "value": "유닛 정보"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
+            "value": "※ 각성 ★{0}/한계 돌파 {1}/유닛 레벨 및 모든 직업 레벨이 최대일 때"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
+            "value": "비전 카드 정보"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
+            "value": "※ 각성 ★{0}/레벨이 최대일 때"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
+            "value": "소환수 정보"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
+            "value": "※ 소환수는 첫 회에 한해 획득할 수 있습니다."
+        },
+        {
+            "key": "VISION_DETAIL_STATUS",
+            "value": "능력치"
+        },
+        {
+            "key": "VISION_DETAIL_INFO",
+            "value": "정보"
+        },
+        {
+            "key": "VISION_DETAIL_ADD_EFF",
+            "value": "부여 효과"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE_BONUS",
+            "value": "각성 보너스"
+        },
+        {
+            "key": "VISION_DETAIL_ENHANCE",
+            "value": "강화"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE",
+            "value": "각성"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_STATUS",
+            "value": "<cspace=0.5>능력치"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_SYNCHRO",
+            "value": "공명도"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_RESIST",
+            "value": " 저항력"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
+            "value": "소환마법"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
+            "value": "소환수 육성 보드"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
+            "value": "소환수 강화"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
+            "value": "일괄 강화"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
+            "value": "소환수 레벨이 최대입니다."
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
+            "value": "현재 소환수의 최대 레벨에 필요한 경험치보다 많습니다. 계속하시겠습니까?"
+        },
+        {
+            "key": "UNIT_DETAIL_AWAKE",
+            "value": "각성"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP",
+            "value": "한계 돌파"
+        },
+        {
+            "key": "UNIT_DETAIL_INTIMACY",
+            "value": "친밀도"
+        },
+        {
+            "key": "UNIT_DETAIL_STATUS_DETAIL",
+            "value": "능력치 정보"
+        },
+        {
+            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
+            "value": "트러스트 마스터 보상"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_BORD",
+            "value": "어빌리티 보드"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_SET",
+            "value": "어빌리티 장착"
+        },
+        {
+            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
+            "value": "소환수 육성 보드"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ENHANCE",
+            "value": "강화"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_AWAKE",
+            "value": "각성"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ABILITY",
+            "value": "어빌리티"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
+            "value": "<cspace=0.5>트러스트"
+        },
+        {
+            "key": "UNIT_DETAIL_RANK_LIMIT",
+            "value": "랭크 한도"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ON",
+            "value": "즐겨찾기에 등록했습니다."
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_OFF",
+            "value": "즐겨찾기 등록을 해제했습니다."
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP_CONDITION",
+            "value": "{0}번째 한계 돌파 후 개방"
+        },
+        {
+            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
+            "value": "장비 숙련도"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP",
+            "value": "장착"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI",
+            "value": "즐겨찾기 장비"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
+            "value": "설정"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
+            "value": "강화 재료"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
+            "value": "강화 재료가 없습니다."
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
+            "value": "일괄 강화"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
+            "value": "강화 확인"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
+            "value": "유닛 레벨이 최대입니다."
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
+            "value": "현재 유닛의 최대 레벨에 필요한 경험치보다 많습니다. 계속하시겠습니까?"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
+            "value": "강화"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
+            "value": "주 직업"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
+            "value": "필요 유닛 레벨"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
+            "value": "직업 강화"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
+            "value": "직업 강화 재료"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
+            "value": "<cspace=-1>직업 레벨 한도에 도달했습니다."
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
+            "value": "<cspace=-1>재료가 부족합니다."
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITYSET_SET",
+            "value": "장착"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_STATUS",
+            "value": "<cspace=0.6>유닛 능력치 "
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_JOB",
+            "value": "<cspace=0.6>직업"
+        },
+        {
+            "key": "UNIT_ARTI_SET_TITLE",
+            "value": "장비 장착"
+        },
+        {
+            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
+            "value": "저항력 표시"
+        },
+        {
+            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
+            "value": "장착 중인 장비 제외"
+        },
+        {
+            "key": "UNIT_ARTI_SET_REMOVE",
+            "value": "해제"
+        },
+        {
+            "key": "UNIT_ARTI_SET_CONFIRM",
+            "value": "다른 유닛이 장착 중입니다.<br>그래도 장착하시겠습니까?<br>(장착 중인 유닛의 장착이 해제됩니다.)"
+        },
+        {
+            "key": "ARTI_STATUS_ADD_NONE",
+            "value": "부가 능력 없음"
+        },
+        {
+            "key": "ARTI_STATUS_WA_TITLE",
+            "value": "WA"
+        },
+        {
+            "key": "ARTI_STATUS_LB_TITLE",
+            "value": "LB"
+        },
+        {
+            "key": "ARTI_STATUS_LB_ENHANCE",
+            "value": "이(가) 장착"
+        },
+        {
+            "key": "TRUST_MASTER_TITLE",
+            "value": "트러스트 마스터 보상"
+        },
+        {
+            "key": "TRUST_MASTER_CONDITION",
+            "value": "한계 돌파 5 / 각성 ★6에 획득"
+        },
+        {
+            "key": "TRUST_MASTER_COMPLETE",
+            "value": "획득 완료"
+        },
+        {
+            "key": "QRCODE_TAKE_TITLE",
+            "value": "시리얼 코드"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_BATTLE",
+            "value": "시리얼 코드를 취득했습니다.<br>홈에서 확인하십시오."
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_HOME",
+            "value": "시리얼 코드를 취득했습니다.<br>홈으로 돌아갑니다."
+        },
+        {
+            "key": "RECOMMEND_TEAM_CAUTION",
+            "value": "<line-height=26>※ 유닛/장비/소환수/비전 카드가<br>설정한 항목에 따라 자동적으로 편성됩니다."
         },
         {
             "key": "DEBUG_SELECT_TUTORIAL_TITLE",

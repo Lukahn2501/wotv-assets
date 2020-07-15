@@ -62,7 +62,7 @@
         },
         {
             "key": "016",
-            "value": "Oui, et si tu ne tiens pas ta langue quand tu t'adresses à Sa Majesté, je veillerai moi-même à te réduire en cendre."
+            "value": "Oui, et si tu ne tiens pas ta langue quand tu t'adresses à Sa Majesté, je veillerai moi-même à te réduire en cendres."
         },
         {
             "key": "017",

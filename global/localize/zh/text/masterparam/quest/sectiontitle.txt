@@ -73,6 +73,14 @@
             "value": "獅子與狼"
         },
         {
+            "key": "SE_ST_010701",
+            "value": "向東"
+        },
+        {
+            "key": "SE_ST_010702",
+            "value": "穆拉加親衛隊"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "雷恩茲大森林"
         },
@@ -121,6 +129,10 @@
             "value": "亞姆洞穴"
         },
         {
+            "key": "SE_WD_010203",
+            "value": "白狼祠堂"
+        },
+        {
             "key": "SE_SB_01",
             "value": "強敵之間"
         },
@@ -131,6 +143,14 @@
         {
             "key": "SE_MU_SB_02",
             "value": "鐵巨人考驗"
+        },
+        {
+            "key": "SE_SB_03",
+            "value": "巧克力布丁考驗"
+        },
+        {
+            "key": "SE_MU_SB_03",
+            "value": "巧克力布丁考驗"
         },
         {
             "key": "SE_EV_UNITEXP_01",
@@ -277,6 +297,22 @@
             "value": "西方的威脅朗德爾【EX】"
         },
         {
+            "key": "SE_EV_03_01",
+            "value": "為了燃盡生命"
+        },
+        {
+            "key": "SE_EV_03_EX_01",
+            "value": "為了燃盡生命【EX】"
+        },
+        {
+            "key": "SE_MU_EV_03_EX",
+            "value": "為了燃盡生命【EX】協力"
+        },
+        {
+            "key": "SE_EV_SBEXP_01",
+            "value": "魔石獲得任務"
+        },
+        {
             "key": "SE_EV_ANV_19_10",
             "value": "上市紀念任務"
         },
@@ -377,6 +413,14 @@
             "value": "FINAL FANTASY TACTICS聯動活動任務 【EX】"
         },
         {
+            "key": "SE_EV_ART_SCR_00",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_EV_SCR_00",
+            "value": ""
+        },
+        {
             "key": "SE_EV_ART_SCR_01",
             "value": "高難度　秘籍獲得任務"
         },
@@ -417,6 +461,10 @@
             "value": "兵員育成支援任務"
         },
         {
+            "key": "SE_EV_RAIN_01",
+            "value": "限定困難任務（雷因）"
+        },
+        {
             "key": "SE_EV_VKTR_01",
             "value": "限定困難任務（維克托拉）"
         },
@@ -431,6 +479,22 @@
         {
             "key": "SE_MU_EV_THLA_EX",
             "value": "高難度 薩麗雅的碎片獲得 EX任務協力"
+        },
+        {
+            "key": "SE_EV_ARENA_1",
+            "value": "鬥技場模擬戰"
+        },
+        {
+            "key": "SE_EV_GL_FFEXU_01",
+            "value": "FF EXVIUS Universe任務"
+        },
+        {
+            "key": "SE_EV_VNLA_01",
+            "value": "限定困難任務（維內拉·芬尼斯）"
+        },
+        {
+            "key": "SE_EV_NEWMAP_001",
+            "value": "公會戰鬥模擬戰"
         }
     ]
 }

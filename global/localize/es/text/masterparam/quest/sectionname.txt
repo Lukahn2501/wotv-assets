@@ -73,6 +73,14 @@
             "value": "Parte 1, capítulo 6: escena 3"
         },
         {
+            "key": "SE_ST_010701",
+            "value": "Parte 1, capítulo 7: escena 1"
+        },
+        {
+            "key": "SE_ST_010702",
+            "value": "Parte 1, capítulo 7: escena 2"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Gran Bosque del León"
         },
@@ -121,6 +129,10 @@
             "value": "Cavernas de Yaarm"
         },
         {
+            "key": "SE_WD_010203",
+            "value": "Templo del Lobo Blanco"
+        },
+        {
             "key": "SE_SB_01",
             "value": "Guarida de la Bestia"
         },
@@ -131,6 +143,14 @@
         {
             "key": "SE_MU_SB_02",
             "value": "Desafío de Férreo"
+        },
+        {
+            "key": "SE_SB_03",
+            "value": "Desafío del flan de chocolate"
+        },
+        {
+            "key": "SE_MU_SB_03",
+            "value": "Desafío del flan de chocolate"
         },
         {
             "key": "SE_EV_UNITEXP_01",
@@ -277,6 +297,22 @@
             "value": "Rundal, la amenaza del oeste [EX]"
         },
         {
+            "key": "SE_EV_03_01",
+            "value": "Vida ardiente"
+        },
+        {
+            "key": "SE_EV_03_EX_01",
+            "value": "Vida ardiente [EX]"
+        },
+        {
+            "key": "SE_MU_EV_03_EX",
+            "value": "[Multijugador] Vida ardiente [EX]"
+        },
+        {
+            "key": "SE_EV_SBEXP_01",
+            "value": "Misión de recompensa de magicita"
+        },
+        {
             "key": "SE_EV_ANV_19_10",
             "value": "Misión conmemorativa del lanzamiento"
         },
@@ -377,6 +413,14 @@
             "value": "Misión de FINAL FANTASY TACTICS [EX]"
         },
         {
+            "key": "SE_EV_ART_SCR_00",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_EV_SCR_00",
+            "value": ""
+        },
+        {
             "key": "SE_EV_ART_SCR_01",
             "value": "[Difícil] Misión de libro secreto"
         },
@@ -417,6 +461,10 @@
             "value": "Misión de apoyo de entrenamiento de unidad"
         },
         {
+            "key": "SE_EV_RAIN_01",
+            "value": "[Limitada] Misión difícil (Rain)"
+        },
+        {
             "key": "SE_EV_VKTR_01",
             "value": "[Limitada] Misión difícil (Victra)"
         },
@@ -431,6 +479,22 @@
         {
             "key": "SE_MU_EV_THLA_EX",
             "value": "[Multijugador] [Difícil] Misión EX de recompensa de fragmento de Saria"
+        },
+        {
+            "key": "SE_EV_ARENA_1",
+            "value": "Batalla de exhibición de la Arena"
+        },
+        {
+            "key": "SE_EV_GL_FFEXU_01",
+            "value": "Misión de FF EXVIUS Universe"
+        },
+        {
+            "key": "SE_EV_VNLA_01",
+            "value": "[Limitada] Misión difícil (Vinera Fennes)"
+        },
+        {
+            "key": "SE_EV_NEWMAP_001",
+            "value": "Combate de gremio de exhibición"
         }
     ]
 }

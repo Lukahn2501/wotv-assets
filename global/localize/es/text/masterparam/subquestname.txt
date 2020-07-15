@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Tienes que seleccionar tus habilidades, ¿eh?"
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Trucos para luchar en un frente más amplio"
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "¿Por qué no te unes a un gremio?"
         }
     ]
 }

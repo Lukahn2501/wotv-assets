@@ -54,7 +54,7 @@
         },
         {
             "key": "SQ_WD_010107_02",
-            "value": "Allez faire un tour dans les boutiques et réalisez des achats en 5 fois"
+            "value": "Allez faire un tour dans les boutiques et réalisez 5 achats différents"
         },
         {
             "key": "SQ_WD_010108_01",
@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Sélectionnez 1 fois une aptitude par le biais du Choix des aptitudes"
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Changez le job secondaire d'une unité 1 fois"
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "Rejoignez une guilde"
         }
     ]
 }

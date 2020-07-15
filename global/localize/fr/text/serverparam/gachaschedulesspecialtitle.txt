@@ -345,6 +345,286 @@
             "value": "Début de l'été - Invocation x10 GRATUITE"
         },
         {
+            "key": "gacha_unit_vc_gl20200624_01",
+            "value": "MOBIUS FINAL FANTASY - Invocation des atouts-visions "
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_10",
+            "value": "MOBIUS FINAL FANTASY - Invocation x10 des atouts-visions "
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_01",
+            "value": "Invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_10",
+            "value": "Invocation x10 du moment"
+        },
+        {
+            "key": "no_coin_gacha_gl20200624_10",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "p_gacha_unit_gl20200624_10",
+            "value": "Sortie du Chapitre 7 ! - Invocation x10 d'unité UR garantie"
+        },
+        {
+            "key": "p_gacha_vc_gl20200624_10",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 d'atout-vision UR garanti"
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200624_10",
+            "value": "4e anniversaire de la saga FFBE - Invocation x10 4 UR garantis"
+        },
+        {
+            "key": "beginner_gacha_10_20200624",
+            "value": "Invocation x10 GRATUITE d'unité UR garantie"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_1",
+            "value": "Sortie du chapitre 7 ! - 1er palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_1",
+            "value": "Sortie du chapitre 7 ! - 2e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_1",
+            "value": "Sortie du chapitre 7 ! - 3e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_1",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_2",
+            "value": "Sortie du chapitre 7 ! - 1er palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_2",
+            "value": "Sortie du chapitre 7 ! - 2e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_2",
+            "value": "Sortie du chapitre 7 ! - 3e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_2",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_3",
+            "value": "Sortie du chapitre 7 ! - 1er palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_3",
+            "value": "Sortie du chapitre 7 ! - 2e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_3",
+            "value": "Sortie du chapitre 7 ! - 3e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_3",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_4",
+            "value": "Sortie du chapitre 7 ! - 1er palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_4",
+            "value": "Sortie du chapitre 7 ! - 2e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_4",
+            "value": "Sortie du chapitre 7 ! - 3e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_4",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_5",
+            "value": "Sortie du chapitre 7 ! - 1er palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_5",
+            "value": "Sortie du chapitre 7 ! - 2e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_5",
+            "value": "Sortie du chapitre 7 ! - 3e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_5",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_6",
+            "value": "Sortie du chapitre 7 ! - 1er palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_6",
+            "value": "Sortie du chapitre 7 ! - 2e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_6",
+            "value": "Sortie du chapitre 7 ! - 3e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_6",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_7",
+            "value": "Sortie du chapitre 7 ! - 1er palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_7",
+            "value": "Sortie du chapitre 7 ! - 2e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_7",
+            "value": "Sortie du chapitre 7 ! - 3e palier de l'invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_7",
+            "value": "Sortie du chapitre 7 ! - Invocation x10 à paliers"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step1",
+            "value": "« Sortie du Chapitre 7 ! » - Invocation x10 à 5 paliers [Palier 1]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step2",
+            "value": "« Sortie du Chapitre 7 ! » - Invocation x10 à 5 paliers [Palier 2]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step3",
+            "value": "« Sortie du Chapitre 7 ! » - Invocation x10 à 5 paliers [Palier 3]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step4",
+            "value": "« Sortie du Chapitre 7 ! » - Invocation x10 à 5 paliers [Palier 4]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step5",
+            "value": "« Sortie du Chapitre 7 ! » - Invocation x10 à 5 paliers [Palier 5]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200701_10",
+            "value": "100e jour de la version internationale - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step3",
+            "value": "Unité FFBE UR garantie - Invocation x10 à paliers [Palier 3]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step2",
+            "value": "Unité FFBE UR garantie - Invocation x10 à paliers [Palier 2]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step1",
+            "value": "Unité FFBE UR garantie - Invocation x10 à paliers [Palier 1]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_base",
+            "value": ""
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_1",
+            "value": "Célébration de lancement de la Tour de porcelaine - Invocation du moment I"
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_10",
+            "value": "Célébration de lancement de la Tour de porcelaine - Invocation x10 du moment I"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_1",
+            "value": "Célébration de lancement de la Tour de porcelaine - Invocation du moment II"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_10",
+            "value": "Célébration de lancement de la Tour de porcelaine - Invocation x10 du moment II"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_1",
+            "value": "Célébration de lancement de la Tour de porcelaine - Invocation du moment III"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_10",
+            "value": "Célébration de lancement de la Tour de porcelaine - Invocation x10 du moment III"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_1",
+            "value": "Célébration de lancement de la Tour de porcelaine - Invocation du moment IV"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_10",
+            "value": "Célébration de lancement de la Tour de porcelaine - Invocation x10 du moment IV"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_01",
+            "value": "Invocation spéciale FF EXVIUS Universe - Fryevia"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10",
+            "value": "Invocation x10 spéciale FF EXVIUS Universe - Fryevia"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_01",
+            "value": "Invocation spéciale FF EXVIUS Universe - Rain"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_10",
+            "value": "Invocation x10 spéciale FF EXVIUS Universe - Rain"
+        },
+        {
+            "key": "p_gacha_unit_gl20200701_10",
+            "value": "FF EXVIUS Universe - Invocation x10 d'unité UR garantie"
+        },
+        {
+            "key": "p_gacha_vc_gl20200701_10",
+            "value": "FF EXVIUS Universe - Invocation x10 d'atout-vision UR garanti  "
+        },
+        {
+            "key": "no_coin_gacha_gl20200708_10",
+            "value": "FF EXVIUS Universe - Invocation x10 GRATUITE"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_01",
+            "value": "Célébration de lancement de la Tour de porcelaine - Invocation du moment [Partie II]"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_10",
+            "value": "Célébration de lancement de la Tour de porcelaine - Invocation x10 du moment<br>[Partie II]"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_01",
+            "value": "Invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_10",
+            "value": "Invocation x10 du moment"
+        },
+        {
+            "key": "p_gacha_unit_gl20200715_10",
+            "value": "Invocation x10 d'unité UR garantie"
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Invocation du moment de célébration du lancement du jeu"
         },

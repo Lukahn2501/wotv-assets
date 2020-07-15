@@ -46,7 +46,7 @@
         },
         {
             "key": "012",
-            "value": "Peut-être... mais la fille de Muraga, dame Vinera se trouve déjà à Hourne."
+            "value": "Peut-être... mais la fille de Muraga, dame Vinera, se trouve déjà à Hourne."
         },
         {
             "key": "013",

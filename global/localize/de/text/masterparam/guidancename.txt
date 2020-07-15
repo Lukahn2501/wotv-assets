@@ -106,11 +106,15 @@
         },
         {
             "key": "SupportUnit",
-            "value": "Ändern"
+            "value": "Begleitereinstellungen"
         },
         {
             "key": "ItemExchange",
             "value": "Tauschladen"
+        },
+        {
+            "key": "Tower",
+            "value": "Turm"
         }
     ]
 }

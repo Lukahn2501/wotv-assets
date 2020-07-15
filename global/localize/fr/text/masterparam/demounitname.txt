@@ -130,7 +130,7 @@
         },
         {
             "key": "DU_LW_MURG",
-            "value": "Muraga Fennes, Muraga, la voix de Muraga"
+            "value": "Muraga Fennes, Muraga, La voix de Muraga"
         },
         {
             "key": "DU_LW_RIRY",

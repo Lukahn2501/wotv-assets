@@ -1861,6 +1861,34 @@
             "value": "紅之劍"
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "貪婪之鎧"
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "魔力繩"
+        },
+        {
+            "key": "AF_CLT_LW_RAIN_1",
+            "value": "雷因衣"
+        },
+        {
+            "key": "AF_ACC_LW_FRVA_1",
+            "value": "弗洛里多髮飾"
+        },
+        {
+            "key": "AF_ACC_LW_VNLA_1",
+            "value": "幻惑高跟鞋"
+        },
+        {
+            "key": "AF_SWO_LW_DRIO_1",
+            "value": "閃光之劍"
+        },
+        {
+            "key": "AF_ACC_LW_TREL_1",
+            "value": "蛇鬥士之冠"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "獅子劍"
         },
@@ -1933,16 +1961,20 @@
             "value": "魅惑火槍"
         },
         {
-            "key": "AF_ARM_LW_VKTR_1",
-            "value": "貪婪之鎧"
-        },
-        {
             "key": "AF_SPE_LW_VKTR_2",
             "value": "貪婪之槍"
         },
         {
-            "key": "AF_ACC_LW_THLA_1",
-            "value": "魔力繩"
+            "key": "AF_BSW_LW_RAIN_2",
+            "value": "雷因用"
+        },
+        {
+            "key": "AF_SWO_LW_FRVA_2",
+            "value": "弗雷比亞用"
+        },
+        {
+            "key": "AF_DAG_LW_VNLA_2",
+            "value": "暗殺者短劍"
         },
         {
             "key": "AF_LW_RNG_005",
@@ -1967,6 +1999,10 @@
         {
             "key": "AF_LW_RNG_005_5",
             "value": "變石戒指+5"
+        },
+        {
+            "key": "AF_LW_BSW_011",
+            "value": "深紅烈焰"
         }
     ]
 }

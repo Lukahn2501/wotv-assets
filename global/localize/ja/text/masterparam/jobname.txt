@@ -763,6 +763,46 @@
         {
             "key": "JB_FFT_ORND",
             "value": "剣聖"
+        },
+        {
+            "key": "JB_LW_RAIN",
+            "value": "グランシェルトの騎士"
+        },
+        {
+            "key": "JB_LW_ASS",
+            "value": "アサシン"
+        },
+        {
+            "key": "JB_LW_ASS_FIRE",
+            "value": "アサシン"
+        },
+        {
+            "key": "JB_LW_ASS_ICE",
+            "value": "アサシン"
+        },
+        {
+            "key": "JB_LW_ASS_WIND",
+            "value": "アサシン"
+        },
+        {
+            "key": "JB_LW_ASS_SOIL",
+            "value": "アサシン"
+        },
+        {
+            "key": "JB_LW_ASS_THUN",
+            "value": "アサシン"
+        },
+        {
+            "key": "JB_LW_ASS_WATER",
+            "value": "アサシン"
+        },
+        {
+            "key": "JB_LW_ASS_SHINE",
+            "value": "アサシン"
+        },
+        {
+            "key": "JB_LW_ASS_DARK",
+            "value": "アサシン"
         }
     ]
 }

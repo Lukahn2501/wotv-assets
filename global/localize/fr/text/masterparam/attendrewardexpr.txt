@@ -19,6 +19,26 @@
         {
             "key": "5",
             "value": "Récompense de participation, rang 5"
+        },
+        {
+            "key": "6",
+            "value": "Récompense de participation, rang 6"
+        },
+        {
+            "key": "7",
+            "value": "Récompense de participation, rang 7"
+        },
+        {
+            "key": "8",
+            "value": "Récompense de participation, rang 8"
+        },
+        {
+            "key": "9",
+            "value": "Récompense de participation, rang 9"
+        },
+        {
+            "key": "10",
+            "value": "Récompense de participation, rang 10"
         }
     ]
 }

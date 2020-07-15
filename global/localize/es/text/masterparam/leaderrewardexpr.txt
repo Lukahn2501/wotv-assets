@@ -19,6 +19,26 @@
         {
             "key": "5",
             "value": "Recompensas de líder: rango 5"
+        },
+        {
+            "key": "6",
+            "value": "Recompensas de líder: rango 6"
+        },
+        {
+            "key": "7",
+            "value": "Recompensas de líder: rango 7"
+        },
+        {
+            "key": "8",
+            "value": "Recompensas de líder: rango 8"
+        },
+        {
+            "key": "9",
+            "value": "Recompensas de líder: rango 9"
+        },
+        {
+            "key": "10",
+            "value": "Recompensas de líder: rango 10"
         }
     ]
 }

@@ -19,6 +19,26 @@
         {
             "key": "5",
             "value": "Récompenses de chef : rang 5"
+        },
+        {
+            "key": "6",
+            "value": "Récompenses de chef : rang 6"
+        },
+        {
+            "key": "7",
+            "value": "Récompenses de chef : rang 7"
+        },
+        {
+            "key": "8",
+            "value": "Récompenses de chef : rang 8"
+        },
+        {
+            "key": "9",
+            "value": "Récompenses de chef : rang 9"
+        },
+        {
+            "key": "10",
+            "value": "Récompenses de chef : rang 10"
         }
     ]
 }

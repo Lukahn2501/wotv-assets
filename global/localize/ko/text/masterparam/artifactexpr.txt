@@ -1861,6 +1861,34 @@
             "value": "장비 종류: 검<br>적정 숙련도: B 이상"
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "장비 종류: 갑옷<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "장비 종류: 장신구<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_CLT_LW_RAIN_1",
+            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_ACC_LW_FRVA_1",
+            "value": "장비 종류: 장신구<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_ACC_LW_VNLA_1",
+            "value": "장비 종류: 장신구<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_SWO_LW_DRIO_1",
+            "value": "장비 종류: 검<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_ACC_LW_TREL_1",
+            "value": "장비 종류: 장신구<br>적정 숙련도: B 이상"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "장비 종류: 검<br>적정 숙련도: B 이상"
         },
@@ -1933,16 +1961,20 @@
             "value": "장비 종류: 총<br>적정 숙련도: B 이상"
         },
         {
-            "key": "AF_ARM_LW_VKTR_1",
-            "value": "장비 종류: 갑옷<br>적정 숙련도: A 이상"
-        },
-        {
             "key": "AF_SPE_LW_VKTR_2",
             "value": "장비 종류: 창<br>적정 숙련도: B 이상"
         },
         {
-            "key": "AF_ACC_LW_THLA_1",
-            "value": "장비 종류: 장신구<br>적정 숙련도: B 이상"
+            "key": "AF_BSW_LW_RAIN_2",
+            "value": "장비 종류: 대검<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_SWO_LW_FRVA_2",
+            "value": "장비 종류: 검<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_DAG_LW_VNLA_2",
+            "value": "장비 종류: 단검<br>적정 숙련도: A 이상"
         },
         {
             "key": "AF_LW_RNG_005",
@@ -1967,6 +1999,10 @@
         {
             "key": "AF_LW_RNG_005_5",
             "value": "장비 종류: 장신구<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_LW_BSW_011",
+            "value": "장비 종류: 대검<br>적정 숙련도: A 이상"
         }
     ]
 }

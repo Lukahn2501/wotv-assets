@@ -34,35 +34,35 @@
         },
         {
             "key": "9",
-            "value": "La guilde a fait son entrée dans un duel de guildes."
+            "value": "La guilde participe à un combat de guilde."
         },
         {
             "key": "10",
-            "value": "Vous ne pouvez pas accéder au duel de guildes car vous ne remplissez pas les conditions nécessaires requises."
+            "value": "Vous ne pouvez pas accéder aux combats de guilde car vous ne remplissez pas les conditions nécessaires requises."
         },
         {
             "key": "11",
-            "value": "Que le duel contre la guilde ${guildName} commence."
+            "value": "Que le combat contre la guilde ${guildName} commence."
         },
         {
             "key": "12",
-            "value": "Le duel des guildes a été gagné par forfait."
+            "value": "Ce combat de guilde a été remporté par forfait."
         },
         {
             "key": "13",
-            "value": "Le duel contre la guilde ${guildName} est terminé."
+            "value": "Votre guilde a remporté son combat contre la guilde ${guildName}."
         },
         {
             "key": "14",
-            "value": "Votre guilde a perdu son duel contre ${guildName}."
+            "value": "Votre guilde a perdu son combat contre ${guildName}."
         },
         {
             "key": "15",
-            "value": "Vous avez été promu. Votre niveau en tant que Chef de guilde est passé de ${beforeLevelName} à ${afterLevelName}."
+            "value": "Votre niveau de ligue est monté de ${beforeLevelName} à ${afterLevelName}."
         },
         {
             "key": "16",
-            "value": "Vous avez été rétrogradé. Votre niveau en tant que Chef de guilde est passé de ${beforeLevelName} à ${afterLevelName}."
+            "value": "Votre niveau de ligue est tombé de ${beforeLevelName} à ${afterLevelName}."
         }
     ]
 }

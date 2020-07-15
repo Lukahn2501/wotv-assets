@@ -9,6 +9,10 @@
             "value": "スペシャルショップ"
         },
         {
+            "key": "Realmoney-0715",
+            "value": "スペシャルショップ"
+        },
+        {
             "key": "Begginer-20191114",
             "value": "ビギナーズショップ"
         },
@@ -169,6 +173,90 @@
             "value": "通常ショップ"
         },
         {
+            "key": "Normal-20200221_A",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200221_B",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200221_C",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200317_A",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200317_B",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200317_C",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200319_A",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200319_B",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200319_C",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200321_A",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200321_B",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200321_C",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200323_A",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200323_B",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200323_C",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200325_A",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200325_B",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200325_C",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200328_A",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200328_B",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200328_C",
+            "value": "通常ショップ"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "ゲリラショップ"
         },
@@ -325,8 +413,148 @@
             "value": "ゲリラショップ"
         },
         {
+            "key": "Guerrilla-20200221A",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200221B",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200221C",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200317A",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200317B",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200317C",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200319A",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200319B",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200319C",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200321A",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200321B",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200321C",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200323A",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200323B",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200323C",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200325A",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200325B",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200325C",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200328A",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200328B",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200328C",
+            "value": "ゲリラショップ"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "FFTコラボ記念ショップ"
+        },
+        {
+            "key": "Limited-gl20200715",
+            "value": "ギルド応援キャンペーンショップ"
+        },
+        {
+            "key": "Limited-gl20200715_A",
+            "value": "新ユニットピックアップショップ"
+        },
+        {
+            "key": "Limited-gl20200715_B",
+            "value": "ピックアップユニット/VC ショップ"
+        },
+        {
+            "key": "Limited-gl20200708",
+            "value": "白磁の塔開催記念第2弾ショップ"
+        },
+        {
+            "key": "Limited-gl20200708_A",
+            "value": "ピックアップユニットショップ"
+        },
+        {
+            "key": "Limited-gl20200701",
+            "value": "FF EXVIUS Universeキャンペーンショップ"
+        },
+        {
+            "key": "Limited-gl20200701_A",
+            "value": "白磁の塔開催記念ショップ"
+        },
+        {
+            "key": "Limited-gl20200701_B_1",
+            "value": "ピックアップユニット/VC ショップⅠ"
+        },
+        {
+            "key": "Limited-gl20200701_B_2",
+            "value": "ピックアップユニット/VCショップ Ⅱ"
+        },
+        {
+            "key": "Limited-gl20200701_B_3",
+            "value": "ピックアップユニット/VCショップ Ⅲ"
+        },
+        {
+            "key": "Limited-gl20200701_B_4",
+            "value": "ピックアップユニット/VCショップ Ⅳ"
+        },
+        {
+            "key": "Limited-gl20200624_A",
+            "value": "メビウスコラボ記念ショップ"
+        },
+        {
+            "key": "Limited-gl20200624",
+            "value": "ストーリー7章公開記念 ショップ"
+        },
+        {
+            "key": "Limited-gl20200624_B",
+            "value": "ピックアップユニットショップ"
         },
         {
             "key": "Limited-gl20200617",
@@ -453,12 +681,32 @@
             "value": "FFXIV: Shadowbringers Collaborative Shop"
         },
         {
-            "key": "Event-Raid_20200207",
-            "value": "チョコプリンレイドメダル交換所"
+            "key": "Event-Quest_20200301",
+            "value": "【7月】イベントメダル交換所"
+        },
+        {
+            "key": "Event-Tower_20200317",
+            "value": "タワーメダル交換所"
+        },
+        {
+            "key": "Event-Summon_GL20200715_B",
+            "value": "召喚メダル交換所"
+        },
+        {
+            "key": "Event-Summon_GL20200701_A",
+            "value": "召喚メダル交換所"
         },
         {
             "key": "Event-EV02_1_20200201",
             "value": "【6月】イベントメダル交換所"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "チョコプリンレイドメダル交換所"
+        },
+        {
+            "key": "Event-Summon_GL20200624_B",
+            "value": "召喚メダル交換所"
         },
         {
             "key": "Event-Summon_GL20200617_B",
@@ -670,6 +918,62 @@
         },
         {
             "key": "Event-Vision_N_gl20200601",
+            "value": "ビジョンメダル交換所N"
+        },
+        {
+            "key": "Event-Friend_gl20200701",
+            "value": "フレンドメダル交換所"
+        },
+        {
+            "key": "Event-Arena_gl20200701",
+            "value": "アリーナメダル交換所"
+        },
+        {
+            "key": "Event-Match_gl20200701",
+            "value": "PVPメダル交換所"
+        },
+        {
+            "key": "Event-Guild_gl20200701",
+            "value": "ギルドメダル交換所"
+        },
+        {
+            "key": "Event-Soul_UR_gl20200701",
+            "value": "ソウルメダル交換所UR"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200701",
+            "value": "ソウルメダル交換所SSR"
+        },
+        {
+            "key": "Event-Soul_SR_gl20200701",
+            "value": "ソウルメダル交換所SR"
+        },
+        {
+            "key": "Event-Soul_R_gl20200701",
+            "value": "ソウルメダル交換所R"
+        },
+        {
+            "key": "Event-Soul_N_gl20200701",
+            "value": "ソウルメダル交換所N"
+        },
+        {
+            "key": "Event-Vision_UR_gl20200701",
+            "value": "ビジョンメダル交換所UR"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200701",
+            "value": "ビジョンメダル交換所SSR"
+        },
+        {
+            "key": "Event-Vision_SR_gl20200701",
+            "value": "ビジョンメダル交換所SR"
+        },
+        {
+            "key": "Event-Vision_R_gl20200701",
+            "value": "ビジョンメダル交換所R"
+        },
+        {
+            "key": "Event-Vision_N_gl20200701",
             "value": "ビジョンメダル交換所N"
         },
         {
@@ -1086,6 +1390,134 @@
         },
         {
             "key": "Limited-FIRE_2020_2_18",
+            "value": "日替わり火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_2_26",
+            "value": "日替わり水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_2_27",
+            "value": "日替わり風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_28",
+            "value": "日替わり雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_29",
+            "value": "日替わり土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_01",
+            "value": "日替わり光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_3_01",
+            "value": "日替わり闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_2_24",
+            "value": "日替わり氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_25",
+            "value": "日替わり火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_3_04",
+            "value": "日替わり水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_3_05",
+            "value": "日替わり風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_06",
+            "value": "日替わり雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_07",
+            "value": "日替わり土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_08",
+            "value": "日替わり光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_3_08",
+            "value": "日替わり闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_3_02",
+            "value": "日替わり氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_03",
+            "value": "日替わり火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_3_11",
+            "value": "日替わり水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_3_12",
+            "value": "日替わり風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_13",
+            "value": "日替わり雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_14",
+            "value": "日替わり土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_15",
+            "value": "日替わり光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_3_15",
+            "value": "日替わり闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_3_09",
+            "value": "日替わり氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_10",
+            "value": "日替わり火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_3_18",
+            "value": "日替わり水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_3_19",
+            "value": "日替わり風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_20",
+            "value": "日替わり雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_21",
+            "value": "日替わり土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_22",
+            "value": "日替わり光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_3_22",
+            "value": "日替わり闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_3_16",
+            "value": "日替わり氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_17",
             "value": "日替わり火属性ショップ"
         }
     ]

@@ -14,7 +14,7 @@
         },
         {
             "key": "VC_LW_SOKYU",
-            "value": "雷歐尼斯王國第二部隊　蒼穹"
+            "value": "雷歐尼斯王國第二部隊《蒼穹》"
         },
         {
             "key": "VC_LW_TRAINING",
@@ -63,6 +63,10 @@
         {
             "key": "VC_LW_TSLP",
             "value": "四天烈風 四方風精靈"
+        },
+        {
+            "key": "VC_MBFF_MV1",
+            "value": "絕望與真實的莫比烏斯"
         },
         {
             "key": "VC_LW_IGNT",
@@ -127,6 +131,10 @@
         {
             "key": "VC_LW_OCHU",
             "value": "豪快植物 食腐獸"
+        },
+        {
+            "key": "VC_MBFF_MV2",
+            "value": "希望與幻想的莫比烏斯"
         },
         {
             "key": "VC_LW_CACT",
@@ -235,6 +243,10 @@
         {
             "key": "VC_EXP_03",
             "value": "成長蛋（SR）"
+        },
+        {
+            "key": "VC_EXP_04",
+            "value": "成長蛋（MR）"
         }
     ]
 }

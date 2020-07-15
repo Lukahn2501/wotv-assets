@@ -299,6 +299,22 @@
         {
             "key": "DEFAULT_PARTY_NAME",
             "value": "隊伍{0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
+            "value": "隊伍還有空位"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
+            "value": "隊伍有空位的情況下，可能會不利於挑戰期間限定的公會戰鬥。確定要結束設定？"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
+            "value": "未達成編配條件"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
+            "value": "因未達成編配條件，使用之前的編配完成。"
         }
     ]
 }

@@ -1021,6 +1021,86 @@
             "value": "Brouhaha d'étoiles"
         },
         {
+            "key": "QE_ST_01070101",
+            "value": "Khory, roi de Wezett"
+        },
+        {
+            "key": "QE_ST_01070102",
+            "value": "Pouvoir mis à l'épreuve I"
+        },
+        {
+            "key": "QE_ST_01070103",
+            "value": "Pouvoir mis à l'épreuve II"
+        },
+        {
+            "key": "QE_ST_01070104",
+            "value": "Pour nos compagnons"
+        },
+        {
+            "key": "QE_ST_01070105",
+            "value": "Le secret de Leonis"
+        },
+        {
+            "key": "QE_ST_01070106",
+            "value": "La caverne"
+        },
+        {
+            "key": "QE_ST_01070107",
+            "value": "« Rubeus » I"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "« Rubeus » II"
+        },
+        {
+            "key": "QE_ST_01070109",
+            "value": "Terres enneigées"
+        },
+        {
+            "key": "QE_ST_01070110",
+            "value": "La forteresse"
+        },
+        {
+            "key": "QE_ST_01070201",
+            "value": "Un bref repos"
+        },
+        {
+            "key": "QE_ST_01070202",
+            "value": "Traces d'un poursuivant"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "Tout sauf des alliés"
+        },
+        {
+            "key": "QE_ST_01070204",
+            "value": "Vers Wezett"
+        },
+        {
+            "key": "QE_ST_01070205",
+            "value": "Prendre la forteresse I"
+        },
+        {
+            "key": "QE_ST_01070206",
+            "value": "Prendre la forteresse II"
+        },
+        {
+            "key": "QE_ST_01070207",
+            "value": "Arrivée d'Oldoa"
+        },
+        {
+            "key": "QE_ST_01070208",
+            "value": "Prendre la forteresse III"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "Prendre la forteresse IV"
+        },
+        {
+            "key": "QE_ST_01070210",
+            "value": "Appareil de communication<br>longue distance"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Quête de fragments : Zazan"
         },
@@ -1227,6 +1307,18 @@
         {
             "key": "QE_HA_LW_VKTR",
             "value": "Quête de fragments : Viktora"
+        },
+        {
+            "key": "QE_HA_LW_RAIN",
+            "value": "Quête de fragments : Rain"
+        },
+        {
+            "key": "QE_HA_LW_DRIO",
+            "value": "Quête de fragments : Dario Hourne"
+        },
+        {
+            "key": "QE_HA_LW_VNLA",
+            "value": "Quête de fragments : Vinera Fennes"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1445,6 +1537,26 @@
             "value": "Viktora"
         },
         {
+            "key": "QE_CH_GL_LW_FRVA",
+            "value": "Fryevia"
+        },
+        {
+            "key": "QE_CH_LW_RAIN",
+            "value": "Rain"
+        },
+        {
+            "key": "QE_CH_LW_DRIO",
+            "value": "Dario Hourne"
+        },
+        {
+            "key": "QE_CH_LW_VNLA",
+            "value": "Vinera Fennes"
+        },
+        {
+            "key": "QE_CH_LW_TREL",
+            "value": "Tyrrell"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Y'shtola"
         },
@@ -1547,6 +1659,10 @@
         {
             "key": "QE_MU_FFT_EX_01",
             "value": "FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "QE_GL_EV_FFEXU_01",
+            "value": "Quête de FF EXVIUS Universe"
         },
         {
             "key": "QE_EV_GL_1M_FIR",
@@ -1693,6 +1809,118 @@
             "value": "Rundall, menace à l'ouest [EX]"
         },
         {
+            "key": "QE_EV_03_01",
+            "value": "Ép. 1 : Les appartements de Dario I"
+        },
+        {
+            "key": "QE_EV_03_02",
+            "value": "Ép. 2 : Les appartements de Dario II"
+        },
+        {
+            "key": "QE_EV_03_03",
+            "value": "Ép. 3 : Traîtrise I"
+        },
+        {
+            "key": "QE_EV_03_04",
+            "value": "Ép. 4 : Traîtrise II"
+        },
+        {
+            "key": "QE_EV_03_05",
+            "value": "Ép. 5 : Une vie vacillante I"
+        },
+        {
+            "key": "QE_EV_03_06",
+            "value": "Ép. 6 : Une vie vacillante II"
+        },
+        {
+            "key": "QE_EV_03_07",
+            "value": "Ép. 7 : Une vie vacillante III"
+        },
+        {
+            "key": "QE_EV_03_08",
+            "value": "Ép. 8 : Un air de cachot"
+        },
+        {
+            "key": "QE_EV_03_09",
+            "value": "Ép. 9 : Départ du château"
+        },
+        {
+            "key": "QE_EV_03_10",
+            "value": "Ép. 10 : Liberté"
+        },
+        {
+            "key": "QE_EV_03_EX",
+            "value": "Embraser la vie [EX]"
+        },
+        {
+            "key": "QE_MU_EV_03_EX",
+            "value": "Embraser la vie [EX]"
+        },
+        {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Entraînement aux combats de guilde"
+        },
+        {
+            "key": "QE_EV_VNLA_01",
+            "value": "Quête difficile limitée (Vinera Fennes)"
+        },
+        {
+            "key": "QE_EV_RAIN_01",
+            "value": "Quête difficile limitée (Rain)"
+        },
+        {
+            "key": "QE_SB_CSLI_02",
+            "value": "Le défi du Chocoflan [Très difficile]"
+        },
+        {
+            "key": "QE_SB_CSLI_03",
+            "value": "Le défi du Chocoflan [Super difficile]"
+        },
+        {
+            "key": "QE_EV_SB_EXP_FIR",
+            "value": "[Feu] Quête des magilithes rouges"
+        },
+        {
+            "key": "QE_EV_SB_EXP_ICE",
+            "value": "[Glace] Quête des magilithes bleues"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WIN",
+            "value": "[Vent] Quête des magilithes vertes"
+        },
+        {
+            "key": "QE_EV_SB_EXP_EAR",
+            "value": "[Terre] Quête des magilithes oranges"
+        },
+        {
+            "key": "QE_EV_SB_EXP_THU",
+            "value": "[Foudre] Quête des magilithes jaunes"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WTR",
+            "value": "[Eau] Quête des magilithes bleu clair"
+        },
+        {
+            "key": "QE_EV_SB_EXP_SHI",
+            "value": "[Lumière] Quête des magilithes blanches"
+        },
+        {
+            "key": "QE_EV_SB_EXP_DAR",
+            "value": "[Ombre] Quête des magilithes violettes"
+        },
+        {
+            "key": "QE_EV_ARENA_01_1",
+            "value": "Entraînement dans l'Arène (Débutant)"
+        },
+        {
+            "key": "QE_EV_ARENA_01_2",
+            "value": "Entraînement dans l'Arène (Intermédiaire)"
+        },
+        {
+            "key": "QE_EV_ARENA_01_3",
+            "value": "Entraînement dans l'Arène (Avancé)"
+        },
+        {
             "key": "QE_EV_VKTR_01",
             "value": "Quête difficile limitée (Viktora)"
         },
@@ -1725,52 +1953,12 @@
             "value": "Quête EX des fragments d'unité de Saliah II [Très difficile]"
         },
         {
-            "key": "QE_MU_EV_TH_EX1",
-            "value": "Quête EX des fragments d'unité de Saliah I [Très difficile]"
-        },
-        {
-            "key": "QE_MU_EV_TH_EX2",
-            "value": "Quête EX des fragments d'unité de Saliah II [Très difficile]"
-        },
-        {
-            "key": "QE_MU_EV_02_EX1",
-            "value": "Rundall, menace à l'ouest [EX]"
-        },
-        {
             "key": "QE_SB_IGNT_02",
             "value": "Défi du Géant de fer [Très difficile]"
         },
         {
             "key": "QE_SB_IGNT_03",
             "value": "Défi du Géant de fer [Super difficile]"
-        },
-        {
-            "key": "QE_EV_JP_001",
-            "value": "Quête de PJ"
-        },
-        {
-            "key": "QE_EV_ART_SCR_01",
-            "value": "Quête du livre secret (épée, spathe, hache) [Très difficile]"
-        },
-        {
-            "key": "QE_EV_ART_SCR_02",
-            "value": "Quête du livre secret (lance, poings, fusil) [Très difficile]"
-        },
-        {
-            "key": "QE_EV_ART_SCR_03",
-            "value": "Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
-        },
-        {
-            "key": "QE_MU_EV_SCR_01",
-            "value": "Quête du livre secret (épée, spathe, hache) [Très difficile]"
-        },
-        {
-            "key": "QE_MU_EV_SCR_02",
-            "value": "Quête du livre secret (lance, poings, fusil) [Très difficile]"
-        },
-        {
-            "key": "QE_MU_EV_SCR_03",
-            "value": "Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
         },
         {
             "key": "QE_EV_ETRE_01",
@@ -1805,12 +1993,24 @@
             "value": "Quête d'entraînement EX d'Éthéa II [Très difficile]"
         },
         {
-            "key": "QE_MU_EV_ET_EX1",
-            "value": "Quête d'entraînement EX d'Éthéa I [Très difficile]"
+            "key": "QE_EV_JP_001",
+            "value": "Quête de PJ"
         },
         {
-            "key": "QE_MU_EV_ET_EX2",
-            "value": "Quête d'entraînement EX d'Éthéa II [Très difficile]"
+            "key": "QE_EV_ART_SCR_01",
+            "value": "Quête du livre secret (épée, spathe, hache) [Très difficile]"
+        },
+        {
+            "key": "QE_EV_ART_SCR_02",
+            "value": "Quête du livre secret (lance, poings, fusil) [Très difficile]"
+        },
+        {
+            "key": "QE_EV_ART_SCR_03",
+            "value": "Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
+        },
+        {
+            "key": "QE_EV_ART_SCR_04",
+            "value": "Quête du livre secret (bâton, katana, dague) [Très difficile]"
         },
         {
             "key": "QE_EV_ANV_19_10",
@@ -1833,16 +2033,60 @@
             "value": "Quête d'entraînement d'équipement [Super difficile]"
         },
         {
-            "key": "QE_MU_ART_CRF_04",
-            "value": "Quête d'entraînement d'équipement [Super difficile]"
-        },
-        {
             "key": "QE_EV_ART_CRF_05",
             "value": "Quête d'entraînement d'équipement (Lame Morphée)"
         },
         {
             "key": "QE_EV_ART_CRF_06",
             "value": "Quête d'entraînement d'équipement (Hache en or)"
+        },
+        {
+            "key": "QE_MU_CSLI_03",
+            "value": "Le défi du Chocoflan [Super difficile]"
+        },
+        {
+            "key": "QE_MU_IGNT_03",
+            "value": "Défi du Géant de fer [Super difficile]"
+        },
+        {
+            "key": "QE_MU_EV_SCR_01",
+            "value": "Quête du livre secret (épée, spathe, hache) [Très difficile]"
+        },
+        {
+            "key": "QE_MU_EV_SCR_02",
+            "value": "Quête du livre secret (lance, poings, fusil) [Très difficile]"
+        },
+        {
+            "key": "QE_MU_EV_SCR_03",
+            "value": "Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
+        },
+        {
+            "key": "QE_MU_EV_SCR_04",
+            "value": "Quête du livre secret (bâton, katana, dague) [Très difficile]"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX1",
+            "value": "Quête d'entraînement EX d'Éthéa I [Très difficile]"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX2",
+            "value": "Quête d'entraînement EX d'Éthéa II [Très difficile]"
+        },
+        {
+            "key": "QE_MU_EV_02_EX1",
+            "value": "Rundall, menace à l'ouest [EX]"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "Quête EX des fragments d'unité de Saliah I [Très difficile]"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "Quête EX des fragments d'unité de Saliah II [Très difficile]"
+        },
+        {
+            "key": "QE_MU_ART_CRF_04",
+            "value": "Quête d'entraînement d'équipement [Super difficile]"
         },
         {
             "key": "QE_MU_ART_CRF_05",
@@ -1915,10 +2159,6 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "Raid du Chocoflan"
-        },
-        {
-            "key": "QE_MU_IGNT_03",
-            "value": "Défi du Géant de fer [Super difficile]"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2131,6 +2371,10 @@
         {
             "key": "QE_GVG_00002",
             "value": "Arène"
+        },
+        {
+            "key": "QE_GVG_00003",
+            "value": "Ruines anciennes"
         },
         {
             "key": "QE_PVP_FRE_0001",

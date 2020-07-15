@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Fähigkeiten wollen festgelegt werden!"
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Ich zeige dir nun ein paar Kniffe für mehr Kampfkraft"
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "Wie wär‘s mit einer Gilde?"
         }
     ]
 }

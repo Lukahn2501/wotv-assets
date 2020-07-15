@@ -30,7 +30,7 @@
         },
         {
             "key": "ROD",
-            "value": "Rute"
+            "value": "Stab"
         },
         {
             "key": "NINJASWORD",
@@ -74,7 +74,7 @@
         },
         {
             "key": "HAND",
-            "value": "Nahkampf"
+            "value": "Fäuste"
         },
         {
             "key": "SHIELD",

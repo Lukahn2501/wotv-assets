@@ -299,6 +299,22 @@
         {
             "key": "DEFAULT_PARTY_NAME",
             "value": "パーティー{0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
+            "value": "パーティーに空きがあります"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
+            "value": "パーティーに空きがあると期間限定ギルドバトルで不利になることがあります。このまま設定を終わりますか？"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
+            "value": "編成条件が未達成です"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
+            "value": "編成未達成のため、前回の編成データをクリアします。"
         }
     ]
 }

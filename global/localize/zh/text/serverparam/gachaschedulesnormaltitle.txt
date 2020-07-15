@@ -93,6 +93,42 @@
             "value": "稀有召喚"
         },
         {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "稀有召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "稀有召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "稀有召喚"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "上市紀念 期間限定 普通召喚"
         },
@@ -171,6 +207,38 @@
         {
             "key": "Normal_gacha_A_gl20200617_10",
             "value": "初夏紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "劇情第7章公開紀念 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "劇情第7章公開紀念 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "FF EXVIUS Universe 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "FF EXVIUS Universe 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "FF EXVIUS Universe 第2階段 限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "FF EXVIUS Universe 第2階段 限定普通召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "限定普通召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "限定普通召喚　10連召喚"
         }
     ]
 }

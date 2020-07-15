@@ -282,23 +282,23 @@
         },
         {
             "key": "gacha_unit_vc_gl20200603_b_10_1",
-            "value": "Stufenbeschwörung zur Feier des Versionsupdates – Stufe 1 von 5"
+            "value": "5-Stufenbeschwörung zur Feier des Versionsupdates – Stufe 1"
         },
         {
             "key": "gacha_unit_vc_gl20200603_b_10_2",
-            "value": "Stufenbeschwörung zur Feier des Versionsupdates – Stufe 2 von 5"
+            "value": "5-Stufenbeschwörung zur Feier des Versionsupdates – Stufe 2"
         },
         {
             "key": "gacha_unit_vc_gl20200603_b_10_3",
-            "value": "Stufenbeschwörung zur Feier des Versionsupdates – Stufe 3 von 5"
+            "value": "5-Stufenbeschwörung zur Feier des Versionsupdates – Stufe 3"
         },
         {
             "key": "gacha_unit_vc_gl20200603_b_10_4",
-            "value": "Stufenbeschwörung zur Feier des Versionsupdates – Stufe 4 von 5"
+            "value": "5-Stufenbeschwörung zur Feier des Versionsupdates – Stufe 4"
         },
         {
             "key": "gacha_unit_vc_gl20200603_b_10_5",
-            "value": "Stufenbeschwörung zur Feier des Versionsupdates – Stufe 5 von 5"
+            "value": "5-Stufenbeschwörung zur Feier des Versionsupdates – Stufe 5"
         },
         {
             "key": "gacha_unit_vc_gl20200603_b_10",
@@ -343,6 +343,286 @@
         {
             "key": "no_coin_gacha_gl20200617_10",
             "value": "Frühsommer: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_01",
+            "value": "MOBIUS FINAL FANTASY Visionskartenbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_10",
+            "value": "MOBIUS FINAL FANTASY Visionskartenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_01",
+            "value": "Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_10",
+            "value": "Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "no_coin_gacha_gl20200624_10",
+            "value": "„Kapitel 7 veröffentlicht!“ — Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "p_gacha_unit_gl20200624_10",
+            "value": "„Kapitel 7 veröffentlicht!“-Beschwörung (10-malig): [UR]-Einheit garantiert"
+        },
+        {
+            "key": "p_gacha_vc_gl20200624_10",
+            "value": "„Kapitel 7 veröffentlicht!“ — Beschwörung (10-malig): [UR]-Visionskarte garantiert"
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200624_10",
+            "value": "„4. Jubiläum der FFBE-Serie“ — „[UR] x4 garantiert“-Beschwörung (10-malig)"
+        },
+        {
+            "key": "beginner_gacha_10_20200624",
+            "value": "Kostenlose Beschwörung (10-malig): [UR]-Einheit garantiert"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_1",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_1",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_1",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_1",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_2",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_2",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_2",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_2",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_3",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_3",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_3",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_3",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_4",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_4",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_4",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_4",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_5",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_5",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_5",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_5",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_6",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_6",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_6",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_6",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_7",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_7",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_7",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_7",
+            "value": "„Kapitel 7 veröffentlicht!“-Stufenbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step1",
+            "value": "„Kapitel 7 veröffentlicht!“: 5-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step2",
+            "value": "„Kapitel 7 veröffentlicht!“: 5-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step3",
+            "value": "„Kapitel 7 veröffentlicht!“: 5-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step4",
+            "value": "„Kapitel 7 veröffentlicht!“: 5-Stufenbeschwörung (10-malig) – Stufe 4"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step5",
+            "value": "„Kapitel 7 veröffentlicht!“: 5-Stufenbeschwörung (10-malig) – Stufe 5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200701_10",
+            "value": "„100. Tag der globalen Version“: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step3",
+            "value": "Stufenbeschwörung (10-malig): [UR]-FFBE-Einheit garantiert – Stufe 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step2",
+            "value": "Stufenbeschwörung (10-malig): [UR]-FFBE-Einheit garantiert – Stufe 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step1",
+            "value": "Stufenbeschwörung (10-malig): [UR]-FFBE-Einheit garantiert – Stufe 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_base",
+            "value": ""
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_1",
+            "value": "Blickpunktbeschwörung zur Feier der Porzellanturm-Eröffnung I"
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_10",
+            "value": "Blickpunktbeschwörung zur Feier der Porzellanturm-Eröffnung I (10-malig)"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_1",
+            "value": "Blickpunktbeschwörung zur Feier der Porzellanturm-Eröffnung II"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_10",
+            "value": "Blickpunktbeschwörung zur Feier der Porzellanturm-Eröffnung II (10-malig)"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_1",
+            "value": "Blickpunktbeschwörung zur Feier der Porzellanturm-Eröffnung III"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_10",
+            "value": "Blickpunktbeschwörung zur Feier der Porzellanturm-Eröffnung III (10-malig)"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_1",
+            "value": "Blickpunktbeschwörung zur Feier der Porzellanturm-Eröffnung IV"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_10",
+            "value": "Blickpunktbeschwörung zur Feier der Porzellanturm-Eröffnung IV (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_01",
+            "value": "„FF EXVIUS Universe“: Kollabo-Beschwörung „Fryevia“"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10",
+            "value": "„FF EXVIUS Universe“: Kollabo-Beschwörung „Fryevia“ (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_01",
+            "value": "„FF EXVIUS Universe“: Kollabo-Beschwörung „Rain“"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_10",
+            "value": "„FF EXVIUS Universe“: Kollabo-Beschwörung „Rain“ (10-malig)"
+        },
+        {
+            "key": "p_gacha_unit_gl20200701_10",
+            "value": "„FF EXVIUS Universe“-Beschwörung (10-malig): [UR]-Einheit garantiert"
+        },
+        {
+            "key": "p_gacha_vc_gl20200701_10",
+            "value": "„FF EXVIUS Universe“-Beschwörung (10-malig): [UR]-Visionskarte garantiert  "
+        },
+        {
+            "key": "no_coin_gacha_gl20200708_10",
+            "value": "FF EXVIUS Universe: Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_01",
+            "value": "Blickpunktbeschwörung zur Feier der Porzellanturm-Eröffnung Teil II"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_10",
+            "value": "Blickpunktbeschwörung zur Feier der Porzellanturm-Eröffnung Teil II (10-malig)"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_01",
+            "value": "Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_10",
+            "value": "Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "p_gacha_unit_gl20200715_10",
+            "value": "„[UR]-Einheit garantiert“-Beschwörung (10-malig)"
         },
         {
             "key": "global_pickup_sterne_20200325_01",

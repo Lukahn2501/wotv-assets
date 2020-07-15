@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Lege eine Fähigkeit fest."
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Tausche einen Unterjob aus."
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "Tritt einer Gilde bei."
         }
     ]
 }

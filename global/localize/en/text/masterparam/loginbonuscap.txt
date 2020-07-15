@@ -25,6 +25,10 @@
             "value": "June Login Bonus"
         },
         {
+            "key": "LB_202007",
+            "value": "July Login Bonus"
+        },
+        {
             "key": "LB_LIMIT_GL_0001",
             "value": "Release Commemoration"
         },
@@ -79,6 +83,26 @@
         {
             "key": "LB_LIMIT_GL0009",
             "value": "Early Summer Login Bonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0010",
+            "value": "MOBIUS FINAL FANTASY Collaboration Login Bonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0011",
+            "value": "FF EXVIUS Universe Login Bonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0012",
+            "value": "FF EXVIUS Universe Login Bonus Part II"
+        },
+        {
+            "key": "LB_LIMIT_GL0013",
+            "value": "Guild Support Campaign Login Bonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0014",
+            "value": "FF EXVIUS Universe Milestone Login Bonus"
         }
     ]
 }

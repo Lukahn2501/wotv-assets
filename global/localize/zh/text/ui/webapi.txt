@@ -1411,6 +1411,38 @@
         {
             "key": "SNS_LIMIT_REACHED",
             "value": "社群已達上限"
+        },
+        {
+            "key": "APP_ERROR_5201",
+            "value": "不存在的號碼。"
+        },
+        {
+            "key": "APP_ERROR_5202",
+            "value": "非活動期間內。"
+        },
+        {
+            "key": "APP_ERROR_5203",
+            "value": "超過活動可收取的次數上限。"
+        },
+        {
+            "key": "APP_ERROR_5204",
+            "value": "已使用過的序號。"
+        },
+        {
+            "key": "APP_ERROR_5205",
+            "value": "非有效平台。"
+        },
+        {
+            "key": "APP_ERROR_5300",
+            "value": "對方的隊伍不正確。"
+        },
+        {
+            "key": "APP_ERROR_5301",
+            "value": "行動次數不足。"
+        },
+        {
+            "key": "APP_ERROR_5302",
+            "value": "隊伍變更。請於更新後再試一次。"
         }
     ]
 }

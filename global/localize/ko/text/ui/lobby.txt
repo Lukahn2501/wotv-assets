@@ -58,7 +58,7 @@
         },
         {
             "key": "QLN_RAID_1",
-            "value": "초코 푸딩에게 도전하세요!"
+            "value": "데스 머신에게 도전하라!"
         },
         {
             "key": "QLN_RAID_2",
@@ -67,6 +67,10 @@
         {
             "key": "QLN_TOWER_1",
             "value": "이벤트 준비 중!"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "지금 '진홍의 군도'를 획득하세요!"
         },
         {
             "key": "QLN_SUMMON_1",
@@ -87,6 +91,10 @@
         {
             "key": "CHALLENGE_OPEN_DESC",
             "value": "도전 기간 종료"
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "이프리트에게 도전하라!"
         }
     ]
 }

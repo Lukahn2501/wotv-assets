@@ -106,11 +106,15 @@
         },
         {
             "key": "SupportUnit",
-            "value": "Change"
+            "value": "Companion Settings"
         },
         {
             "key": "ItemExchange",
             "value": "Exchange Shop"
+        },
+        {
+            "key": "Tower",
+            "value": "Tower"
         }
     ]
 }

@@ -58,7 +58,7 @@
         },
         {
             "key": "QLN_RAID_1",
-            "value": "チョコプリンに挑め！"
+            "value": "デスマシーンに挑め！"
         },
         {
             "key": "QLN_RAID_2",
@@ -67,6 +67,10 @@
         {
             "key": "QLN_TOWER_1",
             "value": "イベント準備中！"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "クリムゾンセイバー今GETしよう！"
         },
         {
             "key": "QLN_SUMMON_1",
@@ -87,6 +91,10 @@
         {
             "key": "CHALLENGE_OPEN_DESC",
             "value": "挑戦期間終了"
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "イフリートに挑め！"
         }
     ]
 }

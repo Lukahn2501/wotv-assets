@@ -574,7 +574,7 @@
         },
         {
             "key": "PRESENT_MENU_LIMITED",
-            "value": "Limitados"
+            "value": "Limitado"
         },
         {
             "key": "PRESENT_MENU_HISTORY",
@@ -1522,7 +1522,7 @@
         },
         {
             "key": "NETHERBEAST_EQUIP_CONFIRM",
-            "value": "Otra unidad del grupo ya ha equipado esto. ¿Continuar?<br>(Se le quitará a la otra unidad.)"
+            "value": "Ya está equipado en otra unidad.<br>¿Continuar?<br>(Se le quitará a la otra unidad)."
         },
         {
             "key": "NETHERBEAST_LEVELUP_CHECK_TITLE",
@@ -4646,7 +4646,7 @@
         },
         {
             "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
-            "value": "*La primera vez que obtienes al esper es gratis."
+            "value": "*La primera vez obtendrás al esper de forma gratuita."
         },
         {
             "key": "GACHA_PIECE_NAME",
@@ -5338,7 +5338,7 @@
         },
         {
             "key": "LOGIN_BONUS_NOW",
-            "value": "Día {0}. Vuestro regalo hoy es: {1}."
+            "value": "Día {0}. Regalo de hoy: {1}."
         },
         {
             "key": "LOGIN_BONUS_TOTLA_NOW",
@@ -5346,7 +5346,7 @@
         },
         {
             "key": "LOGIN_BONUS_NEXT",
-            "value": "Vuestro siguiente regalo será: {0}."
+            "value": "Siguiente regalo: {0}."
         },
         {
             "key": "LOGIN_BONUS_LAST",
@@ -5554,7 +5554,7 @@
         },
         {
             "key": "VISION_EQUIP_CONFIRM",
-            "value": "Otra unidad del grupo ya ha equipado esto. ¿Continuar?<br>(Se le quitará a la otra unidad.)"
+            "value": "Ya está equipado en otra unidad.<br>¿Continuar?<br>(Se le quitará a la otra unidad)."
         },
         {
             "key": "PVP_ARENA_BTN_TOP",
@@ -6246,7 +6246,7 @@
         },
         {
             "key": "GUILD_BEGINNER_PERIOD_FORMAT",
-            "value": "DD/MM/AAAA hh:mm - "
+            "value": "Del dd/MM HH:mm"
         },
         {
             "key": "GUILD_FORM_INPUT_TITLE",
@@ -6354,7 +6354,7 @@
         },
         {
             "key": "GUILD_LEAGUE_DURATION_PRE",
-            "value": "El combate comienza en"
+            "value": "Tiempo de preparación restante:"
         },
         {
             "key": "GUILD_LEAGUE_DURATION_END",
@@ -7154,7 +7154,7 @@
         },
         {
             "key": "GUILD_STATUE_EFF_BARRACKJP",
-            "value": "Adquisición PdP en barracones"
+            "value": "Nv. adquisición PdP en los barracones"
         },
         {
             "key": "GUILD_STATUE_EFF_MAXSUBLEADER",
@@ -7386,7 +7386,7 @@
         },
         {
             "key": "GUILD_BATTLE_NOATTACK_DIALOG_DESC",
-            "value": "Has alcanzado el n.º de veces que puedes atacar en este combate de gremio."
+            "value": "Límite de veces que puedes atacar alcanzado<br>para este combate de gremio."
         },
         {
             "key": "GUILD_BATTLE_PLAYER_DETAIL_ABILITY",
@@ -7430,7 +7430,7 @@
         },
         {
             "key": "GUILD_BATTLE_END_TROPHY_OFFENSE",
-            "value": "Ataque"
+            "value": "Atacar"
         },
         {
             "key": "GUILD_BATTLE_END_TROPHY_DIFFENSE",
@@ -7482,7 +7482,7 @@
         },
         {
             "key": "GUILD_BATTLE_LOG_TITLE_OFFENSE",
-            "value": "Ataque"
+            "value": "Atacar"
         },
         {
             "key": "GUILD_BATTLE_LOG_TITLE_DIFFENSE",
@@ -7598,7 +7598,7 @@
         },
         {
             "key": "STATUE_EFF_STR6",
-            "value": "Adquisición de barracones PdP"
+            "value": "Nv. adquisición PdP en los barracones"
         },
         {
             "key": "STATUE_EFF_STR7",
@@ -7658,7 +7658,7 @@
         },
         {
             "key": "GM_CONTINUATION_PACK_REWARD",
-            "value": "Recompensas lote continuar"
+            "value": "Recompensas del lote de visiores 30 días"
         },
         {
             "key": "GM_GACHA_GIFT",
@@ -7790,11 +7790,11 @@
         },
         {
             "key": "TOWER_CHALLENGE",
-            "value": "Desafío"
+            "value": "Ir"
         },
         {
             "key": "TOWER_QUEST_RECOMMEND_LEVEL",
-            "value": "Nv. {0}/Profesión nv. {1} o superior recomendada"
+            "value": "Nv. {0}; nv. de profesión {1} o superior recomendado"
         },
         {
             "key": "TOWER_BTN_RETRY",
@@ -7834,11 +7834,11 @@
         },
         {
             "key": "TOWER_DETAIL_RANKING_TITLE_SPEED",
-            "value": "Conseguiste el 1er lugar en la clasificación por velocidad en esta planta."
+            "value": "1.er lugar en la clasificación por velocidad en esta planta"
         },
         {
             "key": "TOWER_DETAIL_RANKING_TITLE_TECHNICAL",
-            "value": "Conseguiste el 1er lugar en la clasificación por técnica en esta planta."
+            "value": "1.er lugar en la clasificación por técnica en esta planta"
         },
         {
             "key": "TOWER_DETAIL_RELIEF_SPEED",
@@ -7858,7 +7858,7 @@
         },
         {
             "key": "TOWER_RETRY_CAUTION",
-            "value": "<line-hegiht=33>*Las recompensas por completar cada planta después del reinicio pueden ser diferentes a la primera vez.<br><line-height=12><br><line-height=33>*Cualquier misión EX que no se haya completado durante el primer intento pueden reintentarse en el siguiente periodo de evento."
+            "value": "<line-height=33>*Al completar la primera vuelta y reiniciar, las recompensas de cada planta cambian.<br><line-height=12><br><line-height=33>*Ten en cuenta que tras el reinicio no podrás obtener las recompensas de misiones EX que no hayas completado en la primera vuelta."
         },
         {
             "key": "TOWER_RETRY_BTN_RETRY",
@@ -8065,8 +8065,272 @@
             "value": "Lote de visiores 30 días"
         },
         {
+            "key": "GL_GM_CONTINUATION_PACK_REWARD_DAYS_REMAINING",
+            "value": "Recompensas del lote de visiores 30 días: queda(n) ${days_remaining} día(s)"
+        },
+        {
             "key": "ARTI_STATUS_MAX",
             "value": "Atributos<br>MÁX."
+        },
+        {
+            "key": "GL_BUY_LAPIS_ALREADY_OWNED_DESC",
+            "value": "Transacción en curso.<br>Espera un poco y vuelve más tarde."
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
+            "value": "Combatiendo"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
+            "value": "<line-height=20>¡Combate de gremio<br><size=15>limitado en curso!"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
+            "value": "Emparejando"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
+            "value": "Comenzar la batalla"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
+            "value": "Calculando..."
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
+            "value": "Preparando el siguiente combate"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
+            "value": "Del dd/MM HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
+            "value": "Hasta el dd/MM HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
+            "value": "Hasta el dd/MM HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
+            "value": "Resultados"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_TITLE",
+            "value": "Modo de ahorro de energía"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_DESC",
+            "value": "<line-height=33>Si no hay actividad durante un periodo de tiempo determinado,<br>se cambiará automáticamente al modo ahorro de batería."
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_OFF",
+            "value": "NO"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_SECOND",
+            "value": "30 seg"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_MINUTE",
+            "value": "1 min"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
+            "value": "3 min"
+        },
+        {
+            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
+            "value": "¡Oponente establecido!"
+        },
+        {
+            "key": "GUILD_LIMITED_TITLE",
+            "value": "Combate de gremio limitado"
+        },
+        {
+            "key": "GUILD_LIMITED_POINT",
+            "value": "Puntos de combate"
+        },
+        {
+            "key": "GUILD_LIMITED_PERIOD",
+            "value": "Duración:"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END",
+            "value": "Resultados:"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END_FMT",
+            "value": "Hasta el dd/MM HH:mm"
+        },
+        {
+            "key": "GUILD_RANKING_TAB_LIMITED",
+            "value": "Limitado"
+        },
+        {
+            "key": "GUILD_RANKING_LIMITED_POINTS",
+            "value": "Puntos de combate"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL",
+            "value": "Detalles de evento"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_ABSTENTION",
+            "value": "<line-height=32>No se puede entrar<br>durante este periodo"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE",
+            "value": "Victoria por defecto"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE_DESC",
+            "value": "Victoria por defecto<br>al no haberse encontrado oponente."
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
+            "value": "No quedan acciones"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
+            "value": "Límite de acciones alcanzado<br>para este combate de gremio."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_DESC",
+            "value": "<line-height=32>No se ha podido entrar porque <br>no se cumplen los requisitos <br>de participación."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
+            "value": "Nivel de liga de gremio"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
+            "value": "{0} o más"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
+            "value": "Miembros del gremio"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
+            "value": "{0} miembros o más"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
+            "value": "Líder"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
+            "value": "Sin conexión desde hace {0} día(s)"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_POINT",
+            "value": "Puntos de combate:"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
+            "value": "({0}% ★ ganadas por defecto)"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
+            "value": "Apoyo"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
+            "value": "Se muestra el grupo de \\n para explorar de {0}"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
+            "value": "Se muestra el grupo de \\n para explorar de {0}"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
+            "value": "N.º de usos de habilidad del grupo de \\n restaurado en {0}"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
+            "value": "N.º de usos de habilidad del grupo de \\n restaurado desde {0}"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
+            "value": "N.º de usos de habilidad del grupo de \\n restaurado en {0}"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
+            "value": "N.º de usos de habilidad del grupo de \\n restaurado en {0}"
+        },
+        {
+            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
+            "value": "Grupos de defensa establecidos:"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
+            "value": "Atacar"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
+            "value": "Apoyo"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_TITLE",
+            "value": "Apoyo"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE",
+            "value": "Usar"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
+            "value": "{0}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
+            "value": "<color=#F0C040>{0}</color> de<br><color=#F0C040>{1}</color> de<br>{2}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
+            "value": "Has recibido las recompensas de acción."
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
+            "value": "Selecciona un grupo rival para atacarlo"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
+            "value": "Selecciona un grupo de apoyo"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
+            "value": "Detalles de {0}"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
+            "value": "Recompensa por participar en ${entry_count} batallas durante el combate de gremio limitado que empezó el ${period}"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
+            "value": "Recompensa por el combate de gremio limitado que empezó el ${period}"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
+            "value": "Recompensa por quedar en el puesto ${entry_count} durante el combate de gremio limitado que empezó el ${period}"
+        },
+        {
+            "key": "QRCODE_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_MESSAGE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_ERROR_TITLE",
+            "value": "Error"
+        },
+        {
+            "key": "QRCODE_ERROR_MESSAGE",
+            "value": "Plataforma no válida."
         },
         {
             "key": "SERVER_Normal_gacha_A_NAME",

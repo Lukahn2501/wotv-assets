@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Réceptionniste de l'académie"
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Aventurier expérimenté"
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "Employé des services de la guilde"
         }
     ]
 }

@@ -343,6 +343,38 @@
         {
             "key": "wotvffbeww.realmoney.exhaustion.starter.004",
             "value": "Lote de inicio I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "FF EX Univ - Lote visiores I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "FF EX Univ - Lote visiores II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "FF EX Univ - Lote visiores III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "FF EX Univ - Lote visiores IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "FF EX Univ - Lote visiores V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "FF EX Univ - Lote visiores VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "Lote diario de frenesí de FFI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "Lote de frenesí de FFI"
         }
     ]
 }

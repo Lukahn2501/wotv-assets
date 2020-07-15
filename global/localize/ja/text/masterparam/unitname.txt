@@ -237,6 +237,26 @@
             "value": "サリア"
         },
         {
+            "key": "UN_LW_P_RAIN",
+            "value": "レイン"
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "フレイヴィア"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "ヴィネラ・フェネス"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "ダリオ・ホルン"
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "ティレル"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "モント・リオニス"
         },
@@ -285,12 +305,24 @@
             "value": "ガーガス"
         },
         {
+            "key": "UN_LW_E_OOOO",
+            "value": "オー"
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": "ロレンツォ"
+        },
+        {
             "key": "UN_LW_E_RIRY",
             "value": "ライリュウ"
         },
         {
             "key": "UN_LW_E_VSTR",
             "value": "ヴィストラール"
+        },
+        {
+            "key": "UN_LW_E_CLEY",
+            "value": "クーリ・ウェズエット"
         },
         {
             "key": "UN_LW_E_YERM",
@@ -359,6 +391,46 @@
         {
             "key": "UN_LW_E_KTON",
             "value": "キトン"
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": "メディエナ"
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": "ロブ・ホルン"
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": "ヴァジム"
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": "レイン"
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": "ティレル"
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": "アイリーン"
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": "ヴィネラ・フェネス"
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": "ディアー"
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": "オルドア"
+        },
+        {
+            "key": "UN_LW_E_DRZA",
+            "value": "ドルーザ"
         },
         {
             "key": "UN_LW_E_RU_01_THI",
@@ -709,6 +781,10 @@
             "value": "シノビ"
         },
         {
+            "key": "UN_LW_E_02_NIN",
+            "value": "フェネスのシノビ"
+        },
+        {
             "key": "UN_LW_E_SO_04",
             "value": "ランダル兵"
         },
@@ -733,6 +809,18 @@
             "value": "シノビ（女）"
         },
         {
+            "key": "UN_LW_E_PR_01",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": "僧兵"
+        },
+        {
             "key": "UN_LW_E_PR_01_HUN",
             "value": "僧兵"
         },
@@ -745,7 +833,35 @@
             "value": "僧兵"
         },
         {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": "僧兵"
+        },
+        {
             "key": "UN_LW_E_PR_02_MNK",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
             "value": "僧兵"
         },
         {
@@ -757,7 +873,15 @@
             "value": "僧兵"
         },
         {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": "僧兵"
+        },
+        {
             "key": "UN_LW_E_PR_01_RDM",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
             "value": "僧兵"
         },
         {
@@ -771,6 +895,62 @@
         {
             "key": "UN_LW_E_PR_02_TIM",
             "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": "≪紅蓮≫兵"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
+            "value": "≪紅蓮≫兵"
         },
         {
             "key": "UN_LW_E_OGRE",
@@ -945,6 +1125,10 @@
             "value": "ガフガリオン"
         },
         {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": "鉄巨人"
+        },
+        {
             "key": "UN_LW_E_IGNT",
             "value": "鉄巨人"
         },
@@ -1093,12 +1277,56 @@
             "value": "オチュー"
         },
         {
+            "key": "UN_LW_E_ENBT",
+            "value": "エンゲルベルト"
+        },
+        {
             "key": "UN_LW_E_YERM_2",
             "value": "イェルマ"
         },
         {
             "key": "UN_LW_E_OCHU_QE",
             "value": "オチュー"
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": "ギルガメッシュ"
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": "イェルマ"
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": "フェデリカ"
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": "メディエナ"
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": "モント・リオニス"
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": "ミランダ"
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": "ル・シア"
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": "エンゲルベルト"
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": "オルランドゥ"
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "ラムザ"
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1547,6 +1775,10 @@
         {
             "key": "UN_GM_PLACED_BASH",
             "value": "馬車"
+        },
+        {
+            "key": "UN_GM_MGSW_01",
+            "value": "魔法陣（モンスター全滅）"
         }
     ]
 }

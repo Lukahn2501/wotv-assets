@@ -1,116 +1,120 @@
 {
     "infos": [
         {
-            "key": "Battle1",
-            "value": ""
-        },
-        {
-            "key": "Battle2",
-            "value": ""
-        },
-        {
-            "key": "Gacha",
-            "value": ""
-        },
-        {
-            "key": "Quest",
-            "value": ""
-        },
-        {
-            "key": "ChallengeMission",
-            "value": ""
-        },
-        {
-            "key": "UnitStrength",
-            "value": ""
-        },
-        {
-            "key": "UnitAwake",
-            "value": "Tutorial „Einheit – Erweckung“ ansehen."
-        },
-        {
-            "key": "ArtifactCraft",
-            "value": "Tutorial „Ausrüstung – Herstellung“ ansehen."
+            "key": "HardQuest",
+            "value": "Tutorial „Schwierige Aufträge“ ansehen."
         },
         {
             "key": "EventQuest",
             "value": "Tutorial „Eventauftrag“ ansehen."
         },
         {
-            "key": "VisionCard",
-            "value": "Tutorial „Visionskarte“ ansehen."
-        },
-        {
-            "key": "ExplorationChocobo",
-            "value": "Tutorial „Chocobo-Expedition“ ansehen."
-        },
-        {
-            "key": "Party",
-            "value": "Tutorial „Aufstellung“ ansehen."
-        },
-        {
             "key": "MultiQuest",
             "value": "Tutorial „Multiauftrag“ ansehen."
+        },
+        {
+            "key": "NBeastQuest",
+            "value": "Tutorial „Höhle des Ungetüms“ ansehen."
+        },
+        {
+            "key": "Tower",
+            "value": "Tutorial „Turm“ ansehen."
         },
         {
             "key": "Arena",
             "value": "Tutorial „Arena“ ansehen."
         },
         {
-            "key": "FreeMatch",
-            "value": ""
+            "key": "Party",
+            "value": "Tutorial „Aufstellung“ ansehen."
         },
         {
-            "key": "GuildJoin",
-            "value": ""
+            "key": "Unit",
+            "value": "Tutorial „Einheit“ ansehen."
         },
         {
-            "key": "GuildAttendance",
-            "value": ""
+            "key": "UnitJobStrength",
+            "value": "Tutorial „Einheit – Jobverbesserung“ ansehen."
         },
         {
-            "key": "GuildBarracks",
-            "value": ""
+            "key": "UnitAbilitybord",
+            "value": "Tutorial „Einheit – Fähigkeitenbrett“ ansehen."
         },
         {
-            "key": "GuildStone",
-            "value": ""
+            "key": "UnitAbilityStrength",
+            "value": "Tutorial „Einheit – Fähigkeitenverbesserung“ ansehen."
         },
         {
-            "key": "UnitIntimacy",
-            "value": ""
+            "key": "UnitAwake",
+            "value": "Tutorial „Einheit – Erweckung“ ansehen."
         },
         {
-            "key": "SubQuest",
-            "value": ""
+            "key": "UnitRank",
+            "value": "Tutorial „Einheit – Limitbruch“ ansehen."
         },
         {
-            "key": "Unitsubjob",
-            "value": ""
+            "key": "UnitSubJob",
+            "value": "Tutorial „Einheit – Unterjobs“ ansehen."
         },
         {
-            "key": "HardQuest",
-            "value": "Tutorial „Schwierige Aufträge“ ansehen."
+            "key": "UnitAbilitySet",
+            "value": "Tutorial „Einheit – Fähigkeitensatz“ ansehen."
         },
         {
-            "key": "NetherBeast",
-            "value": "Tutorial „Esper“ ansehen."
+            "key": "UnitStrengthLB",
+            "value": "Tutorial „Einheit – Limitrausch-Verbesserung“ ansehen."
         },
         {
-            "key": "CharaQuest",
-            "value": ""
+            "key": "UnitTraining",
+            "value": "Tutorial „Einheit – Ausbildung“ ansehen."
         },
         {
-            "key": "GuildBattle",
-            "value": ""
+            "key": "UnitArtifactFav",
+            "value": "Tutorial „Einheit – Bevorzugte Ausrüstung“ ansehen."
+        },
+        {
+            "key": "ExplorationChocobo",
+            "value": "Tutorial „Chocobo-Expedition“ ansehen."
+        },
+        {
+            "key": "Mission",
+            "value": "Tutorial „Mission“ ansehen."
+        },
+        {
+            "key": "Artifact",
+            "value": "Tutorial „Ausrüstung“ ansehen."
+        },
+        {
+            "key": "ArtifactCraft",
+            "value": "Tutorial „Ausrüstung – Herstellung“ ansehen."
+        },
+        {
+            "key": "ArtifactAwake",
+            "value": "Tutorial „Ausrüstung – Erweckung“ ansehen."
         },
         {
             "key": "SupportUnit",
             "value": "Tutorial „Aufstellung – Begleiter“ ansehen."
         },
         {
-            "key": "ItemExchange",
-            "value": ""
+            "key": "VisionCard",
+            "value": "Tutorial „Visionskarte“ ansehen."
+        },
+        {
+            "key": "NetherBeast",
+            "value": "Tutorial „Esper“ ansehen."
+        },
+        {
+            "key": "Guild",
+            "value": "Tutorial „Gilde“ ansehen."
+        },
+        {
+            "key": "Match",
+            "value": "Tutorial „Kostenloses Match/Freundschaftsmatch“ ansehen."
+        },
+        {
+            "key": "ClassMatch",
+            "value": "Tutorial „Klassenmatch“ ansehen."
         }
     ]
 }

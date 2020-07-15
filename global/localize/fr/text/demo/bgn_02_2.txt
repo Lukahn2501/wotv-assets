@@ -50,7 +50,7 @@
         },
         {
             "key": "010",
-            "value": "Souvenez vous, les compétences de soutien utilisent des PT, tandis que les compétences d'attaque utilisent des PA. Mieux vous comprendrez leurs fonctionnements respectif, plus vous brillerez au combat."
+            "value": "Souvenez vous, les compétences de soutien utilisent des PT, tandis que les compétences d'attaque utilisent des PA. Mieux vous comprendrez leurs fonctionnements respectifs, plus vous brillerez au combat."
         }
     ]
 }

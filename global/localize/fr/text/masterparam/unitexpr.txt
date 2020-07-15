@@ -158,7 +158,7 @@
         },
         {
             "key": "UN_LW_P_GLMS",
-            "value": "Un être fort énigmatique dont les ailes d'acier auraient, selon la légende, le pouvoir de transcender non seulement l'espace, mais aussi le temps. Gilgamesh a confié au royaume de Leonis le rôle de « Gardien » et s'efforce de convaincre les suzerains de chaque pays de se préparer à « l'Heure du jugement », qu'il qualifie d'imminente."
+            "value": "Un être fort énigmatique dont les ailes d'acier auraient, selon la légende, le pouvoir de transcender non seulement l'espace, mais aussi le temps. Gilgamesh a confié au royaume de Leonis le rôle de « Gardien » et s'efforce de convaincre les suzerains de chaque pays de se préparer à « l'Heure du jugement », qu'il qualifie d'imminente."
         },
         {
             "key": "UN_FF14_P_YSTL",
@@ -237,6 +237,26 @@
             "value": "Une mage noire de « Nitor », la seconde division de Hourne. Saliah est la sœur cadette d'Adelard, et a la fâcheuse tendance de s'adresser au roi Rob sur un ton débordant d'irrévérence. Elle aime tendrement son frère et perçoit quiconque tente de se rapprocher de lui comme une menace, au point d'être devenue mage noire pour le protéger."
         },
         {
+            "key": "UN_LW_P_RAIN",
+            "value": "Un chevalier du royaume de Grandshelt. Pilote prodige passé aux commandes d'un vaisseau dès l'âge de dix-huit ans, il garde une attitude insouciante ; certains diraient même nonchalante. Il a la confiance totale du roi et de tout son peuple, ce qu'il doit en grande partie à la réputation de son père comme fidèle chevalier du royaume."
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "Une Magilame originaire d'un autre continent. Dissimulant son héritage elfique, elle est à la recherche d'un équipement à la hauteur des nombreuses aptitudes qu'elle maîtrise. Elle a découvert que rien ne la ravissait plus que de croiser le fer avec un adversaire, si bien qu'elle espère à présent pouvoir se mesurer aux guerriers du monde entier."
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "Une assassine de Fennes qui fut enlevée dès l'enfance par Muraga, puis instruite toute sa vie dans l'art de l'assassinat. Par un dessein de Sadali, Vinera fut envoyée en Hourne, où elle se fit passer pour la fille du roi Muraga dans le but de supprimer Dario, le prince hournois."
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "Le prince de Hourne et le frère aîné de Machalie. Bien que magilame exceptionnellement doué, l'idée de combattre lui répugne encore plus qu'il hait son père, et il n'a aucune intention d'hériter du trône. Avant le départ de Machalie pour son propre mariage, Dario accepte de prendre pour épouse Vinera, la fille du roi de Fennes."
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "Un chevalier formé dans le Repaire du serpent, le centre d'entraînement des shinobis de Fennes. Il fut envoyé pour escorter Vinera jusqu'à Hourne, où celle-ci devait épouser le prince Dario avant de l'assassiner. Au début, ses sentiments pour Vinera le firent haïr le prince, mais..."
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": ""
         },
@@ -285,11 +305,23 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_OOOO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_RIRY",
             "value": ""
         },
         {
             "key": "UN_LW_E_VSTR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CLEY",
             "value": ""
         },
         {
@@ -358,6 +390,46 @@
         },
         {
             "key": "UN_LW_E_KTON",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DRZA",
             "value": ""
         },
         {
@@ -709,6 +781,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_02_NIN",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_SO_04",
             "value": "Applique les caractéristiques du guerrier N"
         },
@@ -733,6 +809,18 @@
             "value": "Applique les caractéristiques du ninja N"
         },
         {
+            "key": "UN_LW_E_PR_01",
+            "value": "Moine R basique"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "Mage noir R basique"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_PR_01_HUN",
             "value": ""
         },
@@ -745,7 +833,35 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_PR_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
             "value": ""
         },
         {
@@ -757,7 +873,15 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_PR_01_RDM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
             "value": ""
         },
         {
@@ -770,6 +894,62 @@
         },
         {
             "key": "UN_LW_E_PR_02_TIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
             "value": ""
         },
         {
@@ -945,6 +1125,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_IGNT",
             "value": "Applique les caractéristiques du paladin SR"
         },
@@ -1093,12 +1277,56 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_ENBT",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_YERM_2",
             "value": ""
         },
         {
             "key": "UN_LW_E_OCHU_QE",
             "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "Le troisième fils de la grande Maison militaire de Béoulve. Il apparaît dans la légende des Pierres du Zodiaque, un mythe que racontent depuis toujours les habitants du royaume lointain d'Ivalice. Il est devenu chevalier après un dur entraînement à l'Académie royale, mais il est le cadet d'une fratrie de Généraux déjà reconnus et nés d'une autre mère, ce qui n'a cessé de nourrir ses complexes."
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1546,6 +1774,10 @@
         },
         {
             "key": "UN_GM_PLACED_BASH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW_01",
             "value": ""
         }
     ]

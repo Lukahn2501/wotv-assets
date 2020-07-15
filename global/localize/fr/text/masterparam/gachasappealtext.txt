@@ -14,7 +14,7 @@
         },
         {
             "key": "4",
-            "value": "Collaboration FFT<br>Invoquez maintenant"
+            "value": "Invocation de la collaboration FFT<br>disponible !"
         },
         {
             "key": "5",
@@ -39,6 +39,18 @@
         {
             "key": "10",
             "value": "Nouvelles unités <br>et chimères !"
+        },
+        {
+            "key": "11",
+            "value": "Invocation du moment<br>disponible !"
+        },
+        {
+            "key": "12",
+            "value": "Nouveautés !<br>Disponibles dès maintenant !"
+        },
+        {
+            "key": "13",
+            "value": "Nouvelles unités<br>disponibles !"
         }
     ]
 }

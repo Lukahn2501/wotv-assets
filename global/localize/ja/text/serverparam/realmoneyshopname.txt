@@ -343,6 +343,38 @@
         {
             "key": "wotvffbeww.realmoney.exhaustion.starter.004",
             "value": "スターターパックⅠ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "FF EXVIUS幻導石パックI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "FF EXVIUS幻導石パックⅡ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "FF EXVIUS幻導石パックⅢ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "FF EXVIUS幻導石パックⅣ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "FF EXVIUS幻導石パックⅤ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "FF EXVIUS幻導石パックⅥ"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "FFI Daily Hype-Up Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "FFI Hype-UP Pack"
         }
     ]
 }

@@ -237,6 +237,26 @@
             "value": "Eine Schwarzmagierin, die Hournes 2. Division „Nitor“ angehört. Sie ist Adelards jüngere Schwester und hält ihre lose Zunge selbst im Gespräch mit König Robb nicht im Zaum. Sie liebt ihren Bruder sehr und sieht jeden, der ihm zu nahe kommt, als Bedrohung an. Ihn zu beschützen war auch der Grund, warum sie sich für den Pfad der Schwarzmagie entschied."
         },
         {
+            "key": "UN_LW_P_RAIN",
+            "value": "Ein Ritter des Königreichs Grandshelt. Obwohl dem fähigen Piloten bereits im Alter von 18 Jahren das Kommando über ein Luftschiff überlassen wurde, hat er sich sein unbekümmertes Naturell beibehalten. Er genießt das Vertrauen sowohl des Königs als auch des Volkes, was jedoch teilweise auf den tadellosen Ruf seines Vaters als Ritter des Königreiches zurückzuführen ist."
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "Eine Schwertmagierin, die von einem Kontinent jenseits Ardras stammt. Stets darauf bedacht, ihre elfische Herkunft geheim zu halten, befindet sie sich auf der Suche nach Ausrüstungsgegenständen, die ihr bei der Anwendung ihrer Fähigkeiten behilflich sind. Da es für sie keine größere Freude gibt, als mit jemandem die Klingen zu kreuzen, hofft sie nun darauf, dies mit Kämpfern aus allen Regionen der Welt tun zu können."
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "Eine Assassinin aus Fennes. Muraga entführte sie seinerzeit aus ihrem Dorf, um sie von Kindesbeinen an in der Kunst des Meuchelmordens zu unterweisen. Sadalis Plan folgend gab sie sich als Tochter Muragas aus und wurde nach Hourne entsandt, mit dem Auftrag, den dortigen Prinzen Dario zu ermorden."
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "Der Prinz Hournes und älterer Bruder Margerys. Obwohl er mit einer natürlichen Begabung für Schwertmagie auf die Welt kam, verabscheut er gewaltsame Konflikte sogar noch mehr als sein Vater. Er hegt auch keine Ambitionen, König Robb auf den Thron nachzufolgen. Bevor Margery ihre Reise nach Fennes antritt, um dort verheiratet zu werden, willigt Dario ein, Vinera, die Tochter von Fennes’ König Muraga, zu ehelichen."
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "Dieser Ritter durchlief seine Ausbildung in der „Schlangengrube“ genannten Trainingsstätte für Shinobi in Fennes. Er begleitete Vinera nach Hourne, wo diese den dortigen Prinzen Dario ehelichen und in Folge heimtückisch umbringen sollte. Anfangs verspürte er aufgrund seiner Gefühle für Vinera Hass auf Dario, doch ..."
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": ""
         },
@@ -285,11 +305,23 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_OOOO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_RIRY",
             "value": ""
         },
         {
             "key": "UN_LW_E_VSTR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CLEY",
             "value": ""
         },
         {
@@ -358,6 +390,46 @@
         },
         {
             "key": "UN_LW_E_KTON",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DRZA",
             "value": ""
         },
         {
@@ -709,6 +781,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_02_NIN",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_SO_04",
             "value": "Weise Werte zu, die denen eines Kriegers der Kategorie [N] entsprechen."
         },
@@ -733,6 +809,18 @@
             "value": "Weise Werte zu, die denen eines Ninjas der Kategorie [N] entsprechen."
         },
         {
+            "key": "UN_LW_E_PR_01",
+            "value": "Basis Mönch R"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "Basis Schwarzmagier R"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_PR_01_HUN",
             "value": ""
         },
@@ -745,7 +833,35 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_PR_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
             "value": ""
         },
         {
@@ -757,7 +873,15 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_PR_01_RDM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
             "value": ""
         },
         {
@@ -770,6 +894,62 @@
         },
         {
             "key": "UN_LW_E_PR_02_TIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
             "value": ""
         },
         {
@@ -945,6 +1125,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_IGNT",
             "value": "Weise Werte zu, die denen eines Paladins der Kategorie [SR] entsprechen."
         },
@@ -1093,12 +1277,56 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_ENBT",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_YERM_2",
             "value": ""
         },
         {
             "key": "UN_LW_E_OCHU_QE",
             "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "Der dritte Sohn der berühmten Militärfamilie Haus Beoulve. Er kommt in der Legende der Tierkreissteine vor, einer Geschichte, die in der Otherworld Ivalice erzählt wird. Nach langem Training schaffte er es zur Ritterwürde an der Königlichen Militärakademie. Da er jedoch eine andere Mutter hat als seine älteren Brüder, die bereits prominente Positionen im Orden erlangt haben, fühlt er sich in ihrer Gesellschaft noch immer etwas unterlegen."
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1546,6 +1774,10 @@
         },
         {
             "key": "UN_GM_PLACED_BASH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW_01",
             "value": ""
         }
     ]

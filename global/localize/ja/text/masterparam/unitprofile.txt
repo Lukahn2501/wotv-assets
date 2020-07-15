@@ -237,6 +237,26 @@
             "value": "天真たる黒魔道士"
         },
         {
+            "key": "UN_LW_P_RAIN",
+            "value": "燃えたつ心"
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "魔剣の令嬢"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "罪深き偽りの月"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "未来を憂う哲学者"
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "恋する小さき盾"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "エネミー/NPC"
         },
@@ -285,11 +305,23 @@
             "value": "エネミー/NPC"
         },
         {
+            "key": "UN_LW_E_OOOO",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": "エネミー/NPC"
+        },
+        {
             "key": "UN_LW_E_RIRY",
             "value": "エネミー/NPC"
         },
         {
             "key": "UN_LW_E_VSTR",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_CLEY",
             "value": "エネミー/NPC"
         },
         {
@@ -358,6 +390,46 @@
         },
         {
             "key": "UN_LW_E_KTON",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_DRZA",
             "value": "エネミー/NPC"
         },
         {
@@ -709,6 +781,10 @@
             "value": "エネミー/NPC"
         },
         {
+            "key": "UN_LW_E_02_NIN",
+            "value": "エネミー/NPC"
+        },
+        {
             "key": "UN_LW_E_SO_04",
             "value": "エネミー/NPC"
         },
@@ -733,6 +809,18 @@
             "value": "エネミー/NPC"
         },
         {
+            "key": "UN_LW_E_PR_01",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": "エネミー/NPC"
+        },
+        {
             "key": "UN_LW_E_PR_01_HUN",
             "value": "エネミー/NPC"
         },
@@ -745,7 +833,35 @@
             "value": "エネミー/NPC"
         },
         {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": "エネミー/NPC"
+        },
+        {
             "key": "UN_LW_E_PR_02_MNK",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
             "value": "エネミー/NPC"
         },
         {
@@ -757,7 +873,15 @@
             "value": "エネミー/NPC"
         },
         {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": "エネミー/NPC"
+        },
+        {
             "key": "UN_LW_E_PR_01_RDM",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
             "value": "エネミー/NPC"
         },
         {
@@ -770,6 +894,62 @@
         },
         {
             "key": "UN_LW_E_PR_02_TIM",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": "エネミー/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
             "value": "エネミー/NPC"
         },
         {
@@ -945,6 +1125,10 @@
             "value": "エネミー"
         },
         {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": "エネミー"
+        },
+        {
             "key": "UN_LW_E_IGNT",
             "value": "エネミー"
         },
@@ -1093,12 +1277,56 @@
             "value": "エネミー"
         },
         {
+            "key": "UN_LW_E_ENBT",
+            "value": "エネミー"
+        },
+        {
             "key": "UN_LW_E_YERM_2",
             "value": "エネミー"
         },
         {
             "key": "UN_LW_E_OCHU_QE",
             "value": "エネミー"
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "ベオルブ家の末弟"
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1546,6 +1774,10 @@
         },
         {
             "key": "UN_GM_PLACED_BASH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW_01",
             "value": ""
         }
     ]

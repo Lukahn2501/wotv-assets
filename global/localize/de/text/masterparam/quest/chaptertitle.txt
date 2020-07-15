@@ -29,6 +29,10 @@
             "value": "Verrat"
         },
         {
+            "key": "CH_ST_0107",
+            "value": "Den Wert unter Beweis stellen"
+        },
+        {
             "key": "CH_WD_0102",
             "value": ""
         }

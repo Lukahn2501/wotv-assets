@@ -2,11 +2,11 @@
     "infos": [
         {
             "key": "HOMETOP_TITLE",
-            "value": "Inicio"
+            "value": "Pantalla principal"
         },
         {
             "key": "HOMETOP_DESC",
-            "value": "■ Pantalla principal<br>Puedes acceder a eventos en progreso, regalos, avisos y más información importante en la pantalla principal. <br>Aparecerá un icono cuando tengas recompensas por reclamar o cuando se pueda entrenar a una unidad. <br><br>Puedes restaurar energía y comprar visiores tocando + en la parte superior de la pantalla. <br><br>■ Ajustes de la unidad de la pantalla principal <br>La unidad que aparece en la pantalla principal se puede cambiar tocando el botón de la parte inferior izquierda de la pantalla."
+            "value": "■ Pantalla principal<br>Puedes acceder a Regalos, Avisos, eventos en progreso, y más información importante en la pantalla principal. <br>Aparecerá un icono cuando se pueda entrenar a una unidad, cuando tengas recompensas por reclamar o cuando haya alguna actualización. <br><br>Puedes restaurar energía y comprar visiores tocando los botones + en la parte superior de la pantalla. <br><br>■ Ajustes de la unidad de la pantalla principal <br>La unidad que aparece en la pantalla principal se puede cambiar tocando el botón de la parte inferior izquierda de la pantalla."
         },
         {
             "key": "BUYLAPIS_TITLE",
@@ -714,11 +714,11 @@
         },
         {
             "key": "ARTI_CRAFT_TITLE",
-            "value": "Forjar"
+            "value": "Elaborar"
         },
         {
             "key": "ARTI_CRAFT_DESC",
-            "value": "Aquí puedes ver las piezas de equipo con receta.<br>Podrás forjar equipo cuando reunas los materiales necesarios.<br>*Las piezas de equipo que registres como equipo favorito no pueden usarse como materiales de forja."
+            "value": "Aquí puedes ver las piezas de equipo con receta.<br>Podrás elaborar equipo cuando reunas los materiales necesarios.<br>*Las piezas de equipo que registres como equipo favorito no pueden usarse como materiales de elaboración."
         },
         {
             "key": "ARTI_CRAFT_DETAIL_TITLE",
@@ -866,7 +866,7 @@
         },
         {
             "key": "OPTION_PLAYERINFO_DESC",
-            "value": "Aquí podrás comprobar tu ID de usuario y personalizar las siguientes partes del juego. <br><br>•Nombre de jugador <br>•Mensaje de jugador <br>•Unidad que aparece en la pantalla principal <br><br>Tendrás que esperar 10 días para volver a cambiar el nombre de jugador. <br>No obstante, esta regla no se aplica a los jugadores de rango vip 2 o superior."
+            "value": "Aquí podrás comprobar tu ID de usuario y personalizar las siguientes partes del juego. <br><br>•Nombre de jugador <br>•Comentario de jugador <br>•Unidad que aparece en la pantalla principal <br><br>Tendrás que esperar 10 días para volver a cambiar el nombre de jugador. <br>No obstante, esta regla no se aplica a los jugadores de rango vip 2 o superior."
         },
         {
             "key": "OPTION_STORYMEMORY_TITLE",
@@ -1139,6 +1139,26 @@
         {
             "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
             "value": "¿Enviar mensaje?"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "Habilidades de batalla automática"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_DESC",
+            "value": "Las habilidades que sean desactivadas no se usarán durante las batallas automáticas.<br>También puedes habilitar otras opciones tocando el botón de ajustes avanzados.<br>*Las habilidades disponibles pueden variar incluso si están activadas en las batallas automáticas debido a la configuración de profesiones de la unidad o a estados alterados."
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "Combates de gremio limitados"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_DESC",
+            "value": "En los combates de gremio, podrás usar acciones para atacar a tu enemigo o apoyar a tus aliados obstaculazando a los adversarios. <br><br>Si tu gremio cumple con las siguientes condiciones de participación, entrará automáticamente en batalla y será emparejado con un oponente. <br>-Un nivel de liga establecido o superior<br>-El gremio está compuesto por al menos 10 miembros (incluyendo al líder y al sublíder) <br>-El líder de gremio se ha conectado en los últimos tres días<br>Las formaciones de grupo para los combates de gremio se dividen en formaciones de ataque y formaciones de defensa. Puedes elegir a los miembros de estas formaciones en “Limitado” en combate de gremio, desde la pantalla de formación.<br>*El número de grupos que puedes crear y las condiciones de formación dependerán del combate de gremio.<br>*Tu oponente podrá adquirir fácilmente ★ si no preparas grupos defensivos, lo que puede ser perjudicial. <br>*Las formaciones de grupo para los combates de gremio serán definitivas una vez seas emparejado con un oponente. Los cambios de la formación tras el emparejamiento no se aplicarán a dicho combate de gremio.<br><br>■Resultado de batalla<br>Al final del periodo de batalla, el gremio con mayor número de ★ por miembros será el vencedor. <br>Si ambos gremios poseen el mismo número de ★, el que tenga un mayor porcentaje de daño acumulativo será el que gane. <br>Si ambos gremios poseen el mismo número de ★ y el mísmo porcentaje de daño acumulativo, el gremio con el mayor valor acumulativo entre todos los grupos defensivos será el vencedor. <br>*El número de ★ conseguidas derrotando a varias unidades dependerá del tamaño del grupo del gremio oponente.<br><br>■Puntos por resultado<br>Puedes conseguir puntos por resultado independientemente de si tu gremio ha ganado la batalla o no.<br>La clasificación general se determina a través de tus puntos por resultado.<br><br>Además, podrás ganar una gran cantidad de puntos al hacer lo siguiente.<br>-Ganando combates de gremio<br>-Consiguiendo un gran porcentaje de ★ durante la batalla<br>-Teniendo un gran valor acumulativo entre todos los grupos defensivos<br>-Ganando batallas consecutivas<br><br>■Recompensas<br>Podrás ganar las siguientes recompensas durante los combates de gremio limitados.<br>-Recompensas de participación dependiendo del número de batallas individuales en las que hayas participado.<br>-Recompensas de participación dependiendo del número de ★ conseguidas por ataques individuales que pueden ganarse en cada batalla<br>-Recompensas de acción dependiendo de los puntos de acción empleados en apoyo individual<br>-Recompensas de resultado dependiendo del porcentaje en que todos los miembros del gremio consiguen ★<br>-Recompensas de clasificación general dependiendo de la clasificación final de tu gremio."
+        },
+        {
+            "key": "；オートバトル対象アビリティ",
+            "value": ""
         },
         {
             "key": "ARTI_SELECT_TITLE",

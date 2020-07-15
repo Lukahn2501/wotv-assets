@@ -205,6 +205,18 @@
             "value": "Adelard doit être au niv. 1"
         },
         {
+            "key": "COND_HA_LW_RAIN",
+            "value": "Rain doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_DRIO",
+            "value": "Dario Hourne doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_VNLA",
+            "value": "Vinera Fennes doit être au niv. 1"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "Mont Leonis doit être au niv. 40"
         },
@@ -439,6 +451,26 @@
         {
             "key": "COND_CH_LW_VKTR",
             "value": "Viktora doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_GL_LW_FRVA",
+            "value": "Fryevia doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_RAIN",
+            "value": "Rain doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_DRIO",
+            "value": "Dario Hourne doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_VNLA",
+            "value": "Vinera Fennes doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_TREL",
+            "value": "Tyrrell doit être au niv. 40"
         }
     ]
 }

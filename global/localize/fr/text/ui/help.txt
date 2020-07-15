@@ -2,11 +2,11 @@
     "infos": [
         {
             "key": "HOMETOP_TITLE",
-            "value": "Accueil"
+            "value": "Écran d'accueil"
         },
         {
             "key": "HOMETOP_DESC",
-            "value": "■ Accueil<br>Depuis cet écran, vous pouvez accéder aux événements en cours, à vos Cadeaux, aux Annonces et à d'autres informations importantes.<br>Une notification apparaît au coin des icônes quand vous avez des récompenses à récupérer ou que vous pouvez entraîner une unité.<br><br>Vous pouvez restaurer votre endurance ou acheter des visiores en appuyant sur le bouton + en haut de l'écran.<br><br>■ Paramètres des unités de l'écran d'accueil<br>Vous pouvez décider quelles unités vous souhaitez afficher sur l'écran d'accueil en appuyant sur le bouton en bas à gauche de l'écran."
+            "value": "■ Écran d'accueil<br>Depuis cet écran, vous pouvez accéder à vos cadeaux, aux annonces, aux événements en cours et à d'autres informations importantes.<br>Une notification apparaît au coin des icônes quand vous pouvez entraîner une unité, que vous avez des récompenses à récupérer ou qu'une nouvelle mise à jour est disponible.<br><br>Vous pouvez restaurer votre endurance ou acheter des visiores en appuyant sur les boutons + en haut de l'écran.<br><br>■ Paramètres des unités de l'écran d'accueil<br>Vous pouvez décider quelle unité vous souhaitez afficher sur l'écran d'accueil en appuyant sur le bouton en bas à gauche de l'écran."
         },
         {
             "key": "BUYLAPIS_TITLE",
@@ -486,7 +486,7 @@
         },
         {
             "key": "EVENT_DESC",
-            "value": "Il y a deux types d'événements : les événements limités et les événements quotidiens/d'entraînement. <br><br>Certaines quêtes ne peuvent être lancées qu'un nombre limité de fois par jour.<br>*Pour chaque quête présentée sur un écran, le nombre de tentatives est affiché.<br>*Les tentatives disponibles sont remises à zéro tous les jours à 00:00, heure universelle (PST).<br><br>Les campagnes suivantes sont aussi disponibles en fonction du jour de la semaine.<br><br>• Taux d'apparition de butin x2<br>Lundi : Chambre d'EXP, Chambre de Gils, Chambre de minerai, Chambre de l'Œuf, Chambre des pots<br>Mardi : Chambre d'Alcrist (feu/vent), Antre de l'éveil chimérique (feu/vent)<br>Mercredi : Chambre d'Alcrist (eau/glace), Antre de l'éveil chimérique (eau/glace)<br>Jeudi : Chambre d'Alcrist (terre/ombre), Antre de l'éveil chimérique (terre/ombre)<br>Vendredi : Chambre d'Alcrist (foudre/lumière), Antre de l'éveil chimérique (foudre/lumière)<br>• Tentatives illimitées<br>Samedi & dimanche : Chambre de Gils et Chambre de minerai"
+            "value": "Il y a deux types d'événements : les événements limités et les événements quotidiens/d'entraînement. <br><br>Certaines quêtes ne peuvent être lancées qu'un nombre limité de fois par jour.<br>*Pour chaque quête présentée sur un écran, le nombre de tentatives est affiché.<br>*Les tentatives disponibles sont remises à zéro tous les jours à 00:00, heure universelle (PST).<br><br>Les campagnes suivantes sont aussi disponibles en fonction du jour de la semaine.<br><br>• Taux d'apparition de butin x2<br>Lundi : Chambre d'EXP, Chambre de Gils, Chambre de Minerais, Chambre de l'Œuf de croissance, Chambre de Pots<br>Mardi : Chambre d'Alcrists (feu/vent), Antre de l'éveil chimérique (feu/vent)<br>Mercredi : Chambre d'Alcrists (eau/glace), Antre de l'éveil chimérique (eau/glace)<br>Jeudi : Chambre d'Alcrists (terre/ombre), Antre de l'éveil chimérique (terre/ombre)<br>Vendredi : Chambre d'Alcrists (foudre/lumière), Antre de l'éveil chimérique (foudre/lumière)<br>• Tentatives illimitées<br>Samedi & dimanche : Chambre de Gils et Chambre de Minerais"
         },
         {
             "key": "EVENT_QUESTLIST_TITLE",
@@ -866,7 +866,7 @@
         },
         {
             "key": "OPTION_PLAYERINFO_DESC",
-            "value": "Sur cet écran vous pouvez consulter votre ID de joueur et personnaliser certains aspects du jeu :<br><br>• Votre nom de joueur<br>• Votre plaque de joueur<br>• Les unités affichées dans l'Accueil<br><br>*Vous devez patienter 10 jours après avoir modifié votre nom de joueur. Les joueurs de Rang Royal 2 ou plus sont exempt de ce délai."
+            "value": "Sur cet écran vous pouvez consulter votre ID de joueur et personnaliser certains aspects du jeu :<br><br>• Votre nom de joueur<br>• Votre commentaire<br>• Les unités affichées sur l'écran d'accueil<br><br>*Vous devez patienter 10 jours après avoir modifié votre nom de joueur avant de pouvoir l'éditer à nouveau. Les joueurs de Rang Royal 2 ou plus sont exempts de ce délai."
         },
         {
             "key": "OPTION_STORYMEMORY_TITLE",
@@ -1139,6 +1139,26 @@
         {
             "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
             "value": "Envoyer le message ?"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "Aptitude pendant les combats automatiques"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_DESC",
+            "value": "Les compétences réglées sur OFF ne seront pas utilisées pendant les combats automatiques.<br>Vous pouvez modifier ces options en appuyant sur le bouton Paramètres avancés.<br>*Même réglées sur ON, certaines compétences peuvent ne pas être disponibles en combat automatique en fonction du job secondaire de votre unité ou d'altérations d'état."
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "Combats de guilde limités"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_DESC",
+            "value": "Dans les combats de guilde limités, vous pouvez utiliser votre tour pour soutenir vos alliés ou attaquer pour ralentir votre adversaire.<br><br>Si votre guilde remplit les conditions suivantes de participation, elle combattra automatiquement contre un adversaire à sa taille.<br>- Un niveau de ligue supérieur ou égal à un certain niveau<br>- Au moins 10 membres (dont le chef et ses bras droits.)<br>- Le chef de guilde s'est connecté au moins une fois lors des trois derniers jours.<br>Dans les combats de guilde, il y a une formation pour le groupe en attaque et une formation pour le groupe en défense. Vous pouvez assigner des unités dans ces différentes formations depuis le menu « Combats de guilde » sur l'écran de Formation.<br>*Le nombre de groupes que vous pouvez former et leurs conditions dépendent du combat de guilde.<br>*Si vous n'assignez pas d'unité en défense, vous offrez des ★ faciles à l'adversaire.<br>*Dès que votre guilde a trouvé un adversaire, vous ne pouvez plus changer la formation du groupe. Si malgré tout vous essayez de la modifier, les changements ne s'appliqueront pas au combat en cours.<br><br>■ Résultats du combat<br>Quand la période de combat prend fin, la guilde dont les membres ont gagné le plus grand nombre de ★ gagne.<br>Si les deux guildes ont remporté le même nombre de ★, celle qui a infligé le plus de dégâts totaux gagne.<br>Si les deux guildes ont remporté le même nombre de ★ et qu'elles ont infligé le même nombre de dégâts, celle dont la puissance totale de tous les groupes de défense est supérieure gagne.<br>*Le nombre de ★ gagnées en terrassant une unité dépend de la taille du groupe adverse.<br><br>■ Points finaux<br>Vous gagnez des points finaux que vous remportiez ou non le combat.<br>Ils déterminent votre place lors du classement général.<br><br>Vous pouvez obtenir de nombreux points en :<br>- Gagnant des combats de guilde<br>- Obtenant beaucoup de ★ pendant le combat<br>- Ayant une forte valeur totale dans tous les groupes de défense<br>- Gagnant plusieurs combats d'affilée<br><br>■ Récompenses<br>Les combats de guilde limités vous rapportent les récompenses suivantes :<br>- Les récompenses de participation dépendent du nombre de combats menés.<br>- Les récompenses de combat s'obtiennent à chaque combat en fonction du nombre de ★ rapportées par les attaques individuelles.<br>- Les récompenses d'action dépendent des points d'action dépensés pour le soutien individuel.<br>- Les récompenses finales dépendent du taux de ★ obtenues par tous les membres de la guilde.<br>- Les récompenses du classement général dépendent de votre rang final."
+        },
+        {
+            "key": "；オートバトル対象アビリティ",
+            "value": ""
         },
         {
             "key": "ARTI_SELECT_TITLE",

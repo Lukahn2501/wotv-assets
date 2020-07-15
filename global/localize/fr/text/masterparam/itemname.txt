@@ -942,23 +942,23 @@
         },
         {
             "key": "IT_JB_MM_FFT_RAMZ",
-            "value": "Souvenir d'Écuyer (Ramza : Vert)"
+            "value": "Souvenir d'Écuyer (Ramza : vert)"
         },
         {
             "key": "IT_JB_MM_FFT_RAMZ_2",
-            "value": "Souvenir d'Écuyer (Ramza : Bleu)"
+            "value": "Souvenir d'Écuyer (Ramza : bleu)"
         },
         {
             "key": "IT_JB_MM_FFT_RAMZ_3",
-            "value": "Souvenir d'Écuyer (Ramza : Violet)"
+            "value": "Souvenir d'Écuyer (Ramza : violet)"
         },
         {
             "key": "IT_JB_MM_FFT_RAMZ_4",
-            "value": "Souvenir d'Écuyer (Ramza : Jaune)"
+            "value": "Souvenir d'Écuyer (Ramza : jaune)"
         },
         {
             "key": "IT_JB_MM_FFT_RAMZ_5",
-            "value": "Souvenir d'Écuyer (Ramza : Rouge)"
+            "value": "Souvenir d'Écuyer (Ramza : rouge)"
         },
         {
             "key": "IT_JB_MM_FFT_ORND",
@@ -999,6 +999,46 @@
         {
             "key": "IT_JB_MM_WGN_5",
             "value": "Souvenir d’Artilleur ambidextre (Rouge)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "Souvenir du chevalier de Grandshelt (Flamme : verte)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "Souvenir du chevalier de Grandshelt (Flamme : bleue)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "Souvenir du chevalier de Grandshelt (Flamme : violette)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "Souvenir du chevalier de Grandshelt (Flamme : jaune)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "Souvenir du chevalier de Grandshelt (Flamme : rouge)"
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "Souvenir d'assassin (Vert)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "Souvenir d'assassin (Bleu)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "Souvenir d'assassin (Violet)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "Souvenir d'assassin (Jaune)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "Souvenir d'assassin (Rouge)"
         },
         {
             "key": "IT_JB_EM_FIRE_1",
@@ -1679,6 +1719,26 @@
         {
             "key": "IT_PI_LW_THLA",
             "value": "Fragment d'unité de Saliah"
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "Fragment d'unité de Rain"
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "Fragment d'unité de Fryevia"
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "Fragment d'unité de Vinera Fennes"
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "Fragment d'unité de Dario Hourne"
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": "Fragment d'unité de Tyrrell"
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -2590,15 +2650,15 @@
         },
         {
             "key": "IT_EC_SUMMON_11_A",
-            "value": "Médailles d'invocation A (Novembre)"
+            "value": "Médaille d'invocation A [Novembre]"
         },
         {
             "key": "IT_EC_SUMMON_12_A",
-            "value": "Médailles d'invocation A (Décembre)"
+            "value": "Médaille d'invocation A [Décembre]"
         },
         {
             "key": "IT_EC_SUMMON_12_B",
-            "value": "Médailles d'invocation B (Décembre)"
+            "value": "Médaille d'invocation B [Décembre]"
         },
         {
             "key": "IT_EC_VISION",
@@ -2637,10 +2697,6 @@
             "value": "Médaille d’invocation de FFXIV"
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "Ticket d'invocation FFXIV"
-        },
-        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "Médaille d’invocation A [Mars]"
         },
@@ -2654,19 +2710,27 @@
         },
         {
             "key": "IT_EC_SUMMON_05_A",
-            "value": "Médailles d’invocation A [Mai]"
+            "value": "Médaille d’invocation A [Mai]"
         },
         {
             "key": "IT_EC_SUMMON_05_B",
-            "value": "Médailles d’invocation B [Mai]"
+            "value": "Médaille d’invocation B [Mai]"
         },
         {
             "key": "IT_EC_SUMMON_06_A",
-            "value": "Médailles d’invocation A [Juin]"
+            "value": "Médaille d’invocation A [Juin]"
         },
         {
             "key": "IT_EC_SUMMON_06_B",
-            "value": "Médailles d’invocation B [Juin]"
+            "value": "Médaille d’invocation B [Juin]"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "Médaille d’invocation A [Juillet]"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "Médaille d’invocation B [Juillet]"
         },
         {
             "key": "IT_EC_FFT_1",
@@ -2689,8 +2753,12 @@
             "value": "Médaille d'événement de juin"
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "Ticket d'invocation FFT"
+            "key": "IT_EC_EV03_1",
+            "value": "Médaille d'événement de juillet"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Médaille de raid du Chocoflan"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2714,7 +2782,7 @@
         },
         {
             "key": "IT_US_10_U_SSR_UR_01",
-            "value": "Ticket d'invocation d'unité MR+ garantie [A] (x10)"
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
         },
         {
             "key": "IT_US_G_V_SR_UR_01",
@@ -2781,30 +2849,6 @@
             "value": "Ticket sélectionneur de Magilithe élémentaire (M) x50"
         },
         {
-            "key": "IT_US_G_U_UR_01",
-            "value": "Ticket d'invocation d'unité UR garantie [A]"
-        },
-        {
-            "key": "IT_US_G_UR_01",
-            "value": "Ticket d'invocation UR garantie [A]"
-        },
-        {
-            "key": "IT_US_G_UR_02",
-            "value": "Ticket d'invocation UR garantie [B]"
-        },
-        {
-            "key": "IT_US_G_U_R_UR_01",
-            "value": "Ticket d'invocation d'unité garantie [A]"
-        },
-        {
-            "key": "IT_US_G_V_R_UR_01",
-            "value": "Ticket d'invocation d'atout-vision garanti [A]"
-        },
-        {
-            "key": "IT_US_G_V_UR_01",
-            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
-        },
-        {
             "key": "IT_US_SE_JB_MM_01",
             "value": "Ticket sélectionneur de Souvenir de Job (Vert) x1"
         },
@@ -2831,6 +2875,82 @@
         {
             "key": "IT_US_SE_AW-ITEM_01",
             "value": "Ticket sélectionneur de 10 prismes d'éveil"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Ticket sélectionneur de 500 magilithes élémentaires (M)"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Ticket sélectionneur de 10 magilithes élémentaires (M)"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Ticket sélectionneur de 25 magilithes élémentairse (M)"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Ticket sélectionneur de 100 magilithes élémentaires (L)"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Ticket sélectionneur de 50 fragments d'atout-vision UR"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Ticket sélectionneur de 50 fragments d'atout-vision UR"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Ticket sélectionneur de 50 fragments d'atout-vision UR"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Ticket sélectionneur d'unité UR recommandée [A]"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Ticket sélectionneur d'unité MR recommandée"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Ticket sélectionneur de 40 fragments d'unité UR"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "Ticket d'invocation UR garantie [B]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Ticket d'invocation FFT"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "Ticket d'invocation FFXIV"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "[Tour de porcelaine] Ticket d'invocation x10 normale"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -2925,6 +3045,10 @@
             "value": "Fragment de l'atout-vision : Ramuh, le Tonnerre hurlant"
         },
         {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": "Fragment de l'atout-vision : Mobius du désespoir et de la vérité"
+        },
+        {
             "key": "IT_VPI_LW_FAMILY",
             "value": "Fragment de l'atout-vision : Une vie s'éveille"
         },
@@ -2963,6 +3087,10 @@
         {
             "key": "IT_VPI_LW_GUARD",
             "value": "Fragment de l'atout-vision : Gardes au blanc manteau  "
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": "Fragment de l'atout-vision : Mobius de l'espoir et des illusions"
         },
         {
             "key": "IT_VPI_LW_CACT",
@@ -3093,6 +3221,10 @@
             "value": "Œuf de croissance (SR)"
         },
         {
+            "key": "IT_VC_EXP_04",
+            "value": "Œuf de croissance (MR)"
+        },
+        {
             "key": "IT_GU_FOOD_01",
             "value": "Caramel dur"
         },
@@ -3163,38 +3295,6 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Puissante mâchoire de lion (L)"
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "Médaille de raid du Chocoflan"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "Ticket sélectionneur de 500 magilithes élémentaires (M)"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "Ticket sélectionneur de 10 magilithes élémentaires (M)"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "Ticket sélectionneur de 25 magilithes élémentairse (M)"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "Ticket sélectionneur de 100 magilithes élémentaires (L)"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "Ticket sélectionneur de 50 fragments d'atout-vision UR"
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "Ticket sélectionneur d'unité UR recommandée [A]"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "Ticket sélectionneur d'unité MR recommandée [A]"
         }
     ]
 }

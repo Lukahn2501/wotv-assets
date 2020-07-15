@@ -1021,6 +1021,86 @@
             "value": "喧囂的群星"
         },
         {
+            "key": "QE_ST_01070101",
+            "value": "維澤特國王庫利"
+        },
+        {
+            "key": "QE_ST_01070102",
+            "value": "被試探的力量1"
+        },
+        {
+            "key": "QE_ST_01070103",
+            "value": "被試探的力量2"
+        },
+        {
+            "key": "QE_ST_01070104",
+            "value": "為了同伴"
+        },
+        {
+            "key": "QE_ST_01070105",
+            "value": "雷歐尼斯領土的秘密"
+        },
+        {
+            "key": "QE_ST_01070106",
+            "value": "洞窟"
+        },
+        {
+            "key": "QE_ST_01070107",
+            "value": "《紅蓮》1"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "《紅蓮》2"
+        },
+        {
+            "key": "QE_ST_01070109",
+            "value": "白皚大地"
+        },
+        {
+            "key": "QE_ST_01070110",
+            "value": "要塞"
+        },
+        {
+            "key": "QE_ST_01070201",
+            "value": "短暫的休息"
+        },
+        {
+            "key": "QE_ST_01070202",
+            "value": "追蹤者之影"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "那麼你們就是敵人"
+        },
+        {
+            "key": "QE_ST_01070204",
+            "value": "前往維澤特"
+        },
+        {
+            "key": "QE_ST_01070205",
+            "value": "奪取要塞1"
+        },
+        {
+            "key": "QE_ST_01070206",
+            "value": "奪取要塞2"
+        },
+        {
+            "key": "QE_ST_01070207",
+            "value": "奧爾多登場"
+        },
+        {
+            "key": "QE_ST_01070208",
+            "value": "奪取要塞3"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "奪取要塞4"
+        },
+        {
+            "key": "QE_ST_01070210",
+            "value": "遠話裝置的陷阱"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "獲得碎片 扎贊"
         },
@@ -1227,6 +1307,18 @@
         {
             "key": "QE_HA_LW_VKTR",
             "value": "獲得碎片 維克托拉"
+        },
+        {
+            "key": "QE_HA_LW_RAIN",
+            "value": "獲得碎片 雷因"
+        },
+        {
+            "key": "QE_HA_LW_DRIO",
+            "value": "獲得碎片 達利歐·霍倫"
+        },
+        {
+            "key": "QE_HA_LW_VNLA",
+            "value": "獲得碎片 維內拉·芬尼斯"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1445,6 +1537,26 @@
             "value": "維克托拉"
         },
         {
+            "key": "QE_CH_GL_LW_FRVA",
+            "value": "弗雷比亞"
+        },
+        {
+            "key": "QE_CH_LW_RAIN",
+            "value": "雷因"
+        },
+        {
+            "key": "QE_CH_LW_DRIO",
+            "value": "達利歐·霍倫"
+        },
+        {
+            "key": "QE_CH_LW_VNLA",
+            "value": "維內拉·芬尼斯"
+        },
+        {
+            "key": "QE_CH_LW_TREL",
+            "value": "泰瑞爾"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "雅·修特拉"
         },
@@ -1547,6 +1659,10 @@
         {
             "key": "QE_MU_FFT_EX_01",
             "value": "FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "QE_GL_EV_FFEXU_01",
+            "value": "FF EXVIUS Universe任務"
         },
         {
             "key": "QE_EV_GL_1M_FIR",
@@ -1693,6 +1809,118 @@
             "value": "西方的威脅朗德爾【EX】"
         },
         {
+            "key": "QE_EV_03_01",
+            "value": "第1話 前往達利歐的房間1"
+        },
+        {
+            "key": "QE_EV_03_02",
+            "value": "第2話 前往達利歐的房間2"
+        },
+        {
+            "key": "QE_EV_03_03",
+            "value": "第3話 背叛者1"
+        },
+        {
+            "key": "QE_EV_03_04",
+            "value": "第4話 背叛者2"
+        },
+        {
+            "key": "QE_EV_03_05",
+            "value": "第5話 生命燈火1"
+        },
+        {
+            "key": "QE_EV_03_06",
+            "value": "第6話 生命燈火2"
+        },
+        {
+            "key": "QE_EV_03_07",
+            "value": "第7話 生命燈火3"
+        },
+        {
+            "key": "QE_EV_03_08",
+            "value": "第8話 就像是牢獄一樣"
+        },
+        {
+            "key": "QE_EV_03_09",
+            "value": "第9話 前往城外"
+        },
+        {
+            "key": "QE_EV_03_10",
+            "value": "第10話 自由"
+        },
+        {
+            "key": "QE_EV_03_EX",
+            "value": "為了燃盡生命【EX】"
+        },
+        {
+            "key": "QE_MU_EV_03_EX",
+            "value": "為了燃盡生命【EX】"
+        },
+        {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "公會戰鬥模擬戰"
+        },
+        {
+            "key": "QE_EV_VNLA_01",
+            "value": "限定困難任務（維內拉·芬尼斯）"
+        },
+        {
+            "key": "QE_EV_RAIN_01",
+            "value": "限定困難任務（雷因）"
+        },
+        {
+            "key": "QE_SB_CSLI_02",
+            "value": "高難度　巧克力布丁考驗"
+        },
+        {
+            "key": "QE_SB_CSLI_03",
+            "value": "超高難度　巧克力布丁考驗"
+        },
+        {
+            "key": "QE_EV_SB_EXP_FIR",
+            "value": "【火】紅色魔石獲得任務"
+        },
+        {
+            "key": "QE_EV_SB_EXP_ICE",
+            "value": "【冰】藍色魔石獲得任務"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WIN",
+            "value": "【風】綠色魔石獲得任務"
+        },
+        {
+            "key": "QE_EV_SB_EXP_EAR",
+            "value": "【土】橙色魔石獲得任務"
+        },
+        {
+            "key": "QE_EV_SB_EXP_THU",
+            "value": "【雷】黃色魔石獲得任務"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WTR",
+            "value": "【水】水色魔石獲得任務"
+        },
+        {
+            "key": "QE_EV_SB_EXP_SHI",
+            "value": "【光】白色魔石獲得任務"
+        },
+        {
+            "key": "QE_EV_SB_EXP_DAR",
+            "value": "【暗】紫色魔石獲得任務"
+        },
+        {
+            "key": "QE_EV_ARENA_01_1",
+            "value": "鬥技場模擬戰（初級）"
+        },
+        {
+            "key": "QE_EV_ARENA_01_2",
+            "value": "鬥技場模擬戰（中級）"
+        },
+        {
+            "key": "QE_EV_ARENA_01_3",
+            "value": "鬥技場模擬戰（上級）"
+        },
+        {
             "key": "QE_EV_VKTR_01",
             "value": "限定困難任務（維克托拉）"
         },
@@ -1725,52 +1953,12 @@
             "value": "高難度 薩麗雅的碎片獲得 EX任務2"
         },
         {
-            "key": "QE_MU_EV_TH_EX1",
-            "value": "高難度 薩麗雅的碎片獲得 EX任務1"
-        },
-        {
-            "key": "QE_MU_EV_TH_EX2",
-            "value": "高難度 薩麗雅的碎片獲得 EX任務2"
-        },
-        {
-            "key": "QE_MU_EV_02_EX1",
-            "value": "西方的威脅朗德爾【EX】"
-        },
-        {
             "key": "QE_SB_IGNT_02",
             "value": "高難度　鐵巨人考驗"
         },
         {
             "key": "QE_SB_IGNT_03",
             "value": "超高難度　鐵巨人考驗"
-        },
-        {
-            "key": "QE_EV_JP_001",
-            "value": "JP獲得任務"
-        },
-        {
-            "key": "QE_EV_ART_SCR_01",
-            "value": "高難度　秘籍獲得任務(劍、大劍、斧)"
-        },
-        {
-            "key": "QE_EV_ART_SCR_02",
-            "value": "高難度　秘籍獲得任務(槍、拳、火槍)"
-        },
-        {
-            "key": "QE_EV_ART_SCR_03",
-            "value": "高難度　秘籍獲得任務(防具、裝飾品、忍刀)"
-        },
-        {
-            "key": "QE_MU_EV_SCR_01",
-            "value": "高難度　秘籍獲得任務(劍、大劍、斧)"
-        },
-        {
-            "key": "QE_MU_EV_SCR_02",
-            "value": "高難度　秘籍獲得任務(槍、拳、火槍)"
-        },
-        {
-            "key": "QE_MU_EV_SCR_03",
-            "value": "高難度　秘籍獲得任務(防具、裝飾品、忍刀)"
         },
         {
             "key": "QE_EV_ETRE_01",
@@ -1805,12 +1993,24 @@
             "value": "高難度　埃特蕾育成　EX任務2"
         },
         {
-            "key": "QE_MU_EV_ET_EX1",
-            "value": "高難度　埃特蕾育成　EX任務1"
+            "key": "QE_EV_JP_001",
+            "value": "JP獲得任務"
         },
         {
-            "key": "QE_MU_EV_ET_EX2",
-            "value": "高難度　埃特蕾育成　EX任務2"
+            "key": "QE_EV_ART_SCR_01",
+            "value": "高難度　秘籍獲得任務(劍、大劍、斧)"
+        },
+        {
+            "key": "QE_EV_ART_SCR_02",
+            "value": "高難度　秘籍獲得任務(槍、拳、火槍)"
+        },
+        {
+            "key": "QE_EV_ART_SCR_03",
+            "value": "高難度　秘籍獲得任務(防具、裝飾品、忍刀)"
+        },
+        {
+            "key": "QE_EV_ART_SCR_04",
+            "value": "高難度　秘籍獲得任務(手杖、刀、短劍)"
         },
         {
             "key": "QE_EV_ANV_19_10",
@@ -1833,16 +2033,60 @@
             "value": "超高難度　武具育成任務"
         },
         {
-            "key": "QE_MU_ART_CRF_04",
-            "value": "超高難度　武具育成任務"
-        },
-        {
             "key": "QE_EV_ART_CRF_05",
             "value": "武具育成任務（睡眠劍）"
         },
         {
             "key": "QE_EV_ART_CRF_06",
             "value": "武具育成任務（黃金斧）"
+        },
+        {
+            "key": "QE_MU_CSLI_03",
+            "value": "超高難度　巧克力布丁考驗"
+        },
+        {
+            "key": "QE_MU_IGNT_03",
+            "value": "超高難度　鐵巨人考驗"
+        },
+        {
+            "key": "QE_MU_EV_SCR_01",
+            "value": "高難度　秘籍獲得任務(劍、大劍、斧)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_02",
+            "value": "高難度　秘籍獲得任務(槍、拳、火槍)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_03",
+            "value": "高難度　秘籍獲得任務(防具、裝飾品、忍刀)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_04",
+            "value": "高難度　秘籍獲得任務(手杖、刀、短劍)"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX1",
+            "value": "高難度　埃特蕾育成　EX任務1"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX2",
+            "value": "高難度　埃特蕾育成　EX任務2"
+        },
+        {
+            "key": "QE_MU_EV_02_EX1",
+            "value": "西方的威脅朗德爾【EX】"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "高難度 薩麗雅的碎片獲得 EX任務1"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "高難度 薩麗雅的碎片獲得 EX任務2"
+        },
+        {
+            "key": "QE_MU_ART_CRF_04",
+            "value": "超高難度　武具育成任務"
         },
         {
             "key": "QE_MU_ART_CRF_05",
@@ -1915,10 +2159,6 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "巧克力布丁共鬥"
-        },
-        {
-            "key": "QE_MU_IGNT_03",
-            "value": "超高難度　鐵巨人考驗"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2131,6 +2371,10 @@
         {
             "key": "QE_GVG_00002",
             "value": "鬥技場"
+        },
+        {
+            "key": "QE_GVG_00003",
+            "value": "遺跡"
         },
         {
             "key": "QE_PVP_FRE_0001",

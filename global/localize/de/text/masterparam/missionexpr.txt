@@ -118,7 +118,7 @@
         },
         {
             "key": "CM_PRO_30",
-            "value": "Verbessere dreimal eine Visionskarte"
+            "value": "Erreiche mit einer Visionskarte Stufe 3"
         },
         {
             "key": "CM_PRO_31",
@@ -130,7 +130,7 @@
         },
         {
             "key": "CM_PRO_33",
-            "value": "Gründe eine Gilde oder tritt einer bei"
+            "value": "Tritt einer Gilde bei oder gründe eine"
         },
         {
             "key": "CM_PRO_34",
@@ -179,6 +179,42 @@
         {
             "key": "CM_PRO_45",
             "value": "Erreiche mit der Einheit „Gaffgarion“ Stufe 40"
+        },
+        {
+            "key": "CM_PRO_55",
+            "value": "Schließe einen Storyauftrag ab."
+        },
+        {
+            "key": "CM_PRO_56",
+            "value": "Erhöhe zehnmal die Stufe einer Einheit"
+        },
+        {
+            "key": "CM_PRO_57",
+            "value": "Verbessere fünfmal eine Visionskarte"
+        },
+        {
+            "key": "CM_PRO_58",
+            "value": "Verbessere fünfmal eine Fähigkeit"
+        },
+        {
+            "key": "CM_PRO_59",
+            "value": "Tätige einen Einkauf im Laden"
+        },
+        {
+            "key": "CM_PRO_60",
+            "value": "Schließe fünf Storyaufträge ab"
+        },
+        {
+            "key": "CM_PRO_61",
+            "value": "Sammle bei der Chocobo-Expedition zweimal Gegenstände ein."
+        },
+        {
+            "key": "CM_PRO_62",
+            "value": "Verstärke eine Esper fünfmal"
+        },
+        {
+            "key": "CM_PRO_63",
+            "value": "Erwecke „Mobius der Hoffnung und der Illusion“"
         },
         {
             "key": "GM_0001",
@@ -393,6 +429,22 @@
             "value": "Schließe Kapitel 6, Szene 3 „Rastlose Sterne“ ab"
         },
         {
+            "key": "M_ST_0007_01",
+            "value": "Schließe Kapitel 7, Szene 1 „Das Geheimnis Leonis‘“ ab"
+        },
+        {
+            "key": "M_ST_0007_01_2",
+            "value": "Schließe Kapitel 7, Szene 1 „Die Festung“ ab"
+        },
+        {
+            "key": "M_ST_0007_02",
+            "value": "Schließe Kapitel 7, Szene 2 „Nehmt die Festung ein I“ ab"
+        },
+        {
+            "key": "M_ST_0007_02_2",
+            "value": "Schließe Kapitel 7, Szene 2 „Fernsprechapparatur“ ab"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Erreiche Royalen Rang 1"
         },
@@ -537,6 +589,62 @@
             "value": "Schließe die  Alkristkammer (Wind) ab"
         },
         {
+            "key": "M_DAILY_003_01_1",
+            "value": "Schließe die  Alkristkammer (Wasser) ab"
+        },
+        {
+            "key": "M_DAILY_003_01_2",
+            "value": "Schließe die  Alkristkammer (Eis) ab"
+        },
+        {
+            "key": "M_DAILY_003_02_1",
+            "value": "Schließe die  Alkristkammer (Erde) ab"
+        },
+        {
+            "key": "M_DAILY_003_02_2",
+            "value": "Schließe die  Alkristkammer (Dunkel) ab"
+        },
+        {
+            "key": "M_DAILY_003_03_1",
+            "value": "Schließe die  Alkristkammer (Blitz) ab"
+        },
+        {
+            "key": "M_DAILY_003_03_2",
+            "value": "Schließe die  Alkristkammer (Licht) ab"
+        },
+        {
+            "key": "M_DAILY_003_04_1",
+            "value": "Schließe die Gilkammer ab"
+        },
+        {
+            "key": "M_DAILY_003_04_2",
+            "value": "Schließe die ERF-Kammer ab"
+        },
+        {
+            "key": "M_DAILY_003_05_1",
+            "value": "Schließe die Gilkammer ab"
+        },
+        {
+            "key": "M_DAILY_003_05_2",
+            "value": "Schließe die ERF-Kammer ab"
+        },
+        {
+            "key": "M_DAILY_003_06_1",
+            "value": "Schließe die Gilkammer ab"
+        },
+        {
+            "key": "M_DAILY_003_06_2",
+            "value": "Schließe die ERF-Kammer ab"
+        },
+        {
+            "key": "M_DAILY_003_07_1",
+            "value": "Schließe die  Alkristkammer (Feuer) ab"
+        },
+        {
+            "key": "M_DAILY_003_07_2",
+            "value": "Schließe die  Alkristkammer (Wind) ab"
+        },
+        {
             "key": "M_MONDAY_0001",
             "value": "Besiege insgesamt 50 gegnerische Einheiten"
         },
@@ -558,6 +666,10 @@
         },
         {
             "key": "M_MONDAY_0006",
+            "value": "Bringe einer Gildenstatue eine Gabe dar "
+        },
+        {
+            "key": "M_GL_DAILY_GUILD_01",
             "value": "Bringe einer Gildenstatue eine Gabe dar "
         },
         {
@@ -929,6 +1041,50 @@
             "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Eisengiganten“ fünfmal ab"
         },
         {
+            "key": "M_EV_CSLI_01",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Schokopuddings“ ab"
+        },
+        {
+            "key": "M_EV_CSLI_02",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Schokopuddings“ ab"
+        },
+        {
+            "key": "M_EV_CSLI_03",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Schokopuddings“ dreimal ab"
+        },
+        {
+            "key": "M_EV_CSLI_04",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Schokopuddings“ dreimal ab"
+        },
+        {
+            "key": "M_EV_CSLI_05",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Schokopuddings“ fünfmal ab"
+        },
+        {
+            "key": "M_EV_CSLI_06",
+            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Schokopuddings“ ab"
+        },
+        {
+            "key": "M_EV_CSLI_07",
+            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Schokopuddings“ dreimal ab"
+        },
+        {
+            "key": "M_EV_CSLI_08",
+            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Schokopuddings“ fünfmal ab"
+        },
+        {
+            "key": "M_EV_CSLI_09",
+            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Schokopuddings“ ab"
+        },
+        {
+            "key": "M_EV_CSLI_10",
+            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Schokopuddings“ dreimal ab"
+        },
+        {
+            "key": "M_EV_CSLI_11",
+            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Schokopuddings“ fünfmal ab"
+        },
+        {
             "key": "M_ART_CRF_05_01",
             "value": "Schließe „Ausrüstungsverbesserungsauftrag (Schlafschwert)“ ab"
         },
@@ -1219,6 +1375,158 @@
         {
             "key": "M_EV02_1_38",
             "value": "[Multi] Schließe „Rundall, Bedrohung im Westen [EX]“ fünfmal ab"
+        },
+        {
+            "key": "M_EV03_1_01",
+            "value": "Schließe „Brennender Lebenswille, Episode 1“ ab"
+        },
+        {
+            "key": "M_EV03_1_02",
+            "value": "Schließe „Brennender Lebenswille, Episode 1“ zweimal ab"
+        },
+        {
+            "key": "M_EV03_1_03",
+            "value": "Schließe „Brennender Lebenswille, Episode 1“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_1_04",
+            "value": "Schließe „Brennender Lebenswille, Episode 2“ ab"
+        },
+        {
+            "key": "M_EV03_1_05",
+            "value": "Schließe „Brennender Lebenswille, Episode 2“ zweimal ab"
+        },
+        {
+            "key": "M_EV03_1_06",
+            "value": "Schließe „Brennender Lebenswille, Episode 2“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_1_07",
+            "value": "Schließe „Brennender Lebenswille, Episode 3“ ab"
+        },
+        {
+            "key": "M_EV03_1_08",
+            "value": "Schließe „Brennender Lebenswille, Episode 3“ zweimal ab"
+        },
+        {
+            "key": "M_EV03_1_09",
+            "value": "Schließe „Brennender Lebenswille, Episode 3“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_1_10",
+            "value": "Schließe „Brennender Lebenswille, Episode 4“ ab"
+        },
+        {
+            "key": "M_EV03_1_11",
+            "value": "Schließe „Brennender Lebenswille, Episode 4“ zweimal ab"
+        },
+        {
+            "key": "M_EV03_1_12",
+            "value": "Schließe „Brennender Lebenswille, Episode 4“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_1_13",
+            "value": "Schließe „Brennender Lebenswille, Episode 5“ ab"
+        },
+        {
+            "key": "M_EV03_1_14",
+            "value": "Schließe „Brennender Lebenswille, Episode 5“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_1_15",
+            "value": "Schließe „Brennender Lebenswille, Episode 5“ fünfmal ab"
+        },
+        {
+            "key": "M_EV03_1_16",
+            "value": "Schließe „Brennender Lebenswille, Episode 6“ ab"
+        },
+        {
+            "key": "M_EV03_1_17",
+            "value": "Schließe „Brennender Lebenswille, Episode 6“ zweimal ab"
+        },
+        {
+            "key": "M_EV03_1_18",
+            "value": "Schließe „Brennender Lebenswille, Episode 6“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_1_19",
+            "value": "Schließe „Brennender Lebenswille, Episode 7“ ab"
+        },
+        {
+            "key": "M_EV03_1_20",
+            "value": "Schließe „Brennender Lebenswille, Episode 7“ zweimal ab"
+        },
+        {
+            "key": "M_EV03_1_21",
+            "value": "Schließe „Brennender Lebenswille, Episode 7“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_1_22",
+            "value": "Schließe „Brennender Lebenswille, Episode 8“ ab"
+        },
+        {
+            "key": "M_EV03_1_23",
+            "value": "Schließe „Brennender Lebenswille, Episode 8“ zweimal ab"
+        },
+        {
+            "key": "M_EV03_1_24",
+            "value": "Schließe „Brennender Lebenswille, Episode 8“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_1_25",
+            "value": "Schließe „Brennender Lebenswille, Episode 9“ ab"
+        },
+        {
+            "key": "M_EV03_1_26",
+            "value": "Schließe „Brennender Lebenswille, Episode 9“ zweimal ab"
+        },
+        {
+            "key": "M_EV03_1_27",
+            "value": "Schließe „Brennender Lebenswille, Episode 9“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_1_28",
+            "value": "Schließe „Brennender Lebenswille, Episode 10“ ab"
+        },
+        {
+            "key": "M_EV03_1_29",
+            "value": "Schließe „Brennender Lebenswille, Episode 10“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_1_30",
+            "value": "Schließe „Brennender Lebenswille, Episode 10“ fünfmal ab"
+        },
+        {
+            "key": "M_EV03_1_31",
+            "value": "Schließe „Brennender Lebenswille, Episode 10“ zehnmal ab"
+        },
+        {
+            "key": "M_EV03_EX_01",
+            "value": "Schließe „Brennender Lebenswille [EX]“ ab"
+        },
+        {
+            "key": "M_EV03_EX_02",
+            "value": "Schließe „Brennender Lebenswille [EX]“ dreimal ab"
+        },
+        {
+            "key": "M_EV03_EX_03",
+            "value": "Schließe „Brennender Lebenswille [EX]“ fünfmal ab"
+        },
+        {
+            "key": "M_EV03_EX_04",
+            "value": "Schließe „Brennender Lebenswille [EX]“ zehnmal ab"
+        },
+        {
+            "key": "M_MU_EV03_EX_01",
+            "value": "[Multi] Schließe „Brennender Lebenswille [EX]“ ab"
+        },
+        {
+            "key": "M_MU_EV03_EX_02",
+            "value": "[Multi] Schließe „Brennender Lebenswille [EX]“ dreimal ab"
+        },
+        {
+            "key": "M_MU_EV03_EX_03",
+            "value": "[Multi] Schließe „Brennender Lebenswille [EX]“ fünfmal ab"
         },
         {
             "key": "M_ETRE01_1_01",
@@ -1543,6 +1851,38 @@
         {
             "key": "M_MU_ART_SCR_09",
             "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ fünfmal ab"
+        },
+        {
+            "key": "M_ART_SCR_16",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab"
+        },
+        {
+            "key": "M_ART_SCR_17",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab"
+        },
+        {
+            "key": "M_ART_SCR_18",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ dreimal ab"
+        },
+        {
+            "key": "M_ART_SCR_19",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ dreimal ab"
+        },
+        {
+            "key": "M_ART_SCR_20",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ fünfmal ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_10",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_11",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ dreimal ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_12",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ fünfmal ab"
         },
         {
             "key": "MG_PR_001_001",
@@ -2626,71 +2966,71 @@
         },
         {
             "key": "M_MONTHLY_GL_001",
-            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_002",
-            "value": "Sammle bei der Chocobo-Expedition 15-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 15-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_003",
-            "value": "Sammle bei der Chocobo-Expedition 20-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 20-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_004",
-            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_005",
-            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_006",
-            "value": "Sammle bei der Chocobo-Expedition 35-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 35-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_007",
-            "value": "Sammle bei der Chocobo-Expedition 40-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 40-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_008",
-            "value": "Sammle bei der Chocobo-Expedition 45-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 45-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_009",
-            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_010",
-            "value": "Sammle bei der Chocobo-Expedition 55-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 55-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_011",
-            "value": "Sammle bei der Chocobo-Expedition 60-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 60-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_012",
-            "value": "Sammle bei der Chocobo-Expedition 65-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 65-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_013",
-            "value": "Sammle bei der Chocobo-Expedition 70-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 70-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_014",
-            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_015",
-            "value": "Sammle bei der Chocobo-Expedition 80-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 80-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_016",
-            "value": "Sammle bei der Chocobo-Expedition 85-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 85-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_017",
-            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0118",
@@ -3170,71 +3510,71 @@
         },
         {
             "key": "M_MONTHLY_GL_018",
-            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_019",
-            "value": "Sammle bei der Chocobo-Expedition 15-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 15-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_020",
-            "value": "Sammle bei der Chocobo-Expedition 20-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 20-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_021",
-            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_022",
-            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_023",
-            "value": "Sammle bei der Chocobo-Expedition 35-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 35-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_024",
-            "value": "Sammle bei der Chocobo-Expedition 40-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 40-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_025",
-            "value": "Sammle bei der Chocobo-Expedition 45-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 45-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_026",
-            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_027",
-            "value": "Sammle bei der Chocobo-Expedition 55-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 55-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_028",
-            "value": "Sammle bei der Chocobo-Expedition 60-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 60-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_029",
-            "value": "Sammle bei der Chocobo-Expedition 65-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 65-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_030",
-            "value": "Sammle bei der Chocobo-Expedition 70-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 70-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_031",
-            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_032",
-            "value": "Sammle bei der Chocobo-Expedition 80-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 80-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_033",
-            "value": "Sammle bei der Chocobo-Expedition 85-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 85-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_034",
-            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0254",
@@ -3714,71 +4054,71 @@
         },
         {
             "key": "M_MONTHLY_0373",
-            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0374",
-            "value": "Sammle bei der Chocobo-Expedition 15-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 15-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0375",
-            "value": "Sammle bei der Chocobo-Expedition 20-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 20-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0376",
-            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0377",
-            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0378",
-            "value": "Sammle bei der Chocobo-Expedition 35-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 35-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0379",
-            "value": "Sammle bei der Chocobo-Expedition 40-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 40-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0380",
-            "value": "Sammle bei der Chocobo-Expedition 45-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 45-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0381",
-            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0382",
-            "value": "Sammle bei der Chocobo-Expedition 55-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 55-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0383",
-            "value": "Sammle bei der Chocobo-Expedition 60-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 60-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0384",
-            "value": "Sammle bei der Chocobo-Expedition 65-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 65-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0385",
-            "value": "Sammle bei der Chocobo-Expedition 70-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 70-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0386",
-            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0387",
-            "value": "Sammle bei der Chocobo-Expedition 80-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 80-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0388",
-            "value": "Sammle bei der Chocobo-Expedition 85-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 85-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0389",
-            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein."
+            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0390",
@@ -3861,6 +4201,550 @@
             "value": "Verbessere 70-mal eine Gildenstatue"
         },
         {
+            "key": "M_MONTHLY_0410",
+            "value": "Schließe 20 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0411",
+            "value": "Schließe 40 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0412",
+            "value": "Schließe 60 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0413",
+            "value": "Schließe 80 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0414",
+            "value": "Schließe 100 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0415",
+            "value": "Schließe 120 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0416",
+            "value": "Schließe 140 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0417",
+            "value": "Schließe 160 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0418",
+            "value": "Schließe 180 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0419",
+            "value": "Schließe 200 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0420",
+            "value": "Schließe 220 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0421",
+            "value": "Schließe 240 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0422",
+            "value": "Schließe 260 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0423",
+            "value": "Schließe 280 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0424",
+            "value": "Schließe 300 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0425",
+            "value": "Schließe 320 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0426",
+            "value": "Schließe 340 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0427",
+            "value": "Schließe 360 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0428",
+            "value": "Schließe 380 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0429",
+            "value": "Schließe 400 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0430",
+            "value": "Schließe zehn Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0431",
+            "value": "Schließe 20 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0432",
+            "value": "Schließe 30 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0433",
+            "value": "Schließe 40 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0434",
+            "value": "Schließe 50 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0435",
+            "value": "Schließe 60 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0436",
+            "value": "Schließe 70 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0437",
+            "value": "Schließe 80 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0438",
+            "value": "Schließe 90 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0439",
+            "value": "Schließe 100 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0440",
+            "value": "Schließe 110 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0441",
+            "value": "Schließe 120 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0442",
+            "value": "Schließe 130 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0443",
+            "value": "Schließe 140 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0444",
+            "value": "Schließe 150 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0445",
+            "value": "Schließe 170 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0446",
+            "value": "Schließe 190 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0447",
+            "value": "Schließe 210 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0448",
+            "value": "Schließe 230 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0449",
+            "value": "Schließe zehn Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0450",
+            "value": "Schließe 20 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0451",
+            "value": "Schließe 30 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0452",
+            "value": "Schließe 40 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0453",
+            "value": "Schließe 50 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0454",
+            "value": "Schließe 60 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0455",
+            "value": "Schließe 70 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0456",
+            "value": "Schließe 80 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0457",
+            "value": "Schließe 90 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0458",
+            "value": "Schließe 100 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0459",
+            "value": "Schließe 110 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0460",
+            "value": "Schließe 120 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0461",
+            "value": "Schließe 130 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0462",
+            "value": "Schließe 140 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0463",
+            "value": "Schließe 150 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0464",
+            "value": "Schließe 160 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0465",
+            "value": "Schließe 170 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0466",
+            "value": "Schließe 180 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0467",
+            "value": "Schließe 190 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0468",
+            "value": "Schließe 200 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0469",
+            "value": "Schließe die ERF-Kammer dreimal ab"
+        },
+        {
+            "key": "M_MONTHLY_0470",
+            "value": "Schließe die ERF-Kammer sechsmal ab"
+        },
+        {
+            "key": "M_MONTHLY_0471",
+            "value": "Schließe die ERF-Kammer neunmal ab"
+        },
+        {
+            "key": "M_MONTHLY_0472",
+            "value": "Schließe die ERF-Kammer zwölfmal ab"
+        },
+        {
+            "key": "M_MONTHLY_0473",
+            "value": "Schließe die ERF-Kammer 15-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0474",
+            "value": "Schließe die ERF-Kammer 18-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0475",
+            "value": "Schließe die ERF-Kammer 21-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0476",
+            "value": "Schließe die ERF-Kammer 24-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0477",
+            "value": "Schließe die ERF-Kammer 27-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0478",
+            "value": "Schließe die ERF-Kammer 30-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0479",
+            "value": "Schließe die ERF-Kammer 33-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0480",
+            "value": "Schließe die ERF-Kammer 36-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0481",
+            "value": "Schließe die ERF-Kammer 39-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0482",
+            "value": "Schließe die ERF-Kammer 42-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0483",
+            "value": "Schließe die ERF-Kammer 45-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0484",
+            "value": "Schließe die ERF-Kammer 50-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0485",
+            "value": "Schließe die ERF-Kammer 55-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0486",
+            "value": "Schließe die ERF-Kammer 60-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0487",
+            "value": "Schließe die ERF-Kammer 65-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0488",
+            "value": "Schließe die ERF-Kammer 70-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0489",
+            "value": "Messe dich fünfmal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0490",
+            "value": "Messe dich zehnmal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0491",
+            "value": "Messe dich 15-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0492",
+            "value": "Messe dich 20-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0493",
+            "value": "Messe dich 25-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0494",
+            "value": "Messe dich 30-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0495",
+            "value": "Messe dich 35-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0496",
+            "value": "Messe dich 40-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0497",
+            "value": "Messe dich 45-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0498",
+            "value": "Messe dich 50-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0499",
+            "value": "Messe dich 55-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0500",
+            "value": "Messe dich 60-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0501",
+            "value": "Messe dich 65-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0502",
+            "value": "Messe dich 70-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0503",
+            "value": "Messe dich 80-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0504",
+            "value": "Messe dich 90-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0505",
+            "value": "Messe dich 100-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0506",
+            "value": "Messe dich 110-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0507",
+            "value": "Messe dich 120-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0508",
+            "value": "Messe dich 130-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0509",
+            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0510",
+            "value": "Sammle bei der Chocobo-Expedition 15-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0511",
+            "value": "Sammle bei der Chocobo-Expedition 20-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0512",
+            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0513",
+            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0514",
+            "value": "Sammle bei der Chocobo-Expedition 35-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0515",
+            "value": "Sammle bei der Chocobo-Expedition 40-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0516",
+            "value": "Sammle bei der Chocobo-Expedition 45-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0517",
+            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0518",
+            "value": "Sammle bei der Chocobo-Expedition 55-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0519",
+            "value": "Sammle bei der Chocobo-Expedition 60-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0520",
+            "value": "Sammle bei der Chocobo-Expedition 65-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0521",
+            "value": "Sammle bei der Chocobo-Expedition 70-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0522",
+            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0523",
+            "value": "Sammle bei der Chocobo-Expedition 80-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0524",
+            "value": "Sammle bei der Chocobo-Expedition 85-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0525",
+            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0526",
+            "value": "Verbessere dreimal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0527",
+            "value": "Verbessere sechsmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0528",
+            "value": "Verbessere neunmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0529",
+            "value": "Verbessere zwölfmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0530",
+            "value": "Verbessere 15-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0531",
+            "value": "Verbessere 18-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0532",
+            "value": "Verbessere 21-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0533",
+            "value": "Verbessere 24-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0534",
+            "value": "Verbessere 27-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0535",
+            "value": "Verbessere 30-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0536",
+            "value": "Verbessere 33-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0537",
+            "value": "Verbessere 36-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0538",
+            "value": "Verbessere 39-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0539",
+            "value": "Verbessere 42-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0540",
+            "value": "Verbessere 45-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0541",
+            "value": "Verbessere 50-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0542",
+            "value": "Verbessere 55-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0543",
+            "value": "Verbessere 60-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0544",
+            "value": "Verbessere 65-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0545",
+            "value": "Verbessere 70-mal eine Gildenstatue"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Verbrauche 500 Visiore"
         },
@@ -3909,6 +4793,54 @@
             "value": "Verbrauche 50.000 Visiore"
         },
         {
+            "key": "M_GL_LAPS_P_FRVA_01",
+            "value": "Verbrauche 500 Visiore"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_02",
+            "value": "Verbrauche 3.000 Visiore"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_03",
+            "value": "Verbrauche 6.000 Visiore"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_04",
+            "value": "Verbrauche 12.000 Visiore"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_05",
+            "value": "Verbrauche 24.000 Visiore"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_06",
+            "value": "Verbrauche 50.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_01",
+            "value": "Verbrauche 500 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_02",
+            "value": "Verbrauche 3.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_03",
+            "value": "Verbrauche 6.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_04",
+            "value": "Verbrauche 12.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_05",
+            "value": "Verbrauche 24.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_06",
+            "value": "Verbrauche 50.000 Visiore"
+        },
+        {
             "key": "M_COMEBACK_0001",
             "value": "Schließe 10 Storyaufträge ab"
         },
@@ -3938,7 +4870,7 @@
         },
         {
             "key": "M_COMEBACK_0008",
-            "value": "Tritt einer Gilde bei oder Gründe eine"
+            "value": "Tritt einer Gilde bei oder gründe eine"
         },
         {
             "key": "M_GL_DAILY_VID",

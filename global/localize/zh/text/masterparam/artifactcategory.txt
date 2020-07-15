@@ -30,7 +30,7 @@
         },
         {
             "key": "ROD",
-            "value": "魔棒"
+            "value": "手杖"
         },
         {
             "key": "NINJASWORD",
@@ -74,7 +74,7 @@
         },
         {
             "key": "HAND",
-            "value": "格鬥武器"
+            "value": "拳"
         },
         {
             "key": "SHIELD",

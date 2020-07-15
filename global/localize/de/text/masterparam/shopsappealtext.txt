@@ -43,6 +43,18 @@
         {
             "key": "11",
             "value": "<line-height=15>Frühsommer-<br>Spezialitätenladen"
+        },
+        {
+            "key": "12",
+            "value": "<line-height=15>MOBIUS FF<br>Kollaboladen"
+        },
+        {
+            "key": "13",
+            "value": "<line-height=15>Porzellanturm:<br>Laden zur Eröffnungsfeier!"
+        },
+        {
+            "key": "14",
+            "value": "<line-height=15>Laden zur<br>Gildenunterstützung"
         }
     ]
 }

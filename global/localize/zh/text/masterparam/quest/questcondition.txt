@@ -145,40 +145,12 @@
             "value": "討伐巧克力布丁"
         },
         {
-            "key": "QE_RAID_EV_07_01",
-            "value": "討伐白色棉花糖"
-        },
-        {
-            "key": "QE_RAID_EV_07_02",
-            "value": "討伐白色棉花糖"
-        },
-        {
-            "key": "QE_RAID_EV_07_03",
-            "value": "討伐白色棉花糖"
-        },
-        {
-            "key": "QE_RAID_EV_07_04",
-            "value": "討伐白色棉花糖"
-        },
-        {
             "key": "QE_ST_01070203",
             "value": "打倒迪雅"
         },
         {
             "key": "QE_ST_01070209",
             "value": "打倒奧爾多"
-        },
-        {
-            "key": "QE_RAID_EV_08_01",
-            "value": "討伐死亡機器"
-        },
-        {
-            "key": "QE_RAID_EV_08_02",
-            "value": "討伐死亡機器"
-        },
-        {
-            "key": "QE_RAID_EV_08_03",
-            "value": "討伐死亡機器"
         }
     ]
 }

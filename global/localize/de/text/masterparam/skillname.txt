@@ -350,7 +350,7 @@
         },
         {
             "key": "SK_LW_MGK_ICE_M_4_SUB",
-            "value": "Eisgaklinge"
+            "value": "Eisga-Klinge"
         },
         {
             "key": "SK_LW_MGK_SOIL_M_4_SUB",
@@ -2273,6 +2273,122 @@
             "value": "Dualschuss"
         },
         {
+            "key": "SK_LW_RAIN_ATK",
+            "value": "Normaler Angriff"
+        },
+        {
+            "key": "SK_LW_RAIN_M_1",
+            "value": "Feuga"
+        },
+        {
+            "key": "SK_LW_RAIN_M_2",
+            "value": "Flammender Leib"
+        },
+        {
+            "key": "SK_LW_RAIN_M_3",
+            "value": "Seelenlodern"
+        },
+        {
+            "key": "SK_LW_RAIN_M_3_B",
+            "value": "Seelenlodern"
+        },
+        {
+            "key": "SK_LW_RAIN_S_1",
+            "value": "Feuer"
+        },
+        {
+            "key": "SK_LW_RAIN_S_2",
+            "value": "Kraftbrecher"
+        },
+        {
+            "key": "SK_LW_RAIN_S_3",
+            "value": "Astralwache"
+        },
+        {
+            "key": "SK_LW_RAIN_S_4",
+            "value": "Unterhöhlen"
+        },
+        {
+            "key": "SK_LW_RAIN_R_1",
+            "value": "Konter"
+        },
+        {
+            "key": "SK_LW_RAIN_P_1",
+            "value": "PSY-Erhöhung Stufe 1"
+        },
+        {
+            "key": "SK_LW_RAIN_P_2",
+            "value": "Intensivierende Kraft"
+        },
+        {
+            "key": "SK_LW_ASS_ATK",
+            "value": "Normaler Angriff"
+        },
+        {
+            "key": "SK_LW_ASS_M_4",
+            "value": "Rüstungsspalter"
+        },
+        {
+            "key": "SK_LW_ASS_M_3",
+            "value": "Himmlische Klinge"
+        },
+        {
+            "key": "SK_LW_ASS_S_4",
+            "value": "Klinge der Verdammnis"
+        },
+        {
+            "key": "SK_LW_ASS_S_1_INIT",
+            "value": "Giftstich"
+        },
+        {
+            "key": "SK_LW_ASS_M_1_INIT",
+            "value": "Klinge der Plünderung"
+        },
+        {
+            "key": "SK_LW_ASS_S_2",
+            "value": "Fesselung"
+        },
+        {
+            "key": "SK_LW_ASS_M_2",
+            "value": "Überfallklinge"
+        },
+        {
+            "key": "SK_LW_ASS_S_3",
+            "value": "AP-Raub"
+        },
+        {
+            "key": "SK_LW_ASS_R_1",
+            "value": "Dunkle Schatten"
+        },
+        {
+            "key": "SK_LW_ASS_P_1",
+            "value": "Ausweichgeschick-Erhöhung Stufe 1"
+        },
+        {
+            "key": "SK_LW_ASS_M_4_SUB",
+            "value": "Rüstungsspalter"
+        },
+        {
+            "key": "SK_LW_ASS_M_3_SUB",
+            "value": "Himmlische Klinge"
+        },
+        {
+            "key": "SK_LW_ASS_S_4_SUB",
+            "value": "Klinge der Verdammnis"
+        },
+        {
+            "key": "SK_LW_ASS_S_1",
+            "value": "Giftstich"
+        },
+        {
+            "key": "SK_LW_ASS_M_1",
+            "value": "Klinge der Brandschatzung"
+        },
+        {
+            "key": "SK_LW_ASS_P_2",
+            "value": "„Erlangte AP“-Erhöhung Stufe 1"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "Eisra"
         },
@@ -2710,7 +2826,7 @@
         },
         {
             "key": "SK_ELEM_M_16",
-            "value": "Entzug"
+            "value": "Subvita"
         },
         {
             "key": "SK_FF14BOSS_ATK",
@@ -3229,6 +3345,18 @@
             "value": "Süße Falle"
         },
         {
+            "key": "SK_LB_LW_RAIN",
+            "value": "Novaglanz"
+        },
+        {
+            "key": "SK_LB_LW_FRVA",
+            "value": "Eisgefängnis"
+        },
+        {
+            "key": "SK_LB_LW_VNLA",
+            "value": "Dunkle Künste: Schemenversteck"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Inferno"
         },
@@ -3645,6 +3773,26 @@
             "value": "Meisterfähigkeit"
         },
         {
+            "key": "SK_MA_LW_RAIN",
+            "value": "Meisterfähigkeit"
+        },
+        {
+            "key": "SK_MA_LW_FRVA",
+            "value": "Meisterfähigkeit"
+        },
+        {
+            "key": "SK_MA_LW_VNLA",
+            "value": "Meisterfähigkeit"
+        },
+        {
+            "key": "SK_MA_LW_DRIO",
+            "value": "Meisterfähigkeit"
+        },
+        {
+            "key": "SK_MA_LW_TREL",
+            "value": "Meisterfähigkeit"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Schlitzangriff +2"
         },
@@ -3809,6 +3957,50 @@
             "value": "Antlitz des Drachen"
         },
         {
+            "key": "SK_CLT_LW_RAIN_1_1",
+            "value": "Kampfgeist des Beschützers"
+        },
+        {
+            "key": "SK_ACC_LW_FRVA_1_1",
+            "value": "Meisterschaft des Eises"
+        },
+        {
+            "key": "SK_ACC_LW_VNLA_1_1",
+            "value": "Dunkler Schleier der Falschheit"
+        },
+        {
+            "key": "SK_ACC_LW_MONT_ARENA",
+            "value": "Schlachtruf"
+        },
+        {
+            "key": "SK_ACC_LW_ZIZA_ARENA",
+            "value": "Revitalisieren"
+        },
+        {
+            "key": "SK_ARW_LW_KTON_ARENA",
+            "value": "Leichten Fußes"
+        },
+        {
+            "key": "SK_ARM_LW_LUCA_ARENA",
+            "value": "Begrenzer-Deaktivierung"
+        },
+        {
+            "key": "SK_HAT_LW_MDNA_ARENA",
+            "value": "Mondschwung"
+        },
+        {
+            "key": "SK_ARM_FFT_RAMZ_ARENA",
+            "value": "Anvertrauen"
+        },
+        {
+            "key": "SK_SHI_LW_ENBT_ARENA",
+            "value": "Sturmangriff des Getreuen"
+        },
+        {
+            "key": "SK_ACC_LW_FDRC_ARENA",
+            "value": "Dreifachschutz"
+        },
+        {
             "key": "SK_SWO_LW_ADLD_1_1",
             "value": ""
         },
@@ -3953,6 +4145,10 @@
             "value": ""
         },
         {
+            "key": "SK_SWO_LW_DRIO_1_1",
+            "value": ""
+        },
+        {
             "key": "SK_LW_SWO_005_1",
             "value": ""
         },
@@ -3962,11 +4158,11 @@
         },
         {
             "key": "SK_LW_SWO_006_1",
-            "value": ""
+            "value": "Korallenklinge"
         },
         {
             "key": "SK_LW_SWO_006_5",
-            "value": ""
+            "value": "Korallenklinge"
         },
         {
             "key": "SK_LW_SWO_007_1",
@@ -4027,6 +4223,18 @@
         {
             "key": "SK_LW_RNG_003_5",
             "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": "Purpurklinge"
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": "Purpurklinge"
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": "Purpurklinge"
         },
         {
             "key": "SK_VC_LW_GLEM_GS",
@@ -4306,6 +4514,26 @@
         },
         {
             "key": "SK_VC_LW_GUARD_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_GSAW",
             "value": ""
         },
         {
@@ -4714,6 +4942,26 @@
         },
         {
             "key": "SK_VC_LW_GUARD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_PAW",
             "value": ""
         },
         {
@@ -5313,6 +5561,250 @@
             "value": "Zustandsresistenz gegen „Berserker“ reduziert"
         },
         {
+            "key": "SK_BTL_FAP_1-999_U",
+            "value": "Anfangs-AP erhöht (1 bis 999)"
+        },
+        {
+            "key": "SK_BTL_FAP_1-999_D",
+            "value": "Senkung Anfangs-AP (1 bis 999)"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_U_KISO",
+            "value": "Magieresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_U_KISO",
+            "value": "Schlitzresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_U_KISO",
+            "value": "Durchbohrresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_U_KISO",
+            "value": "Geschossresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_U_KISO",
+            "value": "Schlagresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_U_KISO",
+            "value": "Alle Angriffsresistenzen erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_D_KISO",
+            "value": "Magieresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_D_KISO",
+            "value": "Schlitzresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_D_KISO",
+            "value": "Durchbohrresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_D_KISO",
+            "value": "Geschossresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_D_KISO",
+            "value": "Schlagresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_D_KISO",
+            "value": "Alle Angriffsresistenzen reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_U_KISO",
+            "value": "Feuerresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_U_KISO",
+            "value": "Wasserresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_U_KISO",
+            "value": "Windresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_U_KISO",
+            "value": "Blitzresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_U_KISO",
+            "value": "Eisresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_U_KISO",
+            "value": "Erdresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_U_KISO",
+            "value": "Dunkelresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_U_KISO",
+            "value": "Lichtresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_U_KISO",
+            "value": "Alle Elementarresistenzen erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_D_KISO",
+            "value": "Feuerresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_D_KISO",
+            "value": "Wasserresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_D_KISO",
+            "value": "Windresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_D_KISO",
+            "value": "Blitzresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_D_KISO",
+            "value": "Eisresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_D_KISO",
+            "value": "Erdresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_D_KISOARK_1_80_D_KISO",
+            "value": "Dunkelresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_D_KISO",
+            "value": "Lichtresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_D_KISO",
+            "value": "Alle Elementarresistenzen reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_U_PA",
+            "value": "LP-Maximum erhöht (100 bis 99.900, passiv)"
+        },
+        {
+            "key": "SK_BTL_HP_1-999_U_PA",
+            "value": "LP-Maximum erhöht (1 bis 999, passiv)"
+        },
+        {
+            "key": "SK_BTL_MP_1-999_U_PA",
+            "value": "TP-Maximum erhöht (1 bis 999, passiv)"
+        },
+        {
+            "key": "SK_BTL_AP_1-999_U_PA",
+            "value": "AP-Maximum erhöht (1 bis 999, passiv)"
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_U_PA",
+            "value": "ANG erhöht (1 bis 999, passiv)"
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_U_PA",
+            "value": "MAG erhöht (1 bis 999, passiv)"
+        },
+        {
+            "key": "SK_BTL_DF_1-80_U_PA",
+            "value": "Erhöhung ABW (1 bis 80, passiv)"
+        },
+        {
+            "key": "SK_BTL_MDF_1-80_U_PA",
+            "value": "PSY erhöht (1 bis 80, passiv)"
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_U_PA",
+            "value": "AGI erhöht (1 bis 999, passiv)"
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_U_PA",
+            "value": "GES erhöht (1 bis 999, passiv)"
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_U_PA",
+            "value": "GLK erhöht (1 bis 999, passiv)"
+        },
+        {
+            "key": "SK_BTL_HATE_1-100_U_PA",
+            "value": "Hass erhöht (1 bis 100, passiv)"
+        },
+        {
+            "key": "SK_BTL_SATK_1-100_U",
+            "value": "Einzelangriffsresistenz erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_SATK_1-100_D",
+            "value": "Einzelangriffsresistenz reduziert (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_RATK_1-100_U",
+            "value": "Bereichangriffsresistenz erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_RATK_1-100_D",
+            "value": "Bereichangriffsresistenz reduziert (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_KILLER_MAN_1-100_U",
+            "value": "Menschenfresser erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_KILLER_FIRE_1-100_U",
+            "value": "Feuerfresser erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_KILLER_WATER_1-100_U",
+            "value": "Wasserfresser erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_KILLER_WIND_1-100_U",
+            "value": "Windfresser erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_KILLER_THUNDER_1-100_U",
+            "value": "Blitzfresser erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_KILLER_ICE_1-100_U",
+            "value": "Eisfresser erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_KILLER_SOIL_1-100_U",
+            "value": "Erdfresser erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_KILLER_DARK_1-100_U",
+            "value": "Dunkelfresser erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_KILLER_SHINE_1-100_U",
+            "value": "Lichtfresser erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_TOAD_1-100_U",
+            "value": "Chance auf Zustandsveränderung „Frosch“ erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_STONE_1-100_U",
+            "value": "Chance auf Zustandsveränderung „Stein“ erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_DONMV_1-100_D",
+            "value": "Chance auf Zustandsveränderung „Stein“ reduziert (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_DEFPIERCE_1-100_U",
+            "value": "ABW-Durchbohrrate erhöht (1 bis 100)"
+        },
+        {
             "key": "SK_BTL_INV_DEATH",
             "value": "Exitus annulliert"
         },
@@ -5443,6 +5935,18 @@
         {
             "key": "SK_LW_WHM_P_2",
             "value": "Erhöhung Spiritualität"
+        },
+        {
+            "key": "SK_ARMN_M_01_TW",
+            "value": "Böser Blick"
+        },
+        {
+            "key": "SK_ARMN_M_02_TW",
+            "value": "Dämonenblick"
+        },
+        {
+            "key": "SK_ARMN_M_03_TW",
+            "value": "Todesurteil"
         }
     ]
 }

@@ -43,6 +43,18 @@
         {
             "key": "11",
             "value": "<cspace=1>初夏紀念<br>特別商店"
+        },
+        {
+            "key": "12",
+            "value": "<cspace=1>MOBIUS FINAL FANTASY<br>聯動紀念商店"
+        },
+        {
+            "key": "13",
+            "value": "<cspace=1>白磁之塔<cspace=-0.5><br>舉辦紀念商店！"
+        },
+        {
+            "key": "14",
+            "value": "<cspace=1>公會支援<cspace=-0.5><br>活動商店！"
         }
     ]
 }

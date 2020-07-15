@@ -25,6 +25,10 @@
             "value": "6월 출석 보상"
         },
         {
+            "key": "LB_202007",
+            "value": "7월 출석 보상"
+        },
+        {
             "key": "LB_LIMIT_GL_0001",
             "value": "출시 기념"
         },
@@ -79,6 +83,26 @@
         {
             "key": "LB_LIMIT_GL0009",
             "value": "초여름 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0010",
+            "value": "MOBIUS FINAL FANTASY 콜라보 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0011",
+            "value": "FF EXVIUS Universe 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0012",
+            "value": "FF EXVIUS Universe 출석 보상 제2탄"
+        },
+        {
+            "key": "LB_LIMIT_GL0013",
+            "value": "길드 응원 캠페인 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0014",
+            "value": "FF EXVIUS Universe 누적 출석 보상"
         }
     ]
 }

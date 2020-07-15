@@ -145,40 +145,12 @@
             "value": "초코 푸딩 토벌"
         },
         {
-            "key": "QE_RAID_EV_07_01",
-            "value": "화이트 마시멜로 토벌"
-        },
-        {
-            "key": "QE_RAID_EV_07_02",
-            "value": "화이트 마시멜로 토벌"
-        },
-        {
-            "key": "QE_RAID_EV_07_03",
-            "value": "화이트 마시멜로 토벌"
-        },
-        {
-            "key": "QE_RAID_EV_07_04",
-            "value": "화이트 마시멜로 토벌"
-        },
-        {
             "key": "QE_ST_01070203",
             "value": "디아 처치"
         },
         {
             "key": "QE_ST_01070209",
             "value": "오르도아 처치"
-        },
-        {
-            "key": "QE_RAID_EV_08_01",
-            "value": "데스 머신 토벌"
-        },
-        {
-            "key": "QE_RAID_EV_08_02",
-            "value": "데스 머신 토벌"
-        },
-        {
-            "key": "QE_RAID_EV_08_03",
-            "value": "데스 머신 토벌"
         }
     ]
 }

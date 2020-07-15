@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Sélectionner une aptitude"
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Changez un job secondaire"
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "Rejoindre une guilde"
         }
     ]
 }

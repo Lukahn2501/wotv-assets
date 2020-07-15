@@ -17,6 +17,10 @@
             "value": "公會每日活動任務"
         },
         {
+            "key": "MG_GL_DAILY_GUILD_01",
+            "value": "公會支援活動挑戰"
+        },
+        {
             "key": "MG_STORY_001",
             "value": "劇情任務第1部"
         },
@@ -121,8 +125,16 @@
             "value": "【協力】鐵巨人考驗"
         },
         {
+            "key": "MG_EV_CSLI_01",
+            "value": "巧克力布丁考驗"
+        },
+        {
+            "key": "MG_MU_CSLI_01",
+            "value": "【協力】巧克力布丁考驗"
+        },
+        {
             "key": "MG_EV_ART_CRF_01",
-            "value": "武器育成任務"
+            "value": "武具育成任務"
         },
         {
             "key": "MG_EV_ART_CRF_02",
@@ -134,7 +146,7 @@
         },
         {
             "key": "MG_EV_ART_CRF_03",
-            "value": "武器育成任務"
+            "value": "武具育成任務"
         },
         {
             "key": "MG_MU_ART_CRF_03",
@@ -165,6 +177,18 @@
             "value": "【協力】西方的威脅朗德爾【EX】"
         },
         {
+            "key": "MG_EV03_1_01",
+            "value": "為了燃盡生命"
+        },
+        {
+            "key": "MG_EV03_1_02",
+            "value": "為了燃盡生命【EX】"
+        },
+        {
+            "key": "MG_MU_EV03_1_02",
+            "value": "【協力】為了燃盡生命【EX】"
+        },
+        {
             "key": "MG_ETRE01_01",
             "value": "埃特蕾育成任務"
         },
@@ -189,6 +213,14 @@
             "value": "【協力】高難度　薩麗雅的碎片獲得　EX任務"
         },
         {
+            "key": "MG_EV_ART_SCR_00",
+            "value": ""
+        },
+        {
+            "key": "MG_MU_ART_SCR_00",
+            "value": ""
+        },
+        {
             "key": "MG_EV_ART_SCR_01",
             "value": "高難度　秘籍獲得任務"
         },
@@ -198,11 +230,11 @@
         },
         {
             "key": "MG_EV_ART_SCR_02",
-            "value": "高難度　秘籍獲得任務"
+            "value": "高難度　秘籍獲得任務II"
         },
         {
             "key": "MG_MU_ART_SCR_02",
-            "value": "【協力】高難度　秘籍獲得任務"
+            "value": "【協力】高難度　秘籍獲得任務II"
         },
         {
             "key": "MG_DAILY_002_5",
@@ -230,6 +262,34 @@
         },
         {
             "key": "MG_DAILY_002_4",
+            "value": "每日挑戰"
+        },
+        {
+            "key": "MG_DAILY_003_1",
+            "value": "每日挑戰"
+        },
+        {
+            "key": "MG_DAILY_003_2",
+            "value": "每日挑戰"
+        },
+        {
+            "key": "MG_DAILY_003_3",
+            "value": "每日挑戰"
+        },
+        {
+            "key": "MG_DAILY_003_4",
+            "value": "每日挑戰"
+        },
+        {
+            "key": "MG_DAILY_003_5",
+            "value": "每日挑戰"
+        },
+        {
+            "key": "MG_DAILY_003_6",
+            "value": "每日挑戰"
+        },
+        {
+            "key": "MG_DAILY_003_7",
             "value": "每日挑戰"
         },
         {
@@ -321,6 +381,34 @@
             "value": "【每月挑戰】公會石像"
         },
         {
+            "key": "MG_MONTHLY_004_1",
+            "value": "【每月挑戰】劇情任務"
+        },
+        {
+            "key": "MG_MONTHLY_004_2",
+            "value": "【每月挑戰】困難任務"
+        },
+        {
+            "key": "MG_MONTHLY_004_3",
+            "value": "【每月挑戰】協力任務"
+        },
+        {
+            "key": "MG_MONTHLY_004_4",
+            "value": "【每月挑戰】經驗之間"
+        },
+        {
+            "key": "MG_MONTHLY_004_5",
+            "value": "【每月挑戰】鬥技場"
+        },
+        {
+            "key": "MG_MONTHLY_004_6",
+            "value": "【每月挑戰】探險陸行鳥"
+        },
+        {
+            "key": "MG_MONTHLY_004_7",
+            "value": "【每月挑戰】公會石像"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "期間限定幻導石消耗獎勵"
         },
@@ -329,8 +417,16 @@
             "value": "期間限定幻導石消耗"
         },
         {
+            "key": "MG_GL_LAPS_P_FRVA",
+            "value": "期間限定幻導石消耗獎勵"
+        },
+        {
             "key": "MG_COMEBACK_001",
             "value": "回歸挑戰"
+        },
+        {
+            "key": "MG_LAPS_P_VNLA",
+            "value": "期間限定幻導石消耗獎勵"
         }
     ]
 }

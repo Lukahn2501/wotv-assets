@@ -58,7 +58,7 @@
         },
         {
             "key": "QLN_RAID_1",
-            "value": "¡Derrota al flan de chocolate!"
+            "value": "¡Desafía a Máquina mortal!"
         },
         {
             "key": "QLN_RAID_2",
@@ -67,6 +67,10 @@
         {
             "key": "QLN_TOWER_1",
             "value": "¡Estamos preparando un nuevo evento!"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "¡Consigue ya el Sable carmesí!"
         },
         {
             "key": "QLN_SUMMON_1",
@@ -87,6 +91,10 @@
         {
             "key": "CHALLENGE_OPEN_DESC",
             "value": "Ha terminado el periodo de desafío"
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "¡Desafía a Ifrit!"
         }
     ]
 }

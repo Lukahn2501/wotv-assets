@@ -74,7 +74,7 @@
         },
         {
             "key": "019",
-            "value": "Nous sommes « Caelum ». Nous n'échouerons pas !"
+            "value": "Nous sommes « Caelum ». Nous n'échouerons pas !"
         }
     ]
 }

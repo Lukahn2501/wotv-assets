@@ -1861,6 +1861,34 @@
             "value": "紅の剣"
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "グリードアーマー"
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "魔力の紐"
+        },
+        {
+            "key": "AF_CLT_LW_RAIN_1",
+            "value": "レインの服"
+        },
+        {
+            "key": "AF_ACC_LW_FRVA_1",
+            "value": "フローリドオーナメント"
+        },
+        {
+            "key": "AF_ACC_LW_VNLA_1",
+            "value": "幻惑のヒール"
+        },
+        {
+            "key": "AF_SWO_LW_DRIO_1",
+            "value": "閃光の剣"
+        },
+        {
+            "key": "AF_ACC_LW_TREL_1",
+            "value": "蛇闘士の冠"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "リオンズソード"
         },
@@ -1933,16 +1961,20 @@
             "value": "魅惑の銃"
         },
         {
-            "key": "AF_ARM_LW_VKTR_1",
-            "value": "グリードアーマー"
-        },
-        {
             "key": "AF_SPE_LW_VKTR_2",
             "value": "グリードランス"
         },
         {
-            "key": "AF_ACC_LW_THLA_1",
-            "value": "魔力の紐"
+            "key": "AF_BSW_LW_RAIN_2",
+            "value": "レイン用"
+        },
+        {
+            "key": "AF_SWO_LW_FRVA_2",
+            "value": "フレイヴィア用"
+        },
+        {
+            "key": "AF_DAG_LW_VNLA_2",
+            "value": "アサシンクリス"
         },
         {
             "key": "AF_LW_RNG_005",
@@ -1967,6 +1999,10 @@
         {
             "key": "AF_LW_RNG_005_5",
             "value": "アレキサンドライトの指輪+5"
+        },
+        {
+            "key": "AF_LW_BSW_011",
+            "value": "クリムゾンセイバー"
         }
     ]
 }

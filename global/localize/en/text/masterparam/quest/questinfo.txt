@@ -1021,6 +1021,86 @@
             "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 12"
         },
         {
+            "key": "QE_ST_01070101",
+            "value": "Quest Information<br>Recommended: Unit Lv. 61, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070102",
+            "value": "Quest Information<br>Recommended: Unit Lv. 62, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070103",
+            "value": "Quest Information<br>Recommended: Unit Lv. 62, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070104",
+            "value": "Quest Information<br>Recommended: Unit Lv. 63, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070105",
+            "value": "Quest Information<br>Recommended: Unit Lv. 64, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070106",
+            "value": "Quest Information<br>Recommended: Unit Lv. 64, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070107",
+            "value": "Quest Information<br>Recommended: Unit Lv. 65, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "Quest Information<br>Recommended: Unit Lv. 66, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070109",
+            "value": "Quest Information<br>Recommended: Unit Lv. 66, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070110",
+            "value": "Quest Information<br>Recommended: Unit Lv. 71, Job Lv. 12"
+        },
+        {
+            "key": "QE_ST_01070201",
+            "value": "Quest Information<br>Recommended: Unit Lv. 62, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070202",
+            "value": "Quest Information<br>Recommended: Unit Lv. 63, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "Quest Information<br>Recommended: Unit Lv. 63, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070204",
+            "value": "Quest Information<br>Recommended: Unit Lv. 64, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070205",
+            "value": "Quest Information<br>Recommended: Unit Lv. 65, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070206",
+            "value": "Quest Information<br>Recommended: Unit Lv. 65, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070207",
+            "value": "Quest Information<br>Recommended: Unit Lv. 66, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070208",
+            "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070210",
+            "value": "Quest Information<br>Recommended: Unit Lv. 72, Job Lv. 12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Quest Information<br>Recommended: Unit Lv. 17, Job Lv. 3<br>Conditions to Unlock: Acquire Unit [Zazan]"
         },
@@ -1227,6 +1307,18 @@
         {
             "key": "QE_HA_LW_VKTR",
             "value": "Quest Information<br>Recommended: Unit Lv. 62, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Viktora]"
+        },
+        {
+            "key": "QE_HA_LW_RAIN",
+            "value": "Quest Information<br>Recommended: Unit Lv. 63, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Rain]"
+        },
+        {
+            "key": "QE_HA_LW_DRIO",
+            "value": "Quest Information<br>Recommended: Unit Lv. 63, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Dario Hourne]"
+        },
+        {
+            "key": "QE_HA_LW_VNLA",
+            "value": "Quest Information<br>Recommended: Unit Lv. 63, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Vinera Fennes]"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1445,6 +1537,26 @@
             "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Viktora] is at least Lv. 40"
         },
         {
+            "key": "QE_CH_GL_LW_FRVA",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Fryevia] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_RAIN",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Rain] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_DRIO",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Dario Hourne] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_VNLA",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Vinera Fennes] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_TREL",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Tyrrell] is at least Lv. 40"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Y'shtola] is at least Lv. 40"
         },
@@ -1547,6 +1659,10 @@
         {
             "key": "QE_MU_FFT_EX_01",
             "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_GL_EV_FFEXU_01",
+            "value": "Quest Information<br>Recommended: Unit Lv. 1, Job Lv. 1"
         },
         {
             "key": "QE_EV_GL_1M_FIR",
@@ -1693,6 +1809,118 @@
             "value": "Quest Information<br>None"
         },
         {
+            "key": "QE_EV_03_01",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_03_02",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_03_03",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_03_04",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_03_05",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_03_06",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_03_07",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_03_08",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_03_09",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_03_10",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_03_EX",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_03_EX",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Quest Information<br>・This quest is a test Guild Battle.<br>・Send three characters and use Auto Battle to closely mimic an actual battle."
+        },
+        {
+            "key": "QE_EV_VNLA_01",
+            "value": "Quest Information<br>Conditions to Unlock: Acquire Unit [Vinera Fennes]"
+        },
+        {
+            "key": "QE_EV_RAIN_01",
+            "value": "Quest Information<br>Conditions to Unlock: Acquire Unit [Rain]"
+        },
+        {
+            "key": "QE_SB_CSLI_02",
+            "value": "Quest Information<br>Hint: Before the Chocolate Flan inflicts Charm..."
+        },
+        {
+            "key": "QE_SB_CSLI_03",
+            "value": "Quest Information<br>Hint: Before the Chocolate Flan inflicts Charm..."
+        },
+        {
+            "key": "QE_EV_SB_EXP_FIR",
+            "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_ICE",
+            "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WIN",
+            "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_EAR",
+            "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_THU",
+            "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WTR",
+            "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_SHI",
+            "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_DAR",
+            "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_ARENA_01_1",
+            "value": "Quest Information<br>・No Items <br>・Created based on party actually used in the Arena, though some stats differ."
+        },
+        {
+            "key": "QE_EV_ARENA_01_2",
+            "value": "Quest Information<br>・No Items <br>・Created based on party actually used in the Arena, though some stats differ."
+        },
+        {
+            "key": "QE_EV_ARENA_01_3",
+            "value": "Quest Information<br>・No Items <br>・Created based on party actually used in the Arena, though some stats differ."
+        },
+        {
             "key": "QE_EV_VKTR_01",
             "value": "Quest Information<br>Conditions to Unlock: Acquire Unit [Viktora]"
         },
@@ -1725,52 +1953,12 @@
             "value": "Quest Information<br>None"
         },
         {
-            "key": "QE_MU_EV_TH_EX1",
-            "value": "Quest Information<br>None"
-        },
-        {
-            "key": "QE_MU_EV_TH_EX2",
-            "value": "Quest Information<br>None"
-        },
-        {
-            "key": "QE_MU_EV_02_EX1",
-            "value": "Quest Information<br>None"
-        },
-        {
             "key": "QE_SB_IGNT_02",
             "value": "Quest Information<br>Hint: If you land a certain number of attacks..."
         },
         {
             "key": "QE_SB_IGNT_03",
             "value": "Quest Information<br>Hint: If you land a certain number of attacks..."
-        },
-        {
-            "key": "QE_EV_JP_001",
-            "value": "Quest Information<br>Recommended: Unit Lv. 1, Job Lv. 1"
-        },
-        {
-            "key": "QE_EV_ART_SCR_01",
-            "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 10"
-        },
-        {
-            "key": "QE_EV_ART_SCR_02",
-            "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 10"
-        },
-        {
-            "key": "QE_EV_ART_SCR_03",
-            "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 10"
-        },
-        {
-            "key": "QE_MU_EV_SCR_01",
-            "value": "Quest Information<br>None"
-        },
-        {
-            "key": "QE_MU_EV_SCR_02",
-            "value": "Quest Information<br>None"
-        },
-        {
-            "key": "QE_MU_EV_SCR_03",
-            "value": "Quest Information<br>None"
         },
         {
             "key": "QE_EV_ETRE_01",
@@ -1805,12 +1993,24 @@
             "value": "Quest Information<br>None"
         },
         {
-            "key": "QE_MU_EV_ET_EX1",
-            "value": "Quest Information<br>None"
+            "key": "QE_EV_JP_001",
+            "value": "Quest Information<br>Recommended: Unit Lv. 1, Job Lv. 1"
         },
         {
-            "key": "QE_MU_EV_ET_EX2",
-            "value": "Quest Information<br>None"
+            "key": "QE_EV_ART_SCR_01",
+            "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_ART_SCR_02",
+            "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_ART_SCR_03",
+            "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 10"
+        },
+        {
+            "key": "QE_EV_ART_SCR_04",
+            "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 10"
         },
         {
             "key": "QE_EV_ANV_19_10",
@@ -1833,16 +2033,60 @@
             "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Hint: Tough-looking enemies have heightened DEF and SPR stats, so try weakening them before going in for the attack. Metal enemies change up their attacks depending on their remaining HP or Action Count, so keep an eye on those."
         },
         {
-            "key": "QE_MU_ART_CRF_04",
-            "value": "Quest Information<br>Hint: Tough-looking enemies have heightened DEF and SPR stats, so try weakening them before going in for the attack. Metal enemies change up their attacks depending on their remaining HP or Action Count, so keep an eye on those."
-        },
-        {
             "key": "QE_EV_ART_CRF_05",
             "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
         },
         {
             "key": "QE_EV_ART_CRF_06",
             "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
+        },
+        {
+            "key": "QE_MU_CSLI_03",
+            "value": "Quest Information<br>Hint: Before the Chocolate Flan inflicts Charm..."
+        },
+        {
+            "key": "QE_MU_IGNT_03",
+            "value": "Quest Information<br>Hint: If you land a certain number of attacks..."
+        },
+        {
+            "key": "QE_MU_EV_SCR_01",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_SCR_02",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_SCR_03",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_SCR_04",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX1",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX2",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_02_EX1",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_ART_CRF_04",
+            "value": "Quest Information<br>Hint: Tough-looking enemies have heightened DEF and SPR stats, so try weakening them before going in for the attack. Metal enemies change up their attacks depending on their remaining HP or Action Count, so keep an eye on those."
         },
         {
             "key": "QE_MU_ART_CRF_05",
@@ -1915,10 +2159,6 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "Quest Information<br>None"
-        },
-        {
-            "key": "QE_MU_IGNT_03",
-            "value": "Quest Information<br>Hint: If you land a certain number of attacks..."
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2131,6 +2371,10 @@
         {
             "key": "QE_GVG_00002",
             "value": "None"
+        },
+        {
+            "key": "QE_GVG_00003",
+            "value": "Dark Attack Up"
         },
         {
             "key": "QE_PVP_FRE_0001",

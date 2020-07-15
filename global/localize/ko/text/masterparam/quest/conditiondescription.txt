@@ -205,6 +205,18 @@
             "value": "유닛 '애들러드'의 레벨이 1 이상"
         },
         {
+            "key": "COND_HA_LW_RAIN",
+            "value": "유닛 '레인'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_DRIO",
+            "value": "유닛 '다리오 호른'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_VNLA",
+            "value": "유닛 '비네라 페네스'의 레벨이 1 이상"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "유닛 '몬트 레오니스'의 레벨이 40 이상"
         },
@@ -439,6 +451,26 @@
         {
             "key": "COND_CH_LW_VKTR",
             "value": "유닛 '빅토라'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_GL_LW_FRVA",
+            "value": "유닛 '프레이비아'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_RAIN",
+            "value": "유닛 '레인'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_DRIO",
+            "value": "유닛 '다리오 호른'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_VNLA",
+            "value": "유닛 '비네라 페네스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_TREL",
+            "value": "유닛 '티렐'의 레벨이 40 이상"
         }
     ]
 }

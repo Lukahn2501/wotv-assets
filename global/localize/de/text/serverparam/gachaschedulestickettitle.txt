@@ -2,7 +2,7 @@
     "infos": [
         {
             "key": "IT_US_G_V_SR_UR_01",
-            "value": "„Garantierte Visionskarte (SR+)“-Beschwörungsticket A"
+            "value": "„[SR+]-Visionskarte garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_U_SSR_UR_01",
@@ -86,7 +86,7 @@
         },
         {
             "key": "IT_US_10_U_SSR_UR_01_20200603",
-            "value": "„[MR+] garantiert“-Beschwörungsticket (10-malig)"
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket"
         },
         {
             "key": "IT_US_G_V_UR_01_20200603",
@@ -106,6 +106,46 @@
         },
         {
             "key": "IT_US_G_UR_01_gl20200617",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200701",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200701",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200701",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200701",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200701",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200701",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200701",
+            "value": "„Garantierte Einheit“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200701",
+            "value": "„Garantierte Visionskarte“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_N_TW_10_gl20200701",
+            "value": "[Porzellanturm] Normales Beschwörungsticket (10-malig)"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200715",
             "value": "„[UR] garantiert“-Beschwörungsticket A"
         }
     ]

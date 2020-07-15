@@ -110,11 +110,11 @@
         },
         {
             "key": "SupportUnit",
-            "value": "Kann in dieser Version nicht gespielt werden."
+            "value": "Wird nach Abschluss von<br>Kapitel 1, Abschnitt 1 „Relikt der Altvorderen“<br>der Storyaufträge freigeschaltet."
         },
         {
             "key": "Tower",
-            "value": "Kann in dieser Version nicht gespielt werden."
+            "value": "Wird nach Abschluss von <br>Kapitel 1, Abschnitt 1 „Zeige, was du wert bist“<br>der Storyaufträge und Erreichen von Spielerrang 10 freigeschaltet."
         }
     ]
 }

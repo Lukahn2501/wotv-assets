@@ -58,7 +58,7 @@
         },
         {
             "key": "QLN_RAID_1",
-            "value": "Stürze den Schokopudding!"
+            "value": "Stürze die Todesmaschine!"
         },
         {
             "key": "QLN_RAID_2",
@@ -67,6 +67,10 @@
         {
             "key": "QLN_TOWER_1",
             "value": "Ein neues Event ist in Vorbereitung!"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "Hol dir die Purpurklinge!"
         },
         {
             "key": "QLN_SUMMON_1",
@@ -87,6 +91,10 @@
         {
             "key": "CHALLENGE_OPEN_DESC",
             "value": "Herausforderung ist beendet"
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "Stürze Ifrit!"
         }
     ]
 }

@@ -1522,7 +1522,7 @@
         },
         {
             "key": "NETHERBEAST_EQUIP_CONFIRM",
-            "value": "已被同一隊伍的<br>兵員裝備。<br>確定要裝備嗎？<br>（會將裝備從已裝備的<br>兵員身上卸下。）"
+            "value": "已被其他兵員裝備。<br>確定要裝備嗎？<br>（會將裝備從已裝備的<br>兵員身上卸下。）"
         },
         {
             "key": "NETHERBEAST_LEVELUP_CHECK_TITLE",
@@ -3506,7 +3506,7 @@
         },
         {
             "key": "EXPEDITION_BONUS_GIL",
-            "value": "<line-height=1.2em>獲得金幣<br><space=6>{0}倍"
+            "value": "<line-height=1.2em>獲得金幣<br><space=6><size=1.25em>{0}</size>倍"
         },
         {
             "key": "EXPEDITION_BONUS_RARE",
@@ -3710,7 +3710,7 @@
         },
         {
             "key": "EXPEDITION_UNITBONUS_DESC",
-            "value": "用指定兵員進行探險便會得到獎勵！<br>※如果有多個編配則獎勵最大值。"
+            "value": "用指定兵員進行探險便會得到獎勵！<br>※如果有多個編配則以最大值計算獎勵。"
         },
         {
             "key": "EXPEDITION_UNITBONUS_BONUS_TITLE",
@@ -4854,7 +4854,7 @@
         },
         {
             "key": "RAID_VALUE_RANK_LIST",
-            "value": "排名{0}"
+            "value": "排名<space=-4>{0}<size=0.7em></size>"
         },
         {
             "key": "RAID_VALUE_POINT",
@@ -5554,7 +5554,7 @@
         },
         {
             "key": "VISION_EQUIP_CONFIRM",
-            "value": "已被同一隊伍的<br>兵員裝備。<br>確定要裝備嗎？<br>（會將裝備從已裝備的<br>兵員身上卸下。）"
+            "value": "已被其他兵員裝備。<br>確定要裝備嗎？<br>（會將裝備從已裝備的<br>兵員身上卸下。）"
         },
         {
             "key": "PVP_ARENA_BTN_TOP",
@@ -5574,7 +5574,7 @@
         },
         {
             "key": "PVP_UNITBONUS_DESK",
-            "value": "用指定兵員參戰可得到額外的排名點數！<br>※如果有多個編配則獎勵最大值。"
+            "value": "用指定兵員參戰可得到額外的排名點數！<br>※如果有多個編配則以最大值計算獎勵。"
         },
         {
             "key": "PVP_WINNNING_TITLE",
@@ -6354,7 +6354,7 @@
         },
         {
             "key": "GUILD_LEAGUE_DURATION_PRE",
-            "value": "距離對戰開始還有："
+            "value": "準備期間還有"
         },
         {
             "key": "GUILD_LEAGUE_DURATION_END",
@@ -6654,7 +6654,7 @@
         },
         {
             "key": "GUILD_MENU_CHECK_CAUTION_SECESSION",
-            "value": "<line-height=30>※公會相關的存檔將全部刪除<br>※脫離之後，24小時內無法成立/加入公會"
+            "value": "<line-height=30>※公會相關的資料將全部刪除<br>※脫離之後，24小時內無法成立/加入公會"
         },
         {
             "key": "GUILD_MENU_CHECK_BTN_SECESSION",
@@ -7154,7 +7154,7 @@
         },
         {
             "key": "GUILD_STATUE_EFF_BARRACKJP",
-            "value": "獲得兵舍JP"
+            "value": "兵舍JP獲得等級"
         },
         {
             "key": "GUILD_STATUE_EFF_MAXSUBLEADER",
@@ -7386,7 +7386,7 @@
         },
         {
             "key": "GUILD_BATTLE_NOATTACK_DIALOG_DESC",
-            "value": "已達到公會戰鬥的可出擊次數"
+            "value": "已達到公會戰鬥的<br>可出擊次數"
         },
         {
             "key": "GUILD_BATTLE_PLAYER_DETAIL_ABILITY",
@@ -7598,7 +7598,7 @@
         },
         {
             "key": "STATUE_EFF_STR6",
-            "value": "獲得兵舍JP"
+            "value": "兵舍JP獲得等級"
         },
         {
             "key": "STATUE_EFF_STR7",
@@ -7858,7 +7858,7 @@
         },
         {
             "key": "TOWER_RETRY_CAUTION",
-            "value": "<line-height=33>※重置後，各樓層的完成報酬<br>與首次完成報酬內容不同。<br><line-height=12><br><line-height=33>※未完成之第1圈EX<br>則可於下次舉辦時再次挑戰。"
+            "value": "<line-height=33>※重置後各樓層的完成報酬<br>會與首次完成報酬不同。<br><line-height=12><br><line-height=33>※請注意，如果未完成EX任務關卡就進行重置<br>將無法獲得首次完成的報酬。"
         },
         {
             "key": "TOWER_RETRY_BTN_RETRY",
@@ -8065,8 +8065,272 @@
             "value": "30天幻導石禮包"
         },
         {
+            "key": "GL_GM_CONTINUATION_PACK_REWARD_DAYS_REMAINING",
+            "value": "30天幻導石禮包報酬剩餘${days_remaining}天"
+        },
+        {
             "key": "ARTI_STATUS_MAX",
             "value": "狀態<br>MAX"
+        },
+        {
+            "key": "GL_BUY_LAPIS_ALREADY_OWNED_DESC",
+            "value": "交易仍在進行中，請稍後再試。"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
+            "value": "戰鬥中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
+            "value": "<line-height=20>期間限定<br><size=15><cspace=-0.5>公會戰鬥舉辦中！！"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
+            "value": "匹配中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
+            "value": "戰鬥開始"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
+            "value": "<cspace=1.6>統計中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
+            "value": "下次戰鬥準備中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
+            "value": "MM/dd HH:mm～"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
+            "value": "～MM/dd HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
+            "value": "～MM/dd HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
+            "value": "最終結果確認"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_TITLE",
+            "value": "省電模式"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_DESC",
+            "value": "<line-height=33>在設定時間內沒有操作的話<br>自動切換畫面至較不耗電的狀態"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_SECOND",
+            "value": "30秒"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_MINUTE",
+            "value": "1分鐘"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
+            "value": "3分鐘"
+        },
+        {
+            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
+            "value": "確定對戰對手！"
+        },
+        {
+            "key": "GUILD_LIMITED_TITLE",
+            "value": "期間限定公會戰鬥"
+        },
+        {
+            "key": "GUILD_LIMITED_POINT",
+            "value": "戰鬥點數"
+        },
+        {
+            "key": "GUILD_LIMITED_PERIOD",
+            "value": "舉辦期間："
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END",
+            "value": "最終結果確認："
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END_FMT",
+            "value": "～MM/dd HH:mm"
+        },
+        {
+            "key": "GUILD_RANKING_TAB_LIMITED",
+            "value": "<cspace=-0.6>期間限定"
+        },
+        {
+            "key": "GUILD_RANKING_LIMITED_POINTS",
+            "value": "戰鬥點數"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL",
+            "value": "活動詳情"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_ABSTENTION",
+            "value": "<line-height=32>本次期間<br>沒有報名"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE",
+            "value": "不戰而勝"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE_DESC",
+            "value": "因未發現對戰對手，<br>不戰而勝。"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
+            "value": "剩餘行動次數為0"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
+            "value": "已達到本次公會戰鬥的<br>可行動次數"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_DESC",
+            "value": "<line-height=32>由於未達到下列參加條件<br>無法報名參加公會戰鬥。"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
+            "value": "公會聯盟等級"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
+            "value": "{0}以上"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
+            "value": "公會成員"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
+            "value": "{0}人以上"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
+            "value": "會長"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
+            "value": "{0}天之內沒有登入"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_POINT",
+            "value": "戰鬥點數："
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
+            "value": "(不戰而勝★ {0}%)"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
+            "value": "聲援"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
+            "value": "偵查了{0}\\n揭露了{0}的隊伍"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
+            "value": "被{0}偵查了\\n隊伍被揭露了"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
+            "value": "給予{0}補給\\n{0}隊伍的行動次數恢復了"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
+            "value": "獲得{0}的補給\\n隊伍的行動次數恢復了"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
+            "value": "給予{0}詠唱\\n{0}隊伍的能力次數恢復了"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
+            "value": "獲得{0}的詠唱\\n隊伍的能力次數恢復了"
+        },
+        {
+            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
+            "value": "防禦隊伍設定數："
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
+            "value": "攻擊"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
+            "value": "聲援"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_TITLE",
+            "value": "聲援"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE",
+            "value": "使用"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
+            "value": "{0}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
+            "value": "<color=#F0C040>{0}</color>的<br><color=#F0C040>{1}</color>的<br>{2}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
+            "value": "已收取行動報酬"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
+            "value": "請選擇要攻擊的敵方隊伍"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
+            "value": "請選擇要聲援的隊伍"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
+            "value": "{0}詳細資訊"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
+            "value": "${period}開始的期間限定公會戰鬥、累計第${entry_count}戰的參加報酬"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
+            "value": "${period}開始的期間限定公會戰鬥的報酬"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
+            "value": "${period}開始的期間限定公會戰鬥的總排名第${ranking}名的報酬"
+        },
+        {
+            "key": "QRCODE_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_MESSAGE",
+            "value": "{0}。"
+        },
+        {
+            "key": "QRCODE_ERROR_TITLE",
+            "value": "錯誤"
+        },
+        {
+            "key": "QRCODE_ERROR_MESSAGE",
+            "value": "非有效平台。"
         },
         {
             "key": "SERVER_Normal_gacha_A_NAME",

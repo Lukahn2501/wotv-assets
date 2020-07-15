@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Tu dois choisir une aptitude, t'sais !"
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Voici quelques astuces pour te battre sur tous les fronts"
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "Pourquoi ne pas te joindre à une guilde ?"
         }
     ]
 }

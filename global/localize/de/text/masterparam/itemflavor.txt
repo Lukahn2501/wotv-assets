@@ -1001,6 +1001,46 @@
             "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser rote Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Doppelschützen. Es wird angenommen, der Stein stamme von einem Ort ganz in der Nähe der Stelle, an der dieser seine Ausbildung durchlief und letztlich auch seine gereiften Kräfte entfesselte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen abhängig von dessen Farbe anzueignen."
         },
         {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser grüne Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Ritters von Grandshelt. Es wird angenommen, der Stein stamme von einem Ort ganz in Nähe der Stelle, an der dieser seine Kräfte manifestierte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen anzueignen."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser blaue Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Ritters von Grandshelt. Es wird angenommen, der Stein stamme von einem Ort ganz in Nähe der Stelle, an der dieser seine Kräfte manifestierte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen anzueignen."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser violette Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Ritters von Grandshelt. Es wird angenommen, der Stein stamme von einem Ort ganz in Nähe der Stelle, an der dieser seine Kräfte manifestierte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen anzueignen."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser gelbe Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Ritters von Grandshelt. Es wird angenommen, der Stein stamme von einem Ort ganz in Nähe der Stelle, an der dieser seine Kräfte manifestierte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen anzueignen."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser rote Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Ritters von Grandshelt. Es wird angenommen, der Stein stamme von einem Ort ganz in Nähe der Stelle, an der dieser seine Kräfte manifestierte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen anzueignen."
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser grüne Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Assassinen. Es wird angenommen, der Stein stamme von einem Ort ganz in der Nähe der Stelle, an der dieser seine Ausbildung durchlief und letztlich auch seine gereiften Kräfte entfesselte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen abhängig von dessen Farbe anzueignen."
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser blaue Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Assassinen. Es wird angenommen, der Stein stamme von einem Ort ganz in der Nähe der Stelle, an der dieser seine Ausbildung durchlief und letztlich auch seine gereiften Kräfte entfesselte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen abhängig von dessen Farbe anzueignen."
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser violette Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Assassinen. Es wird angenommen, der Stein stamme von einem Ort ganz in der Nähe der Stelle, an der dieser seine Ausbildung durchlief und letztlich auch seine gereiften Kräfte entfesselte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen abhängig von dessen Farbe anzueignen."
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser gelbe Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Assassinen. Es wird angenommen, der Stein stamme von einem Ort ganz in der Nähe der Stelle, an der dieser seine Ausbildung durchlief und letztlich auch seine gereiften Kräfte entfesselte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen abhängig von dessen Farbe anzueignen."
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "Ungeachtet seiner nahezu perfekten Kugelgestalt ist dieser rote Stein nicht von Menschenhand gemacht, sondern natürlich entstanden. Er enthält die Erinnerungen eines einstigen Assassinen. Es wird angenommen, der Stein stamme von einem Ort ganz in der Nähe der Stelle, an der dieser seine Ausbildung durchlief und letztlich auch seine gereiften Kräfte entfesselte. Führt man den Stein während des eigenen Trainings mit sich, ist man imstande, sich die in ihm enthaltenen Erinnerungen abhängig von dessen Farbe anzueignen."
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Ein grün glänzendes Mineral, das in seiner Form an eine flackernde Flamme erinnert. Man sagt, dass es bei denjenigen, die mit dem göttlichen Schutz des Feuers belegt sind, zusätzliche Kräfte freisetzen kann, wenn größere Mengen von ihm gesammelt werden. Das Ausmaß der so entlockten Kräfte hängt dabei von der Farbe des Minerals ab."
         },
@@ -1678,6 +1718,26 @@
         },
         {
             "key": "IT_PI_LW_THLA",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_TREL",
             "value": ""
         },
         {
@@ -2637,10 +2697,6 @@
             "value": ""
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
-        },
-        {
             "key": "IT_EC_SUMMON_03_A",
             "value": ""
         },
@@ -2669,6 +2725,14 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -2689,8 +2753,12 @@
             "value": ""
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
+            "key": "IT_EC_EV03_1",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": ""
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2781,30 +2849,6 @@
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
         },
         {
-            "key": "IT_US_G_U_UR_01",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
-        },
-        {
-            "key": "IT_US_G_UR_01",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
-        },
-        {
-            "key": "IT_US_G_UR_02",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
-        },
-        {
-            "key": "IT_US_G_U_R_UR_01",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
-        },
-        {
-            "key": "IT_US_G_V_R_UR_01",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
-        },
-        {
-            "key": "IT_US_G_V_UR_01",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
-        },
-        {
             "key": "IT_US_SE_JB_MM_01",
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
         },
@@ -2831,6 +2875,82 @@
         {
             "key": "IT_US_SE_AW-ITEM_01",
             "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Ein höchst seltenes Ticket, welches es seinem Besitzer ermöglicht, aus den Myriaden der in den Kristallen eingeschlossenen Visionen eine ganz besonders herausragende auszuwählen, unabhängig von deren Ära oder Welt. Genau wie alle anderen Tickets wurde auch dieses nicht aus Papier, sondern hauchdünnen Scheiben Erz hergestellt."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Ein höchst seltenes Ticket, welches es seinem Besitzer ermöglicht, aus den Myriaden der in den Kristallen eingeschlossenen Visionen eine ganz besonders herausragende auszuwählen, unabhängig von deren Ära oder Welt. Genau wie alle anderen Tickets wurde auch dieses nicht aus Papier, sondern hauchdünnen Scheiben Erz hergestellt."
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Was zum Vorschein kommt, ist gänzlich von den innerhalb des Tickets ruhenden Gefühlen abhängig, doch sein Design, seine Form und seine Farbe geben zumindest ein wenig Aufschluss."
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann. Oftmals bringt es seinem Besitzer verschiedene Erze, Materialien oder Tränke ein. Man nimmt an, dass die in dieses Ticket gelegten Wünsche einen Einfluss darauf haben können, was beschworen wird."
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -2925,6 +3045,10 @@
             "value": ""
         },
         {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": ""
+        },
+        {
             "key": "IT_VPI_LW_FAMILY",
             "value": ""
         },
@@ -2962,6 +3086,10 @@
         },
         {
             "key": "IT_VPI_LW_GUARD",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
             "value": ""
         },
         {
@@ -3093,6 +3221,10 @@
             "value": "Ein durchsichtiger, eierförmiger Behälter, der bis zum Rand mit einer seltsamen Flüssigkeit gefüllt ist. Bei näherem Hinsehen kann man beobachten, wie feine Bläschen sanft vom Grund aufsteigen. Dieses Ei erlaubt die Verbesserung einer Visionskarte."
         },
         {
+            "key": "IT_VC_EXP_04",
+            "value": "Ein durchsichtiger, eierförmiger Behälter, der bis zum Rand mit einer seltsamen Flüssigkeit gefüllt ist. Bei näherem Hinsehen kann man beobachten, wie feine Bläschen sanft vom Grund aufsteigen. Dieses Ei erlaubt die Verbesserung einer Visionskarte."
+        },
+        {
             "key": "IT_GU_FOOD_01",
             "value": "Während einer Ausbildung in der Kaserne ist schmackhaftes Essen unverzichtbar. Der hohe Zuckergehalt dieses Bonbons stimuliert kurzzeitig das Nervensystem des Konsumierenden. Dadurch werden die Erinnerungen an tagsüber absolvierten Übungseinheiten lebhafter ins Gedächtnis gerufen und der Körper so in die Lage versetzt, sich das Gelernte besser einzuprägen."
         },
@@ -3163,38 +3295,6 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Dieser Gegenstand wurde im Aussehen dem Kiefer eines Löwen nachempfunden und gewährt den Segen erhöhter Angriffskraft, wenn er der Löwenstatue als Opfer dargebracht wird. Ein kurzer Blick auf das enorme handwerkliche Können, das offensichtlich bei der Verfertigung angewandt wurde, ruft beim Betrachter Bilder des Tieres an sich hervor. Wie man hört, fällt die gewährte Segnung umso stärker aus, je mehr dieser Amulette als Opfer dargebracht werden."
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "Ein Ticket, das durch ein aufwendiges Beschwörungsritual die in Kristalle eingravierten Erinnerungen aus ihnen hervorholen kann – wobei Exemplare wie dieses, welche während des Rituals eine Auswahl gewähren, ausgesprochen rar sind. Genauso wie bei anderen Tickets geben auch hier sein Design, seine Form und seine Farbe etwas Aufschluss darüber, was beschworen werden kann."
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "Ein höchst seltenes Ticket, welches es seinem Besitzer ermöglicht, aus den Myriaden der in den Kristallen eingeschlossenen Visionen eine ganz besonders herausragende auszuwählen, unabhängig von deren Ära oder Welt. Genau wie alle anderen Tickets wurde auch dieses nicht aus Papier, sondern hauchdünnen Scheiben Erz hergestellt."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "Ein höchst seltenes Ticket, welches es seinem Besitzer ermöglicht, aus den Myriaden der in den Kristallen eingeschlossenen Visionen eine ganz besonders herausragende auszuwählen, unabhängig von deren Ära oder Welt. Genau wie alle anderen Tickets wurde auch dieses nicht aus Papier, sondern hauchdünnen Scheiben Erz hergestellt."
         }
     ]
 }

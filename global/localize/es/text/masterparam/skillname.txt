@@ -1278,7 +1278,7 @@
         },
         {
             "key": "SK_LW_WHM_S_4_1",
-            "value": "Cura++"
+            "value": "Cura+++"
         },
         {
             "key": "SK_LW_WHM_M_4",
@@ -1330,7 +1330,7 @@
         },
         {
             "key": "SK_LW_WHM_S_4_1_SUB",
-            "value": "Cura++"
+            "value": "Cura+++"
         },
         {
             "key": "SK_LW_WHM_M_4_SUB",
@@ -2271,6 +2271,122 @@
         {
             "key": "SK_LW_WGN_M_3_SUB",
             "value": "Gatillo doble"
+        },
+        {
+            "key": "SK_LW_RAIN_ATK",
+            "value": "Ataque normal"
+        },
+        {
+            "key": "SK_LW_RAIN_M_1",
+            "value": "Piro++"
+        },
+        {
+            "key": "SK_LW_RAIN_M_2",
+            "value": "Psique abrasadora"
+        },
+        {
+            "key": "SK_LW_RAIN_M_3",
+            "value": "Prominencia espiritual"
+        },
+        {
+            "key": "SK_LW_RAIN_M_3_B",
+            "value": "Prominencia espiritual"
+        },
+        {
+            "key": "SK_LW_RAIN_S_1",
+            "value": "Piro"
+        },
+        {
+            "key": "SK_LW_RAIN_S_2",
+            "value": "Rompefuerza"
+        },
+        {
+            "key": "SK_LW_RAIN_S_3",
+            "value": "Guardia astral"
+        },
+        {
+            "key": "SK_LW_RAIN_S_4",
+            "value": "Socavar"
+        },
+        {
+            "key": "SK_LW_RAIN_R_1",
+            "value": "Contraataque"
+        },
+        {
+            "key": "SK_LW_RAIN_P_1",
+            "value": "ESP↑ nv. 1"
+        },
+        {
+            "key": "SK_LW_RAIN_P_2",
+            "value": "Poder intensificador"
+        },
+        {
+            "key": "SK_LW_ASS_ATK",
+            "value": "Ataque normal"
+        },
+        {
+            "key": "SK_LW_ASS_M_4",
+            "value": "Partearmadura"
+        },
+        {
+            "key": "SK_LW_ASS_M_3",
+            "value": "Hoja celestial"
+        },
+        {
+            "key": "SK_LW_ASS_S_4",
+            "value": "Hoja condena"
+        },
+        {
+            "key": "SK_LW_ASS_S_1_INIT",
+            "value": "Aguijón tóxico"
+        },
+        {
+            "key": "SK_LW_ASS_M_1_INIT",
+            "value": "Hoja de saqueo"
+        },
+        {
+            "key": "SK_LW_ASS_S_2",
+            "value": "Atadura"
+        },
+        {
+            "key": "SK_LW_ASS_M_2",
+            "value": "Hoja saqueadora"
+        },
+        {
+            "key": "SK_LW_ASS_S_3",
+            "value": "RobaPA"
+        },
+        {
+            "key": "SK_LW_ASS_R_1",
+            "value": "Sombra oscura"
+        },
+        {
+            "key": "SK_LW_ASS_P_1",
+            "value": "Evasión↑ nv. 1"
+        },
+        {
+            "key": "SK_LW_ASS_M_4_SUB",
+            "value": "Partearmadura"
+        },
+        {
+            "key": "SK_LW_ASS_M_3_SUB",
+            "value": "Hoja celestial"
+        },
+        {
+            "key": "SK_LW_ASS_S_4_SUB",
+            "value": "Hoja condena"
+        },
+        {
+            "key": "SK_LW_ASS_S_1",
+            "value": "Aguijón tóxico"
+        },
+        {
+            "key": "SK_LW_ASS_M_1",
+            "value": "Hoja de saqueo"
+        },
+        {
+            "key": "SK_LW_ASS_P_2",
+            "value": "PA adquiridos↑ nv. 1"
         },
         {
             "key": "SK_LW_TU_BLM_ICE",
@@ -3229,6 +3345,18 @@
             "value": "Trampa encantadora"
         },
         {
+            "key": "SK_LB_LW_RAIN",
+            "value": "Nova deslumbrante"
+        },
+        {
+            "key": "SK_LB_LW_FRVA",
+            "value": "Prisión helada"
+        },
+        {
+            "key": "SK_LB_LW_VNLA",
+            "value": "Arte oscura: neblina oculta"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Fuego infernal"
         },
@@ -3645,6 +3773,26 @@
             "value": "Habilidad maestra"
         },
         {
+            "key": "SK_MA_LW_RAIN",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_LW_FRVA",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_LW_VNLA",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_LW_DRIO",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_LW_TREL",
+            "value": "Habilidad maestra"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Ataque de corte +2"
         },
@@ -3809,6 +3957,50 @@
             "value": "Ojo del dragón"
         },
         {
+            "key": "SK_CLT_LW_RAIN_1_1",
+            "value": "Espíritu guardián"
+        },
+        {
+            "key": "SK_ACC_LW_FRVA_1_1",
+            "value": "Maestro glacial"
+        },
+        {
+            "key": "SK_ACC_LW_VNLA_1_1",
+            "value": "Velo de oscuridad falso"
+        },
+        {
+            "key": "SK_ACC_LW_MONT_ARENA",
+            "value": "Grito unificador"
+        },
+        {
+            "key": "SK_ACC_LW_ZIZA_ARENA",
+            "value": "Revitalizar"
+        },
+        {
+            "key": "SK_ARW_LW_KTON_ARENA",
+            "value": "Pies ligeros"
+        },
+        {
+            "key": "SK_ARM_LW_LUCA_ARENA",
+            "value": "Limitador desactivado"
+        },
+        {
+            "key": "SK_HAT_LW_MDNA_ARENA",
+            "value": "Energía lunar"
+        },
+        {
+            "key": "SK_ARM_FFT_RAMZ_ARENA",
+            "value": "Encomendar"
+        },
+        {
+            "key": "SK_SHI_LW_ENBT_ARENA",
+            "value": "Centella leal"
+        },
+        {
+            "key": "SK_ACC_LW_FDRC_ARENA",
+            "value": "Triprotección"
+        },
+        {
             "key": "SK_SWO_LW_ADLD_1_1",
             "value": ""
         },
@@ -3953,6 +4145,10 @@
             "value": ""
         },
         {
+            "key": "SK_SWO_LW_DRIO_1_1",
+            "value": ""
+        },
+        {
             "key": "SK_LW_SWO_005_1",
             "value": ""
         },
@@ -3962,11 +4158,11 @@
         },
         {
             "key": "SK_LW_SWO_006_1",
-            "value": ""
+            "value": "Sable de coral"
         },
         {
             "key": "SK_LW_SWO_006_5",
-            "value": ""
+            "value": "Sable de coral"
         },
         {
             "key": "SK_LW_SWO_007_1",
@@ -4027,6 +4223,18 @@
         {
             "key": "SK_LW_RNG_003_5",
             "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": "Sable carmesí"
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": "Sable carmesí"
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": "Sable carmesí"
         },
         {
             "key": "SK_VC_LW_GLEM_GS",
@@ -4306,6 +4514,26 @@
         },
         {
             "key": "SK_VC_LW_GUARD_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_GSAW",
             "value": ""
         },
         {
@@ -4717,6 +4945,26 @@
             "value": ""
         },
         {
+            "key": "SK_VC_MBFF_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_P",
             "value": ""
         },
@@ -5026,35 +5274,35 @@
         },
         {
             "key": "SK_BTL_RES_FIRE_1_80_U",
-            "value": "Res. a fuego 1-80↑"
+            "value": "Res. fuego 1-80↑"
         },
         {
             "key": "SK_BTL_RES_WATER_1_80_U",
-            "value": "Res. a agua 1-80↑"
+            "value": "Res. agua 1-80↑"
         },
         {
             "key": "SK_BTL_RES_WIND_1_80_U",
-            "value": "Res. a viento 1-80↑"
+            "value": "Res. viento 1-80↑"
         },
         {
             "key": "SK_BTL_RES_THUNDER_1_80_U",
-            "value": "Res. a rayo 1-80↑"
+            "value": "Res. rayo 1-80↑"
         },
         {
             "key": "SK_BTL_RES_ICE_1_80_U",
-            "value": "Res. a hielo 1-80↑"
+            "value": "Res. hielo 1-80↑"
         },
         {
             "key": "SK_BTL_RES_SOIL_1_80_U",
-            "value": "Res. a tierra 1-80↑"
+            "value": "Res. tierra 1-80↑"
         },
         {
             "key": "SK_BTL_RES_DARK_1_80_U",
-            "value": "Res. a sombra 1-80↑"
+            "value": "Res. oscuridad 1-80↑"
         },
         {
             "key": "SK_BTL_RES_SHINE_1_80_U",
-            "value": "Res. a luz 1-80↑"
+            "value": "Res. luz 1-80↑"
         },
         {
             "key": "SK_BTL_RES_ELEMALL_1_80_U",
@@ -5086,7 +5334,7 @@
         },
         {
             "key": "SK_BTL_RES_DARK_1_80_D",
-            "value": "Res. a oscuridad 1-80↓"
+            "value": "Res. oscuridad 1-80↓"
         },
         {
             "key": "SK_BTL_RES_SHINE_1_80_D",
@@ -5190,59 +5438,59 @@
         },
         {
             "key": "SK_BTL_RES_POISON_1_100_U",
-            "value": "Res. a veneno↑"
+            "value": "Res. veneno↑"
         },
         {
             "key": "SK_BTL_RES_DARKN_1_100_U",
-            "value": "Res. a ceguera↑"
+            "value": "Res. ceguera↑"
         },
         {
             "key": "SK_BTL_RES_SLEEP_1_100_U",
-            "value": "Res. a sueño↑"
+            "value": "Res. sueño↑"
         },
         {
             "key": "SK_BTL_RES_SILENCE_1_100_U",
-            "value": "Res. a silencio↑"
+            "value": "Res. silencio↑"
         },
         {
             "key": "SK_BTL_RES_PARA_1_100_U",
-            "value": "Res. a parálisis↑"
+            "value": "Res. parálisis↑"
         },
         {
             "key": "SK_BTL_RES_CONFU_1_100_U",
-            "value": "Res. a confusión↑"
+            "value": "Res. confusión↑"
         },
         {
             "key": "SK_BTL_RES_CHARM_1_100_U",
-            "value": "Res. a embrujo↑"
+            "value": "Res. embrujo↑"
         },
         {
             "key": "SK_BTL_RES_STONE_1_100_U",
-            "value": "Res. a piedra↑"
+            "value": "Res. piedra↑"
         },
         {
             "key": "SK_BTL_RES_TOAD_1_100_U",
-            "value": "Res. a rana↑"
+            "value": "Res. rana↑"
         },
         {
             "key": "SK_BTL_RES_SLOW_1_100_U",
-            "value": "Res. a freno↑"
+            "value": "Res. freno↑"
         },
         {
             "key": "SK_BTL_RES_STOP_1_100_U",
-            "value": "Res. a paro↑"
+            "value": "Res. paro↑"
         },
         {
             "key": "SK_BTL_RES_DACT_1_100_U",
-            "value": "Res. a inútil↑"
+            "value": "Res. inútil↑"
         },
         {
             "key": "SK_BTL_RES_DMOV_1_100_U",
-            "value": "Res. a inmóvil↑"
+            "value": "Res. inmóvil↑"
         },
         {
             "key": "SK_BTL_RES_BERSK_1_100_U",
-            "value": "Res. a locura↑"
+            "value": "Res. locura↑"
         },
         {
             "key": "SK_BTL_RES_POISON_1_100_D",
@@ -5311,6 +5559,250 @@
         {
             "key": "SK_BTL_RES_BERSK_1_100_D",
             "value": "Res. locura↓"
+        },
+        {
+            "key": "SK_BTL_FAP_1-999_U",
+            "value": "PA iniciales 1-999↑"
+        },
+        {
+            "key": "SK_BTL_FAP_1-999_D",
+            "value": "PA iniciales 1-999↓"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_U_KISO",
+            "value": "Res. mágica 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_U_KISO",
+            "value": "Res. a corte 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_U_KISO",
+            "value": "Res. a perforación 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_U_KISO",
+            "value": "Res. a proyectiles 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_U_KISO",
+            "value": "Res. a golpe 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_U_KISO",
+            "value": "Res. a todos los tipos de ataque 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_D_KISO",
+            "value": "Res. mágica 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_D_KISO",
+            "value": "Res. a corte 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_D_KISO",
+            "value": "Res. a perforación 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_D_KISO",
+            "value": "Res. a proyectiles 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_D_KISO",
+            "value": "Res. a golpe 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_D_KISO",
+            "value": "Res. a todos los tipos de ataque 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_U_KISO",
+            "value": "Res. fuego 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_U_KISO",
+            "value": "Res. agua 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_U_KISO",
+            "value": "Res. viento 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_U_KISO",
+            "value": "Res. rayo 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_U_KISO",
+            "value": "Res. hielo 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_U_KISO",
+            "value": "Res. tierra 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_U_KISO",
+            "value": "Res. oscuridad 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_U_KISO",
+            "value": "Res. luz 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_U_KISO",
+            "value": "Res. a todos los elementos 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_D_KISO",
+            "value": "Res. fuego 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_D_KISO",
+            "value": "Res. agua 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_D_KISO",
+            "value": "Res. viento 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_D_KISO",
+            "value": "Res. rayo 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_D_KISO",
+            "value": "Res. hielo 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_D_KISO",
+            "value": "Res. tierra 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_D_KISOARK_1_80_D_KISO",
+            "value": "Res. oscuridad 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_D_KISO",
+            "value": "Res. luz 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_D_KISO",
+            "value": "Res. a todos los elementos 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_U_PA",
+            "value": "VIT máx. 100-99 900↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_HP_1-999_U_PA",
+            "value": "VIT máx. 1-999↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_MP_1-999_U_PA",
+            "value": "PT máx. 1-999↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_AP_1-999_U_PA",
+            "value": "PA máx. 1-999↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_U_PA",
+            "value": "ATQ 1-999↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_U_PA",
+            "value": "MAG 1-999↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_DF_1-80_U_PA",
+            "value": "DEF 1-80↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_MDF_1-80_U_PA",
+            "value": "ESP 1-80↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_U_PA",
+            "value": "AGI 1-999↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_U_PA",
+            "value": "DES 1-999↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_U_PA",
+            "value": "Suerte 1-999↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_HATE_1-100_U_PA",
+            "value": "Odio 1-100↑ (pasiva)"
+        },
+        {
+            "key": "SK_BTL_SATK_1-100_U",
+            "value": "Res. a ataque de unidad 1-100↑"
+        },
+        {
+            "key": "SK_BTL_SATK_1-100_D",
+            "value": "Res. a ataque de unidad 1-100↓"
+        },
+        {
+            "key": "SK_BTL_RATK_1-100_U",
+            "value": "Res. a ataque de zona 1-100↑"
+        },
+        {
+            "key": "SK_BTL_RATK_1-100_D",
+            "value": "Res. a ataque de zona 1-100↓"
+        },
+        {
+            "key": "SK_BTL_KILLER_MAN_1-100_U",
+            "value": "Comehombres 1-100↑"
+        },
+        {
+            "key": "SK_BTL_KILLER_FIRE_1-100_U",
+            "value": "Comeígneos 1-100↑"
+        },
+        {
+            "key": "SK_BTL_KILLER_WATER_1-100_U",
+            "value": "Comeacuáticos 1-100↑"
+        },
+        {
+            "key": "SK_BTL_KILLER_WIND_1-100_U",
+            "value": "Comeaéreos 1-100↑"
+        },
+        {
+            "key": "SK_BTL_KILLER_THUNDER_1-100_U",
+            "value": "Comeeléctricos 1-100↑"
+        },
+        {
+            "key": "SK_BTL_KILLER_ICE_1-100_U",
+            "value": "Comegélidos 1-100↑"
+        },
+        {
+            "key": "SK_BTL_KILLER_SOIL_1-100_U",
+            "value": "Cometerrestres 1-100↑"
+        },
+        {
+            "key": "SK_BTL_KILLER_DARK_1-100_U",
+            "value": "Comeoscuros 1-100↑"
+        },
+        {
+            "key": "SK_BTL_KILLER_SHINE_1-100_U",
+            "value": "Comesacros 1-100↑"
+        },
+        {
+            "key": "SK_BTL_TOAD_1-100_U",
+            "value": "Probabilidad de estado alterado [rana] 1-100↑"
+        },
+        {
+            "key": "SK_BTL_STONE_1-100_U",
+            "value": "Probabilidad de estado alterado [piedra] 1-100↑"
+        },
+        {
+            "key": "SK_BTL_DONMV_1-100_D",
+            "value": "Probabilidad de estado alterado [inmóvil] 1-100↓"
+        },
+        {
+            "key": "SK_BTL_DEFPIERCE_1-100_U",
+            "value": "Tasa de penetración de DEF 1-100↑"
         },
         {
             "key": "SK_BTL_INV_DEATH",
@@ -5443,6 +5935,18 @@
         {
             "key": "SK_LW_WHM_P_2",
             "value": "Fe↑"
+        },
+        {
+            "key": "SK_ARMN_M_01_TW",
+            "value": "Mirada fija"
+        },
+        {
+            "key": "SK_ARMN_M_02_TW",
+            "value": "Mirada demoníaca"
+        },
+        {
+            "key": "SK_ARMN_M_03_TW",
+            "value": "Condena"
         }
     ]
 }

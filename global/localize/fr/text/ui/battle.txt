@@ -226,7 +226,7 @@
         },
         {
             "key": "UNITINFO_HIT",
-            "value": "Coup"
+            "value": "Coup "
         },
         {
             "key": "UNITINFO_CRITICAL",
@@ -619,6 +619,18 @@
         {
             "key": "BATTLE_HEIGHT_ABBREV",
             "value": "h"
+        },
+        {
+            "key": "MENU_SKIP",
+            "value": "Passer"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "★ supplémentaires obtenues"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "Les défenseurs absents dans le groupe adverse<br>vous ont rapporté <color=#F0C040>{0} ★</color>."
         },
         {
             "key": "RESULT_RETRY",

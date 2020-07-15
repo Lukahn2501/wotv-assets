@@ -362,11 +362,11 @@
         },
         {
             "key": "IT_SET_UR_UNIT",
-            "value": "A pack containing a UR Unit Guaranteed Summon Ticket, EXP Cubes (L/XL), and a Select Element Fragment of Thought x100 Summon Ticket, a Select Element Awakening Prism x100 Summon Ticket, a Rainbow Fragment of Thought, and Rainbow Vision Spheres. *Limited units, collaboration units, Kitone, \"Whisper\", and Miranda not included."
+            "value": "A pack containing a UR Unit Guaranteed Summon Ticket, EXP Cubes (L/XL), a Select Element Fragment of Thought x100 Summon Ticket, a Select Element Awakening Prism x100 Summon Ticket, a Rainbow Fragment of Thought, and Rainbow Vision Spheres. *Limited units, collaboration units, Kitone, \"Whisper\", and Miranda not included."
         },
         {
             "key": "IT_SET_UR_VC",
-            "value": "A pack containing a UR Vision Card Guaranteed Summon Ticket, Growth Eggs (R/SR), a Select Element Magicite (XL) x10 Summon Ticket, and Rainbow Vision Spheres. *Limited vision cards, collaboration vision cards, Realm Reaver, Odin not included."
+            "value": "A pack containing a UR Vision Card Guaranteed Summon Ticket, Growth Eggs (R/SR), a Select Element Magicite (XL) x10 Summon Ticket, and Rainbow Vision Spheres. *Limited vision cards, collaboration vision cards, and \"Realm Reaver, Odin\" not included."
         },
         {
             "key": "IT_SET_AW_WIND_04",
@@ -378,11 +378,11 @@
         },
         {
             "key": "IT_SET_UNIT",
-            "value": "A pack containing a Select Element Fragment of Thought x50 Summon Ticket. a Select Element Awakening Prism x50 Summon Tickets, and a Rainbow Vision Sphere."
+            "value": "A pack containing a Select Element Fragment of Thought x50 Summon Ticket, a Select Element Awakening Prism x50 Summon Ticket, and a Rainbow Vision Sphere."
         },
         {
             "key": "IT_SET_VC",
-            "value": "A pack containing a Select UR Vision Card Shard x50 Summon Ticket, Growth Eggs (SR), a Select Element Magicite (L) x100 Summon Ticket, and a Rainbow Vision Sphere. *Limited vision cards, collaboration vision cards, Gale-Begetting Heavenly Four, Tetra Sylphid not included."
+            "value": "A pack containing a Select UR Vision Card Shard x50 Summon Ticket, Growth Eggs (SR), a Select Element Magicite (L) x100 Summon Ticket, and a Rainbow Vision Sphere. *Limited vision cards, collaboration vision cards, and \"Gale-Begetting Heavenly Four, Tetra Sylphid\" not included."
         },
         {
             "key": "IT_SET_RAIDAP_01",
@@ -426,7 +426,7 @@
         },
         {
             "key": "IT_SET_AWK_GL01",
-            "value": "A special pack containing a Rainbow Vision Sphere, a Select Awakening Prism x100 Summon Ticket, and a Select Element Fragment of Thought x100 Summon Ticket! Essential for training units!"
+            "value": "A special pack containing a Select Element Fragment of Thought x100 Summon Ticket, a Select Awakening Prism x100 Summon Ticket, and a Rainbow Vision Sphere! Essential for training units!"
         },
         {
             "key": "IT_SET_STORY_GL_FREE_01",
@@ -451,6 +451,126 @@
         {
             "key": "IT_SET_WA_CRI_GL01",
             "value": "A special pack containing a Resmithing Hammer needed to reset an equipment item's stats, Damage Seals used to improve the chance of an equipment item's CRIT stat increasing when it's leveled up, and Finisher Dwarven Hammers used to further increase the CRIT stat of your equipment!"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "A special pack containing a Select UR Vision Card Shard x50 Summon Ticket for vision cards released by June 24. Also includes a Rainbow Vision Sphere, Growth Eggs (MR), and Gil Snappers (L) as a bonus! *The ticket will not feature any newly selectable vision cards in the future."
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "A pack containing vision card shards necessary for Limit Breaking \"Mobius of Despair and Truth,\" as well as Growth Eggs (MR), Rainbow Vision Spheres, and Gil Snappers (L) necessary for enhancement!"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "A pack containing vision card shards necessary for Limit Breaking \"Mobius of Hope and Illusion,\" as well as Growth Eggs (MR), Azure Vision Spheres, and Gil Snappers (L) necessary for enhancement!"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "A pack containing Growth Eggs (SR) and a Select Element Magicite (L) x100 Summon Ticket."
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "A pack containing a Select UR Unit Shard x40 Summon Ticket for units released by 6/17/2020, World Time (PST), EXP Cubes (XL), and a Rainbow Vision Sphere! *Select UR Unit Shard x40 Summon Ticket cannot be used for limited or collaborative units."
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "A pack containing Light Fragments of Thought and Light Awakening Prisms."
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "A pack containing Water Fragments of Thought and Water Awakening Prisms."
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "A special pack filled with UR Fryevia Unit Shards necessary for Limit Breaking, Ice Fragments of Thought necessary for Awakening, and bonus items such as a Rainbow Fragment of Thought and Rainbow Vision Spheres!"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "A special pack filled with Fire Alcrysts of all rarities. Essential for leveling up the Jobs of your Fire element units!"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "A special pack filled with Water Alcrysts of all rarities. Essential for leveling up the Jobs of your Water element units!"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "A special pack filled with Wind Alcrysts of all rarities. Essential for leveling up the Jobs of your Wind element units!"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "A special pack filled with Lightning Alcrysts of all rarities. Essential for leveling up the Jobs of your Lightning element units!"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "A special pack filled with Earth Alcrysts of all rarities. Essential for leveling up the Jobs of your Earth element units!"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "A special pack filled with Ice Alcrysts of all rarities. Essential for leveling up the Jobs of your Ice element units!"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "A special pack filled with Light Alcrysts of all rarities. Essential for leveling up the Jobs of your Light element units!"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "A special pack filled with Dark Alcrysts of all rarities. Essential for leveling up the Jobs of your Dark element units!"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "A special pack containing EXP Cubes of (XL), (L), (M), and (S) varieties! Essential for training units!"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "A special pack containing Adamantite (XL) together with bonus Armor Pots. Essential for enhancing your equipment and its abilities!"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "An item for restoring NRG that can purchased for free once a day!"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "A special pack containing a Select UR Vision Card Shard x50 Summon Ticket for vision cards released by June 17. Also includes a Rainbow Vision Sphere, Growth Eggs (MR), and Gil Snappers (L)! *The Select UR Vision Card Shard x50 Summon Ticket cannot be used for limited or collaborative vision cards. *The ticket will not feature any newly selectable vision cards in the future."
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "A special pack filled with Fire Fragments of Thought, Fire Awakening Prisms, and bonus Red Magicite (XL)! Essential for awakening fire element units and enhancing your espers!"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "A special pack filled with Water Fragments of Thought, Water Awakening Prisms, and bonus Light Blue Magicite (XL)! Essential for awakening water element units and enhancing your espers!"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "A special pack filled with Ice Fragments of Thought, Ice Awakening Prisms, and bonus Blue Magicite (XL)! Essential for awakening ice element units and enhancing your espers!"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "A special pack filled with Wind Fragments of Thought, Wind Awakening Prisms, and bonus Green Magicite (XL)! Essential for awakening wind element units and enhancing your espers!"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "A special pack filled with Lightning Fragments of Thought, Lightning Awakening Prisms, and Yellow Magicite (XL)! Essential for awakening lightning element units and enhancing your espers!"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "A special pack filled with Earth Fragments of Thought, Earth Awakening Prisms, and bonus Orange Magicite (XL)! Essential for awakening earth element units and enhancing your espers!"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "A special pack filled with Light Fragments of Thought, Light Awakening Prisms, and bonus White Magicite (XL)! Essential for awakening light element units and enhancing your espers!"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "A special pack filled with Dark Fragments of Thought, Dark Awakening Prisms, and bonus Purple Magicite (XL)! Essential for awakening dark element units and enhancing your espers!"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "A special pack containing Serpent's Venomous Fangs (L), Bull's Hefty Horns (L), Kirin's Manes (L), and Lion's Mighty Jaws (L)! Essential for training Guild Statues!"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "A special pack containing Dark Fragments of Thought, Dark Awakening Souls (2–6★), Rainbow Fragments of Thought, Rainbow Vision Spheres, and Dark Awakening Prisms! Essential for awakening dark element units!"
         }
     ]
 }

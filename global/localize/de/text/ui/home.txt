@@ -1522,7 +1522,7 @@
         },
         {
             "key": "NETHERBEAST_EQUIP_CONFIRM",
-            "value": "Bereits von einer anderen Einheit der Gruppe ausgerüstet. Trotzdem ausrüsten?<br>(Die andere Einheit legt den Esper ab.)"
+            "value": "Dieser Gegenstand ist bereits an eine andere Einheit ausgerüstet.<br>Trotzdem ausrüsten?<br>(Dadurch wird der Gegenstand<br>von der anderen Einheit entfernt.)"
         },
         {
             "key": "NETHERBEAST_LEVELUP_CHECK_TITLE",
@@ -5554,7 +5554,7 @@
         },
         {
             "key": "VISION_EQUIP_CONFIRM",
-            "value": "Bereits von einer anderen Einheit der Gruppe ausgerüstet. Trotzdem ausrüsten?<br>(Die andere Einheit legt den Esper ab.)"
+            "value": "Dieser Gegenstand ist bereits an eine andere Einheit ausgerüstet.<br>Trotzdem ausrüsten?<br>(Dadurch wird der Gegenstand<br>von der anderen Einheit entfernt.)"
         },
         {
             "key": "PVP_ARENA_BTN_TOP",
@@ -6246,7 +6246,7 @@
         },
         {
             "key": "GUILD_BEGINNER_PERIOD_FORMAT",
-            "value": "DD.MM, hh:mm -"
+            "value": "Ab dd.MM., HH:mm"
         },
         {
             "key": "GUILD_FORM_INPUT_TITLE",
@@ -6354,7 +6354,7 @@
         },
         {
             "key": "GUILD_LEAGUE_DURATION_PRE",
-            "value": "Kampf beginnt in"
+            "value": "Verbleibende Vorbereitungszeit:"
         },
         {
             "key": "GUILD_LEAGUE_DURATION_END",
@@ -7154,7 +7154,7 @@
         },
         {
             "key": "GUILD_STATUE_EFF_BARRACKJP",
-            "value": "JP-Gewinn (Kaserne)"
+            "value": "JP-Gewinnstufe (Kaserne)"
         },
         {
             "key": "GUILD_STATUE_EFF_MAXSUBLEADER",
@@ -7598,7 +7598,7 @@
         },
         {
             "key": "STATUE_EFF_STR6",
-            "value": "JP-Gewinn (Kaserne)"
+            "value": "JP-Gewinnstufe (Kaserne)"
         },
         {
             "key": "STATUE_EFF_STR7",
@@ -7658,7 +7658,7 @@
         },
         {
             "key": "GM_CONTINUATION_PACK_REWARD",
-            "value": "Fortsetzungspaket-Belohnungen"
+            "value": "Belohnungen des Besonderen 30-Tage-Visiorepakets"
         },
         {
             "key": "GM_GACHA_GIFT",
@@ -7834,11 +7834,11 @@
         },
         {
             "key": "TOWER_DETAIL_RANKING_TITLE_SPEED",
-            "value": "Du bist auf Platz 1 der Geschwindigkeitsrangliste dieses Stockwerks."
+            "value": "Platz 1 der Geschwindigkeitsrangliste dieses Stockwerks"
         },
         {
             "key": "TOWER_DETAIL_RANKING_TITLE_TECHNICAL",
-            "value": "Du bist auf Platz 1 der Technikrangliste dieses Stockwerks."
+            "value": "Platz 1 der Technikrangliste dieses Stockwerks"
         },
         {
             "key": "TOWER_DETAIL_RELIEF_SPEED",
@@ -7858,7 +7858,7 @@
         },
         {
             "key": "TOWER_RETRY_CAUTION",
-            "value": "<line-height=33>*Die Belohnungen für den Abschluss jedes Stockwerks können sich nach dem Zurücksetzen vom ersten Mal unterscheiden.<br><line-height=12><br><line-height=33>*EX-Aufträge, die beim ersten Durchgang nicht abgeschlossen wurden,<br>können im nächsten Eventzeitraum noch einmal angegangen werden."
+            "value": "<line-height=33>* Nach dem Zurücksetzen können sich die Abschlussbelohnungen der einzelnen Stockwerke vom ersten Durchgang unterscheiden,.<br><line-height=12><br><line-height=33>* Bitte beachte, dass du nach dem Zurücksetzen nicht mehr in der Lage sein wirst, die Belohnungen des ersten Durchgangs unabgeschlossener EX-Aufträge zu erhalten."
         },
         {
             "key": "TOWER_RETRY_BTN_RETRY",
@@ -8065,8 +8065,272 @@
             "value": "Besonderes 30-Tage-Visiorepaket"
         },
         {
+            "key": "GL_GM_CONTINUATION_PACK_REWARD_DAYS_REMAINING",
+            "value": "Belohnungen des Besonderen 30-Tage-Visiorepakets: noch ${days_remaining} Tag(e)"
+        },
+        {
             "key": "ARTI_STATUS_MAX",
             "value": "MAX.<br>Werte"
+        },
+        {
+            "key": "GL_BUY_LAPIS_ALREADY_OWNED_DESC",
+            "value": "Die Transaktion läuft gerade.<br>Bitte probiere es später nochmal."
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
+            "value": "Im Kampf"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
+            "value": "<line-height=20>Limitierter<br><size=15>Gildenkampf läuft!"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
+            "value": "Suche ..."
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
+            "value": "Kampf beginnen"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
+            "value": "Rechenvorgang ..."
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
+            "value": "Bereite nächsten Kampf vor"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
+            "value": "Ab dd.MM., HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
+            "value": "Bis dd.MM., HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
+            "value": "Bis dd.MM., HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
+            "value": "Endgültiges Ergebnis"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_TITLE",
+            "value": "Energiesparmodus"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_DESC",
+            "value": "<line-height=33>Wenn während des ausgewählten Zeitraums keine Eingabe erfolgt,<br>wird der Bildschirm automatisch umgeschaltet, um Akku zu sparen."
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_OFF",
+            "value": "AUS"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_SECOND",
+            "value": "30 Sek."
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_MINUTE",
+            "value": "1 Min."
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
+            "value": "3 Min."
+        },
+        {
+            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
+            "value": "Gegner festgelegt!"
+        },
+        {
+            "key": "GUILD_LIMITED_TITLE",
+            "value": "Limitierter Gildenkampf"
+        },
+        {
+            "key": "GUILD_LIMITED_POINT",
+            "value": "Kampfpunkte"
+        },
+        {
+            "key": "GUILD_LIMITED_PERIOD",
+            "value": "Dauer:"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END",
+            "value": "Endgültiges Ergebnis:"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END_FMT",
+            "value": "Bis dd.MM., HH:mm"
+        },
+        {
+            "key": "GUILD_RANKING_TAB_LIMITED",
+            "value": "Limitiert"
+        },
+        {
+            "key": "GUILD_RANKING_LIMITED_POINTS",
+            "value": "Kampfpunkte"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL",
+            "value": "Eventdetails"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_ABSTENTION",
+            "value": "<line-height=32>Teilnahme derzeit<br>nicht möglich"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE",
+            "value": "Kampfloser Sieg"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE_DESC",
+            "value": "Ohne Kampf gewonnen,<br>da kein Gegner gefunden werden konnte."
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
+            "value": "Keine verbleibenden Aktionen"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
+            "value": "Aktionslimit für diesen Gildenkampf erreicht."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_DESC",
+            "value": "<line-height=32>Teilnahme nicht möglich,<br>da die folgenden Teilnahmebedingungen<br>nicht erfüllt wurden."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
+            "value": "Gildenligastufe"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
+            "value": "über {0}"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
+            "value": "Gildenmitglieder"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
+            "value": "{0} oder mehr Mitglieder"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
+            "value": "Vorstand"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
+            "value": "Keine Anmeldung innerhalb von {0} Tag(en)"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_POINT",
+            "value": "Kampfpunkte:"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
+            "value": "{Kampfloser Sieg ★ {0}%)"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
+            "value": "Unterstützung"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
+            "value": "{0} ausgekundschaftet/n-Gruppe aufgedeckt"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
+            "value": "Ausgekundschaftet durch {0}/n-Gruppe aufgedeckt"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
+            "value": "Für {0} aufgefüllt/Aktionszahl der n-Gruppe wiederhergestellt"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
+            "value": "Von {0} aufgefüllt/Aktionszahl der n-Gruppe wiederhergestellt"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
+            "value": "Zu {0} gezaubert/Fähigkeiteneinsätze der n-Gruppe wiederhergestellt"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
+            "value": "Von {0} gezaubert/Fähigkeiteneinsätze der n-Gruppe wiederhergestellt"
+        },
+        {
+            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
+            "value": "Festgelegte Defensiv-Gruppen:"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
+            "value": "Angriff"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
+            "value": "Unterstützung"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_TITLE",
+            "value": "Unterstützung"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE",
+            "value": "Verwenden"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
+            "value": "{0}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
+            "value": "<color=#F0C040>{0}</color>von<br><color=#F0C040>{1}</color>von<br>{2}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
+            "value": "Aktionsbelohnungen abgeholt."
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
+            "value": "Wähle die gegnerische Gruppe, die du angreifen möchtest"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
+            "value": "Wähle eine Unterstützungsgruppe"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
+            "value": "{0}: Details"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
+            "value": "Belohnung für die Teilnahme an insgesamt ${entry_count} Kämpfen während des Limitierten Gildenkampfes vom ${period} "
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
+            "value": "Belohnung für den Limitierten Gildenkampf vom ${period} "
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
+            "value": "Belohnung für das Erreichen von Platz ${ranking} während des Limitierten Gildenkampfes vom ${period} "
+        },
+        {
+            "key": "QRCODE_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_MESSAGE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_ERROR_TITLE",
+            "value": "Fehler"
+        },
+        {
+            "key": "QRCODE_ERROR_MESSAGE",
+            "value": "Ungültige Plattform."
         },
         {
             "key": "SERVER_Normal_gacha_A_NAME",
@@ -8678,7 +8942,7 @@
         },
         {
             "key": "SERVER_IT_US_SE_SB_EXP_01_NAME",
-            "value": "„Auswählbarer Elementmaginit (L) x50“-Beschwörungsticket (50-malig"
+            "value": "„Auswählbarer Elementmaginit (L) x50“-Beschwörungsticket"
         },
         {
             "key": "SERVER_IT_US_SE_UR_U_01_NAME",

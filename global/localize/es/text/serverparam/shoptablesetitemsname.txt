@@ -451,6 +451,126 @@
         {
             "key": "IT_SET_WA_CRI_GL01",
             "value": "Lote de mejora de CRÍT de equipo"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "Lote de colaboración de MOBIUS FINAL FANTASY"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "Lote de entrenamiento de «Mobius de desesperación y verdad»"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "Lote de entrenamiento de «Mobius de esperanza e ilusión»"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "Lote de entrenamiento de carta de visión II"
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "Lote de entrenamiento de unidad"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "Lote del despertar de luz"
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "Lote del despertar de agua"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "Lote de entrenamiento de Fryevia"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "Lote de alcrists de fuego"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "Lote de alcrists de agua"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "Lote de alcrists de viento"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "Lote de alcrists de rayo"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "Lote de alcrists de tierra"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "Lote de alcrists de hielo"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "Lote de alcrists de luz"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "Lote de alcrists de oscuridad"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "Lote de cubos de EXP de celebración del lanzamiento de la Torre de Porcelana"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "Lote de habilidad de equipo"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "Cura de energía (G) gratuita diaria"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "Lote de entrenamiento de carta de visión de la Torre de Porcelana"
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (fuego)"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (agua)"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (hielo)"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (viento)"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (rayo)"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (tierra)"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (luz)"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (oscuridad)"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "Lote de mejora de estatuas del gremio"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "Lote del despertar total de oscuridad"
         }
     ]
 }

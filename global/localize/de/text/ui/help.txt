@@ -6,7 +6,7 @@
         },
         {
             "key": "HOMETOP_DESC",
-            "value": "■ Hauptbildschirm<br>Auf dem Hauptbildschirm kannst du aktuelle Events, Geschenke, Neuigkeiten und andere wichtige Informationen abrufen. <br>Ein Symbol wird angezeigt, wenn Belohnungen darauf warten, von dir abgeholt zu werden, oder wenn eine Einheit trainiert werden kann. <br><br>Du kannst Ausdauer regenerieren und Visiore kaufen, wenn du das + am oberen Bildschirmrand antippst. <br><br>■ Einheiten auf dem Hauptbildschirm <br>Wenn du die Schaltfläche in der unteren linken Ecke des Bildschirms antippst, kannst du die Einheiten auswechseln, die auf dem Hauptbildschirm angezeigt werden."
+            "value": "■ Hauptbildschirm<br>Auf dem Hauptbildschirm kannst du Geschenke, Neuigkeiten, aktuelle Events und andere wichtige Informationen abrufen. <br>Ein Symbol wird angezeigt, wenn eine Einheit trainiert werden kann, wenn Belohnungen darauf warten, von dir abgeholt zu werden oder wenn ein Update bereitsteht. <br><br>Du kannst Ausdauer regenerieren und Visiore kaufen, wenn du die „+“-Symbole am oberen Bildschirmrand antippst. <br><br>■ Einstellung der Einheit auf dem Hauptbildschirm <br>Wenn du die Schaltfläche in der unteren linken Ecke des Bildschirms antippst, kannst du die Einheit auswechseln, die auf dem Hauptbildschirm angezeigt wird."
         },
         {
             "key": "BUYLAPIS_TITLE",
@@ -1139,6 +1139,26 @@
         {
             "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
             "value": "Nachricht abschicken?"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "Auto-Kampf-Fähigkeiten"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_DESC",
+            "value": "Deaktivierte Fähigkeiten werden nicht in Auto-Kämpfen eingesetzt.<br>Du kannst außerdem noch andere Einstellungen festlegen, indem du auf Weitere Einstellungen tippst.<br>* Die Verfügbarkeit von Fähigkeiten hängt von den Jobeinstellungen der Einheit sowie von eventuellen Zustandsveränderungen ab, selbst wenn diese in Auto-Kämpfen aktiviert wurden."
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "Limitierte Gildenkämpfe"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_DESC",
+            "value": "In limitierten Gildenkämpfen kannst du Aktionen einsetzten, um den Gegner anzugreifen, deine Verbündeten zu unterstützen oder dem Gegner Steine in den Weg zu legen.<br><br>Wenn deine Gilde die folgenden Teilnahmebedingungen erfüllt, wird sie automatisch für den Kampf registriert und mit einem Gegner gepaart.<br>-Die Ligastufe befindet sich mindestens auf einer bestimmten Stufe<br>-Die Gilde hat mindestens 10 Mitglieder (inklusive Gildenvorstand und stellvertretenden Vorständen)<br>-Der Gildenvorstand hat sich innerhalb der letzten drei tage angemeldet<br>Die Gruppenaufstellungen für Gildenkämpfe sind in offensiv und defensiv orientierte Gruppen geteilt. Die Mitglieder dieser Gruppen kannst du unter Limitierter Gildenkampf auf dem Aufstellungsbildschirm festlegen.<br>*Die Anzahl der erstellbaren Gruppen sowie die Aufstellungsbedingungen hängen vom Gildenkampf ab.<br>*Legst du keine Defensiv-Gruppen fest, erhält dein Gegner leicht  ★, was sich als nachteilig erweisen kann.<br>*Sobald deine Gilde erfolgreich mit einem Gegner verbunden wurde, sind die Gruppenaufstellungenn für Gildenkämpfe fix. Jegliche Änderungen, die vorgenommen werden, nachdem der Gegner feststeht, werden nicht in diesen Gildenkampf übernommen.<br><br>■Kampfergebnis<br>Am Ende der Kampfphase gewinnt die Gilde mit der höheren Anzahl von durch Mitglieder erbeuteten ★.<br>Wenn beide Gilden über gleich viele ★ verfügen, gewinnt die Gilde mit dem höheren Gesamtschadensanteil.<br>Wenn beide Gilden über die gleiche Anzahl ★ sowie den gleichen Gesamtschadensanteil verfügen, gewinnt die Gilde mit dem höheren Gesamtwert aller Defensiv-Grupen.<br>* Wieviele ★ durch Besiegen einer Einheit erbeutet werden, hängt von der Größe der gegnerischen Gruppe ab.<br><br>■Ergebnispunkte<br>Ergebnispunkte können unabhängig davon verdient werden, ob deine Gilde gewinnt oder verliert.<br>Die Gesamtplatzierung wird durch deine Ergebnispunkte bestimmt.<br><br>Außerdem kannst du folgendes tun, um mehr Ergebnispunkte zu erhalten:<br>-Gewinne Gildenkämpfe<br>-Erbeute einen höheren Anteil an ★ in Kämpfen<br>-Erziele einen höheren Gesamtwert aller Defensiv-Grupen<br>-Gewinne Kämpfe nacheinander<br><br>■Belohnungen<br>In Limitierten Gildenkämpfen kannst du die folgenden Belohnungen erhalten<br>-Teilnahmebelohnungen, die sich nach der Anzahl der bestrittenen Kämpfe richten<br>-Kampfbelohnungen, die sich nach der Anzahl in den einzelnen Kämpfen erbeuteten  ★ richten<br>-Aktionsbelohnungen, die sich nach den zur Unterstützung von Verbündeten ausgegebenen Aktionspunkten richten<br>-Ergebnisbelohnungen, die sich nach dem Anteil der von allen Gildenmitgliedern erbeuteten ★ richten<br>-Gesamtplatzierungsbelohnungen, die sich nach der endgültigen Platzierung deiner Gilde richten"
+        },
+        {
+            "key": "；オートバトル対象アビリティ",
+            "value": ""
         },
         {
             "key": "ARTI_SELECT_TITLE",

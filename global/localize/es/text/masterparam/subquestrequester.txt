@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Recepcionista de la academia"
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Aventurero experto"
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "Recepcionista del gremio"
         }
     ]
 }

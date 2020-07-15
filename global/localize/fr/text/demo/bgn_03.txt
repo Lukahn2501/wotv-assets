@@ -10,7 +10,7 @@
         },
         {
             "key": "002",
-            "value": "Au même titre que les unités, les aptitudes d'attaque appartiennent à l'un des éléments suivants. <color=#0000ff>Le feu</color>, <color=#0000ff>la glace</color>, <color=#0000ff>le vent</color>, <color=#0000ff>la terre</color>, <color=#0000ff>la foudre</color>, <color=#0000ff>l'eau</color>, <color=#0000ff>la lumière</color>, ou bien <color=#0000ff>les ténèbres</color>."
+            "value": "Au même titre que les unités, les aptitudes d'attaque appartiennent à l'un des éléments suivants. <color=#0000ff>Le feu</color>, <color=#0000ff>la glace</color>, <color=#0000ff>le vent</color>, <color=#0000ff>la terre</color>, <color=#0000ff>la foudre</color>, <color=#0000ff>l'eau</color>, <color=#0000ff>la lumière</color>, ou bien <color=#0000ff>l'ombre</color>."
         },
         {
             "key": "//色指定更新//",

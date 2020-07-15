@@ -1411,6 +1411,38 @@
         {
             "key": "SNS_LIMIT_REACHED",
             "value": "SNS limit reached"
+        },
+        {
+            "key": "APP_ERROR_5201",
+            "value": "存在しないコードです。"
+        },
+        {
+            "key": "APP_ERROR_5202",
+            "value": "キャンペーンが期間外です。"
+        },
+        {
+            "key": "APP_ERROR_5203",
+            "value": "キャンペーン最大受取回数を超過しています。"
+        },
+        {
+            "key": "APP_ERROR_5204",
+            "value": "使用済みのシリアルコードです。"
+        },
+        {
+            "key": "APP_ERROR_5205",
+            "value": "無効なプラットフォームです。"
+        },
+        {
+            "key": "APP_ERROR_5300",
+            "value": "対象のパーティが不正です。"
+        },
+        {
+            "key": "APP_ERROR_5301",
+            "value": "行動数が足りません。"
+        },
+        {
+            "key": "APP_ERROR_5302",
+            "value": "パーティに変更がありました。更新して改めてお試しください。"
         }
     ]
 }

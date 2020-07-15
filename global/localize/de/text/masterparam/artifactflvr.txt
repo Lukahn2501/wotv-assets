@@ -1861,6 +1861,34 @@
             "value": "Das rote Schwert, das von Adelard geführt wird. Es wurde aus einem magieleitenden Material gefertigt, um dem Rotmagier das Wirken von Zaubern zu ermöglichen. Hochkompatibel mit Feuer, reicht schon eine kleine Menge Magie aus, um eine Stichflamme an der Klinge zu entfachen."
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "Eine leichte und robuste Rüstung, bei deren rechtmäßigem Besitzer es sich eigentlich um einen Dragoner aus Heindler handelt. Jetzt speziell an Viktoras Bedürfnisse angepasst, verleiht sie ihrer Trägerin außergewöhnliche Kontrolle im freien Fall, sodass es beinahe so wirkt, als könne Viktora einen Moment lang in der Luft anhalten."
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "Eine Schleife, die Salire als modisches Statement um den Schenkel gebunden trägt. Sie wurde mit Magie belegt, die sie auch bei intensiver körperlicher Ertüchtigung nicht herunterrutschen lässt. Salires Logik zufolge sind ihre Beine nicht nackt, da sie ja die Schleife trägt, doch diese Ansicht teilt niemand."
+        },
+        {
+            "key": "AF_CLT_LW_RAIN_1",
+            "value": "Rains Ausrüstung, die in Rot und Dunkelgrün strahlt und von goldenen Ornamenten akzentuiert wird. Der Fokus lag bei ihrer Herstellung auf Beweglichkeit, um mühelos in die Reihen der Gegner schneiden zu können. Ihr leuchtendes Rot macht ihren Träger auf dem Schlachtfeld leicht ersichtlich, doch keine andere Farbe wäre jemandem, der seine Gefährten mit unerschütterlicher Entschlossenheit und Überlebenswillen in den Kampf führt, würdig."
+        },
+        {
+            "key": "AF_ACC_LW_FRVA_1",
+            "value": "Fryevias liebster Haarschmuck, ein Prachtstück voller floraler Verzierungen. Es handelt sich hierbeit um ein von Generation zu Generation weitergegebenes Erbstück ihrer Familie, und sie vergisst auch in aufreibenden Zeiten nicht, es sich anzustecken und damit ihre Eleganz zu wahren."
+        },
+        {
+            "key": "AF_ACC_LW_VNLA_1",
+            "value": "Ein Paar Schuhe, das speziell angefertigt wurde, um Vineras Schönheit zu unterstreichen. Als sie in das Königshaus Hournes einheiratete, schallte das Klackern ihrer Stöckel noch kalt und freudlos durch die Gänge des Schlosses, wie um ihr distanziertes Verhältnis zur Königsfamilie widerzuspiegeln, doch als sie und Dario einander näher kamen, verwandelte sich auch dies in einen lockeren, freundlichen Klang. Es heißt, der Klang ergänze ihre Schönheit und bringe ihr die Bewunderung vieler ein."
+        },
+        {
+            "key": "AF_SWO_LW_DRIO_1",
+            "value": "Ein Schwert, das Dario von ebenjenem Meisterschmied erhielt, der auch das Schwert seines Vaters geschmiedet hatte. Die Klinge ist nicht nur außerordentlich scharf, sondern besitzt auch herausragende Magieleiteigenschaften. Seinem Namen alle Ehre machend, blitzt dieses Schwert hell auf, sobald es mit Magie geschwungen wird, und besitzt unglaubliches destruktives Potenzial. Dies ist auch der Grund, warum Dario nicht nur seine eigenen Fähigkeiten, sondern auch diese Waffe fürchtet."
+        },
+        {
+            "key": "AF_ACC_LW_TREL_1",
+            "value": "Eine Krone, die Shinobi aus Fennes zum Abschluss ihrer Ausbildung verliehen wird. Ursprünglich von sehr schlichtem Design, dekorierte Tyrrel sie eigenhändig prachtvoll um; da sie aus einer leichten sowie robusten Metalllegierung besteht, ändert dies jedoch nichts an ihren Verteidigungseigenschaften. Tyrrel fand Gefallen daran, selbst zahlreiche Kronen herzustellen, bevor er nach Hourne kam – sehr zum Ärger seines Vorgesetzten in der Shinobi-Ausbildungsstätte."
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Dieses einhändig geführte Schwert wurde von einem ausschließlich für Leonis arbeitenden Waffenschmied speziell für Mont angefertigt. Geschmiedet wurde es gemäß des Prinzen Bitte nach einem Schwert, das für ihn am einfachsten zu handhaben sei. Sein Aussehen erinnert eher an das einer liebgewonnenen und ausgiebig benutzten Übungsklinge. Andere mögen zwar der Meinung sein, dass dem Prinzen eine etwas „königlicher“ anmutende Waffe besser zu Gesicht stünde. Doch Mont selber ist von seinem Schwert über alle Maßen angetan."
         },
@@ -1933,16 +1961,20 @@
             "value": "Lu‘Cias geliebte Pistole, eine Hochleistungswaffe mit der modernsten Technologie, die Rundall zu bieten hat. Als „verzaubernd“ wird sie deswegen bezeichnet, da sie die einzigartige Eigenschaft hat, mit unvergleichlicher Präzision das Herz eines jeden zu durchstoßen, auf den sie gerichtet wird."
         },
         {
-            "key": "AF_ARM_LW_VKTR_1",
-            "value": "Eine leichte und robuste Rüstung, bei deren rechtmäßigem Besitzer es sich eigentlich um einen Dragoner aus Heindler handelt. Jetzt speziell an Viktoras Bedürfnisse angepasst, verleiht sie ihrer Trägerin außergewöhnliche Kontrolle im freien Fall, sodass es beinahe so wirkt, als könne Viktora einen Moment lang in der Luft anhalten."
-        },
-        {
             "key": "AF_SPE_LW_VKTR_2",
             "value": "Eine Lanze, die in Viktoras Besitz wechselte, als diese noch nichts anderes hatte, das sie ihr Eigen nennen durfte. Anfangs brüchig und instabil, wurde diese Lanze wieder und wieder von Viktora verbessert und mit Dekorationen versehen, sodass sie mittlerweile nicht nur schwer und robust ist, sondern auch eine wahre Augenweide. Viktora ist die Einzige, die sich noch daran erinnert, wie ihre geliebte Waffe ursprünglich aussah."
         },
         {
-            "key": "AF_ACC_LW_THLA_1",
-            "value": "Eine Schleife, die Salire als modisches Statement um den Schenkel gebunden trägt. Sie wurde mit Magie belegt, die sie auch bei intensiver körperlicher Ertüchtigung nicht herunterrutschen lässt. Salires Logik zufolge sind ihre Beine nicht nackt, da sie ja die Schleife trägt, doch diese Ansicht teilt niemand."
+            "key": "AF_BSW_LW_RAIN_2",
+            "value": ""
+        },
+        {
+            "key": "AF_SWO_LW_FRVA_2",
+            "value": "Ein schlankes Schwert, das Fryevia sehr am Herzen liegt und das einst von einem weithin gepriesenen Schwertkämpfer geführt worden sein soll. Sie erhielt es von ihrem Großvater als Geschenk zu ihrer Volljährigkeit, und es zeichnet sich nicht durch sein elegantes Äußeres, sondern auch durch seine Leichtigkeit und einfache Handhabe aus."
+        },
+        {
+            "key": "AF_DAG_LW_VNLA_2",
+            "value": "Eine einzigartig geformte Mordwaffe, die dazu ausgelegt ist, sich an Knochen vorbeizuwinden und die Organe zu treffen. Da Vinera in der Lage ist, diese Waffe mit einer überaus natürlichen Bewegung zu ziehen, fällt es selbst den hartgesottensten Veteranen schwer, ihre Präsenz zu erahnen."
         },
         {
             "key": "AF_LW_RNG_005",
@@ -1967,6 +1999,10 @@
         {
             "key": "AF_LW_RNG_005_5",
             "value": "Ein mit einem faszinierend leuchtenden Alexandrit besetzter Ring. Seine Eigenschaft, mit auftreffendem Licht seine Farbe zu ändern, brachte ihm den Titel „König der Edelsteine“ ein. Exemplare, die sich durch hohe Transparenz und Farbenreichtum auszeichnen, sind außerordentlich selten und wechseln nur gegen hohe Preise den Besitzer."
+        },
+        {
+            "key": "AF_LW_BSW_011",
+            "value": "Das geliebte Schwert von Rain, Ritter von Grandshelt. Die prächtige Silberklinge reagiert auf die starken Emotionen ihres Besitzers und leuchtet wie eine gleißende Flamme auf. Mit seinem verjüngten Mittelteil hebt sich dieses Schwert von den meisten im Umlauf befindlichen Schwertern ab und wurde gewiss unter Einsatz einer ganz besonderen Schmiedetechnik hergestellt."
         }
     ]
 }

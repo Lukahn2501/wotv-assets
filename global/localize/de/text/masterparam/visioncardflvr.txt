@@ -65,6 +65,10 @@
             "value": "　Vier Schwestern unvergleichlicher Schönheit, die die Winde mit sich bringen. Neben den Flügeln und pompösen Federn auf ihrem Haupt schmücken sie sich außerdem noch mit goldenen Diademen. Die Schönheit ihrer Schwingen zieht seit alten Zeiten Menschen in ihren Bann, doch wer es wagt, sich den Schwestern ungeschickt zu nähern, zieht sogleich ihren rasenden Zorn auf sich. Kombiniert sind die Winde, die ihre Schwingen entfachen, in der Lage, einen kolossalen Tornado zu entfachen, und sie gelten nicht ohne Grund als stärkste aller Fabelwesen."
         },
         {
+            "key": "VC_MBFF_MV1",
+            "value": "„Der Krieger des Lichts wird Chaos besiegen und die Welt zur Erlösung führen.“<br>So lautet die Prophezeiung – doch es kam anders als vorhergesagt ... Das Chaos, das die Menschheit in die Verzweiflung trieb, wurde beseitigt, doch der Held, der ihnen Hoffnung gab, verschwand.<br><br>Ja – durch deine Hand.<br><br>Du warst es, der die Erzählung des „Kriegers des Lichts“ beendet hat.<br>Und so wurde die mutige Gestalt des „Kriegers des Lichts“ – DU –<br>von der Welt vergessen.<br><br>Die Menschen flüstern, ihre Erinnerungen sind verloren.<br><br>Es gibt den einen, der diese einst wunderschöne Welt voller Hoffnung veränderte.<br><br>„Der Krieger der Verzweiflung“, den keiner kennt.<br>In einem Zeitalter ohne Geschichten hungert die Welt nach einer neuen Legende."
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "　Ein gigantisches Monster, gekleidet in eine edle Eisenrüstung, mit überragender Offensive und Defensive. Selbst seine von der Rüstung unbedeckte Haut ist so hart wie Metall. Daher liegt man wohl kaum falsch in der Annahme, dass seine defensiven Kapazitäten weit fortgeschrittener sind, als man mit bloßem Auge erkennen kann. Seine Angriffe sind heftig und überraschend flink für einen Giganten in einem schweren Panzer. Man vermutet, dass der Eisengigant von einer Art Magie oder durch irgendeine Beschwörungsformel in den Kampf gesteuert wird."
         },
@@ -127,6 +131,10 @@
         {
             "key": "VC_LW_OCHU",
             "value": "　Ein massives Pflanzenmonster, dessen Größe mühelos kleinere Hügel in den Schatten stellt. Neben seinem gigantischen Maul mit spitzen Fangzähnen zeichnet es sich durch seine zahllosen Ranken aus, die den Barteln eines Wels ähneln. Es ist berüchtigt für seine Fähigkeit, eine Reihe schädlicher Zustandsveränderungen wie Gift oder Lähmung hervorrufen zu können. Sobald es in Erregung gerät, schüttelt es seinen gewaltigen Körper, was für manche eine Art Tanz darstellt. Oft werden sie auch von einer Schar junger Kleinküsschen begleitet."
+        },
+        {
+            "key": "VC_MBFF_MV2",
+            "value": "　Diese Welt ist nicht die deine. Deines Gedächtnisses beraubt findest du dich hier, in Palamecia, wieder. Doch du bist nicht der Einzige; neben dir hat es auch viele andere hierher verschlagen, die sich an nichts erinnern können. Ohne Vergangenheit nennt man euch die „Blanks“. Doch wenngleich ihr eure Vergangenheit verloren habt, bleibt euch immer noch die Zukunft.<br>In Palamecia gibt es eine Prophezeiung, die lautet: „Eines Tages wird der Krieger des Lichts auftauchen und der Welt die Hoffnung zurückbringen.“<br>Kann es sein, dass einer der Blanks – oder etwa sogar du – der Krieger des Lichts aus der Prophezeiung ist?<br>Kämpfe für die Zukunft und bringe Hoffnung nach Palamecia!"
         },
         {
             "key": "VC_LW_CACT",
@@ -235,6 +243,10 @@
         {
             "key": "VC_EXP_03",
             "value": "　Ein durchsichtiger, eierförmiger Behälter, der bis zum Rand mit einer seltsamen Flüssigkeit gefüllt ist. Bei näherem Hinsehen kann man beobachten, wie feine Bläschen sanft vom Grund aufsteigen. Dieses Ei erlaubt die Verbesserung einer Visionskarte."
+        },
+        {
+            "key": "VC_EXP_04",
+            "value": "　Ein durchscheinendes, eiförmiges Gefäß, das bis zum Rand mit einer rätselhaften Flüssigkeit gefüllt ist. Bei genauerem Hinsehen sind einige Bläschen zu erkennen, die sanft im Inneren hin- und herschweben. Der Einsatz dieses Kleinods ermöglicht die Verbesserung einer Visionskarte."
         }
     ]
 }

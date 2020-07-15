@@ -106,11 +106,15 @@
         },
         {
             "key": "SupportUnit",
-            "value": "Cambiar"
+            "value": "Ajustes del compañero"
         },
         {
             "key": "ItemExchange",
             "value": "Tienda de intercambio"
+        },
+        {
+            "key": "Tower",
+            "value": "Torre"
         }
     ]
 }

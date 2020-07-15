@@ -299,6 +299,22 @@
         {
             "key": "DEFAULT_PARTY_NAME",
             "value": "Gruppe {0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
+            "value": "Die Slots in deiner Gruppe sind nicht vollständig besetzt."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
+            "value": "Leere Slots in deiner Gruppe können sich in limitierten Gildenkämpfen als nachteilig erweisen. Trotzdem fortfahren?"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
+            "value": "Aufstellungsbedingungen nicht erfüllt."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
+            "value": "Da die Aufstellungsbedingungen nicht erfüllt wurden, wurde deine vorherige Aufstellung entfernt."
         }
     ]
 }

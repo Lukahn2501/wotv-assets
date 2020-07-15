@@ -550,7 +550,7 @@
         },
         {
             "key": "AP_HEAL_CHECK_ITEM_DESC_RAID",
-            "value": "<line-height=36>Une fois l'opération complétée, vous aurez restauré {0} fois vos orbes de raid aujourd'hui.<br>Utiliser une restauration multi raid pour restaurer entièrement vos orbes de raid ?"
+            "value": "<line-height=36>Une fois l'opération complétée, vous aurez restauré {0} fois vos orbes de raid aujourd'hui.<br>Utiliser une restauration multi-raid pour restaurer entièrement vos orbes de raid ?"
         },
         {
             "key": "AP_HEAL_CHECK_ITEM_DESC_CLASSMATCH",
@@ -570,11 +570,11 @@
         },
         {
             "key": "PRESENT_MENU_NOT_LIMITED",
-            "value": "Permanent"
+            "value": "Permanents"
         },
         {
             "key": "PRESENT_MENU_LIMITED",
-            "value": "Limité"
+            "value": "Limités"
         },
         {
             "key": "PRESENT_MENU_HISTORY",
@@ -862,7 +862,7 @@
         },
         {
             "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
-            "value": "Renforcement"
+            "value": "Améliorer"
         },
         {
             "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
@@ -1050,7 +1050,7 @@
         },
         {
             "key": "UNIT_JOB_LEVELUP_TITLE",
-            "value": "Renforcement de job"
+            "value": "Amélioration de job"
         },
         {
             "key": "UNIT_JOB_LEVELUP_DESC",
@@ -1078,7 +1078,7 @@
         },
         {
             "key": "UNIT_JOB_SUBSTITUTE_TITLE",
-            "value": "Matériaux de renforcement"
+            "value": "Matériaux d'amélioration"
         },
         {
             "key": "UNIT_STATUS_DETAIL_TITLE",
@@ -1198,7 +1198,7 @@
         },
         {
             "key": "ABILITY_BOARD_ENHANCE",
-            "value": "Renforcement"
+            "value": "Améliorer"
         },
         {
             "key": "ABILITY_BOARD_ENHANCE_LIST",
@@ -1522,7 +1522,7 @@
         },
         {
             "key": "NETHERBEAST_EQUIP_CONFIRM",
-            "value": "Une autre unité du groupe est déjà équipée du même objet. Équiper malgré tout ?<br>(L'objet sera retiré de l'équipement de l'autre unité.)"
+            "value": "Cet équipement est déjà utilisé<br>par une autre unité.<br>Équiper quand même ?<br>(L'autre unité perdra<br>l'équipement.)"
         },
         {
             "key": "NETHERBEAST_LEVELUP_CHECK_TITLE",
@@ -1894,7 +1894,7 @@
         },
         {
             "key": "ARTI_ENHANCE",
-            "value": "Renforcement"
+            "value": "Améliorer"
         },
         {
             "key": "ARTI_AWAKE",
@@ -1910,7 +1910,7 @@
         },
         {
             "key": "ARTI_ENHANCE_ITEM_TITLE",
-            "value": "Matériaux de renforcement"
+            "value": "Matériaux d'amélioration"
         },
         {
             "key": "ARTI_STATUS_UP",
@@ -2010,7 +2010,7 @@
         },
         {
             "key": "ARTI_ENHANCE_CAUTION",
-            "value": "Vous ne possédez aucun matériau de renforcement"
+            "value": "Vous ne possédez aucun matériau d'amélioration"
         },
         {
             "key": "ARTI_FAVORITE_STATUS",
@@ -2250,7 +2250,7 @@
         },
         {
             "key": "SHOP_LIMITED_ONCE",
-            "value": "<size=1.25em>{0}</size>X SEULEMENT."
+            "value": "<size=1.25em>{0}</size>X SEULEMENT"
         },
         {
             "key": "SHOP_LIMITED_DAY",
@@ -2350,7 +2350,7 @@
         },
         {
             "key": "SHOP_TAB_NORMAL",
-            "value": "Normal"
+            "value": "Ordinaire"
         },
         {
             "key": "SHOP_TAB_NORMAL2",
@@ -2394,7 +2394,7 @@
         },
         {
             "key": "SHOP_MISSION_CLEAR_LIST",
-            "value": "Complétée"
+            "value": "Missions complétées"
         },
         {
             "key": "SHOP_UPDATE_TITLE",
@@ -2514,7 +2514,7 @@
         },
         {
             "key": "SHOP_SELL_ITEM_TITLE",
-            "value": "Échanger contre des gils"
+            "value": "Échange contre des gils"
         },
         {
             "key": "SHOP_SELL_ITEM_DESC",
@@ -4226,7 +4226,7 @@
         },
         {
             "key": "MISSION_COMPLETE",
-            "value": "Complétée"
+            "value": "Historique"
         },
         {
             "key": "MISSION_COMPLETE_TITLE",
@@ -4262,7 +4262,7 @@
         },
         {
             "key": "MISSION_TAB_DAILY",
-            "value": "Quotidienne"
+            "value": "Quotidiennes"
         },
         {
             "key": "MISSION_TAB_RECORD",
@@ -4298,7 +4298,7 @@
         },
         {
             "key": "MISSION_DAILY_WEEKSTART",
-            "value": "Mission du lundi"
+            "value": "Missions du lundi"
         },
         {
             "key": "MISSION_DAILY_COMEBACK",
@@ -4382,7 +4382,7 @@
         },
         {
             "key": "CHALLENGE_TITLE",
-            "value": "Missions de défi n°{0}"
+            "value": "Missions du défi n°{0}"
         },
         {
             "key": "CHALLENGE_GET",
@@ -4474,7 +4474,7 @@
         },
         {
             "key": "GACHA_HISTORY",
-            "value": "Rslts précéd."
+            "value": "Historique"
         },
         {
             "key": "GACHA_TICKET",
@@ -4582,7 +4582,7 @@
         },
         {
             "key": "GACHA_TICKET_GACHA",
-            "value": "Invocation"
+            "value": "Invoquer"
         },
         {
             "key": "GACHA_TICKET_NORMAL",
@@ -4602,7 +4602,7 @@
         },
         {
             "key": "GACHA_TICKET_GET_UNIT_AMOUNT_TITLE",
-            "value": "Invocation :"
+            "value": "Invocations :"
         },
         {
             "key": "GACHA_TICKET_CAUTION_MAX",
@@ -5210,7 +5210,7 @@
         },
         {
             "key": "BUY_LAPIS_FIRST_LIMITED_TEXT",
-            "value": "<size=1.25em>{0}</size> FOIS SEULEMENT."
+            "value": "<size=1.25em>{0}</size>X SEULEMENT"
         },
         {
             "key": "BUY_LAPIS_LIMITED_DAY_NUM_TEXT",
@@ -5434,7 +5434,7 @@
         },
         {
             "key": "VISION_RARITY_CHECK_TITLE_ENHANCE",
-            "value": "Confirmer le renforcement"
+            "value": "Confirmer l'amélioration"
         },
         {
             "key": "VISION_RARITY_CHECK_TITLE_SELL",
@@ -5454,7 +5454,7 @@
         },
         {
             "key": "VISION_RARITY_CHECK_ENHANCE",
-            "value": "Renforcement"
+            "value": "Améliorer"
         },
         {
             "key": "VISION_RARITY_CHECK_SELL",
@@ -5482,7 +5482,7 @@
         },
         {
             "key": "VISION_BULK_ENHANCE_CATEGORY_ENHANCE",
-            "value": "Atouts-Visions de renforcement"
+            "value": "Cartes d'amélioration"
         },
         {
             "key": "VISION_BULK_ENHANCE_CAUTION",
@@ -5498,7 +5498,7 @@
         },
         {
             "key": "VISION_ENHANCE_CHECK_TITLE",
-            "value": "Confirmer le renforcement"
+            "value": "Confirmer l'amélioration"
         },
         {
             "key": "VISION_ENHANCE_CHECK_DESC",
@@ -5554,7 +5554,7 @@
         },
         {
             "key": "VISION_EQUIP_CONFIRM",
-            "value": "Une autre unité du groupe est déjà équipée du même objet. Équiper malgré tout ?<br>(L'objet sera retiré de l'équipement de l'autre unité.)"
+            "value": "Cet équipement est déjà utilisé<br>par une autre unité.<br>Équiper quand même ?<br>(L'autre unité perdra<br>l'équipement.)"
         },
         {
             "key": "PVP_ARENA_BTN_TOP",
@@ -6246,7 +6246,7 @@
         },
         {
             "key": "GUILD_BEGINNER_PERIOD_FORMAT",
-            "value": "HH:mm, dd/MM - "
+            "value": "DD/MM/YYYY, hh:mm - "
         },
         {
             "key": "GUILD_FORM_INPUT_TITLE",
@@ -6306,7 +6306,7 @@
         },
         {
             "key": "GUILD_LEAGUE_IN_BATTLE",
-            "value": "Combat en cours"
+            "value": "En combat"
         },
         {
             "key": "GUILD_LEAGUE_FLAG_END",
@@ -6338,7 +6338,7 @@
         },
         {
             "key": "GUILD_LEAGUE_BANNER_NOW",
-            "value": "Combat en cours"
+            "value": "En combat"
         },
         {
             "key": "GUILD_LEAGUE_DURATION_MATCHING",
@@ -6354,7 +6354,7 @@
         },
         {
             "key": "GUILD_LEAGUE_DURATION_PRE",
-            "value": "Le combat commence dans"
+            "value": "Temps de préparation restant :"
         },
         {
             "key": "GUILD_LEAGUE_DURATION_END",
@@ -7154,7 +7154,7 @@
         },
         {
             "key": "GUILD_STATUE_EFF_BARRACKJP",
-            "value": "Obtention de PJ dans la caserne"
+            "value": "Niveau d'acquisition de PJ dans la caserne"
         },
         {
             "key": "GUILD_STATUE_EFF_MAXSUBLEADER",
@@ -7170,7 +7170,7 @@
         },
         {
             "key": "GUILD_STATUE_ENHANCE_MAT",
-            "value": "Matériaux de renforcement"
+            "value": "Matériaux d'amélioration"
         },
         {
             "key": "GUILD_STATUE_ENHANCE_USED",
@@ -7294,7 +7294,7 @@
         },
         {
             "key": "GUILD_BATTLE_STATE_BATTLE",
-            "value": "Combat en cours"
+            "value": "En combat"
         },
         {
             "key": "GUILD_BATTLE_STATE_END",
@@ -7386,7 +7386,7 @@
         },
         {
             "key": "GUILD_BATTLE_NOATTACK_DIALOG_DESC",
-            "value": "Nombre d'attaques max atteint pour ce combat de guilde."
+            "value": "Vous ne pouvez plus lancer d'attaque<br>pendant ce combat de guilde."
         },
         {
             "key": "GUILD_BATTLE_PLAYER_DETAIL_ABILITY",
@@ -7598,7 +7598,7 @@
         },
         {
             "key": "STATUE_EFF_STR6",
-            "value": "Obtention de PJ dans la caserne"
+            "value": "Niveau d'acquisition de PJ dans la caserne"
         },
         {
             "key": "STATUE_EFF_STR7",
@@ -7658,7 +7658,7 @@
         },
         {
             "key": "GM_CONTINUATION_PACK_REWARD",
-            "value": "Récompenses du Lot « Continu »"
+            "value": "Récompenses du lot de visiores 30 jours"
         },
         {
             "key": "GM_GACHA_GIFT",
@@ -7694,7 +7694,7 @@
         },
         {
             "key": "GM_LOGINBONUS_REWARD",
-            "value": "${loginbonus}, jour ${day}"
+            "value": "${loginbonus},<br>jour ${day}"
         },
         {
             "key": "GM_REALMONEYSHOP",
@@ -7774,7 +7774,7 @@
         },
         {
             "key": "TOWER_FILTER_EX",
-            "value": "<line-height=18>Afficher<br>EX uniquement"
+            "value": "<line-height=18>Afficher EX<br>uniquement"
         },
         {
             "key": "TOWER_ALIVE_UNIT",
@@ -7834,11 +7834,11 @@
         },
         {
             "key": "TOWER_DETAIL_RANKING_TITLE_SPEED",
-            "value": "Vous avez décroché le rang 1 du concours de vitesse pour cet étage !"
+            "value": "Rang 1 du concours de vitesse pour cet étage"
         },
         {
             "key": "TOWER_DETAIL_RANKING_TITLE_TECHNICAL",
-            "value": "Vous avez décroché le rang 1 du concours technique pour cet étage !"
+            "value": "Rang 1 du concours technique pour cet étage"
         },
         {
             "key": "TOWER_DETAIL_RELIEF_SPEED",
@@ -7858,7 +7858,7 @@
         },
         {
             "key": "TOWER_RETRY_CAUTION",
-            "value": "<line-height=33>*Les récompenses de chaque étage peuvent changer d'une tentative à l'autre<br><line-height=12><br><line-height=33>*Toute quête EX non réussie lors de la première tentative pourra être retentée au cours de la prochaine période de l'événement."
+            "value": "<line-height=33>*Les récompenses de réussite de chaque étage peuvent varier d'une tentative à l'autre.<br><line-height=12><br><line-height=33>*Attention : les récompenses des quêtes EX non jouées lors de la première tentative ne peuvent plus être obtenues après réinitialisation."
         },
         {
             "key": "TOWER_RETRY_BTN_RETRY",
@@ -8065,8 +8065,272 @@
             "value": "Lot de visiores 30 jours"
         },
         {
+            "key": "GL_GM_CONTINUATION_PACK_REWARD_DAYS_REMAINING",
+            "value": "Récompenses du lot de visiores 30 jours : ${days_remaining} jour(s) restant(s)"
+        },
+        {
             "key": "ARTI_STATUS_MAX",
             "value": "Caract.<br>MAX"
+        },
+        {
+            "key": "GL_BUY_LAPIS_ALREADY_OWNED_DESC",
+            "value": "Transaction en cours. <br>Veuillez réessayer plus tard."
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
+            "value": "En combat"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
+            "value": "<size=15>Combats de guilde<line-height=20>limités<br><size=15>en cours !"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
+            "value": "Recherche d'adversaire en cours"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
+            "value": "Commencer le combat"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
+            "value": "Calcul en cours..."
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
+            "value": "Préparation du combat suivant"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
+            "value": "Du dd/MM, HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
+            "value": "au dd/MM à HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
+            "value": "au dd/MM à HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
+            "value": "Résultats finaux"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_TITLE",
+            "value": "Mode économie d'énergie"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_DESC",
+            "value": "<line-height=33>Si vous n'effectuez aucune action pendant la durée choisie, l'appareil passera automatiquement<br>en mode économie d'énergie."
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_SECOND",
+            "value": "30 s"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_MINUTE",
+            "value": "1 min"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
+            "value": "3 min"
+        },
+        {
+            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
+            "value": "Adversaire trouvé !"
+        },
+        {
+            "key": "GUILD_LIMITED_TITLE",
+            "value": "Combat de guilde limité"
+        },
+        {
+            "key": "GUILD_LIMITED_POINT",
+            "value": "Points de combat"
+        },
+        {
+            "key": "GUILD_LIMITED_PERIOD",
+            "value": "Durée :"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END",
+            "value": "Résultats finaux :"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END_FMT",
+            "value": "au dd/MM à HH:mm"
+        },
+        {
+            "key": "GUILD_RANKING_TAB_LIMITED",
+            "value": "Limité"
+        },
+        {
+            "key": "GUILD_RANKING_LIMITED_POINTS",
+            "value": "Points de combat"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL",
+            "value": "Détails de l'événement"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_ABSTENTION",
+            "value": "<line-height=32>Pas de participation possible<br>en ce moment"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE",
+            "value": "Victoire par forfait"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE_DESC",
+            "value": "Aucun adversaire trouvé.<br>Vous gagnez par forfait."
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
+            "value": "Plus d'actions possibles"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
+            "value": "Vous ne pouvez plus effectuer d'action<br>pendant ce combat de guilde."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_DESC",
+            "value": "<line-height=32>Vous n'avez pas pu participer<br>parce que les conditions suivantes<br>ne sont pas remplies."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
+            "value": "Niveau de ligue de votre guilde"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
+            "value": "Au moins {0}"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
+            "value": "Nombre de membres"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
+            "value": "Au moins {0} membres"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
+            "value": "Chef"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
+            "value": "Pas de connexion depuis {0} jour(s)"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_POINT",
+            "value": "Points de combat"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
+            "value": "(★ gagnées par forfait : {0} %)"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
+            "value": "Soutien"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
+            "value": "Recherche de {0}\\n Groupe {0} affiché"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
+            "value": "Recherche à partir de {0}\\n Groupe affiché"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
+            "value": "Utiliser {0}\\n Le nombre d'actions du groupe {0} a été restauré"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
+            "value": "Utiliser {0}\\n Le nombre d'actions du groupe {0} a été restauré"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
+            "value": "Utiliser {0}\\n Le nombre d'utilisations des aptitudes du groupe {0} a été restauré"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
+            "value": "Utiliser {0}\\n Le nombre d'utilisations des aptitudes du groupe {0} a été restauré"
+        },
+        {
+            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
+            "value": "Nombre de groupes envoyés en défense : "
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
+            "value": "Attaque"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
+            "value": "Soutien"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_TITLE",
+            "value": "Soutien"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE",
+            "value": "Utiliser"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
+            "value": "{0}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
+            "value": "<color=#F0C040>{0}</color>sur<br><color=#F0C040>{1}</color>sur<br>{2}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
+            "value": "Récompenses d'action récupérées"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
+            "value": "Sélectionnez un adversaire à attaquer"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
+            "value": "Sélectionnez un groupe à soutenir"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
+            "value": "Informations sur « {0} »"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
+            "value": "Votre récompense pour avoir participé à un total de ${entry_count} combats pendant les combats de guilde limités qui se sont tenus ${period}"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
+            "value": "Récompense des combats de guilde limités qui se sont tenus ${period}"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
+            "value": "Votre récompense pour avoir atteint le rang ${ranking} au classement des combats de guilde limités qui se sont tenus ${period}"
+        },
+        {
+            "key": "QRCODE_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_MESSAGE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_ERROR_TITLE",
+            "value": "Erreur"
+        },
+        {
+            "key": "QRCODE_ERROR_MESSAGE",
+            "value": "Plateforme incorrecte."
         },
         {
             "key": "SERVER_Normal_gacha_A_NAME",

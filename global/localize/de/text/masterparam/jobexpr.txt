@@ -763,6 +763,46 @@
         {
             "key": "JB_FFT_ORND",
             "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über diverse mächtige Angriffe wie „Panzerbruch“, welcher die ABW des Feindes reduziert, und „Heiliger Blitz“, der in einem kreuzförmigen Bereich Schaden zufügt, verfügt."
+        },
+        {
+            "key": "JB_LW_RAIN",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job, der feindliche Angriffe auf sich ziehen kann und mächtige Zauber wirken kann."
+        },
+        {
+            "key": "JB_LW_ASS",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der enorme Agilität bietet und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
         }
     ]
 }

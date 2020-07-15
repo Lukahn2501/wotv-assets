@@ -14,15 +14,15 @@
         },
         {
             "key": "IM_4",
-            "value": "Mission de défi nº1 complétée"
+            "value": "Défi nº1 terminé"
         },
         {
             "key": "IM_5",
-            "value": "Mission de défi nº2 complétée"
+            "value": "Défi nº2 terminé"
         },
         {
             "key": "IM_6",
-            "value": "Mission de défi nº3 complétée"
+            "value": "Défi nº3 terminé"
         }
     ]
 }

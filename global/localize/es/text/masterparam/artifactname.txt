@@ -166,7 +166,7 @@
         },
         {
             "key": "AF_LW_SWO_006",
-            "value": "Espada de coral"
+            "value": "Sable de coral"
         },
         {
             "key": "AF_LW_SWO_016",
@@ -1861,6 +1861,34 @@
             "value": "Espada bermellón"
         },
         {
+            "key": "AF_ARM_LW_VKTR_1",
+            "value": "Armadura de la codicia"
+        },
+        {
+            "key": "AF_ACC_LW_THLA_1",
+            "value": "Cuerda mágica"
+        },
+        {
+            "key": "AF_CLT_LW_RAIN_1",
+            "value": "Atuendo de Rain"
+        },
+        {
+            "key": "AF_ACC_LW_FRVA_1",
+            "value": "Horquilla florida"
+        },
+        {
+            "key": "AF_ACC_LW_VNLA_1",
+            "value": "Tacones hechizantes"
+        },
+        {
+            "key": "AF_SWO_LW_DRIO_1",
+            "value": "Espada brillante"
+        },
+        {
+            "key": "AF_ACC_LW_TREL_1",
+            "value": "Corona de soldado serpentino"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Espada de león"
         },
@@ -1933,16 +1961,20 @@
             "value": "Pistola hechizante"
         },
         {
-            "key": "AF_ARM_LW_VKTR_1",
-            "value": "Armadura de la codicia"
-        },
-        {
             "key": "AF_SPE_LW_VKTR_2",
             "value": "Lanza de la codicia"
         },
         {
-            "key": "AF_ACC_LW_THLA_1",
-            "value": "Cuerda mágica"
+            "key": "AF_BSW_LW_RAIN_2",
+            "value": "Para Rain"
+        },
+        {
+            "key": "AF_SWO_LW_FRVA_2",
+            "value": "Para Fryevia"
+        },
+        {
+            "key": "AF_DAG_LW_VNLA_2",
+            "value": "Kris de asesino"
         },
         {
             "key": "AF_LW_RNG_005",
@@ -1967,6 +1999,10 @@
         {
             "key": "AF_LW_RNG_005_5",
             "value": "Anillo de alejandrita +5"
+        },
+        {
+            "key": "AF_LW_BSW_011",
+            "value": "Sable carmesí"
         }
     ]
 }

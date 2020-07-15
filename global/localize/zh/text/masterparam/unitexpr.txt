@@ -237,6 +237,26 @@
             "value": "隸屬於霍倫第二部隊「壯麗」的黑魔道士，阿德拉德的親生妹妹。口氣粗俗，對國王羅布說話也不會注意禮節。最喜歡自己的哥哥，凡是靠近哥哥的人都被她視作敵人。為了守護哥哥的背後而成為了黑魔道士。"
         },
         {
+            "key": "UN_LW_P_RAIN",
+            "value": "格蘭謝爾特王國騎士。年僅18歲便能指揮飛空艇的實力派，然而本人極度缺乏緊張感，也不知道這是好事還是壞事。雖然也得到了國王與民眾的信賴，但這其中也有他的父親也是王國騎士的關係。"
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "出身於和阿朵拉不同大陸的魔法劍士。隱藏自己精靈的身份，為尋求適合自己能力的魔法武具而旅行。她最大的樂趣是與他人較量劍技，並打從心底希望和全世界的戰士切磋技藝。"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "隸屬於芬尼斯的暗殺者。小時候被穆拉加從邊境之村中搶走，並教會了一身殺人之術。在薩達利幕後暗躍的謀略下，偽裝成穆拉加的女兒，並被派遣到了霍倫。目的是暗殺霍倫王子達利歐。"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "霍倫王國的王子，也是瑪雪莉的兄長。雖然作為魔法劍士擁有著無與倫比的天賦才能，但卻比父親更加厭惡戰爭，打從心底不想繼承王位。在瑪雪莉出嫁之前，先迎娶了芬尼斯國王穆拉加的女兒維內拉。"
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "在芬尼斯忍者養成機關「蛇穴」中修行過的騎士。作為為了暗殺王子達利歐而出嫁的維內拉的隨從而潛入了霍倫。深深愛戀著維內拉，以至於當初對達利歐抱有著近乎憎恨的感情，然而……"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": ""
         },
@@ -285,11 +305,23 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_OOOO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_RIRY",
             "value": ""
         },
         {
             "key": "UN_LW_E_VSTR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CLEY",
             "value": ""
         },
         {
@@ -358,6 +390,46 @@
         },
         {
             "key": "UN_LW_E_KTON",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DRZA",
             "value": ""
         },
         {
@@ -709,6 +781,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_02_NIN",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_SO_04",
             "value": "設定為相當於N戰士的數值"
         },
@@ -733,6 +809,18 @@
             "value": "設定為相當於N忍者的數值"
         },
         {
+            "key": "UN_LW_E_PR_01",
+            "value": "R武僧基本值"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "R黑魔道士基本值"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_PR_01_HUN",
             "value": ""
         },
@@ -745,7 +833,35 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_PR_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
             "value": ""
         },
         {
@@ -757,7 +873,15 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_PR_01_RDM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
             "value": ""
         },
         {
@@ -770,6 +894,62 @@
         },
         {
             "key": "UN_LW_E_PR_02_TIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
             "value": ""
         },
         {
@@ -945,6 +1125,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_IGNT",
             "value": "設定為相當於SR聖騎士的數值"
         },
@@ -1093,12 +1277,56 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_ENBT",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_YERM_2",
             "value": ""
         },
         {
             "key": "UN_LW_E_OCHU_QE",
             "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "在異界伊瓦利斯所流傳的聖石的故事中登場，身為武家梁柱而赫赫有名的貝歐魯布家的三男。曾在王立士官學院進行騎士的修行。與已在騎士團任職的兄長們並非同一母親所生，因此多少感到自卑。"
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1546,6 +1774,10 @@
         },
         {
             "key": "UN_GM_PLACED_BASH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW_01",
             "value": ""
         }
     ]

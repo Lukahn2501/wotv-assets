@@ -1411,6 +1411,38 @@
         {
             "key": "SNS_LIMIT_REACHED",
             "value": "SNS-Limit erreicht."
+        },
+        {
+            "key": "APP_ERROR_5201",
+            "value": "Code existiert nicht."
+        },
+        {
+            "key": "APP_ERROR_5202",
+            "value": "Kampagne wird derzeit nicht abgehalten."
+        },
+        {
+            "key": "APP_ERROR_5203",
+            "value": "Maximale erhaltbare Anzahl der Kampagne überschritten."
+        },
+        {
+            "key": "APP_ERROR_5204",
+            "value": "Diese Seriennummer wurde bereits benutzt."
+        },
+        {
+            "key": "APP_ERROR_5205",
+            "value": "Ungültige Plattform."
+        },
+        {
+            "key": "APP_ERROR_5300",
+            "value": "Ausgewählte Gruppe ist ungültig."
+        },
+        {
+            "key": "APP_ERROR_5301",
+            "value": "Rundenanzahl reicht nicht aus."
+        },
+        {
+            "key": "APP_ERROR_5302",
+            "value": "Die Gruppe wurde verändert. Bitte aktualisiere und versuche es anschließend erneut."
         }
     ]
 }

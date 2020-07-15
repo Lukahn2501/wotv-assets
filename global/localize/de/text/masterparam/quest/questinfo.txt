@@ -1021,6 +1021,86 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 70, Jobstufe 12"
         },
         {
+            "key": "QE_ST_01070101",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 61, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070102",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 62, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070103",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 62, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070104",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 63, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070105",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 64, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070106",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 64, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070107",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 65, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 66, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070109",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 66, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070110",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 71, Jobstufe 12"
+        },
+        {
+            "key": "QE_ST_01070201",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 62, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070202",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 63, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 63, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070204",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 64, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070205",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 65, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070206",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 65, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070207",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 66, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070208",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 67, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 67, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070210",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 72, Jobstufe 12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 17, Jobstufe 3<br>Freischaltbedingungen: Einheit „Zazan“ im Besitz"
         },
@@ -1229,6 +1309,18 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 62, Jobstufe 10<br>Freischaltbedingungen: Einheit „Viktora“ im Besitz"
         },
         {
+            "key": "QE_HA_LW_RAIN",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 63, Jobstufe 10<br>Freischaltbedingungen: Einheit „Rain“ im Besitz"
+        },
+        {
+            "key": "QE_HA_LW_DRIO",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 63, Jobstufe 10<br>Freischaltbedingungen: Einheit „Dario Hourne“ im Besitz"
+        },
+        {
+            "key": "QE_HA_LW_VNLA",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 63, Jobstufe 10<br>Freischaltbedingungen: Einheit „Vinera Fennes“ im Besitz"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Zazan“ ist mindestens auf Stufe 40"
         },
@@ -1406,7 +1498,7 @@
         },
         {
             "key": "QE_CH_LW_GLMS2",
-            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 80, Jobstufe 12<br>Freischaltbedingungen: Die Einheit „Gilgamesch“ befindet sich mindestens auf Stufe 80<br>Charakterauftrag „Gilgamesch“ wurde abgeschlossen"
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 80, Jobstufe 12<br>Freischaltbedingungen: Einheit „Gilgamesch“ ist mindestens auf Stufe 80<br>Charakterauftrag „Gilgamesch“ wurde abgeschlossen"
         },
         {
             "key": "QE_CH_LW_FDRC",
@@ -1443,6 +1535,26 @@
         {
             "key": "QE_CH_LW_VKTR",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Viktora“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_GL_LW_FRVA",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Fryevia“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_RAIN",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Rain“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_DRIO",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Dario Hourne“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_VNLA",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Vinera Fennes“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_TREL",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Tyrrel“ ist mindestens auf Stufe 40"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1547,6 +1659,10 @@
         {
             "key": "QE_MU_FFT_EX_01",
             "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_GL_EV_FFEXU_01",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 1, Jobstufe 1"
         },
         {
             "key": "QE_EV_GL_1M_FIR",
@@ -1693,6 +1809,118 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
+            "key": "QE_EV_03_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_03_02",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_03_03",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_03_04",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_03_05",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_03_06",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_03_07",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_03_08",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_03_09",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_03_10",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_03_EX",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_03_EX",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Informationen zum Auftrag<br>・Dieser Auftrag ist ein Gildenkampf-Testlauf.<br>・Schicke drei Einheiten in den Kampf und aktiviere den Auto-Kampf, um echte Kämpfe nachzustellen."
+        },
+        {
+            "key": "QE_EV_VNLA_01",
+            "value": "Informationen zum Auftrag<br>Freischaltbedingungen: Einheit „Vinera Fennes“ im Besitz"
+        },
+        {
+            "key": "QE_EV_RAIN_01",
+            "value": "Informationen zum Auftrag<br>Freischaltbedingungen: Einheit „Rain“ im Besitz"
+        },
+        {
+            "key": "QE_SB_CSLI_02",
+            "value": "Informationen zum Auftrag<br>Tipp: Lass dich nicht vom Schokopudding betören ..."
+        },
+        {
+            "key": "QE_SB_CSLI_03",
+            "value": "Informationen zum Auftrag<br>Tipp: Lass dich nicht vom Schokopudding betören ..."
+        },
+        {
+            "key": "QE_EV_SB_EXP_FIR",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 60, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_ICE",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 60, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WIN",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 60, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_EAR",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 60, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_THU",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 60, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WTR",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 60, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_SHI",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 60, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_DAR",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 60, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_ARENA_01_1",
+            "value": "Informationen zum Auftrag<br>・Keine Gegenstände <br>・Basierend auf tatsächlich in der Arena eingesetzter Gruppe erstellt, wobei sich einige Werte unterscheiden können."
+        },
+        {
+            "key": "QE_EV_ARENA_01_2",
+            "value": "Informationen zum Auftrag<br>・Keine Gegenstände <br>・Basierend auf tatsächlich in der Arena eingesetzter Gruppe erstellt, wobei sich einige Werte unterscheiden können."
+        },
+        {
+            "key": "QE_EV_ARENA_01_3",
+            "value": "Informationen zum Auftrag<br>・Keine Gegenstände <br>・Basierend auf tatsächlich in der Arena eingesetzter Gruppe erstellt, wobei sich einige Werte unterscheiden können."
+        },
+        {
             "key": "QE_EV_VKTR_01",
             "value": "Informationen zum Auftrag<br>Freischaltbedingungen: Einheit „Viktora“ im Besitz"
         },
@@ -1725,52 +1953,12 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
-            "key": "QE_MU_EV_TH_EX1",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_EV_TH_EX2",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_EV_02_EX1",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
             "key": "QE_SB_IGNT_02",
             "value": "Informationen zum Auftrag<br>Tipp: Wenn du eine gewisse Anzahl von Malen angreifst ..."
         },
         {
             "key": "QE_SB_IGNT_03",
             "value": "Informationen zum Auftrag<br>Tipp: Wenn du eine gewisse Anzahl von Malen angreifst ..."
-        },
-        {
-            "key": "QE_EV_JP_001",
-            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 1, Jobstufe 1"
-        },
-        {
-            "key": "QE_EV_ART_SCR_01",
-            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 10"
-        },
-        {
-            "key": "QE_EV_ART_SCR_02",
-            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 10"
-        },
-        {
-            "key": "QE_EV_ART_SCR_03",
-            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 10"
-        },
-        {
-            "key": "QE_MU_EV_SCR_01",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_EV_SCR_02",
-            "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_EV_SCR_03",
-            "value": "Informationen zum Auftrag<br>Keine"
         },
         {
             "key": "QE_EV_ETRE_01",
@@ -1805,12 +1993,24 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
-            "key": "QE_MU_EV_ET_EX1",
-            "value": "Informationen zum Auftrag<br>Keine"
+            "key": "QE_EV_JP_001",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 1, Jobstufe 1"
         },
         {
-            "key": "QE_MU_EV_ET_EX2",
-            "value": "Informationen zum Auftrag<br>Keine"
+            "key": "QE_EV_ART_SCR_01",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_ART_SCR_02",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_ART_SCR_03",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_ART_SCR_04",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 10"
         },
         {
             "key": "QE_EV_ANV_19_10",
@@ -1833,16 +2033,60 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 82, Jobstufe 12<br>Tipp: Stark aussehende Feinde verfügen über erhöhte ABW und PSY, versuche also, sie zu schwächen, bevor du in die Offensive gehst. Metallfeinde ändern ihre Angriffsmuster abhängig von ihren verbleibenden LP oder Zügen, also behalte sie im Auge."
         },
         {
-            "key": "QE_MU_ART_CRF_04",
-            "value": "Informationen zum Auftrag<br>Tipp: Stark aussehende Feinde verfügen über erhöhte ABW und PSY, versuche also, sie zu schwächen, bevor du in die Offensive gehst. Metallfeinde ändern ihre Angriffsmuster abhängig von ihren verbleibenden LP oder Zügen, also behalte sie im Auge."
-        },
-        {
             "key": "QE_EV_ART_CRF_05",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 9"
         },
         {
             "key": "QE_EV_ART_CRF_06",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 9"
+        },
+        {
+            "key": "QE_MU_CSLI_03",
+            "value": "Informationen zum Auftrag<br>Tipp: Lass dich nicht vom Schokopudding betören ..."
+        },
+        {
+            "key": "QE_MU_IGNT_03",
+            "value": "Informationen zum Auftrag<br>Tipp: Wenn du eine gewisse Anzahl von Malen angreifst ..."
+        },
+        {
+            "key": "QE_MU_EV_SCR_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_SCR_02",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_SCR_03",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_SCR_04",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_02_EX1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_ART_CRF_04",
+            "value": "Informationen zum Auftrag<br>Tipp: Stark aussehende Feinde verfügen über erhöhte ABW und PSY, versuche also, sie zu schwächen, bevor du in die Offensive gehst. Metallfeinde ändern ihre Angriffsmuster abhängig von ihren verbleibenden LP oder Zügen, also behalte sie im Auge."
         },
         {
             "key": "QE_MU_ART_CRF_05",
@@ -1915,10 +2159,6 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "Informationen zum Auftrag<br>Keine"
-        },
-        {
-            "key": "QE_MU_IGNT_03",
-            "value": "Informationen zum Auftrag<br>Tipp: Wenn du eine gewisse Anzahl von Malen angreifst ..."
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2131,6 +2371,10 @@
         {
             "key": "QE_GVG_00002",
             "value": "Keine"
+        },
+        {
+            "key": "QE_GVG_00003",
+            "value": "Dunkelangriff-Erhöhung"
         },
         {
             "key": "QE_PVP_FRE_0001",

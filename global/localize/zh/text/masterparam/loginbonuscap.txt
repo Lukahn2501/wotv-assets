@@ -25,6 +25,10 @@
             "value": "6月登入獎勵"
         },
         {
+            "key": "LB_202007",
+            "value": "7月登入獎勵"
+        },
+        {
             "key": "LB_LIMIT_GL_0001",
             "value": "上市紀念"
         },
@@ -79,6 +83,26 @@
         {
             "key": "LB_LIMIT_GL0009",
             "value": "初夏紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0010",
+            "value": "MOBIUS FINAL FANTASY聯動紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0011",
+            "value": "FF EXVIUS Universe紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0012",
+            "value": "FF EXVIUS Universe紀念登入獎勵 第2階段"
+        },
+        {
+            "key": "LB_LIMIT_GL0013",
+            "value": "公會支援活動紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0014",
+            "value": "FF EXVIUS Universe里程碑登入獎勵"
         }
     ]
 }

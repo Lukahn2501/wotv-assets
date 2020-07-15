@@ -237,6 +237,26 @@
             "value": "Naive Schwarzmagierin"
         },
         {
+            "key": "UN_LW_P_RAIN",
+            "value": "Brennende Seele"
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "Gewandte Schwertmagierin"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "Gefallener Mond"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "Von Unruhe erfasster Gelehrter"
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "Kleiner Schild der Liebe"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "Gegner/NPC"
         },
@@ -285,11 +305,23 @@
             "value": "Gegner/NPC"
         },
         {
+            "key": "UN_LW_E_OOOO",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": "Gegner/NPC"
+        },
+        {
             "key": "UN_LW_E_RIRY",
             "value": "Gegner/NPC"
         },
         {
             "key": "UN_LW_E_VSTR",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_CLEY",
             "value": "Gegner/NPC"
         },
         {
@@ -358,6 +390,46 @@
         },
         {
             "key": "UN_LW_E_KTON",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_DRZA",
             "value": "Gegner/NPC"
         },
         {
@@ -709,6 +781,10 @@
             "value": "Gegner/NPC"
         },
         {
+            "key": "UN_LW_E_02_NIN",
+            "value": "Gegner/NPC"
+        },
+        {
             "key": "UN_LW_E_SO_04",
             "value": "Gegner/NPC"
         },
@@ -733,6 +809,18 @@
             "value": "Gegner/NPC"
         },
         {
+            "key": "UN_LW_E_PR_01",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": "Gegner/NPC"
+        },
+        {
             "key": "UN_LW_E_PR_01_HUN",
             "value": "Gegner/NPC"
         },
@@ -745,7 +833,35 @@
             "value": "Gegner/NPC"
         },
         {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": "Gegner/NPC"
+        },
+        {
             "key": "UN_LW_E_PR_02_MNK",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
             "value": "Gegner/NPC"
         },
         {
@@ -757,7 +873,15 @@
             "value": "Gegner/NPC"
         },
         {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": "Gegner/NPC"
+        },
+        {
             "key": "UN_LW_E_PR_01_RDM",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
             "value": "Gegner/NPC"
         },
         {
@@ -770,6 +894,62 @@
         },
         {
             "key": "UN_LW_E_PR_02_TIM",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
             "value": "Gegner/NPC"
         },
         {
@@ -945,6 +1125,10 @@
             "value": "Gegner"
         },
         {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": "Gegner"
+        },
+        {
             "key": "UN_LW_E_IGNT",
             "value": "Gegner"
         },
@@ -1093,12 +1277,56 @@
             "value": "Gegner"
         },
         {
+            "key": "UN_LW_E_ENBT",
+            "value": "Gegner"
+        },
+        {
             "key": "UN_LW_E_YERM_2",
             "value": "Gegner"
         },
         {
             "key": "UN_LW_E_OCHU_QE",
             "value": "Gegner"
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "Drittgeborener des Hauses Beoulve"
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1546,6 +1774,10 @@
         },
         {
             "key": "UN_GM_PLACED_BASH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW_01",
             "value": ""
         }
     ]

@@ -65,6 +65,10 @@
             "value": "四天烈風　テトラシルフィード"
         },
         {
+            "key": "VC_MBFF_MV1",
+            "value": "絶望と真実のメビウス"
+        },
+        {
             "key": "VC_LW_IGNT",
             "value": "鋼の魔人　鉄巨人"
         },
@@ -127,6 +131,10 @@
         {
             "key": "VC_LW_OCHU",
             "value": "豪快植物　オチュー"
+        },
+        {
+            "key": "VC_MBFF_MV2",
+            "value": "希望と幻想のメビウス"
         },
         {
             "key": "VC_LW_CACT",
@@ -235,6 +243,10 @@
         {
             "key": "VC_EXP_03",
             "value": "グロウエッグ（SR）"
+        },
+        {
+            "key": "VC_EXP_04",
+            "value": "グロウエッグ（SSR）"
         }
     ]
 }

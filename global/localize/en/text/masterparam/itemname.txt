@@ -1001,6 +1001,46 @@
             "value": "Dual Gunner's Memory (Red)"
         },
         {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "Knight of Grandshelt's Memory (Flame: Green)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "Knight of Grandshelt's Memory (Flame: Blue)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "Knight of Grandshelt's Memory (Flame: Purple)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "Knight of Grandshelt's Memory (Flame: Yellow)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "Knight of Grandshelt's Memory (Flame: Red)"
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "Assassin's Memory (Green)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "Assassin's Memory (Blue)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "Assassin's Memory (Purple)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "Assassin's Memory (Yellow)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "Assassin's Memory (Red)"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Fire Alcryst (Green)"
         },
@@ -1679,6 +1719,26 @@
         {
             "key": "IT_PI_LW_THLA",
             "value": "Salire Unit Shard"
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "Rain Unit Shard"
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "Fryevia Unit Shard"
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "Vinera Fennes Unit Shard"
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "Dario Hourne Unit Shard"
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": "Tyrrell Unit Shard"
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -2637,10 +2697,6 @@
             "value": "FFXIV Summon Medal"
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "FFXIV Summon Ticket"
-        },
-        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "March Summon Medal A"
         },
@@ -2669,6 +2725,14 @@
             "value": "June Summon Medal B"
         },
         {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "July Summon Medal A"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "July Summon Medal B"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT Event Medal"
         },
@@ -2689,8 +2753,12 @@
             "value": "June Event Medal"
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "FFT Summon Ticket"
+            "key": "IT_EC_EV03_1",
+            "value": "July Event Medal"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Chocolate Flan Raid Medal"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2781,30 +2849,6 @@
             "value": "Select Element Magicite (M) x50 Summon Ticket"
         },
         {
-            "key": "IT_US_G_U_UR_01",
-            "value": "UR Guaranteed Unit Summon Ticket A"
-        },
-        {
-            "key": "IT_US_G_UR_01",
-            "value": "UR Guaranteed Summon Ticket A"
-        },
-        {
-            "key": "IT_US_G_UR_02",
-            "value": "UR Guaranteed Summon Ticket B"
-        },
-        {
-            "key": "IT_US_G_U_R_UR_01",
-            "value": "Guaranteed Unit Summon Ticket A"
-        },
-        {
-            "key": "IT_US_G_V_R_UR_01",
-            "value": "Guaranteed Vision Card Summon Ticket A"
-        },
-        {
-            "key": "IT_US_G_V_UR_01",
-            "value": "UR Guaranteed Vision Card Summon Ticket A"
-        },
-        {
             "key": "IT_US_SE_JB_MM_01",
             "value": "Select Job Memory (Green) x1 Summon Ticket"
         },
@@ -2831,6 +2875,82 @@
         {
             "key": "IT_US_SE_AW-ITEM_01",
             "value": "Select Awakening Prism x10 Summon Ticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Select Element Magicite (M) x500 Summon Ticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Select Element Magicite (M) x10 Summon Ticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Select Element Magicite (M) x25 Summon Ticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Select Element Magicite (L) x100 Summon Ticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Select UR Vision Card Shard x50 Summon Ticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Select UR Vision Card Shard x50 Summon Ticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Select UR Vision Card Shard x50 Summon Ticket"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Select Recommended UR Unit Summon Ticket"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Select Recommended MR Unit Summon Ticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Select UR Unit Shard x40 Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "UR Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "UR Guaranteed Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "UR Guaranteed Summon Ticket B"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "Guaranteed Unit Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "UR Guaranteed Vision Card Summon Ticket A"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FFT Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "FFXIV Summon Ticket"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "[Porcelain Tower] Normal 10x Summon Ticket"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -2925,6 +3045,10 @@
             "value": "\"Roaring Thunderclap, Ramuh\" Vision Card Shard"
         },
         {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": "\"Mobius of Despair and Truth\" Vision Card Shard"
+        },
+        {
             "key": "IT_VPI_LW_FAMILY",
             "value": "\"Birth of New Life\" Vision Card Shard"
         },
@@ -2963,6 +3087,10 @@
         {
             "key": "IT_VPI_LW_GUARD",
             "value": "\"Snow-White Guard\" Vision Card Shard"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": "\"Mobius of Hope and Illusion\" Vision Card Shard"
         },
         {
             "key": "IT_VPI_LW_CACT",
@@ -3093,6 +3221,10 @@
             "value": "Growth Egg (SR)"
         },
         {
+            "key": "IT_VC_EXP_04",
+            "value": "Growth Egg (MR)"
+        },
+        {
             "key": "IT_GU_FOOD_01",
             "value": "Hard Candy"
         },
@@ -3163,38 +3295,6 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Lion's Mighty Jaw (L)"
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "Chocolate Flan Raid Medal"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "Select Element Magicite (M) x500 Summon Ticket"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "Select Element Magicite (M) x10 Summon Ticket"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "Select Element Magicite (M) x25 Summon Ticket"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "Select Element Magicite (L) x100 Summon Ticket"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "Select UR Vision Card Shard x50 Summon Ticket"
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "Select Recommended UR Unit Summon Ticket"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "Select Recommended MR Unit Summon Ticket A"
         }
     ]
 }

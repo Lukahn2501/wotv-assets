@@ -54,7 +54,7 @@
         },
         {
             "key": "IT_SET_AF_LW_CLT_001",
-            "value": "Vêtement : peut être équipé par les seigneurs, les guerriers, les moines, les lanciers, les voleurs, les chasseurs, les ninjas, les artilleurs, les mages blancs, les mages noirs, les prêtres, les mages rouges, les chronomages, les mages verts, les mages blancs de Lapis, les sorcières, les pistosabreurs, les écuyers et les épées sacrées."
+            "value": "Tissu : peut être équipé par les seigneurs, les guerriers, les moines, les lanciers, les voleurs, les chasseurs, les ninjas, les artilleurs, les mages blancs, les mages noirs, les prêtres, les mages rouges, les chronomages, les mages verts, les mages blancs de Lapis, les sorcières, les pistosabreurs, les écuyers et les épées sacrées."
         },
         {
             "key": "IT_SET_AF_LW_HLM_001",
@@ -426,7 +426,7 @@
         },
         {
             "key": "IT_SET_AWK_GL01",
-            "value": "Un lot spécial contenant un orbe de vision arc-en-ciel, un ticket sélectionneur de 100 prismes d'éveil et un ticket sélectionneur de 100 fragments de pensée ! L'essentiel pour entraîner vos unités !"
+            "value": "Un lot spécial contenant un ticket sélectionneur de 100 fragments de pensée élémentaires, un ticket sélectionneur de 100 prismes d'éveil et un orbe de vision arc-en-ciel ! L'essentiel pour entraîner vos unités !"
         },
         {
             "key": "IT_SET_STORY_GL_FREE_01",
@@ -451,6 +451,126 @@
         {
             "key": "IT_SET_WA_CRI_GL01",
             "value": "Un lot spécial contenant un marteau de reforge pour réinitialiser les caractéristiques d'un équipement, des sceaux de dégâts pour augmenter les chances d'améliorer la « CRIT » quand un équipement gagne un niveau, ainsi que des marteaux nains du coup de grâce pour augmenter la « CRIT » de votre équipement !"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "Ce lot contient un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 24 juin. Il renferme également 1 orbe de vision arc-en-ciel, des œufs de croissance (MR) et des gilkhélones (L) en bonus ! *Ne contient aucun atout-vision apparu après la date indiquée."
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "Ce lot contient des œufs de croissance (MR), des orbes de vision arc-en-ciel, des gilkhélones (L) nécessaires aux améliorations ainsi que des fragments d'atout-vision qui vous permettront de briser la limite de « Mobius du désespoir et de la vérité »."
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "Ce lot contient des œufs de croissance (MR), des orbes de vision azur, des gilkhélones (L) nécessaires aux améliorations ainsi que des fragments d'atout-vision qui vous permettront de briser la limite de « Mobius de l'espoir et des illusions »."
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "Ce lot contient des œufs de croissance (SR) et un ticket sélectionneur de 100 magilithes élémentaires (L)."
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "Un lot qui contient 1 ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties avant le 17/06/2020, heure universelle (PST), des cubes d'EXP (XL) et 1 orbe de vision arc-en-ciel ! *Le ticket sélectionneur de 40 fragments d'unité UR ne peut pas être utilisé pour les unités limitées ou des collaborations."
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "Ce lot contient des fragments de pensée de lumière et des prismes d'éveil de lumière."
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "Ce lot contient des fragments de pensée d'eau et des prismes d'éveil d'eau."
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "Un lot spécial rempli de fragments d'unité UR de Fryevia, nécessaires pour briser sa limite, ainsi que des fragments de pensée de glace pour l'éveil et des objets en bonus tels qu'un fragment de pensée arc-en-ciel et des orbes de vision arc-en-ciel !"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "Un lot spécial débordant d'Alcrist de feu de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type feu !"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "Un lot spécial débordant d'Alcrist d'eau de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type eau !"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "Un lot spécial débordant d'Alcrist de vent de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type vent !"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "Un lot spécial débordant d'Alcrist de foudre de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type foudre !"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "Un lot spécial débordant d'Alcrist de terre de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type terre !"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "Un lot spécial débordant d'Alcrist de glace de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type glace !"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "Un lot spécial débordant d'Alcrist de lumière de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type lumière !"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "Un lot spécial débordant d'Alcrist d'ombre de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type ombre !"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "Un lot spécial rempli de cubes d'EXP de toutes les tailles (XL/L/M/S) ! De quoi entraîner vos unités !"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "Un lot spécial contenant de l'adamantine (XL) et des pots d'armure en bonus. Des objets essentiels pour améliorer votre équipement et vos aptitudes !"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "Un objet qui vous permettra de restaurer votre endurance et qui peut être obtenu gratuitement une fois par jour !"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "Ce lot contient un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 17 juin. Il renferme également 1 orbe de vision arc-en-ciel, des œufs de croissance (MR) et des gilkhélones (L) ! *Le ticket sélectionneur de 50 fragments d'atout-vision UR ne peut pas être utilisé pour les atouts-visions limités ou des collaborations. *Ne contient aucun atout-vision apparu après la date indiquée."
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "Un lot spécial qui renferme des fragments de pensée de feu, des prismes d'éveil de feu et de la magilithe rouge (XL) en bonus ! De quoi éveiller vos unités de feu et améliorer vos chimères !"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "Un lot spécial qui renferme des fragments de pensée d'eau, des prismes d'éveil d'eau et de la magilithe bleu clair (XL) en bonus ! De quoi éveiller vos unités d'eau et améliorer vos chimères !"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "Un lot spécial qui renferme des fragments de pensée de glace, des prismes d'éveil de glace et de la magilithe bleue (XL) en bonus ! De quoi éveiller vos unités de glace et améliorer vos chimères !"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "Un lot spécial qui renferme des fragments de pensée de vent, des prismes d'éveil de vent et de la magilithe verte (XL) en bonus ! De quoi éveiller vos unités de vent et améliorer vos chimères !"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "Un lot spécial qui renferme des fragments de pensée de foudre, des prismes d'éveil de foudre et de la magilithe jaune (XL) en bonus ! De quoi éveiller vos unités de foudre et améliorer vos chimères !"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "Un lot spécial qui renferme des fragments de pensée de terre, des prismes d'éveil de terre et de la magilithe orange (XL) en bonus ! De quoi éveiller vos unités de terre et améliorer vos chimères !"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "Un lot spécial qui renferme des fragments de pensée de lumière, des prismes d'éveil de lumière et de la magilithe blanche (XL) en bonus ! De quoi éveiller vos unités de lumière et améliorer vos chimères !"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "Un lot spécial qui renferme des fragments de pensée d'ombre, des prismes d'éveil d'ombre et de la magilithe violette (XL) en bonus ! De quoi éveiller vos unités d'ombre et améliorer vos chimères !"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "Ce lot renferme des crocs venimeux de serpent (L), d'imposantes cornes de taureau (L), des crinières de Kirin (L) et de puissantes mâchoires de lion (L) ! Des objets essentiels à l'entraînement de vos statues de guilde !"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "Un lot spécial qui contient des fragments de pensée d'ombre, des âmes d'éveil d'ombre (2–6★), des fragments de pensée arc-en-ciel, des orbes de vision et des prismes d'éveil d'ombre ! De quoi éveiller vos unités d'ombre !"
         }
     ]
 }

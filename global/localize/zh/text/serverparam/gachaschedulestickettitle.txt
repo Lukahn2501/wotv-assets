@@ -34,7 +34,7 @@
         },
         {
             "key": "IT_US_10_U_SSR_UR_01",
-            "value": "確保獲得1名MR以上10連召喚券A"
+            "value": "確保1名MR以上10連召喚券A"
         },
         {
             "key": "IT_US_G_UR_01_20200506",
@@ -106,6 +106,46 @@
         },
         {
             "key": "IT_US_G_UR_01_gl20200617",
+            "value": "確保UR召喚券A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200701",
+            "value": "確保UR召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20200701",
+            "value": "確保UR兵員召喚券A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20200701",
+            "value": "確保UR幻兵卡召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20200701",
+            "value": "確保MR以上兵員召喚券A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20200701",
+            "value": "確保MR以上幻兵卡召喚券A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20200701",
+            "value": "確保1名MR以上10連召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20200701",
+            "value": "確保兵員召喚券A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20200701",
+            "value": "確保幻兵卡召喚券A"
+        },
+        {
+            "key": "IT_US_G_N_TW_10_gl20200701",
+            "value": "【白磁之塔】普通10連召喚券"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200715",
             "value": "確保UR召喚券A"
         }
     ]

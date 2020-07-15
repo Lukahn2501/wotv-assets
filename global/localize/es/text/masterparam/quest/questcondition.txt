@@ -126,7 +126,7 @@
         },
         {
             "key": "QE_ST_01070108",
-            "value": ""
+            "value": "Vadim derrotado"
         },
         {
             "key": "QE_RAID_EV_06_01",
@@ -145,40 +145,12 @@
             "value": "Flan de chocolate derrotado"
         },
         {
-            "key": "QE_RAID_EV_07_01",
-            "value": ""
-        },
-        {
-            "key": "QE_RAID_EV_07_02",
-            "value": ""
-        },
-        {
-            "key": "QE_RAID_EV_07_03",
-            "value": ""
-        },
-        {
-            "key": "QE_RAID_EV_07_04",
-            "value": ""
-        },
-        {
             "key": "QE_ST_01070203",
-            "value": ""
+            "value": "Derrota a Dea"
         },
         {
             "key": "QE_ST_01070209",
-            "value": ""
-        },
-        {
-            "key": "QE_RAID_EV_08_01",
-            "value": ""
-        },
-        {
-            "key": "QE_RAID_EV_08_02",
-            "value": "Máquina mortal"
-        },
-        {
-            "key": "QE_RAID_EV_08_03",
-            "value": ""
+            "value": "Derrota a Oldoa"
         }
     ]
 }

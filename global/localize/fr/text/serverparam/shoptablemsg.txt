@@ -9,6 +9,10 @@
             "value": "Bienvenue dans la boutique spéciale."
         },
         {
+            "key": "Realmoney-0715",
+            "value": "Bienvenue dans la boutique spéciale."
+        },
+        {
             "key": "Begginer-20191114",
             "value": "Boutique du débutant : améliorez vos unités !"
         },
@@ -169,6 +173,90 @@
             "value": "Rang de joueur 60 et plus"
         },
         {
+            "key": "Normal-20200221_A",
+            "value": "Rang de joueur 1 à 29"
+        },
+        {
+            "key": "Normal-20200221_B",
+            "value": "Rang de joueur 30 à 59"
+        },
+        {
+            "key": "Normal-20200221_C",
+            "value": "Rang de joueur 60 et plus"
+        },
+        {
+            "key": "Normal-20200317_A",
+            "value": "Rang de joueur 1 à 29"
+        },
+        {
+            "key": "Normal-20200317_B",
+            "value": "Rang de joueur 30 à 59"
+        },
+        {
+            "key": "Normal-20200317_C",
+            "value": "Rang de joueur 60 et plus"
+        },
+        {
+            "key": "Normal-20200319_A",
+            "value": "Rang de joueur 1 à 29"
+        },
+        {
+            "key": "Normal-20200319_B",
+            "value": "Rang de joueur 30 à 59"
+        },
+        {
+            "key": "Normal-20200319_C",
+            "value": "Rang de joueur 60 et plus"
+        },
+        {
+            "key": "Normal-20200321_A",
+            "value": "Rang de joueur 1 à 29"
+        },
+        {
+            "key": "Normal-20200321_B",
+            "value": "Rang de joueur 30 à 59"
+        },
+        {
+            "key": "Normal-20200321_C",
+            "value": "Rang de joueur 60 et plus"
+        },
+        {
+            "key": "Normal-20200323_A",
+            "value": "Rang de joueur 1 à 29"
+        },
+        {
+            "key": "Normal-20200323_B",
+            "value": "Rang de joueur 30 à 59"
+        },
+        {
+            "key": "Normal-20200323_C",
+            "value": "Rang de joueur 60 et plus"
+        },
+        {
+            "key": "Normal-20200325_A",
+            "value": "Rang de joueur 1 à 29"
+        },
+        {
+            "key": "Normal-20200325_B",
+            "value": "Rang de joueur 30 à 59"
+        },
+        {
+            "key": "Normal-20200325_C",
+            "value": "Rang de joueur 60 et plus"
+        },
+        {
+            "key": "Normal-20200328_A",
+            "value": "Rang de joueur 1 à 29"
+        },
+        {
+            "key": "Normal-20200328_B",
+            "value": "Rang de joueur 30 à 59"
+        },
+        {
+            "key": "Normal-20200328_C",
+            "value": "Rang de joueur 60 et plus"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Boutique surprise (Rang de joueur 1 à 29)"
         },
@@ -325,8 +413,148 @@
             "value": "Boutique surprise (Rang de joueur 60 et plus)"
         },
         {
+            "key": "Guerrilla-20200221A",
+            "value": "Boutique surprise (Rang de joueur 1 à 29)"
+        },
+        {
+            "key": "Guerrilla-20200221B",
+            "value": "Boutique surprise (Rang de joueur 30 à 59)"
+        },
+        {
+            "key": "Guerrilla-20200221C",
+            "value": "Boutique surprise (Rang de joueur 60 et plus)"
+        },
+        {
+            "key": "Guerrilla-20200317A",
+            "value": "Boutique surprise (Rang de joueur 1 à 29)"
+        },
+        {
+            "key": "Guerrilla-20200317B",
+            "value": "Boutique surprise (Rang de joueur 30 à 59)"
+        },
+        {
+            "key": "Guerrilla-20200317C",
+            "value": "Boutique surprise (Rang de joueur 60 et plus)"
+        },
+        {
+            "key": "Guerrilla-20200319A",
+            "value": "Boutique surprise (Rang de joueur 1 à 29)"
+        },
+        {
+            "key": "Guerrilla-20200319B",
+            "value": "Boutique surprise (Rang de joueur 30 à 59)"
+        },
+        {
+            "key": "Guerrilla-20200319C",
+            "value": "Boutique surprise (Rang de joueur 60 et plus)"
+        },
+        {
+            "key": "Guerrilla-20200321A",
+            "value": "Boutique surprise (Rang de joueur 1 à 29)"
+        },
+        {
+            "key": "Guerrilla-20200321B",
+            "value": "Boutique surprise (Rang de joueur 30 à 59)"
+        },
+        {
+            "key": "Guerrilla-20200321C",
+            "value": "Boutique surprise (Rang de joueur 60 et plus)"
+        },
+        {
+            "key": "Guerrilla-20200323A",
+            "value": "Boutique surprise (Rang de joueur 1 à 29)"
+        },
+        {
+            "key": "Guerrilla-20200323B",
+            "value": "Boutique surprise (Rang de joueur 30 à 59)"
+        },
+        {
+            "key": "Guerrilla-20200323C",
+            "value": "Boutique surprise (Rang de joueur 60 et plus)"
+        },
+        {
+            "key": "Guerrilla-20200325A",
+            "value": "Boutique surprise (Rang de joueur 1 à 29)"
+        },
+        {
+            "key": "Guerrilla-20200325B",
+            "value": "Boutique surprise (Rang de joueur 30 à 59)"
+        },
+        {
+            "key": "Guerrilla-20200325C",
+            "value": "Boutique surprise (Rang de joueur 60 et plus)"
+        },
+        {
+            "key": "Guerrilla-20200328A",
+            "value": "Boutique surprise (Rang de joueur 1 à 29)"
+        },
+        {
+            "key": "Guerrilla-20200328B",
+            "value": "Boutique surprise (Rang de joueur 30 à 59)"
+        },
+        {
+            "key": "Guerrilla-20200328C",
+            "value": "Boutique surprise (Rang de joueur 60 et plus)"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "Améliorez vos unités et vos atouts-visions !"
+        },
+        {
+            "key": "Limited-gl20200715",
+            "value": "Boutique de la campagne de soutien de guilde : vente d'objets spéciaux !"
+        },
+        {
+            "key": "Limited-gl20200715_A",
+            "value": "Boutique des nouvelles unités du moment : améliorez vos unités !"
+        },
+        {
+            "key": "Limited-gl20200715_B",
+            "value": "Boutique des nouvelles unités et nouveaux atouts-visions du moment : améliorez vos unités et vos atouts-visions !"
+        },
+        {
+            "key": "Limited-gl20200708",
+            "value": "Boutique de la célébration de lancement de la Tour de porcelaine [Partie II] : ventes spéciales en cours !"
+        },
+        {
+            "key": "Limited-gl20200708_A",
+            "value": "Boutique du moment : améliorez vos unités et vos atouts-visions !"
+        },
+        {
+            "key": "Limited-gl20200701",
+            "value": "Boutique pour la campagne de FF EXVIUS Universe : ventes spéciales en cours !"
+        },
+        {
+            "key": "Limited-gl20200701_A",
+            "value": "Boutique de la célébration de lancement de la Tour de porcelaine : ventes spéciales en cours !"
+        },
+        {
+            "key": "Limited-gl20200701_B_1",
+            "value": "Boutique des nouvelles unités et nouveaux atouts-visions du moment I : améliorez vos unités et vos atouts-visions !"
+        },
+        {
+            "key": "Limited-gl20200701_B_2",
+            "value": "Boutique des nouvelles unités et nouveaux atouts-visions du moment II : améliorez vos unités et vos atouts-visions !"
+        },
+        {
+            "key": "Limited-gl20200701_B_3",
+            "value": "Boutique des nouvelles unités et nouveaux atouts-visions du moment III : améliorez vos unités et vos atouts-visions !"
+        },
+        {
+            "key": "Limited-gl20200701_B_4",
+            "value": "Boutique des nouvelles unités et nouveaux atouts-visions du moment IV : améliorez vos unités et vos atouts-visions !"
+        },
+        {
+            "key": "Limited-gl20200624_A",
+            "value": "Boutique de MOBIUS FINAL FANTASY : améliorez vos unités et vos atouts-visions !"
+        },
+        {
+            "key": "Limited-gl20200624",
+            "value": "Sortie du Chapitre 7 ! - Boutique : ventes spéciales en cours !"
+        },
+        {
+            "key": "Limited-gl20200624_B",
+            "value": "Boutique du moment : améliorez vos unités et vos atouts-visions !"
         },
         {
             "key": "Limited-gl20200617",
@@ -453,12 +681,32 @@
             "value": "Améliorez vos unités et vos atouts-visions !"
         },
         {
-            "key": "Event-Raid_20200207",
-            "value": "Bienvenue dans la boutique d'échange des médailles du raid du Chocoflan, kupo !"
+            "key": "Event-Quest_20200301",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'événement de juillet, kupo !"
+        },
+        {
+            "key": "Event-Tower_20200317",
+            "value": "Bienvenue dans la boutique d'échange des médailles de la Tour, kupo !"
+        },
+        {
+            "key": "Event-Summon_GL20200715_B",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'invocation (B) de juillet, kupo !"
+        },
+        {
+            "key": "Event-Summon_GL20200701_A",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'invocation (A) de juillet, kupo !"
         },
         {
             "key": "Event-EV02_1_20200201",
             "value": "Bienvenue dans la boutique d'échange des médailles d'événement de juin, kupo !"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "Bienvenue dans la boutique d'échange des médailles du raid du Chocoflan, kupo !"
+        },
+        {
+            "key": "Event-Summon_GL20200624_B",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'invocation (B) de juin, kupo !"
         },
         {
             "key": "Event-Summon_GL20200617_B",
@@ -670,6 +918,62 @@
         },
         {
             "key": "Event-Vision_N_gl20200601",
+            "value": "Bienvenue dans la boutique d'échange des médailles de vision N, kupo !"
+        },
+        {
+            "key": "Event-Friend_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'ami, kupo !"
+        },
+        {
+            "key": "Event-Arena_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'arène, kupo !"
+        },
+        {
+            "key": "Event-Match_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles de JcJ, kupo !"
+        },
+        {
+            "key": "Event-Guild_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles de guilde, kupo !"
+        },
+        {
+            "key": "Event-Soul_UR_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'âme UR, kupo !"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'âme MR, kupo !"
+        },
+        {
+            "key": "Event-Soul_SR_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'âme SR, kupo !"
+        },
+        {
+            "key": "Event-Soul_R_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'âme R, kupo !"
+        },
+        {
+            "key": "Event-Soul_N_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'âme N, kupo !"
+        },
+        {
+            "key": "Event-Vision_UR_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles de vision UR, kupo !"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles de vision MR, kupo !"
+        },
+        {
+            "key": "Event-Vision_SR_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles de vision SR, kupo !"
+        },
+        {
+            "key": "Event-Vision_R_gl20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles de vision R, kupo !"
+        },
+        {
+            "key": "Event-Vision_N_gl20200701",
             "value": "Bienvenue dans la boutique d'échange des médailles de vision N, kupo !"
         },
         {
@@ -1086,6 +1390,134 @@
         },
         {
             "key": "Limited-FIRE_2020_2_18",
+            "value": "Objets quotidiens spéciaux pour les jobs de feu"
+        },
+        {
+            "key": "Limited-WATER_2020_2_26",
+            "value": "Objets quotidiens spéciaux pour les jobs d'eau"
+        },
+        {
+            "key": "Limited-WIND_2020_2_27",
+            "value": "Objets quotidiens spéciaux pour les jobs de vent"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_28",
+            "value": "Objets quotidiens spéciaux pour les jobs de foudre"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_29",
+            "value": "Objets quotidiens spéciaux pour les jobs de terre"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_01",
+            "value": "Objets quotidiens spéciaux pour les jobs de lumière"
+        },
+        {
+            "key": "Limited-DARK_2020_3_01",
+            "value": "Objets quotidiens spéciaux pour les jobs d'ombre"
+        },
+        {
+            "key": "Limited-ICE_2020_2_24",
+            "value": "Objets quotidiens spéciaux pour les jobs de glace"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_25",
+            "value": "Objets quotidiens spéciaux pour les jobs de feu"
+        },
+        {
+            "key": "Limited-WATER_2020_3_04",
+            "value": "Objets quotidiens spéciaux pour les jobs d'eau"
+        },
+        {
+            "key": "Limited-WIND_2020_3_05",
+            "value": "Objets quotidiens spéciaux pour les jobs de vent"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_06",
+            "value": "Objets quotidiens spéciaux pour les jobs de foudre"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_07",
+            "value": "Objets quotidiens spéciaux pour les jobs de terre"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_08",
+            "value": "Objets quotidiens spéciaux pour les jobs de lumière"
+        },
+        {
+            "key": "Limited-DARK_2020_3_08",
+            "value": "Objets quotidiens spéciaux pour les jobs d'ombre"
+        },
+        {
+            "key": "Limited-ICE_2020_3_02",
+            "value": "Objets quotidiens spéciaux pour les jobs de glace"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_03",
+            "value": "Objets quotidiens spéciaux pour les jobs de feu"
+        },
+        {
+            "key": "Limited-WATER_2020_3_11",
+            "value": "Objets quotidiens spéciaux pour les jobs d'eau"
+        },
+        {
+            "key": "Limited-WIND_2020_3_12",
+            "value": "Objets quotidiens spéciaux pour les jobs de vent"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_13",
+            "value": "Objets quotidiens spéciaux pour les jobs de foudre"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_14",
+            "value": "Objets quotidiens spéciaux pour les jobs de terre"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_15",
+            "value": "Objets quotidiens spéciaux pour les jobs de lumière"
+        },
+        {
+            "key": "Limited-DARK_2020_3_15",
+            "value": "Objets quotidiens spéciaux pour les jobs d'ombre"
+        },
+        {
+            "key": "Limited-ICE_2020_3_09",
+            "value": "Objets quotidiens spéciaux pour les jobs de glace"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_10",
+            "value": "Objets quotidiens spéciaux pour les jobs de feu"
+        },
+        {
+            "key": "Limited-WATER_2020_3_18",
+            "value": "Objets quotidiens spéciaux pour les jobs d'eau"
+        },
+        {
+            "key": "Limited-WIND_2020_3_19",
+            "value": "Objets quotidiens spéciaux pour les jobs de vent"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_20",
+            "value": "Objets quotidiens spéciaux pour les jobs de foudre"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_21",
+            "value": "Objets quotidiens spéciaux pour les jobs de terre"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_22",
+            "value": "Objets quotidiens spéciaux pour les jobs de lumière"
+        },
+        {
+            "key": "Limited-DARK_2020_3_22",
+            "value": "Objets quotidiens spéciaux pour les jobs d'ombre"
+        },
+        {
+            "key": "Limited-ICE_2020_3_16",
+            "value": "Objets quotidiens spéciaux pour les jobs de glace"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_17",
             "value": "Objets quotidiens spéciaux pour les jobs de feu"
         }
     ]

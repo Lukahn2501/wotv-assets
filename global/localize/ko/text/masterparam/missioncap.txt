@@ -17,6 +17,10 @@
             "value": "길드 일일 이벤트 퀘스트"
         },
         {
+            "key": "MG_GL_DAILY_GUILD_01",
+            "value": "길드 응원 캠페인 미션"
+        },
+        {
             "key": "MG_STORY_001",
             "value": "스토리 퀘스트 제1부"
         },
@@ -121,6 +125,14 @@
             "value": "[멀티] 철거인 도전"
         },
         {
+            "key": "MG_EV_CSLI_01",
+            "value": "초코 푸딩 도전"
+        },
+        {
+            "key": "MG_MU_CSLI_01",
+            "value": "[멀티] 초코 푸딩 도전"
+        },
+        {
             "key": "MG_EV_ART_CRF_01",
             "value": "장비 육성 퀘스트"
         },
@@ -165,6 +177,18 @@
             "value": "[멀티] 서쪽의 위협 런달 [EX]"
         },
         {
+            "key": "MG_EV03_1_01",
+            "value": "생명을 불사르기 위해"
+        },
+        {
+            "key": "MG_EV03_1_02",
+            "value": "생명을 불사르기 위해 [EX]"
+        },
+        {
+            "key": "MG_MU_EV03_1_02",
+            "value": "[멀티] 생명을 불사르기 위해 [EX]"
+        },
+        {
             "key": "MG_ETRE01_01",
             "value": "에트와 육성 퀘스트"
         },
@@ -189,6 +213,14 @@
             "value": "[멀티] 고난도 '살리아의 조각' 획득 EX 퀘스트"
         },
         {
+            "key": "MG_EV_ART_SCR_00",
+            "value": ""
+        },
+        {
+            "key": "MG_MU_ART_SCR_00",
+            "value": ""
+        },
+        {
             "key": "MG_EV_ART_SCR_01",
             "value": "고난도 비전서 획득 퀘스트"
         },
@@ -198,11 +230,11 @@
         },
         {
             "key": "MG_EV_ART_SCR_02",
-            "value": "고난도 비전서 획득 퀘스트"
+            "value": "고난도 비전서 획득 퀘스트 II"
         },
         {
             "key": "MG_MU_ART_SCR_02",
-            "value": "[멀티] 고난도 비전서 획득 퀘스트"
+            "value": "[멀티] 고난도 비전서 획득 퀘스트 II"
         },
         {
             "key": "MG_DAILY_002_5",
@@ -230,6 +262,34 @@
         },
         {
             "key": "MG_DAILY_002_4",
+            "value": "일일 미션"
+        },
+        {
+            "key": "MG_DAILY_003_1",
+            "value": "일일 미션"
+        },
+        {
+            "key": "MG_DAILY_003_2",
+            "value": "일일 미션"
+        },
+        {
+            "key": "MG_DAILY_003_3",
+            "value": "일일 미션"
+        },
+        {
+            "key": "MG_DAILY_003_4",
+            "value": "일일 미션"
+        },
+        {
+            "key": "MG_DAILY_003_5",
+            "value": "일일 미션"
+        },
+        {
+            "key": "MG_DAILY_003_6",
+            "value": "일일 미션"
+        },
+        {
+            "key": "MG_DAILY_003_7",
             "value": "일일 미션"
         },
         {
@@ -321,6 +381,34 @@
             "value": "[월간 미션] 길드 석상"
         },
         {
+            "key": "MG_MONTHLY_004_1",
+            "value": "[월간 미션] 스토리 퀘스트"
+        },
+        {
+            "key": "MG_MONTHLY_004_2",
+            "value": "[월간 미션] 하드 퀘스트"
+        },
+        {
+            "key": "MG_MONTHLY_004_3",
+            "value": "[월간 미션] 멀티 퀘스트"
+        },
+        {
+            "key": "MG_MONTHLY_004_4",
+            "value": "[월간 미션] 경험의 방"
+        },
+        {
+            "key": "MG_MONTHLY_004_5",
+            "value": "[월간 미션] 결투장"
+        },
+        {
+            "key": "MG_MONTHLY_004_6",
+            "value": "[월간 미션] 탐험 초코보"
+        },
+        {
+            "key": "MG_MONTHLY_004_7",
+            "value": "[월간 미션] 길드 석상"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "기간 한정 환도석 소비 보너스"
         },
@@ -329,8 +417,16 @@
             "value": "기간 한정 환도석 소비"
         },
         {
+            "key": "MG_GL_LAPS_P_FRVA",
+            "value": "기간 한정 환도석 소비 보너스"
+        },
+        {
             "key": "MG_COMEBACK_001",
             "value": "복귀자 미션"
+        },
+        {
+            "key": "MG_LAPS_P_VNLA",
+            "value": "기간 한정 환도석 소비 보너스"
         }
     ]
 }

@@ -14,11 +14,15 @@
         },
         {
             "key": "CM_PRO_002_1",
-            "value": "考驗任務 No.1"
+            "value": "FFT聯動活動考驗任務No.1"
         },
         {
             "key": "CM_PRO_002_2",
-            "value": "考驗任務 No.2"
+            "value": "FFT聯動活動考驗任務No.2"
+        },
+        {
+            "key": "CM_PRO_004_1",
+            "value": "MOBIUS FINAL FANTASY聯動紀念考驗任務"
         }
     ]
 }

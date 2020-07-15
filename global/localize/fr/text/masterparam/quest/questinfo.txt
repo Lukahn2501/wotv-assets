@@ -1021,6 +1021,86 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 70, job niv. 12"
         },
         {
+            "key": "QE_ST_01070101",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 61, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070102",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 62, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070103",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 62, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070104",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 63, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070105",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 64, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070106",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 64, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070107",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 65, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 66, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070109",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 66, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070110",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 71, job niv. 12"
+        },
+        {
+            "key": "QE_ST_01070201",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 62, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070202",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 63, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 63, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070204",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 64, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070205",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 65, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070206",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 65, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070207",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 66, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070208",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 67, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 67, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070210",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 72, job niv. 12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 17, job niv. 3<br>Condition d'accès : posséder l'unité « Zazan »"
         },
@@ -1227,6 +1307,18 @@
         {
             "key": "QE_HA_LW_VKTR",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 62, job niv. 10<br>Condition d'accès : posséder l'unité « Viktora »"
+        },
+        {
+            "key": "QE_HA_LW_RAIN",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 63, job niv. 10<br>Condition d'accès : posséder l'unité « Rain »"
+        },
+        {
+            "key": "QE_HA_LW_DRIO",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 63, job niv. 10<br>Condition d'accès : posséder l'unité « Dario Hourne »"
+        },
+        {
+            "key": "QE_HA_LW_VNLA",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 63, job niv. 10<br>Condition d'accès : posséder l'unité « Vinera Fennes »"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1445,6 +1537,26 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : l'unité « Viktora » doit être au niv. 40 au moins."
         },
         {
+            "key": "QE_CH_GL_LW_FRVA",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Fryevia » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_RAIN",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Rain » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_DRIO",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Dario Hourne » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_VNLA",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Vinera Fennes » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_TREL",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Tyrell » au niv. 40 au moins."
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Y'shtola » au niv. 40 au moins."
         },
@@ -1547,6 +1659,10 @@
         {
             "key": "QE_MU_FFT_EX_01",
             "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_GL_EV_FFEXU_01",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 1, job niv. 1"
         },
         {
             "key": "QE_EV_GL_1M_FIR",
@@ -1693,6 +1809,118 @@
             "value": "Informations sur la quête<br>Aucune"
         },
         {
+            "key": "QE_EV_03_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_03_02",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_03_03",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_03_04",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_03_05",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_03_06",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_03_07",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_03_08",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_03_09",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_03_10",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_03_EX",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_03_EX",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Informations sur la quête<br>・Cette quête est une quête test pour les combats de guile.<br>・Envoyez 3 unités au combat et utilisez le mode automatique pour vous faire une idée de ce à quoi ressemblera un véritable combat."
+        },
+        {
+            "key": "QE_EV_VNLA_01",
+            "value": "Informations sur la quête<br>Condition d'accès : posséder l'unité « Vinera Fennes »"
+        },
+        {
+            "key": "QE_EV_RAIN_01",
+            "value": "Informations sur la quête<br>Condition d'accès : posséder l'unité « Rain »"
+        },
+        {
+            "key": "QE_SB_CSLI_02",
+            "value": "Informations sur la quête<br>Astuce : avant que le Chocoflan ne vous charme..."
+        },
+        {
+            "key": "QE_SB_CSLI_03",
+            "value": "Informations sur la quête<br>Astuce : avant que le Chocoflan ne vous charme..."
+        },
+        {
+            "key": "QE_EV_SB_EXP_FIR",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 60, job niv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_ICE",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 60, job niv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WIN",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 60, job niv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_EAR",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 60, job niv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_THU",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 60, job niv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WTR",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 60, job niv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_SHI",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 60, job niv. 10"
+        },
+        {
+            "key": "QE_EV_SB_EXP_DAR",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 60, job niv. 10"
+        },
+        {
+            "key": "QE_EV_ARENA_01_1",
+            "value": "Informations sur la quête<br>・Pas d'objets <br>・Créé en fonction du groupe utilisé lors du combat en Arène, bien que certaines caractéristiques soient différentes."
+        },
+        {
+            "key": "QE_EV_ARENA_01_2",
+            "value": "Informations sur la quête<br>・Pas d'objets <br>・Créé en fonction du groupe utilisé lors du combat en Arène, bien que certaines caractéristiques soient différentes."
+        },
+        {
+            "key": "QE_EV_ARENA_01_3",
+            "value": "Informations sur la quête<br>・Pas d'objets <br>・Créé en fonction du groupe formé lors du combat dans l'Arène, bien que certaines caractéristiques soient différentes."
+        },
+        {
             "key": "QE_EV_VKTR_01",
             "value": "Informations sur la quête<br>Condition d'accès : posséder l'unité « Viktora »"
         },
@@ -1725,52 +1953,12 @@
             "value": "Informations sur la quête<br>Aucune"
         },
         {
-            "key": "QE_MU_EV_TH_EX1",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_EV_TH_EX2",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_EV_02_EX1",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
             "key": "QE_SB_IGNT_02",
             "value": "Informations sur la quête<br>Astuce : si vous lancez un certain nombre d'attaques..."
         },
         {
             "key": "QE_SB_IGNT_03",
             "value": "Informations sur la quête<br>Astuce : si vous lancez un certain nombre d'attaques..."
-        },
-        {
-            "key": "QE_EV_JP_001",
-            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 1, job niv. 1"
-        },
-        {
-            "key": "QE_EV_ART_SCR_01",
-            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 10"
-        },
-        {
-            "key": "QE_EV_ART_SCR_02",
-            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 10"
-        },
-        {
-            "key": "QE_EV_ART_SCR_03",
-            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 10"
-        },
-        {
-            "key": "QE_MU_EV_SCR_01",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_EV_SCR_02",
-            "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_EV_SCR_03",
-            "value": "Informations sur la quête<br>Aucune"
         },
         {
             "key": "QE_EV_ETRE_01",
@@ -1805,12 +1993,24 @@
             "value": "Informations sur la quête<br>Aucune"
         },
         {
-            "key": "QE_MU_EV_ET_EX1",
-            "value": "Informations sur la quête<br>Aucune"
+            "key": "QE_EV_JP_001",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 1, job niv. 1"
         },
         {
-            "key": "QE_MU_EV_ET_EX2",
-            "value": "Informations sur la quête<br>Aucune"
+            "key": "QE_EV_ART_SCR_01",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_EV_ART_SCR_02",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_EV_ART_SCR_03",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_EV_ART_SCR_04",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 10"
         },
         {
             "key": "QE_EV_ANV_19_10",
@@ -1833,16 +2033,60 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 80, job niv. 12<br>Astuce : les ennemis à l'air farouche ont souvent une meilleure DEF et PSY que les autres. Essayez de les affaiblir avant de les attaquer. Les ennemis en métal changent d'attaque en fonction de leurs PV manquants ou du nombre d'actions, alors surveillez ces indicateurs."
         },
         {
-            "key": "QE_MU_ART_CRF_04",
-            "value": "Informations sur la quête<br>Astuce : les ennemis à l'air farouche ont souvent une meilleure DEF et PSY que les autres. Essayez de les affaiblir avant de les attaquer. Les ennemis en métal changent d'attaque en fonction de leurs PV manquants ou du nombre d'actions, alors surveillez ces indicateurs."
-        },
-        {
             "key": "QE_EV_ART_CRF_05",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 9"
         },
         {
             "key": "QE_EV_ART_CRF_06",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 9"
+        },
+        {
+            "key": "QE_MU_CSLI_03",
+            "value": "Informations sur la quête<br>Astuce : avant que le Chocoflan ne vous charme..."
+        },
+        {
+            "key": "QE_MU_IGNT_03",
+            "value": "Informations sur la quête<br>Astuce : si vous lancez un certain nombre d'attaques..."
+        },
+        {
+            "key": "QE_MU_EV_SCR_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_SCR_02",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_SCR_03",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_SCR_04",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_02_EX1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_ART_CRF_04",
+            "value": "Informations sur la quête<br>Astuce : les ennemis à l'air farouche ont souvent une meilleure DEF et PSY que les autres. Essayez de les affaiblir avant de les attaquer. Les ennemis en métal changent d'attaque en fonction de leurs PV manquants ou du nombre d'actions, alors surveillez ces indicateurs."
         },
         {
             "key": "QE_MU_ART_CRF_05",
@@ -1915,10 +2159,6 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "Informations sur la quête<br>Aucune"
-        },
-        {
-            "key": "QE_MU_IGNT_03",
-            "value": "Informations sur la quête<br>Astuce : si vous lancez un certain nombre d'attaques..."
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2131,6 +2371,10 @@
         {
             "key": "QE_GVG_00002",
             "value": "Aucune"
+        },
+        {
+            "key": "QE_GVG_00003",
+            "value": "Aug. att d'ombre"
         },
         {
             "key": "QE_PVP_FRE_0001",

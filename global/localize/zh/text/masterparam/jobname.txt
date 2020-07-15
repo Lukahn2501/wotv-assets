@@ -763,6 +763,46 @@
         {
             "key": "JB_FFT_ORND",
             "value": "劍聖"
+        },
+        {
+            "key": "JB_LW_RAIN",
+            "value": "格蘭謝爾特騎士"
+        },
+        {
+            "key": "JB_LW_ASS",
+            "value": "暗殺者"
+        },
+        {
+            "key": "JB_LW_ASS_FIRE",
+            "value": "暗殺者"
+        },
+        {
+            "key": "JB_LW_ASS_ICE",
+            "value": "暗殺者"
+        },
+        {
+            "key": "JB_LW_ASS_WIND",
+            "value": "暗殺者"
+        },
+        {
+            "key": "JB_LW_ASS_SOIL",
+            "value": "暗殺者"
+        },
+        {
+            "key": "JB_LW_ASS_THUN",
+            "value": "暗殺者"
+        },
+        {
+            "key": "JB_LW_ASS_WATER",
+            "value": "暗殺者"
+        },
+        {
+            "key": "JB_LW_ASS_SHINE",
+            "value": "暗殺者"
+        },
+        {
+            "key": "JB_LW_ASS_DARK",
+            "value": "暗殺者"
         }
     ]
 }

@@ -34,7 +34,7 @@
         },
         {
             "key": "GACHA_WATCH_VIDEO",
-            "value": "Visionner une annonce"
+            "value": "Visionner une vidéo"
         },
         {
             "key": "GACHA_FREE_AMOUNT_TITLE",

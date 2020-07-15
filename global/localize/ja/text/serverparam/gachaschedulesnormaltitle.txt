@@ -93,6 +93,42 @@
             "value": "レア召喚"
         },
         {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "レア召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "レア召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "レア召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "レア召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "レア召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "レア召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "レア召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "レア召喚　10連召喚"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "レア召喚"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "リリース記念 期間限定 ノーマル召喚"
         },
@@ -171,6 +207,38 @@
         {
             "key": "Normal_gacha_A_gl20200617_10",
             "value": "アーリーサマー記念ノーマル召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "ストーリー7章公開記念 期間限定 ノーマル召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "ストーリー7章公開記念 期間限定 ノーマル召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "FF EXVIUSユニバース期間限定 ノーマル召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "FF EXVIUSユニバース期間限定 ノーマル召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "FF EXVIUSユニバース第２弾期間限定 ノーマル召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "FF EXVIUSユニバース第２弾期間限定 ノーマル召喚　10連召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "期間限定 ノーマル召喚"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "期間限定 ノーマル召喚　10連召喚"
         }
     ]
 }

@@ -70,7 +70,7 @@
         },
         {
             "key": "GUIDANCE_SKIP_MSG",
-            "value": "{0}に関するチュートリアルを見ますか？"
+            "value": "{0}に関するチュートリアルをみますか？"
         },
         {
             "key": "TUTORIAL_SKIP",
@@ -2638,11 +2638,11 @@
         },
         {
             "key": "PARTYEDITOR_GUILD_PARTY_OFFENSE",
-            "value": "攻撃パーティー"
+            "value": "攻撃"
         },
         {
             "key": "PARTYEDITOR_GUILD_PARTY_DEFENSE",
-            "value": "防御パーティー"
+            "value": "防御"
         },
         {
             "key": "PARTYEDITOR_GUILD_CAUTION",
@@ -2947,10 +2947,6 @@
         {
             "key": "RECOMMEND_TEAM_DESC",
             "value": "優先する項目を設定してください。"
-        },
-        {
-            "key": "RECOMMEND_TEAM_CAUTION",
-            "value": "<line-height=26>※ユニット・武具・召喚獣・ビジョンカードが、<br>設定された項目に沿って自動的に編成されます。"
         },
         {
             "key": "RECOMMEND_TEAM_FAVORITE",
@@ -3682,7 +3678,7 @@
         },
         {
             "key": "LAPIS_RIGHT_LIMITED",
-            "value": "{0}日間限定"
+            "value": "購入後{0}日間有効"
         },
         {
             "key": "LAPIS_RIGHT_PURCHESED",
@@ -4283,6 +4279,550 @@
         {
             "key": "YEAR_TEXT",
             "value": "年"
+        },
+        {
+            "key": "POWER_SAVE",
+            "value": "クリスタルに触れて節電モード解除"
+        },
+        {
+            "key": "SORT_TITLE_AP",
+            "value": "AP"
+        },
+        {
+            "key": "SORT_TITLE_DEFENCE",
+            "value": "防御"
+        },
+        {
+            "key": "SORT_TITLE_MIND",
+            "value": "精神"
+        },
+        {
+            "key": "SORT_TITLE_DEXTERITY",
+            "value": "器用さ"
+        },
+        {
+            "key": "SORT_TITLE_LUCK",
+            "value": "運"
+        },
+        {
+            "key": "STATUS_HATE",
+            "value": "Hate"
+        },
+        {
+            "key": "ABILITY_STATUS_USE_AUTO",
+            "value": "オートアビリティでの使用"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL",
+            "value": "詳細設定"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL_ON",
+            "value": "詳細設定:ON"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TITLE",
+            "value": "オートバトルでの使用"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_QUEST",
+            "value": "クエスト"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_MULTI",
+            "value": "マルチ"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_DUEL",
+            "value": "デュエル"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_GUILD",
+            "value": "ギルドバトル"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TOWER",
+            "value": "白磁の塔"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
+            "value": "ユニット選択"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
+            "value": "別のパーティ（{0}）で<br>既に選択済みです。<br>それでも選択しますか？<br>（別のパーティからは<br>対象ユニットは外されます。）"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
+            "value": "通常"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
+            "value": "期間限定"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
+            "value": "編成ルール"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
+            "value": "<line-height=22>※複数の攻撃パーティーで同じユニット、武具、召喚獣、ビジョンカードの設定はできません。複数の防御パーティーについても同様です。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
+            "value": "優先項目を選択"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
+            "value": "おまかせ対象選択"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
+            "value": "全部おまかせ"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
+            "value": "武具"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
+            "value": "ビジョンカード"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
+            "value": "召喚獣"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
+            "value": "<line-height=26>※ユニット・武具・ビジョンカード・召喚獣が、<br>設定された項目に沿って自動的に編成されます。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
+            "value": "<line-height=26>※チェックした装備品のみ設定に沿って自動的に編成され、<br>それ以外は現在の編成がそのまま残ります。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
+            "value": "<line-height=26>※チェックを入れておくとユニット詳細画面で<br>設定したお気に入り武具が優先して編成されます。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_TITLE",
+            "value": "項目にチェックを入れてください"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
+            "value": "武具、ビジョンカード、召喚獣の<br>少なくとも1つに<br>チェックを入れてください。"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_CHAT",
+            "value": "チャット"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
+            "value": "バトルログ"
+        },
+        {
+            "key": "OPTION_EFFECT",
+            "value": "範囲エフェクトの表示"
+        },
+        {
+            "key": "OPTION_LAP_TITLE",
+            "value": "周回設定"
+        },
+        {
+            "key": "OPTION_LAP_LIMIT",
+            "value": "周回制限"
+        },
+        {
+            "key": "OPTION_LAP_NONE",
+            "value": "制限なし"
+        },
+        {
+            "key": "OPTION_LAP_TIMES",
+            "value": "周回数"
+        },
+        {
+            "key": "OPTION_LAP_ITEM",
+            "value": "アイテム獲得"
+        },
+        {
+            "key": "OPTION_LAP_USE_ITEM",
+            "value": "消費体力"
+        },
+        {
+            "key": "OPTION_LAP_STOP",
+            "value": "周回ストップ"
+        },
+        {
+            "key": "OPTION_LAP_FEAVER",
+            "value": "探検チョコボ Fever"
+        },
+        {
+            "key": "OPTION_LAP_CAPRICIOUS",
+            "value": "気まぐれ屋発見"
+        },
+        {
+            "key": "OPTION_LAP_RAID",
+            "value": "レイド遭遇"
+        },
+        {
+            "key": "OPTION_LAP_STOP_CAUTION",
+            "value": "※ONにしておくと演出が発生した際周回が止まります。"
+        },
+        {
+            "key": "OPTION_LAP_AP_USE",
+            "value": "自動体力回復薬使用"
+        },
+        {
+            "key": "OPTION_LAP_AP_TIMES",
+            "value": "回復回数上限"
+        },
+        {
+            "key": "OPTION_LAP_AP_CAUTION",
+            "value": "※周回中に体力が切れた場合に自動で体力を回復します。<br>※回復薬以外での体力回復は行いません。<br>※回復薬は所持しているもので回復量が大きいものより使用されます。"
+        },
+        {
+            "key": "OPTION_ITEM_TITLE",
+            "value": "アイテム選択"
+        },
+        {
+            "key": "ARTI_CONDITION_TITLE",
+            "value": "装備可能条件"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_TITLE",
+            "value": "装備可能ジョブ"
+        },
+        {
+            "key": "ARTI_CONDITION_NONE",
+            "value": "装備可能条件なし"
+        },
+        {
+            "key": "ARTI_CONDITION_COUNTRY",
+            "value": "・{0}出身"
+        },
+        {
+            "key": "ARTI_CONDITION_SEX",
+            "value": "・{0}"
+        },
+        {
+            "key": "ARTI_CONDITION_UNIT",
+            "value": "・{0}"
+        },
+        {
+            "key": "ARTI_CONDITION_RARITY",
+            "value": "・レアリティ {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_AWAKE",
+            "value": "・覚醒数 {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_RANK",
+            "value": "・限界突破数 {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_SERIES",
+            "value": "・シリーズ {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_NONE",
+            "value": "すべてのジョブで装備可能です"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
+            "value": "ユニット詳細"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
+            "value": "※覚醒★{0}/限界突破{1}/Lv・全JobLvがMax時"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
+            "value": "ビジョンカード詳細"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
+            "value": "※覚醒★{0}/LvMax時"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
+            "value": "召喚獣詳細"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
+            "value": "※召喚獣は初回のみ入手できます"
+        },
+        {
+            "key": "VISION_DETAIL_STATUS",
+            "value": "ステータス"
+        },
+        {
+            "key": "VISION_DETAIL_INFO",
+            "value": "情報"
+        },
+        {
+            "key": "VISION_DETAIL_ADD_EFF",
+            "value": "付与効果"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE_BONUS",
+            "value": "覚醒ボーナス"
+        },
+        {
+            "key": "VISION_DETAIL_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE",
+            "value": "覚醒"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_STATUS",
+            "value": "<cspace=0.5>Status"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_SYNCHRO",
+            "value": "共鳴度"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_RESIST",
+            "value": "耐性"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
+            "value": "召喚魔法"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
+            "value": "召喚獣育成ボード"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
+            "value": "召喚獣強化"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
+            "value": "一括強化"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
+            "value": "召喚獣Lv.が最大です"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
+            "value": "現在の召喚獣Lv.MAXに必要な経験値を超えますがよろしいですか？"
+        },
+        {
+            "key": "UNIT_DETAIL_AWAKE",
+            "value": "覚醒"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP",
+            "value": "限界突破"
+        },
+        {
+            "key": "UNIT_DETAIL_INTIMACY",
+            "value": "親密度"
+        },
+        {
+            "key": "UNIT_DETAIL_STATUS_DETAIL",
+            "value": "ステータス詳細"
+        },
+        {
+            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
+            "value": "トラストマスター報酬"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_BORD",
+            "value": "アビリティボード"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_SET",
+            "value": "アビリティセット"
+        },
+        {
+            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
+            "value": "召喚獣育成ボード"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_AWAKE",
+            "value": "覚醒"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ABILITY",
+            "value": "アビリティ"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
+            "value": "<cspace=0.5>Trust"
+        },
+        {
+            "key": "UNIT_DETAIL_RANK_LIMIT",
+            "value": "Rank上限"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ON",
+            "value": "お気に入り登録しました"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_OFF",
+            "value": "お気に入り登録解除しました"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP_CONDITION",
+            "value": "限界突破「{0}」で解放"
+        },
+        {
+            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
+            "value": "武具熟練度"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP",
+            "value": "装備"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI",
+            "value": "お気に入り武具"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
+            "value": "設定"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
+            "value": "強化素材"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
+            "value": "強化素材がありません"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
+            "value": "一括強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
+            "value": "強化確認"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
+            "value": "ユニットLv.が最大です"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
+            "value": "現在のユニットLv.MAXに必要な経験値を超えますがよろしいですか？"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
+            "value": "Main"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
+            "value": "必要ユニット Lv."
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
+            "value": "ジョブ強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
+            "value": "ジョブ強化素材"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
+            "value": "<cspace=-1>JobLv.上限に達しています"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
+            "value": "<cspace=-1>素材が不足しています"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITYSET_SET",
+            "value": "SET"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_STATUS",
+            "value": "<cspace=0.6>Unit Status"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_JOB",
+            "value": "<cspace=0.6>Job"
+        },
+        {
+            "key": "UNIT_ARTI_SET_TITLE",
+            "value": "武具装備"
+        },
+        {
+            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
+            "value": "耐性表示"
+        },
+        {
+            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
+            "value": "装備中の武具を除く"
+        },
+        {
+            "key": "UNIT_ARTI_SET_REMOVE",
+            "value": "はずす"
+        },
+        {
+            "key": "UNIT_ARTI_SET_CONFIRM",
+            "value": "別のユニットが既に装備済です。<br>それでも装備しますか？<br>（装備済のユニットからは<br>装備が外されます。）"
+        },
+        {
+            "key": "ARTI_STATUS_ADD_NONE",
+            "value": "付加能力なし"
+        },
+        {
+            "key": "ARTI_STATUS_WA_TITLE",
+            "value": "WA"
+        },
+        {
+            "key": "ARTI_STATUS_LB_TITLE",
+            "value": "LB"
+        },
+        {
+            "key": "ARTI_STATUS_LB_ENHANCE",
+            "value": "が装備"
+        },
+        {
+            "key": "TRUST_MASTER_TITLE",
+            "value": "トラストマスター報酬"
+        },
+        {
+            "key": "TRUST_MASTER_CONDITION",
+            "value": "限界突破5・覚醒★6で獲得"
+        },
+        {
+            "key": "TRUST_MASTER_COMPLETE",
+            "value": "獲得済み"
+        },
+        {
+            "key": "QRCODE_TAKE_TITLE",
+            "value": "シリアルコード"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_BATTLE",
+            "value": "シリアルコードを取り込みました。<br>ホームで確認してください。"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_HOME",
+            "value": "シリアルコードを取り込みました。<br>ホームに戻ります。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_CAUTION",
+            "value": "<line-height=26>※ユニット・武具・召喚獣・ビジョンカードが、<br>設定された項目に沿って自動的に編成されます。"
         },
         {
             "key": "DEBUG_SELECT_TUTORIAL_TITLE",

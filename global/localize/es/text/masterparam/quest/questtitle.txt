@@ -1021,6 +1021,86 @@
             "value": "Estrellas tempestuosas"
         },
         {
+            "key": "QE_ST_01070101",
+            "value": "Kuri, el rey de Wezette"
+        },
+        {
+            "key": "QE_ST_01070102",
+            "value": "Prueba de fuerza I"
+        },
+        {
+            "key": "QE_ST_01070103",
+            "value": "Prueba de fuerza II"
+        },
+        {
+            "key": "QE_ST_01070104",
+            "value": "Por nuestros camaradas"
+        },
+        {
+            "key": "QE_ST_01070105",
+            "value": "El secreto de Leonis"
+        },
+        {
+            "key": "QE_ST_01070106",
+            "value": "La cueva"
+        },
+        {
+            "key": "QE_ST_01070107",
+            "value": "Rubeus I"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "Rubeus II"
+        },
+        {
+            "key": "QE_ST_01070109",
+            "value": "Tierras cubiertas de nieve"
+        },
+        {
+            "key": "QE_ST_01070110",
+            "value": "La fortaleza"
+        },
+        {
+            "key": "QE_ST_01070201",
+            "value": "Un breve descanso"
+        },
+        {
+            "key": "QE_ST_01070202",
+            "value": "Señales de un perseguidor"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "De aliados nada"
+        },
+        {
+            "key": "QE_ST_01070204",
+            "value": "Hacia Wezette"
+        },
+        {
+            "key": "QE_ST_01070205",
+            "value": "Tomar la fortaleza I"
+        },
+        {
+            "key": "QE_ST_01070206",
+            "value": "Tomar la fortaleza II"
+        },
+        {
+            "key": "QE_ST_01070207",
+            "value": "La llegada de Oldoa"
+        },
+        {
+            "key": "QE_ST_01070208",
+            "value": "Tomar la fortaleza III"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "Tomar la fortaleza IV"
+        },
+        {
+            "key": "QE_ST_01070210",
+            "value": "Dispositivo de comunicación<br>a distancia"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Misión de fragmentos: Zazán"
         },
@@ -1227,6 +1307,18 @@
         {
             "key": "QE_HA_LW_VKTR",
             "value": "Misión de fragmentos: Victra"
+        },
+        {
+            "key": "QE_HA_LW_RAIN",
+            "value": "Misión de fragmentos: Rain"
+        },
+        {
+            "key": "QE_HA_LW_DRIO",
+            "value": "Misión de fragmentos: Darío Hourne"
+        },
+        {
+            "key": "QE_HA_LW_VNLA",
+            "value": "Misión de fragmentos: Vinera Fennes"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1445,6 +1537,26 @@
             "value": "Victra"
         },
         {
+            "key": "QE_CH_GL_LW_FRVA",
+            "value": "Fryevia"
+        },
+        {
+            "key": "QE_CH_LW_RAIN",
+            "value": "Rain"
+        },
+        {
+            "key": "QE_CH_LW_DRIO",
+            "value": "Darío Hourne"
+        },
+        {
+            "key": "QE_CH_LW_VNLA",
+            "value": "Vinera Fennes"
+        },
+        {
+            "key": "QE_CH_LW_TREL",
+            "value": "Tyrell"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Y'shtola"
         },
@@ -1547,6 +1659,10 @@
         {
             "key": "QE_MU_FFT_EX_01",
             "value": "FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "QE_GL_EV_FFEXU_01",
+            "value": "Misión de FF EXVIUS Universe"
         },
         {
             "key": "QE_EV_GL_1M_FIR",
@@ -1693,6 +1809,118 @@
             "value": "Rundal, la amenaza del oeste [EX]"
         },
         {
+            "key": "QE_EV_03_01",
+            "value": "Ep. 1: A los aposentos de Darío I"
+        },
+        {
+            "key": "QE_EV_03_02",
+            "value": "Ep. 2: A los aposentos de Darío II"
+        },
+        {
+            "key": "QE_EV_03_03",
+            "value": "Ep. 3: Traidores I"
+        },
+        {
+            "key": "QE_EV_03_04",
+            "value": "Ep. 4: Traidores II"
+        },
+        {
+            "key": "QE_EV_03_05",
+            "value": "Ep. 5: Una vida que se apaga I"
+        },
+        {
+            "key": "QE_EV_03_06",
+            "value": "Ep. 6: Una vida que se apaga II"
+        },
+        {
+            "key": "QE_EV_03_07",
+            "value": "Ep. 7: Una vida que se apaga III"
+        },
+        {
+            "key": "QE_EV_03_08",
+            "value": "Ep. 8: Nada más que una prisión"
+        },
+        {
+            "key": "QE_EV_03_09",
+            "value": "Ep. 9: Huida del castillo"
+        },
+        {
+            "key": "QE_EV_03_10",
+            "value": "Ep. 10: Libertad"
+        },
+        {
+            "key": "QE_EV_03_EX",
+            "value": "Vida ardiente [EX]"
+        },
+        {
+            "key": "QE_MU_EV_03_EX",
+            "value": "Vida ardiente [EX]"
+        },
+        {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Combate de gremio de exhibición"
+        },
+        {
+            "key": "QE_EV_VNLA_01",
+            "value": "[Limitada] Misión difícil (Vinera Fennes)"
+        },
+        {
+            "key": "QE_EV_RAIN_01",
+            "value": "[Limitada] Misión difícil (Rain)"
+        },
+        {
+            "key": "QE_SB_CSLI_02",
+            "value": "Desafío del flan de chocolate de dificultad alta"
+        },
+        {
+            "key": "QE_SB_CSLI_03",
+            "value": "Desafío del flan de chocolate de dificultad extrema"
+        },
+        {
+            "key": "QE_EV_SB_EXP_FIR",
+            "value": "[Fuego] Misión de recompensa de magicita roja"
+        },
+        {
+            "key": "QE_EV_SB_EXP_ICE",
+            "value": "[Hielo] Misión de recompensa de magicita azul"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WIN",
+            "value": "[Viento] Misión de recompensa de magicita verde"
+        },
+        {
+            "key": "QE_EV_SB_EXP_EAR",
+            "value": "[Tierra] Misión de recompensa de magicita naranja"
+        },
+        {
+            "key": "QE_EV_SB_EXP_THU",
+            "value": "[Rayo] Misión de recompensa de magicita amarilla"
+        },
+        {
+            "key": "QE_EV_SB_EXP_WTR",
+            "value": "[Agua] Misión de recompensa de magicita celeste"
+        },
+        {
+            "key": "QE_EV_SB_EXP_SHI",
+            "value": "[Luz] Misión de recompensa de magicita blanca"
+        },
+        {
+            "key": "QE_EV_SB_EXP_DAR",
+            "value": "[Oscuridad] Misión de recompensa de magicita morada"
+        },
+        {
+            "key": "QE_EV_ARENA_01_1",
+            "value": "Batalla de exhibición de la Arena (novato)"
+        },
+        {
+            "key": "QE_EV_ARENA_01_2",
+            "value": "Batalla de exhibición de la Arena (intermedio)"
+        },
+        {
+            "key": "QE_EV_ARENA_01_3",
+            "value": "Batalla de exhibición de la Arena (avanzado)"
+        },
+        {
             "key": "QE_EV_VKTR_01",
             "value": "[Limitada] Misión difícil (Victra)"
         },
@@ -1725,52 +1953,12 @@
             "value": "[Difícil] Misión EX de recompensa de fragmento de Saria II"
         },
         {
-            "key": "QE_MU_EV_TH_EX1",
-            "value": "[Difícil] Misión EX de recompensa de fragmento de Saria I"
-        },
-        {
-            "key": "QE_MU_EV_TH_EX2",
-            "value": "[Difícil] Misión EX de recompensa de fragmento de Saria II"
-        },
-        {
-            "key": "QE_MU_EV_02_EX1",
-            "value": "Rundal, la amenaza del oeste [EX]"
-        },
-        {
             "key": "QE_SB_IGNT_02",
             "value": "[Difícil] Desafío de Férreo"
         },
         {
             "key": "QE_SB_IGNT_03",
             "value": "[Dificultad extrema] Desafío de Férreo"
-        },
-        {
-            "key": "QE_EV_JP_001",
-            "value": "Misión de recompensa de PdP"
-        },
-        {
-            "key": "QE_EV_ART_SCR_01",
-            "value": "[Difícil] Misión de libro secreto (espada, espadón, hacha)"
-        },
-        {
-            "key": "QE_EV_ART_SCR_02",
-            "value": "[Difícil] Misión de libro secreto (lanza, puños, pistola)"
-        },
-        {
-            "key": "QE_EV_ART_SCR_03",
-            "value": "[Difícil] Misión de libro secreto (armadura, accesorio, hoja ninja)"
-        },
-        {
-            "key": "QE_MU_EV_SCR_01",
-            "value": "[Difícil] Misión de libro secreto (espada, espadón, hacha)"
-        },
-        {
-            "key": "QE_MU_EV_SCR_02",
-            "value": "[Difícil] Misión de libro secreto (lanza, puños, pistola)"
-        },
-        {
-            "key": "QE_MU_EV_SCR_03",
-            "value": "[Difícil] Misión de libro secreto (armadura, accesorio, hoja ninja)"
         },
         {
             "key": "QE_EV_ETRE_01",
@@ -1805,12 +1993,24 @@
             "value": "[Difícil] Misión EX de entrenamiento de Etra II"
         },
         {
-            "key": "QE_MU_EV_ET_EX1",
-            "value": "[Difícil] Misión EX de entrenamiento de Etra I"
+            "key": "QE_EV_JP_001",
+            "value": "Misión de recompensa de PdP"
         },
         {
-            "key": "QE_MU_EV_ET_EX2",
-            "value": "[Difícil] Misión EX de entrenamiento de Etra II"
+            "key": "QE_EV_ART_SCR_01",
+            "value": "[Difícil] Misión de libro secreto (espada, espadón, hacha)"
+        },
+        {
+            "key": "QE_EV_ART_SCR_02",
+            "value": "[Difícil] Misión de libro secreto (lanza, puños, pistola)"
+        },
+        {
+            "key": "QE_EV_ART_SCR_03",
+            "value": "[Difícil] Misión de libro secreto (armadura, accesorio, hoja ninja)"
+        },
+        {
+            "key": "QE_EV_ART_SCR_04",
+            "value": "[Difícil] Misión de libro secreto (bastón, katana, daga)"
         },
         {
             "key": "QE_EV_ANV_19_10",
@@ -1833,16 +2033,60 @@
             "value": "Misión de entrenamiento de equipo de dificultad extrema"
         },
         {
-            "key": "QE_MU_ART_CRF_04",
-            "value": "Misión de entrenamiento de equipo de dificultad extrema"
-        },
-        {
             "key": "QE_EV_ART_CRF_05",
             "value": "Misión de entrenamiento de equipo (hoja sedante)"
         },
         {
             "key": "QE_EV_ART_CRF_06",
             "value": "Misión de entrenamiento de equipo (hacha dorada)"
+        },
+        {
+            "key": "QE_MU_CSLI_03",
+            "value": "Desafío del flan de chocolate de dificultad extrema"
+        },
+        {
+            "key": "QE_MU_IGNT_03",
+            "value": "[Dificultad extrema] Desafío de Férreo"
+        },
+        {
+            "key": "QE_MU_EV_SCR_01",
+            "value": "[Difícil] Misión de libro secreto (espada, espadón, hacha)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_02",
+            "value": "[Difícil] Misión de libro secreto (lanza, puños, pistola)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_03",
+            "value": "[Difícil] Misión de libro secreto (armadura, accesorio, hoja ninja)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_04",
+            "value": "[Difícil] Misión de libro secreto (bastón, katana, daga)"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX1",
+            "value": "[Difícil] Misión EX de entrenamiento de Etra I"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX2",
+            "value": "[Difícil] Misión EX de entrenamiento de Etra II"
+        },
+        {
+            "key": "QE_MU_EV_02_EX1",
+            "value": "Rundal, la amenaza del oeste [EX]"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX1",
+            "value": "[Difícil] Misión EX de recompensa de fragmento de Saria I"
+        },
+        {
+            "key": "QE_MU_EV_TH_EX2",
+            "value": "[Difícil] Misión EX de recompensa de fragmento de Saria II"
+        },
+        {
+            "key": "QE_MU_ART_CRF_04",
+            "value": "Misión de entrenamiento de equipo de dificultad extrema"
         },
         {
             "key": "QE_MU_ART_CRF_05",
@@ -1915,10 +2159,6 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "Asalto del flan de chocolate"
-        },
-        {
-            "key": "QE_MU_IGNT_03",
-            "value": "[Dificultad extrema] Desafío de Férreo"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2131,6 +2371,10 @@
         {
             "key": "QE_GVG_00002",
             "value": "Palestra"
+        },
+        {
+            "key": "QE_GVG_00003",
+            "value": "Ruinas antiguas"
         },
         {
             "key": "QE_PVP_FRE_0001",

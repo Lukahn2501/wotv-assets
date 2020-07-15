@@ -106,11 +106,15 @@
         },
         {
             "key": "SupportUnit",
-            "value": "Changer"
+            "value": "Paramètres des personnages de soutien"
         },
         {
             "key": "ItemExchange",
             "value": "Boutique d'échange"
+        },
+        {
+            "key": "Tower",
+            "value": "Tour"
         }
     ]
 }

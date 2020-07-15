@@ -43,6 +43,18 @@
         {
             "key": "11",
             "value": "<line-height=15>Early Summer<br>Special Shop"
+        },
+        {
+            "key": "12",
+            "value": "<line-height=15>MOBIUS FF<br>Collaboration Shop"
+        },
+        {
+            "key": "13",
+            "value": "<line-height=15>Porcelain Tower <br>Launch Celebration Shop!"
+        },
+        {
+            "key": "14",
+            "value": "<line-height=15>Guild Support <br>Campaign Shop"
         }
     ]
 }

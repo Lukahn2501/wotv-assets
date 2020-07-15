@@ -42,7 +42,7 @@
         },
         {
             "key": "TIPS_ALLQE_006",
-            "value": "Si deux aptitudes de groupe possèdent le même effet, seule la plus puissante des deux sera alors activée. Cependant, si votre formation comprendre un personnage de soutien enregistré comme Ami qui entraîne l'activaiton de la même aptitude de groupe, alors cet effet sera pris en compte."
+            "value": "Si deux aptitudes de groupe possèdent le même effet, seule la plus puissante des deux sera alors activée. Cependant, si votre formation comprend un personnage de soutien enregistré comme Ami qui entraîne l'activaiton de la même aptitude de groupe, alors cet effet sera pris en compte."
         },
         {
             "key": "TIPS_ALLQE_007",

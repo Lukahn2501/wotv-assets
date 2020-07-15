@@ -73,6 +73,14 @@
             "value": "Le Lion et le Loup"
         },
         {
+            "key": "SE_ST_010701",
+            "value": "Direction l'Est"
+        },
+        {
+            "key": "SE_ST_010702",
+            "value": "Garde impériale de Muraga"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Immense forêt du Lion"
         },
@@ -121,6 +129,10 @@
             "value": "Grottes de Yaarm"
         },
         {
+            "key": "SE_WD_010203",
+            "value": "Sanctuaire du Loup blanc"
+        },
+        {
             "key": "SE_SB_01",
             "value": "Le repaire de la bête"
         },
@@ -131,6 +143,14 @@
         {
             "key": "SE_MU_SB_02",
             "value": "Défi du Géant de fer"
+        },
+        {
+            "key": "SE_SB_03",
+            "value": "Le défi du Chocoflan"
+        },
+        {
+            "key": "SE_MU_SB_03",
+            "value": "Le défi du Chocoflan"
         },
         {
             "key": "SE_EV_UNITEXP_01",
@@ -277,6 +297,22 @@
             "value": "Rundall, menace à l'ouest [EX]"
         },
         {
+            "key": "SE_EV_03_01",
+            "value": "Embraser la vie"
+        },
+        {
+            "key": "SE_EV_03_EX_01",
+            "value": "Embraser la vie [EX]"
+        },
+        {
+            "key": "SE_MU_EV_03_EX",
+            "value": "[Multi] Terminez Embraser la vie [EX]"
+        },
+        {
+            "key": "SE_EV_SBEXP_01",
+            "value": "Quête des magilithes"
+        },
+        {
             "key": "SE_EV_ANV_19_10",
             "value": "Quête de commémoration de lancement"
         },
@@ -377,6 +413,14 @@
             "value": "Quête FINAL FANTASY TACTICS [EX]"
         },
         {
+            "key": "SE_EV_ART_SCR_00",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_EV_SCR_00",
+            "value": ""
+        },
+        {
             "key": "SE_EV_ART_SCR_01",
             "value": "Quête du livre secret [Très difficile]"
         },
@@ -417,6 +461,10 @@
             "value": "Quête de soutien d'entraînement d'unité"
         },
         {
+            "key": "SE_EV_RAIN_01",
+            "value": "Quête difficile limitée (Rain)"
+        },
+        {
             "key": "SE_EV_VKTR_01",
             "value": "Quête difficile limitée (Viktora)"
         },
@@ -431,6 +479,22 @@
         {
             "key": "SE_MU_EV_THLA_EX",
             "value": "[Multi] Quête EX des fragments d'unité de Saliah [Très difficile]"
+        },
+        {
+            "key": "SE_EV_ARENA_1",
+            "value": "Entraînement dans l'Arène"
+        },
+        {
+            "key": "SE_EV_GL_FFEXU_01",
+            "value": "Quête de FF EXVIUS Universe"
+        },
+        {
+            "key": "SE_EV_VNLA_01",
+            "value": "Quête difficile limitée (Vinera Fennes)"
+        },
+        {
+            "key": "SE_EV_NEWMAP_001",
+            "value": "Entraînement aux combats de guilde"
         }
     ]
 }

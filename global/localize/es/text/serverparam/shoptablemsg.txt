@@ -9,6 +9,10 @@
             "value": "Esta es la tienda especial."
         },
         {
+            "key": "Realmoney-0715",
+            "value": "Esta es la tienda especial."
+        },
+        {
             "key": "Begginer-20191114",
             "value": "Tienda del principiante: ¡mejora tus unidades!"
         },
@@ -169,6 +173,90 @@
             "value": "Rango de jugador: 60 o superior"
         },
         {
+            "key": "Normal-20200221_A",
+            "value": "Rango de jugador: 1–29"
+        },
+        {
+            "key": "Normal-20200221_B",
+            "value": "Rango de jugador: 30–59"
+        },
+        {
+            "key": "Normal-20200221_C",
+            "value": "Rango de jugador: 60 o superior"
+        },
+        {
+            "key": "Normal-20200317_A",
+            "value": "Rango de jugador: 1–29"
+        },
+        {
+            "key": "Normal-20200317_B",
+            "value": "Rango de jugador: 30–59"
+        },
+        {
+            "key": "Normal-20200317_C",
+            "value": "Rango de jugador: 60 o superior"
+        },
+        {
+            "key": "Normal-20200319_A",
+            "value": "Rango de jugador: 1–29"
+        },
+        {
+            "key": "Normal-20200319_B",
+            "value": "Rango de jugador: 30–59"
+        },
+        {
+            "key": "Normal-20200319_C",
+            "value": "Rango de jugador: 60 o superior"
+        },
+        {
+            "key": "Normal-20200321_A",
+            "value": "Rango de jugador: 1–29"
+        },
+        {
+            "key": "Normal-20200321_B",
+            "value": "Rango de jugador: 30–59"
+        },
+        {
+            "key": "Normal-20200321_C",
+            "value": "Rango de jugador: 60 o superior"
+        },
+        {
+            "key": "Normal-20200323_A",
+            "value": "Rango de jugador: 1–29"
+        },
+        {
+            "key": "Normal-20200323_B",
+            "value": "Rango de jugador: 30–59"
+        },
+        {
+            "key": "Normal-20200323_C",
+            "value": "Rango de jugador: 60 o superior"
+        },
+        {
+            "key": "Normal-20200325_A",
+            "value": "Rango de jugador: 1–29"
+        },
+        {
+            "key": "Normal-20200325_B",
+            "value": "Rango de jugador: 30–59"
+        },
+        {
+            "key": "Normal-20200325_C",
+            "value": "Rango de jugador: 60 o superior"
+        },
+        {
+            "key": "Normal-20200328_A",
+            "value": "Rango de jugador: 1–29"
+        },
+        {
+            "key": "Normal-20200328_B",
+            "value": "Rango de jugador: 30–59"
+        },
+        {
+            "key": "Normal-20200328_C",
+            "value": "Rango de jugador: 60 o superior"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
         },
@@ -325,8 +413,148 @@
             "value": "Tienda fugaz (jugadores de rango 60 o superior)"
         },
         {
+            "key": "Guerrilla-20200221A",
+            "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
+        },
+        {
+            "key": "Guerrilla-20200221B",
+            "value": "Tienda fugaz (jugadores de rango 30-59)"
+        },
+        {
+            "key": "Guerrilla-20200221C",
+            "value": "Tienda fugaz (jugadores de rango 60 o superior)"
+        },
+        {
+            "key": "Guerrilla-20200317A",
+            "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
+        },
+        {
+            "key": "Guerrilla-20200317B",
+            "value": "Tienda fugaz (jugadores de rango 30-59)"
+        },
+        {
+            "key": "Guerrilla-20200317C",
+            "value": "Tienda fugaz (jugadores de rango 60 o superior)"
+        },
+        {
+            "key": "Guerrilla-20200319A",
+            "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
+        },
+        {
+            "key": "Guerrilla-20200319B",
+            "value": "Tienda fugaz (jugadores de rango 30-59)"
+        },
+        {
+            "key": "Guerrilla-20200319C",
+            "value": "Tienda fugaz (jugadores de rango 60 o superior)"
+        },
+        {
+            "key": "Guerrilla-20200321A",
+            "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
+        },
+        {
+            "key": "Guerrilla-20200321B",
+            "value": "Tienda fugaz (jugadores de rango 30-59)"
+        },
+        {
+            "key": "Guerrilla-20200321C",
+            "value": "Tienda fugaz (jugadores de rango 60 o superior)"
+        },
+        {
+            "key": "Guerrilla-20200323A",
+            "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
+        },
+        {
+            "key": "Guerrilla-20200323B",
+            "value": "Tienda fugaz (jugadores de rango 30-59)"
+        },
+        {
+            "key": "Guerrilla-20200323C",
+            "value": "Tienda fugaz (jugadores de rango 60 o superior)"
+        },
+        {
+            "key": "Guerrilla-20200325A",
+            "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
+        },
+        {
+            "key": "Guerrilla-20200325B",
+            "value": "Tienda fugaz (jugadores de rango 30-59)"
+        },
+        {
+            "key": "Guerrilla-20200325C",
+            "value": "Tienda fugaz (jugadores de rango 60 o superior)"
+        },
+        {
+            "key": "Guerrilla-20200328A",
+            "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
+        },
+        {
+            "key": "Guerrilla-20200328B",
+            "value": "Tienda fugaz (jugadores de rango 30-59)"
+        },
+        {
+            "key": "Guerrilla-20200328C",
+            "value": "Tienda fugaz (jugadores de rango 60 o superior)"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "¡Mejora tus unidades y cartas de visión!"
+        },
+        {
+            "key": "Limited-gl20200715",
+            "value": "Tienda de la campaña de apoyo al gremio: ¡Artículos especiales ya a la venta!"
+        },
+        {
+            "key": "Limited-gl20200715_A",
+            "value": "Tienda de nueva unidad destacada: ¡Mejora tus unidades!"
+        },
+        {
+            "key": "Limited-gl20200715_B",
+            "value": "Tienda de unidad y carta de visión destacada: ¡Mejora tus unidades y cartas de visión!"
+        },
+        {
+            "key": "Limited-gl20200708",
+            "value": "Tienda de celebración de lanzamiento de la Torre de Porcelana, parte II: ¡Artículos especiales ya a la venta!"
+        },
+        {
+            "key": "Limited-gl20200708_A",
+            "value": "Tienda destacada: ¡Mejora tus unidades y cartas de visión!"
+        },
+        {
+            "key": "Limited-gl20200701",
+            "value": "Tienda de la campaña de FF EXVIUS Universe: ¡Artículos especiales ya a la venta!"
+        },
+        {
+            "key": "Limited-gl20200701_A",
+            "value": "Tienda de celebración de lanzamiento de la Torre de Porcelana: ¡Artículos especiales ya a la venta!"
+        },
+        {
+            "key": "Limited-gl20200701_B_1",
+            "value": "Tienda de unidad y carta de visión destacada I: ¡Mejora tus unidades y cartas de visión!"
+        },
+        {
+            "key": "Limited-gl20200701_B_2",
+            "value": "Tienda de unidad y carta de visión destacada II: ¡Mejora tus unidades y cartas de visión!"
+        },
+        {
+            "key": "Limited-gl20200701_B_3",
+            "value": "Tienda de unidad y carta de visión destacada III: ¡Mejora tus unidades y cartas de visión!"
+        },
+        {
+            "key": "Limited-gl20200701_B_4",
+            "value": "Tienda de unidad y carta de visión destacada IV: ¡Mejora tus unidades y cartas de visión!"
+        },
+        {
+            "key": "Limited-gl20200624_A",
+            "value": "Tienda de colaboración de MOBIUS FINAL FANTASY: ¡Mejora tus unidades y cartas de visión!"
+        },
+        {
+            "key": "Limited-gl20200624",
+            "value": "Tienda del capítulo 7: ¡Artículos especiales ya a la venta!"
+        },
+        {
+            "key": "Limited-gl20200624_B",
+            "value": "Tienda destacada: ¡Mejora tus unidades y cartas de visión!"
         },
         {
             "key": "Limited-gl20200617",
@@ -453,12 +681,32 @@
             "value": "¡Mejora tus unidades y cartas de visión!"
         },
         {
-            "key": "Event-Raid_20200207",
-            "value": "¡Esta es la tienda de intercambio de medallas de asalto del flan de chocolate, kupó!"
+            "key": "Event-Quest_20200301",
+            "value": "¡Esta es la tienda de intercambio de medallas de evento de julio, kupó!"
+        },
+        {
+            "key": "Event-Tower_20200317",
+            "value": "¡Esta es la tienda de intercambio de medallas de torre, kupó!"
+        },
+        {
+            "key": "Event-Summon_GL20200715_B",
+            "value": "¡Esta es la tienda de intercambio de medallas de invocación (B) de julio, kupó!"
+        },
+        {
+            "key": "Event-Summon_GL20200701_A",
+            "value": "¡Esta es la tienda de intercambio de medallas de invocación (A) de julio, kupó!"
         },
         {
             "key": "Event-EV02_1_20200201",
             "value": "¡Esta es la tienda de intercambio de medallas de evento de junio, kupó!"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "¡Esta es la tienda de intercambio de medallas de asalto del flan de chocolate, kupó!"
+        },
+        {
+            "key": "Event-Summon_GL20200624_B",
+            "value": "¡Esta es la tienda de intercambio de medallas de invocación (B) de junio, kupó!"
         },
         {
             "key": "Event-Summon_GL20200617_B",
@@ -673,6 +921,62 @@
             "value": "¡Esta es la tienda de intercambio de medallas de visión N, kupó!"
         },
         {
+            "key": "Event-Friend_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de amigo, kupó!"
+        },
+        {
+            "key": "Event-Arena_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de la Arena, kupó!"
+        },
+        {
+            "key": "Event-Match_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de JcJ, kupó!"
+        },
+        {
+            "key": "Event-Guild_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de gremio, kupó!"
+        },
+        {
+            "key": "Event-Soul_UR_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de alma UR, kupó!"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de alma MR, kupó!"
+        },
+        {
+            "key": "Event-Soul_SR_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de alma SR, kupó!"
+        },
+        {
+            "key": "Event-Soul_R_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de alma R, kupó!"
+        },
+        {
+            "key": "Event-Soul_N_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de alma N, kupó!"
+        },
+        {
+            "key": "Event-Vision_UR_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de visión UR, kupó!"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de visión MR, kupó!"
+        },
+        {
+            "key": "Event-Vision_SR_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de visión SR, kupó!"
+        },
+        {
+            "key": "Event-Vision_R_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de visión R, kupó!"
+        },
+        {
+            "key": "Event-Vision_N_gl20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de visión N, kupó!"
+        },
+        {
             "key": "Limited-WATER_2019_11_13",
             "value": "Tienda con artículos especiales para profesiones de agua del día"
         },
@@ -690,11 +994,11 @@
         },
         {
             "key": "Limited-SHINE_2019_11_17",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2019_11_17",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2019_11_18",
@@ -722,11 +1026,11 @@
         },
         {
             "key": "Limited-SHINE_2019_11_24",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2019_11_24",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2019_11_25",
@@ -754,11 +1058,11 @@
         },
         {
             "key": "Limited-SHINE2019_12_08",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2019_12_08",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2019_12_09",
@@ -786,11 +1090,11 @@
         },
         {
             "key": "Limited-SHINE2019_12_08_2",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2019_12_08_2",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2019_12_09_2",
@@ -818,11 +1122,11 @@
         },
         {
             "key": "Limited-SHINE2019_12_29",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2019_12_29",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2019_12_30",
@@ -850,11 +1154,11 @@
         },
         {
             "key": "Limited-SHINE2019_12_29_2",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2019_12_29_2",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2019_12_30_2",
@@ -882,11 +1186,11 @@
         },
         {
             "key": "Limited-SHINE_2020_1_12",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2020_1_12",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2020_1_6",
@@ -914,11 +1218,11 @@
         },
         {
             "key": "Limited-SHINE_2020_1_19",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2020_1_19",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2020_1_13",
@@ -946,11 +1250,11 @@
         },
         {
             "key": "Limited-SHINE_2020_1_26",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2020_1_26",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2020_1_20",
@@ -978,11 +1282,11 @@
         },
         {
             "key": "Limited-SHINE_2020_2_02",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2020_2_02",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2020_1_27",
@@ -1010,11 +1314,11 @@
         },
         {
             "key": "Limited-SHINE_2020_2_09",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2020_2_09",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2020_2_03",
@@ -1042,11 +1346,11 @@
         },
         {
             "key": "Limited-SHINE_2020_2_16",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2020_2_16",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2020_2_10",
@@ -1074,11 +1378,11 @@
         },
         {
             "key": "Limited-SHINE_2020_2_23",
-            "value": "Tienda con artículos especiales para profesiones de luz del día"
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
         },
         {
             "key": "Limited-DARK_2020_2_23",
-            "value": "Tienda con artículos especiales para profesiones de oscuridad del día"
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
         },
         {
             "key": "Limited-ICE_2020_2_17",
@@ -1086,6 +1390,134 @@
         },
         {
             "key": "Limited-FIRE_2020_2_18",
+            "value": "Tienda con artículos especiales para profesiones de fuego del día"
+        },
+        {
+            "key": "Limited-WATER_2020_2_26",
+            "value": "Tienda con artículos especiales para profesiones de agua del día"
+        },
+        {
+            "key": "Limited-WIND_2020_2_27",
+            "value": "Tienda con artículos especiales para profesiones de viento del día"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_28",
+            "value": "Tienda con artículos especiales para profesiones de rayo del día"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_29",
+            "value": "Tienda con artículos especiales para profesiones de tierra del día"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_01",
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_3_01",
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_2_24",
+            "value": "Tienda con artículos especiales para profesiones de hielo del día"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_25",
+            "value": "Tienda con artículos especiales para profesiones de fuego del día"
+        },
+        {
+            "key": "Limited-WATER_2020_3_04",
+            "value": "Tienda con artículos especiales para profesiones de agua del día"
+        },
+        {
+            "key": "Limited-WIND_2020_3_05",
+            "value": "Tienda con artículos especiales para profesiones de viento del día"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_06",
+            "value": "Tienda con artículos especiales para profesiones de rayo del día"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_07",
+            "value": "Tienda con artículos especiales para profesiones de tierra del día"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_08",
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_3_08",
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_3_02",
+            "value": "Tienda con artículos especiales para profesiones de hielo del día"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_03",
+            "value": "Tienda con artículos especiales para profesiones de fuego del día"
+        },
+        {
+            "key": "Limited-WATER_2020_3_11",
+            "value": "Tienda con artículos especiales para profesiones de agua del día"
+        },
+        {
+            "key": "Limited-WIND_2020_3_12",
+            "value": "Tienda con artículos especiales para profesiones de viento del día"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_13",
+            "value": "Tienda con artículos especiales para profesiones de rayo del día"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_14",
+            "value": "Tienda con artículos especiales para profesiones de tierra del día"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_15",
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_3_15",
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_3_09",
+            "value": "Tienda con artículos especiales para profesiones de hielo del día"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_10",
+            "value": "Tienda con artículos especiales para profesiones de fuego del día"
+        },
+        {
+            "key": "Limited-WATER_2020_3_18",
+            "value": "Tienda con artículos especiales para profesiones de agua del día"
+        },
+        {
+            "key": "Limited-WIND_2020_3_19",
+            "value": "Tienda con artículos especiales para profesiones de viento del día"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_20",
+            "value": "Tienda con artículos especiales para profesiones de rayo del día"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_21",
+            "value": "Tienda con artículos especiales para profesiones de tierra del día"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_22",
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_3_22",
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_3_16",
+            "value": "Tienda con artículos especiales para profesiones de hielo del día"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_17",
             "value": "Tienda con artículos especiales para profesiones de fuego del día"
         }
     ]

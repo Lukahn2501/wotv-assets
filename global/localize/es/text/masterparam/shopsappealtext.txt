@@ -43,6 +43,18 @@
         {
             "key": "11",
             "value": "<line-height=15>Tienda especial<br>de comienzo del verano"
+        },
+        {
+            "key": "12",
+            "value": "<line-height=15>Tienda de colaboración de<br>MOBIUS FF"
+        },
+        {
+            "key": "13",
+            "value": "<line-height=15>¡Tienda de celebración de lanzamiento<br>de la Torre de Porcelana!"
+        },
+        {
+            "key": "14",
+            "value": "<line-height=15>Tienda de la campaña <br>de apoyo al gremio"
         }
     ]
 }

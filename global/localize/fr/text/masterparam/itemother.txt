@@ -162,11 +162,11 @@
         },
         {
             "key": "IT_US_EXP_03",
-            "value": "Boutique d'échange des médailles d'âme MR"
+            "value": "Boutique ordinaire / Boutique surprise / Boutique d'échange des médailles d'âme MR"
         },
         {
             "key": "IT_US_EXP_04",
-            "value": "Boutique d'échange des médailles d'âme UR"
+            "value": "Boutique surprise / Boutique d'échange des médailles d'âme UR"
         },
         {
             "key": "IT_LB_EXP_01",
@@ -446,19 +446,19 @@
         },
         {
             "key": "IT_JB_MM_COMMON_2",
-            "value": ""
+            "value": "Boutique d'échange des médailles d'âme R"
         },
         {
             "key": "IT_JB_MM_COMMON_3",
-            "value": ""
+            "value": "Boutique d'échange des médailles d'âme SR"
         },
         {
             "key": "IT_JB_MM_COMMON_4",
-            "value": ""
+            "value": "Boutique d'échange des médailles d'ami / Boutique d'échange des médailles de guilde / Boutique d'échange des médailles d'âme MR"
         },
         {
             "key": "IT_JB_MM_COMMON_5",
-            "value": ""
+            "value": "Boutique d'échange des médailles d'ami / Boutique d'échange des médailles de guilde / Boutique d'échange des médailles d'âme UR"
         },
         {
             "key": "IT_JB_MM_WAR",
@@ -998,6 +998,46 @@
         },
         {
             "key": "IT_JB_MM_WGN_5",
+            "value": "Boutique d'échange des médailles d'âme UR"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "Boutique d'échange des médailles d'âme R"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "Boutique d'échange des médailles d'âme SR"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "Boutique d'échange des médailles d'âme MR"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "Boutique d'échange des médailles d'âme UR"
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "Boutique d'échange des médailles d'âme R"
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "Boutique d'échange des médailles d'âme SR"
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "Boutique d'échange des médailles d'âme MR"
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
             "value": "Boutique d'échange des médailles d'âme UR"
         },
         {
@@ -1681,6 +1721,26 @@
             "value": "Boutique ordinaire / Boutique surprise / Expédition chocobo"
         },
         {
+            "key": "IT_PI_LW_RAIN",
+            "value": "Boutique ordinaire / Boutique surprise / Expédition chocobo"
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "Boutique ordinaire / Boutique surprise / Expédition chocobo"
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "Boutique ordinaire / Boutique surprise / Expédition chocobo"
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "Boutique ordinaire / Boutique surprise / Expédition chocobo"
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": ""
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Expédition chocobo"
         },
@@ -1954,7 +2014,7 @@
         },
         {
             "key": "IT_AF_EXP_03",
-            "value": "Expédition chocobo / Boutique d'échange des médailles d'arène / Boutique d'échange des médailles de JcJ"
+            "value": "Boutique ordinaire / Boutique surprise / Expédition chocobo / Boutique d'échange des médailles d'arène / Boutique d'échange des médailles de JcJ"
         },
         {
             "key": "IT_AF_EXP_04",
@@ -2637,10 +2697,6 @@
             "value": ""
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": ""
-        },
-        {
             "key": "IT_EC_SUMMON_03_A",
             "value": ""
         },
@@ -2669,6 +2725,14 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -2689,7 +2753,11 @@
             "value": ""
         },
         {
-            "key": "IT_US_G_FFT_01",
+            "key": "IT_EC_EV03_1",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_RAID_02",
             "value": ""
         },
         {
@@ -2781,30 +2849,6 @@
             "value": ""
         },
         {
-            "key": "IT_US_G_U_UR_01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_G_UR_01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_G_UR_02",
-            "value": ""
-        },
-        {
-            "key": "IT_US_G_U_R_UR_01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_G_V_R_UR_01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_G_V_UR_01",
-            "value": ""
-        },
-        {
             "key": "IT_US_SE_JB_MM_01",
             "value": ""
         },
@@ -2830,6 +2874,82 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
             "value": ""
         },
         {
@@ -2925,6 +3045,10 @@
             "value": "Boutique ordinaire / Boutique d'échange des médailles de vision UR"
         },
         {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": ""
+        },
+        {
             "key": "IT_VPI_LW_FAMILY",
             "value": "Boutique ordinaire / Boutique d'échange des médailles de vision MR"
         },
@@ -2963,6 +3087,10 @@
         {
             "key": "IT_VPI_LW_GUARD",
             "value": "Boutique ordinaire / Boutique d'échange des médailles de vision MR"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": ""
         },
         {
             "key": "IT_VPI_LW_CACT",
@@ -3090,7 +3218,11 @@
         },
         {
             "key": "IT_VC_EXP_03",
-            "value": "Expédition chocobo / Boutique d'échange des médailles de vision SR"
+            "value": "Boutique ordinaire / Boutique surprise / Expédition chocobo / Boutique d'échange des médailles de vision SR"
+        },
+        {
+            "key": "IT_VC_EXP_04",
+            "value": "Boutique surprise"
         },
         {
             "key": "IT_GU_FOOD_01",
@@ -3163,38 +3295,6 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Boutique d'échange des médailles de guilde"
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": ""
         }
     ]
 }

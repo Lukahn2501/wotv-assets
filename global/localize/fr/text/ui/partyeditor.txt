@@ -299,6 +299,22 @@
         {
             "key": "DEFAULT_PARTY_NAME",
             "value": "Groupe {0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
+            "value": "Vous avez un emplacement libre dans votre groupe."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
+            "value": "Vous avez laissé des emplacements vides dans votre groupe qui peuvent vous désavantager pendant les combats de guilde limités. Continuer quand même ?"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
+            "value": "Les conditions de formation ne sont pas remplies."
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
+            "value": "Les conditions de formation n'étant pas remplies, votre formation précédente sera effacée."
         }
     ]
 }

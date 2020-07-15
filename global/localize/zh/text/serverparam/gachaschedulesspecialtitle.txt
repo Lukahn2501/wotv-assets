@@ -345,6 +345,286 @@
             "value": "初夏紀念 免費10連召喚"
         },
         {
+            "key": "gacha_unit_vc_gl20200624_01",
+            "value": "MOBIUS FINAL FANTASY聯動紀念幻兵卡召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_10",
+            "value": "MOBIUS FINAL FANTASY聯動紀念幻兵卡召喚　10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_01",
+            "value": "精選召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_10",
+            "value": "精選召喚　10連召喚"
+        },
+        {
+            "key": "no_coin_gacha_gl20200624_10",
+            "value": "劇情第7章公開紀念 免費10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200624_10",
+            "value": "劇情第7章公開紀念 確保1名UR兵員10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_gl20200624_10",
+            "value": "劇情第7章公開紀念 確保1張UR幻兵卡10連召喚"
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200624_10",
+            "value": "FFBE系列4周年 確保4個UR名額召喚"
+        },
+        {
+            "key": "beginner_gacha_10_20200624",
+            "value": "確保1名UR兵員　免費10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_1",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_1",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_1",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_1",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_2",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_2",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_2",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_2",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_3",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_3",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_3",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_3",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_4",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_4",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_4",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_4",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_5",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_5",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_5",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_5",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_6",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_6",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_6",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_6",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_7",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_7",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_7",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_7",
+            "value": "劇情第7章公開紀念 STEP UP 10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step1",
+            "value": "劇情第7章公開紀念 5 STEP UP召喚 STEP 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step2",
+            "value": "劇情第7章公開紀念 5 STEP UP召喚 STEP 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step3",
+            "value": "劇情第7章公開紀念 5 STEP UP召喚 STEP 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step4",
+            "value": "劇情第7章公開紀念 5 STEP UP召喚 STEP 4"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step5",
+            "value": "劇情第7章公開紀念 5 STEP UP召喚 STEP 5"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200701_10",
+            "value": "上市100天紀念免費10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step3",
+            "value": "確保1名FFBE UR兵員 3 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step2",
+            "value": "確保1名FFBE UR兵員 3 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step1",
+            "value": "確保1名FFBE UR兵員 3 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_base",
+            "value": ""
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_1",
+            "value": "白磁之塔舉辦紀念 精選召喚I"
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_10",
+            "value": "白磁之塔舉辦紀念 精選召喚I　10連召喚"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_1",
+            "value": "白磁之塔舉辦紀念 精選召喚II"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_10",
+            "value": "白磁之塔舉辦紀念 精選召喚II　10連召喚"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_1",
+            "value": "白磁之塔舉辦紀念 精選召喚III"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_10",
+            "value": "白磁之塔舉辦紀念 精選召喚III　10連召喚"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_1",
+            "value": "白磁之塔舉辦紀念 精選召喚IV"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_10",
+            "value": "白磁之塔舉辦紀念 精選召喚IV　10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_01",
+            "value": "FF EXVIUS Universe 紀念召喚～弗雷比亞～召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10",
+            "value": "FF EXVIUS Universe 紀念召喚～弗雷比亞～10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_01",
+            "value": "FF EXVIUS Universe 紀念召喚～雷因～召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_10",
+            "value": "FF EXVIUS Universe 紀念召喚～雷因～10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200701_10",
+            "value": "FF EXVIUS Universe 確保1名UR兵員 10連召喚"
+        },
+        {
+            "key": "p_gacha_vc_gl20200701_10",
+            "value": "FF EXVIUS Universe 確保1張UR幻兵卡 10連召喚  "
+        },
+        {
+            "key": "no_coin_gacha_gl20200708_10",
+            "value": "FF EXVIUS Universe免費10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_01",
+            "value": "白磁之塔舉辦紀念第2階段 精選召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_10",
+            "value": "白磁之塔舉辦紀念第2階段 精選召喚10連召喚"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_01",
+            "value": "精選召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_10",
+            "value": "精選召喚　10連召喚"
+        },
+        {
+            "key": "p_gacha_unit_gl20200715_10",
+            "value": "確保UR兵員10連召喚"
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "上市紀念活動精選召喚"
         },

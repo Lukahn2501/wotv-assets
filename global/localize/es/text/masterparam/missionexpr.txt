@@ -118,7 +118,7 @@
         },
         {
             "key": "CM_PRO_30",
-            "value": "Mejora cartas de visión 3 veces"
+            "value": "Mejora una carta de visión a nv. 3"
         },
         {
             "key": "CM_PRO_31",
@@ -130,7 +130,7 @@
         },
         {
             "key": "CM_PRO_33",
-            "value": "Crea un gremio o únete a uno"
+            "value": "Únete a un gremio o crea uno"
         },
         {
             "key": "CM_PRO_34",
@@ -179,6 +179,42 @@
         {
             "key": "CM_PRO_45",
             "value": "Alcanza el nv. 40 con Gaffgarion"
+        },
+        {
+            "key": "CM_PRO_55",
+            "value": "Completa una misión de historia"
+        },
+        {
+            "key": "CM_PRO_56",
+            "value": "Aumenta el nv. de una unidad 10 veces"
+        },
+        {
+            "key": "CM_PRO_57",
+            "value": "Mejora cartas de visión 5 veces"
+        },
+        {
+            "key": "CM_PRO_58",
+            "value": "Mejora habilidades 5 veces"
+        },
+        {
+            "key": "CM_PRO_59",
+            "value": "Realiza una compra en la tienda"
+        },
+        {
+            "key": "CM_PRO_60",
+            "value": "Completa misiones de historia 5 veces"
+        },
+        {
+            "key": "CM_PRO_61",
+            "value": "Consigue objetos en la expedición chocobo 2 veces"
+        },
+        {
+            "key": "CM_PRO_62",
+            "value": "Mejora un esper 5 veces"
+        },
+        {
+            "key": "CM_PRO_63",
+            "value": "Despierta Mobius de esperanza e ilusión"
         },
         {
             "key": "GM_0001",
@@ -393,6 +429,22 @@
             "value": "Completa el capítulo 6, escena 3: Estrellas tempestuosas"
         },
         {
+            "key": "M_ST_0007_01",
+            "value": "Completa el capítulo 7, escena 1: El secreto de Leonis"
+        },
+        {
+            "key": "M_ST_0007_01_2",
+            "value": "Completa el capítulo 7, escena 1: La fortaleza"
+        },
+        {
+            "key": "M_ST_0007_02",
+            "value": "Completa el capítulo 7, escena 2: Tomar la fortaleza I"
+        },
+        {
+            "key": "M_ST_0007_02_2",
+            "value": "Completa el capítulo 7, escena 2: Dispositivo de comunicación a distancia"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Alcanza el rango vip 1"
         },
@@ -537,6 +589,62 @@
             "value": "Completa la Cámara de los alcrists (viento)"
         },
         {
+            "key": "M_DAILY_003_01_1",
+            "value": "Completa la Cámara de los alcrists (agua)"
+        },
+        {
+            "key": "M_DAILY_003_01_2",
+            "value": "Completa la Cámara de los alcrists (hielo)"
+        },
+        {
+            "key": "M_DAILY_003_02_1",
+            "value": "Completa la Cámara de los alcrists (tierra)"
+        },
+        {
+            "key": "M_DAILY_003_02_2",
+            "value": "Completa la Cámara de los alcrists (oscuridad)"
+        },
+        {
+            "key": "M_DAILY_003_03_1",
+            "value": "Completa la Cámara de los alcrists (rayo)"
+        },
+        {
+            "key": "M_DAILY_003_03_2",
+            "value": "Completa la Cámara de los alcrists (luz)"
+        },
+        {
+            "key": "M_DAILY_003_04_1",
+            "value": "Completa la Cámara de los guiles"
+        },
+        {
+            "key": "M_DAILY_003_04_2",
+            "value": "Completa la Cámara de la EXP"
+        },
+        {
+            "key": "M_DAILY_003_05_1",
+            "value": "Completa la Cámara de los guiles"
+        },
+        {
+            "key": "M_DAILY_003_05_2",
+            "value": "Completa la Cámara de la EXP"
+        },
+        {
+            "key": "M_DAILY_003_06_1",
+            "value": "Completa la Cámara de los guiles"
+        },
+        {
+            "key": "M_DAILY_003_06_2",
+            "value": "Completa la Cámara de la EXP"
+        },
+        {
+            "key": "M_DAILY_003_07_1",
+            "value": "Completa la Cámara de los alcrists (fuego)"
+        },
+        {
+            "key": "M_DAILY_003_07_2",
+            "value": "Completa la Cámara de los alcrists (viento)"
+        },
+        {
             "key": "M_MONDAY_0001",
             "value": "Derrota a un total de 50 unidades enemigas"
         },
@@ -558,6 +666,10 @@
         },
         {
             "key": "M_MONDAY_0006",
+            "value": "Haz una ofrenda a una de las estatuas del gremio "
+        },
+        {
+            "key": "M_GL_DAILY_GUILD_01",
             "value": "Haz una ofrenda a una de las estatuas del gremio "
         },
         {
@@ -929,6 +1041,50 @@
             "value": "[Multijugador] Completa el desafío de Férreo en dificultad extrema 5 veces"
         },
         {
+            "key": "M_EV_CSLI_01",
+            "value": "Completa el desafío del flan de chocolate en dificultad alta"
+        },
+        {
+            "key": "M_EV_CSLI_02",
+            "value": "Completa el desafío del flan de chocolate en dificultad alta"
+        },
+        {
+            "key": "M_EV_CSLI_03",
+            "value": "Completa el desafío del flan de chocolate en dificultad alta 3 veces"
+        },
+        {
+            "key": "M_EV_CSLI_04",
+            "value": "Completa el desafío del flan de chocolate en dificultad alta 3 veces"
+        },
+        {
+            "key": "M_EV_CSLI_05",
+            "value": "Completa el desafío del flan de chocolate en dificultad alta 5 veces"
+        },
+        {
+            "key": "M_EV_CSLI_06",
+            "value": "Completa el desafío del flan de chocolate en dificultad extrema"
+        },
+        {
+            "key": "M_EV_CSLI_07",
+            "value": "Completa el desafío del flan de chocolate en dificultad extrema 3 veces"
+        },
+        {
+            "key": "M_EV_CSLI_08",
+            "value": "Completa el desafío del flan de chocolate en dificultad extrema 5 veces"
+        },
+        {
+            "key": "M_EV_CSLI_09",
+            "value": "[Multijugador] Completa el desafío del flan de chocolate en dificultad extrema"
+        },
+        {
+            "key": "M_EV_CSLI_10",
+            "value": "[Multijugador] Completa el desafío del flan de chocolate en dificultad extrema 3 veces"
+        },
+        {
+            "key": "M_EV_CSLI_11",
+            "value": "[Multijugador] Completa el desafío del flan de chocolate en dificultad extrema 5 veces"
+        },
+        {
             "key": "M_ART_CRF_05_01",
             "value": "Completa la misión de entrenamiento de equipo (hoja sedante)"
         },
@@ -1221,6 +1377,158 @@
             "value": "[Multijugador] Completa la amenaza del oeste, Rundal [EX] 5 veces"
         },
         {
+            "key": "M_EV03_1_01",
+            "value": "Completa Vida ardiente, Ep. 1"
+        },
+        {
+            "key": "M_EV03_1_02",
+            "value": "Completa Vida ardiente, Ep. 1 2 veces"
+        },
+        {
+            "key": "M_EV03_1_03",
+            "value": "Completa Vida ardiente, Ep. 1 3 veces"
+        },
+        {
+            "key": "M_EV03_1_04",
+            "value": "Completa Vida ardiente, Ep. 2"
+        },
+        {
+            "key": "M_EV03_1_05",
+            "value": "Completa Vida ardiente, Ep. 2 2 veces"
+        },
+        {
+            "key": "M_EV03_1_06",
+            "value": "Completa Vida ardiente, Ep. 2 3 veces"
+        },
+        {
+            "key": "M_EV03_1_07",
+            "value": "Completa Vida ardiente, Ep. 3"
+        },
+        {
+            "key": "M_EV03_1_08",
+            "value": "Completa Vida ardiente, Ep. 3 2 veces"
+        },
+        {
+            "key": "M_EV03_1_09",
+            "value": "Completa Vida ardiente, Ep. 3 3 veces"
+        },
+        {
+            "key": "M_EV03_1_10",
+            "value": "Completa Vida ardiente, Ep. 4"
+        },
+        {
+            "key": "M_EV03_1_11",
+            "value": "Completa Vida ardiente, Ep. 4 2 veces"
+        },
+        {
+            "key": "M_EV03_1_12",
+            "value": "Completa Vida ardiente, Ep. 4 3 veces"
+        },
+        {
+            "key": "M_EV03_1_13",
+            "value": "Completa Vida ardiente, Ep. 5"
+        },
+        {
+            "key": "M_EV03_1_14",
+            "value": "Completa Vida ardiente, Ep. 5 3 veces"
+        },
+        {
+            "key": "M_EV03_1_15",
+            "value": "Completa Vida ardiente, Ep. 5 5 veces"
+        },
+        {
+            "key": "M_EV03_1_16",
+            "value": "Completa Vida ardiente, Ep. 6"
+        },
+        {
+            "key": "M_EV03_1_17",
+            "value": "Completa Vida ardiente, Ep. 6 2 veces"
+        },
+        {
+            "key": "M_EV03_1_18",
+            "value": "Completa Vida ardiente, Ep. 6 3 veces"
+        },
+        {
+            "key": "M_EV03_1_19",
+            "value": "Completa Vida ardiente, Ep. 7"
+        },
+        {
+            "key": "M_EV03_1_20",
+            "value": "Completa Vida ardiente, Ep. 7 2 veces"
+        },
+        {
+            "key": "M_EV03_1_21",
+            "value": "Completa Vida ardiente, Ep. 7 3 veces"
+        },
+        {
+            "key": "M_EV03_1_22",
+            "value": "Completa Vida ardiente, Ep. 8"
+        },
+        {
+            "key": "M_EV03_1_23",
+            "value": "Completa Vida ardiente, Ep. 8 2 veces"
+        },
+        {
+            "key": "M_EV03_1_24",
+            "value": "Completa Vida ardiente, Ep. 8 3 veces"
+        },
+        {
+            "key": "M_EV03_1_25",
+            "value": "Completa Vida ardiente, Ep. 9"
+        },
+        {
+            "key": "M_EV03_1_26",
+            "value": "Completa Vida ardiente, Ep. 9 2 veces"
+        },
+        {
+            "key": "M_EV03_1_27",
+            "value": "Completa Vida ardiente, Ep. 9 3 veces"
+        },
+        {
+            "key": "M_EV03_1_28",
+            "value": "Completa Vida ardiente, Ep. 10"
+        },
+        {
+            "key": "M_EV03_1_29",
+            "value": "Completa Vida ardiente, Ep. 10 3 veces"
+        },
+        {
+            "key": "M_EV03_1_30",
+            "value": "Completa Vida ardiente, Ep. 10 5 veces"
+        },
+        {
+            "key": "M_EV03_1_31",
+            "value": "Completa Vida ardiente, Ep. 10 10 veces"
+        },
+        {
+            "key": "M_EV03_EX_01",
+            "value": "Completa Vida ardiente [EX]"
+        },
+        {
+            "key": "M_EV03_EX_02",
+            "value": "Completa Vida ardiente [EX] 3 veces"
+        },
+        {
+            "key": "M_EV03_EX_03",
+            "value": "Completa Vida ardiente [EX] 5 veces"
+        },
+        {
+            "key": "M_EV03_EX_04",
+            "value": "Completa Vida ardiente [EX] 10 veces"
+        },
+        {
+            "key": "M_MU_EV03_EX_01",
+            "value": "[Multijugador] Completa Vida ardiente [EX]"
+        },
+        {
+            "key": "M_MU_EV03_EX_02",
+            "value": "[Multijugador] Completa Vida ardiente [EX] 3 veces"
+        },
+        {
+            "key": "M_MU_EV03_EX_03",
+            "value": "[Multijugador] Completa Vida ardiente [EX] 5 veces"
+        },
+        {
             "key": "M_ETRE01_1_01",
             "value": "Completa la misión de entrenamiento de Etra I"
         },
@@ -1450,23 +1758,23 @@
         },
         {
             "key": "M_ART_SCR_01",
-            "value": "Completa la misión difícil de recompensa de libro secreto (espada, espadón, hacha)"
+            "value": "Completa la misión difícil de libro secreto (espada, espadón, hacha)"
         },
         {
             "key": "M_ART_SCR_02",
-            "value": "Completa la misión difícil de recompensa de libro secreto (espada, espadón, hacha)"
+            "value": "Completa la misión difícil de libro secreto (espada, espadón, hacha)"
         },
         {
             "key": "M_ART_SCR_03",
-            "value": "Completa la misión difícil de recompensa de libro secreto (espada, espadón, hacha) 3 veces"
+            "value": "Completa la misión difícil de libro secreto (espada, espadón, hacha) 3 veces"
         },
         {
             "key": "M_ART_SCR_04",
-            "value": "Completa la misión difícil de recompensa de libro secreto (espada, espadón, hacha) 3 veces"
+            "value": "Completa la misión difícil de libro secreto (espada, espadón, hacha) 3 veces"
         },
         {
             "key": "M_ART_SCR_05",
-            "value": "Completa la misión difícil de recompensa de libro secreto (espada, espadón, hacha) 5 veces"
+            "value": "Completa la misión difícil de libro secreto (espada, espadón, hacha) 5 veces"
         },
         {
             "key": "M_MU_ART_SCR_01",
@@ -1543,6 +1851,38 @@
         {
             "key": "M_MU_ART_SCR_09",
             "value": "[Multijugador] Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) 5 veces"
+        },
+        {
+            "key": "M_ART_SCR_16",
+            "value": "Completa la misión difícil de libro secreto (bastón, katana, daga)"
+        },
+        {
+            "key": "M_ART_SCR_17",
+            "value": "Completa la misión difícil de libro secreto (bastón, katana, daga)"
+        },
+        {
+            "key": "M_ART_SCR_18",
+            "value": "Completa la misión difícil de libro secreto (bastón, katana, daga) 3 veces"
+        },
+        {
+            "key": "M_ART_SCR_19",
+            "value": "Completa la misión difícil de libro secreto (bastón, katana, daga) 3 veces"
+        },
+        {
+            "key": "M_ART_SCR_20",
+            "value": "Completa la misión difícil de libro secreto (bastón, katana, daga) 5 veces"
+        },
+        {
+            "key": "M_MU_ART_SCR_10",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (bastón, katana, daga)"
+        },
+        {
+            "key": "M_MU_ART_SCR_11",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (bastón, katana, daga) 3 veces"
+        },
+        {
+            "key": "M_MU_ART_SCR_12",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (bastón, katana, daga) 5 veces"
         },
         {
             "key": "MG_PR_001_001",
@@ -3861,6 +4201,550 @@
             "value": "Mejora estatuas del gremio 70 veces"
         },
         {
+            "key": "M_MONTHLY_0410",
+            "value": "Completa misiones de historia 20 veces"
+        },
+        {
+            "key": "M_MONTHLY_0411",
+            "value": "Completa misiones de historia 40 veces"
+        },
+        {
+            "key": "M_MONTHLY_0412",
+            "value": "Completa misiones de historia 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0413",
+            "value": "Completa misiones de historia 80 veces"
+        },
+        {
+            "key": "M_MONTHLY_0414",
+            "value": "Completa misiones de historia 100 veces"
+        },
+        {
+            "key": "M_MONTHLY_0415",
+            "value": "Completa misiones de historia 120 veces"
+        },
+        {
+            "key": "M_MONTHLY_0416",
+            "value": "Completa misiones de historia 140 veces"
+        },
+        {
+            "key": "M_MONTHLY_0417",
+            "value": "Completa misiones de historia 160 veces"
+        },
+        {
+            "key": "M_MONTHLY_0418",
+            "value": "Completa misiones de historia 180 veces"
+        },
+        {
+            "key": "M_MONTHLY_0419",
+            "value": "Completa misiones de historia 200 veces"
+        },
+        {
+            "key": "M_MONTHLY_0420",
+            "value": "Completa misiones de historia 220 veces"
+        },
+        {
+            "key": "M_MONTHLY_0421",
+            "value": "Completa misiones de historia 240 veces"
+        },
+        {
+            "key": "M_MONTHLY_0422",
+            "value": "Completa misiones de historia 260 veces"
+        },
+        {
+            "key": "M_MONTHLY_0423",
+            "value": "Completa misiones de historia 280 veces"
+        },
+        {
+            "key": "M_MONTHLY_0424",
+            "value": "Completa misiones de historia 300 veces"
+        },
+        {
+            "key": "M_MONTHLY_0425",
+            "value": "Completa misiones de historia 320 veces"
+        },
+        {
+            "key": "M_MONTHLY_0426",
+            "value": "Completa misiones de historia 340 veces"
+        },
+        {
+            "key": "M_MONTHLY_0427",
+            "value": "Completa misiones de historia 360 veces"
+        },
+        {
+            "key": "M_MONTHLY_0428",
+            "value": "Completa misiones de historia 380 veces"
+        },
+        {
+            "key": "M_MONTHLY_0429",
+            "value": "Completa misiones de historia 400 veces"
+        },
+        {
+            "key": "M_MONTHLY_0430",
+            "value": "Completa misiones difíciles 10 veces"
+        },
+        {
+            "key": "M_MONTHLY_0431",
+            "value": "Completa misiones difíciles 20 veces"
+        },
+        {
+            "key": "M_MONTHLY_0432",
+            "value": "Completa misiones difíciles 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0433",
+            "value": "Completa misiones difíciles 40 veces"
+        },
+        {
+            "key": "M_MONTHLY_0434",
+            "value": "Completa misiones difíciles 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0435",
+            "value": "Completa misiones difíciles 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0436",
+            "value": "Completa misiones difíciles 70 veces"
+        },
+        {
+            "key": "M_MONTHLY_0437",
+            "value": "Completa misiones difíciles 80 veces"
+        },
+        {
+            "key": "M_MONTHLY_0438",
+            "value": "Completa misiones difíciles 90 veces"
+        },
+        {
+            "key": "M_MONTHLY_0439",
+            "value": "Completa misiones difíciles 100 veces"
+        },
+        {
+            "key": "M_MONTHLY_0440",
+            "value": "Completa misiones difíciles 110 veces"
+        },
+        {
+            "key": "M_MONTHLY_0441",
+            "value": "Completa misiones difíciles 120 veces"
+        },
+        {
+            "key": "M_MONTHLY_0442",
+            "value": "Completa misiones difíciles 130 veces"
+        },
+        {
+            "key": "M_MONTHLY_0443",
+            "value": "Completa misiones difíciles 140 veces"
+        },
+        {
+            "key": "M_MONTHLY_0444",
+            "value": "Completa misiones difíciles 150 veces"
+        },
+        {
+            "key": "M_MONTHLY_0445",
+            "value": "Completa misiones difíciles 170 veces"
+        },
+        {
+            "key": "M_MONTHLY_0446",
+            "value": "Completa misiones difíciles 190 veces"
+        },
+        {
+            "key": "M_MONTHLY_0447",
+            "value": "Completa misiones difíciles 210 veces"
+        },
+        {
+            "key": "M_MONTHLY_0448",
+            "value": "Completa misiones difíciles 230 veces"
+        },
+        {
+            "key": "M_MONTHLY_0449",
+            "value": "Completa multimisiones 10 veces"
+        },
+        {
+            "key": "M_MONTHLY_0450",
+            "value": "Completa multimisiones 20 veces"
+        },
+        {
+            "key": "M_MONTHLY_0451",
+            "value": "Completa multimisiones 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0452",
+            "value": "Completa multimisiones 40 veces"
+        },
+        {
+            "key": "M_MONTHLY_0453",
+            "value": "Completa multimisiones 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0454",
+            "value": "Completa multimisiones 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0455",
+            "value": "Completa multimisiones 70 veces"
+        },
+        {
+            "key": "M_MONTHLY_0456",
+            "value": "Completa multimisiones 80 veces"
+        },
+        {
+            "key": "M_MONTHLY_0457",
+            "value": "Completa multimisiones 90 veces"
+        },
+        {
+            "key": "M_MONTHLY_0458",
+            "value": "Completa multimisiones 100 veces"
+        },
+        {
+            "key": "M_MONTHLY_0459",
+            "value": "Completa multimisiones 110 veces"
+        },
+        {
+            "key": "M_MONTHLY_0460",
+            "value": "Completa multimisiones 120 veces"
+        },
+        {
+            "key": "M_MONTHLY_0461",
+            "value": "Completa multimisiones 130 veces"
+        },
+        {
+            "key": "M_MONTHLY_0462",
+            "value": "Completa multimisiones 140 veces"
+        },
+        {
+            "key": "M_MONTHLY_0463",
+            "value": "Completa multimisiones 150 veces"
+        },
+        {
+            "key": "M_MONTHLY_0464",
+            "value": "Completa multimisiones 160 veces"
+        },
+        {
+            "key": "M_MONTHLY_0465",
+            "value": "Completa multimisiones 170 veces"
+        },
+        {
+            "key": "M_MONTHLY_0466",
+            "value": "Completa multimisiones 180 veces"
+        },
+        {
+            "key": "M_MONTHLY_0467",
+            "value": "Completa multimisiones 190 veces"
+        },
+        {
+            "key": "M_MONTHLY_0468",
+            "value": "Completa multimisiones 200 veces"
+        },
+        {
+            "key": "M_MONTHLY_0469",
+            "value": "Completa la Cámara de la EXP 3 veces"
+        },
+        {
+            "key": "M_MONTHLY_0470",
+            "value": "Completa la Cámara de la EXP 6 veces"
+        },
+        {
+            "key": "M_MONTHLY_0471",
+            "value": "Completa la Cámara de la EXP 9 veces"
+        },
+        {
+            "key": "M_MONTHLY_0472",
+            "value": "Completa la Cámara de la EXP 12 veces"
+        },
+        {
+            "key": "M_MONTHLY_0473",
+            "value": "Completa la Cámara de la EXP 15 veces"
+        },
+        {
+            "key": "M_MONTHLY_0474",
+            "value": "Completa la Cámara de la EXP 18 veces"
+        },
+        {
+            "key": "M_MONTHLY_0475",
+            "value": "Completa la Cámara de la EXP 21 veces"
+        },
+        {
+            "key": "M_MONTHLY_0476",
+            "value": "Completa la Cámara de la EXP 24 veces"
+        },
+        {
+            "key": "M_MONTHLY_0477",
+            "value": "Completa la Cámara de la EXP 27 veces"
+        },
+        {
+            "key": "M_MONTHLY_0478",
+            "value": "Completa la Cámara de la EXP 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0479",
+            "value": "Completa la Cámara de la EXP 33 veces"
+        },
+        {
+            "key": "M_MONTHLY_0480",
+            "value": "Completa la Cámara de la EXP 36 veces"
+        },
+        {
+            "key": "M_MONTHLY_0481",
+            "value": "Completa la Cámara de la EXP 39 veces"
+        },
+        {
+            "key": "M_MONTHLY_0482",
+            "value": "Completa la Cámara de la EXP 42 veces"
+        },
+        {
+            "key": "M_MONTHLY_0483",
+            "value": "Completa la Cámara de la EXP 45 veces"
+        },
+        {
+            "key": "M_MONTHLY_0484",
+            "value": "Completa la Cámara de la EXP 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0485",
+            "value": "Completa la Cámara de la EXP 55 veces"
+        },
+        {
+            "key": "M_MONTHLY_0486",
+            "value": "Completa la Cámara de la EXP 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0487",
+            "value": "Completa la Cámara de la EXP 65 veces"
+        },
+        {
+            "key": "M_MONTHLY_0488",
+            "value": "Completa la Cámara de la EXP 70 veces"
+        },
+        {
+            "key": "M_MONTHLY_0489",
+            "value": "Compite en la Arena 5 veces"
+        },
+        {
+            "key": "M_MONTHLY_0490",
+            "value": "Compite en la Arena 10 veces"
+        },
+        {
+            "key": "M_MONTHLY_0491",
+            "value": "Compite en la Arena 15 veces"
+        },
+        {
+            "key": "M_MONTHLY_0492",
+            "value": "Compite en la Arena 20 veces"
+        },
+        {
+            "key": "M_MONTHLY_0493",
+            "value": "Compite en la Arena 25 veces"
+        },
+        {
+            "key": "M_MONTHLY_0494",
+            "value": "Compite en la Arena 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0495",
+            "value": "Compite en la Arena 35 veces"
+        },
+        {
+            "key": "M_MONTHLY_0496",
+            "value": "Compite en la Arena 40 veces"
+        },
+        {
+            "key": "M_MONTHLY_0497",
+            "value": "Compite en la Arena 45 veces"
+        },
+        {
+            "key": "M_MONTHLY_0498",
+            "value": "Compite en la Arena 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0499",
+            "value": "Compite en la Arena 55 veces"
+        },
+        {
+            "key": "M_MONTHLY_0500",
+            "value": "Compite en la Arena 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0501",
+            "value": "Compite en la Arena 65 veces"
+        },
+        {
+            "key": "M_MONTHLY_0502",
+            "value": "Compite en la Arena 70 veces"
+        },
+        {
+            "key": "M_MONTHLY_0503",
+            "value": "Compite en la Arena 80 veces"
+        },
+        {
+            "key": "M_MONTHLY_0504",
+            "value": "Compite en la Arena 90 veces"
+        },
+        {
+            "key": "M_MONTHLY_0505",
+            "value": "Compite en la Arena 100 veces"
+        },
+        {
+            "key": "M_MONTHLY_0506",
+            "value": "Compite en la Arena 110 veces"
+        },
+        {
+            "key": "M_MONTHLY_0507",
+            "value": "Compite en la Arena 120 veces"
+        },
+        {
+            "key": "M_MONTHLY_0508",
+            "value": "Compite en la Arena 130 veces"
+        },
+        {
+            "key": "M_MONTHLY_0509",
+            "value": "Consigue objetos en la expedición chocobo 10 veces"
+        },
+        {
+            "key": "M_MONTHLY_0510",
+            "value": "Consigue objetos en la expedición chocobo 15 veces"
+        },
+        {
+            "key": "M_MONTHLY_0511",
+            "value": "Consigue objetos en la expedición chocobo 20 veces"
+        },
+        {
+            "key": "M_MONTHLY_0512",
+            "value": "Consigue objetos en la expedición chocobo 25 veces"
+        },
+        {
+            "key": "M_MONTHLY_0513",
+            "value": "Consigue objetos en la expedición chocobo 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0514",
+            "value": "Consigue objetos en la expedición chocobo 35 veces"
+        },
+        {
+            "key": "M_MONTHLY_0515",
+            "value": "Consigue objetos en la expedición chocobo 40 veces"
+        },
+        {
+            "key": "M_MONTHLY_0516",
+            "value": "Consigue objetos en la expedición chocobo 45 veces"
+        },
+        {
+            "key": "M_MONTHLY_0517",
+            "value": "Consigue objetos en la expedición chocobo 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0518",
+            "value": "Consigue objetos en la expedición chocobo 55 veces"
+        },
+        {
+            "key": "M_MONTHLY_0519",
+            "value": "Consigue objetos en la expedición chocobo 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0520",
+            "value": "Consigue objetos en la expedición chocobo 65 veces"
+        },
+        {
+            "key": "M_MONTHLY_0521",
+            "value": "Consigue objetos en la expedición chocobo 70 veces"
+        },
+        {
+            "key": "M_MONTHLY_0522",
+            "value": "Consigue objetos en la expedición chocobo 75 veces"
+        },
+        {
+            "key": "M_MONTHLY_0523",
+            "value": "Consigue objetos en la expedición chocobo 80 veces"
+        },
+        {
+            "key": "M_MONTHLY_0524",
+            "value": "Consigue objetos en la expedición chocobo 85 veces"
+        },
+        {
+            "key": "M_MONTHLY_0525",
+            "value": "Consigue objetos en la expedición chocobo 90 veces"
+        },
+        {
+            "key": "M_MONTHLY_0526",
+            "value": "Mejora estatuas del gremio 3 veces"
+        },
+        {
+            "key": "M_MONTHLY_0527",
+            "value": "Mejora estatuas del gremio 6 veces"
+        },
+        {
+            "key": "M_MONTHLY_0528",
+            "value": "Mejora estatuas del gremio 9 veces"
+        },
+        {
+            "key": "M_MONTHLY_0529",
+            "value": "Mejora estatuas del gremio 12 veces"
+        },
+        {
+            "key": "M_MONTHLY_0530",
+            "value": "Mejora estatuas del gremio 15 veces"
+        },
+        {
+            "key": "M_MONTHLY_0531",
+            "value": "Mejora estatuas del gremio 18 veces"
+        },
+        {
+            "key": "M_MONTHLY_0532",
+            "value": "Mejora estatuas del gremio 21 veces"
+        },
+        {
+            "key": "M_MONTHLY_0533",
+            "value": "Mejora estatuas del gremio 24 veces"
+        },
+        {
+            "key": "M_MONTHLY_0534",
+            "value": "Mejora estatuas del gremio 27 veces"
+        },
+        {
+            "key": "M_MONTHLY_0535",
+            "value": "Mejora estatuas del gremio 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0536",
+            "value": "Mejora estatuas del gremio 33 veces"
+        },
+        {
+            "key": "M_MONTHLY_0537",
+            "value": "Mejora estatuas del gremio 36 veces"
+        },
+        {
+            "key": "M_MONTHLY_0538",
+            "value": "Mejora estatuas del gremio 39 veces"
+        },
+        {
+            "key": "M_MONTHLY_0539",
+            "value": "Mejora estatuas del gremio 42 veces"
+        },
+        {
+            "key": "M_MONTHLY_0540",
+            "value": "Mejora estatuas del gremio 45 veces"
+        },
+        {
+            "key": "M_MONTHLY_0541",
+            "value": "Mejora estatuas del gremio 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0542",
+            "value": "Mejora estatuas del gremio 55 veces"
+        },
+        {
+            "key": "M_MONTHLY_0543",
+            "value": "Mejora estatuas del gremio 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0544",
+            "value": "Mejora estatuas del gremio 65 veces"
+        },
+        {
+            "key": "M_MONTHLY_0545",
+            "value": "Mejora estatuas del gremio 70 veces"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Gasta 500 visiores"
         },
@@ -3906,6 +4790,54 @@
         },
         {
             "key": "M_LAPS_P_VKTR_06",
+            "value": "Gasta 50 000 visiores"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_01",
+            "value": "Gasta 500 visiores"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_02",
+            "value": "Gasta 3000 visiores"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_03",
+            "value": "Gasta 6000 visiores"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_04",
+            "value": "Gasta 12 000 visiores"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_05",
+            "value": "Gasta 24 000 visiores"
+        },
+        {
+            "key": "M_GL_LAPS_P_FRVA_06",
+            "value": "Gasta 50 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_01",
+            "value": "Gasta 500 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_02",
+            "value": "Gasta 3000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_03",
+            "value": "Gasta 6000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_04",
+            "value": "Gasta 12 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_05",
+            "value": "Gasta 24 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_VNLA_06",
             "value": "Gasta 50 000 visiores"
         },
         {

@@ -358,7 +358,7 @@
         },
         {
             "key": "DU_LW_NJ_00",
-            "value": "Ninja, ninja de Fennes, Ninja de Hourne, Ninja de Fennes A, Ninja de Fennes B, Ninja de Fennes C"
+            "value": "Ninja, Ninja de Fennes, Ninja de Hourne, Ninja de Fennes A, Ninja de Fennes B, Ninja de Fennes C"
         },
         {
             "key": "DU_LW_PR_00",

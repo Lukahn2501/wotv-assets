@@ -17,6 +17,10 @@
             "value": "Quête d'événement quotidienne de guilde"
         },
         {
+            "key": "MG_GL_DAILY_GUILD_01",
+            "value": "Mission de la campagne de soutien de guilde"
+        },
+        {
             "key": "MG_STORY_001",
             "value": "Quête d'histoire - Saison 1"
         },
@@ -121,6 +125,14 @@
             "value": "[Multi] Défi du Géant de fer"
         },
         {
+            "key": "MG_EV_CSLI_01",
+            "value": "Le défi du Chocoflan"
+        },
+        {
+            "key": "MG_MU_CSLI_01",
+            "value": "[Multi] Défi du Chocoflan"
+        },
+        {
             "key": "MG_EV_ART_CRF_01",
             "value": "Quête d'entraînement d'équipement"
         },
@@ -165,6 +177,18 @@
             "value": "[Multi] Rundall, menace à l'ouest [EX]"
         },
         {
+            "key": "MG_EV03_1_01",
+            "value": "Embraser la vie"
+        },
+        {
+            "key": "MG_EV03_1_02",
+            "value": "Embraser la vie [EX]"
+        },
+        {
+            "key": "MG_MU_EV03_1_02",
+            "value": "[Multi] Embraser la vie [EX]"
+        },
+        {
             "key": "MG_ETRE01_01",
             "value": "Quête d'entraînement d'Éthéa"
         },
@@ -189,6 +213,14 @@
             "value": "[Multi] Quête EX des fragments d'unité de Saliah [Très difficile]"
         },
         {
+            "key": "MG_EV_ART_SCR_00",
+            "value": ""
+        },
+        {
+            "key": "MG_MU_ART_SCR_00",
+            "value": ""
+        },
+        {
             "key": "MG_EV_ART_SCR_01",
             "value": "Quête du livre secret [Très difficile]"
         },
@@ -198,11 +230,11 @@
         },
         {
             "key": "MG_EV_ART_SCR_02",
-            "value": "Quête du livre secret [Très difficile]"
+            "value": "Quête du livre secret II [Très difficile]"
         },
         {
             "key": "MG_MU_ART_SCR_02",
-            "value": "[Multi] Quête du livre secret [Très difficile]"
+            "value": "[Multi] Quête du livre secret II [Très difficile]"
         },
         {
             "key": "MG_DAILY_002_5",
@@ -230,6 +262,34 @@
         },
         {
             "key": "MG_DAILY_002_4",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_1",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_2",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_3",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_4",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_5",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_6",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_7",
             "value": "Mission quotidienne"
         },
         {
@@ -321,6 +381,34 @@
             "value": "[Mission mensuelle] Statues de guilde"
         },
         {
+            "key": "MG_MONTHLY_004_1",
+            "value": "[Mission mensuelle] Quêtes d'histoire"
+        },
+        {
+            "key": "MG_MONTHLY_004_2",
+            "value": "[Mission mensuelle] Quêtes difficiles"
+        },
+        {
+            "key": "MG_MONTHLY_004_3",
+            "value": "[Mission mensuelle] Quêtes multi"
+        },
+        {
+            "key": "MG_MONTHLY_004_4",
+            "value": "[Mission mensuelle] Chambre d'EXP"
+        },
+        {
+            "key": "MG_MONTHLY_004_5",
+            "value": "[Mission mensuelle] Arène"
+        },
+        {
+            "key": "MG_MONTHLY_004_6",
+            "value": "[Mission mensuelle] Expédition chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_004_7",
+            "value": "[Mission mensuelle] Statues de guilde"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "Utilisez des visiores - Bonus à durée limitée"
         },
@@ -329,8 +417,16 @@
             "value": "Utilisez des visiores - Durée limitée"
         },
         {
+            "key": "MG_GL_LAPS_P_FRVA",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
             "key": "MG_COMEBACK_001",
             "value": "Mission de retour au jeu"
+        },
+        {
+            "key": "MG_LAPS_P_VNLA",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
         }
     ]
 }

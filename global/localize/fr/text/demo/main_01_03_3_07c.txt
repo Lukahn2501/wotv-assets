@@ -30,7 +30,7 @@
         },
         {
             "key": "008",
-            "value": "Il est de Leonis ! Il n'est pas censé être ton ennemi ?"
+            "value": "Il est de Leonis ! Il n'est pas censé être ton ennemi ?"
         },
         {
             "key": "009",

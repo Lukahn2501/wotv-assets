@@ -95,6 +95,14 @@
         {
             "key": "SQ_WD_010202_02",
             "value": "Lege über „Fähigkeiten einrichten“ eine Fähigkeit fest."
+        },
+        {
+            "key": "SQ_WD_010203_01",
+            "value": "Tausche einmal den Unterjob einer Einheit aus."
+        },
+        {
+            "key": "SQ_WD_010203_02",
+            "value": "Tritt einer Gilde bei."
         }
     ]
 }

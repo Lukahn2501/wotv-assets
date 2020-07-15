@@ -114,7 +114,7 @@
         },
         {
             "key": "Tower",
-            "value": "Torre"
+            "value": "Torre de Porcelana"
         }
     ]
 }

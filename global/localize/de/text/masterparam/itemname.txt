@@ -1001,6 +1001,46 @@
             "value": "Erinnerungen des Doppelschützen (Rot)"
         },
         {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "Erinnerungen des Ritters von Grandshelt (Flamme: Grün)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "Erinnerungen des Ritters von Grandshelt (Flamme: Blau)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "Erinnerungen des Ritters von Grandshelt (Flamme: Violett)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "Erinnerungen des Ritters von Grandshelt (Flamme: Gelb)"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "Erinnerungen des Ritters von Grandshelt (Flamme: Rot)"
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "Erinnerungen des Assassinen (Grün)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "Erinnerungen des Assassinen (Blau)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "Erinnerungen des Assassinen (Violett)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "Erinnerungen des Assassinen (Gelb)"
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "Erinnerungen des Assassinen (Rot)"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Feuer-Alkrist (Grün)"
         },
@@ -1679,6 +1719,26 @@
         {
             "key": "IT_PI_LW_THLA",
             "value": "„Salire“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "„Rain“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "„Fryevia“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "„Vinera Fennes“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "„Dario Hourne“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": "„Tyrrel“-Einheitenfragment"
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -2637,10 +2697,6 @@
             "value": "FFXIV-Beschwörungsmedaille"
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "FFXIV-Beschwörungsticket"
-        },
-        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "März-Beschwörungsmedaille A"
         },
@@ -2669,6 +2725,14 @@
             "value": "Juni-Beschwörungsmedaille B"
         },
         {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "Juli-Beschwörungsmedaille A"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "Juli-Beschwörungsmedaille B"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT-Eventmedaille"
         },
@@ -2689,8 +2753,12 @@
             "value": "Juni-Eventmedaille"
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "FFT-Beschwörungsticket"
+            "key": "IT_EC_EV03_1",
+            "value": "Juli-Eventmedaille"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Schokopudding-Kraftprobenmedaille"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2718,7 +2786,7 @@
         },
         {
             "key": "IT_US_G_V_SR_UR_01",
-            "value": "„Garantierte Visionskarte (SR oder höher)“-Beschwörungsticket A"
+            "value": "„[SR+]-Visionskarte garantiert“-Beschwörungsticket A"
         },
         {
             "key": "IT_US_G_V_SSR_UR_01",
@@ -2781,30 +2849,6 @@
             "value": "„Auswählbarer Elementmaginit (M) x50“-Beschwörungsticket"
         },
         {
-            "key": "IT_US_G_U_UR_01",
-            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
-        },
-        {
-            "key": "IT_US_G_UR_01",
-            "value": "„[UR] garantiert“-Beschwörungsticket A"
-        },
-        {
-            "key": "IT_US_G_UR_02",
-            "value": "„[UR] garantiert“-Beschwörungsticket B"
-        },
-        {
-            "key": "IT_US_G_U_R_UR_01",
-            "value": "„Garantierte Einheit“-Beschwörungsticket A"
-        },
-        {
-            "key": "IT_US_G_V_R_UR_01",
-            "value": "„Garantierte Visionskarte“-Beschwörungsticket A"
-        },
-        {
-            "key": "IT_US_G_V_UR_01",
-            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
-        },
-        {
             "key": "IT_US_SE_JB_MM_01",
             "value": "„Auswählbare Joberinnerungen (Grün) x1“-Beschwörungsticket"
         },
@@ -2831,6 +2875,82 @@
         {
             "key": "IT_US_SE_AW-ITEM_01",
             "value": "„Auswählbares Erweckungsprisma x10“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "„Auswählbarer Elementmaginit (M) x500“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "„Auswählbarer Elementmaginit (M) x10“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "„Auswählbarer Elementmaginit (M) x25“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "„Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "„Auswählbare empfohlene [UR]-Einheit“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "„Auswählbare empfohlene [MR]-Einheit“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "„Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "„[UR] garantiert“-Beschwörungsticket B"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "„Garantierte Einheit“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "„Garantierte Visionskarte“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FFT-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "FFXIV-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "[Porzellanturm] Normales Beschwörungsticket (10-malig)"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -2925,6 +3045,10 @@
             "value": "„Ramuh, der Dröhnende Donner“-Visionskartenfragment"
         },
         {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": "„Mobius der Verzweiflung und der Wahrheit“-Visionskartenfragment"
+        },
+        {
             "key": "IT_VPI_LW_FAMILY",
             "value": "„Geburt neuen Lebens“-Visionskartenfragment"
         },
@@ -2963,6 +3087,10 @@
         {
             "key": "IT_VPI_LW_GUARD",
             "value": "„Blütenweiße Leibwache“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": "„Mobius der Hoffnung und der Illusion“-Visionskartenfragment"
         },
         {
             "key": "IT_VPI_LW_CACT",
@@ -3093,6 +3221,10 @@
             "value": "Wachstumsei (SR)"
         },
         {
+            "key": "IT_VC_EXP_04",
+            "value": "Wachstumsei (MR)"
+        },
+        {
             "key": "IT_GU_FOOD_01",
             "value": "Lutschbonbon"
         },
@@ -3163,38 +3295,6 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Mächtiger Kiefer des Löwen (L)"
-        },
-        {
-            "key": "IT_EC_RAID_02",
-            "value": "Schokopudding-Kraftprobenmedaille"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "„Auswählbarer Elementmaginit (M) x500“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "„Auswählbarer Elementmaginit (M) x10“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "„Auswählbarer Elementmaginit (M) x25“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "„Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket (50-malig"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "„Auswählbare empfohlene [UR]-Einheit“-Beschwörungsticket A"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "„Auswählbare empfohlene [MR]-Einheit“-Beschwörungsticket A"
         }
     ]
 }

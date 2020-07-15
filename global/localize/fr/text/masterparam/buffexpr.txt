@@ -953,6 +953,78 @@
             "value": ""
         },
         {
+            "key": "BUFF_LW_RAIN_M_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_RAIN_S_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_RAIN_S_3",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_RAIN_S_4_1",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_RAIN_S_4_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_LSWL_M_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_LSWL_S_3",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_RAIN_P_1",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_RAIN_P_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_ASS_M_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_ASS_M_4",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_ASS_S_1",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_ASS_S_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_ASS_S_4",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_ASS_R_1_1",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_ASS_R_1_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_ASS_P_1_S",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_ASS_P_2_S",
+            "value": ""
+        },
+        {
             "key": "BUFF_BTL_GETSP_1-999_U",
             "value": ""
         },
@@ -970,6 +1042,18 @@
         },
         {
             "key": "BUFF_ARMN_M_03",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ARMN_M_01_TW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ARMN_M_02_TW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ARMN_M_03_TW",
             "value": ""
         },
         {
@@ -1310,6 +1394,18 @@
         },
         {
             "key": "BUFF_LB_LW_VKTR",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LB_LW_RAIN",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LB_LW_FRVA",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LB_LW_VNLA",
             "value": ""
         },
         {
@@ -1693,6 +1789,26 @@
             "value": ""
         },
         {
+            "key": "BUFF_MA_LW_RAIN",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_FRVA",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_VNLA",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_DRIO",
+            "value": ""
+        },
+        {
+            "key": "BUFF_MA_LW_TREL",
+            "value": ""
+        },
+        {
             "key": "BUFF_VC_LW_GLEM_GS",
             "value": ""
         },
@@ -2018,6 +2134,26 @@
         },
         {
             "key": "BUFF_VC_LW_VALE2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_MBFF_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_MBFF_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_MBFF_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_MBFF_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_MBFF_MV2_GSAW",
             "value": ""
         },
         {
@@ -2442,6 +2578,26 @@
         },
         {
             "key": "BUFF_VC_LW_VALE2_PAW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_MBFF_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_MBFF_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_MBFF_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_MBFF_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "BUFF_VC_MBFF_MV2_PAW",
             "value": ""
         },
         {
@@ -3369,6 +3525,26 @@
             "value": ""
         },
         {
+            "key": "BUFF_CLT_LW_RAIN_1_1",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ACC_LW_FRVA_1_1",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ACC_LW_VNLA_1",
+            "value": ""
+        },
+        {
+            "key": "BUFF_ACC_LW_VNLA_1_2",
+            "value": ""
+        },
+        {
+            "key": "BUFF_SWO_LW_DRIO_1_1",
+            "value": ""
+        },
+        {
             "key": "BUFF_LW_SWO_007_1",
             "value": ""
         },
@@ -3466,6 +3642,30 @@
         },
         {
             "key": "BUFF_LW_RNG_005_5_S",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_BSW_011_1_T",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_BSW_011_1_T_EN",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_BSW_011_3_T",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_BSW_011_3_T_EN",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_BSW_011_5_T",
+            "value": ""
+        },
+        {
+            "key": "BUFF_LW_BSW_011_5_T_EN",
             "value": ""
         },
         {
@@ -4233,6 +4433,86 @@
             "value": ""
         },
         {
+            "key": "BUFF_BTL_FAP_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_FAP_1-999_D",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_HATE_1-100_U_PA",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_SATK_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_SATK_1-100_D",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_RATK_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_RATK_1-100_D",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_KILLER_MAN_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_KILLER_FIRE_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_KILLER_WATER_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_KILLER_WIND_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_KILLER_THUNDER_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_KILLER_ICE_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_KILLER_SOIL_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_KILLER_DARK_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_KILLER_SHINE_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_TOAD_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_STONE_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_DONMV_1-100_D",
+            "value": ""
+        },
+        {
+            "key": "BUFF_BTL_DEFPIERCE_1-100_U",
+            "value": ""
+        },
+        {
             "key": "BUFF_BTL_JOB_THI_1_15_U",
             "value": ""
         },
@@ -4318,7 +4598,7 @@
         },
         {
             "key": "BUFF_IFRT_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_02",
@@ -4326,7 +4606,7 @@
         },
         {
             "key": "BUFF_IFRT_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_04",
@@ -4334,7 +4614,7 @@
         },
         {
             "key": "BUFF_IFRT_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_06",
@@ -4346,15 +4626,15 @@
         },
         {
             "key": "BUFF_IFRT_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_11",
@@ -4362,15 +4642,15 @@
         },
         {
             "key": "BUFF_IFRT_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_15",
@@ -4378,15 +4658,15 @@
         },
         {
             "key": "BUFF_IFRT_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_19",
@@ -4394,11 +4674,11 @@
         },
         {
             "key": "BUFF_IFRT_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_22",
@@ -4410,11 +4690,11 @@
         },
         {
             "key": "BUFF_IFRT_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_26",
@@ -4426,11 +4706,11 @@
         },
         {
             "key": "BUFF_IFRT_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IFRT_30",
@@ -4450,7 +4730,7 @@
         },
         {
             "key": "BUFF_RAMU_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_02",
@@ -4458,7 +4738,7 @@
         },
         {
             "key": "BUFF_RAMU_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_04",
@@ -4466,7 +4746,7 @@
         },
         {
             "key": "BUFF_RAMU_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_06",
@@ -4478,15 +4758,15 @@
         },
         {
             "key": "BUFF_RAMU_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_11",
@@ -4494,15 +4774,15 @@
         },
         {
             "key": "BUFF_RAMU_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_15",
@@ -4510,15 +4790,15 @@
         },
         {
             "key": "BUFF_RAMU_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_19",
@@ -4526,11 +4806,11 @@
         },
         {
             "key": "BUFF_RAMU_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_22",
@@ -4542,11 +4822,11 @@
         },
         {
             "key": "BUFF_RAMU_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_26",
@@ -4558,11 +4838,11 @@
         },
         {
             "key": "BUFF_RAMU_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_RAMU_30",
@@ -4582,7 +4862,7 @@
         },
         {
             "key": "BUFF_SHIV_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_02",
@@ -4590,7 +4870,7 @@
         },
         {
             "key": "BUFF_SHIV_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_04",
@@ -4598,7 +4878,7 @@
         },
         {
             "key": "BUFF_SHIV_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_06",
@@ -4610,15 +4890,15 @@
         },
         {
             "key": "BUFF_SHIV_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_11",
@@ -4626,15 +4906,15 @@
         },
         {
             "key": "BUFF_SHIV_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_15",
@@ -4642,15 +4922,15 @@
         },
         {
             "key": "BUFF_SHIV_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_19",
@@ -4658,11 +4938,11 @@
         },
         {
             "key": "BUFF_SHIV_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_22",
@@ -4674,11 +4954,11 @@
         },
         {
             "key": "BUFF_SHIV_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_26",
@@ -4690,11 +4970,11 @@
         },
         {
             "key": "BUFF_SHIV_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SHIV_30",
@@ -4714,23 +4994,23 @@
         },
         {
             "key": "BUFF_GLEM_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_02",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_06",
@@ -4742,7 +5022,7 @@
         },
         {
             "key": "BUFF_GLEM_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_09",
@@ -4754,11 +5034,11 @@
         },
         {
             "key": "BUFF_GLEM_11",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_13",
@@ -4770,19 +5050,19 @@
         },
         {
             "key": "BUFF_GLEM_15",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_19",
@@ -4798,11 +5078,11 @@
         },
         {
             "key": "BUFF_GLEM_22",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_23",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_24",
@@ -4814,19 +5094,19 @@
         },
         {
             "key": "BUFF_GLEM_26",
-            "value": "DEF +3 %"
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_27",
-            "value": "DEF +4 %"
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_30",
@@ -4838,23 +5118,23 @@
         },
         {
             "key": "BUFF_GLEM_32",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_GLEM_33",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_02",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_04",
@@ -4862,7 +5142,7 @@
         },
         {
             "key": "BUFF_SIRE_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_06",
@@ -4874,7 +5154,7 @@
         },
         {
             "key": "BUFF_SIRE_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_09",
@@ -4886,19 +5166,19 @@
         },
         {
             "key": "BUFF_SIRE_11",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_15",
@@ -4906,15 +5186,15 @@
         },
         {
             "key": "BUFF_SIRE_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_19",
@@ -4930,19 +5210,19 @@
         },
         {
             "key": "BUFF_SIRE_22",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_23",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_26",
@@ -4954,11 +5234,11 @@
         },
         {
             "key": "BUFF_SIRE_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_30",
@@ -4970,7 +5250,7 @@
         },
         {
             "key": "BUFF_SIRE_32",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_SIRE_33",
@@ -4978,7 +5258,7 @@
         },
         {
             "key": "BUFF_IGNT_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_02",
@@ -4986,15 +5266,15 @@
         },
         {
             "key": "BUFF_IGNT_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_06",
@@ -5006,15 +5286,15 @@
         },
         {
             "key": "BUFF_IGNT_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_11",
@@ -5022,15 +5302,15 @@
         },
         {
             "key": "BUFF_IGNT_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_15",
@@ -5038,15 +5318,15 @@
         },
         {
             "key": "BUFF_IGNT_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_19",
@@ -5054,11 +5334,11 @@
         },
         {
             "key": "BUFF_IGNT_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_22",
@@ -5070,11 +5350,11 @@
         },
         {
             "key": "BUFF_IGNT_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_26",
@@ -5086,11 +5366,11 @@
         },
         {
             "key": "BUFF_IGNT_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_IGNT_30",
@@ -5110,7 +5390,7 @@
         },
         {
             "key": "BUFF_ODIN_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_02",
@@ -5118,7 +5398,7 @@
         },
         {
             "key": "BUFF_ODIN_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_04",
@@ -5126,7 +5406,7 @@
         },
         {
             "key": "BUFF_ODIN_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_06",
@@ -5138,15 +5418,15 @@
         },
         {
             "key": "BUFF_ODIN_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_11",
@@ -5154,15 +5434,15 @@
         },
         {
             "key": "BUFF_ODIN_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_15",
@@ -5170,15 +5450,15 @@
         },
         {
             "key": "BUFF_ODIN_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_19",
@@ -5186,11 +5466,11 @@
         },
         {
             "key": "BUFF_ODIN_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_22",
@@ -5202,11 +5482,11 @@
         },
         {
             "key": "BUFF_ODIN_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_26",
@@ -5218,11 +5498,11 @@
         },
         {
             "key": "BUFF_ODIN_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ODIN_30",
@@ -5242,7 +5522,7 @@
         },
         {
             "key": "BUFF_BHMT_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_02",
@@ -5250,15 +5530,15 @@
         },
         {
             "key": "BUFF_BHMT_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_06",
@@ -5270,15 +5550,15 @@
         },
         {
             "key": "BUFF_BHMT_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_11",
@@ -5286,15 +5566,15 @@
         },
         {
             "key": "BUFF_BHMT_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_15",
@@ -5302,15 +5582,15 @@
         },
         {
             "key": "BUFF_BHMT_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_19",
@@ -5318,11 +5598,11 @@
         },
         {
             "key": "BUFF_BHMT_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_22",
@@ -5334,11 +5614,11 @@
         },
         {
             "key": "BUFF_BHMT_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_26",
@@ -5350,11 +5630,11 @@
         },
         {
             "key": "BUFF_BHMT_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BHMT_30",
@@ -5374,23 +5654,23 @@
         },
         {
             "key": "BUFF_MABR_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_02",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_06",
@@ -5402,15 +5682,15 @@
         },
         {
             "key": "BUFF_MABR_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_11",
@@ -5418,23 +5698,23 @@
         },
         {
             "key": "BUFF_MABR_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_15",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_17",
@@ -5450,11 +5730,11 @@
         },
         {
             "key": "BUFF_MABR_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_22",
@@ -5466,19 +5746,19 @@
         },
         {
             "key": "BUFF_MABR_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_26",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_27",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MABR_28",
@@ -5502,27 +5782,27 @@
         },
         {
             "key": "BUFF_MABR_33",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_02",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_06",
@@ -5534,15 +5814,15 @@
         },
         {
             "key": "BUFF_MOGL_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_11",
@@ -5550,23 +5830,23 @@
         },
         {
             "key": "BUFF_MOGL_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_15",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_17",
@@ -5582,11 +5862,11 @@
         },
         {
             "key": "BUFF_MOGL_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_22",
@@ -5598,19 +5878,19 @@
         },
         {
             "key": "BUFF_MOGL_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_26",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_27",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_MOGL_28",
@@ -5634,11 +5914,11 @@
         },
         {
             "key": "BUFF_MOGL_33",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_02",
@@ -5646,15 +5926,15 @@
         },
         {
             "key": "BUFF_LAMA_01_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_06",
@@ -5666,15 +5946,15 @@
         },
         {
             "key": "BUFF_LAMA_01_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_11",
@@ -5682,15 +5962,15 @@
         },
         {
             "key": "BUFF_LAMA_01_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_15",
@@ -5698,15 +5978,15 @@
         },
         {
             "key": "BUFF_LAMA_01_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_19",
@@ -5714,11 +5994,11 @@
         },
         {
             "key": "BUFF_LAMA_01_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_22",
@@ -5730,11 +6010,11 @@
         },
         {
             "key": "BUFF_LAMA_01_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_26",
@@ -5746,11 +6026,11 @@
         },
         {
             "key": "BUFF_LAMA_01_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_LAMA_01_30",
@@ -5770,7 +6050,7 @@
         },
         {
             "key": "BUFF_CACT_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_02",
@@ -5778,27 +6058,27 @@
         },
         {
             "key": "BUFF_CACT_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_06",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_07",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_09",
@@ -5806,31 +6086,31 @@
         },
         {
             "key": "BUFF_CACT_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_11",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_15",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_17",
@@ -5842,7 +6122,7 @@
         },
         {
             "key": "BUFF_CACT_19",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_20",
@@ -5854,27 +6134,27 @@
         },
         {
             "key": "BUFF_CACT_22",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_23",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_26",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_27",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_28",
@@ -5886,23 +6166,23 @@
         },
         {
             "key": "BUFF_CACT_30",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_31",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_32",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_CACT_33",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_02",
@@ -5910,7 +6190,7 @@
         },
         {
             "key": "BUFF_TSLP_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_04",
@@ -5918,7 +6198,7 @@
         },
         {
             "key": "BUFF_TSLP_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_06",
@@ -5930,15 +6210,15 @@
         },
         {
             "key": "BUFF_TSLP_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_11",
@@ -5946,15 +6226,15 @@
         },
         {
             "key": "BUFF_TSLP_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_15",
@@ -5962,15 +6242,15 @@
         },
         {
             "key": "BUFF_TSLP_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_19",
@@ -5978,11 +6258,11 @@
         },
         {
             "key": "BUFF_TSLP_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_22",
@@ -5994,11 +6274,11 @@
         },
         {
             "key": "BUFF_TSLP_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_26",
@@ -6010,11 +6290,11 @@
         },
         {
             "key": "BUFF_TSLP_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_TSLP_30",
@@ -6034,7 +6314,7 @@
         },
         {
             "key": "BUFF_OCHU_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_02",
@@ -6042,15 +6322,15 @@
         },
         {
             "key": "BUFF_OCHU_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_06",
@@ -6062,15 +6342,15 @@
         },
         {
             "key": "BUFF_OCHU_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_11",
@@ -6078,15 +6358,15 @@
         },
         {
             "key": "BUFF_OCHU_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_15",
@@ -6094,15 +6374,15 @@
         },
         {
             "key": "BUFF_OCHU_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_19",
@@ -6110,11 +6390,11 @@
         },
         {
             "key": "BUFF_OCHU_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_22",
@@ -6126,11 +6406,11 @@
         },
         {
             "key": "BUFF_OCHU_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_26",
@@ -6142,11 +6422,11 @@
         },
         {
             "key": "BUFF_OCHU_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OCHU_30",
@@ -6166,19 +6446,19 @@
         },
         {
             "key": "BUFF_ARMN_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_02",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_05",
@@ -6194,35 +6474,35 @@
         },
         {
             "key": "BUFF_ARMN_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_09",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_11",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_15",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_16",
@@ -6230,11 +6510,11 @@
         },
         {
             "key": "BUFF_ARMN_17",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_18",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_19",
@@ -6242,43 +6522,43 @@
         },
         {
             "key": "BUFF_ARMN_20",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_21",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_22",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_23",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_26",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_27",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_28",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_29",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_30",
@@ -6290,15 +6570,15 @@
         },
         {
             "key": "BUFF_ARMN_32",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ARMN_33",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_02",
@@ -6306,15 +6586,15 @@
         },
         {
             "key": "BUFF_ZUUU_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_06",
@@ -6326,7 +6606,7 @@
         },
         {
             "key": "BUFF_ZUUU_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_09",
@@ -6334,31 +6614,31 @@
         },
         {
             "key": "BUFF_ZUUU_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_11",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_15",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_17",
@@ -6382,27 +6662,27 @@
         },
         {
             "key": "BUFF_ZUUU_22",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_23",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_26",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_27",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_28",
@@ -6422,15 +6702,15 @@
         },
         {
             "key": "BUFF_ZUUU_32",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_ZUUU_33",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_02",
@@ -6438,15 +6718,15 @@
         },
         {
             "key": "BUFF_OGRE_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_06",
@@ -6458,7 +6738,7 @@
         },
         {
             "key": "BUFF_OGRE_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_09",
@@ -6466,31 +6746,31 @@
         },
         {
             "key": "BUFF_OGRE_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_11",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_15",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_17",
@@ -6514,27 +6794,27 @@
         },
         {
             "key": "BUFF_OGRE_22",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_23",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_26",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_27",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_28",
@@ -6554,15 +6834,15 @@
         },
         {
             "key": "BUFF_OGRE_32",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_OGRE_33",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_01",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_02",
@@ -6570,15 +6850,15 @@
         },
         {
             "key": "BUFF_BOMB_03",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_04",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_05",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_06",
@@ -6590,7 +6870,7 @@
         },
         {
             "key": "BUFF_BOMB_08",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_09",
@@ -6598,31 +6878,31 @@
         },
         {
             "key": "BUFF_BOMB_10",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_11",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_12",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_13",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_14",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_15",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_16",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_17",
@@ -6646,27 +6926,27 @@
         },
         {
             "key": "BUFF_BOMB_22",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_23",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_24",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_25",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_26",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_27",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_28",
@@ -6686,11 +6966,11 @@
         },
         {
             "key": "BUFF_BOMB_32",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_BOMB_33",
-            "value": "Augmente les caractéristiques quand équipé sur une unité."
+            "value": "Augmente les caractéristiques de l'unité qui l'équipe."
         },
         {
             "key": "BUFF_UN_BD_BUFF_HP_01",
@@ -6971,6 +7251,10 @@
         {
             "key": "BUFF_ARENA_00003",
             "value": "Portée +1"
+        },
+        {
+            "key": "BUFF_GVG_001",
+            "value": "Augmente les attaques d'ombre."
         }
     ]
 }

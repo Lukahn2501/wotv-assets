@@ -237,6 +237,26 @@
             "value": "천진난만 흑마도사"
         },
         {
+            "key": "UN_LW_P_RAIN",
+            "value": "타오르는 마음"
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "마검의 영애"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "죄악의 거짓된 달"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "미래를 우려하는 철학자"
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "사랑에 빠진 작은 방패"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "적/NPC"
         },
@@ -285,11 +305,23 @@
             "value": "적/NPC"
         },
         {
+            "key": "UN_LW_E_OOOO",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": "적/NPC"
+        },
+        {
             "key": "UN_LW_E_RIRY",
             "value": "적/NPC"
         },
         {
             "key": "UN_LW_E_VSTR",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_CLEY",
             "value": "적/NPC"
         },
         {
@@ -358,6 +390,46 @@
         },
         {
             "key": "UN_LW_E_KTON",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_DRZA",
             "value": "적/NPC"
         },
         {
@@ -709,6 +781,10 @@
             "value": "적/NPC"
         },
         {
+            "key": "UN_LW_E_02_NIN",
+            "value": "적/NPC"
+        },
+        {
             "key": "UN_LW_E_SO_04",
             "value": "적/NPC"
         },
@@ -733,6 +809,18 @@
             "value": "적/NPC"
         },
         {
+            "key": "UN_LW_E_PR_01",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": "적/NPC"
+        },
+        {
             "key": "UN_LW_E_PR_01_HUN",
             "value": "적/NPC"
         },
@@ -745,7 +833,35 @@
             "value": "적/NPC"
         },
         {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": "적/NPC"
+        },
+        {
             "key": "UN_LW_E_PR_02_MNK",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
             "value": "적/NPC"
         },
         {
@@ -757,7 +873,15 @@
             "value": "적/NPC"
         },
         {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": "적/NPC"
+        },
+        {
             "key": "UN_LW_E_PR_01_RDM",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
             "value": "적/NPC"
         },
         {
@@ -770,6 +894,62 @@
         },
         {
             "key": "UN_LW_E_PR_02_TIM",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": "적/NPC"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
             "value": "적/NPC"
         },
         {
@@ -945,6 +1125,10 @@
             "value": "적"
         },
         {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": "적"
+        },
+        {
             "key": "UN_LW_E_IGNT",
             "value": "적"
         },
@@ -1093,12 +1277,56 @@
             "value": "적"
         },
         {
+            "key": "UN_LW_E_ENBT",
+            "value": "적"
+        },
+        {
             "key": "UN_LW_E_YERM_2",
             "value": "적"
         },
         {
             "key": "UN_LW_E_OCHU_QE",
             "value": "적"
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "베올브 가문의 막내"
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1546,6 +1774,10 @@
         },
         {
             "key": "UN_GM_PLACED_BASH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW_01",
             "value": ""
         }
     ]

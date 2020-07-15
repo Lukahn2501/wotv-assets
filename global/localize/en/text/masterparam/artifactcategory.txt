@@ -30,7 +30,7 @@
         },
         {
             "key": "ROD",
-            "value": "Rod"
+            "value": "Staff"
         },
         {
             "key": "NINJASWORD",
@@ -74,7 +74,7 @@
         },
         {
             "key": "HAND",
-            "value": "Melee"
+            "value": "Fists"
         },
         {
             "key": "SHIELD",

@@ -9,6 +9,10 @@
             "value": "Dies ist der Spezialitätenladen."
         },
         {
+            "key": "Realmoney-0715",
+            "value": "Dies ist der Spezialitätenladen."
+        },
+        {
             "key": "Begginer-20191114",
             "value": "Der Laden für Laien: Verbessere die Einheiten in deinem Besitz!"
         },
@@ -169,6 +173,90 @@
             "value": "Spielerrang 60 und höher"
         },
         {
+            "key": "Normal-20200221_A",
+            "value": "Spielerrang 1 bis 29"
+        },
+        {
+            "key": "Normal-20200221_B",
+            "value": "Spielerrang 30 bis 59"
+        },
+        {
+            "key": "Normal-20200221_C",
+            "value": "Spielerrang 60 und höher"
+        },
+        {
+            "key": "Normal-20200317_A",
+            "value": "Spielerrang 1 bis 29"
+        },
+        {
+            "key": "Normal-20200317_B",
+            "value": "Spielerrang 30 bis 59"
+        },
+        {
+            "key": "Normal-20200317_C",
+            "value": "Spielerrang 60 und höher"
+        },
+        {
+            "key": "Normal-20200319_A",
+            "value": "Spielerrang 1 bis 29"
+        },
+        {
+            "key": "Normal-20200319_B",
+            "value": "Spielerrang 30 bis 59"
+        },
+        {
+            "key": "Normal-20200319_C",
+            "value": "Spielerrang 60 und höher"
+        },
+        {
+            "key": "Normal-20200321_A",
+            "value": "Spielerrang 1 bis 29"
+        },
+        {
+            "key": "Normal-20200321_B",
+            "value": "Spielerrang 30 bis 59"
+        },
+        {
+            "key": "Normal-20200321_C",
+            "value": "Spielerrang 60 und höher"
+        },
+        {
+            "key": "Normal-20200323_A",
+            "value": "Spielerrang 1 bis 29"
+        },
+        {
+            "key": "Normal-20200323_B",
+            "value": "Spielerrang 30 bis 59"
+        },
+        {
+            "key": "Normal-20200323_C",
+            "value": "Spielerrang 60 und höher"
+        },
+        {
+            "key": "Normal-20200325_A",
+            "value": "Spielerrang 1 bis 29"
+        },
+        {
+            "key": "Normal-20200325_B",
+            "value": "Spielerrang 30 bis 59"
+        },
+        {
+            "key": "Normal-20200325_C",
+            "value": "Spielerrang 60 und höher"
+        },
+        {
+            "key": "Normal-20200328_A",
+            "value": "Spielerrang 1 bis 29"
+        },
+        {
+            "key": "Normal-20200328_B",
+            "value": "Spielerrang 30 bis 59"
+        },
+        {
+            "key": "Normal-20200328_C",
+            "value": "Spielerrang 60 und höher"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Launischer Laden (Spielerrang 1 bis 29)"
         },
@@ -325,8 +413,148 @@
             "value": "Launischer Laden (Spielerrang 60 und höher)"
         },
         {
+            "key": "Guerrilla-20200221A",
+            "value": "Launischer Laden (Spielerrang 1 bis 29)"
+        },
+        {
+            "key": "Guerrilla-20200221B",
+            "value": "Launischer Laden (Spielerrang 30 bis 59)"
+        },
+        {
+            "key": "Guerrilla-20200221C",
+            "value": "Launischer Laden (Spielerrang 60 und höher)"
+        },
+        {
+            "key": "Guerrilla-20200317A",
+            "value": "Launischer Laden (Spielerrang 1 bis 29)"
+        },
+        {
+            "key": "Guerrilla-20200317B",
+            "value": "Launischer Laden (Spielerrang 30 bis 59)"
+        },
+        {
+            "key": "Guerrilla-20200317C",
+            "value": "Launischer Laden (Spielerrang 60 und höher)"
+        },
+        {
+            "key": "Guerrilla-20200319A",
+            "value": "Launischer Laden (Spielerrang 1 bis 29)"
+        },
+        {
+            "key": "Guerrilla-20200319B",
+            "value": "Launischer Laden (Spielerrang 30 bis 59)"
+        },
+        {
+            "key": "Guerrilla-20200319C",
+            "value": "Launischer Laden (Spielerrang 60 und höher)"
+        },
+        {
+            "key": "Guerrilla-20200321A",
+            "value": "Launischer Laden (Spielerrang 1 bis 29)"
+        },
+        {
+            "key": "Guerrilla-20200321B",
+            "value": "Launischer Laden (Spielerrang 30 bis 59)"
+        },
+        {
+            "key": "Guerrilla-20200321C",
+            "value": "Launischer Laden (Spielerrang 60 und höher)"
+        },
+        {
+            "key": "Guerrilla-20200323A",
+            "value": "Launischer Laden (Spielerrang 1 bis 29)"
+        },
+        {
+            "key": "Guerrilla-20200323B",
+            "value": "Launischer Laden (Spielerrang 30 bis 59)"
+        },
+        {
+            "key": "Guerrilla-20200323C",
+            "value": "Launischer Laden (Spielerrang 60 und höher)"
+        },
+        {
+            "key": "Guerrilla-20200325A",
+            "value": "Launischer Laden (Spielerrang 1 bis 29)"
+        },
+        {
+            "key": "Guerrilla-20200325B",
+            "value": "Launischer Laden (Spielerrang 30 bis 59)"
+        },
+        {
+            "key": "Guerrilla-20200325C",
+            "value": "Launischer Laden (Spielerrang 60 und höher)"
+        },
+        {
+            "key": "Guerrilla-20200328A",
+            "value": "Launischer Laden (Spielerrang 1 bis 29)"
+        },
+        {
+            "key": "Guerrilla-20200328B",
+            "value": "Launischer Laden (Spielerrang 30 bis 59)"
+        },
+        {
+            "key": "Guerrilla-20200328C",
+            "value": "Launischer Laden (Spielerrang 60 und höher)"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200715",
+            "value": "Der Laden zur Gildenunterstützung: Jetzt mit exklusiven Angeboten!"
+        },
+        {
+            "key": "Limited-gl20200715_A",
+            "value": "Der Laden für neue Einheiten im Blickpunkt: Verbessere die Einheiten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200715_B",
+            "value": "Der Laden für Einheiten/Visionskarten im Blickpunkt: Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200708",
+            "value": "Der Laden zur Feier der Porzellanturm-Eröffnung Teil II: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+        },
+        {
+            "key": "Limited-gl20200708_A",
+            "value": "Blickpunktladen: Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200701",
+            "value": "„FF EXVIUS Universe“-Kampagnenladen: Jetzt mit exklusiven Angeboten!"
+        },
+        {
+            "key": "Limited-gl20200701_A",
+            "value": "Der Laden zur Feier der Porzellanturm-Eröffnung: Jetzt mit exklusiven Feierangeboten im Sortiment!"
+        },
+        {
+            "key": "Limited-gl20200701_B_1",
+            "value": "Blickpunktladen I: Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200701_B_2",
+            "value": "Blickpunktladen II: Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200701_B_3",
+            "value": "Blickpunktladen III: Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200701_B_4",
+            "value": "Blickpunktladen IV: Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200624_A",
+            "value": "Der MOBIUS FINAL FANTASY-Kollaboladen: Verbessere die Einheiten und Visionskarten in deinem Besitz!"
+        },
+        {
+            "key": "Limited-gl20200624",
+            "value": "Der „Kapitel 7 veröffentlicht!“-Laden – jetzt mit exklusiven Angeboten im Sortiment!"
+        },
+        {
+            "key": "Limited-gl20200624_B",
+            "value": "Blickpunktladen: Verbessere die Einheiten und Visionskarten in deinem Besitz!"
         },
         {
             "key": "Limited-gl20200617",
@@ -453,12 +681,32 @@
             "value": "Verbessere die Einheiten und Visionskarten in deinem Besitz!"
         },
         {
-            "key": "Event-Raid_20200207",
-            "value": "Dies ist der Tauschladen für Schokopudding-Kraftprobenmedaillen, kupo!"
+            "key": "Event-Quest_20200301",
+            "value": "Dies ist der Tauschladen für Juli-Eventmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Tower_20200317",
+            "value": "Dies ist der Tauschladen für Turmmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Summon_GL20200715_B",
+            "value": "Dies ist der Tauschladen für Juli-Beschwörungsmedaillen B, kupo!"
+        },
+        {
+            "key": "Event-Summon_GL20200701_A",
+            "value": "Dies ist der Tauschladen für Juli-Beschwörungsmedaillen A, kupo!"
         },
         {
             "key": "Event-EV02_1_20200201",
             "value": "Dies ist der Tauschladen für Juni-Eventmedaillen, Kupo!"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "Dies ist der Tauschladen für Schokopudding-Kraftprobenmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Summon_GL20200624_B",
+            "value": "Dies ist der Tauschladen für Juni-Beschwörungsmedaillen B, kupo!"
         },
         {
             "key": "Event-Summon_GL20200617_B",
@@ -670,6 +918,62 @@
         },
         {
             "key": "Event-Vision_N_gl20200601",
+            "value": "Dies ist der Tauschladen für normale Visionsmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Friend_gl20200701",
+            "value": "Dies ist der Tauschladen für Freundschaftsmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Arena_gl20200701",
+            "value": "Dies ist der Tauschladen für Arenamedaillen, kupo!"
+        },
+        {
+            "key": "Event-Match_gl20200701",
+            "value": "Dies ist der Tauschladen für SgS-Medaillen, kupo!"
+        },
+        {
+            "key": "Event-Guild_gl20200701",
+            "value": "Dies ist der Tauschladen für Gildenmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Soul_UR_gl20200701",
+            "value": "Dies ist der Tauschladen für ultra-rare Seelenmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200701",
+            "value": "Dies ist der Tauschladen für mega-rare Seelenmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Soul_SR_gl20200701",
+            "value": "Dies ist der Tauschladen für super-rare Seelenmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Soul_R_gl20200701",
+            "value": "Dies ist der Tauschladen für rare Seelenmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Soul_N_gl20200701",
+            "value": "Dies ist der Tauschladen für normale Seelenmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Vision_UR_gl20200701",
+            "value": "Dies ist der Tauschladen für ultra-rare Visionsmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200701",
+            "value": "Dies ist der Tauschladen für mega-rare Visionsmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Vision_SR_gl20200701",
+            "value": "Dies ist der Tauschladen für super-rare Visionsmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Vision_R_gl20200701",
+            "value": "Dies ist der Tauschladen für rare Visionsmedaillen, kupo!"
+        },
+        {
+            "key": "Event-Vision_N_gl20200701",
             "value": "Dies ist der Tauschladen für normale Visionsmedaillen, kupo!"
         },
         {
@@ -1086,6 +1390,134 @@
         },
         {
             "key": "Limited-FIRE_2020_2_18",
+            "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WATER_2020_2_26",
+            "value": "Der Gezeitenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WIND_2020_2_27",
+            "value": "Der Böenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_28",
+            "value": "Der Schockbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_29",
+            "value": "Der Lehmbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_01",
+            "value": "Der Schimmerbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-DARK_2020_3_01",
+            "value": "Der Schattenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-ICE_2020_2_24",
+            "value": "Der Frostbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_25",
+            "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WATER_2020_3_04",
+            "value": "Der Gezeitenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WIND_2020_3_05",
+            "value": "Der Böenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_06",
+            "value": "Der Schockbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_07",
+            "value": "Der Lehmbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_08",
+            "value": "Der Schimmerbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-DARK_2020_3_08",
+            "value": "Der Schattenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-ICE_2020_3_02",
+            "value": "Der Frostbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_03",
+            "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WATER_2020_3_11",
+            "value": "Der Gezeitenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WIND_2020_3_12",
+            "value": "Der Böenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_13",
+            "value": "Der Schockbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_14",
+            "value": "Der Lehmbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_15",
+            "value": "Der Schimmerbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-DARK_2020_3_15",
+            "value": "Der Schattenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-ICE_2020_3_09",
+            "value": "Der Frostbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_10",
+            "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WATER_2020_3_18",
+            "value": "Der Gezeitenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-WIND_2020_3_19",
+            "value": "Der Böenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_20",
+            "value": "Der Schockbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_21",
+            "value": "Der Lehmbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_22",
+            "value": "Der Schimmerbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-DARK_2020_3_22",
+            "value": "Der Schattenbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-ICE_2020_3_16",
+            "value": "Der Frostbasar mit täglichen Spezialangeboten!"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_17",
             "value": "Der Aschenbasar mit täglichen Spezialangeboten!"
         }
     ]

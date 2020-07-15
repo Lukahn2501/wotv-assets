@@ -1,116 +1,120 @@
 {
     "infos": [
         {
-            "key": "Battle1",
-            "value": ""
-        },
-        {
-            "key": "Battle2",
-            "value": ""
-        },
-        {
-            "key": "Gacha",
-            "value": ""
-        },
-        {
-            "key": "Quest",
-            "value": ""
-        },
-        {
-            "key": "ChallengeMission",
-            "value": ""
-        },
-        {
-            "key": "UnitStrength",
-            "value": ""
-        },
-        {
-            "key": "UnitAwake",
-            "value": "ユニット：覚醒のガイダンスを見る"
-        },
-        {
-            "key": "ArtifactCraft",
-            "value": "武具：クラフトのガイダンスを見る"
+            "key": "HardQuest",
+            "value": "ハードクエストのガイダンスを見る"
         },
         {
             "key": "EventQuest",
             "value": "イベントクエストのガイダンスを見る"
         },
         {
-            "key": "VisionCard",
-            "value": "ビジョンカードのガイダンスを見る"
-        },
-        {
-            "key": "ExplorationChocobo",
-            "value": "探検チョコボのガイダンスを見る"
-        },
-        {
-            "key": "Party",
-            "value": "編成のガイダンスを見る"
-        },
-        {
             "key": "MultiQuest",
             "value": "マルチクエストのガイダンスを見る"
+        },
+        {
+            "key": "NBeastQuest",
+            "value": "強敵の間のガイダンスを見る"
+        },
+        {
+            "key": "Tower",
+            "value": "タワーのガイダンスを見る"
         },
         {
             "key": "Arena",
             "value": "アリーナのガイダンスを見る"
         },
         {
-            "key": "FreeMatch",
-            "value": ""
+            "key": "Party",
+            "value": "編成のガイダンスを見る"
         },
         {
-            "key": "GuildJoin",
-            "value": ""
+            "key": "Unit",
+            "value": "ユニットのガイダンスを見る"
         },
         {
-            "key": "GuildAttendance",
-            "value": ""
+            "key": "UnitJobStrength",
+            "value": "ユニット：ジョブ強化のガイダンスを見る"
         },
         {
-            "key": "GuildBarracks",
-            "value": ""
+            "key": "UnitAbilitybord",
+            "value": "ユニット：アビリティボードのガイダンスを見る"
         },
         {
-            "key": "GuildStone",
-            "value": ""
+            "key": "UnitAbilityStrength",
+            "value": "ユニット：アビリティ強化のガイダンスを見る"
         },
         {
-            "key": "UnitIntimacy",
-            "value": ""
+            "key": "UnitAwake",
+            "value": "ユニット：覚醒のガイダンスを見る"
         },
         {
-            "key": "SubQuest",
-            "value": ""
+            "key": "UnitRank",
+            "value": "ユニット：限界突破のガイダンスを見る"
         },
         {
-            "key": "Unitsubjob",
-            "value": ""
+            "key": "UnitSubJob",
+            "value": "ユニット：サブジョブのガイダンスを見る"
         },
         {
-            "key": "HardQuest",
-            "value": "ハードクエストのガイダンスを見る"
+            "key": "UnitAbilitySet",
+            "value": "ユニット：アビリティセットのガイダンスを見る"
         },
         {
-            "key": "NetherBeast",
-            "value": "召喚獣のガイダンスを見る"
+            "key": "UnitStrengthLB",
+            "value": "ユニット：ＬＢ強化のガイダンスを見る"
         },
         {
-            "key": "CharaQuest",
-            "value": ""
+            "key": "UnitTraining",
+            "value": "ユニット：練成のガイダンスを見る"
         },
         {
-            "key": "GuildBattle",
-            "value": ""
+            "key": "UnitArtifactFav",
+            "value": "ユニット：お気に入り装備のガイダンスを見る"
+        },
+        {
+            "key": "ExplorationChocobo",
+            "value": "探検チョコボのガイダンスを見る"
+        },
+        {
+            "key": "Mission",
+            "value": "ミッションのガイダンスを見る"
+        },
+        {
+            "key": "Artifact",
+            "value": "武具のガイダンスを見る"
+        },
+        {
+            "key": "ArtifactCraft",
+            "value": "武具：クラフトのガイダンスを見る"
+        },
+        {
+            "key": "ArtifactAwake",
+            "value": "武具：覚醒のガイダンスを見る"
         },
         {
             "key": "SupportUnit",
             "value": "同行者編成のガイダンスを見る"
         },
         {
-            "key": "ItemExchange",
-            "value": ""
+            "key": "VisionCard",
+            "value": "ビジョンカードのガイダンスを見る"
+        },
+        {
+            "key": "NetherBeast",
+            "value": "召喚獣のガイダンスを見る"
+        },
+        {
+            "key": "Guild",
+            "value": "ギルドのガイダンスを見る"
+        },
+        {
+            "key": "Match",
+            "value": "フリー・フレンドマッチのガイダンスを見る"
+        },
+        {
+            "key": "ClassMatch",
+            "value": "クラスマッチのガイダンスを見る"
         }
     ]
 }

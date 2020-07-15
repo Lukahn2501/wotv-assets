@@ -414,7 +414,7 @@
         },
         {
             "key": "IT_SET_WA_ATK_GL01",
-            "value": "Equipment ATK Enhancing Pack"
+            "value": "Equipment ATK Enhancement Pack"
         },
         {
             "key": "IT_SET_WA_HIT_GL01",
@@ -451,6 +451,126 @@
         {
             "key": "IT_SET_WA_CRI_GL01",
             "value": "Equipment CRIT Enhancement Pack"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "MOBIUS FINAL FANTASY Collaboration Pack"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "\"Mobius of Despair and Truth\" Training Pack"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "\"Mobius of Hope and Illusion\" Training Pack"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "Vision Card Training Pack II"
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "Unit Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "Light Awakening Pack"
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "Water Awakening Pack"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "Fryevia Training Pack"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "Fire Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "Water Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "Wind Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "Lightning Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "Earth Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "Ice Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "Light Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "Dark Alcryst Pack"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "Porcelain Tower Launch Celebration EXP Cube Pack"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "Equipment Ability Pack"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "Daily Free NRG Restore (L)"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "Porcelain Tower Vision Card Training Pack"
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "Porcelain Tower Fire Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "Porcelain Tower Water Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "Porcelain Tower Ice Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "Porcelain Tower Wind Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "Porcelain Tower Lightning Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "Porcelain Tower Earth Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "Porcelain Tower Light Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "Porcelain Tower Dark Enhancing Pack"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "Guild Statue Training Pack"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "Dark Full Awakening Pack"
         }
     ]
 }

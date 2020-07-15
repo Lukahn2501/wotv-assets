@@ -205,6 +205,18 @@
             "value": "兵員『阿德拉德』的等級在1以上"
         },
         {
+            "key": "COND_HA_LW_RAIN",
+            "value": "兵員『雷因』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_DRIO",
+            "value": "兵員『達利歐·霍倫』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_VNLA",
+            "value": "兵員『維內拉·芬尼斯』的等級在1以上"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "兵員『蒙特·雷歐尼斯』的等級在40以上"
         },
@@ -439,6 +451,26 @@
         {
             "key": "COND_CH_LW_VKTR",
             "value": "兵員『維克托拉』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_GL_LW_FRVA",
+            "value": "兵員『弗雷比亞』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_RAIN",
+            "value": "兵員『雷因』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_DRIO",
+            "value": "兵員『達利歐·霍倫』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_VNLA",
+            "value": "兵員『維內拉·芬尼斯』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_TREL",
+            "value": "兵員『泰瑞爾』的等級在40以上"
         }
     ]
 }

@@ -106,11 +106,15 @@
         },
         {
             "key": "SupportUnit",
-            "value": "Es können nun Begleiter festgelegt werden."
+            "value": "Euer Hoheit, seid Ihr in Begleitereinstellungen bewandert?"
         },
         {
             "key": "ItemExchange",
             "value": "Euer Hoheit, es sieht so aus, als habe ein Tauschladen seine Pforten geöffnet. Wollen wir einen Blick hineinwerfen?"
+        },
+        {
+            "key": "Tower",
+            "value": "Ich sehe, Ihr habt Euch in den Porzellanturm begeben …"
         }
     ]
 }

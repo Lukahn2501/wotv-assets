@@ -237,6 +237,26 @@
             "value": "살리아"
         },
         {
+            "key": "UN_LW_P_RAIN",
+            "value": "레인"
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "프레이비아"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "비네라 페네스"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "다리오 호른"
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "티렐"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "몬트 레오니스"
         },
@@ -285,12 +305,24 @@
             "value": "가르가스"
         },
         {
+            "key": "UN_LW_E_OOOO",
+            "value": "오우"
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": "로렌초"
+        },
+        {
             "key": "UN_LW_E_RIRY",
             "value": "라이류"
         },
         {
             "key": "UN_LW_E_VSTR",
             "value": "비스트랄"
+        },
+        {
+            "key": "UN_LW_E_CLEY",
+            "value": "크리 웨젯"
         },
         {
             "key": "UN_LW_E_YERM",
@@ -359,6 +391,46 @@
         {
             "key": "UN_LW_E_KTON",
             "value": "키튼"
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": "메디아나"
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": "롭 호른"
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": "바짐"
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": "레인"
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": "티렐"
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": "아이린"
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": "비네라 페네스"
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": "디아"
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": "오르도아"
+        },
+        {
+            "key": "UN_LW_E_DRZA",
+            "value": "돌루자"
         },
         {
             "key": "UN_LW_E_RU_01_THI",
@@ -709,6 +781,10 @@
             "value": "닌자"
         },
         {
+            "key": "UN_LW_E_02_NIN",
+            "value": "페네스의 닌자"
+        },
+        {
             "key": "UN_LW_E_SO_04",
             "value": "런달 병사"
         },
@@ -733,6 +809,18 @@
             "value": "닌자(여)"
         },
         {
+            "key": "UN_LW_E_PR_01",
+            "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": "승병"
+        },
+        {
             "key": "UN_LW_E_PR_01_HUN",
             "value": "승병"
         },
@@ -745,7 +833,35 @@
             "value": "승병"
         },
         {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": "승병"
+        },
+        {
             "key": "UN_LW_E_PR_02_MNK",
+            "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
             "value": "승병"
         },
         {
@@ -757,7 +873,15 @@
             "value": "승병"
         },
         {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": "승병"
+        },
+        {
             "key": "UN_LW_E_PR_01_RDM",
+            "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
             "value": "승병"
         },
         {
@@ -771,6 +895,62 @@
         {
             "key": "UN_LW_E_PR_02_TIM",
             "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": "승병"
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": " '홍련' 병사"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
+            "value": " '홍련' 병사"
         },
         {
             "key": "UN_LW_E_OGRE",
@@ -945,6 +1125,10 @@
             "value": "가프가리온"
         },
         {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": "철거인"
+        },
+        {
             "key": "UN_LW_E_IGNT",
             "value": "철거인"
         },
@@ -1093,12 +1277,56 @@
             "value": "오츄"
         },
         {
+            "key": "UN_LW_E_ENBT",
+            "value": "엥겔베르트"
+        },
+        {
             "key": "UN_LW_E_YERM_2",
             "value": "옐마"
         },
         {
             "key": "UN_LW_E_OCHU_QE",
             "value": "오츄"
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": "길가메시"
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": "옐마"
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": "프레데리카"
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": "메디아나"
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": "몬트 레오니스"
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": "미란다"
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": "루시아"
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": "엥겔베르트"
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": "오를란두"
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "람자"
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1547,6 +1775,10 @@
         {
             "key": "UN_GM_PLACED_BASH",
             "value": "마차"
+        },
+        {
+            "key": "UN_GM_MGSW_01",
+            "value": "마법진(마물 전멸)"
         }
     ]
 }

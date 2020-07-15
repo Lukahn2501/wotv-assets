@@ -763,6 +763,46 @@
         {
             "key": "JB_FFT_ORND",
             "value": "Combattant de première ligne<br><br>Un job qui dispose de nombreuses attaques comme Écrase-armure qui réduit la DEF de l'ennemi, ou Éclair béni qui inflige des dégâts dans une zone en forme de croix."
+        },
+        {
+            "key": "JB_LW_RAIN",
+            "value": "Tank magique de première ligne<br><br>Un job qui permet d'attirer les attaques ennemies et qui donne la possiblité d'envoyer de puissants sorts."
+        },
+        {
+            "key": "JB_LW_ASS",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_ICE",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_WIND",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_THUN",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_WATER",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_DARK",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
         }
     ]
 }

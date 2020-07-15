@@ -9,6 +9,10 @@
             "value": "Spezialitätenladen"
         },
         {
+            "key": "Realmoney-0715",
+            "value": "Spezialitätenladen"
+        },
+        {
             "key": "Begginer-20191114",
             "value": "Laden für Laien"
         },
@@ -169,6 +173,90 @@
             "value": "Hauptladen"
         },
         {
+            "key": "Normal-20200221_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200221_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200221_C",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200317_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200317_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200317_C",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200319_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200319_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200319_C",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200321_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200321_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200321_C",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200323_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200323_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200323_C",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200325_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200325_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200325_C",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200328_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200328_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200328_C",
+            "value": "Hauptladen"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Guerilla-Geschäft"
         },
@@ -325,8 +413,148 @@
             "value": "Guerilla-Geschäft"
         },
         {
+            "key": "Guerrilla-20200221A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200221B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200221C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200317A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200317B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200317C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200319A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200319B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200319C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200321A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200321B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200321C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200323A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200323B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200323C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200325A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200325B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200325C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200328A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200328B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200328C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "FFT-Kollaboladen"
+        },
+        {
+            "key": "Limited-gl20200715",
+            "value": "Laden zur Gildenunterstützung"
+        },
+        {
+            "key": "Limited-gl20200715_A",
+            "value": "Laden für neue Einheiten im Blickpunkt"
+        },
+        {
+            "key": "Limited-gl20200715_B",
+            "value": "Laden für Einheiten/Visionskarten im Blickpunkt"
+        },
+        {
+            "key": "Limited-gl20200708",
+            "value": "Laden zur Feier der Porzellanturm-Eröffnung Teil II"
+        },
+        {
+            "key": "Limited-gl20200708_A",
+            "value": "Laden für Einheiten im Blickpunkt"
+        },
+        {
+            "key": "Limited-gl20200701",
+            "value": "„FF EXVIUS Universe“-Kampagnenladen"
+        },
+        {
+            "key": "Limited-gl20200701_A",
+            "value": "Laden zur Feier der Porzellanturm-Eröffnung"
+        },
+        {
+            "key": "Limited-gl20200701_B_1",
+            "value": "Blickpunktladen I"
+        },
+        {
+            "key": "Limited-gl20200701_B_2",
+            "value": "Blickpunktladen II"
+        },
+        {
+            "key": "Limited-gl20200701_B_3",
+            "value": "Blickpunktladen III"
+        },
+        {
+            "key": "Limited-gl20200701_B_4",
+            "value": "Blickpunktladen IV"
+        },
+        {
+            "key": "Limited-gl20200624_A",
+            "value": "MOBIUS FinaL FANTASY-Kollaboladen"
+        },
+        {
+            "key": "Limited-gl20200624",
+            "value": "„Kapitel 7 veröffentlicht!“-Laden"
+        },
+        {
+            "key": "Limited-gl20200624_B",
+            "value": "Laden für Einheiten im Blickpunkt"
         },
         {
             "key": "Limited-gl20200617",
@@ -453,12 +681,32 @@
             "value": "FFXIV: Shadowbringers-Kollabo-Laden"
         },
         {
+            "key": "Event-Quest_20200301",
+            "value": "Tauschladen für Juli-Eventmedaillen"
+        },
+        {
+            "key": "Event-Tower_20200317",
+            "value": "Tauschladen für Turmmedaillen"
+        },
+        {
+            "key": "Event-Summon_GL20200715_B",
+            "value": "Tauschladen für Beschwörungsmedaillen"
+        },
+        {
+            "key": "Event-Summon_GL20200701_A",
+            "value": "Tauschladen für Beschwörungsmedaillen"
+        },
+        {
+            "key": "Event-EV02_1_20200201",
+            "value": "Tauschladen für Juni-Eventmedaillen"
+        },
+        {
             "key": "Event-Raid_20200207",
             "value": "Tauschladen für Schokopudding-Kraftprobenmedaillen"
         },
         {
-            "key": "Event-EV02_1_20200201",
-            "value": "Juni-Eventmedaille"
+            "key": "Event-Summon_GL20200624_B",
+            "value": "Tauschladen für Beschwörungsmedaillen"
         },
         {
             "key": "Event-Summon_GL20200617_B",
@@ -670,6 +918,62 @@
         },
         {
             "key": "Event-Vision_N_gl20200601",
+            "value": "Tauschladen für normale Visionsmedaillen"
+        },
+        {
+            "key": "Event-Friend_gl20200701",
+            "value": "Tauschladen für Freundschaftsmedaillen"
+        },
+        {
+            "key": "Event-Arena_gl20200701",
+            "value": "Tauschladen für Arenamedaillen"
+        },
+        {
+            "key": "Event-Match_gl20200701",
+            "value": "Tauschladen für SgS-Medaillen"
+        },
+        {
+            "key": "Event-Guild_gl20200701",
+            "value": "Tauschladen für Gildenmedaillen"
+        },
+        {
+            "key": "Event-Soul_UR_gl20200701",
+            "value": "Tauschladen für ultra-rare Seelenmedaillen"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200701",
+            "value": "Tauschladen für mega-rare Seelenmedaillen"
+        },
+        {
+            "key": "Event-Soul_SR_gl20200701",
+            "value": "Tauschladen für super-rare Seelenmedaillen"
+        },
+        {
+            "key": "Event-Soul_R_gl20200701",
+            "value": "Tauschladen für rare Seelenmedaillen"
+        },
+        {
+            "key": "Event-Soul_N_gl20200701",
+            "value": "Tauschladen für normale Seelenmedaillen"
+        },
+        {
+            "key": "Event-Vision_UR_gl20200701",
+            "value": "Tauschladen für ultra-rare Visionsmedaillen"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200701",
+            "value": "Tauschladen für mega-rare Visionsmedaillen"
+        },
+        {
+            "key": "Event-Vision_SR_gl20200701",
+            "value": "Tauschladen für super-rare Visionsmedaillen"
+        },
+        {
+            "key": "Event-Vision_R_gl20200701",
+            "value": "Tauschladen für rare Visionsmedaillen"
+        },
+        {
+            "key": "Event-Vision_N_gl20200701",
             "value": "Tauschladen für normale Visionsmedaillen"
         },
         {
@@ -1086,6 +1390,134 @@
         },
         {
             "key": "Limited-FIRE_2020_2_18",
+            "value": "Aschenbasar"
+        },
+        {
+            "key": "Limited-WATER_2020_2_26",
+            "value": "Gezeitenbasar"
+        },
+        {
+            "key": "Limited-WIND_2020_2_27",
+            "value": "Böenbasar"
+        },
+        {
+            "key": "Limited-THUNDER_2020_2_28",
+            "value": "Schockbasar"
+        },
+        {
+            "key": "Limited-SOIL_2020_2_29",
+            "value": "Lehmbasar"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_01",
+            "value": "Schimmerbasar"
+        },
+        {
+            "key": "Limited-DARK_2020_3_01",
+            "value": "Schattenbasar"
+        },
+        {
+            "key": "Limited-ICE_2020_2_24",
+            "value": "Frostbasar"
+        },
+        {
+            "key": "Limited-FIRE_2020_2_25",
+            "value": "Aschenbasar"
+        },
+        {
+            "key": "Limited-WATER_2020_3_04",
+            "value": "Gezeitenbasar"
+        },
+        {
+            "key": "Limited-WIND_2020_3_05",
+            "value": "Böenbasar"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_06",
+            "value": "Schockbasar"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_07",
+            "value": "Lehmbasar"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_08",
+            "value": "Schimmerbasar"
+        },
+        {
+            "key": "Limited-DARK_2020_3_08",
+            "value": "Schattenbasar"
+        },
+        {
+            "key": "Limited-ICE_2020_3_02",
+            "value": "Frostbasar"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_03",
+            "value": "Aschenbasar"
+        },
+        {
+            "key": "Limited-WATER_2020_3_11",
+            "value": "Gezeitenbasar"
+        },
+        {
+            "key": "Limited-WIND_2020_3_12",
+            "value": "Böenbasar"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_13",
+            "value": "Schockbasar"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_14",
+            "value": "Lehmbasar"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_15",
+            "value": "Schimmerbasar"
+        },
+        {
+            "key": "Limited-DARK_2020_3_15",
+            "value": "Schattenbasar"
+        },
+        {
+            "key": "Limited-ICE_2020_3_09",
+            "value": "Frostbasar"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_10",
+            "value": "Aschenbasar"
+        },
+        {
+            "key": "Limited-WATER_2020_3_18",
+            "value": "Gezeitenbasar"
+        },
+        {
+            "key": "Limited-WIND_2020_3_19",
+            "value": "Böenbasar"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_20",
+            "value": "Schockbasar"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_21",
+            "value": "Lehmbasar"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_22",
+            "value": "Schimmerbasar"
+        },
+        {
+            "key": "Limited-DARK_2020_3_22",
+            "value": "Schattenbasar"
+        },
+        {
+            "key": "Limited-ICE_2020_3_16",
+            "value": "Frostbasar"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_17",
             "value": "Aschenbasar"
         }
     ]

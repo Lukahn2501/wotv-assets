@@ -621,6 +621,18 @@
             "value": "H"
         },
         {
+            "key": "MENU_SKIP",
+            "value": "Überspringen"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "Zusätzliche ★ erhalten."
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "<color=#F0C040>★ x{0}</color> erhalten, da dieser Spieler<br>keine Defensiv-Gruppe festgelegt hatte."
+        },
+        {
             "key": "RESULT_RETRY",
             "value": "Erneut aufbrechen"
         }
