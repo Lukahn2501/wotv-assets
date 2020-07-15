@@ -5,6 +5,10 @@
             "value": "ギルドミッション"
         },
         {
+            "key": "GMG_AWARD",
+            "value": "ギルド称号ミッション"
+        },
+        {
             "key": "MG_DAILY_001",
             "value": "デイリーミッション"
         },
@@ -149,16 +153,92 @@
             "value": "デイリーミッション"
         },
         {
+            "key": "MG_DAILY_008_1",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_008_2",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_008_3",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_008_4",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_008_5",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_008_6",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_009_1",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_009_2",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_009_3",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_009_4",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_009_5",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_009_6",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_010_1",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_010_2",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_010_3",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_010_4",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_010_5",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_010_6",
+            "value": "デイリーミッション"
+        },
+        {
             "key": "MG_STORY_001",
             "value": "ストーリークエスト第1部"
         },
         {
             "key": "MG_FF14_1_01",
-            "value": "Final Fantasy XIV 漆黒の反逆者"
+            "value": "FINAL FANTASY XIV 漆黒の反逆者"
         },
         {
             "key": "MG_FF14_1_02",
-            "value": "Final Fantasy XIV 漆黒の反逆者 【EX】"
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 【EX】"
+        },
+        {
+            "key": "MG_FF14_1_MU_02",
+            "value": "【マルチ】FINAL FANTASY XIV 漆黒の反逆者 【EX】"
         },
         {
             "key": "MG_EV_ART_CRF_01",
@@ -239,6 +319,14 @@
         {
             "key": "MG_MU_IFRT_01",
             "value": "【マルチ】イフリートチャレンジ"
+        },
+        {
+            "key": "MG_EV_FNRR_01",
+            "value": "フェンリルチャレンジ"
+        },
+        {
+            "key": "MG_MU_FNRR_01",
+            "value": "【マルチ】フェンリルチャレンジ"
         },
         {
             "key": "MG_EV_ART_CRF_02",
@@ -333,6 +421,18 @@
             "value": "【マルチ】ゴウガとサイガ　前編 【EX】"
         },
         {
+            "key": "MG_EV06_1_01",
+            "value": "囚われの姫君"
+        },
+        {
+            "key": "MG_EV06_1_02",
+            "value": "囚われの姫君 【EX】"
+        },
+        {
+            "key": "MG_MU_EV06_1_02",
+            "value": "【マルチ】囚われの姫君 【EX】"
+        },
+        {
             "key": "MG_EV_ART_SCR_01",
             "value": "高難度　秘伝書獲得クエスト１"
         },
@@ -347,6 +447,46 @@
         {
             "key": "MG_MU_ART_SCR_02",
             "value": "【マルチ】高難度　秘伝書獲得クエスト２"
+        },
+        {
+            "key": "MG_EV_SCR_01",
+            "value": "高難度　秘伝書獲得クエスト(剣、大剣、斧)"
+        },
+        {
+            "key": "MG_MU_SCR_01",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト(剣、大剣、斧)"
+        },
+        {
+            "key": "MG_EV_SCR_02",
+            "value": "高難度　秘伝書獲得クエスト(槍、拳、銃)"
+        },
+        {
+            "key": "MG_MU_SCR_02",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト(槍、拳、銃)"
+        },
+        {
+            "key": "MG_EV_SCR_03",
+            "value": "高難度　秘伝書獲得クエスト(防具、アクセサリ、忍刀)"
+        },
+        {
+            "key": "MG_MU_SCR_03",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト(防具、アクセサリ、忍刀)"
+        },
+        {
+            "key": "MG_EV_SCR_04",
+            "value": "高難度　秘伝書獲得クエスト(杖、刀、短剣)"
+        },
+        {
+            "key": "MG_MU_SCR_04",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト(杖、刀、短剣)"
+        },
+        {
+            "key": "MG_EV_SCR_05",
+            "value": "高難度　秘伝書獲得クエスト(メイス、弓、防具)"
+        },
+        {
+            "key": "MG_MU_SCR_05",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト(メイス、弓、防具)"
         },
         {
             "key": "MG_EV_ART_SCR_NO",
@@ -433,6 +573,14 @@
             "value": "期間限定幻導石消費ボーナス"
         },
         {
+            "key": "MG_P_LILS_01",
+            "value": "期間限定幻導石消費ボーナス"
+        },
+        {
+            "key": "MG_P_LATH",
+            "value": "期間限定幻導石消費ボーナス"
+        },
+        {
             "key": "MG_PR_001",
             "value": "幻導石消費"
         },
@@ -491,6 +639,10 @@
         {
             "key": "MG_MP_QEST_08",
             "value": "ストーリークエストパックⅧ"
+        },
+        {
+            "key": "MG_MP_QEST_09",
+            "value": "ストーリークエストパックⅨ"
         },
         {
             "key": "MG_MONDAY_001",
@@ -669,8 +821,40 @@
             "value": "【マンスリーミッション】ギルド石像"
         },
         {
+            "key": "MG_MONTHLY_007_1",
+            "value": "【マンスリーミッション】ストーリークエスト"
+        },
+        {
+            "key": "MG_MONTHLY_007_2",
+            "value": "【マンスリーミッション】ハードクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_007_3",
+            "value": "【マンスリーミッション】マルチクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_007_4",
+            "value": "【マンスリーミッション】経験の間"
+        },
+        {
+            "key": "MG_MONTHLY_007_5",
+            "value": "【マンスリーミッション】アリーナ"
+        },
+        {
+            "key": "MG_MONTHLY_007_6",
+            "value": "【マンスリーミッション】探検チョコボ"
+        },
+        {
+            "key": "MG_MONTHLY_007_7",
+            "value": "【マンスリーミッション】ギルド石像"
+        },
+        {
             "key": "MG_COMEBACK_001",
             "value": "カムバックミッション"
+        },
+        {
+            "key": "MG_PLY_AWARD_001",
+            "value": "称号"
         }
     ]
 }

@@ -321,8 +321,36 @@
             "value": "－"
         },
         {
+            "key": "UN_LW_P_LILS_01",
+            "value": "内山夕実"
+        },
+        {
+            "key": "UN_LW_P_HWLT",
+            "value": "－"
+        },
+        {
+            "key": "UN_LW_P_CHEL",
+            "value": "－"
+        },
+        {
+            "key": "UN_LW_P_LATH",
+            "value": "高垣彩陽"
+        },
+        {
+            "key": "UN_LW_P_TITU",
+            "value": "－"
+        },
+        {
             "key": "UN_LW_E_VKTR",
             "value": "豊口めぐみ"
+        },
+        {
+            "key": "UN_LW_E_MRND",
+            "value": "加隈亜衣"
+        },
+        {
+            "key": "UN_LW_E_DRIO",
+            "value": "広瀬裕也"
         },
         {
             "key": "UN_FF14_E_YSTL",

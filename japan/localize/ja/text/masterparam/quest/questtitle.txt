@@ -109,6 +109,30 @@
             "value": "【高難度】修練の間Lv.2"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "【高難度】修練の間（橘）C"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "【高難度】修練の間（橘）B"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "【高難度】修練の間（橘）A"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "【高難度】修練の間（緋）C"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "【高難度】修練の間（緋）B"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "【高難度】修練の間（緋）A"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "輝石の間（火）Lv.1"
         },
@@ -1341,6 +1365,86 @@
             "value": "白馬の王子"
         },
         {
+            "key": "QE_ST_01090301",
+            "value": "固い決意"
+        },
+        {
+            "key": "QE_ST_01090302",
+            "value": "進軍"
+        },
+        {
+            "key": "QE_ST_01090303",
+            "value": "ヴィストラール"
+        },
+        {
+            "key": "QE_ST_01090304",
+            "value": "奸計"
+        },
+        {
+            "key": "QE_ST_01090305",
+            "value": "俺たちの出番"
+        },
+        {
+            "key": "QE_ST_01090306",
+            "value": "≪息吹≫１"
+        },
+        {
+            "key": "QE_ST_01090307",
+            "value": "≪息吹≫２"
+        },
+        {
+            "key": "QE_ST_01090308",
+            "value": "緊急警告１"
+        },
+        {
+            "key": "QE_ST_01090309",
+            "value": "緊急警告２"
+        },
+        {
+            "key": "QE_ST_01090310",
+            "value": "どんな手段を用いても"
+        },
+        {
+            "key": "QE_ST_01100101",
+            "value": "クリスタル"
+        },
+        {
+            "key": "QE_ST_01100102",
+            "value": "裏をかく"
+        },
+        {
+            "key": "QE_ST_01100103",
+            "value": "逃げるなッ！"
+        },
+        {
+            "key": "QE_ST_01100104",
+            "value": "≪紅蓮≫壊滅１"
+        },
+        {
+            "key": "QE_ST_01100105",
+            "value": "≪紅蓮≫壊滅２"
+        },
+        {
+            "key": "QE_ST_01100106",
+            "value": "死にたい"
+        },
+        {
+            "key": "QE_ST_01100107",
+            "value": "暗雲"
+        },
+        {
+            "key": "QE_ST_01100108",
+            "value": "リオニス城を目指して１"
+        },
+        {
+            "key": "QE_ST_01100109",
+            "value": "リオニス城を目指して２"
+        },
+        {
+            "key": "QE_ST_01100110",
+            "value": "敵ではない"
+        },
+        {
             "key": "QE_HA_LW_MONT",
             "value": "欠片獲得 モント・リオニス"
         },
@@ -1605,6 +1709,22 @@
             "value": "欠片獲得 マリアル"
         },
         {
+            "key": "QE_HA_LW_HWLT",
+            "value": "欠片獲得 ハウレット"
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "欠片獲得 チェル"
+        },
+        {
+            "key": "QE_HA_LW_LATH",
+            "value": "欠片獲得 ルアーサ"
+        },
+        {
+            "key": "QE_HA_LW_TITU",
+            "value": "欠片獲得 タイタス"
+        },
+        {
             "key": "QE_CH_LW_MONT",
             "value": "モント・リオニス"
         },
@@ -1763,6 +1883,10 @@
         {
             "key": "QE_CH_FF14_TNCR",
             "value": "サンクレッド"
+        },
+        {
+            "key": "QE_CH_FF14_TNCR2",
+            "value": "サンクレッド（２）"
         },
         {
             "key": "QE_CH_LW_MACR",
@@ -1925,6 +2049,58 @@
             "value": "マリアル"
         },
         {
+            "key": "QE_CH_LW_LILS_01",
+            "value": "リリシュ（水着）"
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "ハウレット"
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
+            "value": "チェル"
+        },
+        {
+            "key": "QE_CH_LW_LATH",
+            "value": "ルアーサ"
+        },
+        {
+            "key": "QE_CH_LW_TITU",
+            "value": "タイタス"
+        },
+        {
+            "key": "QE_EV_1100DL_FIR",
+            "value": "1100万DL記念クエスト（火）"
+        },
+        {
+            "key": "QE_EV_1100DL_ICE",
+            "value": "1100万DL記念クエスト（氷）"
+        },
+        {
+            "key": "QE_EV_1100DL_WIN",
+            "value": "1100万DL記念クエスト（風）"
+        },
+        {
+            "key": "QE_EV_1100DL_EAR",
+            "value": "1100万DL記念クエスト（土）"
+        },
+        {
+            "key": "QE_EV_1100DL_THU",
+            "value": "1100万DL記念クエスト（雷）"
+        },
+        {
+            "key": "QE_EV_1100DL_WTR",
+            "value": "1100万DL記念クエスト（水）"
+        },
+        {
+            "key": "QE_EV_1100DL_SHI",
+            "value": "1100万DL記念クエスト（光）"
+        },
+        {
+            "key": "QE_EV_1100DL_DAR",
+            "value": "1100万DL記念クエスト（闇）"
+        },
+        {
             "key": "QE_EV_CDOWN_01_1",
             "value": "カウントダウンクエスト"
         },
@@ -2035,6 +2211,18 @@
         {
             "key": "QE_EV_SCAL_01",
             "value": "限定ハードクエスト（スカール）"
+        },
+        {
+            "key": "QE_EV_LILS_01",
+            "value": "限定ハードクエスト（リリシュ（水着））"
+        },
+        {
+            "key": "QE_EV_HWLT_01",
+            "value": "限定ハードクエスト（ハウレット）"
+        },
+        {
+            "key": "QE_EV_LATH_01",
+            "value": "限定ハードクエスト（ルアーサ）"
         },
         {
             "key": "QE_PT_001_01",
@@ -2197,6 +2385,66 @@
             "value": "【第2弾】FINAL FANTASY TACTICS 【EX】"
         },
         {
+            "key": "QE_EV_FF14_01",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 Battle#1"
+        },
+        {
+            "key": "QE_EV_FF14_02",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 Battle#2"
+        },
+        {
+            "key": "QE_EV_FF14_03",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 Battle#3"
+        },
+        {
+            "key": "QE_EV_FF14_04",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 Battle#4"
+        },
+        {
+            "key": "QE_EV_FF14_05",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 Battle#5"
+        },
+        {
+            "key": "QE_EV_FF14_RD01",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 【討伐】 Lv.1"
+        },
+        {
+            "key": "QE_EV_FF14_EX1",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 【EX1】"
+        },
+        {
+            "key": "QE_EV_FF14_Ex2",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 【EX2】"
+        },
+        {
+            "key": "QE_EV_FF14_RD02",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 【討伐】 Lv.10"
+        },
+        {
+            "key": "QE_EV_FF14_Ex3",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 【EX3】"
+        },
+        {
+            "key": "QE_RAID_FF14_1",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 Raid#1"
+        },
+        {
+            "key": "QE_RAID_FF14_2",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 Raid#2"
+        },
+        {
+            "key": "QE_RAID_FF14_3",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 Raid#3"
+        },
+        {
+            "key": "QE_RAID_FF14_4",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 Raid#4"
+        },
+        {
+            "key": "QE_RAID_FF14_5",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 Raid#5"
+        },
+        {
             "key": "QE_EV_ART_CRF_07",
             "value": "武具育成クエスト（プラチナメイス）"
         },
@@ -2219,6 +2467,50 @@
         {
             "key": "QE_EV_JP_001",
             "value": "JP獲得クエスト"
+        },
+        {
+            "key": "QE_EV_06_01",
+            "value": "1話 騎士の務め１"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "2話 騎士の務め２"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "3話 当てのない旅"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "4話 夜まで待とう"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "5話 潜入１"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "6話 潜入２"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "7話 地下牢"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "8話 脱出１"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "9話 脱出２"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "10話 世界一のお兄ちゃん"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "囚われの姫君  【EX】"
         },
         {
             "key": "QE_EV_05_01",
@@ -2269,6 +2561,14 @@
             "value": "ゴウガとサイガ　前編 【EX2】"
         },
         {
+            "key": "QE_SB_FNRR_02",
+            "value": "高難度 フェンリルチャレンジ"
+        },
+        {
+            "key": "QE_SB_FNRR_03",
+            "value": "超高難度 フェンリルチャレンジ"
+        },
+        {
             "key": "QE_SB_IFRT_02",
             "value": "高難度 イフリートチャレンジ"
         },
@@ -2311,6 +2611,18 @@
         {
             "key": "QE_CHAL_01_03",
             "value": "【超高難度】チャレンジクエスト#2"
+        },
+        {
+            "key": "QE_CHAL_02_01",
+            "value": "【高難度】チャレンジクエスト2"
+        },
+        {
+            "key": "QE_CHAL_02_02",
+            "value": "【超高難度】チャレンジクエスト2#1"
+        },
+        {
+            "key": "QE_CHAL_02_03",
+            "value": "【超高難度】チャレンジクエスト2#2"
         },
         {
             "key": "QE_EV_ARENA_01_1",
@@ -2521,62 +2833,6 @@
             "value": "東方遥かなり 【EX2】"
         },
         {
-            "key": "QE_EV_FF14_01",
-            "value": "Final Fantasy XIV 漆黒の反逆者 Battle#1"
-        },
-        {
-            "key": "QE_EV_FF14_02",
-            "value": "Final Fantasy XIV 漆黒の反逆者 Battle#2"
-        },
-        {
-            "key": "QE_EV_FF14_03",
-            "value": "Final Fantasy XIV 漆黒の反逆者 Battle#3"
-        },
-        {
-            "key": "QE_EV_FF14_04",
-            "value": "Final Fantasy XIV 漆黒の反逆者 Battle#4"
-        },
-        {
-            "key": "QE_EV_FF14_05",
-            "value": "Final Fantasy XIV 漆黒の反逆者 Battle#5"
-        },
-        {
-            "key": "QE_EV_FF14_RD01",
-            "value": "Final Fantasy XIV 漆黒の反逆者 【討伐】 Lv.1"
-        },
-        {
-            "key": "QE_EV_FF14_EX1",
-            "value": "Final Fantasy XIV 漆黒の反逆者 【EX1】"
-        },
-        {
-            "key": "QE_EV_FF14_Ex2",
-            "value": "Final Fantasy XIV 漆黒の反逆者 【EX2】"
-        },
-        {
-            "key": "QE_EV_FF14_RD02",
-            "value": "Final Fantasy XIV 漆黒の反逆者 【討伐】 Lv.10"
-        },
-        {
-            "key": "QE_RAID_FF14_1",
-            "value": "Final Fantasy XIV 漆黒の反逆者 Raid#1"
-        },
-        {
-            "key": "QE_RAID_FF14_2",
-            "value": "Final Fantasy XIV 漆黒の反逆者 Raid#2"
-        },
-        {
-            "key": "QE_RAID_FF14_3",
-            "value": "Final Fantasy XIV 漆黒の反逆者 Raid#3"
-        },
-        {
-            "key": "QE_RAID_FF14_4",
-            "value": "Final Fantasy XIV 漆黒の反逆者 Raid#4"
-        },
-        {
-            "key": "QE_RAID_FF14_5",
-            "value": "Final Fantasy XIV 漆黒の反逆者 Raid#5"
-        },
-        {
             "key": "QE_RAID_EV_06_01",
             "value": "バレンタインレイド"
         },
@@ -2667,6 +2923,18 @@
         {
             "key": "QE_RAID_EV_10_06",
             "value": "トンベリ討伐レイド"
+        },
+        {
+            "key": "QE_RAID_EV_11_01",
+            "value": "FF XIV：漆黒のヴィランズコラボ記念レイド"
+        },
+        {
+            "key": "QE_RAID_EV_11_02",
+            "value": "FF XIV：漆黒のヴィランズコラボ記念レイド"
+        },
+        {
+            "key": "QE_RAID_EV_11_03",
+            "value": "FF XIV：漆黒のヴィランズコラボ記念レイド"
         },
         {
             "key": "QE_EV_ETRE_01",
@@ -2905,6 +3173,10 @@
             "value": "タイタン戦"
         },
         {
+            "key": "QE_SB_AGON_01",
+            "value": "アイガイオン戦"
+        },
+        {
             "key": "QE_SB_MABR_01",
             "value": "モルボル戦"
         },
@@ -2929,6 +3201,10 @@
             "value": "マインドフレイア戦"
         },
         {
+            "key": "QE_SB_BLMN_01",
+            "value": "ブラッディムーン戦"
+        },
+        {
             "key": "QE_MU_EV_FF1_EX",
             "value": "FINAL FANTASY I 【EX】"
         },
@@ -2939,6 +3215,10 @@
         {
             "key": "QE_MU_FFT_EX_02",
             "value": "【第2弾】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "QE_MU_FF14_Ex3",
+            "value": "FINAL FANTASY XIV 漆黒の反逆者 【EX3】"
         },
         {
             "key": "QE_MU_ART_CRF_07",
@@ -2967,6 +3247,14 @@
         {
             "key": "QE_MU_EV_05_EX2",
             "value": "ゴウガとサイガ　前編 【EX2】"
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "囚われの姫君 【EX】"
+        },
+        {
+            "key": "QE_MU_FNRR_04",
+            "value": "超高難度 フェンリルチャレンジ"
         },
         {
             "key": "QE_MU_IFRT_04",
@@ -3185,6 +3473,30 @@
             "value": "【高難度】修練の間Lv.2"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "【高難度】修練の間（橘）C"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "【高難度】修練の間（橘）B"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "【高難度】修練の間（橘）A"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "【高難度】修練の間（緋）C"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "【高難度】修練の間（緋）B"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "【高難度】修練の間（緋）A"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "初心者クエスト01"
         },
@@ -3281,6 +3593,18 @@
             "value": "ギルドバトル模擬戦（上級）"
         },
         {
+            "key": "QE_EV_NMAP_005_1",
+            "value": "ギルドバトル模擬戦（初級）"
+        },
+        {
+            "key": "QE_EV_NMAP_005_2",
+            "value": "ギルドバトル模擬戦（中級）"
+        },
+        {
+            "key": "QE_EV_NMAP_005_3",
+            "value": "ギルドバトル模擬戦（上級）"
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": "闘技場"
         },
@@ -3309,6 +3633,10 @@
             "value": "地下遺跡"
         },
         {
+            "key": "QE_ARENA_00008",
+            "value": "雪山"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "闘技場"
         },
@@ -3333,6 +3661,10 @@
             "value": "平原"
         },
         {
+            "key": "QE_GVG_00007",
+            "value": "海岸"
+        },
+        {
             "key": "QE_PVP_FRE_0001",
             "value": "平原"
         },
@@ -3343,6 +3675,18 @@
         {
             "key": "QE_PVP_FRE_0003",
             "value": "遺跡"
+        },
+        {
+            "key": "QE_PVP_FRE_0004",
+            "value": "城内"
+        },
+        {
+            "key": "QE_PVP_FRI_0009",
+            "value": "雪山"
+        },
+        {
+            "key": "QE_PVP_FRI_0010",
+            "value": "城内"
         },
         {
             "key": "QE_PVP_FRI_0001",
@@ -3383,6 +3727,10 @@
         {
             "key": "QE_PVP_RANK_0002",
             "value": "遺跡"
+        },
+        {
+            "key": "QE_PVP_RANK_0003",
+            "value": "城内"
         },
         {
             "key": "QE_TEST_FOR",

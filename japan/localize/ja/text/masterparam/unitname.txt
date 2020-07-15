@@ -321,6 +321,26 @@
             "value": "マリアル"
         },
         {
+            "key": "UN_LW_P_LILS_01",
+            "value": "リリシュ（水着）"
+        },
+        {
+            "key": "UN_LW_P_HWLT",
+            "value": "ハウレット"
+        },
+        {
+            "key": "UN_LW_P_CHEL",
+            "value": "チェル"
+        },
+        {
+            "key": "UN_LW_P_LATH",
+            "value": "ルアーサ"
+        },
+        {
+            "key": "UN_LW_P_TITU",
+            "value": "タイタス"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "モント・リオニス"
         },
@@ -418,6 +438,10 @@
         },
         {
             "key": "UN_LW_E_STRN_01",
+            "value": "シュテル（破滅の騎士）"
+        },
+        {
+            "key": "UN_LW_E_STRN_01_TO",
             "value": "シュテル（破滅の騎士）"
         },
         {
@@ -525,6 +549,30 @@
             "value": "ロレイラ"
         },
         {
+            "key": "UN_LW_E_GLMS",
+            "value": "ギルガメッシュ"
+        },
+        {
+            "key": "UN_LW_E_BYLO",
+            "value": "ベイロ"
+        },
+        {
+            "key": "UN_LW_E_RYER",
+            "value": "リレルリラ"
+        },
+        {
+            "key": "UN_LW_E_MURM",
+            "value": "≪呟き≫"
+        },
+        {
+            "key": "UN_LW_E_MRND",
+            "value": "ミランダ"
+        },
+        {
+            "key": "UN_LW_E_DRIO",
+            "value": "ダリオ・ホルン"
+        },
+        {
             "key": "UN_LW_E_TH_00",
             "value": "賊00"
         },
@@ -553,7 +601,15 @@
             "value": "賊"
         },
         {
+            "key": "UN_LW_E_TH_00_HUN_RA",
+            "value": "賊"
+        },
+        {
             "key": "UN_LW_E_TH_00_GUN",
+            "value": "賊"
+        },
+        {
+            "key": "UN_LW_E_TH_00_WGN",
             "value": "賊"
         },
         {
@@ -829,6 +885,10 @@
             "value": "フェネスのシノビ"
         },
         {
+            "key": "UN_LW_E_00_NIN_HUN",
+            "value": "フェネスのシノビ"
+        },
+        {
             "key": "UN_LW_E_03_NIN",
             "value": "ゴウガのシノビ"
         },
@@ -1065,6 +1125,26 @@
             "value": "≪紅蓮≫兵"
         },
         {
+            "key": "UN_LW_E_PR_02_TIM_EX",
+            "value": "僧兵"
+        },
+        {
+            "key": "UN_LW_E_TH_00_HUN_EX",
+            "value": "賊"
+        },
+        {
+            "key": "UN_LW_E_00_NIN_EX",
+            "value": "シノビ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_PLD_EX",
+            "value": "リオニス兵"
+        },
+        {
+            "key": "UN_LW_E_KTON_EX",
+            "value": "キトン"
+        },
+        {
             "key": "UN_LW_E_OGRE",
             "value": "オーガ"
         },
@@ -1177,6 +1257,10 @@
             "value": "ライトニングエレメンタル"
         },
         {
+            "key": "UN_LW_E_ELEM_03_RA",
+            "value": "ライトニングエレメンタル"
+        },
+        {
             "key": "UN_LW_E_ELEM_04",
             "value": "アイスエレメンタル"
         },
@@ -1241,6 +1325,10 @@
             "value": "イフリート"
         },
         {
+            "key": "UN_LW_E_FNRR_QE",
+            "value": "フェンリル"
+        },
+        {
             "key": "UN_LW_E_TH_RDM_RAID",
             "value": "賊"
         },
@@ -1250,6 +1338,10 @@
         },
         {
             "key": "UN_LW_E_FF14BOSS",
+            "value": "フォーギヴン・ディソナンス"
+        },
+        {
+            "key": "UN_LW_E_FF14_RAID_01",
             "value": "フォーギヴン・ディソナンス"
         },
         {
@@ -1405,6 +1497,10 @@
             "value": "タイタン"
         },
         {
+            "key": "UN_LW_E_AGON",
+            "value": "アイガイオン"
+        },
+        {
             "key": "UN_FFT_E_CHCB",
             "value": "チョコボ"
         },
@@ -1485,6 +1581,10 @@
             "value": "マインドフレイア"
         },
         {
+            "key": "UN_LW_E_BLMN_SIREN",
+            "value": "ブラッディムーン"
+        },
+        {
             "key": "UN_LW_E_THDG_SIREN",
             "value": "２ヘッドドラゴン"
         },
@@ -1503,6 +1603,10 @@
         {
             "key": "UN_LW_E_TITN_SIREN",
             "value": "タイタン"
+        },
+        {
+            "key": "UN_LW_E_AGON_SIREN",
+            "value": "アイガイオン"
         },
         {
             "key": "UN_LW_E_ENBT",
@@ -1591,6 +1695,18 @@
         {
             "key": "UN_LW_E_LSWL_MOGI",
             "value": "ラスウェル"
+        },
+        {
+            "key": "UN_LW_E_RRIR_MOGI",
+            "value": "ロレイラ"
+        },
+        {
+            "key": "UN_LW_E_LILS_01_MOGI",
+            "value": "リリシュ（水着）"
+        },
+        {
+            "key": "UN_LW_E_HWLT_MOGI",
+            "value": "ハウレット"
         },
         {
             "key": "UN_LW_TU_MONT",
@@ -1929,6 +2045,18 @@
             "value": "タイタン"
         },
         {
+            "key": "UN_LW_S_AGON",
+            "value": "アイガイオン"
+        },
+        {
+            "key": "UN_LW_S_AGON_AW1",
+            "value": "アイガイオン"
+        },
+        {
+            "key": "UN_LW_S_AGON_AW2",
+            "value": "アイガイオン"
+        },
+        {
             "key": "UN_LW_S_IGNT",
             "value": "鉄巨人"
         },
@@ -2025,6 +2153,18 @@
             "value": "マインドフレイア"
         },
         {
+            "key": "UN_LW_S_BLMN",
+            "value": "ブラッディムーン"
+        },
+        {
+            "key": "UN_LW_S_BLMN_AW1",
+            "value": "ブラッディムーン"
+        },
+        {
+            "key": "UN_LW_S_BLMN_AW2",
+            "value": "ブラッディムーン"
+        },
+        {
             "key": "UN_LW_S_CACT",
             "value": "サボテンダー"
         },
@@ -2097,6 +2237,18 @@
             "value": "クリスタル"
         },
         {
+            "key": "UN_GM_CRYSTAL_02",
+            "value": "クリスタル"
+        },
+        {
+            "key": "UN_GM_CRYSTAL_03",
+            "value": "クリスタル"
+        },
+        {
+            "key": "UN_GM_CRYSTAL_04",
+            "value": "クリスタル"
+        },
+        {
             "key": "UN_GM_SWITCH",
             "value": "スイッチ(赤)"
         },
@@ -2141,6 +2293,10 @@
             "value": "投石器"
         },
         {
+            "key": "UN_GM_CANN",
+            "value": "ランダル大砲"
+        },
+        {
             "key": "UN_GM_PLACED",
             "value": "床の罠（針）"
         },
@@ -2159,6 +2315,10 @@
         {
             "key": "UN_GM_PLACED_BASH",
             "value": "馬車"
+        },
+        {
+            "key": "UN_GM_KENZAN_01",
+            "value": "ダメージゾーン"
         }
     ]
 }

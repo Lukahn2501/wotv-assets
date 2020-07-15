@@ -193,6 +193,30 @@
             "value": "エクスカリバー"
         },
         {
+            "key": "AF_LW_SWO_023",
+            "value": "ローエングリン"
+        },
+        {
+            "key": "AF_LW_SWO_023_1",
+            "value": "ローエングリン+1"
+        },
+        {
+            "key": "AF_LW_SWO_023_2",
+            "value": "ローエングリン+2"
+        },
+        {
+            "key": "AF_LW_SWO_023_3",
+            "value": "ローエングリン+3"
+        },
+        {
+            "key": "AF_LW_SWO_023_4",
+            "value": "ローエングリン+4"
+        },
+        {
+            "key": "AF_LW_SWO_023_5",
+            "value": "ローエングリン+5"
+        },
+        {
             "key": "AF_SWO_FF14_TNCT",
             "value": "ライオンハート・イミテイト"
         },
@@ -1537,6 +1561,30 @@
             "value": "賢者の帽子+5"
         },
         {
+            "key": "AF_LW_HAT_005",
+            "value": "ウルフマスク"
+        },
+        {
+            "key": "AF_LW_HAT_005_1",
+            "value": "ウルフマスク+1"
+        },
+        {
+            "key": "AF_LW_HAT_005_2",
+            "value": "ウルフマスク+2"
+        },
+        {
+            "key": "AF_LW_HAT_005_3",
+            "value": "ウルフマスク+3"
+        },
+        {
+            "key": "AF_LW_HAT_005_4",
+            "value": "ウルフマスク+4"
+        },
+        {
+            "key": "AF_LW_HAT_005_5",
+            "value": "ウルフマスク+5"
+        },
+        {
             "key": "AF_LW_CLT_001",
             "value": "皮の服"
         },
@@ -1823,6 +1871,58 @@
         {
             "key": "AF_LW_ACC_001_5",
             "value": "リボン+5"
+        },
+        {
+            "key": "AF_LW_RNG_007",
+            "value": "水業の指輪"
+        },
+        {
+            "key": "AF_FF14_ARW_001",
+            "value": "ベイルガントレット"
+        },
+        {
+            "key": "AF_FF14_ARW_001_1",
+            "value": "ベイルガントレット+1"
+        },
+        {
+            "key": "AF_FF14_ARW_001_2",
+            "value": "ベイルガントレット+2"
+        },
+        {
+            "key": "AF_FF14_ARW_001_3",
+            "value": "ベイルガントレット+3"
+        },
+        {
+            "key": "AF_FF14_ARW_001_4",
+            "value": "ベイルガントレット+4"
+        },
+        {
+            "key": "AF_FF14_ARW_001_5",
+            "value": "ベイルガントレット+5"
+        },
+        {
+            "key": "AF_FF14_HLM_001",
+            "value": "ベイルバーゴネット"
+        },
+        {
+            "key": "AF_FF14_HLM_001_1",
+            "value": "ベイルバーゴネット+1"
+        },
+        {
+            "key": "AF_FF14_HLM_001_2",
+            "value": "ベイルバーゴネット+2"
+        },
+        {
+            "key": "AF_FF14_HLM_001_3",
+            "value": "ベイルバーゴネット+3"
+        },
+        {
+            "key": "AF_FF14_HLM_001_4",
+            "value": "ベイルバーゴネット+4"
+        },
+        {
+            "key": "AF_FF14_HLM_001_5",
+            "value": "ベイルバーゴネット+5"
         },
         {
             "key": "AF_LW_ACC_002",
@@ -2145,6 +2245,26 @@
             "value": "飛舞蜘蛛"
         },
         {
+            "key": "AF_CLT_LW_HWLT_1",
+            "value": "ソウェイルコート"
+        },
+        {
+            "key": "AF_ACC_LW_LILS_01_1",
+            "value": "リリシュの黒眼鏡"
+        },
+        {
+            "key": "AF_ROD_LW_CHEL_1",
+            "value": "イングズステッキ"
+        },
+        {
+            "key": "AF_GUN_LW_LATH_2",
+            "value": "アケーディアガン"
+        },
+        {
+            "key": "AF_SWO_LW_TITU_1",
+            "value": "ソードオブエイワズ"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "リオンズソード"
         },
@@ -2291,6 +2411,18 @@
         {
             "key": "AF_ROD_LW_SCAL_2",
             "value": "妖蜂杖"
+        },
+        {
+            "key": "AF_SWO_LW_HWLT_2",
+            "value": "ソードオブライゾ"
+        },
+        {
+            "key": "AF_BOW_LW_LILS_01_2",
+            "value": "朱夏嵐"
+        },
+        {
+            "key": "AF_LW_SHI_004",
+            "value": "タイタス盾"
         }
     ]
 }

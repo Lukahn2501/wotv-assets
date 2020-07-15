@@ -111,6 +111,22 @@
         {
             "key": "28",
             "value": "<line-height=15><cspace=1>ミニアムポット<cspace=-0.5><br>1日1回無料！"
+        },
+        {
+            "key": "29",
+            "value": "<line-height=15><cspace=1>グロウエッグSR<cspace=-0.5><br>1日1回無料！"
+        },
+        {
+            "key": "30",
+            "value": "<line-height=15><cspace=1>日替わり！<cspace=-0.5><br>サマーショップ！"
+        },
+        {
+            "key": "31",
+            "value": "<line-height=15><cspace=1>レイド応援<cspace=-0.5><br>ショップ！"
+        },
+        {
+            "key": "32",
+            "value": "<line-height=15><cspace=1>高難度クエスト<cspace=-0.5><br>応援ショップ"
         }
     ]
 }

@@ -313,6 +313,10 @@
             "value": "性別指定ダメージ"
         },
         {
+            "key": "BUFF_CondPetrifiedStare",
+            "value": "石化にらみ"
+        },
+        {
             "key": "BUFF_CondEnchant",
             "value": "エンチャント"
         },
@@ -671,6 +675,10 @@
         {
             "key": "BUFF_OtherNegDarkIgnore",
             "value": "－闇属性耐性無視"
+        },
+        {
+            "key": "BUFF_OtherHealPow",
+            "value": "治癒力"
         },
         {
             "key": "BUFF_UnitTagFloating",
@@ -1167,6 +1175,18 @@
         {
             "key": "BUFF_KillerSexDamageUnknown",
             "value": "性別不明固定ダメージ"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget1",
+            "value": "物魔"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget2",
+            "value": "物理"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget3",
+            "value": "魔法"
         },
         {
             "key": "BUFF_ExeShield1",

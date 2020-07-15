@@ -509,6 +509,10 @@
             "value": "Auto:"
         },
         {
+            "key": "ABILITY_CUT",
+            "value": "演出"
+        },
+        {
             "key": "FORMAT_ARG",
             "value": "{0}"
         },
@@ -645,6 +649,10 @@
             "value": "最終プレイ"
         },
         {
+            "key": "VALUE_LOGIN_PLAY",
+            "value": "最新ログイン"
+        },
+        {
             "key": "VALUE_MORE",
             "value": "{0}以上"
         },
@@ -723,6 +731,10 @@
         {
             "key": "NEED_GIL",
             "value": "必要ギル"
+        },
+        {
+            "key": "NEED_JP",
+            "value": "必要JP"
         },
         {
             "key": "GET_GIL",
@@ -839,10 +851,6 @@
         {
             "key": "BUY_LAPIS",
             "value": "幻導石購入"
-        },
-        {
-            "key": "POWER_SAVE",
-            "value": "クリスタルに触れて節電モード解除"
         },
         {
             "key": "ACT_SPECIFIED_COMMERCIAL_TRANSACTIONS",
@@ -1501,6 +1509,10 @@
             "value": "報酬なし"
         },
         {
+            "key": "CAUTION_NOT_ENHANCE_ABILITY",
+            "value": "強化できるアビリティがありません"
+        },
+        {
             "key": "ERROR_CONNECT_TITLE",
             "value": "通信が切断されました"
         },
@@ -1843,6 +1855,10 @@
         {
             "key": "ABILITY_STATUS_DETAIL_ON",
             "value": "詳細設定:ON"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL_CAUTION",
+            "value": "<line-height=36>武具アビリティ、召喚魔法は<br>編成の装備単位のON/OFFとなります"
         },
         {
             "key": "ABILITY_CAPTION_LEADER",
@@ -3213,6 +3229,42 @@
             "value": "挑戦回数をリセットしました。<br>本日あと{0}回出撃可能です。"
         },
         {
+            "key": "EVENT_RESET_CHECK_TITLE",
+            "value": "挑戦回数の追加"
+        },
+        {
+            "key": "EVENT_RESET_CHECK_DESC",
+            "value": "<line-height=34><color=#FFF080>幻導石を{0}個</color>消費して<br><color=#FFF080>挑戦回数を{1}回追加</color>しますか？"
+        },
+        {
+            "key": "EVENT_RESET_CHECK_LIMIT",
+            "value": "(本日の追加可能回数{0}/{1})"
+        },
+        {
+            "key": "EVENT_RESET_CHECK_APPEAL",
+            "value": "<line-height=34><color=#FFF080>RoyalRank {0}</color>で更に追加を<br><color=#FFF080>1回行えるように</color>なります。"
+        },
+        {
+            "key": "EVENT_RESET_CHECK_OVER_DESC",
+            "value": "該当クエストの本日追加可能回数が<br>上限に達しています。"
+        },
+        {
+            "key": "EVENT_RESET_CHECK_OVER_CONDITION",
+            "value": "<color=#FFF080>RoyalRank {0}</color>に到達すると<br><color=#FFF080>1日{1}回まで追加可能</color>になります。"
+        },
+        {
+            "key": "EVENT_RESET_CHECK_OVER",
+            "value": "1日の追加上限を超えています。"
+        },
+        {
+            "key": "EVENT_RESET_FINISH_TITLE",
+            "value": "挑戦回数の追加"
+        },
+        {
+            "key": "EVENT_RESET_FINISH_DESC",
+            "value": "挑戦回数を{0}回追加しました。"
+        },
+        {
             "key": "GUILD_BATTLE_RANK_UP_DESC",
             "value": "ギルドリーグが{0}に昇格しました。"
         },
@@ -3495,6 +3547,10 @@
         {
             "key": "RAID_ENCOUNT_LIMIT",
             "value": "残り時間"
+        },
+        {
+            "key": "RAID_ENCOUNT_STOCK",
+            "value": "回目の遭遇！"
         },
         {
             "key": "RAID_BOSS_TYPE_NORMAL",
@@ -4517,6 +4573,10 @@
             "value": "親密度"
         },
         {
+            "key": "UNIT_DETAIL_INTIMACY_SYNCHRO",
+            "value": "親密度/共鳴度"
+        },
+        {
             "key": "UNIT_DETAIL_STATUS_DETAIL",
             "value": "ステータス詳細"
         },
@@ -4711,6 +4771,122 @@
         {
             "key": "QRCODE_TAKE_DESC_IN_HOME",
             "value": "シリアルコードを取り込みました。<br>ホームに戻ります。"
+        },
+        {
+            "key": "POWER_SAVE_DESC",
+            "value": "クリスタルに触れて節電モード解除"
+        },
+        {
+            "key": "POWER_SAVE_AUTO",
+            "value": "Auto周回中です"
+        },
+        {
+            "key": "POWER_SAVE_AUTOEND",
+            "value": "Auto周回が完了しました"
+        },
+        {
+            "key": "POWER_SAVE_AUTOSTOP",
+            "value": "Auto周回が停止しています"
+        },
+        {
+            "key": "POWER_SAVE_ITEM",
+            "value": "{0}獲得：{1}/{2}個"
+        },
+        {
+            "key": "POWER_SAVE_STACK",
+            "value": "遭遇スタック×"
+        },
+        {
+            "key": "POWER_SAVE_NOW",
+            "value": "現在"
+        },
+        {
+            "key": "POWER_SAVE_ROUND",
+            "value": "{1}/{2}周"
+        },
+        {
+            "key": "POWER_SAVE_RAIDBOSS",
+            "value": "レイドボス"
+        },
+        {
+            "key": "POWER_SAVE_RARE_RAIDBOSS",
+            "value": "レアレイドボス"
+        },
+        {
+            "key": "JPBOOST_TITLE",
+            "value": "JP獲得UPアイテムを使用するユニットを選んでください"
+        },
+        {
+            "key": "JPBOOST_USE",
+            "value": "本日の使用回数"
+        },
+        {
+            "key": "JPBOOST_SORTIE",
+            "value": "決定して出撃"
+        },
+        {
+            "key": "JPBOOST_UPPER_LIMIT_TITLE",
+            "value": "使用回数上限"
+        },
+        {
+            "key": "JPBOOST_UPPER_LIMIT_DESC",
+            "value": "本日の使用回数上限に達しています。<br>アイテムは使用されません。<br><br>AM5時に使用回数がリセットされます。"
+        },
+        {
+            "key": "JPBOOST_UPPER_LIMIT_YES",
+            "value": "出撃"
+        },
+        {
+            "key": "JPBOOST_UPPER_LIMIT_NO",
+            "value": "キャンセル"
+        },
+        {
+            "key": "JPBOOST_OVER_LIMIT_TITLE",
+            "value": "使用回数上限"
+        },
+        {
+            "key": "JPBOOST_OVER_LIMIT_DESC",
+            "value": "本日の使用回数上限を越えています。<br>上限を超えたアイテムは使用されません。"
+        },
+        {
+            "key": "JPBOOST_OVER_LIMIT_YES",
+            "value": "出撃"
+        },
+        {
+            "key": "JPBOOST_OVER_LIMIT_NO",
+            "value": "キャンセル"
+        },
+        {
+            "key": "JPBOOST_RESETLAPIS_TITLE",
+            "value": "使用回数のリセット"
+        },
+        {
+            "key": "JPBOOST_RESETLAPIS_DESC",
+            "value": "<color=#FFF080>幻導石{0}個</color>を消費して<br><color=#FFF080>使用"
+        },
+        {
+            "key": "JPBOOST_RESETLAPIS_RANK",
+            "value": "RoyalRank {0}でリセットを更に{1}回<br>行えるようになります。"
+        },
+        {
+            "key": "JPBOOST_RESET_DESC",
+            "value": "本日のリセット回数が<br>上限に達しています。"
+        },
+        {
+            "key": "JPBOOST_RESET_COMPLETE",
+            "value": "使用回数をリセットしました。"
+        },
+        {
+            "key": "JPBOOST_AUTOITEM_VALUE_ADD",
+            "value": "{0}"
+        },
+        {
+            "key": "JPBOOST_AUTOITEM_VALUE_MUL",
+            "value": "{0}%"
+        },
+        {
+            "key": "JPBOOST_AUTOITEM_AMOUNT",
+            "value": " UP"
         }
     ]
 }

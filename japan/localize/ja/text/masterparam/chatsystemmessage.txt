@@ -98,15 +98,19 @@
         },
         {
             "key": "25",
-            "value": "<color=#00F0FF>${fromName}</color>が<color=#00F0FF>${toName}</color>を${actionIname}しました"
+            "value": "<color=#00F0FF>${fromName}</color>が<color=#00F0FF>${toName}</color>に${actionIname}をしました"
         },
         {
             "key": "26",
-            "value": "<color=#00F0FF>${fromName}</color>が<color=#E03030>${toName}</color>を${actionIname}しました"
+            "value": "<color=#00F0FF>${fromName}</color>が<color=#E03030>${toName}</color>に${actionIname}をしました"
         },
         {
             "key": "27",
             "value": "期間限定ギルドバトル ${period}で、${rank}位になりました"
+        },
+        {
+            "key": "28",
+            "value": "新しいギルド称号を獲得しました"
         }
     ]
 }

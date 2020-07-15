@@ -126,7 +126,7 @@
         },
         {
             "key": "DU_LW_SO_01",
-            "value": "ホルン兵,ホルン兵A,ホルン兵B,ホルン兵C,ホルン兵D,ホルン兵E,ホルン兵F,ホルン兵G"
+            "value": "ホルン兵,ホルン兵A,ホルン兵B,ホルン兵C,ホルン兵D,ホルン兵E,ホルン兵F,ホルン兵G,伝令"
         },
         {
             "key": "DU_LW_LYCS",
@@ -229,8 +229,40 @@
             "value": "チェル"
         },
         {
+            "key": "DU_LW_GABL",
+            "value": "ガーブル"
+        },
+        {
+            "key": "DU_LW_GLZK",
+            "value": "ガルザーク"
+        },
+        {
+            "key": "DU_LW_VERN",
+            "value": "ヴェルヌ"
+        },
+        {
+            "key": "DU_LW_SL02",
+            "value": "奴隷（ガーブル）,ガーブル"
+        },
+        {
+            "key": "DU_LW_SL03",
+            "value": "奴隷（ヴェルヌ）,ヴェルヌ"
+        },
+        {
+            "key": "DU_LW_PR01",
+            "value": "僧兵"
+        },
+        {
+            "key": "DU_LW_SL00",
+            "value": "奴隷,男の声,男"
+        },
+        {
+            "key": "DU_LW_SL01",
+            "value": "奴隷,女の声"
+        },
+        {
             "key": "DU_LW_SDLE",
-            "value": "サーダリー・クルステア,サーダリー"
+            "value": "サーダリー・クルステア,サーダリー,サーダリーの声"
         },
         {
             "key": "DU_LW_DRND",
@@ -302,11 +334,23 @@
         },
         {
             "key": "DU_LW_JEDN",
-            "value": "ジェーダン・ランダル"
+            "value": "ジェーダン・ランダル,ジェーダン"
         },
         {
             "key": "DU_LW_SO_04",
             "value": "ランダル兵,ランダル兵A,ランダル兵B,ランダル兵C,ランダル兵たち"
+        },
+        {
+            "key": "DU_LW_RARD",
+            "value": "ラルドー"
+        },
+        {
+            "key": "DU_LW_ELSI",
+            "value": "エルシュラ"
+        },
+        {
+            "key": "DU_LW_CRIS",
+            "value": "クレイス"
         },
         {
             "key": "DU_LW_GLMS",

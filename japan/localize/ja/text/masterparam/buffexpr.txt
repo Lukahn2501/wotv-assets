@@ -33,6 +33,10 @@
             "value": "斬撃攻撃耐性アップ"
         },
         {
+            "key": "BUFF_ARENA_00008",
+            "value": "命中率・範囲攻撃耐性アップ"
+        },
+        {
             "key": "BUFF_GVG_001",
             "value": "闇属性アビリティ攻撃アップ"
         },
@@ -49,8 +53,16 @@
             "value": "刺突攻撃アップ"
         },
         {
+            "key": "BUFF_GVG_005",
+            "value": "射撃攻撃耐性アップ"
+        },
+        {
             "key": "BUFF_CLASSMATCH_001",
             "value": "Cost制限540以下"
+        },
+        {
+            "key": "BUFF_CLASSMATCH_002",
+            "value": "Cost制限500以下"
         },
         {
             "key": "BUFF_MAP_CMATCH_001",
@@ -1639,6 +1651,138 @@
         {
             "key": "BUFF_TITN_33",
             "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_01",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_02",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_AGON_03",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_04",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_AGON_05",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_06",
+            "value": "召喚魔法の威力がアップする"
+        },
+        {
+            "key": "BUFF_AGON_07",
+            "value": "召喚魔法の威力がアップする"
+        },
+        {
+            "key": "BUFF_AGON_08",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_09",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_10",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_11",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_AGON_12",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_13",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_14",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_15",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_AGON_16",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_17",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_18",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_19",
+            "value": "召喚魔法の威力がアップする"
+        },
+        {
+            "key": "BUFF_AGON_20",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_21",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_22",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_AGON_23",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_AGON_24",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_25",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_26",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_AGON_27",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_AGON_28",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_29",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_AGON_30",
+            "value": "召喚魔法の威力がアップする"
+        },
+        {
+            "key": "BUFF_AGON_31",
+            "value": "召喚魔法の威力がアップする"
+        },
+        {
+            "key": "BUFF_AGON_32",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_AGON_33",
+            "value": "装備したユニットに能力付与"
         },
         {
             "key": "BUFF_IGNT_01",
@@ -3355,6 +3499,138 @@
         {
             "key": "BUFF_CHCB_01_33",
             "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_BLMN_01",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_02",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_BLMN_03",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_04",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_05",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_06",
+            "value": "召喚魔法の威力がアップする"
+        },
+        {
+            "key": "BUFF_BLMN_07",
+            "value": "召喚魔法の威力がアップする"
+        },
+        {
+            "key": "BUFF_BLMN_08",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_09",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_10",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_11",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_BLMN_12",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_13",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_14",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_15",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_16",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_17",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_18",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_19",
+            "value": "召喚魔法の威力がアップする"
+        },
+        {
+            "key": "BUFF_BLMN_20",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_21",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_22",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_BLMN_23",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_BLMN_24",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_25",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_26",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_27",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_28",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_29",
+            "value": "装備したユニットのステータスアップ"
+        },
+        {
+            "key": "BUFF_BLMN_30",
+            "value": "召喚魔法の威力がアップする"
+        },
+        {
+            "key": "BUFF_BLMN_31",
+            "value": "召喚魔法の威力がアップする"
+        },
+        {
+            "key": "BUFF_BLMN_32",
+            "value": "装備したユニットに能力付与"
+        },
+        {
+            "key": "BUFF_BLMN_33",
+            "value": "装備したユニットのステータスアップ"
         },
         {
             "key": "BUFF_UN_BD_BUFF_HP_01",

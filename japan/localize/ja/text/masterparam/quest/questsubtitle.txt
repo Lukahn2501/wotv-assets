@@ -101,6 +101,30 @@
             "value": "推奨：UnitLv.70 JobLv.15"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "推奨：UnitLv.70 JobLv.15"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "推奨：UnitLv.70 JobLv.15"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "推奨：UnitLv.70 JobLv.15"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "推奨：UnitLv.5 JobLv.1"
         },
@@ -1333,6 +1357,86 @@
             "value": "第９章第２節"
         },
         {
+            "key": "QE_ST_01090301",
+            "value": "第９章第３節"
+        },
+        {
+            "key": "QE_ST_01090302",
+            "value": "第９章第３節"
+        },
+        {
+            "key": "QE_ST_01090303",
+            "value": "第９章第３節"
+        },
+        {
+            "key": "QE_ST_01090304",
+            "value": "第９章第３節"
+        },
+        {
+            "key": "QE_ST_01090305",
+            "value": "第９章第３節"
+        },
+        {
+            "key": "QE_ST_01090306",
+            "value": "第９章第３節"
+        },
+        {
+            "key": "QE_ST_01090307",
+            "value": "第９章第３節"
+        },
+        {
+            "key": "QE_ST_01090308",
+            "value": "第９章第３節"
+        },
+        {
+            "key": "QE_ST_01090309",
+            "value": "第９章第３節"
+        },
+        {
+            "key": "QE_ST_01090310",
+            "value": "第９章第３節"
+        },
+        {
+            "key": "QE_ST_01100101",
+            "value": "第１０章第１節"
+        },
+        {
+            "key": "QE_ST_01100102",
+            "value": "第１０章第１節"
+        },
+        {
+            "key": "QE_ST_01100103",
+            "value": "第１０章第１節"
+        },
+        {
+            "key": "QE_ST_01100104",
+            "value": "第１０章第１節"
+        },
+        {
+            "key": "QE_ST_01100105",
+            "value": "第１０章第１節"
+        },
+        {
+            "key": "QE_ST_01100106",
+            "value": "第１０章第１節"
+        },
+        {
+            "key": "QE_ST_01100107",
+            "value": "第１０章第１節"
+        },
+        {
+            "key": "QE_ST_01100108",
+            "value": "第１０章第１節"
+        },
+        {
+            "key": "QE_ST_01100109",
+            "value": "第１０章第１節"
+        },
+        {
+            "key": "QE_ST_01100110",
+            "value": "第１０章第１節"
+        },
+        {
             "key": "QE_HA_LW_MONT",
             "value": "ハードクエスト"
         },
@@ -1597,6 +1701,22 @@
             "value": "ハードクエスト"
         },
         {
+            "key": "QE_HA_LW_HWLT",
+            "value": "ハードクエスト"
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "ハードクエスト"
+        },
+        {
+            "key": "QE_HA_LW_LATH",
+            "value": "ハードクエスト"
+        },
+        {
+            "key": "QE_HA_LW_TITU",
+            "value": "ハードクエスト"
+        },
+        {
             "key": "QE_CH_LW_MONT",
             "value": "キャラクタークエスト"
         },
@@ -1754,6 +1874,10 @@
         },
         {
             "key": "QE_CH_FF14_TNCR",
+            "value": "キャラクタークエスト"
+        },
+        {
+            "key": "QE_CH_FF14_TNCR2",
             "value": "キャラクタークエスト"
         },
         {
@@ -1917,6 +2041,58 @@
             "value": "キャラクタークエスト"
         },
         {
+            "key": "QE_CH_LW_LILS_01",
+            "value": "キャラクタークエスト"
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "キャラクタークエスト"
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
+            "value": "キャラクタークエスト"
+        },
+        {
+            "key": "QE_CH_LW_LATH",
+            "value": "キャラクタークエスト"
+        },
+        {
+            "key": "QE_CH_LW_TITU",
+            "value": "キャラクタークエスト"
+        },
+        {
+            "key": "QE_EV_1100DL_FIR",
+            "value": "1100万DL記念"
+        },
+        {
+            "key": "QE_EV_1100DL_ICE",
+            "value": "1100万DL記念"
+        },
+        {
+            "key": "QE_EV_1100DL_WIN",
+            "value": "1100万DL記念"
+        },
+        {
+            "key": "QE_EV_1100DL_EAR",
+            "value": "1100万DL記念"
+        },
+        {
+            "key": "QE_EV_1100DL_THU",
+            "value": "1100万DL記念"
+        },
+        {
+            "key": "QE_EV_1100DL_WTR",
+            "value": "1100万DL記念"
+        },
+        {
+            "key": "QE_EV_1100DL_SHI",
+            "value": "1100万DL記念"
+        },
+        {
+            "key": "QE_EV_1100DL_DAR",
+            "value": "1100万DL記念"
+        },
+        {
             "key": "QE_EV_CDOWN_01_1",
             "value": "Half Anniversary"
         },
@@ -2026,6 +2202,18 @@
         },
         {
             "key": "QE_EV_SCAL_01",
+            "value": "期間限定"
+        },
+        {
+            "key": "QE_EV_LILS_01",
+            "value": "期間限定"
+        },
+        {
+            "key": "QE_EV_HWLT_01",
+            "value": "期間限定"
+        },
+        {
+            "key": "QE_EV_LATH_01",
             "value": "期間限定"
         },
         {
@@ -2189,6 +2377,66 @@
             "value": "推奨：UnitLv.50 JobLv.10"
         },
         {
+            "key": "QE_EV_FF14_01",
+            "value": "推奨：UnitLv.5 JobLv.1"
+        },
+        {
+            "key": "QE_EV_FF14_02",
+            "value": "推奨：UnitLv.10 JobLv.2"
+        },
+        {
+            "key": "QE_EV_FF14_03",
+            "value": "推奨：UnitLv.20 JobLv.4"
+        },
+        {
+            "key": "QE_EV_FF14_04",
+            "value": "推奨：UnitLv.30 JobLv.6"
+        },
+        {
+            "key": "QE_EV_FF14_05",
+            "value": "推奨：UnitLv.40 JobLv.8"
+        },
+        {
+            "key": "QE_EV_FF14_RD01",
+            "value": "推奨：UnitLv.20 JobLv.4"
+        },
+        {
+            "key": "QE_EV_FF14_EX1",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_EV_FF14_Ex2",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_EV_FF14_RD02",
+            "value": "推奨：UnitLv.60 JobLv.10"
+        },
+        {
+            "key": "QE_EV_FF14_Ex3",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_RAID_FF14_1",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_FF14_2",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_FF14_3",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_FF14_4",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_FF14_5",
+            "value": "レイドボス"
+        },
+        {
             "key": "QE_EV_ART_CRF_07",
             "value": "推奨：UnitLv.50 JobLv.9"
         },
@@ -2211,6 +2459,50 @@
         {
             "key": "QE_EV_JP_001",
             "value": "ユニット育成"
+        },
+        {
+            "key": "QE_EV_06_01",
+            "value": "推奨：UnitLv.5 JobLv.1"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "推奨：UnitLv.10 JobLv.2"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "推奨：UnitLv.15 JobLv.3"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "推奨：UnitLv.20 JobLv.4"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "推奨：UnitLv.20 JobLv.5"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "推奨：UnitLv.25 JobLv.5"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "推奨：UnitLv.30 JobLv.6"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "推奨：UnitLv.35 JobLv.7"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "推奨：UnitLv.40 JobLv.8"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "推奨：UnitLv.40 JobLv.9"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "推奨：UnitLv.50 JobLv.10"
         },
         {
             "key": "QE_EV_05_01",
@@ -2261,6 +2553,14 @@
             "value": "推奨：UnitLv.50 JobLv.10"
         },
         {
+            "key": "QE_SB_FNRR_02",
+            "value": "推奨：UnitLv.60 JobLv.10"
+        },
+        {
+            "key": "QE_SB_FNRR_03",
+            "value": "推奨：UnitLv.80 JobLv.12"
+        },
+        {
             "key": "QE_SB_IFRT_02",
             "value": "推奨：UnitLv.60 JobLv.10"
         },
@@ -2302,6 +2602,18 @@
         },
         {
             "key": "QE_CHAL_01_03",
+            "value": "推奨：UnitLv.90 JobLv.15"
+        },
+        {
+            "key": "QE_CHAL_02_01",
+            "value": "推奨：UnitLv.60 JobLv.10"
+        },
+        {
+            "key": "QE_CHAL_02_02",
+            "value": "推奨：UnitLv.80 JobLv.12"
+        },
+        {
+            "key": "QE_CHAL_02_03",
             "value": "推奨：UnitLv.90 JobLv.15"
         },
         {
@@ -2513,62 +2825,6 @@
             "value": "推奨：UnitLv.50 JobLv.10"
         },
         {
-            "key": "QE_EV_FF14_01",
-            "value": "推奨：UnitLv.5 JobLv.1"
-        },
-        {
-            "key": "QE_EV_FF14_02",
-            "value": "推奨：UnitLv.10 JobLv.2"
-        },
-        {
-            "key": "QE_EV_FF14_03",
-            "value": "推奨：UnitLv.20 JobLv.4"
-        },
-        {
-            "key": "QE_EV_FF14_04",
-            "value": "推奨：UnitLv.30 JobLv.6"
-        },
-        {
-            "key": "QE_EV_FF14_05",
-            "value": "推奨：UnitLv.40 JobLv.8"
-        },
-        {
-            "key": "QE_EV_FF14_RD01",
-            "value": "推奨：UnitLv.20 JobLv.4"
-        },
-        {
-            "key": "QE_EV_FF14_EX1",
-            "value": "推奨：UnitLv.50 JobLv.10"
-        },
-        {
-            "key": "QE_EV_FF14_Ex2",
-            "value": "推奨：UnitLv.50 JobLv.10"
-        },
-        {
-            "key": "QE_EV_FF14_RD02",
-            "value": "推奨：UnitLv.60 JobLv.10"
-        },
-        {
-            "key": "QE_RAID_FF14_1",
-            "value": "レイドボス"
-        },
-        {
-            "key": "QE_RAID_FF14_2",
-            "value": "レイドボス"
-        },
-        {
-            "key": "QE_RAID_FF14_3",
-            "value": "レイドボス"
-        },
-        {
-            "key": "QE_RAID_FF14_4",
-            "value": "レイドボス"
-        },
-        {
-            "key": "QE_RAID_FF14_5",
-            "value": "レイドボス"
-        },
-        {
             "key": "QE_RAID_EV_06_01",
             "value": "レイドボス"
         },
@@ -2658,6 +2914,18 @@
         },
         {
             "key": "QE_RAID_EV_10_06",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_EV_11_01",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_EV_11_02",
+            "value": "レイドボス"
+        },
+        {
+            "key": "QE_RAID_EV_11_03",
             "value": "レイドボス"
         },
         {
@@ -2897,6 +3165,10 @@
             "value": "推奨：UnitLv.70 JobLv.10"
         },
         {
+            "key": "QE_SB_AGON_01",
+            "value": "推奨：UnitLv.70 JobLv.10"
+        },
+        {
             "key": "QE_SB_MABR_01",
             "value": "推奨：UnitLv.60 JobLv.10"
         },
@@ -2921,6 +3193,10 @@
             "value": "推奨：UnitLv.60 JobLv.10"
         },
         {
+            "key": "QE_SB_BLMN_01",
+            "value": "推奨：UnitLv.60 JobLv.10"
+        },
+        {
             "key": "QE_MU_EV_FF1_EX",
             "value": "推奨：UnitLv.50 JobLv.10"
         },
@@ -2930,6 +3206,10 @@
         },
         {
             "key": "QE_MU_FFT_EX_02",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_MU_FF14_Ex3",
             "value": "推奨：UnitLv.50 JobLv.10"
         },
         {
@@ -2959,6 +3239,14 @@
         {
             "key": "QE_MU_EV_05_EX2",
             "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_MU_FNRR_04",
+            "value": "推奨：UnitLv.80 JobLv.12"
         },
         {
             "key": "QE_MU_IFRT_04",
@@ -3177,6 +3465,30 @@
             "value": "推奨：UnitLv.70 JobLv.15"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "推奨：UnitLv.50 JobLv.10"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "推奨：UnitLv.70 JobLv.15"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "推奨：UnitLv.70 JobLv.15"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "推奨：UnitLv.70 JobLv.15"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "攻撃タイプと耐性"
         },
@@ -3270,6 +3582,18 @@
         },
         {
             "key": "QE_EV_NMAP_004_3",
+            "value": "新マップお試し"
+        },
+        {
+            "key": "QE_EV_NMAP_005_1",
+            "value": "新マップお試し"
+        },
+        {
+            "key": "QE_EV_NMAP_005_2",
+            "value": "新マップお試し"
+        },
+        {
+            "key": "QE_EV_NMAP_005_3",
             "value": "新マップお試し"
         }
     ]

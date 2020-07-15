@@ -13,6 +13,10 @@
             "value": "<space=-2><line-height=18><cspace=-5.5>カム<space=3>バック</cspace><br><space=-2>召喚"
         },
         {
+            "key": "GLOBAL_MAIN_GACHA_BEGINNER",
+            "value": "初心者<br>限定"
+        },
+        {
             "key": "GLOBAL_MAIN_SHOP",
             "value": "ショップ"
         },
@@ -451,6 +455,26 @@
         {
             "key": "VIP_FUNCTIONTYPE_STAMINABUYNUMUP_ITEM",
             "value": "体力回復回数(アイテム)<color=#04EC04>+{0}</color>回"
+        },
+        {
+            "key": "VIP_FUNCTIONTYPE_UNITEXPQUESTADDNUM",
+            "value": "経験の間挑戦増加可能回数<color=#04EC04>+{0}</color>回"
+        },
+        {
+            "key": "VIP_FUNCTIONTYPE_GILQUESTADDNUM",
+            "value": "ギルの間挑戦増加可能回数<color=#04EC04>+{0}</color>回"
+        },
+        {
+            "key": "VIP_FUNCTIONTYPE_AFEXPQUESTADDNUM",
+            "value": "鉱石の間挑戦増加可能回数<color=#04EC04>+{0}</color>回"
+        },
+        {
+            "key": "VIP_FUNCTIONTYPE_VCEXPQUESTADDNUM",
+            "value": "卵の間挑戦増加可能回数<color=#04EC04>+{0}</color>回"
+        },
+        {
+            "key": "VIP_FUNCTIONTYPE_WAEXPQUESTADDNUM",
+            "value": "ポットの間挑戦増加可能回数<color=#04EC04>+{0}</color>回"
         },
         {
             "key": "VIP_NOTICE_TITLE",
@@ -913,6 +937,10 @@
             "value": "ユニット"
         },
         {
+            "key": "UNIT_INTIMACY_NBEAST_TITLE",
+            "value": "召喚獣"
+        },
+        {
             "key": "UNIT_INTIMACY_DETAIL_BONUS_TITLE",
             "value": "親密度ボーナス"
         },
@@ -1073,6 +1101,10 @@
             "value": "アビリティセット"
         },
         {
+            "key": "ABILITY_BOARD_BULK_ENHANCE",
+            "value": "一括強化"
+        },
+        {
             "key": "ABILITY_BOARD_MAIN_COMMAND",
             "value": "メインアビリティ"
         },
@@ -1217,6 +1249,10 @@
             "value": "アビリティをセットしました。"
         },
         {
+            "key": "ABILITY_BOARD_BULK_ENHANCE_TITLE",
+            "value": "アビリティ一括強化"
+        },
+        {
             "key": "ABILITY_ENHANCE_RESULT_TITLE",
             "value": "アビリティLvアップ"
         },
@@ -1295,6 +1331,10 @@
         {
             "key": "ABILITY_ENHANCE_RESULT_EFFECT_DAMAGE",
             "value": "{0}ダメージ効果"
+        },
+        {
+            "key": "ABILITY_ENHANCE_RESULT_EFFECT_OF",
+            "value": "{0}の効果"
         },
         {
             "key": "ABILITY_ENHANCE_RESULT_GAIN",
@@ -1453,6 +1493,10 @@
             "value": "<cspace=-3>ドロップ数"
         },
         {
+            "key": "QUEST_ICON_DROPAMOUNT_PIECE_TITLE",
+            "value": "<cspace=-3>欠片獲得数"
+        },
+        {
             "key": "QUEST_ICON_ARTIPROFICIENCY_TITLE",
             "value": "<cspace=-3>武具熟練度<br><cspace=-2>EXP"
         },
@@ -1463,6 +1507,10 @@
         {
             "key": "QUEST_ICON_DROPRATE_TITLE",
             "value": "<cspace=-3>ドロップ率"
+        },
+        {
+            "key": "QUEST_ICON_DROPRATE_PIECE_TITLE",
+            "value": "<cspace=-3>欠片<br>ドロップ率"
         },
         {
             "key": "QUEST_ICON_EXPPLAYER_TITLE",
@@ -1487,6 +1535,14 @@
         {
             "key": "QUEST_ICON_VALUE_FRACTION",
             "value": "{0}/{1}"
+        },
+        {
+            "key": "QUEST_ICON_HARD",
+            "value": "<space=-2.4em>Hard"
+        },
+        {
+            "key": "QUEST_ICON_CHARACTER",
+            "value": "<space=-0.3em><cspace=-0.06em>Character"
         },
         {
             "key": "QUEST_SUBMENU_STORY",
@@ -2813,6 +2869,10 @@
             "value": "プレイヤーID"
         },
         {
+            "key": "MENU_PLAYER_SPACE_ID",
+            "value": "プレイヤー<space=0.25en>ID"
+        },
+        {
             "key": "MENU_PLAYER_COPY",
             "value": "コピー"
         },
@@ -3058,7 +3118,7 @@
         },
         {
             "key": "FRIEND_TOP_BTN_LAST_PLAY",
-            "value": "最終プレイ"
+            "value": "最新ログイン"
         },
         {
             "key": "FRIEND_TOP_TITLE_BY_TIME",
@@ -3298,7 +3358,7 @@
         },
         {
             "key": "FRIEND_SORT_TYPE_LOGIN_DATE",
-            "value": "最終プレイ"
+            "value": "最新ログイン"
         },
         {
             "key": "FRIEND_SORT_TYPE_PLAYER_RANK",
@@ -4229,6 +4289,10 @@
             "value": "育成"
         },
         {
+            "key": "MISSION_RECORD_OTHER",
+            "value": "その他"
+        },
+        {
             "key": "MISSION_RECORD_COMEBACK",
             "value": "カムバック"
         },
@@ -4681,6 +4745,10 @@
             "value": "報酬"
         },
         {
+            "key": "RAID_PASS",
+            "value": "パスワード入力"
+        },
+        {
             "key": "RAID_REWARD",
             "value": "報酬受取"
         },
@@ -4723,6 +4791,14 @@
         {
             "key": "RAID_BP_NOT_ZERO_DESC",
             "value": "レイドオーブが0の時のみ回復ができます"
+        },
+        {
+            "key": "RAID_STOCK",
+            "value": "遭遇スタック"
+        },
+        {
+            "key": "RAID_STOCK_SHORT",
+            "value": "遭遇"
         },
         {
             "key": "RAID_VALUE_RANK",
@@ -5761,6 +5837,10 @@
             "value": "{0}位 ～"
         },
         {
+            "key": "CLASSMATCH_RANKING_TEXT3",
+            "value": "{0}位"
+        },
+        {
             "key": "CLASSMATCH_SEASON_NOT_JOINING_TITLE",
             "value": "ランキングデータなし"
         },
@@ -6610,7 +6690,7 @@
         },
         {
             "key": "GUILD_MEMBER_MANAGE_SORT_LASTPLAY",
-            "value": "最終プレイ"
+            "value": "最新ログイン"
         },
         {
             "key": "GUILD_MEMBER_MANAGE_SORT_RANK",
@@ -7253,6 +7333,14 @@
             "value": "～MM/dd HH:mm"
         },
         {
+            "key": "GUILD_BATTLE_EXERCISE",
+            "value": "模擬戦"
+        },
+        {
+            "key": "GUILD_BATTLE_EXERCISE_DESC",
+            "value": "<line-height=1.4em>ギルドメンバーが設定している<br>防御パーティーと模擬戦を行います<br>模擬戦による体力消費や<br>ステータス変動は発生しません"
+        },
+        {
             "key": "GUILD_BATTLE_DEFFENCE_SETTING",
             "value": "防御メンバー設定"
         },
@@ -7349,6 +7437,14 @@
             "value": "自分のパーティーのHPがありません。"
         },
         {
+            "key": "GUILD_BATTLE_NOATTACK5_DIALOG_TITLE",
+            "value": "対戦できません"
+        },
+        {
+            "key": "GUILD_BATTLE_NOATTACK5_DIALOG_DESC",
+            "value": "自分のパーティが存在しません。"
+        },
+        {
             "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
             "value": "残り行動回数0です"
         },
@@ -7358,7 +7454,7 @@
         },
         {
             "key": "GUILD_BATTLE_ABSTENTION_DESC",
-            "value": "<line-height=32>以下の参加条件を<br>満たしていなかったため<br>エントリーしませんでした。"
+            "value": "<line-height=1.4em>以下の参加条件を<br>満たしていなかったため<br>エントリーしませんでした。"
         },
         {
             "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
@@ -7383,6 +7479,34 @@
         {
             "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
             "value": "{0}日以内ログインなし"
+        },
+        {
+            "key": "GUILD_BATTLE_EXERCISE_TITLE",
+            "value": "模擬戦"
+        },
+        {
+            "key": "GUILD_BATTLE_EXERCISE_RESET_DESC",
+            "value": "リセットすると<br>攻撃パーティー、防御パーティー<br>共に状態が初期状態に戻ります"
+        },
+        {
+            "key": "GUILD_BATTLE_EXERCISE_RESET_OFFENSE",
+            "value": "攻撃リセット"
+        },
+        {
+            "key": "GUILD_BATTLE_EXERCISE_RESET_DEFENSE",
+            "value": "防御リセット"
+        },
+        {
+            "key": "GUILD_BATTLE_EXERCISE_END",
+            "value": "模擬戦終了"
+        },
+        {
+            "key": "GUILD_BATTLE_EXERCISE_END_TITLE",
+            "value": "模擬戦終了"
+        },
+        {
+            "key": "GUILD_BATTLE_EXERCISE_END_DESC",
+            "value": "準備期間が終わったため<br>模擬戦を終了します。"
         },
         {
             "key": "GUILD_BATTLE_PLAYER_DETAIL_ABILITY",
@@ -7514,27 +7638,27 @@
         },
         {
             "key": "GUILD_BATTLE_LOG_SCOUT_TO",
-            "value": "{0}を偵察\n{0}パーティを開示させました"
+            "value": "{0}を偵察<br>{0}パーティを開示させました"
         },
         {
             "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
-            "value": "{0}から偵察\nパーティを開示させられました"
+            "value": "{0}から偵察<br>パーティを開示させられました"
         },
         {
             "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
-            "value": "{0}を補給\n{0}パーティの行動回数を回復しました"
+            "value": "{0}を補給<br>{0}パーティの行動回数を回復しました"
         },
         {
             "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
-            "value": "{0}からの補給\nパーティの行動回数が回復しました"
+            "value": "{0}からの補給<br>パーティの行動回数が回復しました"
         },
         {
             "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
-            "value": "{0}へ詠唱\n{0}パーティのアビリティ回数を回復しました"
+            "value": "{0}へ詠唱<br>{0}パーティのアビリティ回数を回復しました"
         },
         {
             "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
-            "value": "{0}から詠唱\nパーティのアビリティ回数が回復しました"
+            "value": "{0}から詠唱<br>パーティのアビリティ回数が回復しました"
         },
         {
             "key": "GUILD_BATTLE_END_LOG_TITLE",
@@ -7854,7 +7978,7 @@
         },
         {
             "key": "QUEST_APPEAL_AP",
-            "value": "AP消費減！"
+            "value": "体力消費減！"
         },
         {
             "key": "QUEST_APPEAL_DROP_RATE",
@@ -7874,7 +7998,7 @@
         },
         {
             "key": "QUEST_APPEAL_UNIT_JP",
-            "value": "ユニットJP<br>ドロップ個数UP"
+            "value": "ユニットJP<br>アップ"
         },
         {
             "key": "QUEST_APPEAL_ARTI_PROFICIENCY",
@@ -7923,6 +8047,50 @@
         {
             "key": "QUEST_CAMPAIGN_COND_AND",
             "value": "か"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_AP",
+            "value": "体力消費減！"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_DROP_RATE",
+            "value": "ドロップ率UP"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_DROP_AMOUNT",
+            "value": "ドロップ個数<br>アップ"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_DROP_AMOUNT_PIECE",
+            "value": "欠片獲得数{0}倍"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_DROP_RATE_PIECE",
+            "value": "欠片獲得率{0}倍"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_PLAYER_EXP",
+            "value": "プレイヤーEXP<br>アップ"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_UNIT_EXP",
+            "value": "ユニットEXP<br>アップ"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_UNIT_JP",
+            "value": "ユニットJP<br>アップ"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_ARTI_PROFICIENCY",
+            "value": "武具熟練度<br>アップ"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_CHALLENGE_LIMIT_UP",
+            "value": "挑戦回数<br>アップ"
+        },
+        {
+            "key": "WORLDQUEST_APPEAL_DROP_GIL_UP",
+            "value": "ドロップギル<br>アップ"
         },
         {
             "key": "TOWER_QUEST_TITLE",
@@ -8121,6 +8289,10 @@
             "value": "イベント詳細"
         },
         {
+            "key": "POINTQUEST_SCORE_REWARD",
+            "value": "スコア報酬"
+        },
+        {
             "key": "POINTQUEST_BANNER_QUEST",
             "value": "クエスト"
         },
@@ -8285,6 +8457,10 @@
             "value": "目玉<br>報酬"
         },
         {
+            "key": "POINTQUEST_GACHA_NUM_CHANGE",
+            "value": "回数切替"
+        },
+        {
             "key": "POINTQUEST_GACHA_LINEUP_CURRENT_LAP",
             "value": "({0}周目)"
         },
@@ -8327,6 +8503,42 @@
         {
             "key": "POINTQUEST_GACHA_RESET_FINISH_DESC",
             "value": "ラインナップをリセットしました。"
+        },
+        {
+            "key": "POINTQUEST_REWARD_CHECK_TITLE",
+            "value": "スコア報酬"
+        },
+        {
+            "key": "POINTQUEST_REWARD_CHECK_SCORE",
+            "value": "累計スコア"
+        },
+        {
+            "key": "POINTQUEST_REWARD_CHECK_SCORE_RANKING",
+            "value": "累計スコアランキング"
+        },
+        {
+            "key": "POINTQUEST_REWARD_CHECK_HIGH_SCORE_RANKING",
+            "value": "累計ハイスコアランキング"
+        },
+        {
+            "key": "POINTQUEST_REWARD_CHECK_SCORE_VALUE",
+            "value": "{0:#,0}<space=0.3em>達成"
+        },
+        {
+            "key": "POINTQUEST_REWARD_CHECK_SCORE_STAMP",
+            "value": "達成<space=0.1em>!"
+        },
+        {
+            "key": "POINTQUEST_HISCORE_CHECK_TITLE",
+            "value": "ハイスコア報酬"
+        },
+        {
+            "key": "POINTQUEST_HISCORE_CHECK_SCORE_TITLE",
+            "value": "ハイスコア"
+        },
+        {
+            "key": "POINTQUEST_HISCORE_CHECK_SCORE_VALUE",
+            "value": "{0}pt達成"
         },
         {
             "key": "JPBOOST_TITLE",
@@ -8426,15 +8638,63 @@
         },
         {
             "key": "POINTQUEST_WARN_EXPOSED",
-            "value": "{0}\n{1}が解放されました。"
+            "value": "{0}<br>{1}が解放されました。"
         },
         {
             "key": "POINTQUEST_WARN_CAN_CHALLENGE",
-            "value": "{0}\n{1}\nに挑戦できるようになりました。"
+            "value": "{0}<br>{1}<br>に挑戦できるようになりました。"
         },
         {
             "key": "POINTQUEST_WARN_TITLE",
             "value": "機能が解放されました"
+        },
+        {
+            "key": "AWARD_TITLE",
+            "value": "称号設定"
+        },
+        {
+            "key": "AWARD_REMOVE",
+            "value": "はずす"
+        },
+        {
+            "key": "AWARD_UNKNOWN",
+            "value": "? ? ? ?"
+        },
+        {
+            "key": "AWARD_NORMAL",
+            "value": "通常"
+        },
+        {
+            "key": "AWARD_LIMITED",
+            "value": "限定"
+        },
+        {
+            "key": "AWARD_DETAIL_TITLE",
+            "value": "称号詳細"
+        },
+        {
+            "key": "AWARD_DETAIL_DESC",
+            "value": "この称号を設定しますか？"
+        },
+        {
+            "key": "AWARD_DETAIL_CAUTION",
+            "value": "リーダー、サブリーダーのみ設定可能です"
+        },
+        {
+            "key": "AWARD_DEFAULT",
+            "value": "称号"
+        },
+        {
+            "key": "AWARD_NOTSET",
+            "value": "称号未設定"
+        },
+        {
+            "key": "AWARD_CHANGE",
+            "value": "称号変更"
+        },
+        {
+            "key": "AWARD_REMOVE_DESC",
+            "value": "称号を外しますか？"
         }
     ]
 }

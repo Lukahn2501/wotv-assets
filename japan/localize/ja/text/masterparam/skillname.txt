@@ -9,6 +9,10 @@
             "value": "クリスタル効果"
         },
         {
+            "key": "SK_CRYSTAL_04",
+            "value": "クリスタル効果"
+        },
+        {
             "key": "SK_LW_WAR_ATK",
             "value": "通常攻撃"
         },
@@ -930,6 +934,10 @@
         },
         {
             "key": "SK_LW_HUN_M_4",
+            "value": "さみだれ射ち"
+        },
+        {
+            "key": "SK_LW_HUN_M_4_LILS_01",
             "value": "さみだれ射ち"
         },
         {
@@ -1950,6 +1958,10 @@
         },
         {
             "key": "SK_LW_TNCR_M_4",
+            "value": "ブラスティングゾーン"
+        },
+        {
+            "key": "SK_LW_TNCR_M_4_B",
             "value": "ブラスティングゾーン"
         },
         {
@@ -3149,6 +3161,50 @@
             "value": "恬淡虚無"
         },
         {
+            "key": "SK_LW_MKN_ATK",
+            "value": "通常攻撃"
+        },
+        {
+            "key": "SK_LW_MKN_WIND_M_1",
+            "value": "エアロガ剣"
+        },
+        {
+            "key": "SK_LW_MKN_M_2",
+            "value": "ハザードスラッシュ"
+        },
+        {
+            "key": "SK_LW_MKN_M_3",
+            "value": "天翔剣"
+        },
+        {
+            "key": "SK_LW_MKN_WIND_S_1_INIT",
+            "value": "エアロ剣"
+        },
+        {
+            "key": "SK_LW_MKN_S_3_INIT",
+            "value": "ドレインイヴォーク"
+        },
+        {
+            "key": "SK_LW_MKN_S_2",
+            "value": "ハザードスペル"
+        },
+        {
+            "key": "SK_LW_MKN_WIND_S_4",
+            "value": "風砕のルーン"
+        },
+        {
+            "key": "SK_LW_MKN_R_1",
+            "value": "魔動転換"
+        },
+        {
+            "key": "SK_LW_MKN_WIND_P_1",
+            "value": "激成風のルーン"
+        },
+        {
+            "key": "SK_LW_MKN_P_2",
+            "value": "シャープマインド"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "ブリザラ"
         },
@@ -3570,6 +3626,14 @@
         },
         {
             "key": "SK_GLSP_R_01",
+            "value": "かめのこうら"
+        },
+        {
+            "key": "SK_GLSP_M_02_TOW",
+            "value": "押しつぶす"
+        },
+        {
+            "key": "SK_GLSP_R_01_TOW",
             "value": "かめのこうら"
         },
         {
@@ -4077,6 +4141,10 @@
             "value": "ミスティックロアー"
         },
         {
+            "key": "SK_FNRR_M_04_2",
+            "value": "ミスティックロアー"
+        },
+        {
             "key": "SK_TITN_ATK",
             "value": "通常攻撃"
         },
@@ -4095,6 +4163,54 @@
         {
             "key": "SK_TITN_M_04",
             "value": "大地の怒り"
+        },
+        {
+            "key": "SK_AGON_ATK",
+            "value": "通常攻撃"
+        },
+        {
+            "key": "SK_AGON_M_01",
+            "value": "コアレーザー"
+        },
+        {
+            "key": "SK_AGON_M_02",
+            "value": "アームバースト"
+        },
+        {
+            "key": "SK_AGON_M_03",
+            "value": "超電磁大爆発"
+        },
+        {
+            "key": "SK_AGON_M_04",
+            "value": "アッパーボルテージ"
+        },
+        {
+            "key": "SK_AGON_M_05",
+            "value": "メタルコート"
+        },
+        {
+            "key": "SK_AGON_M_06",
+            "value": "高機動モード移行"
+        },
+        {
+            "key": "SK_AGON_R_01",
+            "value": "ドリルアーム"
+        },
+        {
+            "key": "SK_BLMN_ATK",
+            "value": "通常攻撃"
+        },
+        {
+            "key": "SK_BLMN_M_01",
+            "value": "メテオムーン"
+        },
+        {
+            "key": "SK_BLMN_M_02",
+            "value": "死月の嘲笑"
+        },
+        {
+            "key": "SK_BLMN_M_03",
+            "value": "紅月の大落下"
         },
         {
             "key": "SK_LW_E_VIK_ATK",
@@ -4151,6 +4267,26 @@
         {
             "key": "SK_GMK_ATK_KATA_2",
             "value": "さみだれ石"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1_EN",
+            "value": "投石"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2_EN",
+            "value": "さみだれ石"
+        },
+        {
+            "key": "SK_GMK_ATK_KENZAN",
+            "value": "ダメージゾーン"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_1",
+            "value": "砲撃"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_2",
+            "value": "爆発弾"
         },
         {
             "key": "SK_LB_LW_MONT",
@@ -4357,6 +4493,18 @@
             "value": "天迅召雷"
         },
         {
+            "key": "SK_LB_LW_LILS",
+            "value": "ビーチ・アターック！"
+        },
+        {
+            "key": "SK_LB_LW_HWLT",
+            "value": "ステラ・アルテ"
+        },
+        {
+            "key": "SK_LB_LW_LATH",
+            "value": "スピードブレイクショット"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "地獄の火炎"
         },
@@ -4403,6 +4551,10 @@
         {
             "key": "SK_SMN_TITN",
             "value": "大地の怒り"
+        },
+        {
+            "key": "SK_SMN_AGON",
+            "value": "超電磁大爆発"
         },
         {
             "key": "SK_SMN_IGNT",
@@ -4455,6 +4607,10 @@
         {
             "key": "SK_SMN_MDFY",
             "value": "マインドブラスト"
+        },
+        {
+            "key": "SK_SMN_BLMN",
+            "value": "死月の嘲笑"
         },
         {
             "key": "SK_US_POTION",
@@ -4618,6 +4774,10 @@
         },
         {
             "key": "SK_MA_FF14_TNCR",
+            "value": "マスターアビリティ"
+        },
+        {
+            "key": "SK_MA_FF14_TNCR_2",
             "value": "マスターアビリティ"
         },
         {
@@ -4886,6 +5046,26 @@
         },
         {
             "key": "SK_MA_LW_MRAL",
+            "value": "マスターアビリティ"
+        },
+        {
+            "key": "SK_MA_LW_LILS_01",
+            "value": "マスターアビリティ"
+        },
+        {
+            "key": "SK_MA_LW_HWLT",
+            "value": "マスターアビリティ"
+        },
+        {
+            "key": "SK_MA_LW_CHEL",
+            "value": "マスターアビリティ"
+        },
+        {
+            "key": "SK_MA_LW_LATH",
+            "value": "マスターアビリティ"
+        },
+        {
+            "key": "SK_MA_LW_TITU",
             "value": "マスターアビリティ"
         },
         {
@@ -5595,6 +5775,14 @@
         {
             "key": "SK_ACC_LW_SCAL_1_1",
             "value": "魔脈励起"
+        },
+        {
+            "key": "SK_CLT_LW_HWLT_1_1",
+            "value": "鮮血のルーン"
+        },
+        {
+            "key": "SK_ACC_LW_LILS_01_1_1",
+            "value": "シューティングサマーアイ"
         },
         {
             "key": "SK_BTL_HP_100-99900_U",
@@ -6333,6 +6521,10 @@
             "value": "人キラー1-100アップ"
         },
         {
+            "key": "SK_BTL_PKILLER_MAN_1-100_U",
+            "value": "物理攻撃時人キラー1-100アップ"
+        },
+        {
             "key": "SK_BTL_MKILLER_MAN_1-100_U",
             "value": "魔法攻撃時人キラー1-100アップ"
         },
@@ -6377,6 +6569,10 @@
             "value": "状態異常【毒】確率1-100アップ"
         },
         {
+            "key": "SK_BTL_SILENCE_1-100_U",
+            "value": "状態異常【沈黙】確率1-100アップ"
+        },
+        {
             "key": "SK_BTL_TOAD_1-100_U",
             "value": "状態異常【トード】確率1-100アップ"
         },
@@ -6385,12 +6581,72 @@
             "value": "状態異常【石化】確率1-100アップ"
         },
         {
+            "key": "SK_BTL_DONMV_1-100_U",
+            "value": "状態異常【ドンムブ】確率1-100アップ"
+        },
+        {
             "key": "SK_BTL_DONMV_1-100_D",
             "value": "状態異常【ドンムブ】確率1-100ダウン"
         },
         {
+            "key": "SK_BTL_STUN_1-100_U",
+            "value": "状態異常【スタン】確率1-100アップ"
+        },
+        {
+            "key": "SK_BTL_STUN_1-100_D",
+            "value": "状態異常【スタン】確率1-100ダウン"
+        },
+        {
             "key": "SK_BTL_DEFPIERCE_1-100_U",
             "value": "防御貫通率1-100アップ"
+        },
+        {
+            "key": "SK_BTL_DEFPIERCE_1-100_U_KISO",
+            "value": "防御貫通率1-100アップ(基礎ステ)"
+        },
+        {
+            "key": "SK_BTL_MDFPIERCE_1-100_U",
+            "value": "精神貫通率1-100アップ"
+        },
+        {
+            "key": "SK_BTL_MDFPIERCE_1-100_U_KISO",
+            "value": "精神貫通率1-100アップ(基礎ステ)"
+        },
+        {
+            "key": "SK_BTL_STR_FIRE_1-100_U",
+            "value": "火属性攻撃力1-100アップ"
+        },
+        {
+            "key": "SK_BTL_STR_ICE_1-100_U",
+            "value": "氷属性攻撃力1-100アップ"
+        },
+        {
+            "key": "SK_BTL_STR_WIND_1-100_U",
+            "value": "風属性攻撃力1-100アップ"
+        },
+        {
+            "key": "SK_BTL_STR_SOIL_1-100_U",
+            "value": "土属性攻撃力1-100アップ"
+        },
+        {
+            "key": "SK_BTL_STR_THUNDER_1-100_U",
+            "value": "雷属性攻撃力1-100アップ"
+        },
+        {
+            "key": "SK_BTL_STR_WATER_1-100_U",
+            "value": "水属性攻撃力1-100アップ"
+        },
+        {
+            "key": "SK_BTL_STR_SHINE_1-100_U",
+            "value": "光属性攻撃力1-100アップ"
+        },
+        {
+            "key": "SK_BTL_STR_DARK_1-100_U",
+            "value": "闇属性攻撃力1-100アップ"
+        },
+        {
+            "key": "SK_BTL_STR_ELEMALL_1-100_U",
+            "value": "全属性攻撃力1-100アップ"
         },
         {
             "key": "SK_BTL_JOB_THI_1_15_U",

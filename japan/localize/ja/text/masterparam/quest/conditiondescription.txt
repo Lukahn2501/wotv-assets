@@ -265,6 +265,26 @@
             "value": "ユニット「マリアル」のレベルが1以上"
         },
         {
+            "key": "COND_HA_LW_LI_01",
+            "value": "ユニット「リリシュ（水着）」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_HWLT",
+            "value": "ユニット「ハウレット」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_CHEL",
+            "value": "ユニット「チェル」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_LATH",
+            "value": "ユニット「ルアーサ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_TITU",
+            "value": "ユニット「タイタス」のレベルが1以上"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "ユニット「モント・リオニス」のレベルが40以上"
         },
@@ -423,6 +443,10 @@
         {
             "key": "COND_CH_FF14_TNC",
             "value": "ユニット「サンクレッド」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FF14_TN2",
+            "value": "ユニット「サンクレッド」のレベルが80以上"
         },
         {
             "key": "COND_CH_LW_MACR",
@@ -591,6 +615,26 @@
         {
             "key": "COND_CH_LW_MRAL",
             "value": "ユニット「マリアル」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_LI_01",
+            "value": "ユニット「リリシュ（水着）」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_HWLT",
+            "value": "ユニット「ハウレット」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_CHEL",
+            "value": "ユニット「チェル」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_LATH",
+            "value": "ユニット「ルアーサ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_TITU",
+            "value": "ユニット「タイタス」のレベルが40以上"
         }
     ]
 }
