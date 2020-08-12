@@ -62,7 +62,7 @@
         },
         {
             "key": "UnitStrengthLB",
-            "value": "Tutorial „Einheit – Limitrausch-Verbesserung“ ansehen."
+            "value": "Tutorial „Limitrausch-Verbesserung“ ansehen."
         },
         {
             "key": "UnitTraining",

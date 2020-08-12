@@ -362,7 +362,7 @@
         },
         {
             "key": "IT_SET_UR_UNIT",
-            "value": "500만 다운로드 기념 UR 유닛 패키지"
+            "value": "UR 유닛 패키지"
         },
         {
             "key": "IT_SET_UR_VC",
@@ -571,6 +571,102 @@
         {
             "key": "IT_SET_AW_DARK_CM_03",
             "value": "어둠속성 풀 각성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "초보자 한정: 무지개 환구 × 1"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "초보자 한정: 푸른색 환구 × 1"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "초보자 한정: 무지개의 마음 조각 × 1"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "초보자 한정 직업 패키지"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "초보자 한정 제이다이트 패키지 I"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "초보자 한정 제이다이트 패키지 II"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "초보자 한정 아즈라이트 패키지 I"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "초보자 한정 아즈라이트 패키지 II"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "초보자 한정 UR 유닛 각성 패키지"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "R 장비 레시피 패키지 II"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "UR 비전 카드 패키지"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "비전 카드 육성 패키지"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "빛속성 소환수 강화 패키지"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "장비 강화[방어] 패키지"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "장비 강화[정신] 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "빛의 전사 육성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "빛속성 풀 각성 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "비전 카드 '데스 머신' 육성 패키지"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "땅속성 풀 각성 패키지"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "UR 유닛 패키지"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "비전 카드 육성 패키지 B"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "비전 카드 육성 패키지"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "어둠속성 소환수 강화 패키지"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "비전 카드 강화 패키지"
         }
     ]
 }

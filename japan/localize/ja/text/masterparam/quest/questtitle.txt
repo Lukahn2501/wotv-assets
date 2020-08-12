@@ -1445,6 +1445,86 @@
             "value": "敵ではない"
         },
         {
+            "key": "QE_ST_01100201",
+            "value": "逆襲"
+        },
+        {
+            "key": "QE_ST_01100202",
+            "value": "二人を助けるまで１"
+        },
+        {
+            "key": "QE_ST_01100203",
+            "value": "二人を助けるまで２"
+        },
+        {
+            "key": "QE_ST_01100204",
+            "value": "エルデ動く"
+        },
+        {
+            "key": "QE_ST_01100205",
+            "value": "マシュリーを探して１"
+        },
+        {
+            "key": "QE_ST_01100206",
+            "value": "マシュリーを探して２"
+        },
+        {
+            "key": "QE_ST_01100207",
+            "value": "マシュリーを探して３"
+        },
+        {
+            "key": "QE_ST_01100208",
+            "value": "分裂１"
+        },
+        {
+            "key": "QE_ST_01100209",
+            "value": "分裂２"
+        },
+        {
+            "key": "QE_ST_01100210",
+            "value": "それでも信じる"
+        },
+        {
+            "key": "QE_ST_01100301",
+            "value": "父の選択"
+        },
+        {
+            "key": "QE_ST_01100302",
+            "value": "秘密の通路１"
+        },
+        {
+            "key": "QE_ST_01100303",
+            "value": "秘密の通路２"
+        },
+        {
+            "key": "QE_ST_01100304",
+            "value": "条件"
+        },
+        {
+            "key": "QE_ST_01100305",
+            "value": "決断せよ"
+        },
+        {
+            "key": "QE_ST_01100306",
+            "value": "屈辱と憎悪"
+        },
+        {
+            "key": "QE_ST_01100307",
+            "value": "ダリオ"
+        },
+        {
+            "key": "QE_ST_01100308",
+            "value": "胸騒ぎ"
+        },
+        {
+            "key": "QE_ST_01100309",
+            "value": "秘密の通路３"
+        },
+        {
+            "key": "QE_ST_01100310",
+            "value": "為すべきこと"
+        },
+        {
             "key": "QE_HA_LW_MONT",
             "value": "欠片獲得 モント・リオニス"
         },
@@ -2069,6 +2149,18 @@
             "value": "タイタス"
         },
         {
+            "key": "QE_CH_FF4_CECL",
+            "value": "セシル"
+        },
+        {
+            "key": "QE_CH_FF4_KAIN",
+            "value": "カイン"
+        },
+        {
+            "key": "QE_CH_FF4_ROSA",
+            "value": "ローザ"
+        },
+        {
             "key": "QE_EV_1100DL_FIR",
             "value": "1100万DL記念クエスト（火）"
         },
@@ -2225,6 +2317,18 @@
             "value": "限定ハードクエスト（ルアーサ）"
         },
         {
+            "key": "QE_EV_CECL_01",
+            "value": "限定ハードクエスト（セシル）"
+        },
+        {
+            "key": "QE_EV_KAIN_01",
+            "value": "限定ハードクエスト（カイン）"
+        },
+        {
+            "key": "QE_EV_ROSA_01",
+            "value": "限定ハードクエスト（ローザ）"
+        },
+        {
             "key": "QE_PT_001_01",
             "value": "裁きの試練クエスト Normal#1"
         },
@@ -2270,6 +2374,54 @@
         },
         {
             "key": "QE_PT_001_BOSS_2",
+            "value": "裁きの試練ボスバトル Hard"
+        },
+        {
+            "key": "QE_PT_002_01",
+            "value": "裁きの試練クエスト Normal#1"
+        },
+        {
+            "key": "QE_PT_002_02",
+            "value": "裁きの試練クエスト Normal#2"
+        },
+        {
+            "key": "QE_PT_002_03",
+            "value": "裁きの試練クエスト Normal#3"
+        },
+        {
+            "key": "QE_PT_002_04",
+            "value": "裁きの試練クエスト Normal#4"
+        },
+        {
+            "key": "QE_PT_002_05",
+            "value": "裁きの試練クエスト Normal#5"
+        },
+        {
+            "key": "QE_PT_002_HA01",
+            "value": "裁きの試練クエスト Hard#1"
+        },
+        {
+            "key": "QE_PT_002_HA02",
+            "value": "裁きの試練クエスト Hard#2"
+        },
+        {
+            "key": "QE_PT_002_HA03",
+            "value": "裁きの試練クエスト Hard#3"
+        },
+        {
+            "key": "QE_PT_002_HA04",
+            "value": "裁きの試練クエスト Hard#4"
+        },
+        {
+            "key": "QE_PT_002_HA05",
+            "value": "裁きの試練クエスト Hard#5"
+        },
+        {
+            "key": "QE_PT_002_BOSS_1",
+            "value": "裁きの試練ボスバトル Normal"
+        },
+        {
+            "key": "QE_PT_002_BOSS_2",
             "value": "裁きの試練ボスバトル Hard"
         },
         {
@@ -2443,6 +2595,54 @@
         {
             "key": "QE_RAID_FF14_5",
             "value": "FINAL FANTASY XIV 漆黒の反逆者 Raid#5"
+        },
+        {
+            "key": "QE_EV_FF4_01",
+            "value": "FINAL FANTASY Ⅳ Battle#1"
+        },
+        {
+            "key": "QE_EV_FF4_02",
+            "value": "FINAL FANTASY Ⅳ Battle#2"
+        },
+        {
+            "key": "QE_EV_FF4_03",
+            "value": "ドワーフ城内"
+        },
+        {
+            "key": "QE_EV_FF4_04",
+            "value": "封印の洞窟"
+        },
+        {
+            "key": "QE_EV_FF4_05",
+            "value": "ドワーフ城クリスタルルーム"
+        },
+        {
+            "key": "QE_EV_FF4_06",
+            "value": "FINAL FANTASY Ⅳ Battle#1【中級】"
+        },
+        {
+            "key": "QE_EV_FF4_07",
+            "value": "FINAL FANTASY Ⅳ Battle#2【中級】"
+        },
+        {
+            "key": "QE_EV_FF4_08",
+            "value": "ドワーフ城内【中級】"
+        },
+        {
+            "key": "QE_EV_FF4_09",
+            "value": "封印の洞窟【中級】"
+        },
+        {
+            "key": "QE_EV_FF4_10",
+            "value": "ドワーフ城クリスタルルーム【中級】"
+        },
+        {
+            "key": "QE_EV_FF4_EX_01",
+            "value": "FINAL FANTASY Ⅳ 【EX1】"
+        },
+        {
+            "key": "QE_EV_FF4_EX_02",
+            "value": "FINAL FANTASY Ⅳ 【EX2】"
         },
         {
             "key": "QE_EV_ART_CRF_07",
@@ -2647,6 +2847,14 @@
         {
             "key": "QE_EV_FFT_CM_01",
             "value": "CM放送記念クエスト"
+        },
+        {
+            "key": "QE_EV_CM_01",
+            "value": "CM放送記念クエスト"
+        },
+        {
+            "key": "QE_EV_WAVE_001",
+            "value": "連破クエスト"
         },
         {
             "key": "QE_EV_01_01",
@@ -2937,6 +3145,30 @@
             "value": "FF XIV：漆黒のヴィランズコラボ記念レイド"
         },
         {
+            "key": "QE_RAID_EV_12_01",
+            "value": "２ヘッドドラゴン討伐レイド"
+        },
+        {
+            "key": "QE_RAID_EV_12_02",
+            "value": "２ヘッドドラゴン討伐レイド"
+        },
+        {
+            "key": "QE_RAID_EV_12_03",
+            "value": "２ヘッドドラゴン討伐レイド"
+        },
+        {
+            "key": "QE_RAID_EV_12_04",
+            "value": "プリンプリンセス討伐レイド"
+        },
+        {
+            "key": "QE_RAID_EV_12_05",
+            "value": "プリンプリンセス討伐レイド"
+        },
+        {
+            "key": "QE_RAID_EV_12_06",
+            "value": "プリンプリンセス討伐レイド"
+        },
+        {
             "key": "QE_EV_ETRE_01",
             "value": "エトア育成クエスト　クエスト1"
         },
@@ -3205,6 +3437,10 @@
             "value": "ブラッディムーン戦"
         },
         {
+            "key": "QE_SB_CHCB_01",
+            "value": "チョコボ戦"
+        },
+        {
             "key": "QE_MU_EV_FF1_EX",
             "value": "FINAL FANTASY I 【EX】"
         },
@@ -3219,6 +3455,18 @@
         {
             "key": "QE_MU_FF14_Ex3",
             "value": "FINAL FANTASY XIV 漆黒の反逆者 【EX3】"
+        },
+        {
+            "key": "QE_MU_FF4_EX_01",
+            "value": "FINAL FANTASY Ⅳ 【EX1】"
+        },
+        {
+            "key": "QE_MU_FF4_EX_03",
+            "value": "FINAL FANTASY Ⅳ 【EX1】"
+        },
+        {
+            "key": "QE_MU_FF4_EX_02",
+            "value": "FINAL FANTASY Ⅳ 【EX2】"
         },
         {
             "key": "QE_MU_ART_CRF_07",
@@ -3665,6 +3913,10 @@
             "value": "海岸"
         },
         {
+            "key": "QE_GVG_00008",
+            "value": "遺跡"
+        },
+        {
             "key": "QE_PVP_FRE_0001",
             "value": "平原"
         },
@@ -3679,6 +3931,10 @@
         {
             "key": "QE_PVP_FRE_0004",
             "value": "城内"
+        },
+        {
+            "key": "QE_PVP_FRI_0011",
+            "value": "遺跡"
         },
         {
             "key": "QE_PVP_FRI_0009",

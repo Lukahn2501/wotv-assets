@@ -2146,7 +2146,7 @@
         },
         {
             "key": "HARDQUEST_LIMIT_OVER_DESC",
-            "value": "本日ハードクエストをプレイできる回数上限に達しました。<br>(回数は毎日AM5時にリセットされます)"
+            "value": "本日ハードクエストをプレイできる回数上限に達しました。<br>(回数は毎日0:00 World Time (PST)にリセットされます)"
         },
         {
             "key": "HARDQUEST_RESET_OVER_TITLE",

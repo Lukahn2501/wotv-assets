@@ -26,7 +26,7 @@
         },
         {
             "key": "SQ_WD_010104_01",
-            "value": "Envoyez des cadeaux à vos amis"
+            "value": "Envoyez un cadeau à un ami"
         },
         {
             "key": "SQ_WD_010104_02",
@@ -102,7 +102,15 @@
         },
         {
             "key": "SQ_WD_010203_02",
-            "value": "Rejoindre une guilde"
+            "value": "Rejoignez une guilde"
+        },
+        {
+            "key": "SQ_WD_010204_01",
+            "value": "Prenez part à un combat de guilde"
+        },
+        {
+            "key": "SQ_WD_010204_02",
+            "value": "Créez un équipement"
         }
     ]
 }

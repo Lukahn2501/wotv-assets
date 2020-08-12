@@ -110,7 +110,11 @@
         },
         {
             "key": "QE_ST_01050304",
-            "value": "Tous vos alliés sont tombés excepté Schuzelt"
+            "value": "Tous vos alliés sont tombés excepté Sterne Leonis"
+        },
+        {
+            "key": "QE_ST_01010910",
+            "value": "Reach the front of the castle gates or annihilate the enemy"
         },
         {
             "key": "QE_ST_01080110",
@@ -145,12 +149,40 @@
             "value": "Terrassez le Chocoflan"
         },
         {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Terrassez la Guimauve blanche"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Terrassez la Guimauve blanche"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Terrassez la Guimauve blanche"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Terrassez la Guimauve blanche"
+        },
+        {
             "key": "QE_ST_01070203",
-            "value": "Terrassez Diah"
+            "value": "Deah defeated"
         },
         {
             "key": "QE_ST_01070209",
-            "value": "Terrassez Oldoa"
+            "value": "Oldoa defeated"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Terrassez la Sentinelle"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Terrassez la Sentinelle"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "Terrassez la Sentinelle"
         }
     ]
 }

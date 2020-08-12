@@ -2146,7 +2146,7 @@
         },
         {
             "key": "HARDQUEST_LIMIT_OVER_DESC",
-            "value": "Heute können keine weiteren Schwierigen Aufträge mehr gespielt werden (Anzahl wird täglich um 00:00 zurückgesetzt)."
+            "value": "Heute können keine weiteren Schwierigen Aufträge mehr gespielt werden (Anzahl wird täglich um 00:00 Weltzeit (PST) zurückgesetzt)."
         },
         {
             "key": "HARDQUEST_RESET_OVER_TITLE",

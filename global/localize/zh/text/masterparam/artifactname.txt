@@ -1889,6 +1889,18 @@
             "value": "蛇鬥士之冠"
         },
         {
+            "key": "AF_ACC_FF1_WROL_1",
+            "value": "光明鐵手套"
+        },
+        {
+            "key": "AF_ACC_LW_QILF_1",
+            "value": "杖術士的髮飾"
+        },
+        {
+            "key": "AF_KAT_LW_SIMR_1",
+            "value": "滅卻大太刀"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "獅子劍"
         },
@@ -1977,6 +1989,10 @@
             "value": "暗殺者短劍"
         },
         {
+            "key": "AF_SWO_FF1_WROL_2",
+            "value": "光明之劍"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "變石戒指"
         },
@@ -2003,6 +2019,58 @@
         {
             "key": "AF_LW_BSW_011",
             "value": "深紅烈焰"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "白金法袍"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "白金法袍+1"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "白金法袍+2"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "白金法袍+3"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "白金法袍+4"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "白金法袍+5"
+        },
+        {
+            "key": "AF_FF1_ARM_002",
+            "value": "光明之鎧"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "光明之鎧+1"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "光明之鎧+2"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "光明之鎧+3"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "光明之鎧+4"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "光明之鎧+5"
+        },
+        {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "幻靈手杖"
         }
     ]
 }

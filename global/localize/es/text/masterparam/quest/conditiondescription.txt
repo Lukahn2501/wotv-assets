@@ -217,6 +217,18 @@
             "value": "[Vinera Fennes] de nv. 1 o superior"
         },
         {
+            "key": "COND_HA_FF1_WROL",
+            "value": "[Guerrero de la Luz] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_QILF",
+            "value": "[Kilfe] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_SIMR",
+            "value": "[Seymore] de nv. 1 o superior"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "[Mont Leonis] de nv. 40 o superior"
         },
@@ -471,6 +483,18 @@
         {
             "key": "COND_CH_LW_TREL",
             "value": "[Tyrell] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FF1_WROL",
+            "value": "[Guerrero de la Luz] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_QILF",
+            "value": "[Kilfe] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_SIMR",
+            "value": "[Seymore] de nv. 40 o superior"
         }
     ]
 }

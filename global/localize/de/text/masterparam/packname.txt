@@ -29,6 +29,10 @@
             "value": "Storyauftragspaket VI"
         },
         {
+            "key": "MP_QEST_07",
+            "value": "Storyauftragspaket VII"
+        },
+        {
             "key": "MP_GL_RANK_02",
             "value": "Spielerrangpaket II"
         },

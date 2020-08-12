@@ -113,6 +113,10 @@
             "value": "Alle Verbündete außer Styr Leonis ausgelöscht"
         },
         {
+            "key": "QE_ST_01010910",
+            "value": "Reach the front of the castle gates or annihilate the enemy"
+        },
+        {
             "key": "QE_ST_01080110",
             "value": "Muraga Fennes besiegt"
         },
@@ -145,12 +149,40 @@
             "value": "Den Schokopudding besiegt"
         },
         {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Das Weiße Marshmallow besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Das Weiße Marshmallow besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Das Weiße Marshmallow besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Das Weiße Marshmallow besiegt"
+        },
+        {
             "key": "QE_ST_01070203",
-            "value": "Deah besiegt"
+            "value": "Deah defeated"
         },
         {
             "key": "QE_ST_01070209",
-            "value": "Oldoa besiegt"
+            "value": "Oldoa defeated"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Die Todesmaschine besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Die Todesmaschine besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "Die Todesmaschine besiegt"
         }
     ]
 }

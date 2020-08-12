@@ -1041,6 +1041,46 @@
             "value": "Recuerdo de asesino (rojo)"
         },
         {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "Recuerdo de Guerrero de la Luz (verde)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "Recuerdo de Guerrero de la Luz (azul)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "Recuerdo de Guerrero de la Luz (morado)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "Recuerdo de Guerrero de la Luz (amarillo)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "Recuerdo de Guerrero de la Luz (rojo)"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "Recuerdo de maga de bastones (verde)"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "Recuerdo de maga de bastones (azul)"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "Recuerdo de maga de bastones (morado)"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "Recuerdo de maga de bastones (amarillo)"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "Recuerdo de maga de bastones (rojo)"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Alcrist de fuego (verde)"
         },
@@ -1741,6 +1781,18 @@
             "value": "Fragmento de Tyrell"
         },
         {
+            "key": "IT_PI_FF1_WROL",
+            "value": "Fragmento de Guerrero de la Luz"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "Fragmento de Kilfe"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "Fragmento de Seymore"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Magicita roja (P)"
         },
@@ -1997,6 +2049,22 @@
             "value": "Piedra del despertar de ochú (3★)"
         },
         {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "Piedra del despertar de Dragón bicéfalo (2★)"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "Piedra del despertar de Dragón bicéfalo (3★)"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "Piedra del despertar de Diablo (2★)"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "Piedra del despertar de Diablo (3★)"
+        },
+        {
             "key": "IT_TICKET_STORY",
             "value": "Tícket de avance de historia"
         },
@@ -2082,27 +2150,27 @@
         },
         {
             "key": "IT_AF_MAT_ICE_01",
-            "value": "Cristal Hielo"
+            "value": "Crist de hielo"
         },
         {
             "key": "IT_AF_MAT_THUNDER_01",
-            "value": "Cristal Electro"
+            "value": "Crist de rayo"
         },
         {
             "key": "IT_AF_MAT_WATER_01",
-            "value": "Cristal Aqua"
+            "value": "Crist de agua"
         },
         {
             "key": "IT_AF_MAT_SOIL_01",
-            "value": "Cristal Tierra"
+            "value": "Crist de tierra"
         },
         {
             "key": "IT_AF_MAT_WIND_01",
-            "value": "Cristal Aero"
+            "value": "Crist de viento"
         },
         {
             "key": "IT_AF_MAT_SHINE_01",
-            "value": "Cristal Sanctus"
+            "value": "Crist de luz"
         },
         {
             "key": "IT_AF_MAT_DARK_01",
@@ -2505,6 +2573,14 @@
             "value": "Receta: anillo de alejandrita"
         },
         {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "Receta: túnica de platino"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "Receta: armadura de luz"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Sello de vitalidad"
         },
@@ -2733,6 +2809,10 @@
             "value": "Medalla de invocación de julio (B)"
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "Medalla de invocación de agosto (A)"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Medalla de evento de FFT"
         },
@@ -2757,8 +2837,24 @@
             "value": "Medalla de evento de julio"
         },
         {
+            "key": "IT_EC_EV04_1",
+            "value": "Medalla de evento de agosto"
+        },
+        {
             "key": "IT_EC_RAID_02",
             "value": "Medalla de asalto del flan de chocolate"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "Medalla de asalto del malvavisco blanco"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "Medalla de evento de FFI"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "Medalla de invocación de FFI"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2805,6 +2901,10 @@
             "value": "Tícket seleccionador de 10 fragmentos de la memoria elementales"
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "Tícket seleccionador de 200 fragmentos de la memoria elementales"
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": "Tícket seleccionador de 100 fragmentos de la memoria elementales"
         },
@@ -2823,6 +2923,10 @@
         {
             "key": "IT_US_SE_JB_EM_01_01",
             "value": "Tícket seleccionador de 30 alcrists elementales (verdes)"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "Tícket seleccionador de 10 alcrists elementales (azules)"
         },
         {
             "key": "IT_US_SE_JB_EM_02_02",
@@ -2905,6 +3009,14 @@
             "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "Tícket seleccionador de unidad UR recomendada"
         },
@@ -2913,12 +3025,24 @@
             "value": "Tícket seleccionador de unidad MR recomendada"
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Tícket seleccionador de unidad MR A"
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
+            "value": "Tícket seleccionador de 40 fragmentos de unidad UR"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
             "value": "Tícket seleccionador de 40 fragmentos de unidad UR"
         },
         {
             "key": "IT_US_G_U_UR_01",
             "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "Tícket de invocación de unidad UR garantizada"
         },
         {
             "key": "IT_US_G_UR_01",
@@ -2975,6 +3099,10 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "Tícket seleccionador de NN prismas del despertar"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Tícket seleccionador de 200 prismas del despertar"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3207,6 +3335,34 @@
         {
             "key": "IT_VPI_LW_VALE2",
             "value": "Fragmento de la carta de visión «Admiradoras rivales»"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "Fragmento de la carta de visión «Dragón bicéfalo, el Horror Serpentino»"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "Fragmento de la carta de visión «Maga celosa»"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "Fragmento de la carta de visión «Ventajas de ser mona»"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "Fragmento de la carta de visión «Falsas promesas, almas honestas»"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "Fragmento de la carta de visión «Máquina mortal»"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "Fragmento de la carta de visión «Diablo, la Pesadilla Monstruosa»"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "Fragmento de la carta de visión «Banquete bajo los pétalos efímeros»"
         },
         {
             "key": "IT_VC_EXP_01",

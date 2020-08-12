@@ -4601,6 +4601,10 @@
             "value": "入手済みのものは限界突破・覚醒素材に変換されます"
         },
         {
+            "key": "GACHA_RESULT_REDRAW_DESC",
+            "value": "<line-height=1.2em>召喚途中でキャンセルや引き直す前の結果に戻ることはできません<br>最後の排出結果は引き直しできません"
+        },
+        {
             "key": "GACHA_RESULT_TAP_DESC",
             "value": "アイコンタップで詳細を確認"
         },
@@ -4637,6 +4641,18 @@
             "value": "初回BONUS"
         },
         {
+            "key": "GACHA_RESULT_REDRAW_CHECK_TITLE",
+            "value": "引き直し召喚"
+        },
+        {
+            "key": "GACHA_RESULT_REDRAW_CHECK_DESC",
+            "value": "引き直し召喚を行います。<br>よろしいですか？"
+        },
+        {
+            "key": "GACHA_RESULT_REDRAW_DECIDE_DESC",
+            "value": "引き直し召喚を確定しますか？"
+        },
+        {
             "key": "GACHA_BONUS_TITLE",
             "value": "報酬を受け取る"
         },
@@ -4646,11 +4662,11 @@
         },
         {
             "key": "GACHA_PENDING_TITLE",
-            "value": "ガチャ引きなおし"
+            "value": "引き直し召喚"
         },
         {
             "key": "GACHA_PENDING_DESC",
-            "value": "引き直しガチャがあります。"
+            "value": "引き直し召喚があります。"
         },
         {
             "key": "GACHA_MEDAL_CHANGE_TITLE",
@@ -4794,7 +4810,7 @@
         },
         {
             "key": "RAID_STOCK",
-            "value": "遭遇スタック"
+            "value": "遭遇"
         },
         {
             "key": "RAID_STOCK_SHORT",
@@ -7994,11 +8010,11 @@
         },
         {
             "key": "QUEST_APPEAL_UNIT_EXP",
-            "value": "ユニットEXP<br>アップ"
+            "value": "ユニットJP<br>ドロップ個数UP"
         },
         {
             "key": "QUEST_APPEAL_UNIT_JP",
-            "value": "ユニットJP<br>アップ"
+            "value": "ユニットJP<br>ドロップ個数UP"
         },
         {
             "key": "QUEST_APPEAL_ARTI_PROFICIENCY",
@@ -8331,6 +8347,10 @@
         {
             "key": "POINTQUEST_TOP_APPEAL",
             "value": "クエストをクリアして<br>ボスバトルチケットを手に入れよ！"
+        },
+        {
+            "key": "POINTQUEST_TOP_APPEAL_CHANGE",
+            "value": "クエストをクリアすると<br>ボスバトルチケットが手に入るわ。"
         },
         {
             "key": "POINTQUEST_ENTRY_BADGE_OPEN",

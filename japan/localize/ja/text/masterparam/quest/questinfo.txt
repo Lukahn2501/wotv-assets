@@ -1445,6 +1445,86 @@
             "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.13"
         },
         {
+            "key": "QE_ST_01100201",
+            "value": "クエスト情報<br>推奨：UnitLv.71 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100202",
+            "value": "クエスト情報<br>推奨：UnitLv.72 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100203",
+            "value": "クエスト情報<br>推奨：UnitLv.72 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100204",
+            "value": "クエスト情報<br>推奨：UnitLv.73 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100205",
+            "value": "クエスト情報<br>推奨：UnitLv.74 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100206",
+            "value": "クエスト情報<br>推奨：UnitLv.74 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100207",
+            "value": "クエスト情報<br>推奨：UnitLv.75 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100208",
+            "value": "クエスト情報<br>推奨：UnitLv.76 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100209",
+            "value": "クエスト情報<br>推奨：UnitLv.76 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100210",
+            "value": "クエスト情報<br>推奨：UnitLv.81 JobLv.13"
+        },
+        {
+            "key": "QE_ST_01100301",
+            "value": "クエスト情報<br>推奨：UnitLv.72 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01100302",
+            "value": "クエスト情報<br>推奨：UnitLv.73 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100303",
+            "value": "クエスト情報<br>推奨：UnitLv.73 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100304",
+            "value": "クエスト情報<br>推奨：UnitLv.74 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100305",
+            "value": "クエスト情報<br>推奨：UnitLv.75 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100306",
+            "value": "クエスト情報<br>推奨：UnitLv.75 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100307",
+            "value": "クエスト情報<br>推奨：UnitLv.76 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100308",
+            "value": "クエスト情報<br>推奨：UnitLv.77 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100309",
+            "value": "クエスト情報<br>推奨：UnitLv.77 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01100310",
+            "value": "クエスト情報<br>推奨：UnitLv.82 JobLv.13"
+        },
+        {
             "key": "QE_HA_LW_MONT",
             "value": "クエスト情報<br>推奨：UnitLv.17 JobLv.3"
         },
@@ -2069,6 +2149,18 @@
             "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「タイタス」UnitLv.40以上"
         },
         {
+            "key": "QE_CH_FF4_CECL",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「セシル」UnitLv.40以上"
+        },
+        {
+            "key": "QE_CH_FF4_KAIN",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「カイン」UnitLv.40以上"
+        },
+        {
+            "key": "QE_CH_FF4_ROSA",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ローザ」UnitLv.40以上"
+        },
+        {
             "key": "QE_EV_1100DL_FIR",
             "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
         },
@@ -2225,6 +2317,18 @@
             "value": "クエスト情報<br>解放条件：ユニット「ルアーサ」を獲得"
         },
         {
+            "key": "QE_EV_CECL_01",
+            "value": "クエスト情報<br>解放条件：ユニット「セシル」を獲得"
+        },
+        {
+            "key": "QE_EV_KAIN_01",
+            "value": "クエスト情報<br>解放条件：ユニット「カイン」を獲得"
+        },
+        {
+            "key": "QE_EV_ROSA_01",
+            "value": "クエスト情報<br>解放条件：ユニット「ローザ」を獲得"
+        },
+        {
             "key": "QE_PT_001_01",
             "value": "ハイスコア報酬<br>・110Pt達成で獲得<br>・150Pt達成で獲得<br>・190Pt達成で獲得"
         },
@@ -2271,6 +2375,54 @@
         {
             "key": "QE_PT_001_BOSS_2",
             "value": "ハイスコア報酬<br>・2070Pt達成で獲得<br>・2710Pt達成で獲得<br>・3520Pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_01",
+            "value": "ハイスコア報酬<br>・110pt達成で獲得<br>・150pt達成で獲得<br>・190pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_02",
+            "value": "ハイスコア報酬<br>・120pt達成で獲得<br>・160pt達成で獲得<br>・200pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_03",
+            "value": "ハイスコア報酬<br>・140pt達成で獲得<br>・180pt達成で獲得<br>・240pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_04",
+            "value": "ハイスコア報酬<br>・150pt達成で獲得<br>・190pt達成で獲得<br>・250pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_05",
+            "value": "ハイスコア報酬<br>・170pt達成で獲得<br>・220pt達成で獲得<br>・280pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_HA01",
+            "value": "ハイスコア報酬<br>・410pt達成で獲得<br>・540pt達成で獲得<br>・700pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_HA02",
+            "value": "ハイスコア報酬<br>・430pt達成で獲得<br>・560pt達成で獲得<br>・720pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_HA03",
+            "value": "ハイスコア報酬<br>・460pt達成で獲得<br>・600pt達成で獲得<br>・770pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_HA04",
+            "value": "ハイスコア報酬<br>・470pt達成で獲得<br>・620pt達成で獲得<br>・800pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_HA05",
+            "value": "ハイスコア報酬<br>・500pt達成で獲得<br>・660pt達成で獲得<br>・850pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_BOSS_1",
+            "value": "ハイスコア報酬<br>・1050pt達成で獲得<br>・1380pt達成で獲得<br>・1780pt達成で獲得"
+        },
+        {
+            "key": "QE_PT_002_BOSS_2",
+            "value": "ハイスコア報酬<br>・2070pt達成で獲得<br>・2710pt達成で獲得<br>・3520pt達成で獲得"
         },
         {
             "key": "QE_EV_FF1_01",
@@ -2442,6 +2594,54 @@
         },
         {
             "key": "QE_RAID_FF14_5",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF4_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF4_02",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF4_03",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF4_04",
+            "value": "クエスト情報<br>ヒント：石化にらみには金の針で対抗しよう"
+        },
+        {
+            "key": "QE_EV_FF4_05",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF4_06",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF4_07",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF4_08",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF4_09",
+            "value": "クエスト情報<br>ヒント：石化にらみには金の針で対抗しよう"
+        },
+        {
+            "key": "QE_EV_FF4_10",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF4_EX_01",
+            "value": "クエスト情報<br>ヒント：石化にらみには金の針で対抗しよう"
+        },
+        {
+            "key": "QE_EV_FF4_EX_02",
             "value": "クエスト情報<br>なし"
         },
         {
@@ -2647,6 +2847,14 @@
         {
             "key": "QE_EV_FFT_CM_01",
             "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+        },
+        {
+            "key": "QE_EV_CM_01",
+            "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+        },
+        {
+            "key": "QE_EV_WAVE_001",
+            "value": "クエスト情報<br>・味方が全滅してもクリアとなり報酬を獲得できます<br>・このクエストでは敵からのクリスタルドロップがありません"
         },
         {
             "key": "QE_EV_01_01",
@@ -2937,6 +3145,30 @@
             "value": "クエスト情報<br>なし"
         },
         {
+            "key": "QE_RAID_EV_12_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_12_02",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_12_03",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_12_04",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_12_05",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_12_06",
+            "value": "クエスト情報<br>なし"
+        },
+        {
             "key": "QE_EV_ETRE_01",
             "value": "クエスト情報<br>なし"
         },
@@ -3205,6 +3437,10 @@
             "value": "クエスト情報<br>ヒント：魔法攻撃に対するカウンターに気をつけよう"
         },
         {
+            "key": "QE_SB_CHCB_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
             "key": "QE_MU_EV_FF1_EX",
             "value": "クエスト情報<br>なし"
         },
@@ -3219,6 +3455,18 @@
         {
             "key": "QE_MU_FF14_Ex3",
             "value": "クエスト情報<br>ヒント：投石器を止めよう"
+        },
+        {
+            "key": "QE_MU_FF4_EX_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_FF4_EX_03",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_FF4_EX_02",
+            "value": "クエスト情報<br>なし"
         },
         {
             "key": "QE_MU_ART_CRF_07",
@@ -3665,6 +3913,10 @@
             "value": "射撃攻撃耐性アップ"
         },
         {
+            "key": "QE_GVG_00008",
+            "value": "刺突攻撃アップ"
+        },
+        {
             "key": "QE_PVP_FRE_0001",
             "value": "なし"
         },
@@ -3678,6 +3930,10 @@
         },
         {
             "key": "QE_PVP_FRE_0004",
+            "value": "なし"
+        },
+        {
+            "key": "QE_PVP_FRI_0011",
             "value": "なし"
         },
         {

@@ -2146,7 +2146,7 @@
         },
         {
             "key": "HARDQUEST_LIMIT_OVER_DESC",
-            "value": "Has alcanzado el n.º de veces que puedes jugar a las misiones difíciles por hoy (se reinicia a las 00:00)."
+            "value": "Has alcanzado el n.º de veces que puedes jugar a las misiones difíciles por hoy (se reinicia a las 00:00, hora mundial (PST))."
         },
         {
             "key": "HARDQUEST_RESET_OVER_TITLE",

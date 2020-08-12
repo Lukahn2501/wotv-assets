@@ -1041,6 +1041,46 @@
             "value": "アサシンの記憶・緋"
         },
         {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "光の戦士の記憶・翠"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "光の戦士の記憶・碧"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "光の戦士の記憶・紫"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "光の戦士の記憶・橘"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "光の戦士の記憶・緋"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "魔杖術士の記憶・翠"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "魔杖術士の記憶・碧"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "魔杖術士の記憶・紫"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "魔杖術士の記憶・橘"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "魔杖術士の記憶・緋"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "火の輝石・翠"
         },
@@ -1741,6 +1781,18 @@
             "value": "ティレルの欠片"
         },
         {
+            "key": "IT_PI_FF1_WROL",
+            "value": "光の戦士の欠片"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "キルフェの欠片"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "シムールの欠片"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "赤の魔石（小）"
         },
@@ -1995,6 +2047,22 @@
         {
             "key": "IT_SB_AW_OCHU_R3",
             "value": "オチューの獣醒石（★3）"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "２ヘッドドラゴンの獣醒石（★2）"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "２ヘッドドラゴンの獣醒石（★3）"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "ディアボロスの獣醒石（★2）"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "ディアボロスの獣醒石（★3）"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2505,6 +2573,14 @@
             "value": "アレキサンドライトの指輪のクラフトレシピ"
         },
         {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "プラチナローブのクラフトレシピ"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "アーマーオブライトのクラフトレシピ"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "命の刻印"
         },
@@ -2733,6 +2809,10 @@
             "value": "【July】Summon Medal B"
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "【August】Summon Medal A"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFTコラボイベントメダル"
         },
@@ -2757,8 +2837,24 @@
             "value": "【7月】イベントメダル"
         },
         {
+            "key": "IT_EC_EV04_1",
+            "value": "【8月】イベントメダル"
+        },
+        {
             "key": "IT_EC_RAID_02",
             "value": "チョコレートプリンレイドメダル"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "ホワイトマシュマロレイドメダル"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "FF1コラボイベントメダル"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "FF1コラボ召喚メダル"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2805,6 +2901,10 @@
             "value": "属性の想いの欠片×10選択召喚券"
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "属性の想いの欠片×200選択召喚券"
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": "属性の想いの欠片×100選択召喚券"
         },
@@ -2823,6 +2923,10 @@
         {
             "key": "IT_US_SE_JB_EM_01_01",
             "value": "属性の輝石・翠×30選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "属性の輝石・碧×10選択召喚券"
         },
         {
             "key": "IT_US_SE_JB_EM_02_02",
@@ -2905,6 +3009,14 @@
             "value": "URVカード欠片×50選択召喚券"
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "URVカード欠片×50選択召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "URVカード欠片×50選択召喚券"
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "おすすめURユニット選択召喚券"
         },
@@ -2913,12 +3025,24 @@
             "value": "おすすめSSRユニット選択召喚券"
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "SSRユニット選択召喚券A"
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
+            "value": "URユニット欠片×40選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
             "value": "URユニット欠片×40選択召喚券"
         },
         {
             "key": "IT_US_G_U_UR_01",
             "value": "UR確定ユニット召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "UR確定ユニット召喚券"
         },
         {
             "key": "IT_US_G_UR_01",
@@ -2975,6 +3099,10 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "覚醒輝源×NN選択召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "覚醒輝源×200選択召喚券"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3207,6 +3335,34 @@
         {
             "key": "IT_VPI_LW_VALE2",
             "value": "イケメン争奪戦！！の欠片"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "猛攻双竜　２ヘッドドラゴンの欠片"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "嫉心の魔術師の欠片"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "見栄の代償の欠片"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "偽りの契り、偽れぬ魂の欠片"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "デスマシーンの欠片"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "夢幻魔人　ディアボロスの欠片"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "徒桜の宴の欠片"
         },
         {
             "key": "IT_VC_EXP_01",

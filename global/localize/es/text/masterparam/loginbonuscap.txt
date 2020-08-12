@@ -5,6 +5,10 @@
             "value": "Bonificación de acceso para principiantes"
         },
         {
+            "key": "LB_BEGINNER_002",
+            "value": "Bonificación de acceso para principiantes"
+        },
+        {
             "key": "LB_TOTAL_001",
             "value": "Bonificación de acceso acumulado"
         },
@@ -27,6 +31,10 @@
         {
             "key": "LB_202007",
             "value": "Bonificación de acceso de julio"
+        },
+        {
+            "key": "LB_202008",
+            "value": "Bonificación de acceso de agosto"
         },
         {
             "key": "LB_LIMIT_GL_0001",
@@ -103,6 +111,22 @@
         {
             "key": "LB_LIMIT_GL0014",
             "value": "Bonificación de acceso de objetivos de FF EXVIUS Universe"
+        },
+        {
+            "key": "LB_LIMIT_GL0015",
+            "value": "Bonificación de acceso de celebración de asalto"
+        },
+        {
+            "key": "LB_LIMIT_GL0016",
+            "value": "Bonificación de acceso de FFI"
+        },
+        {
+            "key": "LB_LIMIT_GL0017",
+            "value": "Bonificación de acceso de FFI, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0018",
+            "value": "Bonificación de acceso del capítulo 8"
         }
     ]
 }

@@ -129,6 +129,30 @@
             "value": "레어 소환"
         },
         {
+            "key": "Raregacha_A_gl20200729_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_P",
+            "value": "레어 소환"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "출시 기념 기간 한정 일반 소환"
         },
@@ -238,6 +262,38 @@
         },
         {
             "key": "Normal_gacha_A_gl20200715_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_10",
             "value": "기간 한정 일반 소환 10회 소환"
         }
     ]

@@ -1041,6 +1041,46 @@
             "value": "Objeto necesario para mejorar una profesión (asesino) al nv. 15"
         },
         {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "Objeto necesario para mejorar una profesión (Guerrero de la Luz) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "Objeto necesario para mejorar una profesión (Guerrero de la Luz) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "Objeto necesario para mejorar una profesión (Guerrero de la Luz) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "Objeto necesario para mejorar una profesión (Guerrero de la Luz) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "Objeto necesario para mejorar una profesión (Guerrero de la Luz) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 15"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Objeto necesario para mejorar la profesión de una unidad de fuego a los nvs. 2<space=1>–<space=1>3"
         },
@@ -1741,6 +1781,18 @@
             "value": "Objeto necesario para romper el límite de una unidad"
         },
         {
+            "key": "IT_PI_FF1_WROL",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Otorga EXP de esper (poco)"
         },
@@ -1995,6 +2047,22 @@
         {
             "key": "IT_SB_AW_OCHU_R3",
             "value": "Objeto necesario para despertar a Ochú a 3★"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "Objeto necesario para despertar a Dragón bicéfalo a 2★"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "Objeto necesario para despertar a Dragón bicéfalo a 3★"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "Objeto necesario para despertar a Diablo a 2★"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "Objeto necesario para despertar a Diablo a 3★"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2505,6 +2573,14 @@
             "value": "Receta necesaria para forjar un anillo de alejandrita"
         },
         {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "Receta necesaria para elaborar una túnica de platino"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "Receta necesaria para forjar una armadura de luz"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Mayor probabilidad de que aumente la VIT si el equipo ha subido de nivel"
         },
@@ -2733,6 +2809,10 @@
             "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 11/8/2020 23:59, hora mundial (PST))"
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 1/9/2020 23:59, hora mundial PST)"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Objeto que puede adquirirse en los eventos de colaboración de FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medalla de evento de FFT"
         },
@@ -2757,8 +2837,24 @@
             "value": "Objeto que puede adquirirse en los eventos de Vida ardiente. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de evento de julio"
         },
         {
+            "key": "IT_EC_EV04_1",
+            "value": "Objeto que puede adquirirse en los eventos de El Lejano Oriente. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de evento de agosto."
+        },
+        {
             "key": "IT_EC_RAID_02",
             "value": "Medalla que se obtiene en los asaltos"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "Medalla que se obtiene en el asalto del malvavisco blanco"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "Objeto que puede adquirirse en los eventos de colaboración de FFI. Puede intercambiarse por varios objetos en la tienda de intercambio de medalla de evento de FFI"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración de FFI. Puede canjearse por varios objetos en la tienda de intercambio de medallas de invocación de FFI (Finaliza el 25/8/2020 23:59, hora mundial PST)"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2805,6 +2901,10 @@
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 fragmentos de la memoria necesarios para despertar unidades"
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 200 fragmentos de la memoria necesarios para despertar unidades"
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 100 fragmentos de la memoria necesarios para despertar unidades"
         },
@@ -2823,6 +2923,10 @@
         {
             "key": "IT_US_SE_JB_EM_01_01",
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 30 alcrists (verdes) necesarios para mejorar profesiones"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 alcrists (azules) necesarios para mejorar profesiones"
         },
         {
             "key": "IT_US_SE_JB_EM_02_02",
@@ -2905,6 +3009,14 @@
             "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 17 de junio. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración."
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 22 de julio. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 12 de agosto. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración."
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "Tícket que permite al usuario elegir e invocar una unidad recomendada de rareza UR. *Si invocas una unidad que ya posees, esta se convertirá en 40 fragmentos de dicha unidad."
         },
@@ -2913,11 +3025,23 @@
             "value": "Tícket que permite al usuario elegir e invocar una unidad recomendada de rareza MR. *Si invocas una unidad que ya posees, esta se convertirá en 20 fragmentos de dicha unidad."
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Tícket que permite al usuario elegir e invocar una unidad de rareza MR"
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
             "value": "Tícket seleccionador de 40 fragmentos de unidades UR para aquellas publicadas hasta el 17 de junio. *El tícket no podrá usarse con unidades limitadas o de colaboración."
         },
         {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Un tícket que puede usarse para seleccionar e invocar 40 fragmentos de unidad UR."
+        },
+        {
             "key": "IT_US_G_U_UR_01",
+            "value": "Tícket que garantiza una unidad de rareza UR al invocar"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
             "value": "Tícket que garantiza una unidad de rareza UR al invocar"
         },
         {
@@ -2975,6 +3099,10 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar NN prismas del despertar"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 200 prismas del despertar"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3206,6 +3334,34 @@
         },
         {
             "key": "IT_VPI_LW_VALE2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
             "value": "Objeto necesario para despertar una carta de visión"
         },
         {

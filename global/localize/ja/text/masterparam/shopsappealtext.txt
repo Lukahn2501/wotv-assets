@@ -55,6 +55,22 @@
         {
             "key": "14",
             "value": "<line-height=15><cspace=1>ギルド応援<cspace=-0.5><br>キャンペーンショップ！"
+        },
+        {
+            "key": "15",
+            "value": "<line-height=15><cspace=1>レイド記念特別<cspace=-0.5><br>ショップ"
+        },
+        {
+            "key": "16",
+            "value": "<line-height=15><cspace=1>2020サマー<cspace=-0.5><br>キャンペーン ショップ"
+        },
+        {
+            "key": "17",
+            "value": "<line-height=15><cspace=1>FFIコラボ<cspace=-0.5><br>8月11日に終了"
+        },
+        {
+            "key": "18",
+            "value": "<line-height=15><cspace=1>8章<cspace=-0.5><br>公開記念ショップ"
         }
     ]
 }

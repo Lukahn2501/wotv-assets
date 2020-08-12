@@ -362,7 +362,7 @@
         },
         {
             "key": "IT_SET_UR_UNIT",
-            "value": "Lote de unidad UR de los 5 millones de descargas"
+            "value": "Lote de unidad UR"
         },
         {
             "key": "IT_SET_UR_VC",
@@ -571,6 +571,102 @@
         {
             "key": "IT_SET_AW_DARK_CM_03",
             "value": "Lote del despertar total de oscuridad"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "[Principiantes] Esfera de visión arcoíris x1"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "[Principiantes] Esfera de visión cerúlea x1"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "[Principiantes] Fragmento de la memoria arcoíris x1"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "[Principiantes] Lote de profesión"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "[Principiantes] Lote de jadeíta I"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "[Principiantes] Lote de jadeíta II"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "[Principiantes] Lote de azurita I"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "[Principiantes] Lote de azurita II"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "[Principiantes] Lote para despertar unidad UR"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "Lote de receta de equipo R II"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "Lote de carta de visión UR"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Lote de entrenamiento de carta de visión"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "Lote de mejora de esper de luz"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "Lote de mejora de DEF de equipo"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "Lote de mejora de ESP de equipo"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "Lote de entrenamiento del Guerrero de la Luz"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "Lote del despertar total de luz"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "Lote de entrenamiento de la carta de visión «Máquina mortal»"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "Lote del despertar total de tierra"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "Lote de unidad UR"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Lote de entrenamiento de carta de visión B"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Lote de entrenamiento de carta de visión"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "Lote de mejora de esper de oscuridad"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "Lote de mejora: c. visión"
         }
     ]
 }

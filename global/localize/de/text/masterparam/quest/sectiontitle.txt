@@ -81,6 +81,14 @@
             "value": "Muragas Leibgarde"
         },
         {
+            "key": "SE_ST_010703",
+            "value": "Kampf um die Festung Sykkel"
+        },
+        {
+            "key": "SE_ST_010801",
+            "value": "Kampf um die Festung, Ausgang"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Weiter Wald des Löwen"
         },
@@ -131,6 +139,10 @@
         {
             "key": "SE_WD_010203",
             "value": "Schrein des Weißen Wolfs"
+        },
+        {
+            "key": "SE_WD_010204",
+            "value": "Dorf Warmah"
         },
         {
             "key": "SE_SB_01",
@@ -495,6 +507,62 @@
         {
             "key": "SE_EV_NEWMAP_001",
             "value": "Gilden-Probekampf"
+        },
+        {
+            "key": "SE_EV_FF1_01",
+            "value": "„FINAL FANTASY I“-Auftrag"
+        },
+        {
+            "key": "SE_EV_FF1_01_EX",
+            "value": "„FINAL FANTASY I“-Auftrag [EX]"
+        },
+        {
+            "key": "SE_MU_FF1_01_EX",
+            "value": "„FINAL FANTASY I“-Auftrag [EX]"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "Limitierter Schwieriger Auftrag („Krieger des Lichts“)"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "Limitierter Schwieriger Auftrag („Kilphe“)"
+        },
+        {
+            "key": "SE_EV_04_01",
+            "value": "Fern im Osten"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "Fern im Osten [EX]"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "[Multi] Fern im Osten [EX]"
+        },
+        {
+            "key": "SE_EV_NEWMAP_002",
+            "value": "Gilden-Probekampf"
+        },
+        {
+            "key": "SE_CHAL_01",
+            "value": "Herausforderungsauftrag"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_AW_HIGH_03",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_03",
+            "value": ""
         }
     ]
 }

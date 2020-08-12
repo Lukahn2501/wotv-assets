@@ -285,6 +285,18 @@
             "value": "ユニット「タイタス」のレベルが1以上"
         },
         {
+            "key": "COND_HA_FF4_CECL",
+            "value": "ユニット「セシル」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_FF4_KAIN",
+            "value": "ユニット「カイン」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_FF4_ROSA",
+            "value": "ユニット「ローザ」のレベルが1以上"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "ユニット「モント・リオニス」のレベルが40以上"
         },
@@ -635,6 +647,18 @@
         {
             "key": "COND_CH_LW_TITU",
             "value": "ユニット「タイタス」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FF4_CECL",
+            "value": "ユニット「セシル」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FF4_KAIN",
+            "value": "ユニット「カイン」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FF4_ROSA",
+            "value": "ユニット「ローザ」のレベルが40以上"
         }
     ]
 }

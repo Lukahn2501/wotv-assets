@@ -4794,7 +4794,7 @@
         },
         {
             "key": "POWER_SAVE_STACK",
-            "value": "遭遇スタック×"
+            "value": "遭遇×"
         },
         {
             "key": "POWER_SAVE_NOW",

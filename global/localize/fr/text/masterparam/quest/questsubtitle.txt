@@ -109,6 +109,30 @@
             "value": "Niveaux conseillés : unité niv. 70, job niv. 15"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "Niveaux conseillés : unité niv. 70, job niv. 15"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "Niveaux conseillés : unité niv. 70, job niv. 15"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "Niveaux conseillés : unité niv. 70, job niv. 15"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "Niveaux conseillés : unité niv. 5, job niv. 1"
         },
@@ -1101,6 +1125,86 @@
             "value": "Chapitre 7, Partie 2"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "Chapitre 7, Partie 3"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "Chapitre 7, Partie 3"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "Chapitre 7, Partie 3"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "Chapitre 7, Partie 3"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "Chapitre 7, Partie 3"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "Chapitre 7, Partie 3"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "Chapitre 7, Partie 3"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "Chapitre 7, Partie 3"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "Chapitre 7, Partie 3"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "Chapitre 7, Partie 3"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "Chapitre 8, Partie 1"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "Chapitre 8, Partie 1"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "Chapitre 8, Partie 1"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "Chapitre 8, Partie 1"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "Chapitre 8, Partie 1"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "Chapitre 8, Partie 1"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "Chapitre 8, Partie 1"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "Chapitre 8, Partie 1"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "Chapitre 8, Partie 1"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Chapitre 8, Partie 1"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Quête difficile"
         },
@@ -1318,6 +1422,14 @@
         },
         {
             "key": "QE_HA_LW_VNLA",
+            "value": "Quête difficile"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "Quête difficile"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
             "value": "Quête difficile"
         },
         {
@@ -1557,6 +1669,14 @@
             "value": "Quête de personnage"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "Quête de personnage"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "Quête de personnage"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Quête de personnage"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "Quête de personnage"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "Quête de personnage"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "Niveaux conseillés : unité niv. 5, job niv. 1"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "Niveaux conseillés : unité niv. 10, job niv. 2"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "Niveaux conseillés : unité niv. 20, job niv. 4"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "Niveaux conseillés : unité niv. 30, job niv. 6"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "Niveaux conseillés : unité niv. 40, job niv. 8"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "Niveaux conseillés : unité niv. 42, job niv. 8"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "Niveaux conseillés : unité niv. 42, job niv. 8"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "Niveaux conseillés : unité niv. 45, job niv. 8"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "Niveaux conseillés : unité niv. 45, job niv. 9"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "Niveaux conseillés : unité niv. 48, job niv. 9"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "Limité"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "Quête de soutien d'entraînement d'unité"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "Niveaux conseillés : unité niv. 60, job niv. 10"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "Niveaux conseillés : unité niv. 80, job niv. 12"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "Niveaux conseillés : unité niv. 90, job niv. 15"
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "Explorer une nouvelle carte "
+            "key": "QE_EV_04_01",
+            "value": "Niveaux conseillés : unité niv. 5, job niv. 1"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "Niveaux conseillés : unité niv. 10, job niv. 2"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "Niveaux conseillés : unité niv. 15, job niv. 3"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "Niveaux conseillés : unité niv. 20, job niv. 4"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "Niveaux conseillés : unité niv. 20, job niv. 5"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "Niveaux conseillés : unité niv. 25, job niv. 5"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "Niveaux conseillés : unité niv. 30, job niv. 6"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "Niveaux conseillés : unité niv. 35, job niv. 7"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "Niveaux conseillés : unité niv. 40, job niv. 8"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "Niveaux conseillés : unité niv. 40, job niv. 9"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "Limité"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "Niveaux conseillés : unité niv. 50, job niv. 9"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Essai de la nouvelle carte"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "Essai de la nouvelle carte"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "Essai de la nouvelle carte"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "Essai de la nouvelle carte"
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "Niveaux conseillés : unité niv. 80, job niv. 12"
         },
@@ -2145,20 +2405,56 @@
             "value": "Niveaux conseillés : unité niv. 70, job niv. 10"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "Niveaux conseillés : unité niv. 70, job niv. 10"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "Niveaux conseillés : unité niv. 70, job niv. 10"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
-            "value": "Raid de boss"
+            "value": "Boss de raid"
         },
         {
             "key": "QE_RAID_EV_06_02",
-            "value": "Raid de boss"
+            "value": "Boss de raid"
         },
         {
             "key": "QE_RAID_EV_06_03",
-            "value": "Raid de boss"
+            "value": "Boss de raid"
         },
         {
             "key": "QE_RAID_EV_06_04",
-            "value": "Raid de boss"
+            "value": "Boss de raid"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Boss de raid"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Boss de raid"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Boss de raid"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Boss de raid"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Boss de raid"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Boss de raid"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "Boss de raid"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2297,6 +2593,30 @@
             "value": "Niveaux conseillés : unité niv. 70, job niv. 15"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "Niveaux conseillés : unité niv. 70, job niv. 15"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "Niveaux conseillés : unité niv. 70, job niv. 15"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "Niveaux conseillés : unité niv. 70, job niv. 15"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "Types d'attaques et résistances"
         },
@@ -2365,6 +2685,10 @@
             "value": ""
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": ""
+        },
+        {
             "key": "QE_GVG_00001",
             "value": ""
         },
@@ -2374,6 +2698,10 @@
         },
         {
             "key": "QE_GVG_00003",
+            "value": ""
+        },
+        {
+            "key": "QE_GVG_00004",
             "value": ""
         },
         {

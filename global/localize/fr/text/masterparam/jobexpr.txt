@@ -326,39 +326,39 @@
         },
         {
             "key": "JB_LW_DRG",
-            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude Réaction de la Lame draconique permet de résister plus longtemps."
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
         },
         {
             "key": "JB_LW_DRG_FIRE",
-            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude Réaction de la Lame draconique permet de résister plus longtemps."
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
         },
         {
             "key": "JB_LW_DRG_ICE",
-            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude Réaction de la Lame draconique permet de résister plus longtemps."
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
         },
         {
             "key": "JB_LW_DRG_WIND",
-            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude Réaction de la Lame draconique permet de résister plus longtemps."
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
         },
         {
             "key": "JB_LW_DRG_SOIL",
-            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude Réaction de la Lame draconique permet de résister plus longtemps."
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
         },
         {
             "key": "JB_LW_DRG_THUN",
-            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude Réaction de la Lame draconique permet de résister plus longtemps."
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
         },
         {
             "key": "JB_LW_DRG_WATER",
-            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude Réaction de la Lame draconique permet de résister plus longtemps."
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
         },
         {
             "key": "JB_LW_DRG_SHINE",
-            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude Réaction de la Lame draconique permet de résister plus longtemps."
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
         },
         {
             "key": "JB_LW_DRG_DARK",
-            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude Réaction de la Lame draconique permet de résister plus longtemps."
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
         },
         {
             "key": "JB_LW_BLM_FIRE",
@@ -598,39 +598,39 @@
         },
         {
             "key": "JB_LW_TIM",
-            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Boost ou en ralentissant les ennemis avec Lenteur."
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
         },
         {
             "key": "JB_LW_TIM_FIRE",
-            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Boost ou en ralentissant les ennemis avec Lenteur."
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
         },
         {
             "key": "JB_LW_TIM_ICE",
-            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Boost ou en ralentissant les ennemis avec Lenteur."
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
         },
         {
             "key": "JB_LW_TIM_WIND",
-            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Boost ou en ralentissant les ennemis avec Lenteur."
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
         },
         {
             "key": "JB_LW_TIM_SOIL",
-            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Boost ou en ralentissant les ennemis avec Lenteur."
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
         },
         {
             "key": "JB_LW_TIM_THUN",
-            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Boost ou en ralentissant les ennemis avec Lenteur."
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
         },
         {
             "key": "JB_LW_TIM_WATER",
-            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Boost ou en ralentissant les ennemis avec Lenteur."
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
         },
         {
             "key": "JB_LW_TIM_SHINE",
-            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Boost ou en ralentissant les ennemis avec Lenteur."
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
         },
         {
             "key": "JB_LW_TIM_DARK",
-            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Boost ou en ralentissant les ennemis avec Lenteur."
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
         },
         {
             "key": "JB_LW_WHM",
@@ -722,31 +722,31 @@
         },
         {
             "key": "JB_LW_VIK_ICE",
-            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Esprit combatif restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
         },
         {
             "key": "JB_LW_VIK_WIND",
-            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Esprit combatif restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
         },
         {
             "key": "JB_LW_VIK_SOIL",
-            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Esprit combatif restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
         },
         {
             "key": "JB_LW_VIK_THUN",
-            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Esprit combatif restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
         },
         {
             "key": "JB_LW_VIK_WATER",
-            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Esprit combatif restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
         },
         {
             "key": "JB_LW_VIK_SHINE",
-            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Esprit combatif restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
         },
         {
             "key": "JB_LW_VIK_DARK",
-            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Esprit combatif restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
         },
         {
             "key": "JB_LW_FINA",
@@ -754,7 +754,7 @@
         },
         {
             "key": "JB_FFT_RAMZ",
-            "value": "Combattant de première ligne<br><br>Un job qui combine des aptitudes d'attaque comme Triple explosion à de puissantes aptitudes de soutien comme Cri et Vent arrière pour venir en renfort aux alliés."
+            "value": "Combattant de première ligne<br><br>Un job qui combine des aptitudes d'attaque comme Coup triple à de puissantes aptitudes de soutien comme Cri et Vent arrière pour venir en renfort aux alliés."
         },
         {
             "key": "JB_FFT_GFGR",
@@ -762,7 +762,7 @@
         },
         {
             "key": "JB_FFT_ORND",
-            "value": "Combattant de première ligne<br><br>Un job qui dispose de nombreuses attaques comme Écrase-armure qui réduit la DEF de l'ennemi, ou Éclair béni qui inflige des dégâts dans une zone en forme de croix."
+            "value": "Combattant de première ligne<br><br>Un job qui dispose de nombreuses attaques comme Écrase-armure qui réduit la DEF de l'ennemi, ou Éclair inimitable qui inflige des dégâts dans une zone en forme de croix."
         },
         {
             "key": "JB_LW_RAIN",
@@ -803,6 +803,42 @@
         {
             "key": "JB_LW_ASS_DARK",
             "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_FF1_WROL",
+            "value": "Tank physique de première ligne<br><br>Un job qui permet l'utilisation d'aptitudes qui octroient une défense contre les attaques magiques, et permet également de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_MST_FIRE",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_WATER",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_ICE",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_SOIL",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_THUN",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_WIND",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_SHINE",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_DARK",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
         }
     ]
 }

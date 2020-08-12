@@ -13,6 +13,14 @@
             "value": "Tienda especial"
         },
         {
+            "key": "Realmoney-0729",
+            "value": "Tienda especial"
+        },
+        {
+            "key": "Begginer-20200317",
+            "value": "Tienda del principiante"
+        },
+        {
             "key": "Begginer-20191114",
             "value": "Tienda del principiante"
         },
@@ -257,6 +265,54 @@
             "value": "Tienda normal"
         },
         {
+            "key": "Normal-20200401_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200401_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200401_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200408_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200408_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200408_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200415_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200415_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200415_C",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200422_A",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200422_B",
+            "value": "Tienda normal"
+        },
+        {
+            "key": "Normal-20200422_C",
+            "value": "Tienda normal"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Tienda de guerrilla"
         },
@@ -497,8 +553,104 @@
             "value": "Tienda de guerrilla"
         },
         {
+            "key": "Guerrilla-20200401A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200401B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200401C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200408A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200408B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200408C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200415A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200415B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200415C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200422A",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200422B",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Guerrilla-20200422C",
+            "value": "Tienda de guerrilla"
+        },
+        {
+            "key": "Limited-gl20200729_A",
+            "value": "Tienda de colaboración de FFI"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "Tienda de colaboración de FFT"
+        },
+        {
+            "key": "Limited-gl20200812",
+            "value": "Tienda del capítulo 8"
+        },
+        {
+            "key": "Limited-gl20200812_A",
+            "value": "Tienda de nueva carta de visión destacada"
+        },
+        {
+            "key": "Limited-gl20200812_B",
+            "value": "Tienda de unidad destacada"
+        },
+        {
+            "key": "Limited-gl20200805",
+            "value": "Tienda de la campaña de verano 2020, parte II"
+        },
+        {
+            "key": "Limited-gl20200805_A",
+            "value": "Tienda de nueva unidad destacada"
+        },
+        {
+            "key": "Limited-gl20200805_B",
+            "value": "Tienda destacada de apoyo de asalto"
+        },
+        {
+            "key": "Limited-gl20200729",
+            "value": "Tienda de la campaña de verano 2020"
+        },
+        {
+            "key": "Limited-gl20200729_B",
+            "value": "Tienda de unidad y carta de visión destacada"
+        },
+        {
+            "key": "Limited-gl20200722",
+            "value": "Tienda especial de celebración de asalto"
+        },
+        {
+            "key": "Limited-gl20200722_A",
+            "value": "Tienda de nueva carta de visión destacada"
+        },
+        {
+            "key": "Limited-gl20200722_B",
+            "value": "Tienda de unidad destacada"
         },
         {
             "key": "Limited-gl20200715",
@@ -669,6 +821,14 @@
             "value": "Tienda destacada"
         },
         {
+            "key": "Event-Quest_GL20200729",
+            "value": "Tienda de intercambio de medallas de evento de FFI"
+        },
+        {
+            "key": "Event-Summon_GL20200729_C",
+            "value": "Tienda de intercambio de medallas de invocación"
+        },
+        {
             "key": "Event-FF14_1_20191114",
             "value": "Tienda de intercambio de losas de Goetia"
         },
@@ -681,12 +841,36 @@
             "value": "Tienda de colaboración de FFXIV: Shadowbringers"
         },
         {
+            "key": "Event-Quest_20200401",
+            "value": "Tienda de intercambio de medallas de evento de agosto"
+        },
+        {
+            "key": "Event-Raid_20200309",
+            "value": "Tienda de intercambio de medallas de asalto del malvavisco blanco"
+        },
+        {
             "key": "Event-Quest_20200301",
             "value": "Tienda de intercambio de medallas de evento de julio"
         },
         {
             "key": "Event-Tower_20200317",
             "value": "Tienda de intercambio de medallas de torre"
+        },
+        {
+            "key": "Event-Summon_GL20200812_A",
+            "value": "Tienda de intercambio de medallas de invocación"
+        },
+        {
+            "key": "Event-Summon_GL20200805_A",
+            "value": "Tienda de intercambio de medallas de invocación"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "Tienda de intercambio de medallas de asalto del flan de chocolate"
+        },
+        {
+            "key": "Event-Summon_GL20200722_B",
+            "value": "Tienda de intercambio de medallas de invocación"
         },
         {
             "key": "Event-Summon_GL20200715_B",
@@ -699,10 +883,6 @@
         {
             "key": "Event-EV02_1_20200201",
             "value": "Tienda de intercambio de medallas de evento de junio"
-        },
-        {
-            "key": "Event-Raid_20200207",
-            "value": "Tienda de intercambio de medallas de asalto del flan de chocolate"
         },
         {
             "key": "Event-Summon_GL20200624_B",
@@ -974,6 +1154,62 @@
         },
         {
             "key": "Event-Vision_N_gl20200701",
+            "value": "Tienda de intercambio de medallas de visión N"
+        },
+        {
+            "key": "Event-Friend_gl20200805",
+            "value": "Tienda de intercambio de medallas de amigo"
+        },
+        {
+            "key": "Event-Arena_gl20200805",
+            "value": "Tienda de intercambio de medallas de la Arena"
+        },
+        {
+            "key": "Event-Match_gl20200805",
+            "value": "Tienda de intercambio de medallas de JcJ"
+        },
+        {
+            "key": "Event-Guild_gl20200805",
+            "value": "Tienda de intercambio de medallas de gremio"
+        },
+        {
+            "key": "Event-Soul_UR_gl20200805",
+            "value": "Tienda de intercambio de medallas de alma UR"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200805",
+            "value": "Tienda de intercambio de medallas de alma MR"
+        },
+        {
+            "key": "Event-Soul_SR_gl20200805",
+            "value": "Tienda de intercambio de medallas de alma SR"
+        },
+        {
+            "key": "Event-Soul_R_gl20200805",
+            "value": "Tienda de intercambio de medallas de alma R"
+        },
+        {
+            "key": "Event-Soul_N_gl20200805",
+            "value": "Tienda de intercambio de medallas de alma N"
+        },
+        {
+            "key": "Event-Vision_UR_gl20200805",
+            "value": "Tienda de intercambio de medallas de visión UR"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200805",
+            "value": "Tienda de intercambio de medallas de visión MR"
+        },
+        {
+            "key": "Event-Vision_SR_gl20200805",
+            "value": "Tienda de intercambio de medallas de visión SR"
+        },
+        {
+            "key": "Event-Vision_R_gl20200805",
+            "value": "Tienda de intercambio de medallas de visión R"
+        },
+        {
+            "key": "Event-Vision_N_gl20200805",
             "value": "Tienda de intercambio de medallas de visión N"
         },
         {
@@ -1518,6 +1754,134 @@
         },
         {
             "key": "Limited-FIRE_2020_3_17",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_3_25",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_3_26",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_27",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_28",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_29",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_3_29",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_3_23",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_24",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_4",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_4",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_4",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_4",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_4",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_4",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_4",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_4_A",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_4_A",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_A",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_A",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_A",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_4_A",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_4_A",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_A",
+            "value": "Tienda de fuego"
+        },
+        {
+            "key": "Limited-WATER_2020_4_B",
+            "value": "Tienda de agua"
+        },
+        {
+            "key": "Limited-WIND_2020_4_B",
+            "value": "Tienda de viento"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_B",
+            "value": "Tienda de rayo"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_B",
+            "value": "Tienda de tierra"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_B",
+            "value": "Tienda de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_4_B",
+            "value": "Tienda de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_4_B",
+            "value": "Tienda de hielo"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_B",
             "value": "Tienda de fuego"
         }
     ]

@@ -2,11 +2,11 @@
     "infos": [
         {
             "key": "1",
-            "value": "Événement de collaboration FFXIV en cours ! Terminez les quêtes afin d'obtenir les fragments d'âme d'une unité exclusive !<br>Jusqu'au 30/11/2019, 23:59 !"
+            "value": "Événement de collaboration FFXIV en cours ! Terminez les quêtes afin d'obtenir les fragments d'âme d'une unité exclusive !<br>Jusqu'au 30/11/2019, 23:59 !"
         },
         {
             "key": "2",
-            "value": "Les atouts-visions de la collaboration sont arrivés ! Voyez vos chances de les invoquer augmenter pendant une durée limitée !<br>Jusqu'au 30/11/2019, 23:59 !"
+            "value": "Les atouts-visions de la collaboration sont arrivés ! Voyez vos chances de les invoquer augmenter pendant une durée limitée !<br>Jusqu'au 30/11/2019, 23:59 !"
         },
         {
             "key": "3",
@@ -14,11 +14,11 @@
         },
         {
             "key": "4",
-            "value": "Quêtes multiples disponibles ! Formez des alliances ! Collectez du matériel d'entraînement !"
+            "value": "Quêtes multiples disponibles ! Formez des alliances ! Collectez du matériel d'entraînement !"
         },
         {
             "key": "5",
-            "value": "Les combats d'arène sont désormais disponibles !"
+            "value": "Les combats d'arène sont désormais disponibles !"
         },
         {
             "key": "6",
@@ -266,6 +266,78 @@
         },
         {
             "key": "67",
+            "value": ""
+        },
+        {
+            "key": "68",
+            "value": ""
+        },
+        {
+            "key": "69",
+            "value": ""
+        },
+        {
+            "key": "70",
+            "value": ""
+        },
+        {
+            "key": "71",
+            "value": ""
+        },
+        {
+            "key": "72",
+            "value": ""
+        },
+        {
+            "key": "73",
+            "value": ""
+        },
+        {
+            "key": "74",
+            "value": ""
+        },
+        {
+            "key": "75",
+            "value": ""
+        },
+        {
+            "key": "76",
+            "value": ""
+        },
+        {
+            "key": "77",
+            "value": ""
+        },
+        {
+            "key": "78",
+            "value": ""
+        },
+        {
+            "key": "79",
+            "value": ""
+        },
+        {
+            "key": "80",
+            "value": ""
+        },
+        {
+            "key": "81",
+            "value": ""
+        },
+        {
+            "key": "82",
+            "value": ""
+        },
+        {
+            "key": "83",
+            "value": ""
+        },
+        {
+            "key": "84",
+            "value": ""
+        },
+        {
+            "key": "85",
             "value": ""
         }
     ]

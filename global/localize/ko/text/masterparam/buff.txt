@@ -618,7 +618,7 @@
         },
         {
             "key": "BUFF_KillerSpeciesNetherBeast",
-            "value": "소환수 킬러"
+            "value": "환수 킬러"
         },
         {
             "key": "BUFF_KillerSpeciesBeast",
@@ -674,7 +674,7 @@
         },
         {
             "key": "BUFF_KillerSpeciesDamageNetherBeast",
-            "value": "소환수 고정 피해"
+            "value": "환수 고정 피해"
         },
         {
             "key": "BUFF_KillerSpeciesDamageBeast",
@@ -1051,6 +1051,10 @@
         {
             "key": "BUFF_ExeShield6",
             "value": "실드({0}턴 또는 HP {1})"
+        },
+        {
+            "key": "BUFF_KillerSpeciesPHuman",
+            "value": "물리 공격 시 인간 킬러"
         }
     ]
 }

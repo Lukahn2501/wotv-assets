@@ -1514,127 +1514,127 @@
         },
         {
             "key": "AF_LW_RNG_001",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : E ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : E ou plus"
         },
         {
             "key": "AF_LW_RNG_002",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : D ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : D ou plus"
         },
         {
             "key": "AF_LW_RNG_002_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : D ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : D ou plus"
         },
         {
             "key": "AF_LW_RNG_002_2",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : D ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : D ou plus"
         },
         {
             "key": "AF_LW_RNG_002_3",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : D ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : D ou plus"
         },
         {
             "key": "AF_LW_RNG_002_4",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : D ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : D ou plus"
         },
         {
             "key": "AF_LW_RNG_002_5",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : D ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : D ou plus"
         },
         {
             "key": "AF_LW_RNG_003",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : C ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : C ou plus"
         },
         {
             "key": "AF_LW_RNG_003_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : C ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : C ou plus"
         },
         {
             "key": "AF_LW_RNG_003_2",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : C ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : C ou plus"
         },
         {
             "key": "AF_LW_RNG_003_3",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : C ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : C ou plus"
         },
         {
             "key": "AF_LW_RNG_003_4",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : C ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : C ou plus"
         },
         {
             "key": "AF_LW_RNG_003_5",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : C ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : C ou plus"
         },
         {
             "key": "AF_LW_RNG_004",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : B ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
             "key": "AF_LW_RNG_004_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : B ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
             "key": "AF_LW_RNG_004_2",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : B ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
             "key": "AF_LW_RNG_004_3",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : B ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
             "key": "AF_LW_RNG_004_4",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : B ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
             "key": "AF_LW_RNG_004_5",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : B ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
             "key": "AF_LW_FTW_001",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_FTW_001_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_FTW_001_2",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_FTW_001_3",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_FTW_001_4",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_FTW_001_5",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_RNG_006",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_ARW_001",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_ARW_003",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_CLK_001",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_ACC_001",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_ACC_002",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_SWO_LW_LILS_1",
@@ -1758,47 +1758,47 @@
         },
         {
             "key": "AF_FTW_LW_AYKA_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_ACC_LW_MACR_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_CLK_LW_ELDE_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_ACC_LW_ZIZA_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_ACC_LW_FDRC_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_ARM_LW_SCIA_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : C ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : C ou plus"
         },
         {
             "key": "AF_ARM_LW_MURM_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : C ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : C ou plus"
         },
         {
             "key": "AF_HAT_LW_RYER_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : C ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : C ou plus"
         },
         {
             "key": "AF_ACC_LW_RART_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : D ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : D ou plus"
         },
         {
             "key": "AF_ACC_LW_MONT_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : B ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
             "key": "AF_ACC_LW_ZZAN_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : E ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : E ou plus"
         },
         {
             "key": "AF_HLM_LW_GLMS_1",
@@ -1822,7 +1822,7 @@
         },
         {
             "key": "AF_ACC_LW_ETRE_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : B ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
             "key": "AF_ARM_FFT_RAMZ_1",
@@ -1834,15 +1834,15 @@
         },
         {
             "key": "AF_ACC_FFT_ORND_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_ARW_LW_KTON_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_HAT_LW_WHIS_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_CLT_LW_MRND_1",
@@ -1854,7 +1854,7 @@
         },
         {
             "key": "AF_ARM_LW_LUCA_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_SWO_LW_ADLD_1",
@@ -1866,7 +1866,7 @@
         },
         {
             "key": "AF_ACC_LW_THLA_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : B ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
             "key": "AF_CLT_LW_RAIN_1",
@@ -1874,11 +1874,11 @@
         },
         {
             "key": "AF_ACC_LW_FRVA_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_ACC_LW_VNLA_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_SWO_LW_DRIO_1",
@@ -1886,7 +1886,19 @@
         },
         {
             "key": "AF_ACC_LW_TREL_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : B ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
+        },
+        {
+            "key": "AF_ACC_FF1_WROL_1",
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
+        },
+        {
+            "key": "AF_ACC_LW_QILF_1",
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
+        },
+        {
+            "key": "AF_KAT_LW_SIMR_1",
+            "value": "Type d'équipement : Katana <br>Adapté à un niveau de maîtrise d'arme : B ou plus"
         },
         {
             "key": "AF_SWO_LW_MONT_2",
@@ -1977,32 +1989,88 @@
             "value": "Type d'équipement : Dague <br>Adapté à un niveau de maîtrise d'arme : A ou plus"
         },
         {
+            "key": "AF_SWO_FF1_WROL_2",
+            "value": "Type d'équipement : Épée <br>Adapté à un niveau de maîtrise d'arme : A ou plus"
+        },
+        {
             "key": "AF_LW_RNG_005",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_RNG_005_1",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_RNG_005_2",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_RNG_005_3",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_RNG_005_4",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_RNG_005_5",
-            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoires : A ou plus"
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
         {
             "key": "AF_LW_BSW_011",
             "value": "Type d'équipement : Spathe <br>Adapté à un niveau de maîtrise d'arme : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Type d'équipement : Bâton <br>Adapté à un niveau de maîtrise d'arme : A ou plus"
         }
     ]
 }

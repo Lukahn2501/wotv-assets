@@ -191,6 +191,62 @@
         {
             "key": "EX_SUB_JB_AXE",
             "value": "도끼의 보석"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SW",
+            "value": "강화의 비전서(검)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_LS",
+            "value": "강화의 비전서(대검)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_JS",
+            "value": "강화의 비전서(도검)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_FI",
+            "value": "강화의 비전서(격투)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SP",
+            "value": "강화의 비전서(창)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SS",
+            "value": "강화의 비전서(단검)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_KU",
+            "value": "강화의 비전서(닌자도)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_BO",
+            "value": "강화의 비전서(활)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_GU",
+            "value": "강화의 비전서(총)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_ST",
+            "value": "강화의 비전서(지팡이)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_MA",
+            "value": "강화의 비전서(메이스)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AX",
+            "value": "강화의 비전서(도끼)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AR",
+            "value": "강화의 비전서(방어구)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AC",
+            "value": "강화의 비전서(장신구)"
         }
     ]
 }

@@ -39,6 +39,10 @@
         {
             "key": "AD_AREA_SM_01",
             "value": "召魔秘境"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "瑪托雅的洞穴"
         }
     ]
 }

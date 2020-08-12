@@ -2,7 +2,7 @@
     "infos": [
         {
             "key": "NONE",
-            "value": "無 "
+            "value": "無"
         },
         {
             "key": "DAGGER",
@@ -10,23 +10,23 @@
         },
         {
             "key": "SWORD",
-            "value": "劍 "
+            "value": "劍"
         },
         {
             "key": "BSWORD",
-            "value": "大劍 "
+            "value": "大劍"
         },
         {
             "key": "LARGESWORD",
-            "value": "大劍 "
+            "value": "大劍"
         },
         {
             "key": "KATANA",
-            "value": "刀 "
+            "value": "刀"
         },
         {
             "key": "STAFF",
-            "value": "手杖 "
+            "value": "手杖"
         },
         {
             "key": "ROD",
@@ -38,11 +38,11 @@
         },
         {
             "key": "BOW",
-            "value": "弓 "
+            "value": "弓"
         },
         {
             "key": "AXE",
-            "value": "斧 "
+            "value": "斧"
         },
         {
             "key": "HAMMER",
@@ -50,15 +50,15 @@
         },
         {
             "key": "LANCE",
-            "value": "槍 "
+            "value": "槍"
         },
         {
             "key": "INSTRUMENT",
-            "value": "樂器 "
+            "value": "樂器"
         },
         {
             "key": "WHIP",
-            "value": "鞭 "
+            "value": "鞭"
         },
         {
             "key": "THROWING",
@@ -66,11 +66,11 @@
         },
         {
             "key": "GUN",
-            "value": "火槍 "
+            "value": "火槍"
         },
         {
             "key": "MACE",
-            "value": "權杖 "
+            "value": "權杖"
         },
         {
             "key": "HAND",
@@ -82,11 +82,11 @@
         },
         {
             "key": "LIGHTSHIELD",
-            "value": "輕盾 "
+            "value": "輕盾"
         },
         {
             "key": "HEAVYSHIELD",
-            "value": "重盾 "
+            "value": "重盾"
         },
         {
             "key": "ARMOR",
@@ -94,27 +94,27 @@
         },
         {
             "key": "HAT",
-            "value": "帽子 "
+            "value": "帽子"
         },
         {
             "key": "HELM",
-            "value": "頭盔 "
+            "value": "頭盔"
         },
         {
             "key": "CLOTHES",
-            "value": "衣服 "
+            "value": "衣服"
         },
         {
             "key": "LIGHTARMOR",
-            "value": "輕鎧甲 "
+            "value": "輕鎧甲"
         },
         {
             "key": "HEAVYARMOR",
-            "value": "重鎧甲 "
+            "value": "重鎧甲"
         },
         {
             "key": "ROBE",
-            "value": "法袍 "
+            "value": "法袍"
         },
         {
             "key": "ACCESSORY",

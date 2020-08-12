@@ -803,6 +803,42 @@
         {
             "key": "JB_LW_ASS_DARK",
             "value": "어쌔신"
+        },
+        {
+            "key": "JB_FF1_WROL",
+            "value": "빛의 전사"
+        },
+        {
+            "key": "JB_LW_MST_FIRE",
+            "value": "마장술사"
+        },
+        {
+            "key": "JB_LW_MST_WATER",
+            "value": "마장술사"
+        },
+        {
+            "key": "JB_LW_MST_ICE",
+            "value": "마장술사"
+        },
+        {
+            "key": "JB_LW_MST_SOIL",
+            "value": "마장술사"
+        },
+        {
+            "key": "JB_LW_MST_THUN",
+            "value": "마장술사"
+        },
+        {
+            "key": "JB_LW_MST_WIND",
+            "value": "마장술사"
+        },
+        {
+            "key": "JB_LW_MST_SHINE",
+            "value": "마장술사"
+        },
+        {
+            "key": "JB_LW_MST_DARK",
+            "value": "마장술사"
         }
     ]
 }

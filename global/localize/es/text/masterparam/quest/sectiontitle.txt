@@ -81,6 +81,14 @@
             "value": "La guardia imperial de Muraga"
         },
         {
+            "key": "SE_ST_010703",
+            "value": "Batalla en la Fortaleza de Guadiaña"
+        },
+        {
+            "key": "SE_ST_010801",
+            "value": "Batalla en la fortaleza, final"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Gran Bosque del León"
         },
@@ -131,6 +139,10 @@
         {
             "key": "SE_WD_010203",
             "value": "Templo del Lobo Blanco"
+        },
+        {
+            "key": "SE_WD_010204",
+            "value": "Aldea Warlmah"
         },
         {
             "key": "SE_SB_01",
@@ -495,6 +507,62 @@
         {
             "key": "SE_EV_NEWMAP_001",
             "value": "Combate de gremio de exhibición"
+        },
+        {
+            "key": "SE_EV_FF1_01",
+            "value": "Misión de FINAL FANTASY I"
+        },
+        {
+            "key": "SE_EV_FF1_01_EX",
+            "value": "Misión de FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "SE_MU_FF1_01_EX",
+            "value": "Misión de FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "[Limitada] Misión difícil (Guerrero de la Luz)"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "[Limitada] Misión difícil (Kilfe)"
+        },
+        {
+            "key": "SE_EV_04_01",
+            "value": "El Lejano Oriente"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "El Lejano Oriente [EX]"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "[Multijugador] El Lejano Oriente [EX]"
+        },
+        {
+            "key": "SE_EV_NEWMAP_002",
+            "value": "Combate de gremio de exhibición"
+        },
+        {
+            "key": "SE_CHAL_01",
+            "value": "Misión de desafío"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_AW_HIGH_03",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_03",
+            "value": ""
         }
     ]
 }

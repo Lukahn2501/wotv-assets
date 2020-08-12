@@ -625,6 +625,258 @@
             "value": ""
         },
         {
+            "key": "new-gacha_unit_vc_gl20200722_01",
+            "value": "Bonificación de invocación de nueva carta de visión destacada"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_10",
+            "value": "Bonificación de invocación de nueva carta de visión destacada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_01",
+            "value": "Bonificación de invocación destacada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "Bonificación de invocación destacada"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step3",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20200722_step2",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20200722_step1",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20200722_base",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step4",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step3",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_gacha_gl20200729_01",
+            "value": "Bonificación de invocación de colaboración de FFI"
+        },
+        {
+            "key": "ff1_gacha_gl20200729_10",
+            "value": "Bonificación de invocación de colaboración de FFI"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_01",
+            "value": "Bonificación de invocación destacada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_10",
+            "value": "Bonificación de invocación destacada"
+        },
+        {
+            "key": "ff1_p_gacha_unit_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_p_gacha_vc_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_9",
+            "value": ""
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step3",
+            "value": "Bonificación de invocación (x10) de pasos"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step2",
+            "value": "Bonificación de invocación (x10) de pasos"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step1",
+            "value": "Bonificación de invocación (x10) de pasos"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step4",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step3",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_01",
+            "value": "Bonificación de invocación de nueva unidad destacada"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "Bonificación de invocación de nueva unidad destacada"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step5",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step4",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step3",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step2",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step1",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200805_10",
+            "value": "Bonificación de invocación (x10) de unidad UR garantizada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_01",
+            "value": "Bonificación de invocación destacada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "Bonificación de invocación destacada"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_01",
+            "value": "Bonificación de invocación de nueva carta de visión destacada"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "Bonificación de invocación de nueva carta de visión destacada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_01",
+            "value": "Bonificación de invocación destacada"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "Bonificación de invocación destacada"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step5",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step4",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step3",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step2",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step1",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200812_10",
+            "value": "Bonificación de invocación (x10) de carta de visión UR garantizada"
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Bonificación de invocación destacada"
         },

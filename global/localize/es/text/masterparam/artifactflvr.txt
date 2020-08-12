@@ -1889,6 +1889,18 @@
             "value": "Una corona que se le entrega a los graduados de una academia ninja de Fennes. Aunque en principio era un simple adorno, fue Tyrell quien le otorgó el fascinante diseño que tiene ahora. Como originalmente estaba hecha de metal ligero y resistente, su función defensiva sigue intacta. Tyrell hizo muchas coronas por su cuenta antes de irse a Hourne, lo que enfadó al oficial superior de la academia cuando se enteró."
         },
         {
+            "key": "AF_ACC_FF1_WROL_1",
+            "value": "Unos guanteletes de un mundo lejano. Su sencillo diseño oculta habilidades increíbles que sobrepasan las de cualquier otro guantelete. Se dice que cuando el mundo estaba cubierto de oscuridad, uno de los guerreros legendarios que lo salvó los llevaba puestos."
+        },
+        {
+            "key": "AF_ACC_LW_QILF_1",
+            "value": "Un adorno para el pelo hecho de materiales que dejan pasar fácilmente la magia. A través de esta horquilla, Kilfe transmite sus poderes mágicos a su bastón, lo que le permite controlarlo a su antojo. Parece que Kilfe podría conseguir el mismo resultado sin necesidad del coletero, pero con mucha menos precisión."
+        },
+        {
+            "key": "AF_KAT_LW_SIMR_1",
+            "value": "Una odachi a la que antiguamente llamaban espada demonio. Aquellos que la portaban perdían el juicio y sus vidas acababan destruidas. Aunque un espadachín común no podría portar esta espada, Seymore lo hace con soltura. A la espada también le gustó Seymore, y tras tanto tiempo luchando juntos, el mal en su interior desapareció, dejando atrás nada más que su fama."
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Espada de una mano forjada específicamente para Mont por el herrero de la casa real de Leonis. Se elaboró bajo petición expresa de Mont, pues necesitaba una espada fácil de manejar. Esta, en concreto, tiene pinta de ser un poco mejor que una espada de entrenamiento. Por eso, mucha gente le sugirió al príncipe que optara por una espada más propia de reyes, pero, en lo que a Mont respecta, está más que satisfecho con esta."
         },
@@ -1977,6 +1989,10 @@
             "value": "Un arma asesina diseñada específicamente para evitar huesos y dañar órganos internos. Como Vinera puede derrotar a sus enemigos con total naturalidad, es difícil incluso para los guerreros más experimentados saber qué es lo que oculta."
         },
         {
+            "key": "AF_SWO_FF1_WROL_2",
+            "value": "Una espada de un mundo lejano. Su diseño delicado y precioso recuerda al de un rayo de luz surgiendo de una nube. Se dice que un guerrero legendario usó esta espada para combatir el mal y romper las cadenas del tiempo."
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Un anillo con incrustaciones de radiante alejandrita. Esta gema cambia de color dependiendo de la luz que choca contra su superficie, y es tanta la belleza que irradia que se la conoce como la reina de las piedras preciosas. Las piedras de gran calidad y con variedad de color son sumamente inusuales, por lo que se venden a un precio extremadamente alto."
         },
@@ -2003,6 +2019,58 @@
         {
             "key": "AF_LW_BSW_011",
             "value": "Una espada grande que resplandece como una llama ardiente que porta un caballero de Grandshelt llamado Rain. Su preciosa hoja plateada reacciona a las emociones de su portador, emitiendo un resplandor parecido al de una llama. Se dice que esta espada se forjó mediante el empleo de una técnica especial, de ahí su diseño original curvo alrededor del centro que no se ve en otras espadas."
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Túnica con platino entretejido. Es lo bastante ligera como para que la puedan llevar hasta los más enclenques, pero cuenta con capacidades defensivas que permiten resistir varios ataques durante el combate. También aguanta mucho tiempo sin deteriorarse."
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Túnica con platino entretejido. Es lo bastante ligera como para que la puedan llevar hasta los más enclenques, pero cuenta con capacidades defensivas que permiten resistir varios ataques durante el combate. También aguanta mucho tiempo sin deteriorarse."
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Túnica con platino entretejido. Es lo bastante ligera como para que la puedan llevar hasta los más enclenques, pero cuenta con capacidades defensivas que permiten resistir varios ataques durante el combate. También aguanta mucho tiempo sin deteriorarse."
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Túnica con platino entretejido. Es lo bastante ligera como para que la puedan llevar hasta los más enclenques, pero cuenta con capacidades defensivas que permiten resistir varios ataques durante el combate. También aguanta mucho tiempo sin deteriorarse."
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Túnica con platino entretejido. Es lo bastante ligera como para que la puedan llevar hasta los más enclenques, pero cuenta con capacidades defensivas que permiten resistir varios ataques durante el combate. También aguanta mucho tiempo sin deteriorarse."
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Túnica con platino entretejido. Es lo bastante ligera como para que la puedan llevar hasta los más enclenques, pero cuenta con capacidades defensivas que permiten resistir varios ataques durante el combate. También aguanta mucho tiempo sin deteriorarse."
+        },
+        {
+            "key": "AF_FF1_ARM_002",
+            "value": "Una armadura procedente de un mundo lejano. Su base de tonalidad ultramarina se acentúa con ornamentos rojos y una capa amarilla. Se dice que uno de los guerreros legendarios que cruzaron el mundo para reavivar el brillo de los cristales llevaba esta armadura."
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Una armadura procedente de un mundo lejano. Su base de tonalidad ultramarina se acentúa con ornamentos rojos y una capa amarilla. Se dice que uno de los guerreros legendarios que cruzaron el mundo para reavivar el brillo de los cristales llevaba esta armadura."
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Una armadura procedente de un mundo lejano. Su base de tonalidad ultramarina se acentúa con ornamentos rojos y una capa amarilla. Se dice que uno de los guerreros legendarios que cruzaron el mundo para reavivar el brillo de los cristales llevaba esta armadura."
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Una armadura procedente de un mundo lejano. Su base de tonalidad ultramarina se acentúa con ornamentos rojos y una capa amarilla. Se dice que uno de los guerreros legendarios que cruzaron el mundo para reavivar el brillo de los cristales llevaba esta armadura."
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Una armadura procedente de un mundo lejano. Su base de tonalidad ultramarina se acentúa con ornamentos rojos y una capa amarilla. Se dice que uno de los guerreros legendarios que cruzaron el mundo para reavivar el brillo de los cristales llevaba esta armadura."
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Una armadura procedente de un mundo lejano. Su base de tonalidad ultramarina se acentúa con ornamentos rojos y una capa amarilla. Se dice que uno de los guerreros legendarios que cruzaron el mundo para reavivar el brillo de los cristales llevaba esta armadura."
+        },
+        {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Un bastón mágico con un sinfín de adornos. Su forma hace que sea más apropiado para lanzar y manipular magia que para portarlo con una sola mano. Se trata de uno de los bastones favoritos de Kilfe, y lo ha usado durante tantos años que prácticamente se ha convertido en una extensión de su cuerpo. Además, se dice que este bastón percibe los sentimientos inconscientes de Kilfe y puede que sus acciones vayan más haya de las que se le ordenen. "
         }
     ]
 }

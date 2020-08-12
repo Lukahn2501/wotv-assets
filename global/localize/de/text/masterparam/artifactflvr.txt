@@ -1889,6 +1889,18 @@
             "value": "Eine Krone, die Shinobi aus Fennes zum Abschluss ihrer Ausbildung verliehen wird. Ursprünglich von sehr schlichtem Design, dekorierte Tyrrel sie eigenhändig prachtvoll um; da sie aus einer leichten sowie robusten Metalllegierung besteht, ändert dies jedoch nichts an ihren Verteidigungseigenschaften. Tyrrel fand Gefallen daran, selbst zahlreiche Kronen herzustellen, bevor er nach Hourne kam – sehr zum Ärger seines Vorgesetzten in der Shinobi-Ausbildungsstätte."
         },
         {
+            "key": "AF_ACC_FF1_WROL_1",
+            "value": "Handschuhe aus einer fernen Welt, deren simples Äußeres nicht auf ihre unglaublichen versteckten Kräfte schließen lässt. Es heißt, dass sie von einem der legendären Krieger getragen wurden, welche die von Dunkelheit kontaminierte Welt retteten."
+        },
+        {
+            "key": "AF_ACC_LW_QILF_1",
+            "value": "Ein Haarschmuck aus Materialien, die Magie besonders gut leiten. Über dieses Schmuckstück leitet Kilphe ihre Magie an ihren Stab, was es ihr ermöglicht, ihn nach Belieben zu kontrollieren. Natürlich wäre sie dazu auch ohne es in der Lage; angeblich büßt sie dadurch jedoch erheblich an Genauigkeit und Feinkontrolle ein."
+        },
+        {
+            "key": "AF_KAT_LW_SIMR_1",
+            "value": "Ein Odachi, das einst als Dämonenschwert bekannt war, gefürchtet dafür, seine Besitzer in den Wahn zu treiben und schließlich zu vernichten. Wenngleich ein gewöhnlicher Schwertkämpfer niemals in der Lage wäre, diese Klinge zu führen, benutzt Seymore sie mit Leichtigkeit. Auch das Schwert scheint Gefallen an Seymore gefunden zu haben, weswegen sich seine Bösartigkeit nach vielen Jahren des gemeinsamen Kampfes verflüchtigte und es nun schlicht eine gepriesene Klinge ist."
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Dieses einhändig geführte Schwert wurde von einem ausschließlich für Leonis arbeitenden Waffenschmied speziell für Mont angefertigt. Geschmiedet wurde es gemäß des Prinzen Bitte nach einem Schwert, das für ihn am einfachsten zu handhaben sei. Sein Aussehen erinnert eher an das einer liebgewonnenen und ausgiebig benutzten Übungsklinge. Andere mögen zwar der Meinung sein, dass dem Prinzen eine etwas „königlicher“ anmutende Waffe besser zu Gesicht stünde. Doch Mont selber ist von seinem Schwert über alle Maßen angetan."
         },
@@ -1977,6 +1989,10 @@
             "value": "Eine einzigartig geformte Mordwaffe, die dazu ausgelegt ist, sich an Knochen vorbeizuwinden und die Organe zu treffen. Da Vinera in der Lage ist, diese Waffe mit einer überaus natürlichen Bewegung zu ziehen, fällt es selbst den hartgesottensten Veteranen schwer, ihre Präsenz zu erahnen."
         },
         {
+            "key": "AF_SWO_FF1_WROL_2",
+            "value": "Ein Schwert aus einer fernen Welt, dessen filigran verzierte Klinge an einen goldenen Sonnenstrahl erinnert, der durch die Wolken bricht. Es heißt, dass es einst von einem legendären Krieger geführt wurde, um das Chaos zu bekämpfen und die Ketten der Zeit zu durchtrennen."
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Ein mit einem faszinierend leuchtenden Alexandrit besetzter Ring. Seine Eigenschaft, mit auftreffendem Licht seine Farbe zu ändern, brachte ihm den Titel „König der Edelsteine“ ein. Exemplare, die sich durch hohe Transparenz und Farbenreichtum auszeichnen, sind außerordentlich selten und wechseln nur gegen hohe Preise den Besitzer."
         },
@@ -2003,6 +2019,58 @@
         {
             "key": "AF_LW_BSW_011",
             "value": "Das geliebte Schwert von Rain, Ritter von Grandshelt. Die prächtige Silberklinge reagiert auf die starken Emotionen ihres Besitzers und leuchtet wie eine gleißende Flamme auf. Mit seinem verjüngten Mittelteil hebt sich dieses Schwert von den meisten im Umlauf befindlichen Schwertern ab und wurde gewiss unter Einsatz einer ganz besonderen Schmiedetechnik hergestellt."
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_FF1_ARM_002",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Ein magischer Stab, der mit zahllosen Verzierungen übersät ist. Seine Form eignet sich nicht für das Schwingen mit den Händen, ist jedoch wie dafür gemacht, ihn durch den Einsatz von Magie zu kontrollieren. Kilphe benutzt diesen Stab schon viele Jahre, und er bewegt sich beinahe so, als wäre er tatsächlich am Leben. Des Weiteren ist er in der Lage, auch Kilphes unartikulierte Emotionen wahrzunehmen, weshalb er manchmal mehr tut als nur das, was ihm befohlen wurde. "
         }
     ]
 }

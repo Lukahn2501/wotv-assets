@@ -109,6 +109,30 @@
             "value": "[Difícil] Cámara de entrenamiento nv. 2"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "[Dificultad alta] Cámara de entrenamiento (amarillo) C"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "[Dificultad alta] Cámara de entrenamiento (amarillo) B"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "[Dificultad alta] Cámara de entrenamiento (amarillo) A"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "[Dificultad alta] Cámara de entrenamiento (rojo) C"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "[Dificultad alta] Cámara de entrenamiento (rojo) B"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "[Dificultad alta] Cámara de entrenamiento (rojo) A"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "Cámara de los alcrists (fuego) nv. 1"
         },
@@ -1101,6 +1125,86 @@
             "value": "Dispositivo de comunicación<br>a distancia"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "Ataque sorpresa I"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "Ataque por sorpresa II"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "La trampa de los salvajes"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "Tomar una decisión I"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "Tomar una decisión II"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "Pillados"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "Metal contra metal"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "Solidus, retirada"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "Confiad en vuestros compañeros I"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "Confiad en vuestros compañeros II"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "Dejar huella I"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "Dejar huella II"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "El rey de Hourne hacia el castillo de Leonis"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "La retirada de Sadali"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "Recuperando la fortaleza"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "Refuerzos de Fennes I"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "Refuerzos de Fennes II"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "Fortem y Caelum I"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "Fortem y Caelum II"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Muraga, el rey de Fennes"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Misión de fragmentos: Zazán"
         },
@@ -1319,6 +1423,14 @@
         {
             "key": "QE_HA_LW_VNLA",
             "value": "Misión de fragmentos: Vinera Fennes"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "Misión de fragmentos: Kilfe"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
+            "value": "Misión de fragmentos: Seymore"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1557,6 +1669,14 @@
             "value": "Tyrell"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "Kilfe"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "Seymore"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Y'shtola"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "Orlandeau"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "Guerrero de la Luz"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "Batalla 1 de FINAL FANTASY I"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "Batalla 2 de FINAL FANTASY I"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "Batalla 3 de FINAL FANTASY I"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "Batalla 4 de FINAL FANTASY I"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "Batalla 5 de FINAL FANTASY I"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "Batalla 1 de FINAL FANTASY I [Intermedio]"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "Batalla 2 de FINAL FANTASY I [Intermedio]"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "Batalla 3 de FINAL FANTASY I [Intermedio]"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "Batalla 4 de FINAL FANTASY I [Intermedio]"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "Batalla 5 de FINAL FANTASY I [Intermedio]"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "[Limitada] Misión difícil (Guerrero de la Luz)"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "Misión de apoyo de entrenamiento de unidad"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "[Dificultad extrema] Misión de desafío"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "[Dificultad extrema] Misión de desafío I"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "[Dificultad extrema] Misión de desafío II"
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "Vida ardiente [EX]"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "Combate de gremio de exhibición"
+            "key": "QE_EV_04_01",
+            "value": "Ep. 1: Sin invitación"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "Ep. 2: Maestros I"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "Ep. 3: Maestros II"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "Ep. 4: Aspiración"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "Ep. 5: El camino del samurái"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "Ep. 6: Guarida de monstruos I"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "Ep. 7: Guarida de monstruos II"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "Ep. 8: Guarida de monstruos III"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "Ep. 9: Montaña de pruebas"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "Ep. 10: Vivir"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "El Lejano Oriente [EX 1]"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "El Lejano Oriente [EX 2]"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "El Lejano Oriente [EX 1]"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "El Lejano Oriente [EX 2]"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "[Limitada] Misión difícil (Kilfe)"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "Misión de entrenamiento de equipo (hacha dorada)"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Combate de gremio de exhibición"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "Combate de gremio de exhibición (principiante)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "Combate de gremio de exhibición (intermedio)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "Combate de gremio de exhibición (avanzado)"
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "Desafío del flan de chocolate de dificultad extrema"
         },
@@ -2145,6 +2405,14 @@
             "value": "Batalla contra Tetra Sílfide"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "Batalla contra Dragón bicéfalo"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "Batalla contra Diablo"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "Asalto del flan de chocolate"
         },
@@ -2159,6 +2427,34 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "Asalto del flan de chocolate"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Asalto del malvavisco blanco"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Asalto del malvavisco blanco"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Asalto del malvavisco blanco"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Asalto del malvavisco blanco"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Asalto de colaboración de FFI"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Asalto de colaboración de FFI"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "Asalto de colaboración de FFI"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2297,6 +2593,30 @@
             "value": "[Difícil] Cámara de entrenamiento nv. 2"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "[Dificultad alta] Cámara de entrenamiento (amarillo) C"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "[Dificultad alta] Cámara de entrenamiento (amarillo) B"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "[Dificultad alta] Cámara de entrenamiento (amarillo) A"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "[Dificultad alta] Cámara de entrenamiento (rojo) C"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "[Dificultad alta] Cámara de entrenamiento (rojo) B"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "[Dificultad alta] Cámara de entrenamiento (rojo) A"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "Misión de principiantes 01"
         },
@@ -2365,6 +2685,10 @@
             "value": "Páramos"
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": "Ruinas antiguas"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "Palestra"
         },
@@ -2374,6 +2698,10 @@
         },
         {
             "key": "QE_GVG_00003",
+            "value": "Ruinas antiguas"
+        },
+        {
+            "key": "QE_GVG_00004",
             "value": "Ruinas antiguas"
         },
         {

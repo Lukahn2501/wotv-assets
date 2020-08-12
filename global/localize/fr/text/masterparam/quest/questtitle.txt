@@ -109,6 +109,30 @@
             "value": "[Très difficile] Salle d'entraînement Niv. 2"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "[Très difficile] Salle d'entraînement (jaune) C"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "[Très difficile] Salle d'entraînement (jaune) B"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "[Très difficile] Salle d'entraînement (jaune) A"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "[Très difficile] Salle d'entraînement (rouge) C"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "[Très difficile] Salle d'entraînement (rouge) B"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "[Très difficile] Salle d'entraînement (rouge) A"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "Chambre d'Alcrists (feu) Niv. 1"
         },
@@ -1101,6 +1125,86 @@
             "value": "Appareil de communication<br>longue distance"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "Attaque surprise I"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "Attaque surprise II"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "Piège des sauvages"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "Une décision s'impose I"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "Une décision s'impose II"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "Révélation"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "Métal contre métal"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "« Solidus », repli !"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "Aie foi en tes frères d'armes I"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "Aie foi en tes frères d'armes II"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "Laisser une trace I"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "Laisser une trace II"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "Le roi de Hourne en direction du château de Leonis"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "Repli de Sadali"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "Reprendre la forteresse"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "Renforts de Fennes I"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "Renforts de Fennes II"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "« Fortem » et « Caelum » I"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "« Fortem » et « Caelum » II"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Muraga, roi de Fennes"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Quête de fragments : Zazan"
         },
@@ -1319,6 +1423,14 @@
         {
             "key": "QE_HA_LW_VNLA",
             "value": "Quête de fragments : Vinera Fennes"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "Quête de fragments : Kilphe"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
+            "value": "Quête de fragments : Seymore"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1557,6 +1669,14 @@
             "value": "Tyrrell"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "Kilphe"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "Seymore"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Y'shtola"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "Orlandeau"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "Guerrier de la lumière"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "Combat 1 de FINAL FANTASY I"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "Combat 2 de FINAL FANTASY I"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "Combat 3 de FINAL FANTASY I"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "Combat 4 de FINAL FANTASY I"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "Combat 5 de FINAL FANTASY I"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "Combat 1 de FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "Combat 2 de FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "Combat 3 de FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "Combat 4 de FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "Combat 5 de FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "Quête difficile limitée (Guerrier de la lumière)"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "Quête de soutien d'entraînement d'unité"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "Quête de défi [Très difficile]"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "Quête de défi I [Super difficile]"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "Quête de défi II [Super difficile]"
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "Embraser la vie [EX]"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "Entraînement aux combats de guilde"
+            "key": "QE_EV_04_01",
+            "value": "Ép. 1 : Invité inattendu"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "Ép. 2 : Maîtres I"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "Ép. 3 : Maîtres II"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "Ép. 4 : Ambition"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "Ép. 5 : La voie du samouraï"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "Ép. 6 : L'antre des monstres I"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "Ép. 7 : L'antre des monstres II"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "Ép. 8 : L'antre des monstres III"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "Ép. 9 : Mont des défis"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "Ép. 10 : Avide de vivre"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "Aux confins de l'Orient [EX 1]"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "Aux confins de l'Orient [EX 2]"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "Aux confins de l'Orient [EX 1]"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "Aux confins de l'Orient [EX 2]"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "Quête difficile limitée (Kilphe)"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "Quête d'entraînement d'équipement (Hache en or)"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Entraînement aux combats de guilde"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "Entraînement aux combats de guilde (Débutant)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "Entraînement aux combats de guilde (Intermédiaire)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "Entraînement aux combats de guilde (Avancé)"
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "Le défi du Chocoflan [Super difficile]"
         },
@@ -2145,6 +2405,14 @@
             "value": "Combat contre Tétra-Sylphides"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "Combat contre le Dragon à deux têtes"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "Combat contre Diabolos"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "Raid du Chocoflan"
         },
@@ -2159,6 +2427,34 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "Raid du Chocoflan"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Raid de la Guimauve blanche"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Raid de la Guimauve blanche"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Raid de la Guimauve blanche"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Raid de la Guimauve blanche"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Raid de FFI"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Raid de FFI"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "Raid de FFI"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2297,6 +2593,30 @@
             "value": "[Très difficile] Salle d'entraînement Niv. 2"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "[Très difficile] Salle d'entraînement (jaune) C"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "[Très difficile] Salle d'entraînement (jaune) B"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "[Très difficile] Salle d'entraînement (jaune) A"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "[Très difficile] Salle d'entraînement (rouge) C"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "[Très difficile] Salle d'entraînement (rouge) B"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "[Très difficile] Salle d'entraînement (rouge) A"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "Quête débutant 01"
         },
@@ -2365,6 +2685,10 @@
             "value": "Terres stériles"
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": "Ruines anciennes"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "Arène"
         },
@@ -2374,6 +2698,10 @@
         },
         {
             "key": "QE_GVG_00003",
+            "value": "Ruines anciennes"
+        },
+        {
+            "key": "QE_GVG_00004",
             "value": "Ruines anciennes"
         },
         {

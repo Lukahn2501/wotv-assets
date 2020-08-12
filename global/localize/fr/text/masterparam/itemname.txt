@@ -54,7 +54,7 @@
         },
         {
             "key": "IT_US_GOLDNEEDLE",
-            "value": "Défigeur"
+            "value": "Aiguille d'or"
         },
         {
             "key": "IT_US_REMEDY",
@@ -82,7 +82,7 @@
         },
         {
             "key": "IT_US_PROTECT",
-            "value": "Reconstituant"
+            "value": "Boisson Bouclier"
         },
         {
             "key": "IT_US_HEALWATER",
@@ -1002,23 +1002,23 @@
         },
         {
             "key": "IT_JB_MM_LW_RAIN",
-            "value": "Souvenir du chevalier de Grandshelt (Flamme : verte)"
+            "value": "Souvenir de Chevalier de Grandshelt (Flamme : verte)"
         },
         {
             "key": "IT_JB_MM_LW_RAIN_2",
-            "value": "Souvenir du chevalier de Grandshelt (Flamme : bleue)"
+            "value": "Souvenir de Chevalier de Grandshelt (Flamme : bleue)"
         },
         {
             "key": "IT_JB_MM_LW_RAIN_3",
-            "value": "Souvenir du chevalier de Grandshelt (Flamme : violette)"
+            "value": "Souvenir de Chevalier de Grandshelt (Flamme : violette)"
         },
         {
             "key": "IT_JB_MM_LW_RAIN_4",
-            "value": "Souvenir du chevalier de Grandshelt (Flamme : jaune)"
+            "value": "Souvenir de Chevalier de Grandshelt (Flamme : jaune)"
         },
         {
             "key": "IT_JB_MM_LW_RAIN_5",
-            "value": "Souvenir du chevalier de Grandshelt (Flamme : rouge)"
+            "value": "Souvenir de Chevalier de Grandshelt (Flamme : rouge)"
         },
         {
             "key": "IT_JB_MM_ASS",
@@ -1039,6 +1039,46 @@
         {
             "key": "IT_JB_MM_ASS_5",
             "value": "Souvenir d'assassin (Rouge)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "Souvenir du Guerrier de la lumière (Vert)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "Souvenir du Guerrier de la lumière (Bleu)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "Souvenir du Guerrier de la lumière (Violet)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "Souvenir du Guerrier de la lumière (Jaune)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "Souvenir du Guerrier de la lumière (Rouge)"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "Souvenir du Mage au bâton (Vert)"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "Souvenir du Mage au bâton (Bleu)"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "Souvenir du Mage au bâton (Violet)"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "Souvenir du Mage au bâton (Jaune)"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "Souvenir du Mage au bâton (Rouge)"
         },
         {
             "key": "IT_JB_EM_FIRE_1",
@@ -1566,7 +1606,7 @@
         },
         {
             "key": "IT_PI_LW_MRLK",
-            "value": "Fragment d'unité de Marie-luke"
+            "value": "Fragment d'unité de Marie-Luke"
         },
         {
             "key": "IT_PI_LW_MGRT",
@@ -1690,7 +1730,7 @@
         },
         {
             "key": "IT_PI_LW_WHIS",
-            "value": "Fragment d'unité de « Chuchote »"
+            "value": "Fragment d'unité de « Chuchote »"
         },
         {
             "key": "IT_PI_LW_KTON",
@@ -1739,6 +1779,18 @@
         {
             "key": "IT_PI_LW_TREL",
             "value": "Fragment d'unité de Tyrrell"
+        },
+        {
+            "key": "IT_PI_FF1_WROL",
+            "value": "Fragment d'unité du Guerrier de la lumière"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "Fragment d'unité de Kilphe"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "Fragment d'unité de Seymore"
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -1995,6 +2047,22 @@
         {
             "key": "IT_SB_AW_OCHU_R3",
             "value": "Pierre d’éveil d'Otyugh (3★)"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "Pierre d’éveil du Dragon à deux têtes (2★)"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "Pierre d’éveil du Dragon à deux têtes (3★)"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "Pierre d’éveil de Diabolos (2★)"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "Pierre d’éveil de Diabolos (3★)"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2278,7 +2346,7 @@
         },
         {
             "key": "IT_AF_LW_BSW_003",
-            "value": "Recette d'artisanat : Lame runique"
+            "value": "Recette d'artisanat : Épée runique"
         },
         {
             "key": "IT_AF_LW_BSW_004",
@@ -2503,6 +2571,14 @@
         {
             "key": "IT_AF_LW_RNG_005",
             "value": "Recette d'artisanat : Anneau d'Alexandrite"
+        },
+        {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "Recette d'artisanat : Tunique de platine"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "Recette d'artisanat : Armure de la lumière"
         },
         {
             "key": "IT_AF_SUP_HP",
@@ -2733,6 +2809,10 @@
             "value": "Médaille d’invocation B [Juillet]"
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "Médaille d’invocation A [Août]"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Médaille d'événement FFT"
         },
@@ -2757,8 +2837,24 @@
             "value": "Médaille d'événement de juillet"
         },
         {
+            "key": "IT_EC_EV04_1",
+            "value": "Médaille d'événement d'août"
+        },
+        {
             "key": "IT_EC_RAID_02",
             "value": "Médaille de raid du Chocoflan"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "Médaille de raid de la Guimauve blanche"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "Médaille d'événement FFI"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "Médaille d’invocation FFI"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2778,7 +2874,7 @@
         },
         {
             "key": "IT_US_GACHA_10",
-            "value": "Ticket d'invocation rare (x10)"
+            "value": "Ticket d'invocation x10 rare"
         },
         {
             "key": "IT_US_10_U_SSR_UR_01",
@@ -2805,6 +2901,10 @@
             "value": "Ticket sélectionneur de 10 fragments de pensée élémentaire"
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "Ticket sélectionneur de 200 fragments de pensée élémentaires"
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": "Ticket sélectionneur de 100 fragments de pensée élémentaire"
         },
@@ -2814,15 +2914,19 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_03",
-            "value": "Ticket sélectionneur de prisme d'éveil (x50)"
+            "value": "Ticket sélectionneur de 50 prismes d'éveil"
         },
         {
             "key": "IT_US_SE_PI_COM_01",
-            "value": "Ticket sélectionneur de fragment de pensée élémentaire x50"
+            "value": "Ticket sélectionneur de 50 fragments de pensée élémentaires"
         },
         {
             "key": "IT_US_SE_JB_EM_01_01",
             "value": "Ticket sélectionneur de 30 alcrists élémentaires (verts)"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "Ticket sélectionneur de 10 alcrists élémentaires (bleus)"
         },
         {
             "key": "IT_US_SE_JB_EM_02_02",
@@ -2834,11 +2938,11 @@
         },
         {
             "key": "IT_US_SE_SB_AW_01",
-            "value": "Ticket sélectionneur de pierre d'éveil élémentaire x20"
+            "value": "Ticket sélectionneur de 20 pierres d'éveil élémentaires"
         },
         {
             "key": "IT_US_SE_SB_EXP_01",
-            "value": "Ticket sélectionneur de Magilithe élémentaire (L) x50"
+            "value": "Ticket sélectionneur de 50 magilithes élémentaires (L)"
         },
         {
             "key": "IT_US_SE_SB_EXP_02",
@@ -2846,27 +2950,27 @@
         },
         {
             "key": "IT_US_SE_SB_EXP_03",
-            "value": "Ticket sélectionneur de Magilithe élémentaire (M) x50"
+            "value": "Ticket sélectionneur de 50 magilithes élémentaires (M)"
         },
         {
             "key": "IT_US_SE_JB_MM_01",
-            "value": "Ticket sélectionneur de Souvenir de Job (Vert) x1"
+            "value": "Ticket sélectionneur d'un souvenir de job (vert)"
         },
         {
             "key": "IT_US_SE_JB_MM_02",
-            "value": "Ticket sélectionneur de Souvenir de Job (Bleu) x2"
+            "value": "Ticket sélectionneur de 2 souvenirs de job (bleus)"
         },
         {
             "key": "IT_US_SE_JB_MM_03",
-            "value": "Ticket sélectionneur de Souvenir de Job (Violet) x3"
+            "value": "Ticket sélectionneur de 3 souvenirs de job (violets)"
         },
         {
             "key": "IT_US_SE_JB_MM_04",
-            "value": "Ticket sélectionneur de Souvenir de Job (Jaune) x4"
+            "value": "Ticket sélectionneur de 4 souvenirs de job (jaunes)"
         },
         {
             "key": "IT_US_SE_JB_MM_05",
-            "value": "Ticket sélectionneur de Souvenir de Job (Rouge) x5"
+            "value": "Ticket sélectionneur de 5 souvenirs de job (rouges)"
         },
         {
             "key": "IT_US_SE_UR_U_01",
@@ -2886,7 +2990,7 @@
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "Ticket sélectionneur de 25 magilithes élémentairse (M)"
+            "value": "Ticket sélectionneur de 25 magilithes élémentaires (M)"
         },
         {
             "key": "IT_US_GL_SE_SB_EXP_4",
@@ -2905,6 +3009,14 @@
             "value": "Ticket sélectionneur de 50 fragments d'atout-vision UR"
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Ticket sélectionneur de 50 fragments d'atout-vision UR"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Ticket sélectionneur de 50 fragments d'atout-vision UR"
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "Ticket sélectionneur d'unité UR recommandée [A]"
         },
@@ -2913,12 +3025,24 @@
             "value": "Ticket sélectionneur d'unité MR recommandée"
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Ticket sélectionneur d'unité MR [A]"
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
+            "value": "Ticket sélectionneur de 40 fragments d'unité UR"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
             "value": "Ticket sélectionneur de 40 fragments d'unité UR"
         },
         {
             "key": "IT_US_G_U_UR_01",
             "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "Ticket d'invocation d'unité UR garantie"
         },
         {
             "key": "IT_US_G_UR_01",
@@ -2970,11 +3094,15 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_04",
-            "value": "Ticket sélectionneur de prisme d'éveil (x30)"
+            "value": "Ticket sélectionneur de 30 prismes d'éveil"
         },
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "Ticket sélectionneur de prisme d'éveil (xNN)"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Ticket sélectionneur de 200 prismes d'éveil"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -2994,7 +3122,7 @@
         },
         {
             "key": "IT_VPI_LW_TRAINING",
-            "value": "Fragment de l'atout-vision : Et l'élève surpassa le maître"
+            "value": "Fragment de l'atout-vision : Et l'élève surpassa le maître"
         },
         {
             "key": "IT_VPI_LW_MACR",
@@ -3086,7 +3214,7 @@
         },
         {
             "key": "IT_VPI_LW_GUARD",
-            "value": "Fragment de l'atout-vision : Gardes au blanc manteau  "
+            "value": "Fragment de l'atout-vision : Gardes au blanc manteau"
         },
         {
             "key": "IT_VPI_MBFF_MV2",
@@ -3207,6 +3335,34 @@
         {
             "key": "IT_VPI_LW_VALE2",
             "value": "Fragment de l'atout-vision : Admiratrices rivales"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "Fragment de l'atout-vision : Dragon à deux têtes, le Ravageur écaillé"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "Fragment de l'atout-vision : La Magicienne jalouse"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "Fragment de l'atout-vision : Charme irrésistible"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "Fragment de l'atout-vision : Faux-semblant"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "Fragment de l'atout-vision : Sentinelle"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "Fragment de l'atout-vision : Diabolos, le démon des rêves"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "Fragment de l'atout-vision : Le banquet des floraisons éphémères"
         },
         {
             "key": "IT_VC_EXP_01",

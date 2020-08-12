@@ -81,6 +81,14 @@
             "value": "무라가 친위대"
         },
         {
+            "key": "SE_ST_010703",
+            "value": "시클 요새 공방전"
+        },
+        {
+            "key": "SE_ST_010801",
+            "value": "요새 공방전의 승패"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "레온즈 대삼림"
         },
@@ -131,6 +139,10 @@
         {
             "key": "SE_WD_010203",
             "value": "하얀 늑대 사당"
+        },
+        {
+            "key": "SE_WD_010204",
+            "value": "올마 마을"
         },
         {
             "key": "SE_SB_01",
@@ -495,6 +507,62 @@
         {
             "key": "SE_EV_NEWMAP_001",
             "value": "길드 전투 모의전"
+        },
+        {
+            "key": "SE_EV_FF1_01",
+            "value": "FINAL FANTASY I 콜라보 퀘스트"
+        },
+        {
+            "key": "SE_EV_FF1_01_EX",
+            "value": "FINAL FANTASY I 콜라보 퀘스트 [EX]"
+        },
+        {
+            "key": "SE_MU_FF1_01_EX",
+            "value": "FINAL FANTASY I 콜라보 퀘스트 [EX]"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "한정 하드 퀘스트(빛의 전사)"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "한정 하드 퀘스트(키르페)"
+        },
+        {
+            "key": "SE_EV_04_01",
+            "value": "머나먼 동방"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "머나먼 동방 [EX]"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "머나먼 동방 [EX] 멀티"
+        },
+        {
+            "key": "SE_EV_NEWMAP_002",
+            "value": "길드 전투 모의전"
+        },
+        {
+            "key": "SE_CHAL_01",
+            "value": "도전 퀘스트"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_AW_HIGH_03",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_03",
+            "value": ""
         }
     ]
 }

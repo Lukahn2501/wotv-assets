@@ -109,6 +109,30 @@
             "value": "Informations sur la quête<br>Aucune"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "Informations sur la quête<br>Aucune"
         },
@@ -1101,6 +1125,86 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 72, job niv. 12"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 63, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 64, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 64, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 65, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 66, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 66, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 67, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 68, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 68, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 73, job niv. 12<br>Astuce : visez le baril de poudre afin d'envoyer valser vos ennemis !"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 64, job niv. 10"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 65, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 65, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 66, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 67, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 67, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 68, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 69, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 69, job niv. 11"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 74, job niv. 12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 17, job niv. 3<br>Condition d'accès : posséder l'unité « Zazan »"
         },
@@ -1321,6 +1425,14 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 63, job niv. 10<br>Condition d'accès : posséder l'unité « Vinera Fennes »"
         },
         {
+            "key": "QE_HA_LW_QILF",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 64, job niv. 10<br>Condition d'accès : posséder l'unité « Kilphe »"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 64, job niv. 10<br>Condition d'accès : posséder l'unité « Seymore »"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Zazan » au niv. 40 au moins."
         },
@@ -1506,7 +1618,7 @@
         },
         {
             "key": "QE_CH_LW_YERM",
-            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Yelma » au niv.  40 au moins."
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Yelma » au niv. 40 au moins."
         },
         {
             "key": "QE_CH_LW_WHIS",
@@ -1554,7 +1666,15 @@
         },
         {
             "key": "QE_CH_LW_TREL",
-            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Tyrell » au niv. 40 au moins."
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Tyrrell » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_QILF",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Kilphe » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Seymore » au niv. 40 au moins."
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Orlandeau » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Guerrier de la lumière » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "Informations sur la quête<br>Condition d'accès : posséder l'unité « Guerrier de la lumière »"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 1, job niv. 1"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "Informations sur la quête<br>Astuce 1 : les ennemis lançant des attaques physiques possèdent des aptitudes qui perforent la DEF…<br>Astuce 2 : la majorité de vos ennemis possèdent une puissante DEF, misez sur vos attaques magiques dont les dégâts dépendent de la MAGIE du lanceur."
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "Informations sur la quête<br>Astuce 1 : les ennemis lançant des attaques physiques possèdent des aptitudes qui perforent la DEF…<br>Astuce 2 : la majorité de vos ennemis possèdent une puissante DEF, misez sur vos attaques magiques dont les dégâts dépendent de la MAGIE du lanceur."
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "Informations sur la quête<br>Astuce 1 : les ennemis lançant des attaques physiques possèdent des aptitudes qui perforent la DEF…<br>Astuce 2 : la majorité de vos ennemis possèdent une puissante DEF, misez sur vos attaques magiques dont les dégâts dépendent de la MAGIE du lanceur.<br>*Les ennemis présents dans cette quête ne vous donneront pas de cristaux."
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "Informations sur la quête<br>Aucune"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "Informations sur la quête<br>・Cette quête est une quête test pour les combats de guile.<br>・Envoyez 3 unités au combat et utilisez le mode automatique pour vous faire une idée de ce à quoi ressemblera un véritable combat."
+            "key": "QE_EV_04_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "Informations sur la quête<br>Condition d'accès : posséder l'unité « Kilphe »"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -1918,7 +2162,7 @@
         },
         {
             "key": "QE_EV_ARENA_01_3",
-            "value": "Informations sur la quête<br>・Pas d'objets <br>・Créé en fonction du groupe formé lors du combat dans l'Arène, bien que certaines caractéristiques soient différentes."
+            "value": "Informations sur la quête<br>・Pas d'objets <br>・Créé en fonction du groupe utilisé lors du combat en Arène, bien que certaines caractéristiques soient différentes."
         },
         {
             "key": "QE_EV_VKTR_01",
@@ -2041,6 +2285,22 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 9"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Informations sur la quête<br>・Cette quête est une quête test pour le nouveau combat de guilde.<br>・Envoyez 3 unités au combat et utilisez le mode automatique pour vous faire une idée de ce à quoi ressemblera un véritable combat."
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "Informations sur la quête<br>・Cette quête est une quête test pour le nouveau combat de guilde.<br>・Envoyez 3 unités au combat et utilisez le mode automatique pour vous faire une idée de ce à quoi ressemblera un véritable combat."
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "Informations sur la quête<br>・Cette quête est une quête test pour le nouveau combat de guilde.<br>・Envoyez 3 unités au combat et utilisez le mode automatique pour vous faire une idée de ce à quoi ressemblera un véritable combat."
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "Informations sur la quête<br>・Cette quête est une quête test pour le nouveau combat de guilde.<br>・Envoyez 3 unités au combat et utilisez le mode automatique pour vous faire une idée de ce à quoi ressemblera un véritable combat."
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "Informations sur la quête<br>Astuce : avant que le Chocoflan ne vous charme..."
         },
@@ -2130,11 +2390,11 @@
         },
         {
             "key": "QE_SB_ODIN_01",
-            "value": "Informations sur la quête<br>Astuce : gardez un œil sur le nombre d'actions."
+            "value": "Informations sur la quête<br>Astuce : gardez un œil sur le nombre d'actions."
         },
         {
             "key": "QE_SB_LAMA_01",
-            "value": "Informations sur la quête<br>Astuce : charmer l'ennemi n'est pas une mauvaise idée..."
+            "value": "Informations sur la quête<br>Astuce : charmer l'ennemi n'est pas une mauvaise idée..."
         },
         {
             "key": "QE_SB_OCHU_01",
@@ -2142,6 +2402,14 @@
         },
         {
             "key": "QE_SB_TSLP_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_SB_THDG_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_SB_DABL_01",
             "value": "Informations sur la quête<br>Aucune"
         },
         {
@@ -2158,6 +2426,34 @@
         },
         {
             "key": "QE_RAID_EV_06_04",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
             "value": "Informations sur la quête<br>Aucune"
         },
         {
@@ -2297,6 +2593,30 @@
             "value": "Informations sur la quête<br>Aucune"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "Apprenez à vous servir des types d'attaques et des résistances. Essayez d'attaquer une cible dépourvue de résistance au type de vos attaques."
         },
@@ -2310,7 +2630,7 @@
         },
         {
             "key": "QE_BGN_04",
-            "value": "Découvrez les aptitudes qui consomment des PT et celles qui consomment des PA, ainsi que les limites. "
+            "value": "Découvrez les aptitudes qui consomment des PT et celles qui consomment des PA, ainsi que les limites."
         },
         {
             "key": "QE_BGN_05",
@@ -2318,11 +2638,11 @@
         },
         {
             "key": "QE_BGN_06",
-            "value": "Apprenez à vous servir des éléments et des résistances élémentaires. Essayez d'attaquer une cible avec un élément auquel elle ne résiste pas. "
+            "value": "Apprenez à vous servir des éléments et des résistances élémentaires. Essayez d'attaquer une cible avec un élément auquel elle ne résiste pas."
         },
         {
             "key": "QE_BGN_07",
-            "value": "Apprenez à générer des enchaînements élémentaires en attaquant un ennemi avec plusieurs attaques du même élément à la suite. "
+            "value": "Apprenez à générer des enchaînements élémentaires en attaquant un ennemi avec plusieurs attaques du même élément à la suite."
         },
         {
             "key": "QE_BGN_08",
@@ -2330,7 +2650,7 @@
         },
         {
             "key": "QE_BGN_09",
-            "value": "Certains ennemis ont une résistance accrue à certaines altérations d'état. Infligez-leurs des altérations auxquelles ils ne résistent pas. "
+            "value": "Certains ennemis ont une résistance accrue à certaines altérations d'état. Infligez-leurs des altérations auxquelles ils ne résistent pas."
         },
         {
             "key": "QE_BGN_10",
@@ -2365,6 +2685,10 @@
             "value": "Portée +1"
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": "Attaque magique ↑"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "Aucune"
         },
@@ -2374,7 +2698,11 @@
         },
         {
             "key": "QE_GVG_00003",
-            "value": "Aug. att d'ombre"
+            "value": "Att d'ombre ↑"
+        },
+        {
+            "key": "QE_GVG_00004",
+            "value": "MAGIE ↑"
         },
         {
             "key": "QE_PVP_FRE_0001",

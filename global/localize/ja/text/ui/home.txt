@@ -1310,7 +1310,7 @@
         },
         {
             "key": "ABILITY_BOARD_RESET_VIP_DESC",
-            "value": "<color=#f0c040ff>Royal特典により次回月曜の5時まで、残り{0}回まで幻導石消費なし</color>で召喚獣育成ボードによりSPを消費して獲得した<color=#f0c040ff>パネルを、全てリセット</color>して再度育成をやり直すことが可能です。<br>※リセットした分の<color=#f0c040ff>SPは全て所持枠に返却</color>されます。<br><br>召喚獣育成ボードのリセットを行いますか？"
+            "value": "<color=#f0c040ff>Royal特典により次回月曜の0:00 World Time (PST)まで、残り{0}回まで幻導石消費なし</color>で召喚獣育成ボードによりSPを消費して獲得した<color=#f0c040ff>パネルを、全てリセット</color>して再度育成をやり直すことが可能です。<br>※リセットした分の<color=#f0c040ff>SPは全て所持枠に返却</color>されます。<br><br>召喚獣育成ボードのリセットを行いますか？"
         },
         {
             "key": "ABILITY_BOARD_RESET_TITLE",
@@ -2414,19 +2414,19 @@
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_GIL",
-            "value": "ロイヤル特典で更新を行います。<br>{0}{1}を使用して、<br>商品一覧を更新しますか？<br>（ロイヤル特典で<br>あと{2}回更新できます。）<br>※ロイヤル特典の回数は<br>毎日AM5：00リセットです"
+            "value": "ロイヤル特典で更新を行います。<br>{0}{1}を使用して、<br>商品一覧を更新しますか？<br>（ロイヤル特典で<br>あと{2}回更新できます。）<br>※ロイヤル特典の回数は<br>毎日0:00 World Time (PST)リセットです"
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_LAPIS",
-            "value": "ロイヤル特典で更新を行います。<br>{0}を{1}個使用して、<br>商品一覧を更新しますか？<br>（ロイヤル特典で<br>あと{2}回更新できます。）<br>※ロイヤル特典の回数は<br>毎日AM5：00リセットです"
+            "value": "ロイヤル特典で更新を行います。<br>{0}を{1}個使用して、<br>商品一覧を更新しますか？<br>（ロイヤル特典で<br>あと{2}回更新できます。）<br>※ロイヤル特典の回数は<br>毎日0:00 World Time (PST)リセットです"
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_FREE",
-            "value": "ロイヤル特典で更新を行います。<br>無料で商品一覧を更新しますか？<br>（ロイヤル特典で<br>あと{0}回更新できます。）<br>※ロイヤル特典の回数は<br>毎日AM5：00リセットです"
+            "value": "ロイヤル特典で更新を行います。<br>無料で商品一覧を更新しますか？<br>（ロイヤル特典で<br>あと{0}回更新できます。）<br>※ロイヤル特典の回数は<br>毎日0:00 World Time (PST)リセットです"
         },
         {
             "key": "SHOP_UPDATE_UPPER_LIMIT",
-            "value": "この時間帯の更新規定回数に達しました。<br>更新回数はAM5:00にリセットされます。"
+            "value": "この時間帯の更新規定回数に達しました。<br>更新回数は0:00 World Time (PST)にリセットされます。"
         },
         {
             "key": "SHOP_UPDATE_ERROR_TITLE",
@@ -8331,6 +8331,10 @@
         {
             "key": "QRCODE_ERROR_MESSAGE",
             "value": "無効なプラットフォームです。"
+        },
+        {
+            "key": "GL_GACHA_BONUS_GAUGE_TITLE",
+            "value": "召喚ボーナス"
         },
         {
             "key": "SERVER_Normal_gacha_A_NAME",

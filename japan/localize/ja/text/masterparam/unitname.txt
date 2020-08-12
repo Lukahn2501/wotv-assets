@@ -341,6 +341,18 @@
             "value": "タイタス"
         },
         {
+            "key": "UN_FF4_P_CECL",
+            "value": "セシル"
+        },
+        {
+            "key": "UN_FF4_P_ROSA",
+            "value": "ローザ"
+        },
+        {
+            "key": "UN_FF4_P_KAIN",
+            "value": "カイン"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "モント・リオニス"
         },
@@ -1273,6 +1285,10 @@
             "value": "ライトエレメンタル"
         },
         {
+            "key": "UN_LW_E_ELEM_06_RA",
+            "value": "ライトエレメンタル"
+        },
+        {
             "key": "UN_LW_E_ELEM_07",
             "value": "ダークエレメンタル"
         },
@@ -1293,6 +1309,10 @@
             "value": "グリーンスライム"
         },
         {
+            "key": "UN_LW_E_SLIM_RA",
+            "value": "グリーンスライム"
+        },
+        {
             "key": "UN_LW_E_CSLI",
             "value": "チョコプリン"
         },
@@ -1303,6 +1323,10 @@
         {
             "key": "UN_LW_E_CSLI_01",
             "value": "ホワイトマシュマロ"
+        },
+        {
+            "key": "UN_LW_E_CSLI_02",
+            "value": "プリンプリンセス"
         },
         {
             "key": "UN_LW_E_THDG_QE",
@@ -1425,6 +1449,10 @@
             "value": "ゴールドサボテン"
         },
         {
+            "key": "UN_LW_E_CACT_03_B",
+            "value": "ゴールドサボテン"
+        },
+        {
             "key": "UN_LW_E_CACT_RAID",
             "value": "メタルサボテン"
         },
@@ -1473,7 +1501,15 @@
             "value": "マインドフレイア"
         },
         {
+            "key": "UN_LW_E_CHCB1",
+            "value": "チョコボ"
+        },
+        {
             "key": "UN_LW_E_THDG",
+            "value": "２ヘッドドラゴン"
+        },
+        {
+            "key": "UN_LW_E_THDG_RAID",
             "value": "２ヘッドドラゴン"
         },
         {
@@ -1519,6 +1555,30 @@
         {
             "key": "UN_FFT_E_RAMZ",
             "value": "ラムザ"
+        },
+        {
+            "key": "UN_FF4_E_DMNW",
+            "value": "デモンズウォール"
+        },
+        {
+            "key": "UN_FF4_E_GLBZ",
+            "value": "ゴルベーザ"
+        },
+        {
+            "key": "UN_FF4_E_GLBZ_PT_NO",
+            "value": "ゴルベーザ"
+        },
+        {
+            "key": "UN_FF4_E_GLBZ_PT_HA",
+            "value": "ゴルベーザ"
+        },
+        {
+            "key": "UN_LW_E_GLMS_WAVE",
+            "value": "ギルガメッシュ"
+        },
+        {
+            "key": "UN_LW_E_BHMT_01_WAVE",
+            "value": "キングベヒーモス"
         },
         {
             "key": "UN_FFT_E_GFGR",
@@ -1583,6 +1643,10 @@
         {
             "key": "UN_LW_E_BLMN_SIREN",
             "value": "ブラッディムーン"
+        },
+        {
+            "key": "UN_LW_E_CHCB1_SIREN",
+            "value": "チョコボ"
         },
         {
             "key": "UN_LW_E_THDG_SIREN",
@@ -2057,6 +2121,18 @@
             "value": "アイガイオン"
         },
         {
+            "key": "UN_FF4_S_DMNW",
+            "value": "デモンズウォール"
+        },
+        {
+            "key": "UN_FF4_S_DMNW_AW1",
+            "value": "デモンズウォール"
+        },
+        {
+            "key": "UN_FF4_S_DMNW_AW2",
+            "value": "デモンズウォール"
+        },
+        {
             "key": "UN_LW_S_IGNT",
             "value": "鉄巨人"
         },
@@ -2163,6 +2239,18 @@
         {
             "key": "UN_LW_S_BLMN_AW2",
             "value": "ブラッディムーン"
+        },
+        {
+            "key": "UN_LW_S_CHCB1",
+            "value": "チョコボ"
+        },
+        {
+            "key": "UN_LW_S_CHCB1_AW1",
+            "value": "チョコボ"
+        },
+        {
+            "key": "UN_LW_S_CHCB1_AW2",
+            "value": "チョコボ"
         },
         {
             "key": "UN_LW_S_CACT",

@@ -55,6 +55,22 @@
         {
             "key": "14",
             "value": "<cspace=1>公會支援<cspace=-0.5><br>活動商店！"
+        },
+        {
+            "key": "15",
+            "value": "<cspace=1>共鬥紀念<cspace=-0.5><br>特別商店"
+        },
+        {
+            "key": "16",
+            "value": "<cspace=1>2020夏日<cspace=-0.5><br>活動商店"
+        },
+        {
+            "key": "17",
+            "value": "<cspace=1>FFI聯動活動<cspace=-0.5><br>8月11日結束"
+        },
+        {
+            "key": "18",
+            "value": "<cspace=1>劇情第8章<cspace=-0.5><br>公開紀念商店"
         }
     ]
 }

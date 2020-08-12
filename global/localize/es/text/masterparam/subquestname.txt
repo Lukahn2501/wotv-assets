@@ -103,6 +103,14 @@
         {
             "key": "SQ_WD_010203_02",
             "value": "¿Por qué no te unes a un gremio?"
+        },
+        {
+            "key": "SQ_WD_010204_01",
+            "value": "¡Demuéstrale a los miembros de tu gremio lo que vales!"
+        },
+        {
+            "key": "SQ_WD_010204_02",
+            "value": "¡Elabora equipo con recetas y materiales!"
         }
     ]
 }

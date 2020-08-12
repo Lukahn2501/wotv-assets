@@ -314,7 +314,7 @@
         },
         {
             "key": "BUFF_CondPetrifiedStare",
-            "value": "石化にらみ"
+            "value": "徐々に石化"
         },
         {
             "key": "BUFF_CondEnchant",

@@ -2389,6 +2389,126 @@
             "value": "獲得APアップ"
         },
         {
+            "key": "SK_FF1_WROL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_M_1",
+            "value": "対象にダメージ(大)"
+        },
+        {
+            "key": "SK_FF1_WROL_M_2",
+            "value": "自身のHPの一定割合を回復(大)"
+        },
+        {
+            "key": "SK_FF1_WROL_M_3",
+            "value": "味方に物理ダメージを軽減するバリアを張る(3回)"
+        },
+        {
+            "key": "SK_FF1_WROL_S_1",
+            "value": "対象のマスへ移動後対象にダメージ(小)"
+        },
+        {
+            "key": "SK_FF1_WROL_S_2",
+            "value": "自身が敵から狙われやすくなる&3ターン自身の防御・精神アップ(3回まで重複可)"
+        },
+        {
+            "key": "SK_FF1_WROL_S_3",
+            "value": "対象にダメージ(中)&3ターン攻撃・魔力ダウン"
+        },
+        {
+            "key": "SK_FF1_WROL_S_4",
+            "value": "対象にダメージ(中)&確率で一定時間CTが溜まらなくなるストップ効果"
+        },
+        {
+            "key": "SK_FF1_WROL_R_1",
+            "value": "物理攻撃による被ダメージ時に確率で3ターン防御アップ"
+        },
+        {
+            "key": "SK_FF1_WROL_P_1",
+            "value": "HP上限・防御アップ"
+        },
+        {
+            "key": "SK_FF1_WROL_P_2",
+            "value": "防御弱体耐性・精神弱体耐性アップ"
+        },
+        {
+            "key": "SK_LW_MST_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_M_1",
+            "value": "範囲内の対象に魔力依存ダメージ(大)&必中"
+        },
+        {
+            "key": "SK_LW_MST_M_2",
+            "value": "自身に物理ダメージを軽減するバリアを張る(3回)"
+        },
+        {
+            "key": "SK_LW_MST_M_3",
+            "value": "自身を中心とした範囲内の味方のFaithアップ"
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1_INIT",
+            "value": "対象に火属性の魔力依存ダメージ(小)&確率でCTダウン(小)"
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1_INIT",
+            "value": "対象に氷属性の魔力依存ダメージ(小)&確率でCTダウン(小)"
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1_INIT",
+            "value": "対象に風属性の魔力依存ダメージ(小)&確率でCTダウン(小)"
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1_INIT",
+            "value": "対象に雷属性の魔力依存ダメージ(小)&確率でCTダウン(小)"
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1_INIT",
+            "value": "対象に水属性の魔力依存ダメージ(小)&確率でCTダウン(小)"
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1_INIT",
+            "value": "対象に土属性の魔力依存ダメージ(小)&確率でCTダウン(小)"
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1_INIT",
+            "value": "対象に光属性の魔力依存ダメージ(小)&確率でCTダウン(小)"
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1_INIT",
+            "value": "対象に闇属性の魔力依存ダメージ(小)&確率でCTダウン(小)"
+        },
+        {
+            "key": "SK_LW_MST_S_2_INIT",
+            "value": "3ターン自身のJump・Move+1"
+        },
+        {
+            "key": "SK_LW_MST_S_3",
+            "value": "確率で3ターン自身を中心とした範囲内の対象に操作不能となり敵味方関係なく攻撃する混乱効果"
+        },
+        {
+            "key": "SK_LW_MST_S_4",
+            "value": "対象に魔力依存ダメージ(中)&確率で1ターンいっさいの行動が出来なくなるスタン効果"
+        },
+        {
+            "key": "SK_LW_MST_S_5",
+            "value": "対象のマスへ移動後対象に魔力依存ダメージ(大)"
+        },
+        {
+            "key": "SK_LW_MST_R_1",
+            "value": "被ダメージ時に確率でダメージを軽減"
+        },
+        {
+            "key": "SK_LW_MST_P_1",
+            "value": "魔力アップ"
+        },
+        {
+            "key": "SK_LW_MST_P_2",
+            "value": "防御アップ"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "範囲内の対象に氷属性の魔力依存ダメージ(小)"
         },
@@ -2921,6 +3041,22 @@
             "value": "自身を中心とした範囲内の対象にダメージ(中)&確率で3ターン操作不能となり味方を攻撃する魅了効果"
         },
         {
+            "key": "SK_CSLI_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "対象にダメージ(小)"
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "対象にダメージ(小)&与えたダメージを吸収"
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "自身を中心とした範囲内の対象にダメージ(中)&確率で3ターン対象にいっさいの行動が出来なくなる睡眠効果"
+        },
+        {
             "key": "SK_SLIM_ATK",
             "value": ""
         },
@@ -3141,6 +3277,70 @@
             "value": "対象に魔法ダメージ（大）"
         },
         {
+            "key": "SK_THDG_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_R_01",
+            "value": "物理攻撃による被ダメージ時に、自身を中心とした範囲内の対象に物理ダメージ（小）&2ターンの間、攻撃・魔力・防御・精神をダウン"
+        },
+        {
+            "key": "SK_THDG_M_01",
+            "value": "対象に2連続にダメージ(中)&確率で3ターン低確率で行動が可能となる麻痺効果"
+        },
+        {
+            "key": "SK_THDG_M_02",
+            "value": "1ターン自身の攻撃・魔力大幅アップ"
+        },
+        {
+            "key": "SK_THDG_M_03",
+            "value": "指定範囲内の敵に火属性魔法ダメージ(小)&3ターン氷属性耐性ダウン"
+        },
+        {
+            "key": "SK_THDG_M_04",
+            "value": "指定範囲内の敵に氷属性魔法ダメージ(小)&3ターン火属性耐性ダウン"
+        },
+        {
+            "key": "SK_THDG_M_05",
+            "value": "自身を中心とした範囲のユニットに物理ダメージ（中）&確率で3ターン敵に状態効果(暗闇・沈黙)付与"
+        },
+        {
+            "key": "SK_WRMC_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "範囲内の対象にダメージ(小)&確率でドンムブ"
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "範囲内の対象にダメージ(中)&確率で防御・精神ダウン"
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "範囲内の対象に火属性のダメージ(大)"
+        },
+        {
+            "key": "SK_DABL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_M_01",
+            "value": "対象に闇属性の魔力依存ダメージ(小)&確率で3ターン対象に混乱効果"
+        },
+        {
+            "key": "SK_DABL_M_02",
+            "value": "範囲内の対象に対象の最大HPの一定割合ダメージ(小)&必中"
+        },
+        {
+            "key": "SK_DABL_M_03",
+            "value": "範囲内の味方のHPを回復(中)"
+        },
+        {
+            "key": "SK_DABL_M_04",
+            "value": "3ターン範囲内の対象の魔法耐性ダウン後闇属性の魔力依存ダメージ(大)"
+        },
+        {
             "key": "SK_LW_E_VIK_ATK",
             "value": ""
         },
@@ -3357,6 +3557,14 @@
             "value": "対象に3連続のダメージ(大)&確率で3ターンHPが徐々に減少する毒効果"
         },
         {
+            "key": "SK_LB_FF1_WROL",
+            "value": "範囲内の対象に3連続のダメージ(中)&3ターン自身に状態効果(プロテス・シェル)付与"
+        },
+        {
+            "key": "SK_LB_LW_QILF",
+            "value": "3ターン対象の魔法耐性ダウン後魔力依存ダメージ(大)"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "『イフリート』を召喚し、範囲内の対象に火属性のダメージ(極大)&一定時間マップ効果発動(味方の攻撃・魔力アップ&敵の火属性耐性大幅ダウン)"
         },
@@ -3423,6 +3631,18 @@
         {
             "key": "SK_SMN_OCHU",
             "value": "『オチュー』を召喚し、範囲内の対象に土属性のダメージ(大)"
+        },
+        {
+            "key": "SK_SMN_THDG",
+            "value": "『２ヘッドドラゴン』を召喚し、自身を中心とした範囲内の対象に光属性のダメージ(大)&確率で3ターン状態効果(暗闇・沈黙)付与"
+        },
+        {
+            "key": "SK_SMN_WRMC",
+            "value": "『デスマシーン』を召喚し、範囲内の対象に火属性のダメージ（大）&一定時間マップ効果発動(味方の攻撃アップ&敵の火耐性ダウン)"
+        },
+        {
+            "key": "SK_SMN_DABL",
+            "value": "『ディアボロス』を召喚し、範囲内の対象に闇属性のダメージ(極大)&一定時間マップ効果発動(味方の攻撃・魔力アップ&敵の闇属性耐性大幅ダウン)"
         },
         {
             "key": "SK_US_POTION",
@@ -3793,6 +4013,18 @@
             "value": "HP+20%、斬撃攻撃力+10"
         },
         {
+            "key": "SK_MA_FF1_WROL",
+            "value": "攻撃+20%、防御+5"
+        },
+        {
+            "key": "SK_MA_LW_QILF",
+            "value": "HP+20%、アビリティ発動時間-20%"
+        },
+        {
+            "key": "SK_MA_LW_SIMR",
+            "value": "攻撃+10%、命中率+30"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "斬撃攻撃力+2"
         },
@@ -3967,6 +4199,18 @@
         {
             "key": "SK_ACC_LW_VNLA_1_1",
             "value": "自身が敵に狙われにくくなる&3ターン自身に光属性キラー付与"
+        },
+        {
+            "key": "SK_ACC_FF1_WROL_1_1",
+            "value": "3ターン自身のHP上限アップ&アップした分HP回復&TP自動回復効果"
+        },
+        {
+            "key": "SK_ACC_LW_QILF_1_1",
+            "value": "3ターン自身の単体攻撃耐性アップ&範囲攻撃耐性ダウン"
+        },
+        {
+            "key": "SK_KAT_LW_SIMR_1_1",
+            "value": ""
         },
         {
             "key": "SK_ACC_LW_MONT_ARENA",
@@ -4537,6 +4781,54 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_GS",
             "value": ""
         },
@@ -4670,6 +4962,18 @@
         },
         {
             "key": "SK_VC_LW_VALE2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
             "value": ""
         },
         {
@@ -4965,6 +5269,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_P",
             "value": ""
         },
@@ -5106,6 +5434,66 @@
         },
         {
             "key": "SK_VC_LW_VALE2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {

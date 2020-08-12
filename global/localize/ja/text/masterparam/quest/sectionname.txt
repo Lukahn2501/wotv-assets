@@ -81,6 +81,14 @@
             "value": "第１部第７章第２節"
         },
         {
+            "key": "SE_ST_010703",
+            "value": "第１部第７章第３節"
+        },
+        {
+            "key": "SE_ST_010801",
+            "value": "第１部第８章第１節"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "リオンズ大森林"
         },
@@ -131,6 +139,10 @@
         {
             "key": "SE_WD_010203",
             "value": "白狼の祠"
+        },
+        {
+            "key": "SE_WD_010204",
+            "value": "ウォルマの村"
         },
         {
             "key": "SE_SB_01",
@@ -495,6 +507,62 @@
         {
             "key": "SE_EV_NEWMAP_001",
             "value": "ギルドバトル模擬戦"
+        },
+        {
+            "key": "SE_EV_FF1_01",
+            "value": "FINAL FANTASY I コラボクエスト"
+        },
+        {
+            "key": "SE_EV_FF1_01_EX",
+            "value": "FINAL FANTASY I コラボクエスト 【EX】"
+        },
+        {
+            "key": "SE_MU_FF1_01_EX",
+            "value": "FINAL FANTASY I コラボクエスト 【EX】"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "限定ハードクエスト（光の戦士）"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "限定ハードクエスト（キルフェ）"
+        },
+        {
+            "key": "SE_EV_04_01",
+            "value": "東方遥かなり"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "東方遥かなり【EX】"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "東方遥かなり【EX】 マルチ"
+        },
+        {
+            "key": "SE_EV_NEWMAP_002",
+            "value": "ギルドバトル模擬戦"
+        },
+        {
+            "key": "SE_CHAL_01",
+            "value": "チャレンジクエスト"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_AW_HIGH_03",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_03",
+            "value": ""
         }
     ]
 }

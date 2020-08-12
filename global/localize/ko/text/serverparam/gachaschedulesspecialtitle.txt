@@ -625,6 +625,258 @@
             "value": "UR 유닛 1명 보장 10회 소환"
         },
         {
+            "key": "new-gacha_unit_vc_gl20200722_01",
+            "value": "신규 비전 카드 픽업 소환"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_10",
+            "value": "신규 비전 카드 픽업 소환 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_01",
+            "value": "픽업 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "픽업 소환 10회 소환"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step3",
+            "value": "3 스텝 업 소환 STEP3"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step2",
+            "value": "3 스텝 업 소환 STEP2"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step1",
+            "value": "3 스텝 업 소환 STEP1"
+        },
+        {
+            "key": "3step-gacha_gl20200722_base",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200722_10",
+            "value": "UR 비전 카드 1장 보장 10회 소환"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step5",
+            "value": "5 스텝 업 소환 STEP5"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step4",
+            "value": "5 스텝 업 소환 STEP4"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step3",
+            "value": "5 스텝 업 소환 STEP3"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step2",
+            "value": "5 스텝 업 소환 STEP2"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step1",
+            "value": "5 스텝 업 소환 STEP1"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_gacha_gl20200729_01",
+            "value": "FFI 콜라보 기념 소환"
+        },
+        {
+            "key": "ff1_gacha_gl20200729_10",
+            "value": "FFI 콜라보 기념 소환 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_01",
+            "value": "픽업 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_10",
+            "value": "픽업 소환 10회 소환"
+        },
+        {
+            "key": "ff1_p_gacha_unit_gl20200729_10",
+            "value": "UR 유닛 1명 보장 10회 소환"
+        },
+        {
+            "key": "ff1_p_gacha_vc_gl20200729_10",
+            "value": "UR 비전 카드 1장 보장 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_1",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_2",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_3",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_4",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_5",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_6",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_7",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_8",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_9",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step3",
+            "value": "3 스텝 업 10회 소환 STEP3"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step2",
+            "value": "3 스텝 업 10회 소환 STEP2"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step1",
+            "value": "3 스텝 업 10회 소환 STEP1"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step5",
+            "value": "5 스텝 업 10회 소환 STEP5"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step4",
+            "value": "5 스텝 업 10회 소환 STEP4"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step3",
+            "value": "5 스텝 업 10회 소환 STEP3"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step2",
+            "value": "5 스텝 업 10회 소환 STEP2"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step1",
+            "value": "5 스텝 업 10회 소환 STEP1"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_01",
+            "value": "신규 유닛 픽업 소환"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "신규 유닛 픽업 소환 10회 소환"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step5",
+            "value": "5 스텝 업 10회 소환 STEP5"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step4",
+            "value": "5 스텝 업 10회 소환 STEP4"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step3",
+            "value": "5 스텝 업 10회 소환 STEP3"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step2",
+            "value": "5 스텝 업 10회 소환 STEP2"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step1",
+            "value": "5 스텝 업 10회 소환 STEP1"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200805_10",
+            "value": "UR 유닛 1명 보장 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_01",
+            "value": "픽업 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "픽업 소환 10회 소환"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_01",
+            "value": "신규 비전 카드 픽업 소환"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "신규 비전 카드 픽업 소환 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_01",
+            "value": "픽업 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "픽업 소환 10회 소환"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step5",
+            "value": "5 스텝 업 10회 소환 STEP5"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step4",
+            "value": "5 스텝 업 10회 소환 STEP4"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step3",
+            "value": "5 스텝 업 10회 소환 STEP3"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step2",
+            "value": "5 스텝 업 10회 소환 STEP2"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step1",
+            "value": "5 스텝 업 10회 소환 STEP1"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200812_10",
+            "value": "UR 비전 카드 1장 보장 10회 소환"
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "출시 기념 픽업 소환"
         },

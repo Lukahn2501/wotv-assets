@@ -103,6 +103,14 @@
         {
             "key": "SQ_WD_010203_02",
             "value": "Wie wär‘s mit einer Gilde?"
+        },
+        {
+            "key": "SQ_WD_010204_01",
+            "value": "Zeig deinen Gildenmitgliedern, was du drauf hast!"
+        },
+        {
+            "key": "SQ_WD_010204_02",
+            "value": "Verwandle Materialien und Anleitungen in Ausrüstung!"
         }
     ]
 }

@@ -109,6 +109,30 @@
             "value": "クエスト情報<br>なし"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "クエスト情報<br>なし"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "クエスト情報<br>なし"
         },
@@ -1101,6 +1125,86 @@
             "value": "クエスト情報<br>推奨：UnitLv.72 JobLv.12"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "クエスト情報<br>推奨：UnitLv.63 JobLv.10"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "クエスト情報<br>推奨：UnitLv.64 JobLv.10"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "クエスト情報<br>推奨：UnitLv.64 JobLv.10"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "クエスト情報<br>推奨：UnitLv.65 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "クエスト情報<br>推奨：UnitLv.66 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "クエスト情報<br>推奨：UnitLv.66 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "クエスト情報<br>推奨：UnitLv.67 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "クエスト情報<br>推奨：UnitLv.68 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "クエスト情報<br>推奨：UnitLv.68 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "クエスト情報<br>推奨：UnitLv.73 JobLv.12<br>ヒント：火薬樽でぶっとばそう"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "クエスト情報<br>推奨：UnitLv.64 JobLv.10"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "クエスト情報<br>推奨：UnitLv.65 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "クエスト情報<br>推奨：UnitLv.65 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "クエスト情報<br>推奨：UnitLv.66 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "クエスト情報<br>推奨：UnitLv.67 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "クエスト情報<br>推奨：UnitLv.67 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "クエスト情報<br>推奨：UnitLv.68 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "クエスト情報<br>推奨：UnitLv.69 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "クエスト情報<br>推奨：UnitLv.69 JobLv.11"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "クエスト情報<br>推奨：UnitLv.74 JobLv.12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "クエスト情報<br>推奨：UnitLv.17 JobLv.3<br>解放条件：ユニット「ザザン」を獲得"
         },
@@ -1319,6 +1423,14 @@
         {
             "key": "QE_HA_LW_VNLA",
             "value": "クエスト情報<br>推奨：UnitLv.63 JobLv.10<br>解放条件：ユニット「ヴィネラ・フェネス」を獲得"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "クエスト情報<br>推奨：UnitLv.64 JobLv.10<br>解放条件：ユニット「キルフェ」を獲得"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
+            "value": "クエスト情報<br>推奨：UnitLv.64 JobLv.10<br>解放条件：ユニット「シムール」を獲得"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1557,6 +1669,14 @@
             "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ティレル」UnitLv.40以上"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「キルフェ」UnitLv.40以上"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「シムール」UnitLv.40以上"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ヤ・シュトラ」UnitLv.40以上"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「オルランドゥ」UnitLv.40以上"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「光の戦士」UnitLv.40以上"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "クエスト情報<br>解放条件：ユニット「光の戦士」を獲得"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "クエスト情報<br>ヒント1：物理攻撃の敵は防御貫通を持っているので気を付けよう<br>ヒント2：防御が高い敵が多数いるので魔力依存の攻撃主体で戦おう"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "クエスト情報<br>ヒント1：物理攻撃の敵は防御貫通を持っているので気を付けよう<br>ヒント2：防御が高い敵が多数いるので魔力依存の攻撃主体で戦おう"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "クエスト情報<br>ヒント1：物理攻撃の敵は防御貫通を持っているので気を付けよう<br>ヒント2：防御が高い敵が多数いるので魔力依存の攻撃主体で戦おう<br>※このクエストでは敵からのクリスタルドロップがありません"
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "クエスト情報<br>なし"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "クエスト情報<br>・新ギルドバトルのお試しクエストです<br>・3体で出撃しAutoバトルを行うと実戦に近い形でプレイすることが可能です"
+            "key": "QE_EV_04_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "クエスト情報<br>解放条件：ユニット「キルフェ」を獲得"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "クエスト情報<br>・新ギルドバトルのお試しクエストです<br>・3体で出撃しAutoバトルを行うと実戦に近い形でプレイすることが可能です"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "クエスト情報<br>・新ギルドバトルのお試しクエストです<br>・3体で出撃しAutoバトルを行うと実戦に近い形でプレイすることが可能です"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "クエスト情報<br>・新ギルドバトルのお試しクエストです<br>・3体で出撃しAutoバトルを行うと実戦に近い形でプレイすることが可能です"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "クエスト情報<br>・新ギルドバトルのお試しクエストです<br>・3体で出撃しAutoバトルを行うと実戦に近い形でプレイすることが可能です"
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "クエスト情報<br>ヒント：チョコプリンに魅了させられる前に・・・"
         },
@@ -2145,6 +2405,14 @@
             "value": "クエスト情報<br>なし"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "クエスト情報<br>なし"
         },
@@ -2158,6 +2426,34 @@
         },
         {
             "key": "QE_RAID_EV_06_04",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
             "value": "クエスト情報<br>なし"
         },
         {
@@ -2297,6 +2593,30 @@
             "value": "クエスト情報<br>なし"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "クエスト情報<br>なし"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "攻撃には種類があり、攻撃耐性がある、耐性が低い攻撃種で攻撃しよう"
         },
@@ -2365,6 +2685,10 @@
             "value": "射程+1"
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": "魔法攻撃アップ"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "なし"
         },
@@ -2375,6 +2699,10 @@
         {
             "key": "QE_GVG_00003",
             "value": "闇属性アビリティ攻撃アップ"
+        },
+        {
+            "key": "QE_GVG_00004",
+            "value": "魔力アップ"
         },
         {
             "key": "QE_PVP_FRE_0001",

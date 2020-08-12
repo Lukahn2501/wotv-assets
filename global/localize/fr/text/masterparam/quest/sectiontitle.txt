@@ -81,6 +81,14 @@
             "value": "Garde impériale de Muraga"
         },
         {
+            "key": "SE_ST_010703",
+            "value": "Bataille à la forteresse de Syckle"
+        },
+        {
+            "key": "SE_ST_010801",
+            "value": "Bataille à la forteresse, conclusion"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Immense forêt du Lion"
         },
@@ -131,6 +139,10 @@
         {
             "key": "SE_WD_010203",
             "value": "Sanctuaire du Loup blanc"
+        },
+        {
+            "key": "SE_WD_010204",
+            "value": "Village de Warlmah"
         },
         {
             "key": "SE_SB_01",
@@ -495,6 +507,62 @@
         {
             "key": "SE_EV_NEWMAP_001",
             "value": "Entraînement aux combats de guilde"
+        },
+        {
+            "key": "SE_EV_FF1_01",
+            "value": "Quête FINAL FANTASY I"
+        },
+        {
+            "key": "SE_EV_FF1_01_EX",
+            "value": "Quête FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "SE_MU_FF1_01_EX",
+            "value": "Quête FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "Quête difficile limitée (Guerrier de la lumière)"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "Quête difficile limitée (Kilphe)"
+        },
+        {
+            "key": "SE_EV_04_01",
+            "value": "Aux confins de l'Orient"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "Aux confins de l'Orient [EX]"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "[Multi] Aux confins de l'Orient [EX]"
+        },
+        {
+            "key": "SE_EV_NEWMAP_002",
+            "value": "Entraînement aux combats de guilde"
+        },
+        {
+            "key": "SE_CHAL_01",
+            "value": "Quête de défi"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_AW_HIGH_03",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_03",
+            "value": ""
         }
     ]
 }

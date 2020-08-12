@@ -39,6 +39,10 @@
         {
             "key": "AD_AREA_SM_01",
             "value": "Consigue magicita de todos los elementos, necesaria para entrenar a los espers."
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Puedes adquirir medallas de evento de FFI y objetos necesarios para entrenar al Guerrero de la Luz."
         }
     ]
 }

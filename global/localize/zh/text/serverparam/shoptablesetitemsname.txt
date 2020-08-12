@@ -362,7 +362,7 @@
         },
         {
             "key": "IT_SET_UR_UNIT",
-            "value": "500萬下載紀念UR兵員禮包"
+            "value": "UR兵員禮包"
         },
         {
             "key": "IT_SET_UR_VC",
@@ -571,6 +571,102 @@
         {
             "key": "IT_SET_AW_DARK_CM_03",
             "value": "暗屬性完全覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "新手限定：星虹的幻球×1"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "新手限定：蒼輝的幻球×1"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "新手限定：虹之思念的碎片x1"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "新手限定職業禮包"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "新手限定翡翠硬玉禮包I"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "新手限定翡翠硬玉禮包II"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "新手限定藍銅礦禮包I"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "新手限定藍銅礦禮包II"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "新手限定 UR兵員覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "R武具配方禮包II"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "UR幻兵卡禮包"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "光屬性召喚獸強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "武具【防禦】強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "武具【精神】強化禮包"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "光之戰士育成禮包"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "光屬性完全覺醒禮包"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "死亡機器幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "土屬性完全覺醒禮包"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "UR兵員禮包"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "幻兵卡育成禮包B"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "暗屬性召喚獸強化禮包"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "幻兵卡強化禮包"
         }
     ]
 }

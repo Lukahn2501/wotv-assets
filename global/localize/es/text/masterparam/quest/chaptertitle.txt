@@ -33,6 +33,10 @@
             "value": "Aprovechar la ventaja"
         },
         {
+            "key": "CH_ST_0108",
+            "value": "Tiempo de rebelión"
+        },
+        {
             "key": "CH_WD_0102",
             "value": ""
         }

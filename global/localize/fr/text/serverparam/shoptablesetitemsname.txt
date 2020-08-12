@@ -86,107 +86,107 @@
         },
         {
             "key": "IT_SET_AF_RECIPE_R_01",
-            "value": "1er lot de recettes pour des équipements R "
+            "value": "Lot de recette pour de l'équipement R I "
         },
         {
             "key": "IT_SET_AF_RECIPE_R_02",
-            "value": "2ème lot de recettes pour des équipements R"
+            "value": "Lot de recette pour de l'équipement R II"
         },
         {
             "key": "IT_SET_AW_FIRE_02",
-            "value": "Lot d’éveil de feu II"
+            "value": "Lot d'éveil de feu II"
         },
         {
             "key": "IT_SET_AW_WATER_02",
-            "value": "Lot d’éveil d'eau II"
+            "value": "Lot d'éveil d'eau II"
         },
         {
             "key": "IT_SET_AW_WIND_02",
-            "value": "Lot d’éveil de vent II"
+            "value": "Lot d'éveil de vent II"
         },
         {
             "key": "IT_SET_AW_THUNDER_02",
-            "value": "Lot d’éveil de foudre II"
+            "value": "Lot d'éveil de foudre II"
         },
         {
             "key": "IT_SET_AW_SOIL_02",
-            "value": "Lot d’éveil de terre II"
+            "value": "Lot d'éveil de terre II"
         },
         {
             "key": "IT_SET_AW_ICE_02",
-            "value": "Lot d’éveil de glace II"
+            "value": "Lot d'éveil de glace II"
         },
         {
             "key": "IT_SET_AW_SHINE_02",
-            "value": "Lot d’éveil de lumière II"
+            "value": "Lot d'éveil de lumière II"
         },
         {
             "key": "IT_SET_AW_DARK_02",
-            "value": "Lot d’éveil d’ombre II"
+            "value": "Lot d'éveil d’ombre II"
         },
         {
             "key": "IT_SET_AW_FIRE_01",
-            "value": "Lot d’éveil de feu I"
+            "value": "Lot d'éveil de feu I"
         },
         {
             "key": "IT_SET_AW_WATER_01",
-            "value": "Lot d’éveil d'eau I"
+            "value": "Lot d'éveil d'eau I"
         },
         {
             "key": "IT_SET_AW_WIND_01",
-            "value": "Lot d’éveil de vent I"
+            "value": "Lot d'éveil de vent I"
         },
         {
             "key": "IT_SET_AW_THUNDER_01",
-            "value": "Lot d’éveil de foudre I"
+            "value": "Lot d'éveil de foudre I"
         },
         {
             "key": "IT_SET_AW_SOIL_01",
-            "value": "Lot d’éveil de terre I"
+            "value": "Lot d'éveil de terre I"
         },
         {
             "key": "IT_SET_AW_ICE_01",
-            "value": "Lot d’éveil de glace I"
+            "value": "Lot d'éveil de glace I"
         },
         {
             "key": "IT_SET_AW_SHINE_01",
-            "value": "Lot d’éveil de lumière I"
+            "value": "Lot d'éveil de lumière I"
         },
         {
             "key": "IT_SET_AW_DARK_01",
-            "value": "Lot d’éveil d’ombre I"
+            "value": "Lot d'éveil d’ombre I"
         },
         {
             "key": "IT_SET_AW_FIRE_03",
-            "value": "Lot d'âme d’éveil de feu (2–4★)"
+            "value": "Lot d'âme d'éveil de feu (2-4★)"
         },
         {
             "key": "IT_SET_AW_WATER_03",
-            "value": "Lot d'âme d’éveil d'eau (2–4★)"
+            "value": "Lot d'âme d'éveil d'eau (2-4★)"
         },
         {
             "key": "IT_SET_AW_WIND_03",
-            "value": "Lot d'âme d’éveil de vent (2–4★)"
+            "value": "Lot d'âme d'éveil de vent (2-4★)"
         },
         {
             "key": "IT_SET_AW_THUNDER_03",
-            "value": "Lot d'âme d’éveil de foudre (2–4★)"
+            "value": "Lot d'âme d'éveil de foudre (2-4★)"
         },
         {
             "key": "IT_SET_AW_SOIL_03",
-            "value": "Lot d'âme d’éveil de terre (2–4★)"
+            "value": "Lot d'âme d'éveil de terre (2-4★)"
         },
         {
             "key": "IT_SET_AW_ICE_03",
-            "value": "Lot d'âme d’éveil de glace (2–4★)"
+            "value": "Lot d'âme d'éveil de glace (2-4★)"
         },
         {
             "key": "IT_SET_AW_SHINE_03",
-            "value": "Lot d'âme d’éveil de lumière (2–4★)"
+            "value": "Lot d'âme d'éveil de lumière (2-4★)"
         },
         {
             "key": "IT_SET_AW_DARK_03",
-            "value": "Lot d'âme d’éveil d’ombre (2–4★)"
+            "value": "Lot d'âme d'éveil d'ombre (2-4★)"
         },
         {
             "key": "IT_SET_GROW_01",
@@ -194,19 +194,19 @@
         },
         {
             "key": "IT_SET_JB_MM_04",
-            "value": "Ticket sélectionneur de Souvenir de Job (jaune) x4"
+            "value": "Ticket sélectionneur de 4 souvenirs de job (jaunes)"
         },
         {
             "key": "IT_SET_JB_MM_03",
-            "value": "Ticket sélectionneur de Souvenir de Job (violet) x3"
+            "value": "Ticket sélectionneur de 3 souvenirs de job (violets)"
         },
         {
             "key": "IT_SET_JB_CMN_GL_00",
-            "value": "[Pour les débutants] Lot d'entraînement de job"
+            "value": "[Débutants seulement] Lot d'entraînement de job"
         },
         {
             "key": "IT_SET_GROW_GL_00",
-            "value": "[Pour les débutants] Lot d'amélioration d'unité"
+            "value": "[Débutants seulement] Lot d'amélioration d'unité"
         },
         {
             "key": "IT_SET_ACTP_GL_00",
@@ -234,7 +234,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_02",
-            "value": "Cube d’EXP (M) quotidien gratuit"
+            "value": "Cube d'EXP (M) quotidien gratuit"
         },
         {
             "key": "IT_SET_EXP_GL_05",
@@ -362,7 +362,7 @@
         },
         {
             "key": "IT_SET_UR_UNIT",
-            "value": "« 5 millions de téléchargements » - Lot d'unité UR"
+            "value": "Lot d'unité UR"
         },
         {
             "key": "IT_SET_UR_VC",
@@ -370,11 +370,11 @@
         },
         {
             "key": "IT_SET_AW_WIND_04",
-            "value": "Lot d’éveil de vent"
+            "value": "Lot d'éveil de vent"
         },
         {
             "key": "IT_SET_AW_FIRE_04",
-            "value": "Lot d’éveil de feu"
+            "value": "Lot d'éveil de feu"
         },
         {
             "key": "IT_SET_UNIT",
@@ -394,19 +394,19 @@
         },
         {
             "key": "IT_SET_AW_FIRE_05",
-            "value": "Lot d’éveil de feu"
+            "value": "Lot d'éveil de feu"
         },
         {
             "key": "IT_SET_AW_WIND_05",
-            "value": "Lot d’éveil de vent"
+            "value": "Lot d'éveil de vent"
         },
         {
             "key": "IT_SET_AW_SOIL_05",
-            "value": "Lot d’éveil de terre"
+            "value": "Lot d'éveil de terre"
         },
         {
             "key": "IT_SET_AW_ICE_05",
-            "value": "Lot d’éveil de glace"
+            "value": "Lot d'éveil de glace"
         },
         {
             "key": "IT_SET_WA_HP_GL01",
@@ -434,11 +434,11 @@
         },
         {
             "key": "IT_SET_AW_THUNDER_05",
-            "value": "Lot d’éveil de foudre"
+            "value": "Lot d'éveil de foudre"
         },
         {
             "key": "IT_SET_AW_DARK_05",
-            "value": "Lot d’éveil d’ombre"
+            "value": "Lot d'éveil d'ombre"
         },
         {
             "key": "IT_SET_WA_DOD_GL01",
@@ -474,11 +474,11 @@
         },
         {
             "key": "IT_SET_AW_SHINE_05",
-            "value": "Lot d’éveil de lumière"
+            "value": "Lot d'éveil de lumière"
         },
         {
             "key": "IT_SET_AW_WATER_05",
-            "value": "Lot d’éveil d'eau"
+            "value": "Lot d'éveil d'eau"
         },
         {
             "key": "IT_SET_GROW_FRVA",
@@ -570,7 +570,103 @@
         },
         {
             "key": "IT_SET_AW_DARK_CM_03",
-            "value": "Lot d’éveil d'ombre absolu"
+            "value": "Lot d'éveil d'ombre absolu"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "[Débutants seulement] Orbe de vision arc-en-ciel x1"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "[Débutants seulement] Orbe de vision azur x1"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "[Débutants seulement] Fragment de pensée arc-en-ciel x1"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "[Débutants seulement] Lot de job"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "[Débutants seulement] Lot de jade I"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "[Débutants seulement] Lot de jade II"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "[Débutants seulement] Lot d'azurite I"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "[Débutants seulement] Lot d'azurite II"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "[Débutants seulement] Lot d'éveil d'unité UR"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "Lot de recette pour de l'équipement R II"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "Lot d'atout-vision UR"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Lot d'entraînement d'atout-vision"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "Lot d'amélioration de chimère de lumière"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "Lot d'amélioration de la DEF de l'équipement"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "Lot d'amélioration de la PSY de l'équipement"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "Lot d'entraînement du Guerrier de la lumière"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "Lot d'éveil de lumière absolu"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "Lot d'entraînement de l'atout-vision « Sentinelle »"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "Lot d'éveil de terre absolu"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "Lot d'unité UR"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Lot d'entraînement d'atout-vision [B]"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Lot d'entraînement d'atout-vision"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "Lot d'amélioration de chimère d'ombre"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "Lot d'amélioration d'atout-vision"
         }
     ]
 }

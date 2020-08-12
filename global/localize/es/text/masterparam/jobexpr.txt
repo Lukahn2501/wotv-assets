@@ -803,6 +803,42 @@
         {
             "key": "JB_LW_ASS_DARK",
             "value": "Clase atacante a corta distancia<br><br>Esta profesión posee una gran agilidad y puede reducir considerablemente la DEF al atacar por detrás."
+        },
+        {
+            "key": "JB_FF1_WROL",
+            "value": "Clase tanque a corta distancia<br><br>Esta profesión puede usar sus habilidades para defenderse contra los ataques mágicos y atraer los ataques enemigos para proteger a sus aliados."
+        },
+        {
+            "key": "JB_LW_MST_FIRE",
+            "value": "Clase conjuradora a corta distancia<br><br>Esta profesión emplea el tiempo de lanzamiento para desatar ataques mágicos a distancia de gran poder. Su alta DEF le permite luchar en primera línea."
+        },
+        {
+            "key": "JB_LW_MST_WATER",
+            "value": "Clase conjuradora a corta distancia<br><br>Esta profesión emplea el tiempo de lanzamiento para desatar ataques mágicos a distancia de gran poder. Su alta DEF le permite luchar en primera línea."
+        },
+        {
+            "key": "JB_LW_MST_ICE",
+            "value": "Clase conjuradora a corta distancia<br><br>Esta profesión emplea el tiempo de lanzamiento para desatar ataques mágicos a distancia de gran poder. Su alta DEF le permite luchar en primera línea."
+        },
+        {
+            "key": "JB_LW_MST_SOIL",
+            "value": "Clase conjuradora a corta distancia<br><br>Esta profesión emplea el tiempo de lanzamiento para desatar ataques mágicos a distancia de gran poder. Su alta DEF le permite luchar en primera línea."
+        },
+        {
+            "key": "JB_LW_MST_THUN",
+            "value": "Clase conjuradora a corta distancia<br><br>Esta profesión emplea el tiempo de lanzamiento para desatar ataques mágicos a distancia de gran poder. Su alta DEF le permite luchar en primera línea."
+        },
+        {
+            "key": "JB_LW_MST_WIND",
+            "value": "Clase conjuradora a corta distancia<br><br>Esta profesión emplea el tiempo de lanzamiento para desatar ataques mágicos a distancia de gran poder. Su alta DEF le permite luchar en primera línea."
+        },
+        {
+            "key": "JB_LW_MST_SHINE",
+            "value": "Clase conjuradora a corta distancia<br><br>Esta profesión emplea el tiempo de lanzamiento para desatar ataques mágicos a distancia de gran poder. Su alta DEF le permite luchar en primera línea."
+        },
+        {
+            "key": "JB_LW_MST_DARK",
+            "value": "Clase conjuradora a corta distancia<br><br>Esta profesión emplea el tiempo de lanzamiento para desatar ataques mágicos a distancia de gran poder. Su alta DEF le permite luchar en primera línea."
         }
     ]
 }

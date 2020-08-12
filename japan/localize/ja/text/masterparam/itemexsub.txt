@@ -243,6 +243,38 @@
         {
             "key": "EX_SUB_AF_AW_AC",
             "value": "精錬の秘伝書（アクセサリ）"
+        },
+        {
+            "key": "EX_SUB_AF_HP",
+            "value": "命の刻印"
+        },
+        {
+            "key": "EX_SUB_AF_ATK",
+            "value": "攻の刻印"
+        },
+        {
+            "key": "EX_SUB_AF_MAG",
+            "value": "魔の刻印"
+        },
+        {
+            "key": "EX_SUB_AF_DEF",
+            "value": "防の刻印"
+        },
+        {
+            "key": "EX_SUB_AF_MND",
+            "value": "精の刻印"
+        },
+        {
+            "key": "EX_SUB_AF_HIT",
+            "value": "巧の刻印"
+        },
+        {
+            "key": "EX_SUB_AF_AVO",
+            "value": "避の刻印"
+        },
+        {
+            "key": "EX_SUB_AF_CRI",
+            "value": "撃の刻印"
         }
     ]
 }

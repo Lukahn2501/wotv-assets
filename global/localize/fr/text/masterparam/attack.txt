@@ -22,7 +22,7 @@
         },
         {
             "key": "JUMP",
-            "value": "Sautée"
+            "value": "Saut"
         }
     ]
 }

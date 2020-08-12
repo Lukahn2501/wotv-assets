@@ -39,6 +39,10 @@
         {
             "key": "AD_AREA_SM_01",
             "value": "Ätherisches Terrain"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Matoyas Höhle"
         }
     ]
 }

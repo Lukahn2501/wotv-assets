@@ -803,6 +803,42 @@
         {
             "key": "JB_LW_ASS_DARK",
             "value": "暗殺者"
+        },
+        {
+            "key": "JB_FF1_WROL",
+            "value": "光之戰士"
+        },
+        {
+            "key": "JB_LW_MST_FIRE",
+            "value": "魔杖術士"
+        },
+        {
+            "key": "JB_LW_MST_WATER",
+            "value": "魔杖術士"
+        },
+        {
+            "key": "JB_LW_MST_ICE",
+            "value": "魔杖術士"
+        },
+        {
+            "key": "JB_LW_MST_SOIL",
+            "value": "魔杖術士"
+        },
+        {
+            "key": "JB_LW_MST_THUN",
+            "value": "魔杖術士"
+        },
+        {
+            "key": "JB_LW_MST_WIND",
+            "value": "魔杖術士"
+        },
+        {
+            "key": "JB_LW_MST_SHINE",
+            "value": "魔杖術士"
+        },
+        {
+            "key": "JB_LW_MST_DARK",
+            "value": "魔杖術士"
         }
     ]
 }

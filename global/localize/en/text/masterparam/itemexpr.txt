@@ -1041,6 +1041,46 @@
             "value": "An item required to enhance a Job (Assassin) at Lv. 15"
         },
         {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "An item required to enhance a Job (Warrior of Light) at Lv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "An item required to enhance a Job (Warrior of Light) at Lv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "An item required to enhance a Job (Warrior of Light) at Lv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "An item required to enhance a Job (Warrior of Light) at Lv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "An item required to enhance a Job (Warrior of Light) at Lv. 15"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "An item required to enhance a Job (Staff Mage) at Lv. 3"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "An item required to enhance a Job (Staff Mage) at Lv. 6"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "An item required to enhance a Job (Staff Mage) at Lv. 9"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "An item required to enhance a Job (Staff Mage) at Lv. 12"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "An item required to enhance a Job (Staff Mage) at Lv. 15"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "An item required to enhance a fire unit's Job at Lvs. 2<space=1>–<space=1>3"
         },
@@ -1741,6 +1781,18 @@
             "value": "An item required to Limit Break a unit"
         },
         {
+            "key": "IT_PI_FF1_WROL",
+            "value": "An item required to Limit Break a unit"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "An item required to Limit Break a unit"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "An item required to Limit Break a unit"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Grants esper EXP (S)"
         },
@@ -1995,6 +2047,22 @@
         {
             "key": "IT_SB_AW_OCHU_R3",
             "value": "An item required to awaken Ochu to 3★"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "An item required to awaken Two-Headed Dragon to 2★"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "An item required to awaken Two-Headed Dragon to 3★"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "An item required to awaken Diabolos to 2★"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "An item required to awaken Diabolos to 3★"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2505,6 +2573,14 @@
             "value": "A recipe required to craft an Alexandrite Ring"
         },
         {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "A recipe required to craft a Platinum Robe"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "A recipe required to craft Armor of Light"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Raises chance of HP increasing when equipment is leveled up"
         },
@@ -2733,6 +2809,10 @@
             "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 8/11/2020, World Time (PST))"
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 9/1/2020, World Time (PST))"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "An item that can be acquired in FFT Collaborative Events and exchanged for various items at the FFT Event Medal Exchange Shop"
         },
@@ -2757,8 +2837,24 @@
             "value": "An item that can be acquired via To Burn with Life Events and exchanged for various items at the July Event Medal Exchange Shop"
         },
         {
+            "key": "IT_EC_EV04_1",
+            "value": "An item that can be acquired via The Far East Events and exchanged for various items at the August Event Medal Exchange Shop"
+        },
+        {
             "key": "IT_EC_RAID_02",
             "value": "A medal that can be acquired from Raids"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "A medal that can be acquired from the White Marshmallow Raid"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "An item that can be acquired in FFI Collaborative Events and exchanged for various items at the FFI Event Medal Exchange Shop"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "A medal that can be acquired during FFI Collaborative Summons and exchanged for various items at the FFI Summon Medal Exchange Shop (Expires 23:59, 8/25/2020, World Time (PST))"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2805,6 +2901,10 @@
             "value": "A ticket that allows the user to select from 8 elements to summon 10 Fragments of Thought necessary for awakening"
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "A ticket that allows the user to select from 8 elements to summon 200 Fragments of Thought necessary for awakening"
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": "A ticket that allows the user to select from 8 elements to summon 100 Fragments of Thought necessary for awakening"
         },
@@ -2823,6 +2923,10 @@
         {
             "key": "IT_US_SE_JB_EM_01_01",
             "value": "A ticket that allows the user to select from 8 elements to summon 30 Alcryst (Green) necessary for enhancing Jobs"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "A ticket that allows the user to select from 8 elements to summon 10 Alcryst (Blue) necessary for enhancing Jobs"
         },
         {
             "key": "IT_US_SE_JB_EM_02_02",
@@ -2905,6 +3009,14 @@
             "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by June 17. *Cannot be used for limited or collaborative vision cards."
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by July 22. *Cannot be used for limited or collaborative vision cards."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by August 12. *Cannot be used for limited or collaborative vision cards."
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "A ticket that allows the user to select and summon one recommended UR unit. *If you summon a unit you already possess, it will be converted into 40 unit shards."
         },
@@ -2913,11 +3025,23 @@
             "value": "A ticket that allows the user to select and summon one recommended MR unit. *If you summon a unit you already possess, it will be converted into 20 unit shards."
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "A ticket that allows the user to select and summon a unit of MR rarity"
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
             "value": "A Select UR Unit Shard x40 Summon Ticket for units released by June 17. *Cannot be used for limited or collaborative units."
         },
         {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "A ticket that can be used to select and summon 40 UR unit shards."
+        },
+        {
             "key": "IT_US_G_U_UR_01",
+            "value": "A ticket guaranteed to summon a unit of UR rarity"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
             "value": "A ticket guaranteed to summon a unit of UR rarity"
         },
         {
@@ -2975,6 +3099,10 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "A ticket that allows the user to select from 8 elements to summon NN Awakening Prisms"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "A ticket that allows the user to select from 8 elements to summon 200 Awakening Prisms"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3206,6 +3334,34 @@
         },
         {
             "key": "IT_VPI_LW_VALE2",
+            "value": "An item required to awaken a vision card"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "An item required to awaken a vision card"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "An item required to awaken a vision card"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "An item required to awaken a vision card"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "An item required to awaken a vision card"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "An item required to awaken a vision card"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "An item required to awaken a vision card"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
             "value": "An item required to awaken a vision card"
         },
         {

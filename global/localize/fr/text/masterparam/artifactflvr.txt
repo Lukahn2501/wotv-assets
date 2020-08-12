@@ -138,27 +138,27 @@
         },
         {
             "key": "AF_LW_SWO_004",
-            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace. "
+            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace."
         },
         {
             "key": "AF_LW_SWO_004_1",
-            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace. "
+            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace."
         },
         {
             "key": "AF_LW_SWO_004_2",
-            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace. "
+            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace."
         },
         {
             "key": "AF_LW_SWO_004_3",
-            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace. "
+            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace."
         },
         {
             "key": "AF_LW_SWO_004_4",
-            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace. "
+            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace."
         },
         {
             "key": "AF_LW_SWO_004_5",
-            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace. "
+            "value": "Une lame translucide et glacée. Chacun de ses coups déchaîne un vent givrant qui, s'il ne gèle pas sa victime sur place, laissera dans sa chair des entailles dont les racines gelées s'étendront à tout son corps jusqu'à la transformer en statue de glace."
         },
         {
             "key": "AF_LW_SWO_005",
@@ -250,27 +250,27 @@
         },
         {
             "key": "AF_LW_BSW_002",
-            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts : son envergure la rend plus difficile à maîtriser qu'il n'y paraît."
+            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts, son envergure la rendant plus difficile à maîtriser qu'il n'y paraît."
         },
         {
             "key": "AF_LW_BSW_002_1",
-            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts : son envergure la rend plus difficile à maîtriser qu'il n'y paraît."
+            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts, son envergure la rendant plus difficile à maîtriser qu'il n'y paraît."
         },
         {
             "key": "AF_LW_BSW_002_2",
-            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts : son envergure la rend plus difficile à maîtriser qu'il n'y paraît."
+            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts, son envergure la rendant plus difficile à maîtriser qu'il n'y paraît."
         },
         {
             "key": "AF_LW_BSW_002_3",
-            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts : son envergure la rend plus difficile à maîtriser qu'il n'y paraît."
+            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts, son envergure la rendant plus difficile à maîtriser qu'il n'y paraît."
         },
         {
             "key": "AF_LW_BSW_002_4",
-            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts : son envergure la rend plus difficile à maîtriser qu'il n'y paraît."
+            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts, son envergure la rendant plus difficile à maîtriser qu'il n'y paraît."
         },
         {
             "key": "AF_LW_BSW_002_5",
-            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts : son envergure la rend plus difficile à maîtriser qu'il n'y paraît."
+            "value": "Une large épée faite en mithril. Bien qu'aussi grande que les autres lames, elle est incroyablement plus légère. Facile à soulever d'une seule main, elle n'en reste pas moins réservée aux experts, son envergure la rendant plus difficile à maîtriser qu'il n'y paraît."
         },
         {
             "key": "AF_LW_BSW_003",
@@ -702,27 +702,27 @@
         },
         {
             "key": "AF_LW_NKN_001",
-            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force : légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
+            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force. Légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
         },
         {
             "key": "AF_LW_NKN_001_1",
-            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force : légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
+            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force. Légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
         },
         {
             "key": "AF_LW_NKN_001_2",
-            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force : légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
+            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force. Légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
         },
         {
             "key": "AF_LW_NKN_001_3",
-            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force : légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
+            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force. Légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
         },
         {
             "key": "AF_LW_NKN_001_4",
-            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force : légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
+            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force. Légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
         },
         {
             "key": "AF_LW_NKN_001_5",
-            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force : légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
+            "value": "Plus petite arme du monde, c'est le nombre qui fait sa force. Légère, elle est portée sans effort et lancée en pluie sur l'adversaire. Fichée dans les organes vitaux de la cible, on dit qu'elle peut tuer sans douleur."
         },
         {
             "key": "AF_LW_NKN_002",
@@ -878,27 +878,27 @@
         },
         {
             "key": "AF_LW_GUN_002",
-            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
+            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires comme l'Altaïr ou le Capella, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
         },
         {
             "key": "AF_LW_GUN_002_1",
-            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
+            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires comme l'Altaïr ou le Capella, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
         },
         {
             "key": "AF_LW_GUN_002_2",
-            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
+            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires comme l'Altaïr ou le Capella, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
         },
         {
             "key": "AF_LW_GUN_002_3",
-            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
+            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires comme l'Altaïr ou le Capella, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
         },
         {
             "key": "AF_LW_GUN_002_4",
-            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
+            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires comme l'Altaïr ou le Capella, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
         },
         {
             "key": "AF_LW_GUN_002_5",
-            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
+            "value": "Un pistolet gros calibre capable de tirer des balles encore plus grosses. Le Véga se distingue des modèles plus rudimentaires comme l'Altaïr ou le Capella, qui ne font que crachoter du plomb. En effet, lui peut tirer des dizaines de balles en même temps, ce qui élargit considérablement sa portée et multiplie ses chances de toucher l'ennemi."
         },
         {
             "key": "AF_LW_GUN_003",
@@ -1214,27 +1214,27 @@
         },
         {
             "key": "AF_LW_ARM_003",
-            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
+            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
         },
         {
             "key": "AF_LW_ARM_003_1",
-            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
+            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
         },
         {
             "key": "AF_LW_ARM_003_2",
-            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
+            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
         },
         {
             "key": "AF_LW_ARM_003_3",
-            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
+            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
         },
         {
             "key": "AF_LW_ARM_003_4",
-            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
+            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
         },
         {
             "key": "AF_LW_ARM_003_5",
-            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
+            "value": "Une belle armure en mithril qui brille d'un lustre argenté et partage avec le minerai qui la compose la double qualité de solidité et de légèreté. Comme l'or, le mithril, aussi appelé « argent enchanté », ne perd jamais de son éclat. C'est pourquoi cette armure est parfois exposée comme œuvre d'art ou ornement."
         },
         {
             "key": "AF_LW_ARM_004",
@@ -1262,27 +1262,27 @@
         },
         {
             "key": "AF_LW_ARM_005",
-            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
+            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
         },
         {
             "key": "AF_LW_ARM_005_1",
-            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
+            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
         },
         {
             "key": "AF_LW_ARM_005_2",
-            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
+            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
         },
         {
             "key": "AF_LW_ARM_005_3",
-            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
+            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
         },
         {
             "key": "AF_LW_ARM_005_4",
-            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
+            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
         },
         {
             "key": "AF_LW_ARM_005_5",
-            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
+            "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
         },
         {
             "key": "AF_LW_HLM_001",
@@ -1662,11 +1662,11 @@
         },
         {
             "key": "AF_DAG_LW_VSTR_1",
-            "value": "Une dague maudite trempée dans le sang. Si elle est connue sous le nom de « convive de la Mort », c'est parce que tous ses précédents propriétaires ont péri dans la violence. Chaque nouvelle vie volée l'assombrit d'une teinte de rouge. Vistral compte sur la malédiction dont elle est l'hôte pour mourir selon ses vœux."
+            "value": "Une dague maudite trempée dans le sang. Si elle est connue sous le nom de « convive de la Mort », c'est parce que tous ses précédents propriétaires ont péri dans la violence. Chaque nouvelle vie volée l'assombrit d'une teinte de rouge. Vistral compte sur la malédiction dont elle est l'hôte pour mourir selon ses vœux."
         },
         {
             "key": "AF_BOW_LW_CLEY_1",
-            "value": "Des branches majestueuses et un indéniable raffinement : voilà les qualités qu'un arc se doit de posséder pour convenir au tyrannique roi Khory. L'Arc glacial est infiniment difficile à manier, le moindre tremblement en compromet la précision. Rien qui n'empêche les flèches du roi de Wezett de parcourir, légères, agiles et mortellement précises, de très longues distances."
+            "value": "Des branches majestueuses et un indéniable raffinement, voilà les qualités qu'un arc se doit de posséder pour convenir au tyrannique roi Khory. L'Arc glacial est infiniment difficile à manier, le moindre tremblement en compromet la précision. Rien qui n'empêche les flèches du roi de Wezett de parcourir, légères, agiles et mortellement précises, de très longues distances."
         },
         {
             "key": "AF_GUN_LW_RIRY_1",
@@ -1722,7 +1722,7 @@
         },
         {
             "key": "AF_CLT_LW_SEVR_1",
-            "value": "Ce châle est le résultat de diverses expériences en magie noire. Les fils d'or qui le tiennent ensemble ont aussi la capacité de maintenir plusieurs sorts entrelacés dans la trame. Au cours de sa quête, Severo a l'intention de continuer ses recherches afin de l'améliorer encore."
+            "value": "Ce châle est le résultat de diverses expériences en magie noire. Les fils d'or qui le tiennent ensemble ont aussi la capacité de maintenir plusieurs sorts entrelacés dans la trame. Au cours de sa quête, Sévéro a l'intention de continuer ses recherches afin de l'améliorer encore."
         },
         {
             "key": "AF_CLT_LW_SRJS_1",
@@ -1826,7 +1826,7 @@
         },
         {
             "key": "AF_ARM_FFT_RAMZ_1",
-            "value": "Les vêtements que porte Ramza arborent le fameux « bleu de Galionne », couleur du blason de sa région natale et typiquement obtenue à partir d'une plante qui y pousse à foison. Grâce aux renforcements cousus aux épaules et aux coudes, cette tunique offre une assez bonne protection en combat."
+            "value": "Les vêtements que porte Ramza arborent le fameux « bleu de Galionne », couleur du blason de sa région natale et typiquement obtenue à partir d'une plante qui y pousse à foison. Grâce aux renforcements cousus aux épaules et aux coudes, cette tunique offre une assez bonne protection en combat."
         },
         {
             "key": "AF_SWO_FFT_GFGR_1",
@@ -1887,6 +1887,18 @@
         {
             "key": "AF_ACC_LW_TREL_1",
             "value": "Un diadème remis aux diplômés de l'institut d'entraînement des shinobis de Fennes. C’est à Tyrrell que l’on doit le raffinement actuel de cet accessoire, jadis assez simple. Il conserve les caractéristiques défensives du métal à la fois léger et solide qui le compose. Avant de partir pour Hourne, Tyrrell s’est plus d’une fois autorisé à apporter des modifications à ce diadème, ce qui n'a jamais manqué de rendre furieux ses supérieurs lorsqu’ils s’en apercevaient."
+        },
+        {
+            "key": "AF_ACC_FF1_WROL_1",
+            "value": "Des gantelets venus d'un monde lointain et dont l'humble apparence dissimule un pouvoir supérieur à tous les autres. On dit qu'ils appartenaient à l'un de ces guerriers légendaires qui sauvèrent un monde corrompu par les ténèbres."
+        },
+        {
+            "key": "AF_ACC_LW_QILF_1",
+            "value": "Un ornement capillaire réalisé à partir de matériaux naturellement conducteurs de magie. C'est en canalisant son pouvoir, de cette épingle vers son bâton, que Kilphe est à même de le contrôler librement. Elle en est bien sûr capable sans cet intermédiaire, au prix néanmoins d'une sensibilité et d'une précision considérablement réduites."
+        },
+        {
+            "key": "AF_KAT_LW_SIMR_1",
+            "value": "Un odachi qu'on surnommait jadis l'épée du démon. Tous ceux qui l'ont manié ont sombré dans la folie et dans la ruine. Un bretteur ordinaire ne pourrait pas même le soulever, mais Seymore l'utilise avec aisance. L'arme elle-même semble s'être attachée à son propriétaire après tant de combats partagés ensemble, au point de se purifier de sa propre corruption, ne gardant pour elle que sa triste renommée."
         },
         {
             "key": "AF_SWO_LW_MONT_2",
@@ -1977,6 +1989,10 @@
             "value": "Une arme d'assassin dont la forme particulière permet d'éviter les os pour se concentrer sur la perforation des organes internes. Vinera est capable d'éliminer ses adversaires d'un geste si naturel qu'il est difficile, même pour les guerriers les plus expérimentés, de deviner ce qu'elle dissimule."
         },
         {
+            "key": "AF_SWO_FF1_WROL_2",
+            "value": "Une épée provenant d'un autre monde. Son splendide dessin, d'une grande délicatesse, rappelle les rayons de lumière dorés qui transpercent les nuages. On dit qu'elle aurait été maniée par un guerrier légendaire qui fit face au chaos afin de briser les chaînes du temps."
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
         },
@@ -2003,6 +2019,58 @@
         {
             "key": "AF_LW_BSW_011",
             "value": "Une large épée qui brille de mille feux entre les mains d'un Chevalier de Grandshelt nommé Rain. Sa magnifique lame argentée réagit aux émotions de son propriétaire en s'embrasant à la manière d'un torrent de flammes. On raconte qu'elle a été forgée grâce à une technique spéciale, qui lui a donné la courbe caractéristique en son centre et qu'on ne retrouve nulle part ailleurs."
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_FF1_ARM_002",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Un bâton magique lourdement ornementé. Sa forme le destine bien mieux à lancer des sorts et manipuler la magie qu'au maniement à mains nues. Il est le favori de Kilphe, qui s'en sert depuis des années, et semble parfois bouger comme s'il était vivant. On raconte aussi qu'il est tout particulièrement réceptif aux sentiments inconscients de sa propriétaire et fait parfois preuve d'un léger excès de zèle. "
         }
     ]
 }

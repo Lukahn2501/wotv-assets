@@ -191,6 +191,62 @@
         {
             "key": "EX_SUB_JB_AXE",
             "value": "Axt-Juwel"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SW",
+            "value": "Almanach der Veredelung (Schwert)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_LS",
+            "value": "Almanach der Veredelung (Großschwert)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_JS",
+            "value": "Almanach der Veredelung (Katana)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_FI",
+            "value": "Almanach der Veredelung (Fäuste)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SP",
+            "value": "Almanach der Veredelung (Lanze)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SS",
+            "value": "Almanach der Veredelung (Dolch)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_KU",
+            "value": "Almanach der Veredelung (Shinobigatana)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_BO",
+            "value": "Almanach der Veredelung (Bogen)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_GU",
+            "value": "Almanach der Veredelung (Pistole)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_ST",
+            "value": "Almanach der Veredelung (Stab)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_MA",
+            "value": "Almanach der Veredelung (Kolben)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AX",
+            "value": "Almanach der Veredelung (Axt)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AR",
+            "value": "Almanach der Veredelung (Rüstung)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AC",
+            "value": "Almanach der Veredelung (Accessoire)"
         }
     ]
 }

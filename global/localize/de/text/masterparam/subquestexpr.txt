@@ -103,6 +103,14 @@
         {
             "key": "SQ_WD_010203_02",
             "value": "Tritt einer Gilde bei."
+        },
+        {
+            "key": "SQ_WD_010204_01",
+            "value": "Nimm an einem Gildenkampf teil."
+        },
+        {
+            "key": "SQ_WD_010204_02",
+            "value": "Stelle einen Ausrüstungsgegenstand her."
         }
     ]
 }

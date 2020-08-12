@@ -103,6 +103,14 @@
         {
             "key": "SQ_WD_010203_02",
             "value": "Recepcionista del gremio"
+        },
+        {
+            "key": "SQ_WD_010204_01",
+            "value": "Recepcionista del gremio"
+        },
+        {
+            "key": "SQ_WD_010204_02",
+            "value": "Herrero inexperto"
         }
     ]
 }

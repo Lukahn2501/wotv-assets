@@ -1310,7 +1310,7 @@
         },
         {
             "key": "ABILITY_BOARD_RESET_VIP_DESC",
-            "value": "可以將在召喚獸育成盤上消耗SP獲得的<color=#f0c040ff>格子全部重置</color>並重新育成，<color=#f0c040ff>根據會員特典，下週一的5點前您還有{0}次不消耗幻導石的重置機會</color>。<br>※重置前消耗的<color=#f0c040ff>SP會全數返還至持有欄</color>。<br><br>要重置召喚獸育成盤嗎？"
+            "value": "可以將在召喚獸育成盤上消耗SP獲得的<color=#f0c040ff>格子全部重置</color>並重新育成，<color=#f0c040ff>根據會員特典，下週一的00:00 世界時間(PST)前您還有{0}次不消耗幻導石的重置機會</color>。<br>※重置前消耗的<color=#f0c040ff>SP會全數返還至持有欄</color>。<br><br>要重置召喚獸育成盤嗎？"
         },
         {
             "key": "ABILITY_BOARD_RESET_TITLE",
@@ -2414,19 +2414,19 @@
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_GIL",
-            "value": "使用會員特典更新。<br>要使用{0}{1}<br>更新商品一覽嗎？<br>（會員特典<br>還可以更新{2}次。）<br>※會員特典次數會於<br>每天12:00 a.m. PST重置"
+            "value": "使用會員特典更新。<br>要使用{0}{1}<br>更新商品一覽嗎？<br>（會員特典<br>還可以更新{2}次。）<br>※會員特典次數會於<br>每天00:00 世界時間(PST)重置"
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_LAPIS",
-            "value": "使用會員特典更新。<br>要使用{1}個{0}<br>更新商品一覽嗎？<br>（會員特典<br>還可以更新{2}次。）<br>※會員特典次數會於<br>每天12:00 a.m. PST重置"
+            "value": "使用會員特典更新。<br>要使用{1}個{0}<br>更新商品一覽嗎？<br>（會員特典<br>還可以更新{2}次。）<br>※會員特典次數會於<br>每天00:00 世界時間(PST)重置"
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_FREE",
-            "value": "使用會員特典更新。<br>要免費更新商品一覽嗎？<br>（會員特典<br>還可以更新{0}次。）<br>※會員特典次數會於<br>每天12:00 a.m. PST重置"
+            "value": "使用會員特典更新。<br>要免費更新商品一覽嗎？<br>（會員特典<br>還可以更新{0}次。）<br>※會員特典次數會於<br>每天00:00 世界時間(PST)重置"
         },
         {
             "key": "SHOP_UPDATE_UPPER_LIMIT",
-            "value": "時間內更新次數已達上限。<br>更新次數會於12:00 a.m. PST重置。"
+            "value": "時間內更新次數已達上限。<br>更新次數會於00:00 世界時間(PST)重置。"
         },
         {
             "key": "SHOP_UPDATE_ERROR_TITLE",
@@ -8331,6 +8331,10 @@
         {
             "key": "QRCODE_ERROR_MESSAGE",
             "value": "非有效平台。"
+        },
+        {
+            "key": "GL_GACHA_BONUS_GAUGE_TITLE",
+            "value": "召喚獎勵"
         },
         {
             "key": "SERVER_Normal_gacha_A_NAME",

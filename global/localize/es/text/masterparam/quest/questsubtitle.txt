@@ -109,6 +109,30 @@
             "value": "Recomendado: nv. 70, nv. de profesión 15"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "Recomendado: nv. 70, nv. de profesión 15"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "Recomendado: nv. 70, nv. de profesión 15"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "Recomendado: nv. 70, nv. de profesión 15"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "Recomendado: nv. 5, nv. de profesión 1"
         },
@@ -1101,6 +1125,86 @@
             "value": "Capítulo 7, escena 2"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "Capítulo 7, escena 3"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "Capítulo 7, escena 3"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "Capítulo 7, escena 3"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "Capítulo 7, escena 3"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "Capítulo 7, escena 3"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "Capítulo 7, escena 3"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "Capítulo 7, escena 3"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "Capítulo 7, escena 3"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "Capítulo 7, escena 3"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "Capítulo 7, escena 3"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "Capítulo 8, escena 1"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "Capítulo 8, escena 1"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "Capítulo 8, escena 1"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "Capítulo 8, escena 1"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "Capítulo 8, escena 1"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "Capítulo 8, escena 1"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "Capítulo 8, escena 1"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "Capítulo 8, escena 1"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "Capítulo 8, escena 1"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Capítulo 8, escena 1"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Misión difícil"
         },
@@ -1318,6 +1422,14 @@
         },
         {
             "key": "QE_HA_LW_VNLA",
+            "value": "Misión difícil"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "Misión difícil"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
             "value": "Misión difícil"
         },
         {
@@ -1557,6 +1669,14 @@
             "value": "Misión de personaje"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "Misión de personaje"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "Misión de personaje"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Misión de personaje"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "Misión de personaje"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "Misión de personaje"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "Recomendado: nv. 5, nv. de profesión 1"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "Recomendado: nv. 10, nv. de profesión 2"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "Recomendado: nv. 20, nv. de profesión 4"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "Recomendado: nv. 30, nv. de profesión 6"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "Recomendado: nv. 40, nv. de profesión 8"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "Recomendado: nv. 42, nv. de profesión 8"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "Recomendado: nv. 42, nv. de profesión 8"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "Recomendado: nv. 45, nv. de profesión 8"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "Recomendado: nv. 45, nv. de profesión 9"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "Recomendado: nv. 48, nv. de profesión 9"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "Limitado"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "Misión de apoyo de entrenamiento de unidad"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "Recomendado: nv. 60, nv. de profesión 10"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "Recomendado: nv. 80, nv. de profesión 12"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "Recomendado: nv. 90, nv. de profesión 15"
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "Recomendado: nv. 50, nv. de profesión 10"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "Prueba un nuevo mapa "
+            "key": "QE_EV_04_01",
+            "value": "Recomendado: nv. 5, nv. de profesión 1"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "Recomendado: nv. 10, nv. de profesión 2"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "Recomendado: nv. 15, nv. de profesión 3"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "Recomendado: nv. 20, nv. de profesión 4"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "Recomendado: nv. 20, nv. de profesión 5"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "Recomendado: nv. 25, nv. de profesión 5"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "Recomendado: nv. 30, nv. de profesión 6"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "Recomendado: nv. 35, nv. de profesión 7"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "Recomendado: nv. 40, nv. de profesión 8"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "Recomendado: nv. 40, nv. de profesión 9"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "Limitado"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "Recomendado: nv. 50, nv. de profesión 9"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Prueba del nuevo mapa"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "Prueba del nuevo mapa"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "Prueba del nuevo mapa"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "Prueba del nuevo mapa"
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "Recomendado: nv. 80, nv. de profesión 12"
         },
@@ -2145,6 +2405,14 @@
             "value": "Recomendado: nv. 70, nv. de profesión 10"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "Recomendado: nv. 70, nv. de profesión 10"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "Recomendado: nv. 70, nv. de profesión 10"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "Jefe de asalto"
         },
@@ -2158,6 +2426,34 @@
         },
         {
             "key": "QE_RAID_EV_06_04",
+            "value": "Jefe de asalto"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Jefe de asalto"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Jefe de asalto"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Jefe de asalto"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Jefe de asalto"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Jefe de asalto"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Jefe de asalto"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
             "value": "Jefe de asalto"
         },
         {
@@ -2297,6 +2593,30 @@
             "value": "Recomendado: nv. 70, nv. de profesión 15"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "Recomendado: nv. 50, nv. de profesión 10"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "Recomendado: nv. 70, nv. de profesión 15"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "Recomendado: nv. 70, nv. de profesión 15"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "Recomendado: nv. 70, nv. de profesión 15"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "Tipos de ataques y resistencias"
         },
@@ -2365,6 +2685,10 @@
             "value": ""
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": ""
+        },
+        {
             "key": "QE_GVG_00001",
             "value": ""
         },
@@ -2374,6 +2698,10 @@
         },
         {
             "key": "QE_GVG_00003",
+            "value": ""
+        },
+        {
+            "key": "QE_GVG_00004",
             "value": ""
         },
         {

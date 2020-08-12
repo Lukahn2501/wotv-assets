@@ -257,6 +257,18 @@
             "value": "Tyrrel"
         },
         {
+            "key": "UN_FF1_P_WROL",
+            "value": "Krieger des Lichts"
+        },
+        {
+            "key": "UN_LW_P_QILF",
+            "value": "Kilphe"
+        },
+        {
+            "key": "UN_LW_P_SIMR",
+            "value": "Seymore"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "Mont Leonis"
         },
@@ -407,6 +419,10 @@
         {
             "key": "UN_LW_E_RAIN",
             "value": "Rain"
+        },
+        {
+            "key": "UN_LW_E_QILF",
+            "value": "Kilphe"
         },
         {
             "key": "UN_LW_E_TREL",
@@ -586,6 +602,10 @@
         },
         {
             "key": "UN_LW_E_TH_00_MGK",
+            "value": "Bandit"
+        },
+        {
+            "key": "UN_LW_E_TH_RDM_RAID",
             "value": "Bandit"
         },
         {
@@ -897,6 +917,10 @@
             "value": "Mönchsoldat"
         },
         {
+            "key": "UN_LW_E_PR_02_TIM_2",
+            "value": "Mönchsoldat"
+        },
+        {
             "key": "UN_LW_E_PR_02_GRM",
             "value": "Mönchsoldat"
         },
@@ -1125,6 +1149,18 @@
             "value": "Gaffgarion"
         },
         {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": "Verdammter"
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": "Todesmaschine"
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
+            "value": "Todesmaschine"
+        },
+        {
             "key": "UN_LW_E_IGNT_TW_EX2",
             "value": "Eisengigant"
         },
@@ -1141,6 +1177,10 @@
             "value": "Wolframator"
         },
         {
+            "key": "UN_LW_E_IGNT_02",
+            "value": "Metalldämon"
+        },
+        {
             "key": "UN_LW_E_IGNT_01_QE",
             "value": "Wolframator"
         },
@@ -1155,6 +1195,14 @@
         {
             "key": "UN_LW_E_IGNT_BLM",
             "value": "Schwarzmagier"
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": "Zweiköpfiger Drache"
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": "Diabolos"
         },
         {
             "key": "UN_LW_E_BHMT",
@@ -1217,12 +1265,20 @@
             "value": "Küsschen"
         },
         {
+            "key": "UN_LW_E_THDG",
+            "value": "Zweiköpfiger Drache"
+        },
+        {
             "key": "UN_LW_E_SLIM",
             "value": "Grünschleim"
         },
         {
             "key": "UN_LW_E_CSLI",
             "value": "Schokopudding"
+        },
+        {
+            "key": "UN_LW_E_CSLI_01",
+            "value": "Weißes Marshmallow"
         },
         {
             "key": "UN_LW_E_CSLI_QE",
@@ -1275,6 +1331,18 @@
         {
             "key": "UN_LW_E_OCHU_SIREN",
             "value": "Küsschen"
+        },
+        {
+            "key": "UN_LW_E_THDG_SIREN",
+            "value": "Zweiköpfiger Drache"
+        },
+        {
+            "key": "UN_FF01_E_WRMC_SIREN",
+            "value": "Todesmaschine"
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
+            "value": "Diabolos"
         },
         {
             "key": "UN_LW_E_ENBT",
@@ -1725,6 +1793,42 @@
             "value": "Küsschen"
         },
         {
+            "key": "UN_LW_S_THDG",
+            "value": "Zweiköpfiger Drache"
+        },
+        {
+            "key": "UN_LW_S_THDG_AW1",
+            "value": "Zweiköpfiger Drache"
+        },
+        {
+            "key": "UN_LW_S_THDG_AW2",
+            "value": "Zweiköpfiger Drache"
+        },
+        {
+            "key": "UN_FF01_S_WRMC",
+            "value": "Todesmaschine"
+        },
+        {
+            "key": "UN_FF01_S_WRMC_AW1",
+            "value": "Todesmaschine"
+        },
+        {
+            "key": "UN_FF01_S_WRMC_AW2",
+            "value": "Todesmaschine"
+        },
+        {
+            "key": "UN_LW_S_DABL",
+            "value": "Diabolos"
+        },
+        {
+            "key": "UN_LW_S_DABL_AW1",
+            "value": "Diabolos"
+        },
+        {
+            "key": "UN_LW_S_DABL_AW2",
+            "value": "Diabolos"
+        },
+        {
             "key": "UN_GM_TREASURE",
             "value": "Schatzkiste"
         },
@@ -1779,6 +1883,14 @@
         {
             "key": "UN_GM_MGSW_01",
             "value": "Beschwörungskreis (Monstervernichtung)"
+        },
+        {
+            "key": "UN_GM_TARU_01",
+            "value": "Pulverfass"
+        },
+        {
+            "key": "UN_GM_TARU_02",
+            "value": "Pulverfass (L)"
         }
     ]
 }

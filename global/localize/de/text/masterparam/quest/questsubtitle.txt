@@ -109,6 +109,30 @@
             "value": "Empfohlen: Einheitenstufe 70, Jobstufe 15"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "Empfohlen: Einheitenstufe 70, Jobstufe 15"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "Empfohlen: Einheitenstufe 70, Jobstufe 15"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "Empfohlen: Einheitenstufe 70, Jobstufe 15"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "Empfohlen: Einheitenstufe 5, Jobstufe 1"
         },
@@ -1101,6 +1125,86 @@
             "value": "Kapitel 7, Szene 2"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "Kapitel 7, Szene 3"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "Kapitel 7, Szene 3"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "Kapitel 7, Szene 3"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "Kapitel 7, Szene 3"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "Kapitel 7, Szene 3"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "Kapitel 7, Szene 3"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "Kapitel 7, Szene 3"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "Kapitel 7, Szene 3"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "Kapitel 7, Szene 3"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "Kapitel 7, Szene 3"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "Kapitel 8, Szene 1"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "Kapitel 8, Szene 1"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "Kapitel 8, Szene 1"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "Kapitel 8, Szene 1"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "Kapitel 8, Szene 1"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "Kapitel 8, Szene 1"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "Kapitel 8, Szene 1"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "Kapitel 8, Szene 1"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "Kapitel 8, Szene 1"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Kapitel 8, Szene 1"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Schwieriger Auftrag"
         },
@@ -1318,6 +1422,14 @@
         },
         {
             "key": "QE_HA_LW_VNLA",
+            "value": "Schwieriger Auftrag "
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "Schwieriger Auftrag "
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
             "value": "Schwieriger Auftrag "
         },
         {
@@ -1557,6 +1669,14 @@
             "value": "Charakterauftrag"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "Charakterauftrag"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "Charakterauftrag"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Charakterauftrag"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "Charakterauftrag"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "Charakterauftrag"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "Empfohlen: Einheitenstufe 5, Jobstufe 1"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "Empfohlen: Einheitenstufe 10, Jobstufe 2"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "Empfohlen: Einheitenstufe 20, Jobstufe 4"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "Empfohlen: Einheitenstufe 30, Jobstufe 6"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "Empfohlen: Einheitenstufe 40, Jobstufe 8"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "Empfohlen: Einheitenstufe 42, Jobstufe 8"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "Empfohlen: Einheitenstufe 42, Jobstufe 8"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "Empfohlen: Einheitenstufe 45, Jobstufe 8"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "Empfohlen: Einheitenstufe 45, Jobstufe 9"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "Empfohlen: Einheitenstufe 48, Jobstufe 9"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "Limitiert"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "Einheitentraining - Unterstützungsauftrag"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "Empfohlen: Einheitenstufe 60, Jobstufe 10"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "Empfohlen: Einheitenstufe 80, Jobstufe 12"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "Empfohlen: Einheitenstufe 90, Jobstufe 15"
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "Probiere die neue Karte aus "
+            "key": "QE_EV_04_01",
+            "value": "Empfohlen: Einheitenstufe 5, Jobstufe 1"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "Empfohlen: Einheitenstufe 10, Jobstufe 2"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "Empfohlen: Einheitenstufe 15, Jobstufe 3"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "Empfohlen: Einheitenstufe 20, Jobstufe 4"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "Empfohlen: Einheitenstufe 20, Jobstufe 5"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "Empfohlen: Einheitenstufe 25, Jobstufe 5"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "Empfohlen: Einheitenstufe 30, Jobstufe 6"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "Empfohlen: Einheitenstufe 35, Jobstufe 7"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "Empfohlen: Einheitenstufe 40, Jobstufe 8"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "Empfohlen: Einheitenstufe 40, Jobstufe 9"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "Limitiert"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "Empfohlen: Einheitenstufe 50, Jobstufe 9"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Testlauf für die neue Karte"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "Testlauf für die neue Karte"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "Testlauf für die neue Karte"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "Testlauf für die neue Karte"
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "Empfohlen: Einheitenstufe 80, Jobstufe 12"
         },
@@ -2145,6 +2405,14 @@
             "value": "Empfohlen: Einheitenstufe 70, Jobstufe 10"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "Empfohlen: Einheitenstufe 70, Jobstufe 10"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "Empfohlen: Einheitenstufe 70, Jobstufe 10"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "Kraftproben-Boss"
         },
@@ -2158,6 +2426,34 @@
         },
         {
             "key": "QE_RAID_EV_06_04",
+            "value": "Kraftproben-Boss"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Kraftproben-Boss"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Kraftproben-Boss"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Kraftproben-Boss"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Kraftproben-Boss"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Kraftproben-Boss"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Kraftproben-Boss"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
             "value": "Kraftproben-Boss"
         },
         {
@@ -2297,6 +2593,30 @@
             "value": "Empfohlen: Einheitenstufe 70, Jobstufe 15"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "Empfohlen: Einheitenstufe 70, Jobstufe 15"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "Empfohlen: Einheitenstufe 70, Jobstufe 15"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "Empfohlen: Einheitenstufe 70, Jobstufe 15"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "Angriffsarten und Resistenzen"
         },
@@ -2365,6 +2685,10 @@
             "value": ""
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": ""
+        },
+        {
             "key": "QE_GVG_00001",
             "value": ""
         },
@@ -2374,6 +2698,10 @@
         },
         {
             "key": "QE_GVG_00003",
+            "value": ""
+        },
+        {
+            "key": "QE_GVG_00004",
             "value": ""
         },
         {

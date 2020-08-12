@@ -803,6 +803,42 @@
         {
             "key": "JB_LW_ASS_DARK",
             "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_FF1_WROL",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, der sich mithilfe von Fähigkeiten gegen magische Angriffe verteidigen kann und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_MST_FIRE",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der Entfesselungszeit benötigt, dies aber durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_WATER",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_ICE",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_SOIL",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_THUN",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_WIND",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_SHINE",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_DARK",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
         }
     ]
 }

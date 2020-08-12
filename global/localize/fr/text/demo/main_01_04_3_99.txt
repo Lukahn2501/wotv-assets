@@ -30,7 +30,7 @@
         },
         {
             "key": "008",
-            "value": "Foutaises !"
+            "value": "C'est absurde !"
         },
         {
             "key": "009",

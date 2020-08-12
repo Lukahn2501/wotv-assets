@@ -5,6 +5,10 @@
             "value": "Bonus de connexion des débutants"
         },
         {
+            "key": "LB_BEGINNER_002",
+            "value": "Bonus de connexion des débutants"
+        },
+        {
             "key": "LB_TOTAL_001",
             "value": "Bonus de connexion cumulatif"
         },
@@ -27,6 +31,10 @@
         {
             "key": "LB_202007",
             "value": "Bonus de connexion de juillet"
+        },
+        {
+            "key": "LB_202008",
+            "value": "Bonus de connexion d'août"
         },
         {
             "key": "LB_LIMIT_GL_0001",
@@ -54,7 +62,7 @@
         },
         {
             "key": "LB_LIMIT_GL0002",
-            "value": "Bonus de connexion des « 3 millions de téléchargements » Partie II"
+            "value": "Bonus de connexion des « 3 millions de téléchargements » Partie II"
         },
         {
             "key": "LB_LIMIT_GL0003",
@@ -70,7 +78,7 @@
         },
         {
             "key": "LB_LIMIT_GL0006",
-            "value": "Bonus de connexion des « 5 millions de téléchargements » Partie II"
+            "value": "Bonus de connexion des « 5 millions de téléchargements » Partie II"
         },
         {
             "key": "LB_LIMIT_GL0007",
@@ -103,6 +111,22 @@
         {
             "key": "LB_LIMIT_GL0014",
             "value": "Bonus de connexion journaliers de FF EXVIUS Universe"
+        },
+        {
+            "key": "LB_LIMIT_GL0015",
+            "value": "Bonus de connexion spécial Raid"
+        },
+        {
+            "key": "LB_LIMIT_GL0016",
+            "value": "Bonus de connexion de FFI"
+        },
+        {
+            "key": "LB_LIMIT_GL0017",
+            "value": "Bonus de connexion de FFI [Partie II]"
+        },
+        {
+            "key": "LB_LIMIT_GL0018",
+            "value": "Bonus de connexion « Sortie du Chapitre 8 ! »"
         }
     ]
 }

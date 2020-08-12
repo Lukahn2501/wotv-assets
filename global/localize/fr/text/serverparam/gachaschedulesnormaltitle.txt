@@ -129,6 +129,30 @@
             "value": "Invocation rare"
         },
         {
+            "key": "Raregacha_A_gl20200729_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_P",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_01",
+            "value": "Invocation rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_10",
+            "value": "Invocation x10 rare"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_P",
+            "value": "Invocation rare"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Commémoration de lancement - Invocation normale limitée"
         },
@@ -238,6 +262,38 @@
         },
         {
             "key": "Normal_gacha_A_gl20200715_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_10",
+            "value": "Invocation x10 normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_01",
+            "value": "Invocation normale limitée"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_10",
             "value": "Invocation x10 normale limitée"
         }
     ]

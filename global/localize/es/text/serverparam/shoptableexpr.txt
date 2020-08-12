@@ -86,11 +86,11 @@
         },
         {
             "key": "IT_SET_AF_RECIPE_R_01",
-            "value": "Un lote económico de recetas de elaboración para equipo R que puede equiparse con todos los tipos de profesiones. Oferta especial de la Tienda del principiante. ¡A mitad de precio!"
+            "value": "Un lote económico de recetas de elaboración para equipo de rareza R que puede equiparse con sus respectivos tipos de profesiones. Oferta especial de la tienda del principiante."
         },
         {
             "key": "IT_SET_AF_RECIPE_R_02",
-            "value": "Un lote económico de recetas de elaboración para equipo R que puede equiparse con todos los tipos de profesiones. Oferta especial de la Tienda del principiante. ¡A mitad de precio!"
+            "value": "Un lote económico de recetas de elaboración para equipo de rareza R que puede equiparse con sus respectivos tipos de profesiones. Oferta especial de la tienda del principiante. ¡A mitad de precio!"
         },
         {
             "key": "IT_SET_AW_FIRE_02",
@@ -362,7 +362,7 @@
         },
         {
             "key": "IT_SET_UR_UNIT",
-            "value": "Lote que contiene un tícket de invocación de unidad UR garantizada, cubos de EXP (G y XL), un tícket seleccionador de 100 fragmentos de la memoria elementales, un tícket seleccionador de 100 prismas del despertar elementales, un fragmento de la memoria arcoíris y esferas de visión arcoíris. *No incluye unidades limitadas, de colaboración, ni a Kiton, Susurro o Miranda."
+            "value": "Lote que contiene un tícket de invocación de unidad UR garantizada A y objetos necesarios para entrenar unidades. *El tícket de invocación de unidad UR garantizada A no puede usarse con unidades limitadas, de colaboración, ni Vinera o Rain."
         },
         {
             "key": "IT_SET_UR_VC",
@@ -571,6 +571,102 @@
         {
             "key": "IT_SET_AW_DARK_CM_03",
             "value": "Lote especial que contiene fragmentos de la memoria de oscuridad, almas del despertar de oscuridad (2–6★), fragmentos de la memoria arcoíris, esferas de visión arcoíris y prismas del despertar de oscuridad. ¡Imprescindible para mejorar unidades de oscuridad!"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "Esfera de visión arcoíris necesaria para romper el límite de unidades UR. Oferta especial de la tienda del principiante."
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "Una esfera de visión cerúlea necesaria para romper el límite de unidades MR. ¡Los principiantes pueden adquirirla gratis una vez al día!"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "Fragmento de la memoria arcoíris necesario para despertar unidades. Oferta especial de la tienda del principiante."
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "Un lote económico que sirve para mejorar profesiones de hast nv. 4. Oferta especial de la tienda del principiante."
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "Un lote económico con jadeítas de cada tipo para mejorar profesiones de nvs. 2–3. Oferta especial de la tienda del principiante."
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "Un lote económico con jadeítas de cada tipo para mejorar profesiones de nvs. 2–3. Oferta especial de la tienda del principiante."
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "Un lote económico con azuritas de cada tipo para mejorar profesiones de nvs. 4–6. Oferta especial de la tienda del principiante."
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "Un lote económico con azuritas de cada tipo para mejorar profesiones de nvs. 4–6. Oferta especial de la tienda del principiante."
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "¡Lote especial que contiene un tícket seleccionador de 200 fragmentos de la memoria elementales, un tícket seleccionador de 200 prismas del despertar, fragmentos de la memoria arcoíris y esferas de visión arcoíris!"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "Un lote económico de recetas de elaboración para equipo de rareza R que puede equiparse con sus respectivos tipos de profesiones. Oferta especial de la tienda del principiante."
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "Lote especial que incluye objetos como un tícket de invocación de carta de visión UR garantizada A y esferas de visión arcoíris. *El tícket de invocación de carta de visión UR garantizada A no podrá usarse con cartas de visión limitadas o de colaboración."
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Lote especial que incluye un tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 22 de julio. También incluye una esfera de visión arcoíris, huevos nutritivos (MR) y guilonios (G). *El tícket seleccionador de 50 fragmentos de carta de visión UR no podrá usarse con cartas de visión limitadas o de colaboración. *El tícket no podrá usarse con cartas de visión nuevas disponibles en el futuro."
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "Un lote especial que contiene magicita blanca (XL) y huevos nutritivos (MR). ¡Fundamentales para mejorar los espers de luz!"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "¡Un lote especial que incluye un martillo de restablecimiento, necesario para restablecer los atributos de una pieza del equipo, sellos de defensa, que incrementan la probabilidad de que aumente la DEF de una pieza del equipo cuando sube de nivel, y martillos enanos de DEF para aumentar aún más la DEF de tu equipo!"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "¡Un lote especial que contiene un martillo de restablecimiento, necesario para restablecer los atributos de una pieza del equipo, sellos de ataque, que incrementan la probabilidad de que aumente el ESP de una pieza del equipo cuando sube de nivel, y martillos enanos de ESP para aumentar aún más el ESP de tu equipo!"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "¡Un lote especial que incluye fragmentos de unidad del Guerrero de la Luz UR necesarios para la ruptura de límite, fragmentos de la memoria de luz necesarios para el despertar, y objetos de bonificación como esferas de visión arcoíris y un fragmento de la memoria arcoíris!"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "Lote especial que contiene fragmentos de la memoria de luz, almas del despertar de luz (2–6★), fragmentos de la memoria arcoíris, esferas de visión arcoíris y prismas del despertar de luz. ¡Imprescindible para mejorar unidades de luz!"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "Lote que contiene fragmentos de carta de visión necesarios para despertar «Máquina mortal», además de huevos nutritivos (MR), esferas de visión arcoíris y guilonios (G) necesarios para las mejoras."
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "Lote especial que contiene fragmentos de la memoria de tierra, almas del despertar de tierra (2–6★), fragmentos de la memoria arcoíris, esferas de visión arcoíris y prismas del despertar de tierra. ¡Imprescindible para mejorar unidades de tierra!"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "Lote especial que contiene un tícket de invocación de unidad UR garantizada y objetos necesarios para entrenar unidades. *El tícket de invocación de unidad UR garantizada no puede usarse con unidades limitadas o de colaboración."
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Lote que contiene huevos nutritivos (MR) y un tícket seleccionador de 25 magicitas elementales (M)."
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Lote especial que incluye un tícket seleccionador de 50 fragmentos de carta de visión UR, una esfera de visión arcoíris, huevos nutritivos (MR) y guilonios (G). *El tícket seleccionador de 50 fragmentos de carta de visión UR no podrá usarse con cartas de visión limitadas o de colaboración."
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "Un lote especial que contiene magicita morada (XL) y huevos nutritivos (MR). ¡Fundamentales para mejorar los espers de oscuridad!"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "Un lote especial repleto de huevos nutritivos (MR), además de huevos nutritivos (SR) y guilonios (G) a modo de bonificación. ¡Imprescindibles para mejorar tus carta de visión!"
         }
     ]
 }

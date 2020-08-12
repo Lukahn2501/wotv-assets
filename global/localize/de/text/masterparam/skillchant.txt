@@ -2389,6 +2389,126 @@
             "value": ""
         },
         {
+            "key": "SK_FF1_WROL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_S_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_S_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_P_2",
+            "value": ""
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "<span=0.03>Kristalle des Willensaktes, <br>Möge euer eisiger Sturm alles Leben erstarren lassen!<wait=0.35><br><span=0.03>Frostiger Schauder!<wait=0.7><span=0.02> Eisra!<wait=0.5>"
         },
@@ -2921,6 +3041,22 @@
             "value": ""
         },
         {
+            "key": "SK_CSLI_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": ""
+        },
+        {
             "key": "SK_SLIM_ATK",
             "value": ""
         },
@@ -3141,6 +3277,70 @@
             "value": ""
         },
         {
+            "key": "SK_THDG_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_R_01",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_M_05",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_M_04",
+            "value": ""
+        },
+        {
             "key": "SK_LW_E_VIK_ATK",
             "value": ""
         },
@@ -3357,6 +3557,14 @@
             "value": ""
         },
         {
+            "key": "SK_LB_FF1_WROL",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_QILF",
+            "value": ""
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "<span=0.03>Bestie der vulkanischen Feuersbrunst!<wait=0.35><br><span=0.03>Entfessle dein wütendes Höllenfeuer!<wait=0.7><span=0.02> Ifrit!<wait=0.5>"
         },
@@ -3423,6 +3631,18 @@
         {
             "key": "SK_SMN_OCHU",
             "value": "<span=0.03>Blühendes Wesen der Wälder! <wait=0.35><br><span=0.03>Entfessle deine florale Munition! <wait=0.7><span=0.02>Küsschen!<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_THDG",
+            "value": "<span=0.03>Tobende Zwillingsköpfe, entfesselt eure Verwüstung!<wait=0.35><br><span=0.03>Verheerung soll kommen, <wait=0.7><span=0.02>Zweiköpfiger Drache!<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_WRMC",
+            "value": "<span=0.03>Fliegende Festung der Lüfte, erwecke die verbotene Apparatur!<wait=0.35><br><span=0.03>Inbetriebnahme: <wait=0.7><span=0.02>Todesmaschine!<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_DABL",
+            "value": "<span=0.03>Blutbefleckter Vertrag, Herzenswunsch in Dunkelheit!<wait=0.35><br><span=0.03>Zeige dich mir, <wait=0.7><span=0.02>Diabolos!<wait=0.5>"
         },
         {
             "key": "SK_US_POTION",
@@ -3793,6 +4013,18 @@
             "value": ""
         },
         {
+            "key": "SK_MA_FF1_WROL",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_QILF",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_SIMR",
+            "value": ""
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": ""
         },
@@ -3966,6 +4198,18 @@
         },
         {
             "key": "SK_ACC_LW_VNLA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FF1_WROL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_QILF_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_KAT_LW_SIMR_1_1",
             "value": ""
         },
         {
@@ -4537,6 +4781,54 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_GS",
             "value": ""
         },
@@ -4670,6 +4962,18 @@
         },
         {
             "key": "SK_VC_LW_VALE2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
             "value": ""
         },
         {
@@ -4965,6 +5269,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_P",
             "value": ""
         },
@@ -5106,6 +5434,66 @@
         },
         {
             "key": "SK_VC_LW_VALE2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {

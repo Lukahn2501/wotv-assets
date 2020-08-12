@@ -1041,6 +1041,46 @@
             "value": "ソウルメダル【UR】交換所"
         },
         {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "ソウルメダル【R】交換所"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "ソウルメダル【SR】交換所"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "ソウルメダル【SSR】交換所"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "ソウルメダル【UR】交換所"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "通常ショップ/気まぐれ屋"
         },
@@ -1741,6 +1781,18 @@
             "value": ""
         },
         {
+            "key": "IT_PI_FF1_WROL",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "通常ショップ/気まぐれ屋/探検チョコボ"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "通常ショップ/気まぐれ屋/探検チョコボ"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "探検チョコボ"
         },
@@ -1994,6 +2046,22 @@
         },
         {
             "key": "IT_SB_AW_OCHU_R3",
+            "value": ""
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "強敵の間２ヘッドドラゴン戦"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": ""
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "強敵の間ディアボロス戦"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
             "value": ""
         },
         {
@@ -2505,6 +2573,14 @@
             "value": ""
         },
         {
+            "key": "IT_AF_LW_CLT_005",
+            "value": ""
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": ""
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "アリーナメダル交換所/PVPメダル交換所"
         },
@@ -2733,6 +2809,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -2757,7 +2837,23 @@
             "value": ""
         },
         {
+            "key": "IT_EC_EV04_1",
+            "value": ""
+        },
+        {
             "key": "IT_EC_RAID_02",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FF1_2",
             "value": ""
         },
         {
@@ -2805,6 +2901,10 @@
             "value": ""
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": ""
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": ""
         },
@@ -2822,6 +2922,10 @@
         },
         {
             "key": "IT_US_SE_JB_EM_01_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
             "value": ""
         },
         {
@@ -2905,6 +3009,14 @@
             "value": ""
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": ""
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": ""
         },
@@ -2913,11 +3025,23 @@
             "value": ""
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": ""
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
             "value": ""
         },
         {
+            "key": "IT_US_SE_PI_GL01",
+            "value": ""
+        },
+        {
             "key": "IT_US_G_U_UR_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
             "value": ""
         },
         {
@@ -2974,6 +3098,10 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_05",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
             "value": ""
         },
         {
@@ -3207,6 +3335,34 @@
         {
             "key": "IT_VPI_LW_VALE2",
             "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "通常ショップ/ビジョンメダル【UR】交換所"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "通常ショップ/ビジョンメダル【SSR】交換所"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "通常ショップ/ビジョンメダル【SSR】交換所"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "通常ショップ/ビジョンメダル【UR】交換所"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "通常ショップ/ビジョンメダル【UR】交換所"
         },
         {
             "key": "IT_VC_EXP_01",

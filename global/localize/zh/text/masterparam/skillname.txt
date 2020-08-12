@@ -2389,6 +2389,126 @@
             "value": "提升獲得AP Lv1"
         },
         {
+            "key": "SK_FF1_WROL_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_FF1_WROL_M_1",
+            "value": "勇氣神聖"
+        },
+        {
+            "key": "SK_FF1_WROL_M_2",
+            "value": "生命之息"
+        },
+        {
+            "key": "SK_FF1_WROL_M_3",
+            "value": "無敵護盾"
+        },
+        {
+            "key": "SK_FF1_WROL_S_1",
+            "value": "變位攻擊"
+        },
+        {
+            "key": "SK_FF1_WROL_S_2",
+            "value": "英勇姿態"
+        },
+        {
+            "key": "SK_FF1_WROL_S_3",
+            "value": "抑止劍"
+        },
+        {
+            "key": "SK_FF1_WROL_S_4",
+            "value": "停止直擊"
+        },
+        {
+            "key": "SK_FF1_WROL_R_1",
+            "value": "戰士的榮耀"
+        },
+        {
+            "key": "SK_FF1_WROL_P_1",
+            "value": "起始的戰士"
+        },
+        {
+            "key": "SK_FF1_WROL_P_2",
+            "value": "驅散混沌之力"
+        },
+        {
+            "key": "SK_LW_MST_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_LW_MST_M_1",
+            "value": "能量衝擊"
+        },
+        {
+            "key": "SK_LW_MST_M_2",
+            "value": "魔杖防盾"
+        },
+        {
+            "key": "SK_LW_MST_M_3",
+            "value": "信念增幅"
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1_INIT",
+            "value": "火杖術"
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1_INIT",
+            "value": "冰杖術"
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1_INIT",
+            "value": "風杖術"
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1_INIT",
+            "value": "雷杖術"
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1_INIT",
+            "value": "水杖術"
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1_INIT",
+            "value": "土杖術"
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1_INIT",
+            "value": "光杖術"
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1_INIT",
+            "value": "暗杖術"
+        },
+        {
+            "key": "SK_LW_MST_S_2_INIT",
+            "value": "魔杖術·展翼"
+        },
+        {
+            "key": "SK_LW_MST_S_3",
+            "value": "魔杖術·混亂"
+        },
+        {
+            "key": "SK_LW_MST_S_4",
+            "value": "魔杖術·眩暈"
+        },
+        {
+            "key": "SK_LW_MST_S_5",
+            "value": "步法&魔法"
+        },
+        {
+            "key": "SK_LW_MST_R_1",
+            "value": "反障壁"
+        },
+        {
+            "key": "SK_LW_MST_P_1",
+            "value": "提升魔力Lv1"
+        },
+        {
+            "key": "SK_LW_MST_P_2",
+            "value": "提升防禦Lv1"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "中暴雪"
         },
@@ -2921,6 +3041,22 @@
             "value": "甜蜜噴泉"
         },
         {
+            "key": "SK_CSLI_01_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "棉花糖穿透"
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "溶解"
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "白色派對"
+        },
+        {
             "key": "SK_SLIM_ATK",
             "value": "普通攻擊"
         },
@@ -3141,6 +3277,70 @@
             "value": "集束·種子大砲"
         },
         {
+            "key": "SK_THDG_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_THDG_R_01",
+            "value": "龍之音"
+        },
+        {
+            "key": "SK_THDG_M_01",
+            "value": "頭部猛攻"
+        },
+        {
+            "key": "SK_THDG_M_02",
+            "value": "蓄積"
+        },
+        {
+            "key": "SK_THDG_M_03",
+            "value": "雙重破壞吐息·火"
+        },
+        {
+            "key": "SK_THDG_M_04",
+            "value": "雙重破壞吐息·冰"
+        },
+        {
+            "key": "SK_THDG_M_05",
+            "value": "釋放"
+        },
+        {
+            "key": "SK_WRMC_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "擴散導彈"
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "光束炮"
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "核攻擊"
+        },
+        {
+            "key": "SK_DABL_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_DABL_M_01",
+            "value": "紫羅蘭恐怖"
+        },
+        {
+            "key": "SK_DABL_M_02",
+            "value": "重力"
+        },
+        {
+            "key": "SK_DABL_M_03",
+            "value": "超療傷"
+        },
+        {
+            "key": "SK_DABL_M_04",
+            "value": "來自黑暗的使者"
+        },
+        {
             "key": "SK_LW_E_VIK_ATK",
             "value": "普通攻擊"
         },
@@ -3357,6 +3557,14 @@
             "value": "暗技·朧隱"
         },
         {
+            "key": "SK_LB_FF1_WROL",
+            "value": "水晶勇者"
+        },
+        {
+            "key": "SK_LB_LW_QILF",
+            "value": "魔杖集戟"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "地獄火焰"
         },
@@ -3423,6 +3631,18 @@
         {
             "key": "SK_SMN_OCHU",
             "value": "集束·種子大砲"
+        },
+        {
+            "key": "SK_SMN_THDG",
+            "value": "釋放"
+        },
+        {
+            "key": "SK_SMN_WRMC",
+            "value": "核攻擊"
+        },
+        {
+            "key": "SK_SMN_DABL",
+            "value": "來自黑暗的使者"
         },
         {
             "key": "SK_US_POTION",
@@ -3793,6 +4013,18 @@
             "value": "專精能力"
         },
         {
+            "key": "SK_MA_FF1_WROL",
+            "value": "專精能力"
+        },
+        {
+            "key": "SK_MA_LW_QILF",
+            "value": "專精能力"
+        },
+        {
+            "key": "SK_MA_LW_SIMR",
+            "value": "專精能力"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "斬擊攻擊力+2"
         },
@@ -3967,6 +4199,18 @@
         {
             "key": "SK_ACC_LW_VNLA_1_1",
             "value": "虛偽的夜帳"
+        },
+        {
+            "key": "SK_ACC_FF1_WROL_1_1",
+            "value": "神聖之光"
+        },
+        {
+            "key": "SK_ACC_LW_QILF_1_1",
+            "value": "相反的矜持"
+        },
+        {
+            "key": "SK_KAT_LW_SIMR_1_1",
+            "value": ""
         },
         {
             "key": "SK_ACC_LW_MONT_ARENA",
@@ -4537,6 +4781,54 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_GS",
             "value": ""
         },
@@ -4670,6 +4962,18 @@
         },
         {
             "key": "SK_VC_LW_VALE2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
             "value": ""
         },
         {
@@ -4965,6 +5269,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_P",
             "value": ""
         },
@@ -5106,6 +5434,66 @@
         },
         {
             "key": "SK_VC_LW_VALE2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {

@@ -1310,7 +1310,7 @@
         },
         {
             "key": "ABILITY_BOARD_RESET_VIP_DESC",
-            "value": "<color=#f0c040ff>Aufgrund von royalen Privilegien darfst du bist zum kommenden Montag um 00:00 Uhr (PST) bis zu {0} Mal das Brett zurücksetzen, ohne Visiore zu bezahlen.</color>. Es werden <color=#f0c040ff>alle Flächen zurückgesetzt</color>, die du bisher unter Einsatz von SP freigeschaltet hattest, sodass du die Esper von Grund auf neu trainieren kannst. <br>* Alle verbrauchten <color=#f0c040ff>SP werden erstattet</color> und an dein Inventar zurückgesendet.<br><br>Esper-Trainingsbrett zurücksetzen?"
+            "value": "<color=#f0c040ff>Aufgrund von royalen Privilegien darfst du bist zum kommenden Montag um 00:00 Weltzeit (PST) bis zu {0} Mal das Brett zurücksetzen, ohne Visiore zu bezahlen.</color>. Es werden <color=#f0c040ff>alle Flächen zurückgesetzt</color>, die du bisher unter Einsatz von SP freigeschaltet hattest, sodass du die Esper von Grund auf neu trainieren kannst. <br>* Alle verbrauchten <color=#f0c040ff>SP werden erstattet</color> und an dein Inventar zurückgesendet.<br><br>Esper-Trainingsbrett zurücksetzen?"
         },
         {
             "key": "ABILITY_BOARD_RESET_TITLE",
@@ -2414,19 +2414,19 @@
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_GIL",
-            "value": "Das Angebot wird mit deinen Royalen Privilegien aktualisiert.<br>{0} {1} verbrauchen und Warenangebot aktualisieren?<br>(Die Liste kann noch {2}-mal mit Royalen Privilegien aktualisiert werden.)<br>*Royale Privilegien werden jeden Tag um 00:00 Uhr (PST) zurückgesetzt."
+            "value": "Das Angebot wird mit deinen Royalen Privilegien aktualisiert.<br>{0} {1} verbrauchen und Warenangebot aktualisieren?<br>(Die Liste kann noch {2}-mal mit Royalen Privilegien aktualisiert werden.)<br>* Royale Privilegien werden jeden Tag um 00:00 Weltzeit (PST) zurückgesetzt."
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_LAPIS",
-            "value": "Das Angebot wird mit deinen Royalen Privilegien aktualisiert.<br>{1} {0} verbrauchen und Warenangebot aktualisieren?　 (Die Liste kann noch {2}-mal mit Royalen Privilegien aktualisiert werden.)<br><br>*Royale Privilegien werden jeden Tag um 00:00 Uhr (PST) zurückgesetzt."
+            "value": "Das Angebot wird mit deinen Royalen Privilegien aktualisiert.<br>{1} {0} verbrauchen und Warenangebot aktualisieren?<br>(Die Liste kann noch {2}-mal mit Royalen Privilegien aktualisiert werden.)<br>* Royale Privilegien werden jeden Tag um 00:00 Weltzeit (PST) zurückgesetzt."
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_FREE",
-            "value": "Das Angebot wird mit deinen Royalen Privilegien aktualisiert.<br>Kostenlos Warenangebot aktualisieren?<br>(Die Liste kann noch {0}-mal mit Royalen Privilegien aktualisiert werden.)<br>*Royale Privilegien werden jeden Tag um 00:00 Uhr (PST) zurückgesetzt."
+            "value": "Das Angebot wird mit deinen Royalen Privilegien aktualisiert.<br>Kostenlos Warenangebot aktualisieren?<br>(Die Liste kann noch {0}-mal mit Royalen Privilegien aktualisiert werden.)<br>* Royale Privilegien werden jeden Tag um 00:00 Weltzeit (PST) zurückgesetzt."
         },
         {
             "key": "SHOP_UPDATE_UPPER_LIMIT",
-            "value": "Du hast die maximale Anzahl an Ladenaktualisierungen für diesen Zeitabschnitt erreicht. <br>Der Laden kann ab 00:00 Uhr (PST) wieder aktualisiert werden."
+            "value": "Du hast die maximale Anzahl an Ladenaktualisierungen für diesen Zeitabschnitt erreicht. <br>Der Laden kann ab 00:00 Weltzeit (PST) wieder aktualisiert werden."
         },
         {
             "key": "SHOP_UPDATE_ERROR_TITLE",
@@ -4650,7 +4650,7 @@
         },
         {
             "key": "GACHA_PIECE_NAME",
-            "value": "{0} x {1} & {2} x {3}"
+            "value": "{0} x{1} & {2} x{3}"
         },
         {
             "key": "GACHA_RESULT_TITLE",
@@ -8331,6 +8331,10 @@
         {
             "key": "QRCODE_ERROR_MESSAGE",
             "value": "Ungültige Plattform."
+        },
+        {
+            "key": "GL_GACHA_BONUS_GAUGE_TITLE",
+            "value": "Beschwörungsbonus"
         },
         {
             "key": "SERVER_Normal_gacha_A_NAME",

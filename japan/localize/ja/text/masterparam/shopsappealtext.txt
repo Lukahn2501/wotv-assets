@@ -127,6 +127,34 @@
         {
             "key": "32",
             "value": "<line-height=15><cspace=1>高難度クエスト<cspace=-0.5><br>応援ショップ"
+        },
+        {
+            "key": "33",
+            "value": "<line-height=15><cspace=1>夏休みCP<cspace=-0.5><br>ショップ"
+        },
+        {
+            "key": "34",
+            "value": "<line-height=15><cspace=1>灼熱の４日間CP<cspace=-0.5><br>１日目"
+        },
+        {
+            "key": "35",
+            "value": "<line-height=15><cspace=1>灼熱の４日間CP<cspace=-0.5><br>２日目"
+        },
+        {
+            "key": "36",
+            "value": "<line-height=15><cspace=1>灼熱の４日間CP<cspace=-0.5><br>３日目"
+        },
+        {
+            "key": "37",
+            "value": "<line-height=15><cspace=1>灼熱の４日間CP<cspace=-0.5><br>４日目"
+        },
+        {
+            "key": "38",
+            "value": "<line-height=15><cspace=1>CM放送記念<cspace=-0.5><br>ショップ"
+        },
+        {
+            "key": "39",
+            "value": "<line-height=15><cspace=1>夏休みCP第2弾<cspace=-0.5><br>ショップ"
         }
     ]
 }

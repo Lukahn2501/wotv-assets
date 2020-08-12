@@ -106,7 +106,7 @@
         },
         {
             "key": "CM_PRO_27",
-            "value": "Créer ou rejoindre une guilde"
+            "value": "Créez ou rejoignez une guilde"
         },
         {
             "key": "CM_PRO_28",
@@ -146,7 +146,7 @@
         },
         {
             "key": "CM_PRO_37",
-            "value": "Terminez le Château de Lionel - Donjon"
+            "value": "Terminez le Château de Lionel - Donjon"
         },
         {
             "key": "CM_PRO_38",
@@ -166,11 +166,11 @@
         },
         {
             "key": "CM_PRO_42",
-            "value": "Effectuez une offrande à une Statue de guilde"
+            "value": "Faites une offrande à une statue de guilde"
         },
         {
             "key": "CM_PRO_43",
-            "value": "Échangez une médaille de guilde dans la boutique correspondante"
+            "value": "Effectuez un échange dans la boutique d'échange de médailles de guilde"
         },
         {
             "key": "CM_PRO_44",
@@ -215,6 +215,42 @@
         {
             "key": "CM_PRO_63",
             "value": "Éveillez Mobius de l'espoir et des illusions"
+        },
+        {
+            "key": "CM_PRO_64",
+            "value": "Terminez le Combat 1 de FINAL FANTASY I"
+        },
+        {
+            "key": "CM_PRO_65",
+            "value": "Augmentez le niveau d'une unité 5 fois"
+        },
+        {
+            "key": "CM_PRO_66",
+            "value": "Améliorez l'aptitude d'une unité"
+        },
+        {
+            "key": "CM_PRO_67",
+            "value": "Achetez quelque chose dans la boutique"
+        },
+        {
+            "key": "CM_PRO_68",
+            "value": "Terminez le Combat 3 de FINAL FANTASY I"
+        },
+        {
+            "key": "CM_PRO_69",
+            "value": "Rejoignez ou créez une guilde"
+        },
+        {
+            "key": "CM_PRO_70",
+            "value": "Faites une offrande à une statue de guilde"
+        },
+        {
+            "key": "CM_PRO_71",
+            "value": "Terminez une quête multi"
+        },
+        {
+            "key": "CM_PRO_72",
+            "value": "Terminez le Combat 5 de FINAL FANTASY I"
         },
         {
             "key": "GM_0001",
@@ -334,15 +370,15 @@
         },
         {
             "key": "M_ST_0002_01",
-            "value": "Terminez le Chapitre 2, Partie 1 [Message des étoiles]"
+            "value": "Terminez le Chapitre 2, Partie 1 [Message des étoiles]"
         },
         {
             "key": "M_ST_0002_02",
-            "value": "Terminez le Chapitre 2, Partie 2 [L'orgueil du lion]"
+            "value": "Terminez le Chapitre 2, Partie 2 [L'orgueil du lion]"
         },
         {
             "key": "M_ST_0002_02_2",
-            "value": "Terminez le Chapitre 2, Partie 2 [L'orgueil du lion]"
+            "value": "Terminez le Chapitre 2, Partie 2 [L'orgueil du lion]"
         },
         {
             "key": "M_ST_0002_03",
@@ -350,7 +386,7 @@
         },
         {
             "key": "M_ST_0003_01",
-            "value": "Terminez le Chapitre 3, Partie 1 [Coût fatal]"
+            "value": "Terminez le Chapitre 3, Partie 1 [Coût fatal]"
         },
         {
             "key": "M_ST_0003_02",
@@ -402,7 +438,7 @@
         },
         {
             "key": "M_ST_0005_03_2",
-            "value": "Terminez le Chapitre 5, Partie 3 [« Solidus »]"
+            "value": "Terminez le Chapitre 5, Partie 3 [« Solidus »]"
         },
         {
             "key": "M_ST_0006_01",
@@ -422,7 +458,7 @@
         },
         {
             "key": "M_ST_0006_03",
-            "value": "Terminez le Chapitre 6, Partie 3 [« Solidus », en avant !]"
+            "value": "Terminez le Chapitre 6, Partie 3 [« Solidus », en avant !]"
         },
         {
             "key": "M_ST_0006_03_2",
@@ -443,6 +479,22 @@
         {
             "key": "M_ST_0007_02_2",
             "value": "Terminez le Chapitre 7, Partie 2 [Appareil de communication longue distance]"
+        },
+        {
+            "key": "M_ST_0007_03",
+            "value": "Terminez le Chapitre 7, Partie 3 [Une décision s'impose II]"
+        },
+        {
+            "key": "M_ST_0007_03_2",
+            "value": "Terminez le Chapitre 7, Partie 3 [Aie foi en tes frères d'armes II]"
+        },
+        {
+            "key": "M_ST_0008_01",
+            "value": "Terminez le Chapitre 8, Partie 1 [Reprendre la forteresse]"
+        },
+        {
+            "key": "M_ST_0008_01_2",
+            "value": "Terminez le Chapitre 8, Partie 1 [Muraga, roi de Fennes]"
         },
         {
             "key": "M_VIP_LOGB_001",
@@ -666,15 +718,195 @@
         },
         {
             "key": "M_MONDAY_0006",
-            "value": "Effectuez une offrande à une Statue de guilde "
+            "value": "Faites une offrande à une statue de guilde "
         },
         {
             "key": "M_GL_DAILY_GUILD_01",
             "value": "Faites une offrande à une statue de guilde "
         },
         {
+            "key": "M_FF1_1_01",
+            "value": "Terminez le Combat 1 de FINAL FANTASY I"
+        },
+        {
+            "key": "M_FF1_1_02",
+            "value": "Terminez le Combat 1 de FINAL FANTASY I 2 fois"
+        },
+        {
+            "key": "M_FF1_1_03",
+            "value": "Terminez le Combat 1 de FINAL FANTASY I 3 fois"
+        },
+        {
+            "key": "M_FF1_1_04",
+            "value": "Terminez le Combat 2 de FINAL FANTASY I"
+        },
+        {
+            "key": "M_FF1_1_05",
+            "value": "Terminez le Combat 2 de FINAL FANTASY I 2 fois"
+        },
+        {
+            "key": "M_FF1_1_06",
+            "value": "Terminez le Combat 2 de FINAL FANTASY I 3 fois"
+        },
+        {
+            "key": "M_FF1_1_07",
+            "value": "Terminez le Combat 3 de FINAL FANTASY I"
+        },
+        {
+            "key": "M_FF1_1_08",
+            "value": "Terminez le Combat 3 de FINAL FANTASY I 2 fois"
+        },
+        {
+            "key": "M_FF1_1_09",
+            "value": "Terminez le Combat 3 de FINAL FANTASY I 3 fois"
+        },
+        {
+            "key": "M_FF1_1_10",
+            "value": "Terminez le Combat 4 de FINAL FANTASY I"
+        },
+        {
+            "key": "M_FF1_1_11",
+            "value": "Terminez le Combat 4 de FINAL FANTASY I 2 fois"
+        },
+        {
+            "key": "M_FF1_1_12",
+            "value": "Terminez le Combat 4 de FINAL FANTASY I 3 fois"
+        },
+        {
+            "key": "M_FF1_1_13",
+            "value": "Terminez le Combat 5 de FINAL FANTASY I"
+        },
+        {
+            "key": "M_FF1_1_14",
+            "value": "Terminez le Combat 5 de FINAL FANTASY I 3 fois"
+        },
+        {
+            "key": "M_FF1_1_15",
+            "value": "Terminez le Combat 5 de FINAL FANTASY I 5 fois"
+        },
+        {
+            "key": "M_FF1_1M_01",
+            "value": "Terminez le Combat 1 de FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "M_FF1_1M_02",
+            "value": "Terminez le Combat 1 de FINAL FANTASY I [Intermédiaire] 2 fois"
+        },
+        {
+            "key": "M_FF1_1M_03",
+            "value": "Terminez le Combat 1 de FINAL FANTASY I [Intermédiaire] 3 fois"
+        },
+        {
+            "key": "M_FF1_1M_04",
+            "value": "Terminez le Combat 2 de FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "M_FF1_1M_05",
+            "value": "Terminez le Combat 2 de FINAL FANTASY I [Intermédiaire] 2 fois"
+        },
+        {
+            "key": "M_FF1_1M_06",
+            "value": "Terminez le Combat 2 de FINAL FANTASY I [Intermédiaire] 3 fois"
+        },
+        {
+            "key": "M_FF1_1M_07",
+            "value": "Terminez le Combat 3 de FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "M_FF1_1M_08",
+            "value": "Terminez le Combat 3 de FINAL FANTASY I [Intermédiaire] 2 fois"
+        },
+        {
+            "key": "M_FF1_1M_09",
+            "value": "Terminez le Combat 3 de FINAL FANTASY I [Intermédiaire] 3 fois"
+        },
+        {
+            "key": "M_FF1_1M_10",
+            "value": "Terminez le Combat 4 de FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "M_FF1_1M_11",
+            "value": "Terminez le Combat 4 de FINAL FANTASY I [Intermédiaire] 2 fois"
+        },
+        {
+            "key": "M_FF1_1M_12",
+            "value": "Terminez le Combat 4 de FINAL FANTASY I [Intermédiaire] 3 fois"
+        },
+        {
+            "key": "M_FF1_1M_13",
+            "value": "Terminez le Combat 5 de FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "M_FF1_1M_14",
+            "value": "Terminez le Combat 5 de FINAL FANTASY I [Intermédiaire] 3 fois"
+        },
+        {
+            "key": "M_FF1_1M_15",
+            "value": "Terminez le Combat 5 de FINAL FANTASY I [Intermédiaire] 5 fois"
+        },
+        {
+            "key": "M_FF1_1M_16",
+            "value": "Terminez le Combat 5 de FINAL FANTASY I [Intermédiaire] 10 fois"
+        },
+        {
+            "key": "M_FF1_1_EX_01",
+            "value": "Terminez FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "M_FF1_1_EX_02",
+            "value": "Terminez FINAL FANTASY I [EX] 3 fois"
+        },
+        {
+            "key": "M_FF1_1_EX_03",
+            "value": "Terminez FINAL FANTASY I [EX] 5 fois"
+        },
+        {
+            "key": "M_FF1_1_EX_04",
+            "value": "Terminez FINAL FANTASY I [EX] 10 fois"
+        },
+        {
+            "key": "M_FF1_MU_EX_01",
+            "value": "[Multi] Terminez FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "M_FF1_MU_EX_02",
+            "value": "[Multi] Terminez FINAL FANTASY I [EX] 3 fois"
+        },
+        {
+            "key": "M_FF1_MU_EX_03",
+            "value": "[Multi] Terminez FINAL FANTASY I [EX] 5 fois"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_01",
+            "value": "Prenez part à un raid"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_02",
+            "value": "Prenez part à un raid 2 fois"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_03",
+            "value": "Prenez part à un raid 3 fois"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_04",
+            "value": "Prenez part à un raid 4 fois"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_05",
+            "value": "Prenez part à un raid 5 fois"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_06",
+            "value": "Prenez part à un raid 5 fois"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_07",
+            "value": "Prenez part à un raid 5 fois"
+        },
+        {
             "key": "M_FF14_1_1_01",
-            "value": "Terminez le Combat 1 de FINAL FANTASY XIV: Shadowbringers "
+            "value": "Terminez le Combat 1 de FINAL FANTASY XIV: Shadowbringers"
         },
         {
             "key": "M_FF14_1_1_02",
@@ -818,35 +1050,35 @@
         },
         {
             "key": "M_FFT_1_10",
-            "value": "Terminez le Château de Lionel - Portes"
+            "value": "Terminez le Château de Lionel - Portes"
         },
         {
             "key": "M_FFT_1_11",
-            "value": "Terminez le Château de Lionel - Portes 2 fois"
+            "value": "Terminez le Château de Lionel - Portes 2 fois"
         },
         {
             "key": "M_FFT_1_12",
-            "value": "Terminez le Château de Lionel - Portes 3 fois"
+            "value": "Terminez le Château de Lionel - Portes 3 fois"
         },
         {
             "key": "M_FFT_1_13",
-            "value": "Terminez le Château de Lionel - Portes 5 fois"
+            "value": "Terminez le Château de Lionel - Portes 5 fois"
         },
         {
             "key": "M_FFT_1_14",
-            "value": "Terminez le Château de Lionel - Donjon"
+            "value": "Terminez le Château de Lionel - Donjon"
         },
         {
             "key": "M_FFT_1_15",
-            "value": "Terminez le Château de Lionel - Donjon 3 fois"
+            "value": "Terminez le Château de Lionel - Donjon 3 fois"
         },
         {
             "key": "M_FFT_1_16",
-            "value": "Terminez le Château de Lionel - Donjon 5 fois"
+            "value": "Terminez le Château de Lionel - Donjon 5 fois"
         },
         {
             "key": "M_FFT_1_17",
-            "value": "Terminez le Château de Lionel - Donjon 10 fois"
+            "value": "Terminez le Château de Lionel - Donjon 10 fois"
         },
         {
             "key": "M_FFT_1M_01",
@@ -886,35 +1118,35 @@
         },
         {
             "key": "M_FFT_1M_10",
-            "value": "Terminez le Château de Lionel - Portes [Intermédiaire] (1/5)"
+            "value": "Terminez le Château de Lionel - Portes [Intermédiaire] (1/5)"
         },
         {
             "key": "M_FFT_1M_11",
-            "value": "Terminez le Château de Lionel - Portes [Intermédiaire] (2/5)"
+            "value": "Terminez le Château de Lionel - Portes [Intermédiaire] (2/5)"
         },
         {
             "key": "M_FFT_1M_12",
-            "value": "Terminez le Château de Lionel - Portes [Intermédiaire] (3/5)"
+            "value": "Terminez le Château de Lionel - Portes [Intermédiaire] (3/5)"
         },
         {
             "key": "M_FFT_1M_13",
-            "value": "Terminez le Château de Lionel - Portes [Intermédiaire] (5/5)"
+            "value": "Terminez le Château de Lionel - Portes [Intermédiaire] (5/5)"
         },
         {
             "key": "M_FFT_1M_14",
-            "value": "Terminez le Château de Lionel - Donjon [Intermédiaire] (1/10)"
+            "value": "Terminez le Château de Lionel - Donjon [Intermédiaire] (1/10)"
         },
         {
             "key": "M_FFT_1M_15",
-            "value": "Terminez le Château de Lionel - Donjon [Intermédiaire] (3/10)"
+            "value": "Terminez le Château de Lionel - Donjon [Intermédiaire] (3/10)"
         },
         {
             "key": "M_FFT_1M_16",
-            "value": "Terminez le Château de Lionel - Donjon [Intermédiaire] (5/10)"
+            "value": "Terminez le Château de Lionel - Donjon [Intermédiaire] (5/10)"
         },
         {
             "key": "M_FFT_1M_17",
-            "value": "Terminez le Château de Lionel - Donjon [Intermédiaire] (10/10)"
+            "value": "Terminez le Château de Lionel - Donjon [Intermédiaire] (10/10)"
         },
         {
             "key": "M_FFT_1_EX_01",
@@ -1174,55 +1406,55 @@
         },
         {
             "key": "M_EV01_EX_01",
-            "value": "Terminez Le magnifique prince [EX 1] ou [EX 2]"
+            "value": "Terminez « Le magnifique prince » [EX 1] ou [EX 2]"
         },
         {
             "key": "M_EV01_EX1_01",
-            "value": "Terminez Le magnifique prince [EX 1]"
+            "value": "Terminez « Le magnifique prince » [EX 1]"
         },
         {
             "key": "M_EV01_EX1_02",
-            "value": "Terminez Le magnifique prince [EX 1] 2 fois"
+            "value": "Terminez « Le magnifique prince » [EX 1] 2 fois"
         },
         {
             "key": "M_EV01_EX1_03",
-            "value": "Terminez Le magnifique prince [EX 1] 3 fois"
+            "value": "Terminez « Le magnifique prince » [EX 1] 3 fois"
         },
         {
             "key": "M_EV01_EX2_01",
-            "value": "Terminez Le magnifique prince [EX 2]"
+            "value": "Terminez « Le magnifique prince » [EX 2]"
         },
         {
             "key": "M_EV01_EX2_02",
-            "value": "Terminez Le magnifique prince [EX 2] 2 fois"
+            "value": "Terminez « Le magnifique prince » [EX 2] 2 fois"
         },
         {
             "key": "M_EV01_EX2_03",
-            "value": "Terminez Le magnifique prince [EX 2] 3 fois"
+            "value": "Terminez « Le magnifique prince » [EX 2] 3 fois"
         },
         {
             "key": "M_MU_EV01_EX1_01",
-            "value": "[Multi] Terminez Le magnifique prince [EX 1]"
+            "value": "[Multi] Terminez « Le magnifique prince » [EX 1]"
         },
         {
             "key": "M_MU_EV01_EX1_02",
-            "value": "[Multi] Terminez Le magnifique prince [EX 1] 2 fois"
+            "value": "[Multi] Terminez « Le magnifique prince » [EX 1] 2 fois"
         },
         {
             "key": "M_MU_EV01_EX1_03",
-            "value": "[Multi] Terminez Le magnifique prince [EX 1] 3 fois"
+            "value": "[Multi] Terminez « Le magnifique prince » [EX 1] 3 fois"
         },
         {
             "key": "M_MU_EV01_EX2_01",
-            "value": "[Multi] Terminez Le magnifique prince [EX 2]"
+            "value": "[Multi] Terminez « Le magnifique prince » [EX 2]"
         },
         {
             "key": "M_MU_EV01_EX2_02",
-            "value": "[Multi] Terminez Le magnifique prince [EX 2] 2 fois"
+            "value": "[Multi] Terminez « Le magnifique prince » [EX 2] 2 fois"
         },
         {
             "key": "M_MU_EV01_EX2_03",
-            "value": "[Multi] Terminez Le magnifique prince [EX 2] 3 fois"
+            "value": "[Multi] Terminez « Le magnifique prince » [EX 2] 3 fois"
         },
         {
             "key": "M_EV02_1_01",
@@ -1529,6 +1761,178 @@
             "value": "[Multi] Terminez « Embraser la vie » [EX] 5 fois"
         },
         {
+            "key": "M_EV04_1_01",
+            "value": "Terminez [Aux confins de l'Orient], épisode 1"
+        },
+        {
+            "key": "M_EV04_1_02",
+            "value": "Terminez [Aux confins de l'Orient], épisode 1, 2 fois"
+        },
+        {
+            "key": "M_EV04_1_03",
+            "value": "Terminez [Aux confins de l'Orient], épisode 1, 3 fois"
+        },
+        {
+            "key": "M_EV04_1_04",
+            "value": "Terminez [Aux confins de l'Orient], épisode 2"
+        },
+        {
+            "key": "M_EV04_1_05",
+            "value": "Terminez [Aux confins de l'Orient], épisode 2, 2 fois"
+        },
+        {
+            "key": "M_EV04_1_06",
+            "value": "Terminez [Aux confins de l'Orient], épisode 2, 3 fois"
+        },
+        {
+            "key": "M_EV04_1_07",
+            "value": "Terminez [Aux confins de l'Orient], épisode 3"
+        },
+        {
+            "key": "M_EV04_1_08",
+            "value": "Terminez [Aux confins de l'Orient], épisode 3, 2 fois"
+        },
+        {
+            "key": "M_EV04_1_09",
+            "value": "Terminez [Aux confins de l'Orient], épisode 3, 3 fois"
+        },
+        {
+            "key": "M_EV04_1_10",
+            "value": "Terminez [Aux confins de l'Orient], épisode 4"
+        },
+        {
+            "key": "M_EV04_1_11",
+            "value": "Terminez [Aux confins de l'Orient], épisode 4, 2 fois"
+        },
+        {
+            "key": "M_EV04_1_12",
+            "value": "Terminez [Aux confins de l'Orient], épisode 4, 3 fois"
+        },
+        {
+            "key": "M_EV04_1_13",
+            "value": "Terminez [Aux confins de l'Orient], épisode 5"
+        },
+        {
+            "key": "M_EV04_1_14",
+            "value": "Terminez [Aux confins de l'Orient], épisode 5, 3 fois"
+        },
+        {
+            "key": "M_EV04_1_15",
+            "value": "Terminez [Aux confins de l'Orient], épisode 5, 5 fois"
+        },
+        {
+            "key": "M_EV04_1_16",
+            "value": "Terminez [Aux confins de l'Orient], épisode 6"
+        },
+        {
+            "key": "M_EV04_1_17",
+            "value": "Terminez [Aux confins de l'Orient], épisode 6, 2 fois"
+        },
+        {
+            "key": "M_EV04_1_18",
+            "value": "Terminez [Aux confins de l'Orient], épisode 6, 3 fois"
+        },
+        {
+            "key": "M_EV04_1_19",
+            "value": "Terminez [Aux confins de l'Orient], épisode 7"
+        },
+        {
+            "key": "M_EV04_1_20",
+            "value": "Terminez [Aux confins de l'Orient], épisode 7, 2 fois"
+        },
+        {
+            "key": "M_EV04_1_21",
+            "value": "Terminez [Aux confins de l'Orient], épisode 7, 3 fois"
+        },
+        {
+            "key": "M_EV04_1_22",
+            "value": "Terminez [Aux confins de l'Orient], épisode 8"
+        },
+        {
+            "key": "M_EV04_1_23",
+            "value": "Terminez [Aux confins de l'Orient], épisode 8, 2 fois"
+        },
+        {
+            "key": "M_EV04_1_24",
+            "value": "Terminez [Aux confins de l'Orient], épisode 8, 3 fois"
+        },
+        {
+            "key": "M_EV04_1_25",
+            "value": "Terminez [Aux confins de l'Orient], épisode 9"
+        },
+        {
+            "key": "M_EV04_1_26",
+            "value": "Terminez [Aux confins de l'Orient], épisode 9, 2 fois"
+        },
+        {
+            "key": "M_EV04_1_27",
+            "value": "Terminez [Aux confins de l'Orient], épisode 9, 3 fois"
+        },
+        {
+            "key": "M_EV04_1_28",
+            "value": "Terminez [Aux confins de l'Orient], épisode 10"
+        },
+        {
+            "key": "M_EV04_1_29",
+            "value": "Terminez [Aux confins de l'Orient], épisode 10, 3 fois"
+        },
+        {
+            "key": "M_EV04_1_30",
+            "value": "Terminez [Aux confins de l'Orient], épisode 10, 5 fois"
+        },
+        {
+            "key": "M_EV04_1_31",
+            "value": "Terminez [Aux confins de l'Orient], épisode 10, 10 fois"
+        },
+        {
+            "key": "M_EV04_EX1_01",
+            "value": "Terminez « Aux confins de l'Orient » [EX1]"
+        },
+        {
+            "key": "M_EV04_EX1_02",
+            "value": "Terminez « Aux confins de l'Orient » [EX1] 3 fois"
+        },
+        {
+            "key": "M_EV04_EX1_03",
+            "value": "Terminez « Aux confins de l'Orient » [EX1] 5 fois"
+        },
+        {
+            "key": "M_EV04_EX2_01",
+            "value": "Terminez « Aux confins de l'Orient » [EX2]"
+        },
+        {
+            "key": "M_EV04_EX2_02",
+            "value": "Terminez « Aux confins de l'Orient » [EX2] 3 fois"
+        },
+        {
+            "key": "M_EV04_EX2_03",
+            "value": "Terminez « Aux confins de l'Orient » [EX2] 5 fois"
+        },
+        {
+            "key": "M_MU_EV04_EX1_01",
+            "value": "[Multi] Terminez « Aux confins de l'Orient » [EX1]"
+        },
+        {
+            "key": "M_MU_EV04_EX1_02",
+            "value": "[Multi] Terminez « Aux confins de l'Orient » [EX1] 3 fois"
+        },
+        {
+            "key": "M_MU_EV04_EX1_03",
+            "value": "[Multi] Terminez « Aux confins de l'Orient » [EX1] 5 fois"
+        },
+        {
+            "key": "M_MU_EV04_EX2_01",
+            "value": "[Multi] Terminez « Aux confins de l'Orient » [EX2]"
+        },
+        {
+            "key": "M_MU_EV04_EX2_02",
+            "value": "[Multi] Terminez « Aux confins de l'Orient » [EX2] 3 fois"
+        },
+        {
+            "key": "M_MU_EV04_EX2_03",
+            "value": "[Multi] Terminez « Aux confins de l'Orient » [EX2] 5 fois"
+        },
+        {
             "key": "M_ETRE01_1_01",
             "value": "Terminez la Quête d'entraînement d'Éthéa I"
         },
@@ -1562,7 +1966,7 @@
         },
         {
             "key": "M_ETRE01_1_09",
-            "value": "Terminez la Quête d'entraînement d'Éthéa III - 3 fois"
+            "value": "Terminez la Quête d'entraînement d'Éthéa III - 3 fois"
         },
         {
             "key": "M_ETRE01_1_10",
@@ -1806,11 +2210,11 @@
         },
         {
             "key": "M_ART_SCR_10",
-            "value": "Terminez la Quête du livre secret (Lance, Poings, Fusil) [Très difficile] 5 fois"
+            "value": "Terminez la Quête du livre secret (lance, poings, fusil) [Très difficile] 5 fois"
         },
         {
             "key": "M_MU_ART_SCR_04",
-            "value": "[Multi] Terminez la Quête du livre secret (Lance, poings, fusil) [Très difficile]"
+            "value": "[Multi] Terminez la Quête du livre secret (lance, poings, fusil) [Très difficile]"
         },
         {
             "key": "M_MU_ART_SCR_05",
@@ -1822,35 +2226,35 @@
         },
         {
             "key": "M_ART_SCR_11",
-            "value": "Terminez la Quête du livre secret (Armure, accessoire, lame ninja) [Très difficile]"
+            "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
         },
         {
             "key": "M_ART_SCR_12",
-            "value": "Terminez la Quête du livre secret (Armure, accessoire, lame ninja) [Très difficile]"
+            "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
         },
         {
             "key": "M_ART_SCR_13",
-            "value": "Terminez la Quête du livre secret (Armure, accessoire, lame ninja) [Très difficile] 3 fois"
+            "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] 3 fois"
         },
         {
             "key": "M_ART_SCR_14",
-            "value": "Terminez la Quête du livre secret (Armure, accessoire, lame ninja) [Très difficile] 3 fois"
+            "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] 3 fois"
         },
         {
             "key": "M_ART_SCR_15",
-            "value": "Terminez la Quête du livre secret (Armure, accessoire, lame ninja) [Très difficile] 5 fois"
+            "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] 5 fois"
         },
         {
             "key": "M_MU_ART_SCR_07",
-            "value": "[Multi] Terminez la Quête du livre secret (Armure, accessoire, lame de ninja) [Très difficile]"
+            "value": "[Multi] Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
         },
         {
             "key": "M_MU_ART_SCR_08",
-            "value": "[Multi] Terminez la Quête du livre secret (Armure, accessoire, lame de ninja) [Très difficile] 3 fois"
+            "value": "[Multi] Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] 3 fois"
         },
         {
             "key": "M_MU_ART_SCR_09",
-            "value": "[Multi] Terminez la Quête du livre secret (Armure, accessoire, lame de ninja) [Très difficile] 5 fois"
+            "value": "[Multi] Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] 5 fois"
         },
         {
             "key": "M_ART_SCR_16",
@@ -1882,6 +2286,134 @@
         },
         {
             "key": "M_MU_ART_SCR_12",
+            "value": "[Multi] Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_ART_SCR_26",
+            "value": "Terminez la Quête du livre secret (épée, spathe, hache) [Très difficile]"
+        },
+        {
+            "key": "M_ART_SCR_27",
+            "value": "Terminez la Quête du livre secret (épée, spathe, hache) [Très difficile]"
+        },
+        {
+            "key": "M_ART_SCR_28",
+            "value": "Terminez la Quête du livre secret (épée, spathe, hache) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_ART_SCR_29",
+            "value": "Terminez la Quête du livre secret (épée, spathe, hache) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_ART_SCR_30",
+            "value": "Terminez la Quête du livre secret (épée, spathe, hache) [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_MU_ART_SCR_16",
+            "value": "[Multi] Terminez la Quête du livre secret (épée, spathe, hache) [Très difficile]"
+        },
+        {
+            "key": "M_MU_ART_SCR_17",
+            "value": "[Multi] Terminez la Quête du livre secret (épée, spathe, hache) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_MU_ART_SCR_18",
+            "value": "[Multi] Terminez la Quête du livre secret (épée, spathe, hache) [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_ART_SCR_31",
+            "value": "Terminez la Quête du livre secret (lance, poings, fusil) [Très difficile]"
+        },
+        {
+            "key": "M_ART_SCR_32",
+            "value": "Terminez la Quête du livre secret (lance, poings, fusil) [Très difficile]"
+        },
+        {
+            "key": "M_ART_SCR_33",
+            "value": "Terminez la Quête du livre secret (lance, poings, fusil) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_ART_SCR_34",
+            "value": "Terminez la Quête du livre secret (lance, poings, fusil) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_ART_SCR_35",
+            "value": "Terminez la Quête du livre secret (lance, poings, fusil) [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_MU_ART_SCR_19",
+            "value": "[Multi] Terminez la Quête du livre secret (lance, poings, fusil) [Très difficile]"
+        },
+        {
+            "key": "M_MU_ART_SCR_20",
+            "value": "[Multi] Terminez la Quête du livre secret (lance, poings, fusil) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_MU_ART_SCR_21",
+            "value": "[Multi] Terminez la Quête du livre secret (lance, poings, fusil) [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_ART_SCR_36",
+            "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
+        },
+        {
+            "key": "M_ART_SCR_37",
+            "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
+        },
+        {
+            "key": "M_ART_SCR_38",
+            "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_ART_SCR_39",
+            "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_ART_SCR_40",
+            "value": "Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_MU_ART_SCR_22",
+            "value": "[Multi] Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
+        },
+        {
+            "key": "M_MU_ART_SCR_23",
+            "value": "[Multi] Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_MU_ART_SCR_24",
+            "value": "[Multi] Terminez la Quête du livre secret (armure, accessoire, lame ninja) [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_ART_SCR_41",
+            "value": "Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile]"
+        },
+        {
+            "key": "M_ART_SCR_42",
+            "value": "Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile]"
+        },
+        {
+            "key": "M_ART_SCR_43",
+            "value": "Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_ART_SCR_44",
+            "value": "Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_ART_SCR_45",
+            "value": "Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile] 5 fois"
+        },
+        {
+            "key": "M_MU_ART_SCR_25",
+            "value": "[Multi] Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile]"
+        },
+        {
+            "key": "M_MU_ART_SCR_26",
+            "value": "[Multi] Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile] 3 fois"
+        },
+        {
+            "key": "M_MU_ART_SCR_27",
             "value": "[Multi] Terminez la Quête du livre secret (bâton, katana, dague) [Très difficile] 5 fois"
         },
         {
@@ -2270,7 +2802,7 @@
         },
         {
             "key": "M_QEST_010",
-            "value": "Terminez le Chapitre 2, Partie 1 [« Fortem », déploiement ! I]"
+            "value": "Terminez le Chapitre 2, Partie 1 [« Fortem », déploiement ! I]"
         },
         {
             "key": "M_QEST_011",
@@ -2278,7 +2810,7 @@
         },
         {
             "key": "M_QEST_012",
-            "value": "Terminez le Chapitre 2, Partie 1 [Message des étoiles]"
+            "value": "Terminez le Chapitre 2, Partie 1 [Message des étoiles]"
         },
         {
             "key": "M_QEST_013",
@@ -2290,7 +2822,7 @@
         },
         {
             "key": "M_QEST_015",
-            "value": "Terminez le Chapitre 2, Partie 2 [L'orgueil du lion]"
+            "value": "Terminez le Chapitre 2, Partie 2 [L'orgueil du lion]"
         },
         {
             "key": "M_QEST_016",
@@ -2314,7 +2846,7 @@
         },
         {
             "key": "M_QEST_021",
-            "value": "Terminez le Chapitre 3, Partie 1 [Coût fatal]"
+            "value": "Terminez le Chapitre 3, Partie 1 [Coût fatal]"
         },
         {
             "key": "M_QEST_022",
@@ -2330,7 +2862,7 @@
         },
         {
             "key": "M_QEST_025",
-            "value": "Terminez le Chapitre 3, Partie 3 [« Nitor », déploiement !]"
+            "value": "Terminez le Chapitre 3, Partie 3 [« Nitor », déploiement !]"
         },
         {
             "key": "M_QEST_026",
@@ -2410,7 +2942,7 @@
         },
         {
             "key": "M_QEST_045",
-            "value": "Terminez le Chapitre 5, Partie 3 [« Solidus »]"
+            "value": "Terminez le Chapitre 5, Partie 3 [« Solidus »]"
         },
         {
             "key": "M_QEST_046",
@@ -2442,11 +2974,47 @@
         },
         {
             "key": "M_QEST_053",
-            "value": "Terminez le Chapitre 6, Partie 3 [« Solidus », en avant !]"
+            "value": "Terminez le Chapitre 6, Partie 3 [« Solidus », en avant !]"
         },
         {
             "key": "M_QEST_054",
             "value": "Terminez le Chapitre 6, Partie 3 [Brouhaha d'étoiles]"
+        },
+        {
+            "key": "M_QEST_055",
+            "value": "Terminez le Chapitre 7, Partie 1 [Khory, roi de Wezett]"
+        },
+        {
+            "key": "M_QEST_056",
+            "value": "Terminez le Chapitre 7, Partie 1 [Le secret de Leonis]"
+        },
+        {
+            "key": "M_QEST_057",
+            "value": "Terminez le Chapitre 7, Partie 1 [La forteresse]"
+        },
+        {
+            "key": "M_QEST_058",
+            "value": "Terminez le Chapitre 7, Partie 2 [Un bref repos]"
+        },
+        {
+            "key": "M_QEST_059",
+            "value": "Terminez le Chapitre 7, Partie 2 [Prendre la forteresse I]"
+        },
+        {
+            "key": "M_QEST_060",
+            "value": "Terminez le Chapitre 7, Partie 2 [Appareil de communication longue distance]"
+        },
+        {
+            "key": "M_QEST_061",
+            "value": "Terminez le Chapitre 7, Partie 3 [Attaque surprise I]"
+        },
+        {
+            "key": "M_QEST_062",
+            "value": "Terminez le Chapitre 7, Partie 3 [Une décision s'impose II]"
+        },
+        {
+            "key": "M_QEST_063",
+            "value": "Terminez le Chapitre 7, Partie 3 [Aie foi en tes frères d'armes II]"
         },
         {
             "key": "M_GL_RANK_001",
@@ -4745,6 +5313,550 @@
             "value": "Améliorez les statues de guilde 70 fois"
         },
         {
+            "key": "M_MONTHLY_0546",
+            "value": "Terminez 20 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0547",
+            "value": "Terminez 40 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0548",
+            "value": "Terminez 60 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0549",
+            "value": "Terminez 80 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0550",
+            "value": "Terminez 100 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0551",
+            "value": "Terminez 120 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0552",
+            "value": "Terminez 140 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0553",
+            "value": "Terminez 160 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0554",
+            "value": "Terminez 180 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0555",
+            "value": "Terminez 200 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0556",
+            "value": "Terminez 220 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0557",
+            "value": "Terminez 240 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0558",
+            "value": "Terminez 260 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0559",
+            "value": "Terminez 280 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0560",
+            "value": "Terminez 300 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0561",
+            "value": "Terminez 320 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0562",
+            "value": "Terminez 340 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0563",
+            "value": "Terminez 360 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0564",
+            "value": "Terminez 380 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0565",
+            "value": "Terminez 400 quêtes d'histoire"
+        },
+        {
+            "key": "M_MONTHLY_0566",
+            "value": "Terminez 10 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0567",
+            "value": "Terminez 20 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0568",
+            "value": "Terminez 30 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0569",
+            "value": "Terminez 40 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0570",
+            "value": "Terminez 50 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0571",
+            "value": "Terminez 60 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0572",
+            "value": "Terminez 70 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0573",
+            "value": "Terminez 80 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0574",
+            "value": "Terminez 90 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0575",
+            "value": "Terminez 100 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0576",
+            "value": "Terminez 110 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0577",
+            "value": "Terminez 120 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0578",
+            "value": "Terminez 130 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0579",
+            "value": "Terminez 140 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0580",
+            "value": "Terminez 150 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0581",
+            "value": "Terminez 170 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0582",
+            "value": "Terminez 190 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0583",
+            "value": "Terminez 210 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0584",
+            "value": "Terminez 230 quêtes difficiles"
+        },
+        {
+            "key": "M_MONTHLY_0585",
+            "value": "Terminez 10 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0586",
+            "value": "Terminez 20 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0587",
+            "value": "Terminez 30 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0588",
+            "value": "Terminez 40 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0589",
+            "value": "Terminez 50 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0590",
+            "value": "Terminez 60 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0591",
+            "value": "Terminez 70 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0592",
+            "value": "Terminez 80 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0593",
+            "value": "Terminez 90 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0594",
+            "value": "Terminez 100 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0595",
+            "value": "Terminez 110 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0596",
+            "value": "Terminez 120 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0597",
+            "value": "Terminez 130 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0598",
+            "value": "Terminez 140 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0599",
+            "value": "Terminez 150 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0600",
+            "value": "Terminez 160 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0601",
+            "value": "Terminez 170 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0602",
+            "value": "Terminez 180 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0603",
+            "value": "Terminez 190 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0604",
+            "value": "Terminez 200 quêtes multi"
+        },
+        {
+            "key": "M_MONTHLY_0605",
+            "value": "Terminez la Chambre d'EXP 3 fois"
+        },
+        {
+            "key": "M_MONTHLY_0606",
+            "value": "Terminez la Chambre d'EXP 6 fois"
+        },
+        {
+            "key": "M_MONTHLY_0607",
+            "value": "Terminez la Chambre d'EXP 9 fois"
+        },
+        {
+            "key": "M_MONTHLY_0608",
+            "value": "Terminez la Chambre d'EXP 12 fois"
+        },
+        {
+            "key": "M_MONTHLY_0609",
+            "value": "Terminez la Chambre d'EXP 15 fois"
+        },
+        {
+            "key": "M_MONTHLY_0610",
+            "value": "Terminez la Chambre d'EXP 18 fois"
+        },
+        {
+            "key": "M_MONTHLY_0611",
+            "value": "Terminez la Chambre d'EXP 21 fois"
+        },
+        {
+            "key": "M_MONTHLY_0612",
+            "value": "Terminez la Chambre d'EXP 24 fois"
+        },
+        {
+            "key": "M_MONTHLY_0613",
+            "value": "Terminez la Chambre d'EXP 27 fois"
+        },
+        {
+            "key": "M_MONTHLY_0614",
+            "value": "Terminez la Chambre d'EXP 30 fois"
+        },
+        {
+            "key": "M_MONTHLY_0615",
+            "value": "Terminez la Chambre d'EXP 33 fois"
+        },
+        {
+            "key": "M_MONTHLY_0616",
+            "value": "Terminez la Chambre d'EXP 36 fois"
+        },
+        {
+            "key": "M_MONTHLY_0617",
+            "value": "Terminez la Chambre d'EXP 39 fois"
+        },
+        {
+            "key": "M_MONTHLY_0618",
+            "value": "Terminez la Chambre d'EXP 42 fois"
+        },
+        {
+            "key": "M_MONTHLY_0619",
+            "value": "Terminez la Chambre d'EXP 45 fois"
+        },
+        {
+            "key": "M_MONTHLY_0620",
+            "value": "Terminez la Chambre d'EXP 50 fois"
+        },
+        {
+            "key": "M_MONTHLY_0621",
+            "value": "Terminez la Chambre d'EXP 55 fois"
+        },
+        {
+            "key": "M_MONTHLY_0622",
+            "value": "Terminez la Chambre d'EXP 60 fois"
+        },
+        {
+            "key": "M_MONTHLY_0623",
+            "value": "Terminez la Chambre d'EXP 65 fois"
+        },
+        {
+            "key": "M_MONTHLY_0624",
+            "value": "Terminez la Chambre d'EXP 70 fois"
+        },
+        {
+            "key": "M_MONTHLY_0625",
+            "value": "Participez à 5 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0626",
+            "value": "Participez à 10 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0627",
+            "value": "Participez à 15 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0628",
+            "value": "Participez à 20 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0629",
+            "value": "Participez à 25 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0630",
+            "value": "Participez à 30 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0631",
+            "value": "Participez à 35 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0632",
+            "value": "Participez à 40 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0633",
+            "value": "Participez à 45 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0634",
+            "value": "Participez à 50 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0635",
+            "value": "Participez à 55 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0636",
+            "value": "Participez à 60 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0637",
+            "value": "Participez à 65 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0638",
+            "value": "Participez à 70 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0639",
+            "value": "Participez à 80 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0640",
+            "value": "Participez à 90 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0641",
+            "value": "Participez à 100 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0642",
+            "value": "Participez à 110 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0643",
+            "value": "Participez à 120 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0644",
+            "value": "Participez à 130 duels dans l'Arène"
+        },
+        {
+            "key": "M_MONTHLY_0645",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 10 fois"
+        },
+        {
+            "key": "M_MONTHLY_0646",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 15 fois"
+        },
+        {
+            "key": "M_MONTHLY_0647",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 20 fois"
+        },
+        {
+            "key": "M_MONTHLY_0648",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 25 fois"
+        },
+        {
+            "key": "M_MONTHLY_0649",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 30 fois"
+        },
+        {
+            "key": "M_MONTHLY_0650",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 35 fois"
+        },
+        {
+            "key": "M_MONTHLY_0651",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 40 fois"
+        },
+        {
+            "key": "M_MONTHLY_0652",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 45 fois"
+        },
+        {
+            "key": "M_MONTHLY_0653",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 50 fois"
+        },
+        {
+            "key": "M_MONTHLY_0654",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 55 fois"
+        },
+        {
+            "key": "M_MONTHLY_0655",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 60 fois"
+        },
+        {
+            "key": "M_MONTHLY_0656",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 65 fois"
+        },
+        {
+            "key": "M_MONTHLY_0657",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 70 fois"
+        },
+        {
+            "key": "M_MONTHLY_0658",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 75 fois"
+        },
+        {
+            "key": "M_MONTHLY_0659",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 80 fois"
+        },
+        {
+            "key": "M_MONTHLY_0660",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 85 fois"
+        },
+        {
+            "key": "M_MONTHLY_0661",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 90 fois"
+        },
+        {
+            "key": "M_MONTHLY_0662",
+            "value": "Améliorez les statues de guilde 3 fois"
+        },
+        {
+            "key": "M_MONTHLY_0663",
+            "value": "Améliorez les statues de guilde 6 fois"
+        },
+        {
+            "key": "M_MONTHLY_0664",
+            "value": "Améliorez les statues de guilde 9 fois"
+        },
+        {
+            "key": "M_MONTHLY_0665",
+            "value": "Améliorez les statues de guilde 12 fois"
+        },
+        {
+            "key": "M_MONTHLY_0666",
+            "value": "Améliorez les statues de guilde 15 fois"
+        },
+        {
+            "key": "M_MONTHLY_0667",
+            "value": "Améliorez les statues de guilde 18 fois"
+        },
+        {
+            "key": "M_MONTHLY_0668",
+            "value": "Améliorez les statues de guilde 21 fois"
+        },
+        {
+            "key": "M_MONTHLY_0669",
+            "value": "Améliorez les statues de guilde 24 fois"
+        },
+        {
+            "key": "M_MONTHLY_0670",
+            "value": "Améliorez les statues de guilde 27 fois"
+        },
+        {
+            "key": "M_MONTHLY_0671",
+            "value": "Améliorez les statues de guilde 30 fois"
+        },
+        {
+            "key": "M_MONTHLY_0672",
+            "value": "Améliorez les statues de guilde 33 fois"
+        },
+        {
+            "key": "M_MONTHLY_0673",
+            "value": "Améliorez les statues de guilde 36 fois"
+        },
+        {
+            "key": "M_MONTHLY_0674",
+            "value": "Améliorez les statues de guilde 39 fois"
+        },
+        {
+            "key": "M_MONTHLY_0675",
+            "value": "Améliorez les statues de guilde 42 fois"
+        },
+        {
+            "key": "M_MONTHLY_0676",
+            "value": "Améliorez les statues de guilde 45 fois"
+        },
+        {
+            "key": "M_MONTHLY_0677",
+            "value": "Améliorez les statues de guilde 50 fois"
+        },
+        {
+            "key": "M_MONTHLY_0678",
+            "value": "Améliorez les statues de guilde 55 fois"
+        },
+        {
+            "key": "M_MONTHLY_0679",
+            "value": "Améliorez les statues de guilde 60 fois"
+        },
+        {
+            "key": "M_MONTHLY_0680",
+            "value": "Améliorez les statues de guilde 65 fois"
+        },
+        {
+            "key": "M_MONTHLY_0681",
+            "value": "Améliorez les statues de guilde 70 fois"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Dépensez 500 visiores"
         },
@@ -4838,6 +5950,54 @@
         },
         {
             "key": "M_LAPS_P_VNLA_06",
+            "value": "Dépensez 50 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_WROL_01",
+            "value": "Dépensez 500 visiores"
+        },
+        {
+            "key": "M_LAPS_P_WROL_02",
+            "value": "Dépensez 3 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_WROL_03",
+            "value": "Dépensez 6 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_WROL_04",
+            "value": "Dépensez 12 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_WROL_05",
+            "value": "Dépensez 24 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_WROL_06",
+            "value": "Dépensez 50 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_QILF_01",
+            "value": "Dépensez 500 visiores"
+        },
+        {
+            "key": "M_LAPS_P_QILF_02",
+            "value": "Dépensez 3 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_QILF_03",
+            "value": "Dépensez 6 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_QILF_04",
+            "value": "Dépensez 12 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_QILF_05",
+            "value": "Dépensez 24 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_QILF_06",
             "value": "Dépensez 50 000 visiores"
         },
         {

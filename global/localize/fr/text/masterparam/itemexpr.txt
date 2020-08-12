@@ -66,7 +66,7 @@
         },
         {
             "key": "IT_US_HOLYTORCH",
-            "value": "Dissipe les effets de statuts (Haine, Récup, Bouclier, Barrière, Apesanteur)"
+            "value": "Dissipe les effets de statuts (Booster, Récup, Bouclier, Barrière, Apesanteur)"
         },
         {
             "key": "IT_US_HERODRINK",
@@ -74,7 +74,7 @@
         },
         {
             "key": "IT_US_BACCHUS",
-            "value": "Inflige temporairement Frénésie"
+            "value": "Inflige temporairement Berserk"
         },
         {
             "key": "IT_US_SHELL",
@@ -182,263 +182,263 @@
         },
         {
             "key": "IT_JB_MM_ALL",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_MM_ALL_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_MM_ALL_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_MM_ALL_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_MM_ALL_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_SWORD_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_SWORD_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_SWORD_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_SWORD_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_SWORD_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_LSWORD_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_LSWORD_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_LSWORD_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_LSWORD_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_LSWORD_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_JSWORD_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_JSWORD_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_JSWORD_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_JSWORD_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_JSWORD_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_FIST_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_FIST_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_FIST_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_FIST_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_FIST_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_SPEAR_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_SPEAR_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_SPEAR_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_SPEAR_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_SPEAR_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_SSWORD_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_SSWORD_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_SSWORD_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_SSWORD_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_SSWORD_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_KUNAI_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_KUNAI_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_KUNAI_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_KUNAI_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_KUNAI_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_BOW_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_BOW_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_BOW_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_BOW_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_BOW_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_GUN_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_GUN_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_GUN_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_GUN_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_GUN_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_STAFF_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_STAFF_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_STAFF_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_STAFF_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_STAFF_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_MACE_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_MACE_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_MACE_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_MACE_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_MACE_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_AXE_01",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_AXE_02",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_AXE_03",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_AXE_04",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_AXE_05",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_MM_COMMON",
@@ -1041,204 +1041,244 @@
             "value": "Un objet nécessaire pour faire évoluer le job (Assassin) au niveau 15"
         },
         {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier de la lumière) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier de la lumière) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier de la lumière) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier de la lumière) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier de la lumière) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 15"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_EM_FIRE_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_EM_FIRE_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_EM_FIRE_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_EM_FIRE_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_EM_ICE_1",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_EM_ICE_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_EM_ICE_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_EM_ICE_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_EM_ICE_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_EM_WIND_1",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_EM_WIND_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_EM_WIND_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_EM_WIND_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_EM_WIND_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_EM_SOIL_1",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_EM_SOIL_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_EM_SOIL_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_EM_SOIL_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_EM_SOIL_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_EM_THUNDER_1",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_EM_THUNDER_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_EM_THUNDER_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_EM_THUNDER_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_EM_THUNDER_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_EM_WATER_1",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_EM_WATER_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_EM_WATER_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_EM_WATER_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_EM_WATER_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_EM_SHINE_1",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_EM_SHINE_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_EM_SHINE_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_EM_SHINE_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_EM_SHINE_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_EM_DARK_1",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_EM_DARK_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_EM_DARK_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_EM_DARK_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_EM_DARK_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_IM_ANGEL_1",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_IM_ANGEL_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_IM_ANGEL_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_IM_ANGEL_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_IM_ANGEL_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_JB_IM_DRAGON_1",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>–<space=1>3"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
         },
         {
             "key": "IT_JB_IM_DRAGON_2",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>–<space=1>6"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
         },
         {
             "key": "IT_JB_IM_DRAGON_3",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>–<space=1>9"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
         },
         {
             "key": "IT_JB_IM_DRAGON_4",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>–<space=1>12"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
         },
         {
             "key": "IT_JB_IM_DRAGON_5",
-            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>–<space=1>15"
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
         },
         {
             "key": "IT_UN_AW_FIRE",
@@ -1741,6 +1781,18 @@
             "value": "Un objet nécessaire pour briser la limite d'une unité"
         },
         {
+            "key": "IT_PI_FF1_WROL",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Acquisition d'EXP pour une chimère (S)"
         },
@@ -1995,6 +2047,22 @@
         {
             "key": "IT_SB_AW_OCHU_R3",
             "value": "Un objet nécessaire à l'éveil d'Otyugh à 3★"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "Un objet nécessaire à l'éveil du Dragon à deux têtes à 2★"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "Un objet nécessaire à l'éveil du Dragon à deux têtes à 3★"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "Un objet nécessaire à l'éveil de Diabolos à 2★"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "Un objet nécessaire à l'éveil de Diabolos à 3★"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2505,6 +2573,14 @@
             "value": "Une recette nécessaire à la fabrication d'un anneau d'alexandrite"
         },
         {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "Une recette nécessaire à la fabrication d'une Tunique de platine"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "Une recette nécessaire à la fabrication d'une Armure de la Lumière"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Augmente les chances de voir ses PV augmenter lorsque l'équipement passe au niveau supérieur."
         },
@@ -2690,11 +2766,11 @@
         },
         {
             "key": "IT_EC_FF14_1",
-            "value": "Un objet échangeable qui peut être obtenu grâce aux événements de la collaboration FFXIV. Il peut être échangé contre divers objets dans la Boutique d’échange des mémoquartz goétiques."
+            "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration FFXIV. Il peut être échangé contre divers objets dans la Boutique d’échange des mémoquartz goétiques."
         },
         {
             "key": "IT_EC_FF14_2",
-            "value": "Une médaille échangeable qui peut être obtenue grâce aux invocations de la collaboration avec FFXIV. Elle peut être échangée contre divers objets dans la boutique d’échange de Médaille d’invocation de FFXIV."
+            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFXIV. Elle peut être échangée contre divers objets dans la boutique d’échange des médailles d’invocation de FFXIV."
         },
         {
             "key": "IT_EC_SUMMON_03_A",
@@ -2733,16 +2809,20 @@
             "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 11/08/2020, 23:59, heure universelle (PST))"
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 01/09/2020, 23:59, heure universelle (PST))"
+        },
+        {
             "key": "IT_EC_FFT_1",
-            "value": "Un objet échangeable qui peut être obtenu grâce aux événements de la collaboration avec FFT. Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement FFT."
+            "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration avec FFT. Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement FFT."
         },
         {
             "key": "IT_EC_FFT_2_A",
-            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d’échange médailles d'invocation A de la collaboration avec FFT (Expire le 26/05/2020, 23:59, heure universelle (PST))"
+            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d’échange des médailles d'invocation A de la collaboration avec FFT (Expire le 26/05/2020, 23:59, heure universelle (PST))"
         },
         {
             "key": "IT_EC_FFT_2_B",
-            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d’échange médailles d'invocation B de la collaboration avec FFT (Expire le 26/05/2020, 23:59, heure universelle (PST))"
+            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d’échange des médailles d'invocation B de la collaboration avec FFT (Expire le 26/05/2020, 23:59, heure universelle (PST))"
         },
         {
             "key": "IT_EC_TOWER_001",
@@ -2750,15 +2830,31 @@
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": "Un objet échangeable qui peut être obtenu grâce aux événements de « Rundall, menace à l'ouest ». Il peut être échangé contre divers objets dans la Boutique d’échange de médailles d'événement de juin."
+            "value": "Un objet qui peut être obtenu grâce aux événements de « Rundall, menace à l'ouest ». Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement de juin."
         },
         {
             "key": "IT_EC_EV03_1",
-            "value": "Un objet qui peut être obtenu grâce aux événements « Embraser la vie ». Il peut être échangé contre divers objets dans la Boutique d’échange de médailles d'événement de juillet."
+            "value": "Un objet qui peut être obtenu grâce aux événements « Embraser la vie ». Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement de juillet."
+        },
+        {
+            "key": "IT_EC_EV04_1",
+            "value": "Un objet qui peut être obtenu grâce aux événements « Aux confins de l'Orient ». Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement d'août."
         },
         {
             "key": "IT_EC_RAID_02",
             "value": "Une médaille qui s'obtient lors des combats de raid"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "Une médaille qui s'obtient lors du Raid de la Guimauve blanche"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration avec FFI. Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement FFI."
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFI. Elle peut être échangée contre divers objets dans la boutique d’échange des médailles d'invocation de la collaboration avec FFI (Expire le 25/08/2020, 23:59, heure universelle (PST))"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2805,6 +2901,10 @@
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 fragments de pensée nécessaires à l'éveil parmi les 8 éléments proposés."
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 200 fragments de pensée nécessaires à l'éveil parmi les 8 éléments proposés."
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 100 fragments de pensée nécessaires à l'éveil parmi les 8 éléments proposés."
         },
@@ -2822,15 +2922,19 @@
         },
         {
             "key": "IT_US_SE_JB_EM_01_01",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 30 alcrists (verts) nécessaires à l'amélioration des jobs."
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 30 alcrists (verts) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 alcrists (bleus) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
         },
         {
             "key": "IT_US_SE_JB_EM_02_02",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (bleus) nécessaires à l'amélioration des jobs."
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (bleus) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
         },
         {
             "key": "IT_US_SE_JB_EM_03_01",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (violets) nécessaires à l'amélioration des jobs."
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (violets) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
         },
         {
             "key": "IT_US_SE_SB_AW_01",
@@ -2838,7 +2942,7 @@
         },
         {
             "key": "IT_US_SE_SB_EXP_01",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 50 magilithes (L) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 50 magilithes (L) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés."
         },
         {
             "key": "IT_US_SE_SB_EXP_02",
@@ -2905,6 +3009,14 @@
             "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 17 juin. *Ne peut pas être utilisé pour les atouts-visions limités et ceux issus des collaborations."
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 22 juillet. *Ne peut pas être utilisé pour les atouts-visions limités et ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 12 août inclus. *Ce ticket ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité UR recommandée.*Si vous invoquez une unité que vous possédez déjà, elle sera convertie en 40 fragments d'unité."
         },
@@ -2913,11 +3025,23 @@
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité MR recommandée.*Si vous invoquez une unité que vous possédez déjà, elle sera convertie en 20 fragments d'unité."
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité MR"
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
             "value": "Un ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties avant le 17 juin. *Ne peut pas être utilisé pour les unités limitées ou des collaborations."
         },
         {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Un ticket qui permet de sélectionner et d’invoquer 40 fragments d'unité UR."
+        },
+        {
             "key": "IT_US_G_U_UR_01",
+            "value": "Un ticket qui vous permet d’invoquer une unité UR."
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
             "value": "Un ticket qui vous permet d’invoquer une unité UR."
         },
         {
@@ -2975,6 +3099,10 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer NN prismes d'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 200 prismes d'éveil parmi les 8 éléments proposés."
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3206,6 +3334,34 @@
         },
         {
             "key": "IT_VPI_LW_VALE2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
             "value": "Un objet nécessaire à l'éveil d'un atout-vision"
         },
         {

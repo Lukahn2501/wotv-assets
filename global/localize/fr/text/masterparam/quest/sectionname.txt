@@ -81,6 +81,14 @@
             "value": "Saison 1, Chapitre 7, Partie 2"
         },
         {
+            "key": "SE_ST_010703",
+            "value": "Saison 1, Chapitre 7, Partie 3"
+        },
+        {
+            "key": "SE_ST_010801",
+            "value": "Saison 1, Chapitre 8, Partie 1"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "L'immense forêt du Lion"
         },
@@ -131,6 +139,10 @@
         {
             "key": "SE_WD_010203",
             "value": "Sanctuaire du Loup blanc"
+        },
+        {
+            "key": "SE_WD_010204",
+            "value": "Village de Warlmah"
         },
         {
             "key": "SE_SB_01",
@@ -254,7 +266,7 @@
         },
         {
             "key": "SE_EV_GL_1M_DL",
-            "value": "Quête de la Célébration du « 1er million de téléchargements »"
+            "value": "Quête de la célébration du « 1er million de téléchargements »"
         },
         {
             "key": "SE_EV_FF14_01",
@@ -306,7 +318,7 @@
         },
         {
             "key": "SE_MU_EV_03_EX",
-            "value": "[Multi] Terminez Embraser la vie [EX]"
+            "value": "[Multi] Embraser la vie [EX]"
         },
         {
             "key": "SE_EV_SBEXP_01",
@@ -322,7 +334,7 @@
         },
         {
             "key": "SE_EV_GL_3M_DL",
-            "value": "Quête de célébration des « 3 millions de téléchargements »"
+            "value": "Quête des « 3 millions de téléchargements »"
         },
         {
             "key": "SE_MU_AW_FIRE",
@@ -495,6 +507,62 @@
         {
             "key": "SE_EV_NEWMAP_001",
             "value": "Entraînement aux combats de guilde"
+        },
+        {
+            "key": "SE_EV_FF1_01",
+            "value": "Quête FINAL FANTASY I"
+        },
+        {
+            "key": "SE_EV_FF1_01_EX",
+            "value": "Quête FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "SE_MU_FF1_01_EX",
+            "value": "Quête FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "Quête difficile limitée (Guerrier de la lumière)"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "Quête difficile limitée (Kilphe)"
+        },
+        {
+            "key": "SE_EV_04_01",
+            "value": "Aux confins de l'Orient"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "Aux confins de l'Orient [EX]"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "[Multi] Aux confins de l'Orient [EX]"
+        },
+        {
+            "key": "SE_EV_NEWMAP_002",
+            "value": "Entraînement aux combats de guilde"
+        },
+        {
+            "key": "SE_CHAL_01",
+            "value": "Quête de défi"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_AW_HIGH_03",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_03",
+            "value": ""
         }
     ]
 }

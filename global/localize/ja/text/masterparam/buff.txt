@@ -1051,6 +1051,10 @@
         {
             "key": "BUFF_ExeShield6",
             "value": "シールド({0}ターンorHP{1})"
+        },
+        {
+            "key": "BUFF_KillerSpeciesPHuman",
+            "value": "物理攻撃時人キラー"
         }
     ]
 }

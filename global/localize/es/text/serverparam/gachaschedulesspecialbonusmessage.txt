@@ -625,6 +625,258 @@
             "value": ""
         },
         {
+            "key": "new-gacha_unit_vc_gl20200722_01",
+            "value": "Incluye 10 medallas de invocación de tipo B (julio)."
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_10",
+            "value": "Incluye 100 medallas de invocación de tipo B (julio)."
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_01",
+            "value": "Incluye 10 medallas de invocación de tipo B (julio)."
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "Incluye 100 medallas de invocación de tipo B (julio)."
+        },
+        {
+            "key": "3step-gacha_gl20200722_step3",
+            "value": "Carta de visión destacada garantizada"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step2",
+            "value": "Carta de visión destacada garantizada en el paso 3."
+        },
+        {
+            "key": "3step-gacha_gl20200722_step1",
+            "value": "Carta de visión destacada garantizada en el paso 3."
+        },
+        {
+            "key": "3step-gacha_gl20200722_base",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step4",
+            "value": "Incluye 50 fragmentos de la memoria."
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step3",
+            "value": "Incluye 50 prismas del despertar."
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_gacha_gl20200729_01",
+            "value": "Incluye 10 medallas de invocación de FFI de tipo A."
+        },
+        {
+            "key": "ff1_gacha_gl20200729_10",
+            "value": "Incluye 100 medallas de invocación de FFI de tipo A."
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_01",
+            "value": "Incluye 10 medallas de invocación de tipo B (julio)."
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_10",
+            "value": "Incluye 100 medallas de invocación de tipo B (julio)."
+        },
+        {
+            "key": "ff1_p_gacha_unit_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_p_gacha_vc_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_9",
+            "value": ""
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step3",
+            "value": "Unidad UR de luz garantizada"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step2",
+            "value": "Unidad o carta de visión UR garantizada"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step1",
+            "value": "Unidad o carta de visión UR garantizada"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step4",
+            "value": "Incluye 50 fragmentos de la memoria."
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step3",
+            "value": "Incluye 50 prismas del despertar."
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_01",
+            "value": "Incluye 10 medallas de invocación de tipo A (agosto)."
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "Incluye 100 medallas de invocación de tipo A (agosto)."
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step4",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step3",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200805_10",
+            "value": "Incluye 100 medallas de invocación de tipo A (agosto)."
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_01",
+            "value": "Incluye 10 medallas de invocación de tipo A (agosto)."
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "Incluye 100 medallas de invocación de tipo A (agosto)."
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_01",
+            "value": "Incluye 10 medallas de invocación de tipo A (agosto)."
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "Incluye 100 medallas de invocación de tipo A (agosto)."
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_01",
+            "value": "Incluye 10 medallas de invocación de tipo A (agosto)."
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "Incluye 100 medallas de invocación de tipo A (agosto)."
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step4",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step3",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200812_10",
+            "value": "Incluye 100 medallas de invocación de tipo A (agosto)."
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Incluye 10 medallas de invocación de tipo A (marzo)."
         },

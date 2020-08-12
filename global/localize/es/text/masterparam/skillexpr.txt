@@ -1518,7 +1518,7 @@
         },
         {
             "key": "SK_LW_GRM_P_2",
-            "value": "Mayor duración de los aumentos y las reducciones del usuario durante 1 turno."
+            "value": "Mayor duración de los aumentos y las reducciones del usuario durante un turno."
         },
         {
             "key": "SK_LW_GRM_M_4_SUB",
@@ -2234,7 +2234,7 @@
         },
         {
             "key": "SK_LW_WGN_S_4",
-            "value": "Probabilidad de infligir aturdimiento a los objetivos al alcance durante 1 turno."
+            "value": "Probabilidad de infligir aturdimiento a los objetivos al alcance durante un turno."
         },
         {
             "key": "SK_LW_WGN_S_5",
@@ -2387,6 +2387,126 @@
         {
             "key": "SK_LW_ASS_P_2",
             "value": "Aumenta los PA adquiridos."
+        },
+        {
+            "key": "SK_FF1_WROL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_M_1",
+            "value": "Inflige daño (mucho) al objetivo."
+        },
+        {
+            "key": "SK_FF1_WROL_M_2",
+            "value": "Recupera un porcentaje fijo de VIT del usuario (mucho)."
+        },
+        {
+            "key": "SK_FF1_WROL_M_3",
+            "value": "Otorga una barrera al aliado que reduce el daño físico (3 veces)."
+        },
+        {
+            "key": "SK_FF1_WROL_S_1",
+            "value": "Inflige daño (poco) al objetivo tras trasladarse a la casilla objetivo."
+        },
+        {
+            "key": "SK_FF1_WROL_S_2",
+            "value": "Aumenta la probabilidad de que el usuario sea atacado y aumenta su DEF y ESP durante 3 turnos (acumulable hasta 3 veces)."
+        },
+        {
+            "key": "SK_FF1_WROL_S_3",
+            "value": "Inflige daño (medio) al objetivo y reduce su ATQ y MAG durante 3 turnos."
+        },
+        {
+            "key": "SK_FF1_WROL_S_4",
+            "value": "Daño (medio) al objetivo y probabilidad de infligirle paro."
+        },
+        {
+            "key": "SK_FF1_WROL_R_1",
+            "value": "Probabilidad de aumentar la DEF durante 3 turnos al recibir daño físico."
+        },
+        {
+            "key": "SK_FF1_WROL_P_1",
+            "value": "Aumenta la VIT máx. y la DEF."
+        },
+        {
+            "key": "SK_FF1_WROL_P_2",
+            "value": "Aumenta la res. a reducciones de DEF y ESP."
+        },
+        {
+            "key": "SK_LW_MST_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_M_1",
+            "value": "Inflige daño (mucho) en función de la MAG del usuario con golpe garantizado a los objetivos al alcance."
+        },
+        {
+            "key": "SK_LW_MST_M_2",
+            "value": "Otorga una barrera al usuario que reduce el daño físico (3 veces)."
+        },
+        {
+            "key": "SK_LW_MST_M_3",
+            "value": "Aumenta la fe de los aliados de alrededor."
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1_INIT",
+            "value": "Inflige daño de fuego (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1_INIT",
+            "value": "Inflige daño de hielo (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1_INIT",
+            "value": "Inflige daño de viento (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1_INIT",
+            "value": "Inflige daño de rayo (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1_INIT",
+            "value": "Inflige daño de agua (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1_INIT",
+            "value": "Inflige daño de tierra (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1_INIT",
+            "value": "Inflige daño de luz (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1_INIT",
+            "value": "Inflige daño de oscuridad (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_S_2_INIT",
+            "value": "Aumenta el salto y el movimiento del usuario en 1 durante 3 turnos."
+        },
+        {
+            "key": "SK_LW_MST_S_3",
+            "value": "Probabilidad de infligir confusión a los objetivos de alrededor durante 3 turnos."
+        },
+        {
+            "key": "SK_LW_MST_S_4",
+            "value": "Daño (medio) en función de la MAG del usuario al objetivo y probabilidad de infligirle aturdimiento durante un turno."
+        },
+        {
+            "key": "SK_LW_MST_S_5",
+            "value": "Inflige daño (mucho) en función de la MAG del usuario al objetivo tras trasladarse a la casilla objetivo."
+        },
+        {
+            "key": "SK_LW_MST_R_1",
+            "value": "Probabilidad de reducir el daño recibido."
+        },
+        {
+            "key": "SK_LW_MST_P_1",
+            "value": "MAG↑"
+        },
+        {
+            "key": "SK_LW_MST_P_2",
+            "value": "DEF↑"
         },
         {
             "key": "SK_LW_TU_BLM_ICE",
@@ -2921,6 +3041,22 @@
             "value": "Daño (medio) a los objetivos de alrededor y probabilidad de infligirles embrujo durante 3 turnos."
         },
         {
+            "key": "SK_CSLI_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "Inflige daño (poco) al objetivo."
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "Inflige daño (poco) al objetivo y absorbe el daño infligido."
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "Daño (medio) a los objetivos de alrededor y probabilidad de infligirles sueño durante 3 turnos."
+        },
+        {
             "key": "SK_SLIM_ATK",
             "value": ""
         },
@@ -3141,6 +3277,70 @@
             "value": "Inflige ataque mágico (mucho) al objetivo."
         },
         {
+            "key": "SK_THDG_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_R_01",
+            "value": "Inflige daño (poco) a los objetivos de alrededor al recibir daño físico y reduce su ATQ, MAG, DEF y ESP durante 2 turnos."
+        },
+        {
+            "key": "SK_THDG_M_01",
+            "value": "Daño (medio) 2 veces al objetivo y probabilidad de infligirle parálisis durante 3 turnos."
+        },
+        {
+            "key": "SK_THDG_M_02",
+            "value": "Aumenta considerablemente el ATQ y la MAG del usuario durante un turno."
+        },
+        {
+            "key": "SK_THDG_M_03",
+            "value": "Inflige daño mágico de fuego (poco) a los enemigos de la zona objetivo y reduce su res. hielo durante 3 turnos."
+        },
+        {
+            "key": "SK_THDG_M_04",
+            "value": "Inflige daño mágico de hielo (poco) a los enemigos de la zona objetivo y reduce su res. fuego durante 3 turnos."
+        },
+        {
+            "key": "SK_THDG_M_05",
+            "value": "Daño físico (medio) a las unidades de alrededor y probabilidad de infligirles estado alterados (ceguera y silencio) durante 3 turnos."
+        },
+        {
+            "key": "SK_WRMC_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "Daño (poco) a los objetivos al alcance y probabilidad de infligirles inmóvil."
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "Daño (medio) a los objetivos al alcance y probabilidad de reducir su DEF y ESP."
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "Inflige daño de fuego (mucho) a los objetivos al alcance."
+        },
+        {
+            "key": "SK_DABL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_M_01",
+            "value": "Daño de oscuridad (poco) en función de la MAG del usuario al objetivo y probabilidad de infligirle confusión durante 3 turnos."
+        },
+        {
+            "key": "SK_DABL_M_02",
+            "value": "Inflige daño (poco) a los objetivos al alcance basado en un porcentaje fijo de la VIT máx. del usuario con golpe garantizado."
+        },
+        {
+            "key": "SK_DABL_M_03",
+            "value": "Recupera VIT de los aliados al alcance (medio)."
+        },
+        {
+            "key": "SK_DABL_M_04",
+            "value": "Reduce la res. mágica de los objetivos al alcance durante 3 turnos y les inflige daño de oscuridad (mucho) en función de la MAG del usuario."
+        },
+        {
             "key": "SK_LW_E_VIK_ATK",
             "value": ""
         },
@@ -3357,6 +3557,14 @@
             "value": "Daño (mucho) 3 veces al objetivo y probabilidad de infligirle veneno durante 3 turnos."
         },
         {
+            "key": "SK_LB_FF1_WROL",
+            "value": "Inflige daño (medio) 3 veces a los objetivos de alrededor y otorga cambios de estado (coraza y escudo) al usuario durante 3 turnos."
+        },
+        {
+            "key": "SK_LB_LW_QILF",
+            "value": "Reduce la res. mágica del objetivo durante 3 turnos y le inflige daño (mucho) en función de la MAG del usuario."
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Invoca a Ifrit: inflige daño de fuego (máximo) a los objetivos al alcance y activa un efecto de mapa temporal (aumenta el ATQ y la MAG de los aliados y reduce considerablemente la res. fuego de los enemigos)."
         },
@@ -3423,6 +3631,18 @@
         {
             "key": "SK_SMN_OCHU",
             "value": "Invoca a Ochú: inflige daño de tierra (mucho) a los objetivos al alcance."
+        },
+        {
+            "key": "SK_SMN_THDG",
+            "value": "Invoca a Dragón bicéfalo: daño de luz (mucho) a los objetivos de alrededor y probabilidad de infligirles estados alterados (ceguera y silencio) durante 3 turnos."
+        },
+        {
+            "key": "SK_SMN_WRMC",
+            "value": "Invoca a Máquina mortal: inflige daño de fuego (mucho) a los objetivos al alcance y activa un efecto de mapa temporal (aumenta el ATQ de los aliados y reduce la res. fuego de los enemigos)."
+        },
+        {
+            "key": "SK_SMN_DABL",
+            "value": "Invoca a Diablo: inflige daño de oscuridad (máximo) a los objetivos al alcance y activa un efecto de mapa temporal (aumenta el ATQ y la MAG de los aliados y reduce considerablemente la res. oscuridad de los enemigos)."
         },
         {
             "key": "SK_US_POTION",
@@ -3793,6 +4013,18 @@
             "value": "VIT máx. +20 %, ataque de corte +10"
         },
         {
+            "key": "SK_MA_FF1_WROL",
+            "value": "ATQ +20 %, DEF +5"
+        },
+        {
+            "key": "SK_MA_LW_QILF",
+            "value": "VIT +20 %, tiempo de activación -20 %"
+        },
+        {
+            "key": "SK_MA_LW_SIMR",
+            "value": "ATQ +10 %, tasa de precisión +30"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Ataque de corte +2"
         },
@@ -3967,6 +4199,18 @@
         {
             "key": "SK_ACC_LW_VNLA_1_1",
             "value": "Reduce la probabilidad de que el usuario sea atacado y le otorga Comesacros durante 3 turnos."
+        },
+        {
+            "key": "SK_ACC_FF1_WROL_1_1",
+            "value": "Aumenta la VIT máx. del usuario durante 3 turnos, recupera la cantidad de VIT aumentada y otorga autorrecuperación de PT."
+        },
+        {
+            "key": "SK_ACC_LW_QILF_1_1",
+            "value": "Aumenta la res. a ataque de unidad del usuario durante 3 turnos y reduce la res. a ataque de zona."
+        },
+        {
+            "key": "SK_KAT_LW_SIMR_1_1",
+            "value": ""
         },
         {
             "key": "SK_ACC_LW_MONT_ARENA",
@@ -4537,6 +4781,54 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_GS",
             "value": ""
         },
@@ -4670,6 +4962,18 @@
         },
         {
             "key": "SK_VC_LW_VALE2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
             "value": ""
         },
         {
@@ -4965,6 +5269,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_P",
             "value": ""
         },
@@ -5106,6 +5434,66 @@
         },
         {
             "key": "SK_VC_LW_VALE2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {

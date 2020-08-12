@@ -1041,6 +1041,46 @@
             "value": "어쌔신의 기억: 빨강"
         },
         {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "빛의 전사의 기억: 초록"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "빛의 전사의 기억: 파랑"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "빛의 전사의 기억: 보라"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "빛의 전사의 기억: 노랑"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "빛의 전사의 기억: 빨강"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "마장술사의 기억: 초록"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "마장술사의 기억: 파랑"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "마장술사의 기억: 보라"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "마장술사의 기억: 노랑"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "마장술사의 기억: 빨강"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "불의 휘석: 초록"
         },
@@ -1741,6 +1781,18 @@
             "value": "티렐의 조각"
         },
         {
+            "key": "IT_PI_FF1_WROL",
+            "value": "빛의 전사의 조각"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "키르페의 조각"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "시무르의 조각"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "빨간색 마석(소)"
         },
@@ -1995,6 +2047,22 @@
         {
             "key": "IT_SB_AW_OCHU_R3",
             "value": "오츄의 각성석(★3)"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "투헤드 드래곤의 각성석(★2)"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "투헤드 드래곤의 각성석(★3)"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "디아볼로스의 각성석(★2)"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "디아볼로스의 각성석(★3)"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2505,6 +2573,14 @@
             "value": "알렉산드라이트 반지 제작법"
         },
         {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "백금 로브 제작법"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "빛의 갑옷 제작법"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "생명의 각인"
         },
@@ -2733,6 +2809,10 @@
             "value": "[7월] 소환 메달 B"
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "[8월] 소환 메달 A"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT 콜라보 이벤트 메달"
         },
@@ -2757,8 +2837,24 @@
             "value": "[7월] 이벤트 메달"
         },
         {
+            "key": "IT_EC_EV04_1",
+            "value": "[8월] 이벤트 메달"
+        },
+        {
             "key": "IT_EC_RAID_02",
             "value": "초코 푸딩 레이드 메달"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "하얀 마시멜로 레이드 메달"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "FFI 콜라보 이벤트 메달"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "FFI 콜라보 소환 메달"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2805,6 +2901,10 @@
             "value": "속성 마음 조각 × 10 선택 소환 티켓"
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "속성 마음 조각 × 200 선택 소환 티켓"
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": "속성 마음 조각 x 100 선택 소환 티켓"
         },
@@ -2823,6 +2923,10 @@
         {
             "key": "IT_US_SE_JB_EM_01_01",
             "value": "속성 휘석: 초록 × 30 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "속성 휘석: 파랑 × 10 선택 소환 티켓"
         },
         {
             "key": "IT_US_SE_JB_EM_02_02",
@@ -2905,6 +3009,14 @@
             "value": "UR 비전 카드의 조각 × 50 선택 소환 티켓"
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "UR 비전 카드의 조각 × 50 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "UR 비전 카드의 조각 × 50 선택 소환 티켓"
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "추천 UR 유닛 선택 소환 티켓"
         },
@@ -2913,12 +3025,24 @@
             "value": "추천 MR 유닛 선택 소환 티켓"
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "MR 유닛 선택 소환 티켓 A"
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
+            "value": "UR 유닛의 조각 × 40 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
             "value": "UR 유닛의 조각 × 40 선택 소환 티켓"
         },
         {
             "key": "IT_US_G_U_UR_01",
             "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "UR 유닛 보장 소환 티켓"
         },
         {
             "key": "IT_US_G_UR_01",
@@ -2975,6 +3099,10 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "각성 휘석 × NN 선택 소환 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "각성 휘석 × 200 선택 소환 티켓"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3207,6 +3335,34 @@
         {
             "key": "IT_VPI_LW_VALE2",
             "value": " '미남 쟁탈전!!'의 조각"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": " '맹공쌍룡-투헤드 드래곤'의 조각"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": " '질투심 많은 마술사'의 조각"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": " '허세의 대가'의 조각"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": " '거짓된 언약, 진실된 영혼'의 조각"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": " '데스 머신'의 조각"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": " '몽환마인-디아볼로스'의 조각"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": " '덧없는 꽃놀이'의 조각"
         },
         {
             "key": "IT_VC_EXP_01",

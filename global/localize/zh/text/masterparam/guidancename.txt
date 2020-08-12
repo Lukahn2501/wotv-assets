@@ -6,7 +6,7 @@
         },
         {
             "key": "Battle2",
-            "value": "戰鬥２"
+            "value": "戰鬥2"
         },
         {
             "key": "Gacha",
@@ -70,11 +70,11 @@
         },
         {
             "key": "GuildBarracks",
-            "value": "公會功能２"
+            "value": "公會功能2"
         },
         {
             "key": "GuildStone",
-            "value": "公會功能３"
+            "value": "公會功能3"
         },
         {
             "key": "UnitIntimacy",
@@ -82,7 +82,7 @@
         },
         {
             "key": "SubQuest",
-            "value": "分支任務"
+            "value": "支線任務"
         },
         {
             "key": "Unitsubjob",

@@ -23,6 +23,10 @@
         {
             "key": "CM_PRO_004_1",
             "value": "MOBIUS FINAL FANTASY聯動紀念考驗任務"
+        },
+        {
+            "key": "CM_PRO_005_1",
+            "value": "FFI聯動活動考驗任務"
         }
     ]
 }

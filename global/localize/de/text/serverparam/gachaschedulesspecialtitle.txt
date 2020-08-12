@@ -174,7 +174,7 @@
         },
         {
             "key": "gacha_unit_vc_gl20200513_10",
-            "value": "Ausrüstungsverbesserung-Unterstützungsbeschwörung (10-malig)"
+            "value": "Ausrüstungsverbesserung: Unterstützungsbeschwörung (10-malig)"
         },
         {
             "key": "p_gacha_vc_gl20200513_10",
@@ -623,6 +623,258 @@
         {
             "key": "p_gacha_unit_gl20200715_10",
             "value": "„[UR]-Einheit garantiert“-Beschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_01",
+            "value": "Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step3",
+            "value": "Stufenbeschwörung – Stufe 3"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step2",
+            "value": "Stufenbeschwörung – Stufe 2"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step1",
+            "value": "Stufenbeschwörung – Stufe 1"
+        },
+        {
+            "key": "3step-gacha_gl20200722_base",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200722_10",
+            "value": "Beschwörung (10-malig): [UR]-Visionskarte garantiert"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step5",
+            "value": "5-Stufenbeschwörung – Stufe 5"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step4",
+            "value": "5-Stufenbeschwörung – Stufe 4"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step3",
+            "value": "5-Stufenbeschwörung – Stufe 3"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step2",
+            "value": "5-Stufenbeschwörung – Stufe 2"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step1",
+            "value": "5-Stufenbeschwörung – Stufe 1"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_gacha_gl20200729_01",
+            "value": "FFI-Kollabo-Beschwörung"
+        },
+        {
+            "key": "ff1_gacha_gl20200729_10",
+            "value": "FFI-Kollabo-Beschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_01",
+            "value": "Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_10",
+            "value": "Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "ff1_p_gacha_unit_gl20200729_10",
+            "value": "„[UR]-Einheit garantiert“-Beschwörung (10-malig)"
+        },
+        {
+            "key": "ff1_p_gacha_vc_gl20200729_10",
+            "value": "Beschwörung (10-malig): [UR]-Visionskarte garantiert"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_1",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_2",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_3",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_4",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_5",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_6",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_7",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_8",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_9",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step3",
+            "value": "Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step2",
+            "value": "Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step1",
+            "value": "Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step5",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 5"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step4",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 4"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step3",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step2",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step1",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step5",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 5"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step4",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 4"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step3",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step2",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step1",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200805_10",
+            "value": "„[UR]-Einheit garantiert“-Beschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_01",
+            "value": "Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_01",
+            "value": "Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step5",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 5"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step4",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 4"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step3",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step2",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step1",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200812_10",
+            "value": "Beschwörung (10-malig): [UR]-Visionskarte garantiert"
         },
         {
             "key": "global_pickup_sterne_20200325_01",

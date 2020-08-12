@@ -1241,6 +1241,66 @@
             "value": "ルーンナイトの記憶・緋"
         },
         {
+            "key": "IT_JB_MM_FF4_CECL",
+            "value": "月のパラディンの記憶・翠"
+        },
+        {
+            "key": "IT_JB_MM_FF4_CECL_2",
+            "value": "月のパラディンの記憶・碧"
+        },
+        {
+            "key": "IT_JB_MM_FF4_CECL_3",
+            "value": "月のパラディンの記憶・紫"
+        },
+        {
+            "key": "IT_JB_MM_FF4_CECL_4",
+            "value": "月のパラディンの記憶・橘"
+        },
+        {
+            "key": "IT_JB_MM_FF4_CECL_5",
+            "value": "月のパラディンの記憶・緋"
+        },
+        {
+            "key": "IT_JB_MM_FF4_ROSA",
+            "value": "バロンの白魔道士の記憶・翠"
+        },
+        {
+            "key": "IT_JB_MM_FF4_ROSA_2",
+            "value": "バロンの白魔道士の記憶・碧"
+        },
+        {
+            "key": "IT_JB_MM_FF4_ROSA_3",
+            "value": "バロンの白魔道士の記憶・紫"
+        },
+        {
+            "key": "IT_JB_MM_FF4_ROSA_4",
+            "value": "バロンの白魔道士の記憶・橘"
+        },
+        {
+            "key": "IT_JB_MM_FF4_ROSA_5",
+            "value": "バロンの白魔道士の記憶・緋"
+        },
+        {
+            "key": "IT_JB_MM_FF4_KAIN",
+            "value": "バロンの竜騎士の記憶・翠"
+        },
+        {
+            "key": "IT_JB_MM_FF4_KAIN_2",
+            "value": "バロンの竜騎士の記憶・碧"
+        },
+        {
+            "key": "IT_JB_MM_FF4_KAIN_3",
+            "value": "バロンの竜騎士の記憶・紫"
+        },
+        {
+            "key": "IT_JB_MM_FF4_KAIN_4",
+            "value": "バロンの竜騎士の記憶・橘"
+        },
+        {
+            "key": "IT_JB_MM_FF4_KAIN_5",
+            "value": "バロンの竜騎士の記憶・緋"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "火の輝石・翠"
         },
@@ -2025,6 +2085,18 @@
             "value": "タイタスの欠片"
         },
         {
+            "key": "IT_PI_FF4_CECL",
+            "value": "セシルの欠片"
+        },
+        {
+            "key": "IT_PI_FF4_ROSA",
+            "value": "ローザの欠片"
+        },
+        {
+            "key": "IT_PI_FF4_KAIN",
+            "value": "カインの欠片"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "赤の魔石（小）"
         },
@@ -2345,6 +2417,14 @@
             "value": "アイガイオンの獣醒石（★3）"
         },
         {
+            "key": "IT_SB_AW_CHCB1_R2",
+            "value": "チョコボの獣醒石（★2）"
+        },
+        {
+            "key": "IT_SB_AW_CHCB1_R3",
+            "value": "チョコボの獣醒石（★3）"
+        },
+        {
             "key": "IT_TICKET_STORY",
             "value": "ストーリースキップチケット"
         },
@@ -2363,6 +2443,18 @@
         {
             "key": "IT_PT_BOSS_001",
             "value": "ボスバトルチケット"
+        },
+        {
+            "key": "IT_PT_SKIP_FF4_1",
+            "value": "【FFⅣ】試練クエストスキップチケット"
+        },
+        {
+            "key": "IT_PT_BSSKIP_FF4_1",
+            "value": "【FFⅣ】試練ボススキップチケット"
+        },
+        {
+            "key": "IT_PT_BOSS_FF4_1",
+            "value": "【FFⅣ】ボスバトルチケット"
         },
         {
             "key": "IT_AF_EXP_01",
@@ -2801,10 +2893,6 @@
             "value": "賢者の帽子のクラフトレシピ"
         },
         {
-            "key": "IT_AF_LW_HAT_005",
-            "value": "ウルフマスクのクラフトレシピ"
-        },
-        {
             "key": "IT_AF_LW_CLT_001",
             "value": "皮の服のクラフトレシピ"
         },
@@ -2907,6 +2995,26 @@
         {
             "key": "IT_AF_FF14_HLM_001",
             "value": "ベイルバーゴネットのクラフトレシピ"
+        },
+        {
+            "key": "IT_AF_LW_HAT_005",
+            "value": "ウルフマスクのクラフトレシピ"
+        },
+        {
+            "key": "IT_AF_FF4_ARM_001",
+            "value": "聖騎士の肩当てのクラフトレシピ"
+        },
+        {
+            "key": "IT_AF_FF4_SPE_000",
+            "value": "ウィンドスピアのクラフトレシピ"
+        },
+        {
+            "key": "IT_AF_FF4_BOW_000",
+            "value": "エルフィンボウのクラフトレシピ"
+        },
+        {
+            "key": "IT_AF_LW_ACC_002",
+            "value": "ソウルオブサマサのクラフトレシピ"
         },
         {
             "key": "IT_AF_SUP_HP",
@@ -3023,6 +3131,10 @@
         {
             "key": "IT_EC_RAID_06",
             "value": "【6月】レイドメダル"
+        },
+        {
+            "key": "IT_EC_RAID_08",
+            "value": "【8月】レイドメダル"
         },
         {
             "key": "IT_EC_RAID_FF14",
@@ -3149,6 +3261,10 @@
             "value": "【7月】召喚メダルB"
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "【8月】召喚メダルA"
+        },
+        {
             "key": "IT_EC_VISION",
             "value": "ビジョンメダル"
         },
@@ -3271,6 +3387,26 @@
         {
             "key": "IT_EC_FFT_2_B_R",
             "value": "【復刻】FFTコラボ召喚メダルB"
+        },
+        {
+            "key": "IT_EC_FF4_1",
+            "value": "FFⅣコラボイベントメダル"
+        },
+        {
+            "key": "IT_EC_FF4_2_A",
+            "value": "FFⅣコラボ召喚メダルA"
+        },
+        {
+            "key": "IT_EC_FF4_2_B",
+            "value": "FFⅣコラボ召喚メダルB"
+        },
+        {
+            "key": "IT_US_G_FF4_01",
+            "value": "FFⅣコラボイベント召喚券"
+        },
+        {
+            "key": "IT_EC_FF4_3",
+            "value": "【FFⅣ】裁きの試練メダル"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -3493,6 +3629,26 @@
             "value": "【1100万DL記念】ジョブの記憶・緋×5選択召喚券"
         },
         {
+            "key": "IT_US_SE_JB_MM_01_3",
+            "value": "【CM記念】ジョブの記憶・翠×1選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_02_3",
+            "value": "【CM記念】ジョブの記憶・碧×2選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_03_3",
+            "value": "【CM記念】ジョブの記憶・紫×3選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04_4",
+            "value": "【CM記念】ジョブの記憶・橘×4選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05_4",
+            "value": "【CM記念】ジョブの記憶・緋×5選択召喚券"
+        },
+        {
             "key": "IT_US_SE_VPI_01",
             "value": "【2月】URVカード欠片×50選択召喚券"
         },
@@ -3521,6 +3677,10 @@
             "value": "【高難度応援】SSRVカード欠片×40選択召喚券"
         },
         {
+            "key": "IT_US_SE_VPI_08",
+            "value": "【灼熱CP】URVカード欠片×25選択召喚券"
+        },
+        {
             "key": "IT_US_SE_PI_01",
             "value": "【GW記念】URユニット欠片×40選択召喚券"
         },
@@ -3545,12 +3705,36 @@
             "value": "【初心者限定】URユニット欠片×40選択召喚券"
         },
         {
+            "key": "IT_US_SE_PI_07",
+            "value": "【灼熱CP】URユニット欠片×20選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_PI_08",
+            "value": "【CM記念】URユニット欠片×40選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_PI_09",
+            "value": "【夏休みCP】URユニット欠片×40選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_PI_10",
+            "value": "おすすめURユニット欠片×120選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_PI_11",
+            "value": "FFⅣコラボユニット欠片×40選択召喚券"
+        },
+        {
             "key": "IT_US_SE_R_UR_U_03",
             "value": "【HA記念】ユニット選択召喚券"
         },
         {
             "key": "IT_US_SE_R_UR_V_02",
             "value": "【HA記念】Vカード選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_R_UR_V_03",
+            "value": "【灼熱CP】召喚獣付きURVカード選択召喚券"
         },
         {
             "key": "IT_US_SE_AF_AW_01",
@@ -3563,6 +3747,14 @@
         {
             "key": "IT_US_SE_AF_AW_03",
             "value": "【高難度応援】秘伝書×100選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_AF_AW_04",
+            "value": "【灼熱CP】秘伝書×100選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_AF_AW_05",
+            "value": "【夏休みCP】秘伝書×100選択召喚券"
         },
         {
             "key": "IT_US_SE_AF_SUP_01",
@@ -3625,6 +3817,26 @@
             "value": "【初心者限定】ジェダイト×15選択召喚券"
         },
         {
+            "key": "IT_US_SE_JB_05_03",
+            "value": "【CM記念】スピネル×30選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_04_04",
+            "value": "【CM記念】シトリン×30選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_03_04",
+            "value": "【CM記念】チャロアイト×30選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_02_04",
+            "value": "【CM記念】アズライト×30選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_01_04",
+            "value": "【CM記念】ジェダイト×15選択召喚券"
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "おすすめURユニット選択召喚券"
         },
@@ -3651,6 +3863,22 @@
         {
             "key": "IT_US_SE_UR_V_01",
             "value": "URVカード選択召喚券A"
+        },
+        {
+            "key": "IT_JP_UP_01",
+            "value": "オーバル（小）"
+        },
+        {
+            "key": "IT_JP_UP_02",
+            "value": "オーバル（中）"
+        },
+        {
+            "key": "IT_JP_UP_03",
+            "value": "オーバル（大）"
+        },
+        {
+            "key": "IT_JP_UP_04",
+            "value": "オーバル（極）"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3765,6 +3993,18 @@
             "value": "破壊鋼人　アイガイオンの欠片"
         },
         {
+            "key": "IT_VPI_LW_GRSR2",
+            "value": "穏やかな時間の欠片"
+        },
+        {
+            "key": "IT_VPI_FF4_DMNW",
+            "value": "デモンズウォールの欠片"
+        },
+        {
+            "key": "IT_VPI_LW_LUCA",
+            "value": "新たな研究対象の欠片"
+        },
+        {
             "key": "IT_VPI_LW_IGNT",
             "value": "鋼の魔人　鉄巨人の欠片"
         },
@@ -3871,6 +4111,14 @@
         {
             "key": "IT_VPI_LW_GUREN",
             "value": "義賊≪紅蓮≫の欠片"
+        },
+        {
+            "key": "IT_VPI_LW_CHCB",
+            "value": "愛しき相棒　チョコボの欠片"
+        },
+        {
+            "key": "IT_VPI_LW_FIGHT",
+            "value": "激突の欠片"
         },
         {
             "key": "IT_VPI_LW_CACT",

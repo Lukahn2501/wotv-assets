@@ -2146,7 +2146,7 @@
         },
         {
             "key": "HARDQUEST_LIMIT_OVER_DESC",
-            "value": "Vous ne pouvez plus partir en quête difficile aujourd'hui (réinitialisation automatique à 00:00:00 PST)."
+            "value": "Vous ne pouvez plus partir en quête difficile aujourd'hui (réinitialisation quotidienne à 00:00, heure universelle (PST))."
         },
         {
             "key": "HARDQUEST_RESET_OVER_TITLE",

@@ -2389,6 +2389,126 @@
             "value": "획득 AP 증가 Lv.1"
         },
         {
+            "key": "SK_FF1_WROL_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_FF1_WROL_M_1",
+            "value": "브레이브 홀리"
+        },
+        {
+            "key": "SK_FF1_WROL_M_2",
+            "value": "생명의 숨결"
+        },
+        {
+            "key": "SK_FF1_WROL_M_3",
+            "value": "무적의 방패"
+        },
+        {
+            "key": "SK_FF1_WROL_S_1",
+            "value": "이동 공격"
+        },
+        {
+            "key": "SK_FF1_WROL_S_2",
+            "value": "브레이브 프레즌스"
+        },
+        {
+            "key": "SK_FF1_WROL_S_3",
+            "value": "저지의 검"
+        },
+        {
+            "key": "SK_FF1_WROL_S_4",
+            "value": "스톱 스트라이크"
+        },
+        {
+            "key": "SK_FF1_WROL_R_1",
+            "value": "전사의 긍지"
+        },
+        {
+            "key": "SK_FF1_WROL_P_1",
+            "value": "시작의 전사"
+        },
+        {
+            "key": "SK_FF1_WROL_P_2",
+            "value": "혼돈을 물리치는 힘"
+        },
+        {
+            "key": "SK_LW_MST_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_MST_M_1",
+            "value": "에너지 버스터"
+        },
+        {
+            "key": "SK_LW_MST_M_2",
+            "value": "마장방둔"
+        },
+        {
+            "key": "SK_LW_MST_M_3",
+            "value": "신념 향상"
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1_INIT",
+            "value": "화장술"
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1_INIT",
+            "value": "빙장술"
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1_INIT",
+            "value": "풍장술"
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1_INIT",
+            "value": "뇌장술"
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1_INIT",
+            "value": "수장술"
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1_INIT",
+            "value": "토장술"
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1_INIT",
+            "value": "광장술"
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1_INIT",
+            "value": "암장술"
+        },
+        {
+            "key": "SK_LW_MST_S_2_INIT",
+            "value": "마장술: 날개"
+        },
+        {
+            "key": "SK_LW_MST_S_3",
+            "value": "마장술: 혼란"
+        },
+        {
+            "key": "SK_LW_MST_S_4",
+            "value": "마장술: 기절"
+        },
+        {
+            "key": "SK_LW_MST_S_5",
+            "value": "스텝 앤 매직"
+        },
+        {
+            "key": "SK_LW_MST_R_1",
+            "value": "반장벽"
+        },
+        {
+            "key": "SK_LW_MST_P_1",
+            "value": "마력 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_MST_P_2",
+            "value": "방어력 증가 Lv.1"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "블리자라"
         },
@@ -2921,6 +3041,22 @@
             "value": "달콤한 분수"
         },
         {
+            "key": "SK_CSLI_01_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "마시멜로 던지기"
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "녹이기"
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "하얀 파티"
+        },
+        {
             "key": "SK_SLIM_ATK",
             "value": "일반 공격"
         },
@@ -3141,6 +3277,70 @@
             "value": "집속: 씨앗 대포"
         },
         {
+            "key": "SK_THDG_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_THDG_R_01",
+            "value": "용의 목소리"
+        },
+        {
+            "key": "SK_THDG_M_01",
+            "value": "머리 돌격"
+        },
+        {
+            "key": "SK_THDG_M_02",
+            "value": "힘주기"
+        },
+        {
+            "key": "SK_THDG_M_03",
+            "value": "이중 브레이크 브레스: 불"
+        },
+        {
+            "key": "SK_THDG_M_04",
+            "value": "이중 브레이크 브레스: 얼음"
+        },
+        {
+            "key": "SK_THDG_M_05",
+            "value": "내뿜기"
+        },
+        {
+            "key": "SK_WRMC_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "확산 미사일"
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "빔 대포"
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "핵 공격"
+        },
+        {
+            "key": "SK_DABL_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_DABL_M_01",
+            "value": "보랏빛 공포"
+        },
+        {
+            "key": "SK_DABL_M_02",
+            "value": "그라비데"
+        },
+        {
+            "key": "SK_DABL_M_03",
+            "value": "케알가"
+        },
+        {
+            "key": "SK_DABL_M_04",
+            "value": "어둠의 사자"
+        },
+        {
             "key": "SK_LW_E_VIK_ATK",
             "value": "일반 공격"
         },
@@ -3357,6 +3557,14 @@
             "value": "암기: 농은"
         },
         {
+            "key": "SK_LB_FF1_WROL",
+            "value": "크리스탈 브레이버"
+        },
+        {
+            "key": "SK_LB_LW_QILF",
+            "value": "마장집극"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "지옥의 화염"
         },
@@ -3423,6 +3631,18 @@
         {
             "key": "SK_SMN_OCHU",
             "value": "집속: 씨앗 대포"
+        },
+        {
+            "key": "SK_SMN_THDG",
+            "value": "내뿜기"
+        },
+        {
+            "key": "SK_SMN_WRMC",
+            "value": "핵 공격"
+        },
+        {
+            "key": "SK_SMN_DABL",
+            "value": "어둠의 사자"
         },
         {
             "key": "SK_US_POTION",
@@ -3793,6 +4013,18 @@
             "value": "마스터 어빌리티"
         },
         {
+            "key": "SK_MA_FF1_WROL",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_QILF",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_SIMR",
+            "value": "마스터 어빌리티"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "베기 공격력+2"
         },
@@ -3967,6 +4199,18 @@
         {
             "key": "SK_ACC_LW_VNLA_1_1",
             "value": "거짓 야장"
+        },
+        {
+            "key": "SK_ACC_FF1_WROL_1_1",
+            "value": "신성한 빛"
+        },
+        {
+            "key": "SK_ACC_LW_QILF_1_1",
+            "value": "배반하는 긍지"
+        },
+        {
+            "key": "SK_KAT_LW_SIMR_1_1",
+            "value": ""
         },
         {
             "key": "SK_ACC_LW_MONT_ARENA",
@@ -4537,6 +4781,54 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_GS",
             "value": ""
         },
@@ -4670,6 +4962,18 @@
         },
         {
             "key": "SK_VC_LW_VALE2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
             "value": ""
         },
         {
@@ -4965,6 +5269,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_CACT_P",
             "value": ""
         },
@@ -5106,6 +5434,66 @@
         },
         {
             "key": "SK_VC_LW_VALE2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {

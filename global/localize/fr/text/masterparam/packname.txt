@@ -29,6 +29,10 @@
             "value": "Quête d'histoire - Lot VI"
         },
         {
+            "key": "MP_QEST_07",
+            "value": "Quête d'histoire - Lot VII"
+        },
+        {
             "key": "MP_GL_RANK_02",
             "value": "Lot spécial rang de joueur II"
         },

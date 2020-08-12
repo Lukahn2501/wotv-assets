@@ -1310,7 +1310,7 @@
         },
         {
             "key": "ABILITY_BOARD_RESET_VIP_DESC",
-            "value": "<color=#f0c040ff>Gracias a los beneficios del rango vip, no se usarán visiores hasta el próximo lunes a las 05:00, hasta un máximo de {0} vez/veces más</color>. Usa PH en la tabla de entrenamiento de esper para <color=#f0c040ff>restablecer todas las casillas</color> y volver entrenar al esper desde el principio. <br>*Al restablecer la tabla, <color=#f0c040ff>recuperarás todos los PH que hayas usado.</color> <br><br>¿Restablecer la tabla de entrenamiento de esper?"
+            "value": "<color=#f0c040ff>Gracias a los beneficios del rango vip, no se usarán visiores hasta el próximo lunes a las 00:00, hora mundial (PST), hasta un máximo de {0} vez/veces más</color>. Usa PH en la tabla de entrenamiento de esper para <color=#f0c040ff>restablecer todas las casillas</color> y volver entrenar al esper desde el principio. <br>*Al restablecer la tabla, <color=#f0c040ff>recuperarás todos los PH que hayas usado.</color> <br><br>¿Restablecer la tabla de entrenamiento de esper?"
         },
         {
             "key": "ABILITY_BOARD_RESET_TITLE",
@@ -2414,19 +2414,19 @@
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_GIL",
-            "value": "Esta lista se actualizará usando tus beneficios del rango vip. ¿Quieres usar {0} {1} y actualizar la lista de productos? Puede actualizarse usando beneficios del rango vip {2} vez/veces más. <br><br>*Los beneficios del rango vip se reinician cada día a las 00:00 (PST)."
+            "value": "Esta lista se actualizará usando tus beneficios del rango vip. ¿Quieres usar {0} {1} y actualizar la lista de productos? Puede actualizarse usando beneficios del rango vip {2} vez/veces más. <br><br>*Los beneficios del rango vip se reinician cada día a las 00:00, hora mundial (PST)."
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_LAPIS",
-            "value": "Esta lista se actualizará usando tus beneficios del rango vip. ¿Quieres usar {1} {0} y actualizar la lista de productos? Puede actualizarse usando beneficios del rango vip {2} vez/veces más. <br><br>*Los beneficios del rango vip se reinician cada día a las 00:00 (PST)."
+            "value": "Esta lista se actualizará usando tus beneficios del rango vip. ¿Quieres usar {1} {0} y actualizar la lista de productos? Puede actualizarse usando beneficios del rango vip {2} vez/veces más. <br><br>*Los beneficios del rango vip se reinician cada día a las 00:00, hora mundial (PST)."
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_FREE",
-            "value": "Esta lista se actualizará usando tus beneficios del rango vip. ¿Quieres actualizar gratis la lista de productos? Puede actualizarse usando beneficios del rango vip {0} vez/veces más. <br><br>*Los beneficios del rango vip se reinician cada día a las 00:00 (PST)."
+            "value": "Esta lista se actualizará usando tus beneficios del rango vip. ¿Quieres actualizar gratis la lista de productos? Puede actualizarse usando beneficios del rango vip {0} vez/veces más. <br><br>*Los beneficios del rango vip se reinician cada día a las 00:00, hora mundial (PST)."
         },
         {
             "key": "SHOP_UPDATE_UPPER_LIMIT",
-            "value": "Has alcanzado el número máximo de veces que puedes actualizar la tienda durante este periodo. <br>La tienda podrá actualizarse de nuevo a partir de las 05:00."
+            "value": "Has alcanzado el número máximo de veces que puedes actualizar la tienda durante este periodo. <br>La tienda podrá actualizarse de nuevo a partir de las 00:00, hora mundial (PST)."
         },
         {
             "key": "SHOP_UPDATE_ERROR_TITLE",
@@ -8331,6 +8331,10 @@
         {
             "key": "QRCODE_ERROR_MESSAGE",
             "value": "Plataforma no válida."
+        },
+        {
+            "key": "GL_GACHA_BONUS_GAUGE_TITLE",
+            "value": "Bonificación de invocación"
         },
         {
             "key": "SERVER_Normal_gacha_A_NAME",

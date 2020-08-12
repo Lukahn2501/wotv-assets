@@ -65,8 +65,20 @@
             "value": "Tetra Sílfide, las Cuatro Progenitoras de Vendavales"
         },
         {
+            "key": "VC_LW_THDG",
+            "value": "Dragón bicéfalo, el Horror Serpentino"
+        },
+        {
             "key": "VC_MBFF_MV1",
             "value": "Mobius de desesperación y verdad"
+        },
+        {
+            "key": "VC_FF01_DMAC",
+            "value": "Máquina mortal"
+        },
+        {
+            "key": "VC_LW_CBVPARTY1",
+            "value": "Banquete bajo los pétalos efímeros"
         },
         {
             "key": "VC_LW_IGNT",
@@ -135,6 +147,18 @@
         {
             "key": "VC_MBFF_MV2",
             "value": "Mobius de esperanza e ilusión"
+        },
+        {
+            "key": "VC_LW_ADLD",
+            "value": "Maga celosa"
+        },
+        {
+            "key": "VC_LW_WHITEDAY1",
+            "value": "Ventajas de ser mona"
+        },
+        {
+            "key": "VC_LW_VNLA2",
+            "value": "Falsas promesas, almas honestas"
         },
         {
             "key": "VC_LW_CACT",
@@ -231,6 +255,10 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "Espejo trascendental"
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "Diablo, la Pesadilla Monstruosa"
         },
         {
             "key": "VC_EXP_01",

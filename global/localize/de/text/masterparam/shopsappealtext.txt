@@ -38,7 +38,7 @@
         },
         {
             "key": "10",
-            "value": "<line-height=15>Kraftproben-Feierladen!"
+            "value": "<line-height=15>Spezialitätenladen zur Feier der Kraftprobe!"
         },
         {
             "key": "11",
@@ -55,6 +55,22 @@
         {
             "key": "14",
             "value": "<line-height=15>Laden zur<br>Gildenunterstützung"
+        },
+        {
+            "key": "15",
+            "value": "<line-height=15>Spezialitätenladen<br>zur Feier der Kraftprobe!"
+        },
+        {
+            "key": "16",
+            "value": "<line-height=15>„Sommer 2020“-<br>Kampagnenladen"
+        },
+        {
+            "key": "17",
+            "value": "<line-height=15>FFI-Kollabo endet am 11.8."
+        },
+        {
+            "key": "18",
+            "value": "<line-height=15>„Kapitel 8 veröffentlicht!“-Laden"
         }
     ]
 }

@@ -109,6 +109,30 @@
             "value": "【高難度】修煉之間Lv.2"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "【高難度】修煉之間（黃）C"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "【高難度】修煉之間（黃）B"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "【高難度】修煉之間（黃）A"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "【高難度】修煉之間（緋）C"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "【高難度】修煉之間（緋）B"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "【高難度】修煉之間（緋）A"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "輝石之間（火）Lv.1"
         },
@@ -1101,6 +1125,86 @@
             "value": "遠話裝置的陷阱"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "敵人從何而來1"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "敵人從何而來2"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "蠻族的陷阱"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "決斷之時1"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "決斷之時2"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "暴露了！"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "劍戟之音"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "《堅牢》撤退"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "信任同伴1"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "信任同伴2"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "要留下陰影1"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "要留下陰影2"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "霍倫國王趕往雷歐尼斯"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "薩達利撤退"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "要奪回要塞"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "芬尼斯的援軍1"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "芬尼斯的援軍2"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "《勇壯》與《蒼穹》1"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "《勇壯》與《蒼穹》2"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "芬尼斯國王穆拉加"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "獲得碎片 扎贊"
         },
@@ -1319,6 +1423,14 @@
         {
             "key": "QE_HA_LW_VNLA",
             "value": "獲得碎片 維內拉·芬尼斯"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "獲得碎片 基爾菲"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
+            "value": "獲得碎片 西姆爾"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1557,6 +1669,14 @@
             "value": "泰瑞爾"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "基爾菲"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "西姆爾"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "雅·修特拉"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "奧爾蘭多"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "光之戰士"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "FINAL FANTASY I 戰鬥#1"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "FINAL FANTASY I 戰鬥#2"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "FINAL FANTASY I 戰鬥#3"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "FINAL FANTASY I 戰鬥#4"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "FINAL FANTASY I 戰鬥#5"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "FINAL FANTASY I 戰鬥#1【中級】"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "FINAL FANTASY I 戰鬥#2【中級】"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "FINAL FANTASY I 戰鬥#3【中級】"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "FINAL FANTASY I 戰鬥#4【中級】"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "FINAL FANTASY I 戰鬥#5【中級】"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "FINAL FANTASY I【EX】"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "FINAL FANTASY I【EX】"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "限定困難任務（光之戰士）"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "兵員育成支援任務"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "【高難度】挑戰任務"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "【超高難度】挑戰任務#1"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "【超高難度】挑戰任務#2"
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "為了燃盡生命【EX】"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "公會戰鬥模擬戰"
+            "key": "QE_EV_04_01",
+            "value": "第1話 不請自來之人"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "第2話 師父1"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "第3話 師父2"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "第4話 憧憬"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "第5話 成為武士的道路"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "第6話 魔物巢窟1"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "第7話 魔物巢窟2"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "第8話 魔物巢窟3"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "第9話 試煉之山"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "第10話 為了活下去"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "遙遠的東方【EX1】"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "遙遠的東方【EX2】"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "遙遠的東方【EX1】"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "遙遠的東方【EX2】"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "限定困難任務（基爾菲）"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "武具育成任務（黃金斧）"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "公會戰鬥模擬戰"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "公會戰鬥模擬戰（初級）"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "公會戰鬥模擬戰（中級）"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "公會戰鬥模擬戰（上級）"
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "超高難度　巧克力布丁考驗"
         },
@@ -2145,6 +2405,14 @@
             "value": "四方風精靈戰"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "雙頭巨龍戰"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "迪亞波羅斯戰"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "巧克力布丁共鬥"
         },
@@ -2159,6 +2427,34 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "巧克力布丁共鬥"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "白色棉花糖共鬥"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "白色棉花糖共鬥"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "白色棉花糖共鬥"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "白色棉花糖共鬥"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "FFI聯動紀念共鬥"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "FFI聯動紀念共鬥"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "FFI聯動紀念共鬥"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2297,6 +2593,30 @@
             "value": "【高難度】修煉之間Lv.2"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "【高難度】修煉之間（黃）C"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "【高難度】修煉之間（黃）B"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "【高難度】修煉之間（黃）A"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "【高難度】修煉之間（緋）C"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "【高難度】修煉之間（緋）B"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "【高難度】修煉之間（緋）A"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "新手任務01"
         },
@@ -2365,6 +2685,10 @@
             "value": "荒地"
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": "遺跡"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "鬥技場"
         },
@@ -2374,6 +2698,10 @@
         },
         {
             "key": "QE_GVG_00003",
+            "value": "遺跡"
+        },
+        {
+            "key": "QE_GVG_00004",
             "value": "遺跡"
         },
         {

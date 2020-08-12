@@ -777,6 +777,10 @@
             "value": "<span=0.03>木陰より応じよ翠の精霊<wait=0.35><br><span=0.03>風刃・エアロ剣！<wait=0.5>"
         },
         {
+            "key": "SK_FF4_ROSA_M_2",
+            "value": "<span=0.03>魔道の至聖に智を倣い、我は謳うその真理<wait=0.35><br><span=0.03>至高の光、<wait=0.7><span=0.02>ホーリー！<wait=0.5>"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "<span=0.03>意志の結晶　乱吹きて人の呼吸を奪え<wait=0.35><br><span=0.03>凍れ、<wait=0.7><span=0.02>ブリザラ！<wait=0.5>"
         },
@@ -869,6 +873,10 @@
             "value": "<span=0.03>創造主の名において　禁忌の履行を承認す<wait=0.35><br><span=0.03>破壊せよ、<wait=0.7><span=0.02>アイガイオン！<wait=0.5>"
         },
         {
+            "key": "SK_SMN_DMNW",
+            "value": "<span=0.03>洞に眠りし魔　盗人の帰路の封泥と化さん<wait=0.35><br><span=0.03>迫り来い、<wait=0.7><span=0.02>デモンズウォール！<wait=0.5>"
+        },
+        {
             "key": "SK_SMN_IGNT",
             "value": "<span=0.03>鋼鉄の剣士に殲滅を命ず<wait=0.35><br><span=0.03>出撃せよ、<wait=0.7><span=0.02>鉄巨人！<wait=0.5>"
         },
@@ -923,6 +931,10 @@
         {
             "key": "SK_SMN_BLMN",
             "value": "<span=0.03>血濡れの凶兆　末路の愉悦は蜜の味<wait=0.35><br><span=0.03>宣告せよ、<wait=0.7><span=0.02>ブラッディムーン！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_CHCB_02",
+            "value": "<span=0.03>くがねの羽毛　さんさん輝くおひさまの色<wait=0.35><br><span=0.03>おいで、<wait=0.7><span=0.02>チョコボ！<wait=0.5>"
         },
         {
             "key": "SK_LW_ROD_004_5",

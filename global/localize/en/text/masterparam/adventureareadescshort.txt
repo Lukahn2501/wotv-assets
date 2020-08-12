@@ -39,6 +39,10 @@
         {
             "key": "AD_AREA_SM_01",
             "value": "Get Magicite of all elements for your Espers!"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "FF1 Collaboration Limited Area! Earn Event Medals and more!"
         }
     ]
 }

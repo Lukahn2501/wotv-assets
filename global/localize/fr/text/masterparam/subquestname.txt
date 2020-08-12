@@ -103,6 +103,14 @@
         {
             "key": "SQ_WD_010203_02",
             "value": "Pourquoi ne pas te joindre à une guilde ?"
+        },
+        {
+            "key": "SQ_WD_010204_01",
+            "value": "Montre aux membres de ta guilde ce que tu as dans le ventre !"
+        },
+        {
+            "key": "SQ_WD_010204_02",
+            "value": "Fabrique de l'équipement à l'aide de matériaux et de recettes !"
         }
     ]
 }

@@ -50,7 +50,7 @@
         },
         {
             "key": "013",
-            "value": "In diesem Augenblick stößt Hournes Hauptstreitmacht „Solidus“ zu Fennes’ Kräften. Wie haben keine Zeit zu verlieren."
+            "value": "In diesem Augenblick stößt Hournes Hauptstreitmacht „Solidus“ zu Fennes’ Kräften. Wir haben keine Zeit zu verlieren."
         },
         {
             "key": "014",

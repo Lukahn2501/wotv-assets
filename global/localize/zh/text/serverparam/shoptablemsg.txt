@@ -13,6 +13,14 @@
             "value": "這裡是特殊商店"
         },
         {
+            "key": "Realmoney-0729",
+            "value": "這裡是特殊商店"
+        },
+        {
+            "key": "Begginer-20200317",
+            "value": "新手商店：強化你所獲得的兵員吧！"
+        },
+        {
             "key": "Begginer-20191114",
             "value": "新手商店：強化你所獲得的兵員吧！"
         },
@@ -257,6 +265,54 @@
             "value": "玩家等級60以上"
         },
         {
+            "key": "Normal-20200401_A",
+            "value": "玩家等級1～等級29"
+        },
+        {
+            "key": "Normal-20200401_B",
+            "value": "玩家等級30～等級59"
+        },
+        {
+            "key": "Normal-20200401_C",
+            "value": "玩家等級60以上"
+        },
+        {
+            "key": "Normal-20200408_A",
+            "value": "玩家等級1～等級29"
+        },
+        {
+            "key": "Normal-20200408_B",
+            "value": "玩家等級30～等級59"
+        },
+        {
+            "key": "Normal-20200408_C",
+            "value": "玩家等級60以上"
+        },
+        {
+            "key": "Normal-20200415_A",
+            "value": "玩家等級1～等級29"
+        },
+        {
+            "key": "Normal-20200415_B",
+            "value": "玩家等級30～等級59"
+        },
+        {
+            "key": "Normal-20200415_C",
+            "value": "玩家等級60以上"
+        },
+        {
+            "key": "Normal-20200422_A",
+            "value": "玩家等級1～等級29"
+        },
+        {
+            "key": "Normal-20200422_B",
+            "value": "玩家等級30～等級59"
+        },
+        {
+            "key": "Normal-20200422_C",
+            "value": "玩家等級60以上"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "玩家等級29以下的流動商店"
         },
@@ -497,8 +553,104 @@
             "value": "玩家等級60以上的流動商店"
         },
         {
+            "key": "Guerrilla-20200401A",
+            "value": "玩家等級29以下的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200401B",
+            "value": "玩家等級30～59的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200401C",
+            "value": "玩家等級60以上的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200408A",
+            "value": "玩家等級29以下的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200408B",
+            "value": "玩家等級30～59的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200408C",
+            "value": "玩家等級60以上的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200415A",
+            "value": "玩家等級29以下的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200415B",
+            "value": "玩家等級30～59的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200415C",
+            "value": "玩家等級60以上的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200422A",
+            "value": "玩家等級29以下的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200422B",
+            "value": "玩家等級30～59的流動商店"
+        },
+        {
+            "key": "Guerrilla-20200422C",
+            "value": "玩家等級60以上的流動商店"
+        },
+        {
+            "key": "Limited-gl20200729_A",
+            "value": "強化獲得的兵員與幻兵卡吧！"
+        },
+        {
             "key": "Limited-20191227_A",
             "value": "強化獲得的兵員與幻兵卡吧！"
+        },
+        {
+            "key": "Limited-gl20200812",
+            "value": "劇情第8章公開紀念商店：特別紀念商品販賣中！"
+        },
+        {
+            "key": "Limited-gl20200812_A",
+            "value": "新幻兵卡精選商店：強化你所獲得的兵員與幻兵卡吧！"
+        },
+        {
+            "key": "Limited-gl20200812_B",
+            "value": "精選兵員商店：強化你所獲得的兵員吧！"
+        },
+        {
+            "key": "Limited-gl20200805",
+            "value": "2020夏日活動商店第2階段：特別紀念商品販賣中！"
+        },
+        {
+            "key": "Limited-gl20200805_A",
+            "value": "新兵員精選商店：強化你所獲得的兵員吧！"
+        },
+        {
+            "key": "Limited-gl20200805_B",
+            "value": "共鬥支援精選商店：強化你所獲得的兵員與幻兵卡吧！"
+        },
+        {
+            "key": "Limited-gl20200729",
+            "value": "2020夏日活動商店：特別紀念商品販賣中！"
+        },
+        {
+            "key": "Limited-gl20200729_B",
+            "value": "精選兵員&幻兵卡商店：強化你所獲得的兵員與幻兵卡吧！"
+        },
+        {
+            "key": "Limited-gl20200722",
+            "value": "共鬥紀念特別商店：特別紀念商品販賣中！"
+        },
+        {
+            "key": "Limited-gl20200722_A",
+            "value": "新幻兵卡精選商店：強化你所獲得的兵員與幻兵卡吧！"
+        },
+        {
+            "key": "Limited-gl20200722_B",
+            "value": "精選商店：強化你所獲得的兵員與幻兵卡吧！"
         },
         {
             "key": "Limited-gl20200715",
@@ -669,6 +821,14 @@
             "value": "精選商店：強化你所獲得的兵員與幻兵卡吧！"
         },
         {
+            "key": "Event-Quest_GL20200729",
+            "value": "這裡是FFI聯動活動獎牌交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Summon_GL20200729_C",
+            "value": "這裡是FFI聯動召喚獎牌交換所喲庫啵～"
+        },
+        {
             "key": "Event-FF14_1_20191114",
             "value": "這裡是神典石魔典交換所喲庫啵～"
         },
@@ -681,12 +841,36 @@
             "value": "強化獲得的兵員與幻兵卡吧！"
         },
         {
+            "key": "Event-Quest_20200401",
+            "value": "這裡是【8月】活動獎牌交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Raid_20200309",
+            "value": "這裡是白色棉花糖共鬥獎牌交換所喲庫啵～"
+        },
+        {
             "key": "Event-Quest_20200301",
             "value": "這裡是【7月】活動獎牌交換所喲庫啵～"
         },
         {
             "key": "Event-Tower_20200317",
             "value": "這裡是塔獎牌交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Summon_GL20200812_A",
+            "value": "這裡是【8月】召喚獎牌A交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Summon_GL20200805_A",
+            "value": "這裡是【8月】召喚獎牌A交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Raid_20200207",
+            "value": "這裡是巧克力布丁共鬥獎牌交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Summon_GL20200722_B",
+            "value": "這裡是【7月】召喚獎牌B交換所喲庫啵～"
         },
         {
             "key": "Event-Summon_GL20200715_B",
@@ -699,10 +883,6 @@
         {
             "key": "Event-EV02_1_20200201",
             "value": "這裡是【6月】活動獎牌交換所喲庫啵～"
-        },
-        {
-            "key": "Event-Raid_20200207",
-            "value": "這裡是巧克力布丁共鬥獎牌交換所喲庫啵～"
         },
         {
             "key": "Event-Summon_GL20200624_B",
@@ -974,6 +1154,62 @@
         },
         {
             "key": "Event-Vision_N_gl20200701",
+            "value": "這裡是幻兵獎牌(N)的交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Friend_gl20200805",
+            "value": "這裡是好友獎牌交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Arena_gl20200805",
+            "value": "這裡是鬥技場獎牌交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Match_gl20200805",
+            "value": "這裡是PVP獎牌交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Guild_gl20200805",
+            "value": "這裡是公會獎牌交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Soul_UR_gl20200805",
+            "value": "這裡是靈魂獎牌(UR)交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20200805",
+            "value": "這裡是靈魂獎牌(MR)交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Soul_SR_gl20200805",
+            "value": "這裡是靈魂獎牌(SR)交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Soul_R_gl20200805",
+            "value": "這裡是靈魂獎牌(R)的交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Soul_N_gl20200805",
+            "value": "這裡是靈魂獎牌(N)的交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Vision_UR_gl20200805",
+            "value": "這裡是幻兵獎牌(UR)的交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20200805",
+            "value": "這裡是幻兵獎牌(MR)的交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Vision_SR_gl20200805",
+            "value": "這裡是幻兵獎牌(SR)的交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Vision_R_gl20200805",
+            "value": "這裡是幻兵獎牌(R)的交換所喲庫啵～"
+        },
+        {
+            "key": "Event-Vision_N_gl20200805",
             "value": "這裡是幻兵獎牌(N)的交換所喲庫啵～"
         },
         {
@@ -1518,6 +1754,134 @@
         },
         {
             "key": "Limited-FIRE_2020_3_17",
+            "value": "每日輪替火屬性商店"
+        },
+        {
+            "key": "Limited-WATER_2020_3_25",
+            "value": "每日輪替水屬性商店"
+        },
+        {
+            "key": "Limited-WIND_2020_3_26",
+            "value": "每日輪替風屬性商店"
+        },
+        {
+            "key": "Limited-THUNDER_2020_3_27",
+            "value": "每日輪替雷屬性商店"
+        },
+        {
+            "key": "Limited-SOIL_2020_3_28",
+            "value": "每日輪替土屬性商店"
+        },
+        {
+            "key": "Limited-SHINE_2020_3_29",
+            "value": "每日輪替光屬性商店"
+        },
+        {
+            "key": "Limited-DARK_2020_3_29",
+            "value": "每日輪替暗屬性商店"
+        },
+        {
+            "key": "Limited-ICE_2020_3_23",
+            "value": "每日輪替冰屬性商店"
+        },
+        {
+            "key": "Limited-FIRE_2020_3_24",
+            "value": "每日輪替火屬性商店"
+        },
+        {
+            "key": "Limited-WATER_2020_4",
+            "value": "每日輪替水屬性商店"
+        },
+        {
+            "key": "Limited-WIND_2020_4",
+            "value": "每日輪替風屬性商店"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4",
+            "value": "每日輪替雷屬性商店"
+        },
+        {
+            "key": "Limited-SOIL_2020_4",
+            "value": "每日輪替土屬性商店"
+        },
+        {
+            "key": "Limited-SHINE_2020_4",
+            "value": "每日輪替光屬性商店"
+        },
+        {
+            "key": "Limited-DARK_2020_4",
+            "value": "每日輪替暗屬性商店"
+        },
+        {
+            "key": "Limited-ICE_2020_4",
+            "value": "每日輪替冰屬性商店"
+        },
+        {
+            "key": "Limited-FIRE_2020_4",
+            "value": "每日輪替火屬性商店"
+        },
+        {
+            "key": "Limited-WATER_2020_4_A",
+            "value": "每日輪替水屬性商店"
+        },
+        {
+            "key": "Limited-WIND_2020_4_A",
+            "value": "每日輪替風屬性商店"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_A",
+            "value": "每日輪替雷屬性商店"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_A",
+            "value": "每日輪替土屬性商店"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_A",
+            "value": "每日輪替光屬性商店"
+        },
+        {
+            "key": "Limited-DARK_2020_4_A",
+            "value": "每日輪替暗屬性商店"
+        },
+        {
+            "key": "Limited-ICE_2020_4_A",
+            "value": "每日輪替冰屬性商店"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_A",
+            "value": "每日輪替火屬性商店"
+        },
+        {
+            "key": "Limited-WATER_2020_4_B",
+            "value": "每日輪替水屬性商店"
+        },
+        {
+            "key": "Limited-WIND_2020_4_B",
+            "value": "每日輪替風屬性商店"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_B",
+            "value": "每日輪替雷屬性商店"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_B",
+            "value": "每日輪替土屬性商店"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_B",
+            "value": "每日輪替光屬性商店"
+        },
+        {
+            "key": "Limited-DARK_2020_4_B",
+            "value": "每日輪替暗屬性商店"
+        },
+        {
+            "key": "Limited-ICE_2020_4_B",
+            "value": "每日輪替冰屬性商店"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_B",
             "value": "每日輪替火屬性商店"
         }
     ]

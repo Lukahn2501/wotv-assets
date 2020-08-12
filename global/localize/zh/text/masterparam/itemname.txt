@@ -1041,6 +1041,46 @@
             "value": "暗殺者的記憶·緋"
         },
         {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "光之戰士的記憶·翠"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "光之戰士的記憶·碧"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "光之戰士的記憶·紫"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "光之戰士的記憶·黃"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "光之戰士的記憶·緋"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "魔杖術士的記憶·翠"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "魔杖術士的記憶·碧"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "魔杖術士的記憶·紫"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "魔杖術士的記憶·黃"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "魔杖術士的記憶·緋"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "火之輝石·翠"
         },
@@ -1738,7 +1778,19 @@
         },
         {
             "key": "IT_PI_LW_TREL",
-            "value": "泰瑞爾碎片"
+            "value": "泰瑞爾的碎片"
+        },
+        {
+            "key": "IT_PI_FF1_WROL",
+            "value": "光之戰士的碎片"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "基爾菲的碎片"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "西姆爾的碎片"
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -1995,6 +2047,22 @@
         {
             "key": "IT_SB_AW_OCHU_R3",
             "value": "食腐獸的獸醒石（★3）"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "雙頭巨龍的獸醒石（★2）"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "雙頭巨龍的獸醒石（★3）"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "迪亞波羅斯的獸醒石（★2）"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "迪亞波羅斯的獸醒石（★3）"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2505,6 +2573,14 @@
             "value": "變石戒指的製作配方"
         },
         {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "白金法袍的製作配方"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "光明之鎧的製作配方"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "命之刻印"
         },
@@ -2733,6 +2809,10 @@
             "value": "【7月】召喚獎牌B"
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "【8月】召喚獎牌A"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT聯動活動獎牌"
         },
@@ -2757,8 +2837,24 @@
             "value": "【7月】活動獎牌"
         },
         {
+            "key": "IT_EC_EV04_1",
+            "value": "【8月】活動獎牌"
+        },
+        {
             "key": "IT_EC_RAID_02",
             "value": "巧克力布丁共鬥獎牌"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "白色棉花糖共鬥獎牌"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "FFI聯動活動獎牌"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "FFI聯動召喚獎牌"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2805,6 +2901,10 @@
             "value": "屬性思念的碎片×10選擇召喚券"
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "屬性思念的碎片×200選擇召喚券"
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": "屬性思念的碎片×100選擇召喚券"
         },
@@ -2823,6 +2923,10 @@
         {
             "key": "IT_US_SE_JB_EM_01_01",
             "value": "屬性輝石·翠×30選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "屬性輝石·碧×10選擇召喚券"
         },
         {
             "key": "IT_US_SE_JB_EM_02_02",
@@ -2905,6 +3009,14 @@
             "value": "UR幻兵卡碎片x50選擇召喚券"
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "UR幻兵卡碎片x50選擇召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "UR幻兵卡碎片x50選擇召喚券"
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "推薦UR兵員選擇召喚券"
         },
@@ -2913,12 +3025,24 @@
             "value": "推薦MR兵員選擇召喚券"
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "MR兵員選擇召喚券A"
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
+            "value": "UR兵員碎片×40選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
             "value": "UR兵員碎片×40選擇召喚券"
         },
         {
             "key": "IT_US_G_U_UR_01",
             "value": "確保UR兵員召喚券A"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "確保UR兵員召喚券"
         },
         {
             "key": "IT_US_G_UR_01",
@@ -2977,6 +3101,10 @@
             "value": "覺醒輝源×NN選擇召喚券"
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "覺醒輝源×200選擇召喚券"
+        },
+        {
             "key": "IT_VPI_LW_GLEM",
             "value": "岩壁巨人　石像兵的碎片"
         },
@@ -3030,7 +3158,7 @@
         },
         {
             "key": "IT_VPI_LW_BHMT",
-            "value": "兇猛魔獸　凶惡巨獸的碎片"
+            "value": "狂躁魔獸　凶惡巨獸的碎片"
         },
         {
             "key": "IT_VPI_LW_MABR",
@@ -3207,6 +3335,34 @@
         {
             "key": "IT_VPI_LW_VALE2",
             "value": "帥哥爭奪戰！！的碎片"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "猛攻雙龍　雙頭巨龍的碎片"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "嫉心的魔術師的碎片"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "虛榮的代價的碎片"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "虛偽的契約，真實的靈魂的碎片"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "死亡機器的碎片"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "夢幻魔人　迪亞波羅斯的碎片"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "徒櫻之宴的碎片"
         },
         {
             "key": "IT_VC_EXP_01",

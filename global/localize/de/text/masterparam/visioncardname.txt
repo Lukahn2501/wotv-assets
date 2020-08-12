@@ -65,8 +65,20 @@
             "value": "Tetrasylphid, die Himmlischen Vier der Winde"
         },
         {
+            "key": "VC_LW_THDG",
+            "value": "Zweiköpfiger Drache, Schlangengleiches Zwillingsgrauen"
+        },
+        {
             "key": "VC_MBFF_MV1",
             "value": "Mobius der Verzweiflung und der Wahrheit"
+        },
+        {
+            "key": "VC_FF01_DMAC",
+            "value": "Todesmaschine"
+        },
+        {
+            "key": "VC_LW_CBVPARTY1",
+            "value": "Flüchtiges Festmahl unter Blüten"
         },
         {
             "key": "VC_LW_IGNT",
@@ -135,6 +147,18 @@
         {
             "key": "VC_MBFF_MV2",
             "value": "Mobius der Hoffnung und der Illusion"
+        },
+        {
+            "key": "VC_LW_ADLD",
+            "value": "Neidgetriebene Magierin"
+        },
+        {
+            "key": "VC_LW_WHITEDAY1",
+            "value": "Charme hat seinen Preis"
+        },
+        {
+            "key": "VC_LW_VNLA2",
+            "value": "Falsche Gelübde, ungetäuschte Herzen"
         },
         {
             "key": "VC_LW_CACT",
@@ -231,6 +255,10 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "Fernblickspiegel"
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "Diabolos, Trügerischer Nachtmahr"
         },
         {
             "key": "VC_EXP_01",

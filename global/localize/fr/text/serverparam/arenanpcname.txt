@@ -26,11 +26,11 @@
         },
         {
             "key": "ARENA_NPC07",
-            "value": "Mr White"
+            "value": "Blanc"
         },
         {
             "key": "ARENA_NPC08",
-            "value": "Mr Black"
+            "value": "Noir"
         },
         {
             "key": "ARENA_NPC09",
@@ -54,7 +54,7 @@
         },
         {
             "key": "ARENA_NPC14",
-            "value": "Mr Green"
+            "value": "Vert"
         },
         {
             "key": "ARENA_NPC15",
@@ -66,11 +66,11 @@
         },
         {
             "key": "ARENA_NPC17",
-            "value": "Mr Yellow"
+            "value": "Jaune"
         },
         {
             "key": "ARENA_NPC18",
-            "value": "Mr Orange"
+            "value": "Orange"
         },
         {
             "key": "ARENA_NPC19",

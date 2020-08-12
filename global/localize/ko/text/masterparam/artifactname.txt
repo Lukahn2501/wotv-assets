@@ -1889,6 +1889,18 @@
             "value": "뱀 투사의 관"
         },
         {
+            "key": "AF_ACC_FF1_WROL_1",
+            "value": "빛의 건틀릿"
+        },
+        {
+            "key": "AF_ACC_LW_QILF_1",
+            "value": "마장술사의 머리장식"
+        },
+        {
+            "key": "AF_KAT_LW_SIMR_1",
+            "value": "멸각의 대태도"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "레온 소드"
         },
@@ -1977,6 +1989,10 @@
             "value": "어쌔신 크리스"
         },
         {
+            "key": "AF_SWO_FF1_WROL_2",
+            "value": "빛의 검"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "알렉산드라이트 반지"
         },
@@ -2003,6 +2019,58 @@
         {
             "key": "AF_LW_BSW_011",
             "value": "진홍의 군도"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "백금 로브"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "백금 로브+1"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "백금 로브+2"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "백금 로브+3"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "백금 로브+4"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "백금 로브+5"
+        },
+        {
+            "key": "AF_FF1_ARM_002",
+            "value": "빛의 갑옷"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "빛의 갑옷+1"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "빛의 갑옷+2"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "빛의 갑옷+3"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "빛의 갑옷+4"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "빛의 갑옷+5"
+        },
+        {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "환영 지팡이"
         }
     ]
 }

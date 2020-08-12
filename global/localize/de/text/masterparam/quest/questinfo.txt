@@ -109,6 +109,30 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "Informationen zum Auftrag<br>Keine"
         },
@@ -1101,6 +1125,86 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 72, Jobstufe 12"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 63, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 64, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 64, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 65, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 66, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 66, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 67, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 68, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 68, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 73, Jobstufe 12<br>Tipp: Nimm das Pulverfass ins Visier, um die Gegner wegzufegen!"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 64, Jobstufe 10"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 65, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 65, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 66, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 67, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 67, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 68, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 69, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 69, Jobstufe 11"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 74, Jobstufe 12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 17, Jobstufe 3<br>Freischaltbedingungen: Einheit „Zazan“ im Besitz"
         },
@@ -1319,6 +1423,14 @@
         {
             "key": "QE_HA_LW_VNLA",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 63, Jobstufe 10<br>Freischaltbedingungen: Einheit „Vinera Fennes“ im Besitz"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 64, Jobstufe 10<br>Freischaltbedingungen: Einheit „Kilphe“ im Besitz"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 64, Jobstufe 10<br>Freischaltbedingungen: Einheit „Seymore“ im Besitz"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1557,6 +1669,14 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Tyrrel“ ist mindestens auf Stufe 40"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Kilphe“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Seymore“ ist mindestens auf Stufe 40"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Y’shtola“ ist mindestens auf Stufe 40"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Orlandeau“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Krieger des Lichts“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "Informationen zum Auftrag<br>Freischaltbedingungen: Einheit „Krieger des Lichts“ im Besitz"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 1, Jobstufe 1"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "Informationen zum Auftrag<br>Tipp 1: Gegner, die physische Angriffe einsetzen, verfügen über ABW-Durchbohreigenschaften …<br>Tipp 2: Viele Gegner verfügen über eine hohe ABW, deswegen sind Angriffe, die MAG-abhängigen Schaden austeilen, zu empfehlen."
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "Informationen zum Auftrag<br>Tipp 1: Gegner, die physische Angriffe einsetzen, verfügen über ABW-Durchbohreigenschaften …<br>Tipp 2: Viele Gegner verfügen über eine hohe ABW, deswegen sind Angriffe, die MAG-abhängigen Schaden austeilen, zu empfehlen."
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "Informationen zum Auftrag<br>Tipp 1: Gegner, die physische Angriffe einsetzen, verfügen über ABW-Durchbohreigenschaften …<br>Tipp 2: Viele Gegner verfügen über eine hohe ABW, deswegen sind Angriffe, die MAG-abhängigen Schaden austeilen, zu empfehlen.<br>* Die Gegner in diesem Auftrag verwandeln sich nicht in Kristalle."
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "Informationen zum Auftrag<br>・Dieser Auftrag ist ein Gildenkampf-Testlauf.<br>・Schicke drei Einheiten in den Kampf und aktiviere den Auto-Kampf, um echte Kämpfe nachzustellen."
+            "key": "QE_EV_04_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "Informationen zum Auftrag<br>Freischaltbedingungen: Einheit „Kilphe“ im Besitz"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 9"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Informationen zum Auftrag<br>・Dieser Auftrag ist ein Gildenkampf-Testlauf.<br>・Schicke drei Einheiten mit Auto-Kampf in die Schlacht, um echte Kämpfe nachzustellen."
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "Informationen zum Auftrag<br>・Dieser Auftrag ist ein Gildenkampf-Testlauf.<br>・Schicke drei Einheiten mit Auto-Kampf in die Schlacht, um echte Kämpfe nachzustellen."
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "Informationen zum Auftrag<br>・Dieser Auftrag ist ein Gildenkampf-Testlauf.<br>・Schicke drei Einheiten mit Auto-Kampf in die Schlacht, um echte Kämpfe nachzustellen."
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "Informationen zum Auftrag<br>・Dieser Auftrag ist ein Gildenkampf-Testlauf.<br>・Schicke drei Einheiten mit Auto-Kampf in die Schlacht, um echte Kämpfe nachzustellen."
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "Informationen zum Auftrag<br>Tipp: Lass dich nicht vom Schokopudding betören ..."
         },
@@ -2145,6 +2405,14 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "Informationen zum Auftrag<br>Keine"
         },
@@ -2158,6 +2426,34 @@
         },
         {
             "key": "QE_RAID_EV_06_04",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
@@ -2297,6 +2593,30 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "Es gibt unterschiedliche Angriffsarten und Angriffsresistenzen. Attackiere Einheiten, die gegenüber der von deiner Einheit verwendeten Angriffsart nur über geringe Widerstandskraft verfügen."
         },
@@ -2365,6 +2685,10 @@
             "value": "Reichweite +1"
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": "Magieangriff-Erhöhung"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "Keine"
         },
@@ -2375,6 +2699,10 @@
         {
             "key": "QE_GVG_00003",
             "value": "Dunkelangriff-Erhöhung"
+        },
+        {
+            "key": "QE_GVG_00004",
+            "value": "MAG-Erhöhung"
         },
         {
             "key": "QE_PVP_FRE_0001",

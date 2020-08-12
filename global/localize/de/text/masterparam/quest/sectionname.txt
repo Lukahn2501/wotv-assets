@@ -81,6 +81,14 @@
             "value": "Teil 1, Kapitel 7, Szene 2"
         },
         {
+            "key": "SE_ST_010703",
+            "value": "Teil 1, Kapitel 7, Szene 3"
+        },
+        {
+            "key": "SE_ST_010801",
+            "value": "Teil 1, Kapitel 8, Szene 1"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "Weiter Wald des Löwen"
         },
@@ -133,6 +141,10 @@
             "value": "Schrein des Weißen Wolfs"
         },
         {
+            "key": "SE_WD_010204",
+            "value": "Dorf Warmah"
+        },
+        {
             "key": "SE_SB_01",
             "value": "Höhle des Ungetüms"
         },
@@ -166,11 +178,11 @@
         },
         {
             "key": "SE_EV_VCEXP_01",
-            "value": "Belohnungsauftrag „Wachstumsei“"
+            "value": "Wachstumsei-Belohnungsauftrag"
         },
         {
             "key": "SE_EV_WAEXP_01",
-            "value": "Belohnungsauftrag „Kessel“"
+            "value": "Pott-Belohnungsauftrag"
         },
         {
             "key": "SE_EV_AW_FIRE",
@@ -402,15 +414,15 @@
         },
         {
             "key": "SE_EV_FFT_01",
-            "value": "FINAL FANTASY TACTICS-Auftrag"
+            "value": "„FINAL FANTASY TACTICS“-Auftrag"
         },
         {
             "key": "SE_EV_FFT_01_EX",
-            "value": "FINAL FANTASY TACTICS-Auftrag [EX]"
+            "value": "„FINAL FANTASY TACTICS-Auftrag“ [EX]"
         },
         {
             "key": "SE_MU_FFT_01_EX",
-            "value": "FINAL FANTASY TACTICS-Auftrag [EX]"
+            "value": "„FINAL FANTASY TACTICS-Auftrag“ [EX]"
         },
         {
             "key": "SE_EV_ART_SCR_00",
@@ -458,15 +470,15 @@
         },
         {
             "key": "SE_EV_BEGN_2001",
-            "value": "Einheitentraining - Unterstützungsauftrag"
+            "value": "Einheitentraining-Unterstützungsauftrag"
         },
         {
             "key": "SE_EV_RAIN_01",
-            "value": "Limitierter Schwieriger Auftrag („Rain“)"
+            "value": "Limitierter Schwieriger Auftrag „Rain“"
         },
         {
             "key": "SE_EV_VKTR_01",
-            "value": "Limitierter Schwieriger Auftrag („Viktora“)"
+            "value": "Limitierter Schwieriger Auftrag „Viktora“"
         },
         {
             "key": "SE_EV_THLA",
@@ -490,11 +502,67 @@
         },
         {
             "key": "SE_EV_VNLA_01",
-            "value": "Limitierter Schwieriger Auftrag („Vinera Fennes“)"
+            "value": "Limitierter Schwieriger Auftrag „Vinera Fennes“"
         },
         {
             "key": "SE_EV_NEWMAP_001",
             "value": "Gilden-Probekampf"
+        },
+        {
+            "key": "SE_EV_FF1_01",
+            "value": "„FINAL FANTASY I“-Auftrag"
+        },
+        {
+            "key": "SE_EV_FF1_01_EX",
+            "value": "„FINAL FANTASY I“-Auftrag [EX]"
+        },
+        {
+            "key": "SE_MU_FF1_01_EX",
+            "value": "„FINAL FANTASY I“-Auftrag [EX]"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "Limitierter Schwieriger Auftrag „Krieger des Lichts“"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "Limitierter Schwieriger Auftrag „Kilphe“"
+        },
+        {
+            "key": "SE_EV_04_01",
+            "value": "Fern im Osten"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "Fern im Osten [EX]"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "[Multi] Fern im Osten [EX]"
+        },
+        {
+            "key": "SE_EV_NEWMAP_002",
+            "value": "Gilden-Probekampf"
+        },
+        {
+            "key": "SE_CHAL_01",
+            "value": "Herausforderungsauftrag"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_AW_HIGH_03",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_03",
+            "value": ""
         }
     ]
 }

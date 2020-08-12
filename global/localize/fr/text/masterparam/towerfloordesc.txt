@@ -18,7 +18,7 @@
         },
         {
             "key": "TW_01_005",
-            "value": "Unités conseillées : unités d'eau et de lumière, attaquants magiques"
+            "value": "Unités conseillées : unités d'eau et de foudre, attaquants magiques"
         },
         {
             "key": "TW_01_006",
@@ -66,7 +66,7 @@
         },
         {
             "key": "TW_01_016",
-            "value": "Unités conseillées : unités de lumière"
+            "value": "Unités conseillées : unités de foudre"
         },
         {
             "key": "TW_01_017",

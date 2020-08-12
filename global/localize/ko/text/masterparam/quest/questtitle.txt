@@ -109,6 +109,30 @@
             "value": "[고난도] 수련의 방 레벨 2"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "[고난도] 수련의 방(노랑) C"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "[고난도] 수련의 방(노랑) B"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "[고난도] 수련의 방(노랑) A"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "[고난도] 수련의 방(빨강) C"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "[고난도] 수련의 방(빨강) B"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "[고난도] 수련의 방(빨강) A"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "휘석의 방(불) 레벨 1"
         },
@@ -1101,6 +1125,86 @@
             "value": "통화 장치의 함정"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "적은 어디에서 오는가 1"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "적은 어디에서 오는가 2"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "야만족의 함정"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "결단의 시간 1"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "결단의 시간 2"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "들켰다!"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "검이 부딪히는 소리"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": " '견뢰' 철수"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "동료를 믿고 1"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "동료를 믿고 2"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "자국을 남겨야지 1"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "자국을 남겨야지 2"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "호른 왕, 레오니스로"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "사달리 후퇴하다"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "요새를 탈환하러"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "페네스의 지원군 1"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "페네스의 지원군 2"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": " '용장'과 '창궁' 1"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": " '용장'과 '창궁' 2"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "페네스의 왕 무라가"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "조각 획득: 자잔"
         },
@@ -1319,6 +1423,14 @@
         {
             "key": "QE_HA_LW_VNLA",
             "value": "조각 획득: 비네라 페네스"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "조각 획득: 키르페"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
+            "value": "조각 획득: 시무르"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1557,6 +1669,14 @@
             "value": "티렐"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "키르페"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "시무르"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "야슈톨라"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "오를란두"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "빛의 전사"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "FINAL FANTASY I 전투 #1"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "FINAL FANTASY I 전투 #2"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "FINAL FANTASY I 전투 #3"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "FINAL FANTASY I 전투 #4"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "FINAL FANTASY I 전투 #5"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "FINAL FANTASY I 전투 #1 [중급]"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "FINAL FANTASY I 전투 #2 [중급]"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "FINAL FANTASY I 전투 #3 [중급]"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "FINAL FANTASY I 전투 #4 [중급]"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "FINAL FANTASY I 전투 #5 [중급]"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "한정 하드 퀘스트(빛의 전사)"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "유닛 육성 응원 퀘스트"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "[고난도] 도전 퀘스트"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "[초고난도] 도전 퀘스트 #1"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "[초고난도] 도전 퀘스트 #2"
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "생명을 불사르기 위해 [EX]"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "길드 전투 모의전"
+            "key": "QE_EV_04_01",
+            "value": "1화 초대받지 않은 손님"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "2화 스승 1"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "3화 스승 2"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "4화 동경"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "5화 사무라이를 향한 길"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "6화 마물의 소굴 1"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "7화 마물의 소굴 2"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "8화 마물의 소굴 3"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "9화 시련의 산"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "10화 살기 위해"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "머나먼 동방 [EX 1]"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "머나먼 동방 [EX 2]"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "머나먼 동방 [EX 1]"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "머나먼 동방 [EX 2]"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "한정 하드 퀘스트(키르페)"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "장비 육성 퀘스트(황금 도끼)"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "길드 전투 모의전"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "길드 전투 모의전(초급)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "길드 전투 모의전(중급)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "길드 전투 모의전(상급)"
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "초고난도 초코 푸딩 도전"
         },
@@ -2145,6 +2405,14 @@
             "value": "테트라 실피드 전투"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "투헤드 드래곤 전투"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "디아볼로스 전투"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "초코 푸딩 레이드"
         },
@@ -2159,6 +2427,34 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "초코 푸딩 레이드"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "하얀 마시멜로 레이드"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "하얀 마시멜로 레이드"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "하얀 마시멜로 레이드"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "하얀 마시멜로 레이드"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "FFI 콜라보 기념 레이드"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "FFI 콜라보 기념 레이드"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "FFI 콜라보 기념 레이드"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2297,6 +2593,30 @@
             "value": "[고난도] 수련의 방 레벨 2"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "[고난도] 수련의 방(노랑) C"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "[고난도] 수련의 방(노랑) B"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "[고난도] 수련의 방(노랑) A"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "[고난도] 수련의 방(빨강) C"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "[고난도] 수련의 방(빨강) B"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "[고난도] 수련의 방(빨강) A"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "초보자 퀘스트 01"
         },
@@ -2365,6 +2685,10 @@
             "value": "황야"
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": "유적"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "투기장"
         },
@@ -2374,6 +2698,10 @@
         },
         {
             "key": "QE_GVG_00003",
+            "value": "유적"
+        },
+        {
+            "key": "QE_GVG_00004",
             "value": "유적"
         },
         {

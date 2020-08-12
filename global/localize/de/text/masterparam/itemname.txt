@@ -1041,6 +1041,46 @@
             "value": "Erinnerungen des Assassinen (Rot)"
         },
         {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "Erinnerungen des Kriegers des Lichts (Grün)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "Erinnerungen des Kriegers des Lichts (Blau)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "Erinnerungen des Kriegers des Lichts (Violett)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "Erinnerungen des Kriegers des Lichts (Gelb)"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "Erinnerungen des Kriegers des Lichts (Rot)"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "Erinnerungen des Magiers (Grün)"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "Erinnerungen des Magiers (Blau)"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "Erinnerungen des Magiers (Violett)"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "Erinnerungen des Magiers (Gelb)"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "Erinnerungen des Magiers (Rot)"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Feuer-Alkrist (Grün)"
         },
@@ -1741,6 +1781,18 @@
             "value": "„Tyrrel“-Einheitenfragment"
         },
         {
+            "key": "IT_PI_FF1_WROL",
+            "value": "„Krieger des Lichts“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "„Kilphe“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "„Seymore“-Einheitenfragment"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Roter Maginit (S)"
         },
@@ -1995,6 +2047,22 @@
         {
             "key": "IT_SB_AW_OCHU_R3",
             "value": "Küsschens Erweckungsstein (3★)"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "Erweckungsstein des Zweiköpfigen Drachen (2★)"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "Erweckungsstein des Zweiköpfigen Drachen (3★)"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "Diabolos‘ Erweckungsstein (2★)"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "Diabolos‘ Erweckungsstein (3★)"
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2505,6 +2573,14 @@
             "value": "[Anleitung] Alexandritring"
         },
         {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "[Anleitung] Platinrobe"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "[Anleitung] Rüstung des Lichts"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Siegel des Lebens"
         },
@@ -2574,15 +2650,15 @@
         },
         {
             "key": "IT_WA_EXP_01",
-            "value": "Kleiner Pott der Rüstung"
+            "value": "Kleiner Rüstungs-Pott"
         },
         {
             "key": "IT_WA_EXP_02",
-            "value": "Pott der Rüstung"
+            "value": "Rüstungs-Pott"
         },
         {
             "key": "IT_WA_EXP_03",
-            "value": "Königlicher Pott der Rüstung"
+            "value": "Königlicher Rüstungs-Pott"
         },
         {
             "key": "IT_AF_RESET",
@@ -2733,6 +2809,10 @@
             "value": "Juli-Beschwörungsmedaille B"
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "August-Beschwörungsmedaille A"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT-Eventmedaille"
         },
@@ -2757,8 +2837,24 @@
             "value": "Juli-Eventmedaille"
         },
         {
+            "key": "IT_EC_EV04_1",
+            "value": "August-Eventmedaille"
+        },
+        {
             "key": "IT_EC_RAID_02",
             "value": "Schokopudding-Kraftprobenmedaille"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "„Weißes Marshmallow“-Kraftprobenmedaille"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "FFI-Eventmedaille"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "FFI-Beschwörungsmedaille"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2805,6 +2901,10 @@
             "value": "„Auswählbares Elementgedankenfragment x10“-Beschwörungsticket"
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "„Auswählbares Elementgedankenfragment x200“-Beschwörungsticket"
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": "„Auswählbares Elementgedankenfragment x100“-Beschwörungsticket"
         },
@@ -2823,6 +2923,10 @@
         {
             "key": "IT_US_SE_JB_EM_01_01",
             "value": "„Auswählbarer Elementalkrist (Grün) x30“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "„Auswählbarer Elementalkrist (Blau) x10“-Beschwörungsticket"
         },
         {
             "key": "IT_US_SE_JB_EM_02_02",
@@ -2905,6 +3009,14 @@
             "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "„Auswählbare empfohlene [UR]-Einheit“-Beschwörungsticket A"
         },
@@ -2913,12 +3025,24 @@
             "value": "„Auswählbare empfohlene [MR]-Einheit“-Beschwörungsticket"
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "„Auswählbare [MR]-Einheit“-Beschwörungsticket A"
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
+            "value": "„Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
             "value": "„Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket"
         },
         {
             "key": "IT_US_G_U_UR_01",
             "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket"
         },
         {
             "key": "IT_US_G_UR_01",
@@ -2975,6 +3099,10 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "„Auswählbares Erweckungsprisma xNN“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "„Auswählbares Erweckungsprisma x200“-Beschwörungsticket"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3207,6 +3335,34 @@
         {
             "key": "IT_VPI_LW_VALE2",
             "value": "„Kampf um den Angebeteten“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "„Zweiköpfiger Drache, Schlangengleiches Zwillingsgrauen“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "„Neidgetriebene Magierin“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "„Charme hat seinen Preis“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "„Falsche Gelübde, ungetäuschte Herzen“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "„Todesmaschine“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "„Diabolos, Trügerischer Nachtmahr“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "„Flüchtiges Festmahl unter Blüten“-Visionskartenfragment"
         },
         {
             "key": "IT_VC_EXP_01",

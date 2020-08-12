@@ -426,7 +426,7 @@
         },
         {
             "key": "RAID_SKIP_DESC",
-            "value": "Appuyer sur « Continuer » pour le boss de raid passera la cinématique qui se lance à la fin du Raid."
+            "value": "Appuyer sur « Continuer » pour le boss de raid passera la cinématique qui se lance à la fin du combat en cours."
         },
         {
             "key": "RAID_HELP",

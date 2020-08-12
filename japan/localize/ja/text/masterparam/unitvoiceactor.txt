@@ -314,7 +314,7 @@
         },
         {
             "key": "UN_LW_P_SCAL",
-            "value": "－"
+            "value": "高梨謙吾"
         },
         {
             "key": "UN_LW_P_MRAL",
@@ -326,7 +326,7 @@
         },
         {
             "key": "UN_LW_P_HWLT",
-            "value": "－"
+            "value": "興津和幸"
         },
         {
             "key": "UN_LW_P_CHEL",
@@ -338,6 +338,18 @@
         },
         {
             "key": "UN_LW_P_TITU",
+            "value": "－"
+        },
+        {
+            "key": "UN_FF4_P_CECL",
+            "value": "－"
+        },
+        {
+            "key": "UN_FF4_P_ROSA",
+            "value": "－"
+        },
+        {
+            "key": "UN_FF4_P_KAIN",
             "value": "－"
         },
         {

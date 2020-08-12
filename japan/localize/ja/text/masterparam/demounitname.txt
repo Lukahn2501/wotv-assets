@@ -513,6 +513,18 @@
             "value": "ゴーレム"
         },
         {
+            "key": "DU_LW_MRGE",
+            "value": "ムラガ"
+        },
+        {
+            "key": "DU_LW_SNAK",
+            "value": "魔蛇"
+        },
+        {
+            "key": "DU_LW_LSNK",
+            "value": "魔毒大蛇"
+        },
+        {
             "key": "DU_LW_IFRT",
             "value": "イフリート"
         }

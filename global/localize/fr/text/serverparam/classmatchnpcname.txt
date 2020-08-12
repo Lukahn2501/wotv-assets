@@ -26,11 +26,11 @@
         },
         {
             "key": "CM_NPC07",
-            "value": "Mr White"
+            "value": "Blanc"
         },
         {
             "key": "CM_NPC08",
-            "value": "Mr Black"
+            "value": "Noir"
         },
         {
             "key": "CM_NPC09",
@@ -54,7 +54,7 @@
         },
         {
             "key": "CM_NPC14",
-            "value": "Mr Green"
+            "value": "Vert"
         },
         {
             "key": "CM_NPC15",
@@ -66,11 +66,11 @@
         },
         {
             "key": "CM_NPC17",
-            "value": "Mr Yellow"
+            "value": "Jaune"
         },
         {
             "key": "CM_NPC18",
-            "value": "Mr Orange"
+            "value": "Orange"
         },
         {
             "key": "CM_NPC19",

@@ -6,7 +6,7 @@
         },
         {
             "key": "HOURN",
-            "value": "Hourne est un vaste pays situé à l'ouest du royaume de Leonis. Soutenu par ses deux enfants, le prince Dario et la princesse Machalie, le roi Rob dirige « Solidus », la première division du royaume, crainte par tous les pays voisins. L'entente avec Leonis est cordiale, mais les relations avec Wezett semblent connaître quelques tensions."
+            "value": "Hourne est un vaste pays situé à l'ouest du royaume de Leonis. Soutenu par ses deux enfants, le prince Dario et la princesse Machalie, le roi Rob dirige « Solidus », la première division du royaume, crainte par tous les pays voisins. L'entente avec Leonis est cordiale, mais les relations avec Wezett semblent connaître quelques tensions."
         },
         {
             "key": "FENICE",
@@ -14,19 +14,19 @@
         },
         {
             "key": "WEZETT",
-            "value": "Un vaste pays situé à l'extrémité orientale d'Ardora. Dirigé par le roi Khory, le royaume de Wezett est recouvert toute l'année d'un manteau de neige. La princesse illégitime, Graziella, en est la seule héritière. Suite à la rébellion de cette dernière, le royaume est actuellement en état de guerre civile."
+            "value": "Un vaste pays situé à l'extrémité orientale d'Ardra. Dirigé par le roi Khory, le royaume de Wezett est recouvert toute l'année d'un manteau de neige. La princesse illégitime, Graziella, en est la seule héritière. Suite à la rébellion de cette dernière, le royaume est actuellement en état de guerre civile."
         },
         {
             "key": "CRYSTALFAITH",
-            "value": "Un mouvement religieux fondé par Sadali. Son principal lieu de culte est la cathédrale Dynverk, située non loin des frontières de Rundall et de Hourne. C'est à cet endroit que sont gardés les fragments de cristal trouvés par les fidèles. Les grandes puissances d'Ardra s'inquiètent de voir de nombreux et puissants moines guerriers venir grossir les rangs de l'Église."
+            "value": "Un mouvement religieux fondé par Sadali. Son principal lieu de culte est la Cathédrale Dynverk, située non loin des frontières de Rundall et de Hourne. C'est à cet endroit que sont gardés les fragments de cristal trouvés par les fidèles. Les grandes puissances d'Ardra s'inquiètent de voir de nombreux et puissants moines guerriers venir grossir les rangs de l'Église."
         },
         {
             "key": "ALLYARE",
-            "value": "Situé loin à l'ouest de Leonis, ce palais céleste serait construit au-dessus d'une gigantesque cascade surnommée « La chute », qui divise le continent d'Ardora en deux. On dit qu'Ailes d'acier lui-même serait venu protéger la déesse éthérée dans son sanctuaire, mais nul ne sait si cet événement s'est réellement produit."
+            "value": "Situé loin à l'ouest de Leonis, ce palais céleste serait construit au-dessus d'une gigantesque cascade surnommée « La chute », qui divise le continent d'Ardra en deux. On dit qu'Ailes d'acier lui-même serait venu protéger la déesse éthérée dans son sanctuaire, mais nul ne sait si cet événement s'est réellement produit."
         },
         {
             "key": "RUNDALL",
-            "value": "Un puissant royaume militaire occidental dirigé par le roi Jayden. Rundall devint le plus grand des royaumes après avoir conquis son voisin, le royaume de Heindler, jusqu'alors gouverné par Oberon, un ami d'enfance du roi Jayden. Au prétexte de vouloir unifier Ardra, Rundall a maintenant les yeux, et son armée, tournés vers Hourne."
+            "value": "Un puissant royaume militaire occidental dirigé par le roi Jayden. Rundall devint le plus grand des royaumes après avoir conquis son voisin, le royaume de Heindler, jusqu'alors gouverné par Obéron, un ami d'enfance du roi Jayden. Au prétexte de vouloir unifier Ardra, Rundall a maintenant les yeux, et son armée, tournés vers Hourne."
         },
         {
             "key": "CYGA",
@@ -38,11 +38,11 @@
         },
         {
             "key": "OWIS",
-            "value": "Au nord de Leonis, la reine Lucielle règne sur les derniers instants du royaume d'Ovis. En effet, après une tentative avortée de se placer sous la protection du roi Oberon de Heindler, il est sur le point de se faire engloutir par le royaume de Rundall au nom d'une Ardora unifiée."
+            "value": "Au nord de Leonis, la reine Lucielle règne sur les derniers instants du royaume d'Ovis. En effet, après une tentative avortée de se placer sous la protection du roi Obéron de Heindler, il est sur le point de se faire engloutir par le royaume de Rundall au nom d'une Ardra unifiée."
         },
         {
             "key": "HYNDRA",
-            "value": "Un royaume dirigé par Oberon, l'ami d'enfance du roi Jayden de Rundall. Afin de réaliser son rêve d'unification d'Ardra, Rundall annexa le royaume de Heindler, s'aliénant ainsi une grande partie de ses habitants. "
+            "value": "Un royaume dirigé par Obéron, l'ami d'enfance du roi Jayden de Rundall. Afin de réaliser son rêve d'unification d'Ardra, Rundall annexa le royaume de Heindler, s'aliénant ainsi une grande partie de ses habitants."
         },
         {
             "key": "GOGA",

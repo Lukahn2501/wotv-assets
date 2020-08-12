@@ -50,7 +50,23 @@
         },
         {
             "key": "13",
-            "value": "<space=7>신규 유닛<br>픽업 중!"
+            "value": "<space=7>신규 유닛<br>픽업!"
+        },
+        {
+            "key": "14",
+            "value": "<space=7>신규 비전 카드<br>픽업!"
+        },
+        {
+            "key": "15",
+            "value": "<space=7>FFI 콜라보<br>소환 진행 중!"
+        },
+        {
+            "key": "16",
+            "value": "<space=7>신규 유닛<br>픽업!"
+        },
+        {
+            "key": "17",
+            "value": "<space=7>신규 비전 카드<br>픽업!"
         }
     ]
 }

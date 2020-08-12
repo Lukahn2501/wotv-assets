@@ -5,6 +5,10 @@
             "value": "Einsteiger-Anmeldebonus"
         },
         {
+            "key": "LB_BEGINNER_002",
+            "value": "Einsteiger-Anmeldebonus"
+        },
+        {
             "key": "LB_TOTAL_001",
             "value": "Kumulativer Anmeldebonus"
         },
@@ -27,6 +31,10 @@
         {
             "key": "LB_202007",
             "value": "Juli-Anmeldebonus"
+        },
+        {
+            "key": "LB_202008",
+            "value": "August-Anmeldebonus"
         },
         {
             "key": "LB_LIMIT_GL_0001",
@@ -103,6 +111,22 @@
         {
             "key": "LB_LIMIT_GL0014",
             "value": "„FF EXVIUS Universe“: Meilenstein-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0015",
+            "value": "Anmeldebonus zur Feier der Kraftprobe"
+        },
+        {
+            "key": "LB_LIMIT_GL0016",
+            "value": "FFI-Kollabo-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0017",
+            "value": "FFI-Kollabo-Anmeldebonus Teil II"
+        },
+        {
+            "key": "LB_LIMIT_GL0018",
+            "value": "„Kapitel 8 veröffentlicht!“-Anmeldebonus"
         }
     ]
 }

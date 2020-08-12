@@ -109,6 +109,30 @@
             "value": "Quest Information<br>None"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "Quest Information<br>None"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "Quest Information<br>None"
         },
@@ -1101,6 +1125,86 @@
             "value": "Quest Information<br>Recommended: Unit Lv. 72, Job Lv. 12"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "Quest Information<br>Recommended: Unit Lv. 63, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "Quest Information<br>Recommended: Unit Lv. 64, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "Quest Information<br>Recommended: Unit Lv. 64, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "Quest Information<br>Recommended: Unit Lv. 65, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "Quest Information<br>Recommended: Unit Lv. 66, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "Quest Information<br>Recommended: Unit Lv. 66, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "Quest Information<br>Recommended: Unit Lv. 68, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "Quest Information<br>Recommended: Unit Lv. 68, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "Quest Information<br>Recommended: Unit Lv. 73, Job Lv. 12<br>Hint: Aim for the powder keg to send enemies flying!"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "Quest Information<br>Recommended: Unit Lv. 64, Job Lv. 10"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "Quest Information<br>Recommended: Unit Lv. 65, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "Quest Information<br>Recommended: Unit Lv. 65, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "Quest Information<br>Recommended: Unit Lv. 66, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "Quest Information<br>Recommended: Unit Lv. 68, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "Quest Information<br>Recommended: Unit Lv. 69, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "Quest Information<br>Recommended: Unit Lv. 69, Job Lv. 11"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Quest Information<br>Recommended: Unit Lv. 74, Job Lv. 12"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Quest Information<br>Recommended: Unit Lv. 17, Job Lv. 3<br>Conditions to Unlock: Acquire Unit [Zazan]"
         },
@@ -1319,6 +1423,14 @@
         {
             "key": "QE_HA_LW_VNLA",
             "value": "Quest Information<br>Recommended: Unit Lv. 63, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Vinera Fennes]"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "Quest Information<br>Recommended: Unit Lv. 64, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Kilphe]"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
+            "value": "Quest Information<br>Recommended: Unit Lv. 64, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Seymore]"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1557,6 +1669,14 @@
             "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Tyrrell] is at least Lv. 40"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Kilphe] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Seymore] is at least Lv. 40"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Y'shtola] is at least Lv. 40"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Orlandeau] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Warrior of Light] is at least Lv. 40"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "Quest Information<br>Conditions to Unlock: Acquire Unit [Warrior of Light]"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "Quest Information<br>Recommended: Unit Lv. 1, Job Lv. 1"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "Quest Information<br>Hint 1: Enemies using physical attacks have DEF Piercing abilities...<br>Hint 2: Many enemies have high DEF, so magic attacks that deal damage depending on the caster's MAG work best."
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "Quest Information<br>Hint 1: Enemies using physical attacks have DEF Piercing abilities...<br>Hint 2: Many enemies have high DEF, so magic attacks that deal damage depending on the caster's MAG work best."
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "Quest Information<br>Hint 1: Enemies using physical attacks have DEF Piercing abilities...<br>Hint 2: Many enemies have high DEF, so magic attacks that deal damage depending on the caster's MAG work best.<br>*Enemies in this quest do not drop Crystals."
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "Quest Information<br>None"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "Quest Information<br>・This quest is a test Guild Battle.<br>・Send three characters and use Auto Battle to closely mimic an actual battle."
+            "key": "QE_EV_04_01",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "Quest Information<br>Conditions to Unlock: Acquire Unit [Kilphe]"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "Quest Information<br>Hint: Before the Chocolate Flan inflicts Charm..."
         },
@@ -2145,6 +2405,14 @@
             "value": "Quest Information<br>None"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "Quest Information<br>None"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "Quest Information<br>None"
         },
@@ -2158,6 +2426,34 @@
         },
         {
             "key": "QE_RAID_EV_06_04",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
             "value": "Quest Information<br>None"
         },
         {
@@ -2297,6 +2593,30 @@
             "value": "Quest Information<br>None"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "Quest Information<br>None"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "There are Attack Types and Attack Resistances. Attack a target with low resistance to your unit's Attack Type."
         },
@@ -2365,6 +2685,10 @@
             "value": "Range +1"
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": "Magic Attack Up"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "None"
         },
@@ -2375,6 +2699,10 @@
         {
             "key": "QE_GVG_00003",
             "value": "Dark Attack Up"
+        },
+        {
+            "key": "QE_GVG_00004",
+            "value": "MAG Up"
         },
         {
             "key": "QE_PVP_FRE_0001",

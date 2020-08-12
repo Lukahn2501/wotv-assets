@@ -191,6 +191,62 @@
         {
             "key": "EX_SUB_JB_AXE",
             "value": "Gemme pour haches"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SW",
+            "value": "Livre secret de l'amélioration (Épée)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_LS",
+            "value": "Livre secret de l'amélioration (Spathe)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_JS",
+            "value": "Livre secret de l'amélioration (Katana)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_FI",
+            "value": "Livre secret de l'amélioration (Poings)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SP",
+            "value": "Livre secret de l'amélioration (Lance)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SS",
+            "value": "Livre secret de l'amélioration (Dague)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_KU",
+            "value": "Livre secret de l'amélioration (Lame ninja)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_BO",
+            "value": "Livre secret de l'amélioration (Arc)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_GU",
+            "value": "Livre secret de l'amélioration (Fusil)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_ST",
+            "value": "Livre secret de l'amélioration (Bâton)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_MA",
+            "value": "Livre secret de l'amélioration (Masse)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AX",
+            "value": "Livre secret de l'amélioration (Hache)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AR",
+            "value": "Livre secret de l'amélioration (Armure)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AC",
+            "value": "Livre secret de l'amélioration (Accessoire)"
         }
     ]
 }

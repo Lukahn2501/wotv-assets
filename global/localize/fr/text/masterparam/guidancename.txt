@@ -26,7 +26,7 @@
         },
         {
             "key": "UnitAwake",
-            "value": "Éveil et augmentation de la limite"
+            "value": "Éveil et limite brisée"
         },
         {
             "key": "ArtifactCraft",
@@ -38,7 +38,7 @@
         },
         {
             "key": "VisionCard",
-            "value": "Atouts-Vision"
+            "value": "Atouts-visions"
         },
         {
             "key": "ExplorationChocobo",

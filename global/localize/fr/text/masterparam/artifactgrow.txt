@@ -86,7 +86,7 @@
         },
         {
             "key": "AFGROW_CRI_50",
-            "value": "Coups critiques"
+            "value": "Critique"
         },
         {
             "key": "AFGROW_SLD_50",
@@ -146,7 +146,7 @@
         },
         {
             "key": "ARTIFACT_CRTICAL",
-            "value": "Coups critiques"
+            "value": "Critique"
         },
         {
             "key": "ARTIFACT_SHIELD",

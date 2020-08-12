@@ -39,6 +39,10 @@
         {
             "key": "AD_AREA_SM_01",
             "value": "Summoner's Frontier"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Matoya's Cave"
         }
     ]
 }

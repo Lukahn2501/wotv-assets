@@ -103,6 +103,14 @@
         {
             "key": "SQ_WD_010203_02",
             "value": "Employé des services de la guilde"
+        },
+        {
+            "key": "SQ_WD_010204_01",
+            "value": "Employé des services de la guilde"
+        },
+        {
+            "key": "SQ_WD_010204_02",
+            "value": "Forgeron novice"
         }
     ]
 }

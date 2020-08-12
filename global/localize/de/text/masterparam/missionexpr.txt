@@ -217,6 +217,42 @@
             "value": "Erwecke „Mobius der Hoffnung und der Illusion“"
         },
         {
+            "key": "CM_PRO_64",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 1 ab"
+        },
+        {
+            "key": "CM_PRO_65",
+            "value": "Erhöhe fünfmal die Stufe einer Einheit"
+        },
+        {
+            "key": "CM_PRO_66",
+            "value": "Verbessere die Fähigkeit einer Einheit"
+        },
+        {
+            "key": "CM_PRO_67",
+            "value": "Tätige einen Einkauf im Laden"
+        },
+        {
+            "key": "CM_PRO_68",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 3 ab"
+        },
+        {
+            "key": "CM_PRO_69",
+            "value": "Tritt einer Gilde bei oder gründe eine"
+        },
+        {
+            "key": "CM_PRO_70",
+            "value": "Bringe einer Gildenstatue eine Gabe dar"
+        },
+        {
+            "key": "CM_PRO_71",
+            "value": "Schließe einen Multiauftrag ab"
+        },
+        {
+            "key": "CM_PRO_72",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 5 ab"
+        },
+        {
             "key": "GM_0001",
             "value": "Versammle 10 Mitglieder in deiner Gilde"
         },
@@ -445,6 +481,22 @@
             "value": "Schließe Kapitel 7, Szene 2 „Fernsprechapparatur“ ab"
         },
         {
+            "key": "M_ST_0007_03",
+            "value": "Schließe Kapitel 7, Szene 3 „Eine Entscheidung treffen II“ ab"
+        },
+        {
+            "key": "M_ST_0007_03_2",
+            "value": "Schließe Kapitel 7, Szene 3 „Vertraut euren Gefährten II“ ab"
+        },
+        {
+            "key": "M_ST_0008_01",
+            "value": "Schließe Kapitel 8, Szene 1 „Die Festung zurückerobern“ ab"
+        },
+        {
+            "key": "M_ST_0008_01_2",
+            "value": "Schließe Kapitel 8, Szene 1 „Muraga, König von Fennes“ ab"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Erreiche Royalen Rang 1"
         },
@@ -546,27 +598,27 @@
         },
         {
             "key": "M_DAILY_002_05_1",
-            "value": "Schließe die  Alkristkammer (Wasser) ab"
+            "value": "Schließe die Alkristkammer (Wasser) ab"
         },
         {
             "key": "M_DAILY_002_05_2",
-            "value": "Schließe die  Alkristkammer (Eis) ab"
+            "value": "Schließe die Alkristkammer (Eis) ab"
         },
         {
             "key": "M_DAILY_002_06_1",
-            "value": "Schließe die  Alkristkammer (Erde) ab"
+            "value": "Schließe die Alkristkammer (Erde) ab"
         },
         {
             "key": "M_DAILY_002_06_2",
-            "value": "Schließe die  Alkristkammer (Dunkel) ab"
+            "value": "Schließe die Alkristkammer (Dunkel) ab"
         },
         {
             "key": "M_DAILY_002_07_1",
-            "value": "Schließe die  Alkristkammer (Blitz) ab"
+            "value": "Schließe die Alkristkammer (Blitz) ab"
         },
         {
             "key": "M_DAILY_002_07_2",
-            "value": "Schließe die  Alkristkammer (Licht) ab"
+            "value": "Schließe die Alkristkammer (Licht) ab"
         },
         {
             "key": "M_DAILY_002_01",
@@ -582,35 +634,35 @@
         },
         {
             "key": "M_DAILY_002_04_1",
-            "value": "Schließe die  Alkristkammer (Feuer) ab"
+            "value": "Schließe die Alkristkammer (Feuer) ab"
         },
         {
             "key": "M_DAILY_002_04_2",
-            "value": "Schließe die  Alkristkammer (Wind) ab"
+            "value": "Schließe die Alkristkammer (Wind) ab"
         },
         {
             "key": "M_DAILY_003_01_1",
-            "value": "Schließe die  Alkristkammer (Wasser) ab"
+            "value": "Schließe die Alkristkammer (Wasser) ab"
         },
         {
             "key": "M_DAILY_003_01_2",
-            "value": "Schließe die  Alkristkammer (Eis) ab"
+            "value": "Schließe die Alkristkammer (Eis) ab"
         },
         {
             "key": "M_DAILY_003_02_1",
-            "value": "Schließe die  Alkristkammer (Erde) ab"
+            "value": "Schließe die Alkristkammer (Erde) ab"
         },
         {
             "key": "M_DAILY_003_02_2",
-            "value": "Schließe die  Alkristkammer (Dunkel) ab"
+            "value": "Schließe die Alkristkammer (Dunkel) ab"
         },
         {
             "key": "M_DAILY_003_03_1",
-            "value": "Schließe die  Alkristkammer (Blitz) ab"
+            "value": "Schließe die Alkristkammer (Blitz) ab"
         },
         {
             "key": "M_DAILY_003_03_2",
-            "value": "Schließe die  Alkristkammer (Licht) ab"
+            "value": "Schließe die Alkristkammer (Licht) ab"
         },
         {
             "key": "M_DAILY_003_04_1",
@@ -638,11 +690,11 @@
         },
         {
             "key": "M_DAILY_003_07_1",
-            "value": "Schließe die  Alkristkammer (Feuer) ab"
+            "value": "Schließe die Alkristkammer (Feuer) ab"
         },
         {
             "key": "M_DAILY_003_07_2",
-            "value": "Schließe die  Alkristkammer (Wind) ab"
+            "value": "Schließe die Alkristkammer (Wind) ab"
         },
         {
             "key": "M_MONDAY_0001",
@@ -671,6 +723,186 @@
         {
             "key": "M_GL_DAILY_GUILD_01",
             "value": "Bringe einer Gildenstatue eine Gabe dar "
+        },
+        {
+            "key": "M_FF1_1_01",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 1 ab"
+        },
+        {
+            "key": "M_FF1_1_02",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 1 zweimal ab"
+        },
+        {
+            "key": "M_FF1_1_03",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 1 dreimal ab"
+        },
+        {
+            "key": "M_FF1_1_04",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 2 ab"
+        },
+        {
+            "key": "M_FF1_1_05",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 2 zweimal ab"
+        },
+        {
+            "key": "M_FF1_1_06",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 2 dreimal ab"
+        },
+        {
+            "key": "M_FF1_1_07",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 3 ab"
+        },
+        {
+            "key": "M_FF1_1_08",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 3 zweimal ab"
+        },
+        {
+            "key": "M_FF1_1_09",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 3 dreimal ab"
+        },
+        {
+            "key": "M_FF1_1_10",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 4 ab"
+        },
+        {
+            "key": "M_FF1_1_11",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 4 zweimal ab"
+        },
+        {
+            "key": "M_FF1_1_12",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 4 dreimal ab"
+        },
+        {
+            "key": "M_FF1_1_13",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 5 ab"
+        },
+        {
+            "key": "M_FF1_1_14",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 5 dreimal ab"
+        },
+        {
+            "key": "M_FF1_1_15",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 5 fünfmal ab"
+        },
+        {
+            "key": "M_FF1_1M_01",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 1 [Geübt] ab"
+        },
+        {
+            "key": "M_FF1_1M_02",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 1 [Geübt] zweimal ab"
+        },
+        {
+            "key": "M_FF1_1M_03",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 1 [Geübt] dreimal ab"
+        },
+        {
+            "key": "M_FF1_1M_04",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 2 [Geübt] ab"
+        },
+        {
+            "key": "M_FF1_1M_05",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 2 [Geübt] zweimal ab"
+        },
+        {
+            "key": "M_FF1_1M_06",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 2 [Geübt] dreimal ab"
+        },
+        {
+            "key": "M_FF1_1M_07",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 3 [Geübt] ab"
+        },
+        {
+            "key": "M_FF1_1M_08",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 3 [Geübt] zweimal ab"
+        },
+        {
+            "key": "M_FF1_1M_09",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 3 [Geübt] dreimal ab"
+        },
+        {
+            "key": "M_FF1_1M_10",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 4 [Geübt] ab"
+        },
+        {
+            "key": "M_FF1_1M_11",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 4 [Geübt] zweimal ab"
+        },
+        {
+            "key": "M_FF1_1M_12",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 4 [Geübt] dreimal ab"
+        },
+        {
+            "key": "M_FF1_1M_13",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 5 [Geübt] ab"
+        },
+        {
+            "key": "M_FF1_1M_14",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 5 [Geübt] dreimal ab"
+        },
+        {
+            "key": "M_FF1_1M_15",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 5 [Geübt] fünfmal ab"
+        },
+        {
+            "key": "M_FF1_1M_16",
+            "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 5 [Geübt] zehnmal ab"
+        },
+        {
+            "key": "M_FF1_1_EX_01",
+            "value": "Schließe „FINAL FANTASY I [EX]“ ab"
+        },
+        {
+            "key": "M_FF1_1_EX_02",
+            "value": "Schließe „FINAL FANTASY I [EX]“ dreimal ab"
+        },
+        {
+            "key": "M_FF1_1_EX_03",
+            "value": "Schließe „FINAL FANTASY I [EX]“ fünfmal ab"
+        },
+        {
+            "key": "M_FF1_1_EX_04",
+            "value": "Schließe „FINAL FANTASY I [EX]“ zehnmal ab"
+        },
+        {
+            "key": "M_FF1_MU_EX_01",
+            "value": "[Multi] Schließe „FINAL FANTASY I [EX]“ ab"
+        },
+        {
+            "key": "M_FF1_MU_EX_02",
+            "value": "[Multi] Schließe „FINAL FANTASY I [EX]“ dreimal ab"
+        },
+        {
+            "key": "M_FF1_MU_EX_03",
+            "value": "[Multi] Schließe „FINAL FANTASY I [EX]“ fünfmal ab"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_01",
+            "value": "Nimm an der Kraftprobe teil"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_02",
+            "value": "Nimm zweimal an der Kraftprobe teil"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_03",
+            "value": "Nimm dreimal an der Kraftprobe teil"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_04",
+            "value": "Nimm viermal an der Kraftprobe teil"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_05",
+            "value": "Nimm fünfmal an der Kraftprobe teil"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_06",
+            "value": "Nimm fünfmal an der Kraftprobe teil"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_07",
+            "value": "Nimm fünfmal an der Kraftprobe teil"
         },
         {
             "key": "M_FF14_1_1_01",
@@ -1529,6 +1761,178 @@
             "value": "[Multi] Schließe „Brennender Lebenswille [EX]“ fünfmal ab"
         },
         {
+            "key": "M_EV04_1_01",
+            "value": "Schließe „Fern im Osten, Episode 1“ ab"
+        },
+        {
+            "key": "M_EV04_1_02",
+            "value": "Schließe „Fern im Osten, Episode 1“ zweimal ab"
+        },
+        {
+            "key": "M_EV04_1_03",
+            "value": "Schließe „Fern im Osten, Episode 1“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_1_04",
+            "value": "Schließe „Fern im Osten, Episode 2“ ab"
+        },
+        {
+            "key": "M_EV04_1_05",
+            "value": "Schließe „Fern im Osten, Episode 2“ zweimal ab"
+        },
+        {
+            "key": "M_EV04_1_06",
+            "value": "Schließe „Fern im Osten, Episode 2“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_1_07",
+            "value": "Schließe „Fern im Osten, Episode 3“ ab"
+        },
+        {
+            "key": "M_EV04_1_08",
+            "value": "Schließe „Fern im Osten, Episode 3“ zweimal ab"
+        },
+        {
+            "key": "M_EV04_1_09",
+            "value": "Schließe „Fern im Osten, Episode 3“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_1_10",
+            "value": "Schließe „Fern im Osten, Episode 4“ ab"
+        },
+        {
+            "key": "M_EV04_1_11",
+            "value": "Schließe „Fern im Osten, Episode 4“ zweimal ab"
+        },
+        {
+            "key": "M_EV04_1_12",
+            "value": "Schließe „Fern im Osten, Episode 4“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_1_13",
+            "value": "Schließe „Fern im Osten, Episode 5“ ab"
+        },
+        {
+            "key": "M_EV04_1_14",
+            "value": "Schließe „Fern im Osten, Episode 5“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_1_15",
+            "value": "Schließe „Fern im Osten, Episode 5“ fünfmal ab"
+        },
+        {
+            "key": "M_EV04_1_16",
+            "value": "Schließe „Fern im Osten, Episode 6“ ab"
+        },
+        {
+            "key": "M_EV04_1_17",
+            "value": "Schließe „Fern im Osten, Episode 6“ zweimal ab"
+        },
+        {
+            "key": "M_EV04_1_18",
+            "value": "Schließe „Fern im Osten, Episode 6“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_1_19",
+            "value": "Schließe „Fern im Osten, Episode 7“ ab"
+        },
+        {
+            "key": "M_EV04_1_20",
+            "value": "Schließe „Fern im Osten, Episode 7“ zweimal ab"
+        },
+        {
+            "key": "M_EV04_1_21",
+            "value": "Schließe „Fern im Osten, Episode 7“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_1_22",
+            "value": "Schließe „Fern im Osten, Episode 8“ ab"
+        },
+        {
+            "key": "M_EV04_1_23",
+            "value": "Schließe „Fern im Osten, Episode 8“ zweimal ab"
+        },
+        {
+            "key": "M_EV04_1_24",
+            "value": "Schließe „Fern im Osten, Episode 8“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_1_25",
+            "value": "Schließe „Fern im Osten, Episode 9“ ab"
+        },
+        {
+            "key": "M_EV04_1_26",
+            "value": "Schließe „Fern im Osten, Episode 9“ zweimal ab"
+        },
+        {
+            "key": "M_EV04_1_27",
+            "value": "Schließe „Fern im Osten, Episode 9“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_1_28",
+            "value": "Schließe „Fern im Osten, Episode 10“ ab"
+        },
+        {
+            "key": "M_EV04_1_29",
+            "value": "Schließe „Fern im Osten, Episode 10“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_1_30",
+            "value": "Schließe „Fern im Osten, Episode 10“ fünfmal ab"
+        },
+        {
+            "key": "M_EV04_1_31",
+            "value": "Schließe „Fern im Osten, Episode 10“ zehnmal ab"
+        },
+        {
+            "key": "M_EV04_EX1_01",
+            "value": "Schließe „Fern im Osten [EX1]“ ab"
+        },
+        {
+            "key": "M_EV04_EX1_02",
+            "value": "Schließe „Fern im Osten [EX1]“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_EX1_03",
+            "value": "Schließe „Fern im Osten [EX1]“ fünfmal ab"
+        },
+        {
+            "key": "M_EV04_EX2_01",
+            "value": "Schließe „Fern im Osten [EX2]“ ab"
+        },
+        {
+            "key": "M_EV04_EX2_02",
+            "value": "Schließe „Fern im Osten [EX2]“ dreimal ab"
+        },
+        {
+            "key": "M_EV04_EX2_03",
+            "value": "Schließe „Fern im Osten [EX2]“ fünfmal ab"
+        },
+        {
+            "key": "M_MU_EV04_EX1_01",
+            "value": "[Multi] Schließe „Fern im Osten [EX1]“ ab"
+        },
+        {
+            "key": "M_MU_EV04_EX1_02",
+            "value": "[Multi] Schließe „Fern im Osten [EX1]“ dreimal ab"
+        },
+        {
+            "key": "M_MU_EV04_EX1_03",
+            "value": "[Multi] Schließe „Fern im Osten [EX1]“ fünfmal ab"
+        },
+        {
+            "key": "M_MU_EV04_EX2_01",
+            "value": "[Multi] Schließe „Fern im Osten [EX2]“ ab"
+        },
+        {
+            "key": "M_MU_EV04_EX2_02",
+            "value": "[Multi] Schließe „Fern im Osten [EX2]“ dreimal ab"
+        },
+        {
+            "key": "M_MU_EV04_EX2_03",
+            "value": "[Multi] Schließe „Fern im Osten [EX2]“ fünfmal ab"
+        },
+        {
             "key": "M_ETRE01_1_01",
             "value": "Schließe „Trainingsauftrag ‚Etre‘ I“ ab"
         },
@@ -1882,6 +2286,134 @@
         },
         {
             "key": "M_MU_ART_SCR_12",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ fünfmal ab"
+        },
+        {
+            "key": "M_ART_SCR_26",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Schwert, Großschwert, Axt)“ ab"
+        },
+        {
+            "key": "M_ART_SCR_27",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Schwert, Großschwert, Axt)“ ab"
+        },
+        {
+            "key": "M_ART_SCR_28",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Schwert, Großschwert, Axt)“ dreimal ab"
+        },
+        {
+            "key": "M_ART_SCR_29",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Schwert, Großschwert, Axt)“ dreimal ab"
+        },
+        {
+            "key": "M_ART_SCR_30",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Schwert, Großschwert, Axt)“ fünfmal ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_16",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Schwert, Großschwert, Axt)“ ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_17",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Schwert, Großschwert, Axt)“ dreimal ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_18",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Schwert, Großschwert, Axt)“ fünfmal ab"
+        },
+        {
+            "key": "M_ART_SCR_31",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Lanze, Fäuste, Pistole)“ ab"
+        },
+        {
+            "key": "M_ART_SCR_32",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Lanze, Fäuste, Pistole)“ ab"
+        },
+        {
+            "key": "M_ART_SCR_33",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Lanze, Fäuste, Pistole)“ dreimal ab"
+        },
+        {
+            "key": "M_ART_SCR_34",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Lanze, Fäuste, Pistole)“ dreimal ab"
+        },
+        {
+            "key": "M_ART_SCR_35",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Lanze, Fäuste, Pistole)“ fünfmal ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_19",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Lanze, Fäuste, Pistole)“ ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_20",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Lanze, Fäuste, Pistole)“ dreimal ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_21",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Lanze, Fäuste, Pistole)“ fünfmal ab"
+        },
+        {
+            "key": "M_ART_SCR_36",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ ab"
+        },
+        {
+            "key": "M_ART_SCR_37",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ ab"
+        },
+        {
+            "key": "M_ART_SCR_38",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ dreimal ab"
+        },
+        {
+            "key": "M_ART_SCR_39",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ dreimal ab"
+        },
+        {
+            "key": "M_ART_SCR_40",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ fünfmal ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_22",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_23",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ dreimal ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_24",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)“ fünfmal ab"
+        },
+        {
+            "key": "M_ART_SCR_41",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab"
+        },
+        {
+            "key": "M_ART_SCR_42",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab"
+        },
+        {
+            "key": "M_ART_SCR_43",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ dreimal ab"
+        },
+        {
+            "key": "M_ART_SCR_44",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ dreimal ab"
+        },
+        {
+            "key": "M_ART_SCR_45",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ fünfmal ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_25",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_26",
+            "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ dreimal ab"
+        },
+        {
+            "key": "M_MU_ART_SCR_27",
             "value": "[Multi] Schließe „Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)“ fünfmal ab"
         },
         {
@@ -2449,6 +2981,42 @@
             "value": "Schließe Kapitel 6, Szene 3 „Rastlose Sterne“ ab"
         },
         {
+            "key": "M_QEST_055",
+            "value": "Schließe Kapitel 7, Szene 1 „Khuri, König von Wezette“ ab"
+        },
+        {
+            "key": "M_QEST_056",
+            "value": "Schließe Kapitel 7, Szene 1 „Das Geheimnis Leonis‘“ ab"
+        },
+        {
+            "key": "M_QEST_057",
+            "value": "Schließe Kapitel 7, Szene 1 „Die Festung“ ab"
+        },
+        {
+            "key": "M_QEST_058",
+            "value": "Schließe Kapitel 7, Szene 2 „Eine kurze Rast“ ab"
+        },
+        {
+            "key": "M_QEST_059",
+            "value": "Schließe Kapitel 7, Szene 2 „Nehmt die Festung ein I“ ab"
+        },
+        {
+            "key": "M_QEST_060",
+            "value": "Schließe Kapitel 7, Szene 2 „Fernsprechapparatur“ ab"
+        },
+        {
+            "key": "M_QEST_061",
+            "value": "Schließe Kapitel 7, Szene 3 „Überraschungsangriff I“ ab"
+        },
+        {
+            "key": "M_QEST_062",
+            "value": "Schließe Kapitel 7, Szene 3 „Eine Entscheidung treffen II“ ab"
+        },
+        {
+            "key": "M_QEST_063",
+            "value": "Schließe Kapitel 7, Szene 3 „Vertraut euren Gefährten II“ ab"
+        },
+        {
             "key": "M_GL_RANK_001",
             "value": "Erreiche Spielerrang 5"
         },
@@ -2966,7 +3534,7 @@
         },
         {
             "key": "M_MONTHLY_GL_001",
-            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein"
+            "value": "Sammle bei der Chocobo-Expedition zehnmal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_002",
@@ -3510,7 +4078,7 @@
         },
         {
             "key": "M_MONTHLY_GL_018",
-            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein"
+            "value": "Sammle bei der Chocobo-Expedition zehnmal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_GL_019",
@@ -4054,7 +4622,7 @@
         },
         {
             "key": "M_MONTHLY_0373",
-            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein"
+            "value": "Sammle bei der Chocobo-Expedition zehnmal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0374",
@@ -4598,7 +5166,7 @@
         },
         {
             "key": "M_MONTHLY_0509",
-            "value": "Sammle bei der Chocobo-Expedition 10-mal Gegenstände ein"
+            "value": "Sammle bei der Chocobo-Expedition zehnmal Gegenstände ein"
         },
         {
             "key": "M_MONTHLY_0510",
@@ -4745,6 +5313,550 @@
             "value": "Verbessere 70-mal eine Gildenstatue"
         },
         {
+            "key": "M_MONTHLY_0546",
+            "value": "Schließe 20 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0547",
+            "value": "Schließe 40 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0548",
+            "value": "Schließe 60 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0549",
+            "value": "Schließe 80 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0550",
+            "value": "Schließe 100 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0551",
+            "value": "Schließe 120 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0552",
+            "value": "Schließe 140 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0553",
+            "value": "Schließe 160 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0554",
+            "value": "Schließe 180 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0555",
+            "value": "Schließe 200 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0556",
+            "value": "Schließe 220 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0557",
+            "value": "Schließe 240 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0558",
+            "value": "Schließe 260 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0559",
+            "value": "Schließe 280 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0560",
+            "value": "Schließe 300 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0561",
+            "value": "Schließe 320 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0562",
+            "value": "Schließe 340 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0563",
+            "value": "Schließe 360 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0564",
+            "value": "Schließe 380 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0565",
+            "value": "Schließe 400 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0566",
+            "value": "Schließe zehn Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0567",
+            "value": "Schließe 20 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0568",
+            "value": "Schließe 30 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0569",
+            "value": "Schließe 40 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0570",
+            "value": "Schließe 50 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0571",
+            "value": "Schließe 60 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0572",
+            "value": "Schließe 70 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0573",
+            "value": "Schließe 80 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0574",
+            "value": "Schließe 90 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0575",
+            "value": "Schließe 100 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0576",
+            "value": "Schließe 110 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0577",
+            "value": "Schließe 120 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0578",
+            "value": "Schließe 130 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0579",
+            "value": "Schließe 140 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0580",
+            "value": "Schließe 150 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0581",
+            "value": "Schließe 170 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0582",
+            "value": "Schließe 190 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0583",
+            "value": "Schließe 210 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0584",
+            "value": "Schließe 230 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0585",
+            "value": "Schließe zehn Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0586",
+            "value": "Schließe 20 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0587",
+            "value": "Schließe 30 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0588",
+            "value": "Schließe 40 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0589",
+            "value": "Schließe 50 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0590",
+            "value": "Schließe 60 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0591",
+            "value": "Schließe 70 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0592",
+            "value": "Schließe 80 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0593",
+            "value": "Schließe 90 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0594",
+            "value": "Schließe 100 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0595",
+            "value": "Schließe 110 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0596",
+            "value": "Schließe 120 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0597",
+            "value": "Schließe 130 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0598",
+            "value": "Schließe 140 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0599",
+            "value": "Schließe 150 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0600",
+            "value": "Schließe 160 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0601",
+            "value": "Schließe 170 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0602",
+            "value": "Schließe 180 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0603",
+            "value": "Schließe 190 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0604",
+            "value": "Schließe 200 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0605",
+            "value": "Schließe die ERF-Kammer dreimal ab"
+        },
+        {
+            "key": "M_MONTHLY_0606",
+            "value": "Schließe die ERF-Kammer sechsmal ab"
+        },
+        {
+            "key": "M_MONTHLY_0607",
+            "value": "Schließe die ERF-Kammer neunmal ab"
+        },
+        {
+            "key": "M_MONTHLY_0608",
+            "value": "Schließe die ERF-Kammer zwölfmal ab"
+        },
+        {
+            "key": "M_MONTHLY_0609",
+            "value": "Schließe die ERF-Kammer 15-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0610",
+            "value": "Schließe die ERF-Kammer 18-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0611",
+            "value": "Schließe die ERF-Kammer 21-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0612",
+            "value": "Schließe die ERF-Kammer 24-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0613",
+            "value": "Schließe die ERF-Kammer 27-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0614",
+            "value": "Schließe die ERF-Kammer 30-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0615",
+            "value": "Schließe die ERF-Kammer 33-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0616",
+            "value": "Schließe die ERF-Kammer 36-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0617",
+            "value": "Schließe die ERF-Kammer 39-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0618",
+            "value": "Schließe die ERF-Kammer 42-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0619",
+            "value": "Schließe die ERF-Kammer 45-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0620",
+            "value": "Schließe die ERF-Kammer 50-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0621",
+            "value": "Schließe die ERF-Kammer 55-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0622",
+            "value": "Schließe die ERF-Kammer 60-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0623",
+            "value": "Schließe die ERF-Kammer 65-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0624",
+            "value": "Schließe die ERF-Kammer 70-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0625",
+            "value": "Messe dich fünfmal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0626",
+            "value": "Messe dich zehnmal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0627",
+            "value": "Messe dich 15-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0628",
+            "value": "Messe dich 20-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0629",
+            "value": "Messe dich 25-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0630",
+            "value": "Messe dich 30-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0631",
+            "value": "Messe dich 35-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0632",
+            "value": "Messe dich 40-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0633",
+            "value": "Messe dich 45-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0634",
+            "value": "Messe dich 50-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0635",
+            "value": "Messe dich 55-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0636",
+            "value": "Messe dich 60-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0637",
+            "value": "Messe dich 65-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0638",
+            "value": "Messe dich 70-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0639",
+            "value": "Messe dich 80-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0640",
+            "value": "Messe dich 90-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0641",
+            "value": "Messe dich 100-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0642",
+            "value": "Messe dich 110-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0643",
+            "value": "Messe dich 120-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0644",
+            "value": "Messe dich 130-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0645",
+            "value": "Sammle bei der Chocobo-Expedition zehnmal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0646",
+            "value": "Sammle bei der Chocobo-Expedition 15-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0647",
+            "value": "Sammle bei der Chocobo-Expedition 20-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0648",
+            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0649",
+            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0650",
+            "value": "Sammle bei der Chocobo-Expedition 35-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0651",
+            "value": "Sammle bei der Chocobo-Expedition 40-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0652",
+            "value": "Sammle bei der Chocobo-Expedition 45-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0653",
+            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0654",
+            "value": "Sammle bei der Chocobo-Expedition 55-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0655",
+            "value": "Sammle bei der Chocobo-Expedition 60-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0656",
+            "value": "Sammle bei der Chocobo-Expedition 65-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0657",
+            "value": "Sammle bei der Chocobo-Expedition 70-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0658",
+            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0659",
+            "value": "Sammle bei der Chocobo-Expedition 80-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0660",
+            "value": "Sammle bei der Chocobo-Expedition 85-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0661",
+            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0662",
+            "value": "Verbessere dreimal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0663",
+            "value": "Verbessere sechsmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0664",
+            "value": "Verbessere neunmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0665",
+            "value": "Verbessere zwölfmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0666",
+            "value": "Verbessere 15-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0667",
+            "value": "Verbessere 18-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0668",
+            "value": "Verbessere 21-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0669",
+            "value": "Verbessere 24-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0670",
+            "value": "Verbessere 27-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0671",
+            "value": "Verbessere 30-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0672",
+            "value": "Verbessere 33-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0673",
+            "value": "Verbessere 36-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0674",
+            "value": "Verbessere 39-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0675",
+            "value": "Verbessere 42-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0676",
+            "value": "Verbessere 45-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0677",
+            "value": "Verbessere 50-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0678",
+            "value": "Verbessere 55-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0679",
+            "value": "Verbessere 60-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0680",
+            "value": "Verbessere 65-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0681",
+            "value": "Verbessere 70-mal eine Gildenstatue"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Verbrauche 500 Visiore"
         },
@@ -4838,6 +5950,54 @@
         },
         {
             "key": "M_LAPS_P_VNLA_06",
+            "value": "Verbrauche 50.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_WROL_01",
+            "value": "Verbrauche 500 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_WROL_02",
+            "value": "Verbrauche 3.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_WROL_03",
+            "value": "Verbrauche 6.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_WROL_04",
+            "value": "Verbrauche 12.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_WROL_05",
+            "value": "Verbrauche 24.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_WROL_06",
+            "value": "Verbrauche 50.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_QILF_01",
+            "value": "Verbrauche 500 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_QILF_02",
+            "value": "Verbrauche 3.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_QILF_03",
+            "value": "Verbrauche 6.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_QILF_04",
+            "value": "Verbrauche 12.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_QILF_05",
+            "value": "Verbrauche 24.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_QILF_06",
             "value": "Verbrauche 50.000 Visiore"
         },
         {

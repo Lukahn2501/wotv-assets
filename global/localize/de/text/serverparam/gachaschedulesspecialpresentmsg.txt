@@ -222,11 +222,11 @@
         },
         {
             "key": "gacha_unit_vc_gl20200527_01",
-            "value": "„5 Millionen Downloads“-Feier Teil 2: Blickpunktbeschwörung – Beschwörungsbonus"
+            "value": "„5 Millionen Downloads“-Feier Teil II: Blickpunktbeschwörung – Beschwörungsbonus"
         },
         {
             "key": "gacha_unit_vc_gl20200527_10",
-            "value": "„5 Millionen Downloads“-Feier Teil 2: Blickpunktbeschwörung – Beschwörungsbonus"
+            "value": "„5 Millionen Downloads“-Feier Teil II: Blickpunktbeschwörung – Beschwörungsbonus"
         },
         {
             "key": "no_coin_gacha_gl20200527_10",
@@ -623,6 +623,258 @@
         {
             "key": "p_gacha_unit_gl20200715_10",
             "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_01",
+            "value": "Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step3",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20200722_step2",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20200722_step1",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20200722_base",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step4",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step3",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_gacha_gl20200729_01",
+            "value": "FFI-Kollabo – Beschwörungsbonus"
+        },
+        {
+            "key": "ff1_gacha_gl20200729_10",
+            "value": "FFI-Kollabo – Beschwörungsbonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_01",
+            "value": "Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_10",
+            "value": "Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "ff1_p_gacha_unit_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_p_gacha_vc_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_9",
+            "value": ""
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step3",
+            "value": "Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step2",
+            "value": "Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step1",
+            "value": "Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step4",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step3",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step5",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step4",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step3",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step2",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step1",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200805_10",
+            "value": "„[UR]-Einheit garantiert“-Beschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_01",
+            "value": "Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_01",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "Neue Visionskarten-Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_01",
+            "value": "Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "Blickpunktbeschwörung – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step5",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step4",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step3",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step2",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step1",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200812_10",
+            "value": "Beschwörung (10-malig): [UR]-Visionskarte garantiert – Beschwörungsbonus"
         },
         {
             "key": "global_pickup_sterne_20200325_01",

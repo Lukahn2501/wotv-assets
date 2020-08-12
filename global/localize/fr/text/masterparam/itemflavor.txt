@@ -6,7 +6,7 @@
         },
         {
             "key": "IT_US_HIPOTION",
-            "value": "Un remède vert dans lequel flotte un grand cristal. Il s'agit d'une potion raffinée qui a le pouvoir de guérir les blessures les plus graves. Elle est facile à utiliser et fait partie des provisions les plus prisées des aventuriers. Son goût unique a tendance à diviser les palais ; certains en raffolent, et d'autres peuvent à peine l'avaler."
+            "value": "Un remède vert dans lequel flotte un grand cristal. Il s'agit d'une potion raffinée qui a le pouvoir de guérir les blessures les plus graves. Elle est facile à utiliser et fait partie des provisions les plus prisées des aventuriers. Son goût unique a tendance à diviser les palais ; certains en raffolent, et d'autres peuvent à peine l'avaler."
         },
         {
             "key": "IT_US_EXPOTION",
@@ -22,7 +22,7 @@
         },
         {
             "key": "IT_US_ELIXIR",
-            "value": "Un remède secret qui brille d'un éclat ambré et qui aurait été créé par les dieux eux-mêmes. Une seule gorgée de ce breuvage extraordinaire suffirait à rendre sa force et son énergie au guerrier le plus éreinté. Sa puissance curative est inégalée ; hélas, nul ne sait comment le préparer, de sorte que seuls les aventuriers les plus chanceux parviennent à s'en procurer."
+            "value": "Un remède secret qui brille d'un éclat ambré et qui aurait été créé par les dieux eux-mêmes. Une seule gorgée de ce breuvage extraordinaire suffirait à rendre sa force et son énergie au guerrier le plus éreinté. Sa puissance curative est inégalée ; hélas, nul ne sait comment le préparer, de sorte que seuls les aventuriers les plus chanceux parviennent à s'en procurer."
         },
         {
             "key": "IT_US_PNXFEATHER",
@@ -30,7 +30,7 @@
         },
         {
             "key": "IT_US_ANTIDOTE",
-            "value": "Une pilule transparente de couleur bleu clair. Son goût amer est si fort que même les adultes rechignent à l'avaler. Elle est cependant si efficace que chacun s'y force quand il le doit. De fait, elle peut combattre les effets de n'importe quel poison. On peut enfin distinguer un serpent sur sa capsule ; un hommage à l'époque où elle était préparée à partir du venin de ce dernier."
+            "value": "Une pilule transparente de couleur bleu clair. Son goût amer est si fort que même les adultes rechignent à l'avaler. Elle est cependant si efficace que chacun s'y force quand il le doit. De fait, elle peut combattre les effets de n'importe quel poison. On peut enfin distinguer un serpent sur sa capsule ; un hommage à l'époque où elle était préparée à partir du venin de ce dernier."
         },
         {
             "key": "IT_US_EYEDROPS",
@@ -158,7 +158,7 @@
         },
         {
             "key": "IT_US_EXP_02",
-            "value": "Un petit cube laissé à disposition des moins expérimentés par un aventurier plus endurci. Il permet d'intérioriser les souvenirs de son créateur comme s'il sagissait des siens. La quantité et la qualité des souvenirs capturés par le cube sont exprimées par sa couleur : l'argent témoigne d'une mémoire moyenne."
+            "value": "Un petit cube laissé à disposition des moins expérimentés par un aventurier plus endurci. Il permet d'intérioriser les souvenirs de son créateur comme s'il sagissait des siens. La quantité et la qualité des souvenirs capturés par le cube sont exprimées par sa couleur, l'argent témoignant d'une mémoire moyenne."
         },
         {
             "key": "IT_US_EXP_03",
@@ -226,19 +226,19 @@
         },
         {
             "key": "IT_JB_LSWORD_02",
-            "value": "On soupçonne depuis longtemps cette pierre d'un bleu profond de posséder des pouvoirs mystérieux. En effet, elle appartient à cette famille de gemmes capables de stocker la mémoire de leur propriétaire. Celle-ci est imprégnée des techniques de l'épée longue. Utiliser son pouvoir consomme les souvenirs qu'elle renferme, mais elle s'en forgera sans doute de nouveaux au fil des années."
+            "value": "On soupçonne depuis longtemps cette pierre d'un bleu profond de posséder des pouvoirs mystérieux. En effet, elle appartient à cette famille de gemmes capables de stocker la mémoire de leur propriétaire. Celle-ci est imprégnée des techniques de la spathe. Utiliser son pouvoir consomme les souvenirs qu'elle renferme, mais elle s'en forgera sans doute de nouveaux au fil des années."
         },
         {
             "key": "IT_JB_LSWORD_03",
-            "value": "Une pierre mauve qui fascine l'humanité depuis des générations. Elle appartient à cette famille de gemmes capables de stocker la mémoire de leur propriétaire. Celle-ci est imprégnée des techniques de l'épée longue. Il existe plusieurs types de pierre capables de capturer l'expérience humaine, et toutes sont des formations naturelles."
+            "value": "Une pierre mauve qui fascine l'humanité depuis des générations. Elle appartient à cette famille de gemmes capables de stocker la mémoire de leur propriétaire. Celle-ci est imprégnée des techniques de la spathe. Il existe plusieurs types de pierre capables de capturer l'expérience humaine, et toutes sont des formations naturelles."
         },
         {
             "key": "IT_JB_LSWORD_04",
-            "value": "Une pierre ambrée qui, polie, renvoie un éclat doré. Elle appartient à cette famille de gemmes capables de stocker la mémoire de leur propriétaire. Celle-ci est imprégnée des techniques de l'épée longue. On découvrit ces pierres de mémoire lors de recherches sur la nature des cristaux."
+            "value": "Une pierre ambrée qui, polie, renvoie un éclat doré. Elle appartient à cette famille de gemmes capables de stocker la mémoire de leur propriétaire. Celle-ci est imprégnée des techniques de la spathe. On découvrit ces pierres de mémoire lors de recherches sur la nature des cristaux."
         },
         {
             "key": "IT_JB_LSWORD_05",
-            "value": "Une pierre dont l'éclat écarlate fluctue à la lumière. Elle appartient à cette famille de gemmes capables de stocker la mémoire de leur propriétaire. Celle-ci est imprégnée des techniques de l'épée longue. En absorber l'expérience consommera les souvenirs qu'elle renferme, mais on pense qu'avec assez de temps, elle peut en capturer de nouveaux."
+            "value": "Une pierre dont l'éclat écarlate fluctue à la lumière. Elle appartient à cette famille de gemmes capables de stocker la mémoire de leur propriétaire. Celle-ci est imprégnée des techniques de la spathe. En absorber l'expérience consommera les souvenirs qu'elle renferme, mais on pense qu'avec assez de temps, elle peut en capturer de nouveaux."
         },
         {
             "key": "IT_JB_JSWORD_01",
@@ -1041,6 +1041,46 @@
             "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre rouge est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien assassin, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle, sa couleur déterminant alors le type de souvenirs que cette pierre renferme."
         },
         {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre verte est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien guerrier de la lumière, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre bleue est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien guerrier de la lumière, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre violette est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien guerrier de la lumière, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre jaune est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien guerrier de la lumière, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre rouge est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien guerrier de la lumière, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre verte est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien mage au bâton, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle, sa couleur déterminant le type de souvenirs que cette pierre renferme."
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre bleue est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien mage au bâton, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle, sa couleur déterminant alors le type de souvenirs que cette pierre renferme."
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre violette est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien mage au bâton, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle, sa couleur déterminant alors le type de souvenirs que cette pierre renferme."
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre jaune est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien mage au bâton, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle, sa couleur déterminant alors le type de souvenirs que cette pierre renferme."
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre rouge est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien mage au bâton, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle, sa couleur déterminant alors le type de souvenirs que cette pierre renferme."
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Ce minerai d'un vert chatoyant ressemble à une flamme dansante. Il permet de catalyser le pouvoir des êtres sensibles au feu, sous réserve d'en rassembler assez. Sa couleur permet de déterminer l'étendue du pouvoir qu'il peut éveiller."
         },
@@ -1454,35 +1494,35 @@
         },
         {
             "key": "IT_PI_COM_FIRE",
-            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par le feu décuplera la puissance de la mémoire qu'il renferme."
+            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par le feu décuplera la puissance de la mémoire qu'il renferme."
         },
         {
             "key": "IT_PI_COM_ICE",
-            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par la glace décuplera la puissance de la mémoire qu'il renferme."
+            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par la glace décuplera la puissance de la mémoire qu'il renferme."
         },
         {
             "key": "IT_PI_COM_WIND",
-            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par le vent décuplera la puissance de la mémoire qu'il renferme."
+            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par le vent décuplera la puissance de la mémoire qu'il renferme."
         },
         {
             "key": "IT_PI_COM_SOIL",
-            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par la terre décuplera la puissance de la mémoire qu'il renferme."
+            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par la terre décuplera la puissance de la mémoire qu'il renferme."
         },
         {
             "key": "IT_PI_COM_THUNDER",
-            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par la foudre décuplera la puissance de la mémoire qu'il renferme."
+            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par la foudre décuplera la puissance de la mémoire qu'il renferme."
         },
         {
             "key": "IT_PI_COM_WATER",
-            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par l'eau décuplera la puissance de la mémoire qu'il renferme."
+            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par l'eau décuplera la puissance de la mémoire qu'il renferme."
         },
         {
             "key": "IT_PI_COM_SHINE",
-            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par la lumière décuplera la puissance de la mémoire qu'il renferme."
+            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par la lumière décuplera la puissance de la mémoire qu'il renferme."
         },
         {
             "key": "IT_PI_COM_DARK",
-            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par l'ombre décuplera la puissance de la mémoire qu'il renferme."
+            "value": "Invoquées par le pouvoir des « esprits du lien », les visions peuvent aussi être renforcées grâce à des fragments contenant des souvenirs humains. Elles reçoivent parfois un don élémentaire et utiliser ce fragment sur une vision bénie par l'ombre décuplera la puissance de la mémoire qu'il renferme."
         },
         {
             "key": "IT_PI_COM_ALL",
@@ -1741,6 +1781,18 @@
             "value": ""
         },
         {
+            "key": "IT_PI_FF1_WROL",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": ""
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Un cristal singulier d'où émane une lueur rouge vif mais ténue. Exposer une chimère bénie par le feu à cette lueur en réveillera la puissance cachée. Si l'on a découvert que la taille du cristal et l'intensité de sa lumière avait un effet sur l'ampleur de la puissance qu'il révèle, on n'en sait pas plus sur la nature de son étrange pouvoir."
         },
@@ -1902,7 +1954,7 @@
         },
         {
             "key": "IT_SB_AW_IFRT_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour Ifrit. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour Ifrit. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_IFRT_R3",
@@ -1910,7 +1962,7 @@
         },
         {
             "key": "IT_SB_AW_GLEM_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour le Golem. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour le Golem. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_GLEM_R3",
@@ -1918,7 +1970,7 @@
         },
         {
             "key": "IT_SB_AW_SIRE_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour la Sirène. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour la Sirène. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_SIRE_R3",
@@ -1926,7 +1978,7 @@
         },
         {
             "key": "IT_SB_AW_IGNT_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour le Géant de Fer. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour le Géant de Fer. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_IGNT_R3",
@@ -1934,7 +1986,7 @@
         },
         {
             "key": "IT_SB_AW_BHMT_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour Béhémoth. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour Béhémoth. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_BHMT_R3",
@@ -1942,7 +1994,7 @@
         },
         {
             "key": "IT_SB_AW_MABR_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour Morbol. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour Morbol. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_MABR_R3",
@@ -1950,7 +2002,7 @@
         },
         {
             "key": "IT_SB_AW_SHIV_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour Shiva. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour Shiva. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_SHIV_R3",
@@ -1958,7 +2010,7 @@
         },
         {
             "key": "IT_SB_AW_RAMU_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour Ramuh. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour Ramuh. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_RAMU_R3",
@@ -1966,7 +2018,7 @@
         },
         {
             "key": "IT_SB_AW_ODIN_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour Odin. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour Odin. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_ODIN_R3",
@@ -1974,7 +2026,7 @@
         },
         {
             "key": "IT_SB_AW_LAMA_01_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour la Reine Lamia. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour la Reine Lamia. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_LAMA_01_R3",
@@ -1982,7 +2034,7 @@
         },
         {
             "key": "IT_SB_AW_TSLP_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour Tétra-Sylphides. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour Tétra-Sylphides. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_TSLP_R3",
@@ -1990,11 +2042,27 @@
         },
         {
             "key": "IT_SB_AW_OCHU_R2",
-            "value": "Une pierre d'éveil spéciale taillée pour Otyugh. On ne sait pas exactement d'où vient son chatoiement en action, mais il immobilise la chimère pendant un moment."
+            "value": "Une pierre d'éveil spéciale taillée pour Otyugh. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
         },
         {
             "key": "IT_SB_AW_OCHU_R3",
             "value": "Une pierre d'éveil spéciale qui renforce les liens avec Otyugh. À mesure que la chimère progresse, nulle autre pierre ne pourra l'éveiller. Elle brille avec une telle intensité quand on l'utilise qu'il est impossible de garder les yeux dessus. Elle s'éteindra une fois l'éveil d'Otyugh complété et sera réduite en poussière."
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "Une pierre d'éveil spéciale taillée pour le Dragon à deux têtes. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "Une pierre d'éveil spéciale qui renforce les liens avec le Dragon à deux têtes. À mesure que la chimère progresse, nulle autre pierre ne pourra l'éveiller. Elle brille avec une telle intensité quand on l'utilise qu'il est impossible de garder les yeux dessus. Elle s'éteindra une fois l'éveil du Dragon à deux têtes complété et sera réduite en poussière."
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "Une pierre d'éveil spéciale taillée pour Diabolos. On ne sait pas exactement ce qui provoque le chatoiement de cette pierre lorsqu'elle est utilisée, mais cela semble immobiliser la chimère pendant un moment."
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "Une pierre d'éveil spéciale qui renforce les liens avec Diabolos. À mesure que la chimère progresse, nulle autre pierre ne pourra l'éveiller. Elle brille avec une telle intensité quand on l'utilise qu'il est impossible de garder les yeux dessus. Elle s'éteindra une fois l'éveil de Diabolos complété et sera réduite en poussière."
         },
         {
             "key": "IT_TICKET_STORY",
@@ -2246,7 +2314,7 @@
         },
         {
             "key": "IT_AF_LW_SWO_001",
-            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Épée longue. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Spathe. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
         },
         {
             "key": "IT_AF_LW_SWO_002",
@@ -2406,7 +2474,7 @@
         },
         {
             "key": "IT_AF_LW_ARM_002",
-            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Armure de plates en fer. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner des Plates en fer. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
         },
         {
             "key": "IT_AF_LW_ARM_003",
@@ -2434,7 +2502,7 @@
         },
         {
             "key": "IT_AF_LW_CLT_002",
-            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une robe d'érudit. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un tailleur."
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Robe d'érudit. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un tailleur."
         },
         {
             "key": "IT_AF_LW_CLT_003",
@@ -2470,11 +2538,11 @@
         },
         {
             "key": "IT_AF_SWO_FF14_TNCT",
-            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une réplique de Cœur-de-Lion. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un armurier."
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Réplique de Cœur-de-Lion. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un armurier."
         },
         {
             "key": "IT_AF_LW_ROD_007",
-            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner un bâton de sage. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un chapelier."
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner un Bâton de sage. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un chapelier."
         },
         {
             "key": "IT_AF_LW_ARM_005",
@@ -2486,7 +2554,7 @@
         },
         {
             "key": "IT_AF_LW_FTW_001",
-            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner les sandales d'Hermés. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner les Sandales d'Hermés. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
         },
         {
             "key": "IT_AF_LW_AXE_001",
@@ -2494,15 +2562,23 @@
         },
         {
             "key": "IT_AF_LW_AXE_002",
-            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une hache en mithril. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Hache en mithril. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
         },
         {
             "key": "IT_AF_LW_AXE_003",
-            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une hache en or. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Hache en or. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
         },
         {
             "key": "IT_AF_LW_RNG_005",
             "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner un Anneau d'alexandrite. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
+        },
+        {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Tunique de platine. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un armurier."
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Armure de la lumière. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
         },
         {
             "key": "IT_AF_SUP_HP",
@@ -2733,6 +2809,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -2757,7 +2837,23 @@
             "value": ""
         },
         {
+            "key": "IT_EC_EV04_1",
+            "value": ""
+        },
+        {
             "key": "IT_EC_RAID_02",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FF1_2",
             "value": ""
         },
         {
@@ -2805,6 +2901,10 @@
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
             "key": "IT_US_SE_PI_COM_02",
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
@@ -2822,6 +2922,10 @@
         },
         {
             "key": "IT_US_SE_JB_EM_01_01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
@@ -2905,6 +3009,14 @@
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
             "key": "IT_US_SE_UR_U_02",
             "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
         },
@@ -2913,11 +3025,23 @@
             "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
         },
         {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
+        },
+        {
             "key": "IT_US_SE_PI_GL00",
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
             "key": "IT_US_G_U_UR_01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Bien que l'apparence et la couleur du ticket donnent quelques indices sur le contenu de ce dernier, le résultat de l'invocation dépend avant tout des esprits du lien qui se trouvent à l'intérieur."
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Bien que l'apparence et la couleur du ticket donnent quelques indices sur le contenu de ce dernier, le résultat de l'invocation dépend avant tout des esprits du lien qui se trouvent à l'intérieur."
         },
         {
@@ -2974,6 +3098,10 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_05",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
@@ -3206,6 +3334,34 @@
         },
         {
             "key": "IT_VPI_LW_VALE2",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
             "value": ""
         },
         {

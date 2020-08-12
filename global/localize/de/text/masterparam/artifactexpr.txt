@@ -1889,6 +1889,18 @@
             "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: B oder höher"
         },
         {
+            "key": "AF_ACC_FF1_WROL_1",
+            "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
+        },
+        {
+            "key": "AF_ACC_LW_QILF_1",
+            "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
+        },
+        {
+            "key": "AF_KAT_LW_SIMR_1",
+            "value": "Art der Ausrüstung: Katana<br>Angemessene Waffenkenntnis: B oder höher"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: B oder höher"
         },
@@ -1977,6 +1989,10 @@
             "value": "Art der Ausrüstung: Dolch<br>Angemessene Waffenkenntnis: A oder höher"
         },
         {
+            "key": "AF_SWO_FF1_WROL_2",
+            "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: A oder höher"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
         },
@@ -2003,6 +2019,58 @@
         {
             "key": "AF_LW_BSW_011",
             "value": "Art der Ausrüstung: Großschwert<br>Angemessene Waffenkenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Art der Ausrüstung: Kleidung<br>Angemessene Rüstungskenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Art der Ausrüstung: Kleidung<br>Angemessene Rüstungskenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Art der Ausrüstung: Kleidung<br>Angemessene Rüstungskenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Art der Ausrüstung: Kleidung<br>Angemessene Rüstungskenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Art der Ausrüstung: Kleidung<br>Angemessene Rüstungskenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Art der Ausrüstung: Kleidung<br>Angemessene Rüstungskenntnis: A oder höher"
+        },
+        {
+            "key": "AF_FF1_ARM_002",
+            "value": "Art der Ausrüstung: Rüstung<br>Angemessene Rüstungskenntnis: B oder höher"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Art der Ausrüstung: Rüstung<br>Angemessene Rüstungskenntnis: B oder höher"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Art der Ausrüstung: Rüstung<br>Angemessene Rüstungskenntnis: B oder höher"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Art der Ausrüstung: Rüstung<br>Angemessene Rüstungskenntnis: B oder höher"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Art der Ausrüstung: Rüstung<br>Angemessene Rüstungskenntnis: B oder höher"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Art der Ausrüstung: Rüstung<br>Angemessene Rüstungskenntnis: B oder höher"
+        },
+        {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Art der Ausrüstung: Stab<br>Angemessene Waffenkenntnis: A oder höher"
         }
     ]
 }

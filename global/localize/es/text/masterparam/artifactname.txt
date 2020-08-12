@@ -1889,6 +1889,18 @@
             "value": "Corona de soldado serpentino"
         },
         {
+            "key": "AF_ACC_FF1_WROL_1",
+            "value": "Guanteletes de la luz"
+        },
+        {
+            "key": "AF_ACC_LW_QILF_1",
+            "value": "Coletero de maga de bastones"
+        },
+        {
+            "key": "AF_KAT_LW_SIMR_1",
+            "value": "Odachi de la destrucción"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Espada de león"
         },
@@ -1977,6 +1989,10 @@
             "value": "Kris de asesino"
         },
         {
+            "key": "AF_SWO_FF1_WROL_2",
+            "value": "Espada de la luz"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Anillo de alejandrita"
         },
@@ -2003,6 +2019,58 @@
         {
             "key": "AF_LW_BSW_011",
             "value": "Sable carmesí"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Túnica de platino"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Túnica de platino +1"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Túnica de platino +2"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Túnica de platino +3"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Túnica de platino +4"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Túnica de platino +5"
+        },
+        {
+            "key": "AF_FF1_ARM_002",
+            "value": "Armadura de la luz"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Armadura de la luz +1"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Armadura de la luz +2"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Armadura de la luz +3"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Armadura de la luz +4"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Armadura de la luz +5"
+        },
+        {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Bastón fantasmal"
         }
     ]
 }

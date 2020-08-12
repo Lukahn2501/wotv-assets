@@ -26,11 +26,11 @@
         },
         {
             "key": "Nstep_beginner_gacha_10_20191218_step1",
-            "value": "1 unité UR garantie dans les 2 prochaines invocations"
+            "value": "Encore 2 invocations avant d'obtenir 1 unité UR garantie"
         },
         {
             "key": "Nstep_beginner_gacha_10_20191218_step2",
-            "value": "1 unité UR garantie dans la prochaine invocation"
+            "value": "Encore 1 invocation avant d'obtenir 1 unité UR garantie"
         },
         {
             "key": "Nstep_beginner_gacha_10_20191218_step3",
@@ -526,11 +526,11 @@
         },
         {
             "key": "gacha_unit_vc_gl20200701_10_step2",
-            "value": "1 unité UR garantie ou 1 atout-vision UR garanti"
+            "value": "1 unité ou 1 atout-vision UR garanti"
         },
         {
             "key": "gacha_unit_vc_gl20200701_10_step1",
-            "value": "1 unité UR garantie ou 1 atout-vision UR garanti"
+            "value": "1 unité ou 1 atout-vision UR garanti"
         },
         {
             "key": "gacha_unit_vc_gl20200701_10_base",
@@ -623,6 +623,258 @@
         {
             "key": "p_gacha_unit_gl20200715_10",
             "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_01",
+            "value": "10 médailles d'invocation B [Juillet] incluses"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_10",
+            "value": "100 médailles d'invocation B [Juillet] incluses"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_01",
+            "value": "10 médailles d'invocation B [Juillet] incluses"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "100 médailles d'invocation B [Juillet] incluses"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step3",
+            "value": "Atout-vision du moment garanti"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step2",
+            "value": "Atout-vision du moment garanti au palier 3"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step1",
+            "value": "Atout-vision du moment garanti au palier 3"
+        },
+        {
+            "key": "3step-gacha_gl20200722_base",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step4",
+            "value": "50 fragments de pensée inclus"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step3",
+            "value": "50 prismes d'éveil inclus"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_gacha_gl20200729_01",
+            "value": "10 médailles d'invocation A [FFI] incluses"
+        },
+        {
+            "key": "ff1_gacha_gl20200729_10",
+            "value": "100 médailles d'invocation A [FFI] incluses"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_01",
+            "value": "10 médailles d'invocation B [Juillet] incluses"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_10",
+            "value": "100 médailles d'invocation B [Juillet] incluses"
+        },
+        {
+            "key": "ff1_p_gacha_unit_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_p_gacha_vc_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_9",
+            "value": ""
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step3",
+            "value": "1 unité de lumière UR garantie"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step2",
+            "value": "1 unité ou 1 atout-vision UR garanti"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step1",
+            "value": "1 unité ou 1 atout-vision UR garanti"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step4",
+            "value": "50 fragments de pensée inclus"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step3",
+            "value": "50 prismes d'éveil inclus"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_01",
+            "value": "10 médailles d'invocation A [Août] incluses"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "100 médailles d'invocation A [Août] incluses"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step4",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step3",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200805_10",
+            "value": "100 médailles d'invocation A [Août] incluses"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_01",
+            "value": "10 médailles d'invocation A [Août] incluses"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "100 médailles d'invocation A [Août] incluses"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_01",
+            "value": "10 médailles d'invocation A [Août] incluses"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "100 médailles d'invocation A [Août] incluses"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_01",
+            "value": "10 médailles d'invocation A [Août] incluses"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "100 médailles d'invocation A [Août] incluses"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step4",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step3",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200812_10",
+            "value": "100 médailles d'invocation A [Août] incluses"
         },
         {
             "key": "global_pickup_sterne_20200325_01",

@@ -39,6 +39,10 @@
         {
             "key": "AD_AREA_SM_01",
             "value": "You can acquire Magicite of all elements, necessary for training Espers."
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "You can acquire FFI Event Medals and items optimal for training Warrior of Light."
         }
     ]
 }

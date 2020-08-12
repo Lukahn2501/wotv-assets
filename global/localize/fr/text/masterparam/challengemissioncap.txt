@@ -23,6 +23,10 @@
         {
             "key": "CM_PRO_004_1",
             "value": "Missions du défi MOBIUS FINAL FANTASY"
+        },
+        {
+            "key": "CM_PRO_005_1",
+            "value": "Missions du défi FFI"
         }
     ]
 }

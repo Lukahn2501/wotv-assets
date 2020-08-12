@@ -81,6 +81,14 @@
             "value": "穆拉加親衛隊"
         },
         {
+            "key": "SE_ST_010703",
+            "value": "希庫魯要塞攻防戰"
+        },
+        {
+            "key": "SE_ST_010801",
+            "value": "要塞攻防戰結束"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "雷恩茲大森林"
         },
@@ -131,6 +139,10 @@
         {
             "key": "SE_WD_010203",
             "value": "白狼祠堂"
+        },
+        {
+            "key": "SE_WD_010204",
+            "value": "沃爾瑪之村"
         },
         {
             "key": "SE_SB_01",
@@ -250,7 +262,7 @@
         },
         {
             "key": "SE_BGN_QUEST",
-            "value": "初學者任務"
+            "value": "新手任務"
         },
         {
             "key": "SE_EV_GL_1M_DL",
@@ -495,6 +507,62 @@
         {
             "key": "SE_EV_NEWMAP_001",
             "value": "公會戰鬥模擬戰"
+        },
+        {
+            "key": "SE_EV_FF1_01",
+            "value": "FINAL FANTASY I 聯動任務"
+        },
+        {
+            "key": "SE_EV_FF1_01_EX",
+            "value": "FINAL FANTASY I 聯動任務【EX】"
+        },
+        {
+            "key": "SE_MU_FF1_01_EX",
+            "value": "FINAL FANTASY I 聯動任務【EX】"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "限定困難任務（光之戰士）"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "限定困難任務（基爾菲）"
+        },
+        {
+            "key": "SE_EV_04_01",
+            "value": "遙遠的東方"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "遙遠的東方【EX】"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "遙遠的東方【EX】協力"
+        },
+        {
+            "key": "SE_EV_NEWMAP_002",
+            "value": "公會戰鬥模擬戰"
+        },
+        {
+            "key": "SE_CHAL_01",
+            "value": "挑戰任務"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_AW_HIGH_03",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_03",
+            "value": ""
         }
     ]
 }

@@ -62,7 +62,7 @@
         },
         {
             "key": "UnitStrengthLB",
-            "value": "Visionner le tutoriel de l'amélioration de la limite d'une unité"
+            "value": "Visionner le tutoriel sur l'amélioration de la limite des unités"
         },
         {
             "key": "UnitTraining",
@@ -102,7 +102,7 @@
         },
         {
             "key": "NetherBeast",
-            "value": "Visionner le tutoriel de la chimère"
+            "value": "Visionner le tutoriel des chimères"
         },
         {
             "key": "Guild",

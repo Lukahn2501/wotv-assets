@@ -51,6 +51,22 @@
         {
             "key": "13",
             "value": "New Units<br>Featured!"
+        },
+        {
+            "key": "14",
+            "value": "New Vision Cards<br>Featured!"
+        },
+        {
+            "key": "15",
+            "value": "FFI Collab<br>Summon Now!"
+        },
+        {
+            "key": "16",
+            "value": "New Units<br>Featured!"
+        },
+        {
+            "key": "17",
+            "value": "New Vision Cards<br>Featured!"
         }
     ]
 }

@@ -74,7 +74,7 @@
         },
         {
             "key": "TIPS_DUEL_002",
-            "value": "Même en cas de défaite, vous recevez jusqu'à 5 Récompenses de participation quotidiennes."
+            "value": "Même en cas de défaite, vous recevez jusqu'à 5 récompenses de participation quotidiennes."
         },
         {
             "key": "TIPS_DUEL_003",

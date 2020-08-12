@@ -217,6 +217,42 @@
             "value": "Despierta «Mobius de esperanza e ilusión»"
         },
         {
+            "key": "CM_PRO_64",
+            "value": "Avanza en las misiones de FFI I"
+        },
+        {
+            "key": "CM_PRO_65",
+            "value": "Aumenta el nivel de una unidad"
+        },
+        {
+            "key": "CM_PRO_66",
+            "value": "Mejora la habilidad de una unidad"
+        },
+        {
+            "key": "CM_PRO_67",
+            "value": "Realiza una compra en la tienda"
+        },
+        {
+            "key": "CM_PRO_68",
+            "value": "Avanza en las misiones de FFI II"
+        },
+        {
+            "key": "CM_PRO_69",
+            "value": "Únete a un gremio"
+        },
+        {
+            "key": "CM_PRO_70",
+            "value": "Haz una ofrenda a una de las estatuas del gremio"
+        },
+        {
+            "key": "CM_PRO_71",
+            "value": "Avanza en las multimisiones"
+        },
+        {
+            "key": "CM_PRO_72",
+            "value": "Avanza en las misiones de FFI III"
+        },
+        {
             "key": "GM_0001",
             "value": "Recluta a más miembros del gremio I"
         },
@@ -445,6 +481,22 @@
             "value": "Completa el capítulo 7, escena 2: Dispositivo de comunicación a distancia"
         },
         {
+            "key": "M_ST_0007_03",
+            "value": "Completa el capítulo 7, escena 3: Tomar una decisión II"
+        },
+        {
+            "key": "M_ST_0007_03_2",
+            "value": "Completa el capítulo 7, escena 3: Confiad en vuestros compañeros II"
+        },
+        {
+            "key": "M_ST_0008_01",
+            "value": "Completa el capítulo 8, escena 1: Recuperando la fortaleza"
+        },
+        {
+            "key": "M_ST_0008_01_2",
+            "value": "Completa el capítulo 8, escena 1: Muraga, el rey de Fennes"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Bonificación de acceso de rango vip 1"
         },
@@ -671,6 +723,186 @@
         {
             "key": "M_GL_DAILY_GUILD_01",
             "value": "[Limitado] Tarea de la campaña de apoyo al gremio"
+        },
+        {
+            "key": "M_FF1_1_01",
+            "value": "Completa la batalla 1 de FINAL FANTASY I (1/3)"
+        },
+        {
+            "key": "M_FF1_1_02",
+            "value": "Completa la batalla 1 de FINAL FANTASY I (2/3)"
+        },
+        {
+            "key": "M_FF1_1_03",
+            "value": "Completa la batalla 1 de FINAL FANTASY I (3/3)"
+        },
+        {
+            "key": "M_FF1_1_04",
+            "value": "Completa la batalla 2 de FINAL FANTASY I (1/3)"
+        },
+        {
+            "key": "M_FF1_1_05",
+            "value": "Completa la batalla 2 de FINAL FANTASY I (2/3)"
+        },
+        {
+            "key": "M_FF1_1_06",
+            "value": "Completa la batalla 2 de FINAL FANTASY I (3/3)"
+        },
+        {
+            "key": "M_FF1_1_07",
+            "value": "Completa la batalla 3 de FINAL FANTASY I (1/3)"
+        },
+        {
+            "key": "M_FF1_1_08",
+            "value": "Completa la batalla 3 de FINAL FANTASY I (2/3)"
+        },
+        {
+            "key": "M_FF1_1_09",
+            "value": "Completa la batalla 3 de FINAL FANTASY I (3/3)"
+        },
+        {
+            "key": "M_FF1_1_10",
+            "value": "Completa la batalla 4 de FINAL FANTASY I (1/3)"
+        },
+        {
+            "key": "M_FF1_1_11",
+            "value": "Completa la batalla 4 de FINAL FANTASY I (2/3)"
+        },
+        {
+            "key": "M_FF1_1_12",
+            "value": "Completa la batalla 4 de FINAL FANTASY I (3/3)"
+        },
+        {
+            "key": "M_FF1_1_13",
+            "value": "Completa la batalla 5 de FINAL FANTASY I (1/5)"
+        },
+        {
+            "key": "M_FF1_1_14",
+            "value": "Completa la batalla 5 de FINAL FANTASY I (3/5)"
+        },
+        {
+            "key": "M_FF1_1_15",
+            "value": "Completa la batalla 5 de FINAL FANTASY I (5/5)"
+        },
+        {
+            "key": "M_FF1_1M_01",
+            "value": "Completa la batalla 1 de FINAL FANTASY I [Intermedio] (1/3)"
+        },
+        {
+            "key": "M_FF1_1M_02",
+            "value": "Completa la batalla 1 de FINAL FANTASY I [Intermedio] (2/3)"
+        },
+        {
+            "key": "M_FF1_1M_03",
+            "value": "Completa la batalla 1 de FINAL FANTASY I [Intermedio] (3/3)"
+        },
+        {
+            "key": "M_FF1_1M_04",
+            "value": "Completa la batalla 2 de FINAL FANTASY I [Intermedio] (1/3)"
+        },
+        {
+            "key": "M_FF1_1M_05",
+            "value": "Completa la batalla 2 de FINAL FANTASY I [Intermedio] (2/3)"
+        },
+        {
+            "key": "M_FF1_1M_06",
+            "value": "Completa la batalla 2 de FINAL FANTASY I [Intermedio] (3/3)"
+        },
+        {
+            "key": "M_FF1_1M_07",
+            "value": "Completa la batalla 3 de FINAL FANTASY I [Intermedio] (1/3)"
+        },
+        {
+            "key": "M_FF1_1M_08",
+            "value": "Completa la batalla 3 de FINAL FANTASY I [Intermedio] (2/3)"
+        },
+        {
+            "key": "M_FF1_1M_09",
+            "value": "Completa la batalla 3 de FINAL FANTASY I [Intermedio] (3/3)"
+        },
+        {
+            "key": "M_FF1_1M_10",
+            "value": "Completa la batalla 4 de FINAL FANTASY I [Intermedio] (1/3)"
+        },
+        {
+            "key": "M_FF1_1M_11",
+            "value": "Completa la batalla 4 de FINAL FANTASY I [Intermedio] (2/3)"
+        },
+        {
+            "key": "M_FF1_1M_12",
+            "value": "Completa la batalla 4 de FINAL FANTASY I [Intermedio] (3/3)"
+        },
+        {
+            "key": "M_FF1_1M_13",
+            "value": "Completa la batalla 5 de FINAL FANTASY I [Intermedio] (1/10)"
+        },
+        {
+            "key": "M_FF1_1M_14",
+            "value": "Completa la batalla 5 de FINAL FANTASY I [Intermedio] (3/10)"
+        },
+        {
+            "key": "M_FF1_1M_15",
+            "value": "Completa la batalla 5 de FINAL FANTASY I [Intermedio] (5/10)"
+        },
+        {
+            "key": "M_FF1_1M_16",
+            "value": "Completa la batalla 5 de FINAL FANTASY I [Intermedio] (10/10)"
+        },
+        {
+            "key": "M_FF1_1_EX_01",
+            "value": "Completa FINAL FANTASY I [EX] (1/10)"
+        },
+        {
+            "key": "M_FF1_1_EX_02",
+            "value": "Completa FINAL FANTASY I [EX] (3/10)"
+        },
+        {
+            "key": "M_FF1_1_EX_03",
+            "value": "Completa FINAL FANTASY I [EX] (5/10)"
+        },
+        {
+            "key": "M_FF1_1_EX_04",
+            "value": "Completa FINAL FANTASY I [EX] (10/10)"
+        },
+        {
+            "key": "M_FF1_MU_EX_01",
+            "value": "[Multijugador] Completa FINAL FANTASY I [EX] (1/5)"
+        },
+        {
+            "key": "M_FF1_MU_EX_02",
+            "value": "[Multijugador] Completa FINAL FANTASY I [EX] (3/5)"
+        },
+        {
+            "key": "M_FF1_MU_EX_03",
+            "value": "[Multijugador] Completa FINAL FANTASY I [EX] (5/5)"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_01",
+            "value": "[Limitada] Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_02",
+            "value": "[Limitada] Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_03",
+            "value": "[Limitada] Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_04",
+            "value": "[Limitada] Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_05",
+            "value": "[Limitada] Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_06",
+            "value": "[Limitada] Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "M_GL_DAILY_RAID_07",
+            "value": "[Limitada] Tarea diaria de participación de asalto"
         },
         {
             "key": "M_FF14_1_1_01",
@@ -1529,6 +1761,178 @@
             "value": "[Multijugador] Completa Vida ardiente [EX] (5/5)"
         },
         {
+            "key": "M_EV04_1_01",
+            "value": "Completa El Lejano Oriente, Ep. 1 (1/3)"
+        },
+        {
+            "key": "M_EV04_1_02",
+            "value": "Completa El Lejano Oriente, Ep. 1 (2/3)"
+        },
+        {
+            "key": "M_EV04_1_03",
+            "value": "Completa El Lejano Oriente, Ep. 1 (3/3)"
+        },
+        {
+            "key": "M_EV04_1_04",
+            "value": "Completa El Lejano Oriente, Ep. 2 (1/3)"
+        },
+        {
+            "key": "M_EV04_1_05",
+            "value": "Completa El Lejano Oriente, Ep. 2 (2/3)"
+        },
+        {
+            "key": "M_EV04_1_06",
+            "value": "Completa El Lejano Oriente, Ep. 2 (3/3)"
+        },
+        {
+            "key": "M_EV04_1_07",
+            "value": "Completa El Lejano Oriente, Ep. 3 (1/3)"
+        },
+        {
+            "key": "M_EV04_1_08",
+            "value": "Completa El Lejano Oriente, Ep. 3 (2/3)"
+        },
+        {
+            "key": "M_EV04_1_09",
+            "value": "Completa El Lejano Oriente, Ep. 3 (3/3)"
+        },
+        {
+            "key": "M_EV04_1_10",
+            "value": "Completa El Lejano Oriente, Ep. 4 (1/3)"
+        },
+        {
+            "key": "M_EV04_1_11",
+            "value": "Completa El Lejano Oriente, Ep. 4 (2/3)"
+        },
+        {
+            "key": "M_EV04_1_12",
+            "value": "Completa El Lejano Oriente, Ep. 4 (3/3)"
+        },
+        {
+            "key": "M_EV04_1_13",
+            "value": "Completa El Lejano Oriente, Ep. 5 (1/5)"
+        },
+        {
+            "key": "M_EV04_1_14",
+            "value": "Completa El Lejano Oriente, Ep. 5 (3/5)"
+        },
+        {
+            "key": "M_EV04_1_15",
+            "value": "Completa El Lejano Oriente, Ep. 5 (5/5)"
+        },
+        {
+            "key": "M_EV04_1_16",
+            "value": "Completa El Lejano Oriente, Ep. 6 (1/3)"
+        },
+        {
+            "key": "M_EV04_1_17",
+            "value": "Completa El Lejano Oriente, Ep. 6 (2/3)"
+        },
+        {
+            "key": "M_EV04_1_18",
+            "value": "Completa El Lejano Oriente, Ep. 6 (3/3)"
+        },
+        {
+            "key": "M_EV04_1_19",
+            "value": "Completa El Lejano Oriente, Ep. 7 (1/3)"
+        },
+        {
+            "key": "M_EV04_1_20",
+            "value": "Completa El Lejano Oriente, Ep. 7 (2/3)"
+        },
+        {
+            "key": "M_EV04_1_21",
+            "value": "Completa El Lejano Oriente, Ep. 7 (3/3)"
+        },
+        {
+            "key": "M_EV04_1_22",
+            "value": "Completa El Lejano Oriente, Ep. 8 (1/3)"
+        },
+        {
+            "key": "M_EV04_1_23",
+            "value": "Completa El Lejano Oriente, Ep. 8 (2/3)"
+        },
+        {
+            "key": "M_EV04_1_24",
+            "value": "Completa El Lejano Oriente, Ep. 8 (3/3)"
+        },
+        {
+            "key": "M_EV04_1_25",
+            "value": "Completa El Lejano Oriente, Ep. 9 (1/3)"
+        },
+        {
+            "key": "M_EV04_1_26",
+            "value": "Completa El Lejano Oriente, Ep. 9 (2/3)"
+        },
+        {
+            "key": "M_EV04_1_27",
+            "value": "Completa El Lejano Oriente, Ep. 9 (3/3)"
+        },
+        {
+            "key": "M_EV04_1_28",
+            "value": "Completa El Lejano Oriente, Ep. 10 (1/10)"
+        },
+        {
+            "key": "M_EV04_1_29",
+            "value": "Completa El Lejano Oriente, Ep. 10 (3/10)"
+        },
+        {
+            "key": "M_EV04_1_30",
+            "value": "Completa El Lejano Oriente, Ep. 10 (5/10)"
+        },
+        {
+            "key": "M_EV04_1_31",
+            "value": "Completa El Lejano Oriente, Ep. 10 (10/10)"
+        },
+        {
+            "key": "M_EV04_EX1_01",
+            "value": "Completa El Lejano Oriente [EX1] (1/5)"
+        },
+        {
+            "key": "M_EV04_EX1_02",
+            "value": "Completa El Lejano Oriente [EX1] (3/5)"
+        },
+        {
+            "key": "M_EV04_EX1_03",
+            "value": "Completa El Lejano Oriente [EX1] (5/5)"
+        },
+        {
+            "key": "M_EV04_EX2_01",
+            "value": "Completa El Lejano Oriente [EX2] (1/5)"
+        },
+        {
+            "key": "M_EV04_EX2_02",
+            "value": "Completa El Lejano Oriente [EX2] (3/5)"
+        },
+        {
+            "key": "M_EV04_EX2_03",
+            "value": "Completa El Lejano Oriente [EX2] (5/5)"
+        },
+        {
+            "key": "M_MU_EV04_EX1_01",
+            "value": "[Multijugador] Completa El Lejano Oriente [EX1] (1/5)"
+        },
+        {
+            "key": "M_MU_EV04_EX1_02",
+            "value": "[Multijugador] Completa El Lejano Oriente [EX1] (3/5)"
+        },
+        {
+            "key": "M_MU_EV04_EX1_03",
+            "value": "[Multijugador] Completa El Lejano Oriente [EX1] (5/5)"
+        },
+        {
+            "key": "M_MU_EV04_EX2_01",
+            "value": "[Multijugador] Completa El Lejano Oriente [EX2] (1/5)"
+        },
+        {
+            "key": "M_MU_EV04_EX2_02",
+            "value": "[Multijugador] Completa El Lejano Oriente [EX2] (3/5)"
+        },
+        {
+            "key": "M_MU_EV04_EX2_03",
+            "value": "[Multijugador] Completa El Lejano Oriente [EX2] (5/5)"
+        },
+        {
             "key": "M_ETRE01_1_01",
             "value": "Completa la misión de entrenamiento de Etra I (1/3)"
         },
@@ -1782,11 +2186,11 @@
         },
         {
             "key": "M_MU_ART_SCR_02",
-            "value": "[Multijugador] Completa la misión difícil de libro secreto (espada, espadón, hacha) (1/5)"
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (espada, espadón, hacha) (3/5)"
         },
         {
             "key": "M_MU_ART_SCR_03",
-            "value": "[Multijugador] Completa la misión difícil de libro secreto (espada, espadón, hacha) (1/5)"
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (espada, espadón, hacha) (5/5)"
         },
         {
             "key": "M_ART_SCR_06",
@@ -1882,6 +2286,134 @@
         },
         {
             "key": "M_MU_ART_SCR_12",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (bastón, katana, daga) (5/5)"
+        },
+        {
+            "key": "M_ART_SCR_26",
+            "value": "Completa la misión difícil de libro secreto (espada, espadón, hacha) I (1/5)"
+        },
+        {
+            "key": "M_ART_SCR_27",
+            "value": "Completa la misión difícil de libro secreto (espada, espadón, hacha) II (1/5)"
+        },
+        {
+            "key": "M_ART_SCR_28",
+            "value": "Completa la misión difícil de libro secreto (espada, espadón, hacha) I (3/5)"
+        },
+        {
+            "key": "M_ART_SCR_29",
+            "value": "Completa la misión difícil de libro secreto (espada, espadón, hacha) II (3/5)"
+        },
+        {
+            "key": "M_ART_SCR_30",
+            "value": "Completa la misión difícil de libro secreto (espada, espadón, hacha) (5/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_16",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (espada, espadón, hacha) (1/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_17",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (espada, espadón, hacha) (3/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_18",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (espada, espadón, hacha) (5/5)"
+        },
+        {
+            "key": "M_ART_SCR_31",
+            "value": "Completa la misión difícil de libro secreto (lanza, puños, pistola) I (1/5)"
+        },
+        {
+            "key": "M_ART_SCR_32",
+            "value": "Completa la misión difícil de libro secreto (lanza, puños, pistola) II (1/5)"
+        },
+        {
+            "key": "M_ART_SCR_33",
+            "value": "Completa la misión difícil de libro secreto (lanza, puños, pistola) I (3/5)"
+        },
+        {
+            "key": "M_ART_SCR_34",
+            "value": "Completa la misión difícil de libro secreto (lanza, puños, pistola) II (3/5)"
+        },
+        {
+            "key": "M_ART_SCR_35",
+            "value": "Completa la misión difícil de libro secreto (lanza, puños, pistola) (5/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_19",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (lanza, puños, pistola) (1/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_20",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (lanza, puños, pistola) (3/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_21",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (lanza, puños, pistola) (5/5)"
+        },
+        {
+            "key": "M_ART_SCR_36",
+            "value": "Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) I (1/5)"
+        },
+        {
+            "key": "M_ART_SCR_37",
+            "value": "Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) II (1/5)"
+        },
+        {
+            "key": "M_ART_SCR_38",
+            "value": "Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) I (3/5)"
+        },
+        {
+            "key": "M_ART_SCR_39",
+            "value": "Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) II (3/5)"
+        },
+        {
+            "key": "M_ART_SCR_40",
+            "value": "Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) (5/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_22",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) (1/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_23",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) (3/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_24",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (armadura, accesorio, hoja ninja) (5/5)"
+        },
+        {
+            "key": "M_ART_SCR_41",
+            "value": "Completa la misión difícil de libro secreto (bastón, katana, daga) I (1/5)"
+        },
+        {
+            "key": "M_ART_SCR_42",
+            "value": "Completa la misión difícil de libro secreto (bastón, katana, daga) II (1/5)"
+        },
+        {
+            "key": "M_ART_SCR_43",
+            "value": "Completa la misión difícil de libro secreto (bastón, katana, daga) I (3/5)"
+        },
+        {
+            "key": "M_ART_SCR_44",
+            "value": "Completa la misión difícil de libro secreto (bastón, katana, daga) II (3/5)"
+        },
+        {
+            "key": "M_ART_SCR_45",
+            "value": "Completa la misión difícil de libro secreto (bastón, katana, daga) (5/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_25",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (bastón, katana, daga) (1/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_26",
+            "value": "[Multijugador] Completa la misión difícil de libro secreto (bastón, katana, daga) (3/5)"
+        },
+        {
+            "key": "M_MU_ART_SCR_27",
             "value": "[Multijugador] Completa la misión difícil de libro secreto (bastón, katana, daga) (5/5)"
         },
         {
@@ -2446,6 +2978,42 @@
         },
         {
             "key": "M_QEST_054",
+            "value": "Misiones de historia: tarea 9"
+        },
+        {
+            "key": "M_QEST_055",
+            "value": "Misiones de historia: tarea 1"
+        },
+        {
+            "key": "M_QEST_056",
+            "value": "Misiones de historia: tarea 2"
+        },
+        {
+            "key": "M_QEST_057",
+            "value": "Misiones de historia: tarea 3"
+        },
+        {
+            "key": "M_QEST_058",
+            "value": "Misiones de historia: tarea 4"
+        },
+        {
+            "key": "M_QEST_059",
+            "value": "Misiones de historia: tarea 5"
+        },
+        {
+            "key": "M_QEST_060",
+            "value": "Misiones de historia: tarea 6"
+        },
+        {
+            "key": "M_QEST_061",
+            "value": "Misiones de historia: tarea 7"
+        },
+        {
+            "key": "M_QEST_062",
+            "value": "Misiones de historia: tarea 8"
+        },
+        {
+            "key": "M_QEST_063",
             "value": "Misiones de historia: tarea 9"
         },
         {
@@ -4745,6 +5313,550 @@
             "value": "Estatuas del gremio: tarea 20"
         },
         {
+            "key": "M_MONTHLY_0546",
+            "value": "Misiones de historia: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0547",
+            "value": "Misiones de historia: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0548",
+            "value": "Misiones de historia: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0549",
+            "value": "Misiones de historia: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0550",
+            "value": "Misiones de historia: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0551",
+            "value": "Misiones de historia: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0552",
+            "value": "Misiones de historia: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0553",
+            "value": "Misiones de historia: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0554",
+            "value": "Misiones de historia: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0555",
+            "value": "Misiones de historia: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0556",
+            "value": "Misiones de historia: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0557",
+            "value": "Misiones de historia: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0558",
+            "value": "Misiones de historia: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0559",
+            "value": "Misiones de historia: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0560",
+            "value": "Misiones de historia: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0561",
+            "value": "Misiones de historia: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0562",
+            "value": "Misiones de historia: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0563",
+            "value": "Misiones de historia: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0564",
+            "value": "Misiones de historia: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0565",
+            "value": "Misiones de historia: tarea 20"
+        },
+        {
+            "key": "M_MONTHLY_0566",
+            "value": "Misiones difíciles: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0567",
+            "value": "Misiones difíciles: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0568",
+            "value": "Misiones difíciles: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0569",
+            "value": "Misiones difíciles: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0570",
+            "value": "Misiones difíciles: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0571",
+            "value": "Misiones difíciles: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0572",
+            "value": "Misiones difíciles: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0573",
+            "value": "Misiones difíciles: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0574",
+            "value": "Misiones difíciles: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0575",
+            "value": "Misiones difíciles: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0576",
+            "value": "Misiones difíciles: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0577",
+            "value": "Misiones difíciles: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0578",
+            "value": "Misiones difíciles: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0579",
+            "value": "Misiones difíciles: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0580",
+            "value": "Misiones difíciles: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0581",
+            "value": "Misiones difíciles: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0582",
+            "value": "Misiones difíciles: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0583",
+            "value": "Misiones difíciles: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0584",
+            "value": "Misiones difíciles: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0585",
+            "value": "Multimisiones: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0586",
+            "value": "Multimisiones: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0587",
+            "value": "Multimisiones: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0588",
+            "value": "Multimisiones: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0589",
+            "value": "Multimisiones: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0590",
+            "value": "Multimisiones: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0591",
+            "value": "Multimisiones: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0592",
+            "value": "Multimisiones: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0593",
+            "value": "Multimisiones: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0594",
+            "value": "Multimisiones: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0595",
+            "value": "Multimisiones: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0596",
+            "value": "Multimisiones: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0597",
+            "value": "Multimisiones: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0598",
+            "value": "Multimisiones: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0599",
+            "value": "Multimisiones: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0600",
+            "value": "Multimisiones: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0601",
+            "value": "Multimisiones: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0602",
+            "value": "Multimisiones: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0603",
+            "value": "Multimisiones: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0604",
+            "value": "Multimisiones: tarea 20"
+        },
+        {
+            "key": "M_MONTHLY_0605",
+            "value": "Cámara de la EXP: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0606",
+            "value": "Cámara de la EXP: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0607",
+            "value": "Cámara de la EXP: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0608",
+            "value": "Cámara de la EXP: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0609",
+            "value": "Cámara de la EXP: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0610",
+            "value": "Cámara de la EXP: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0611",
+            "value": "Cámara de la EXP: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0612",
+            "value": "Cámara de la EXP: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0613",
+            "value": "Cámara de la EXP: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0614",
+            "value": "Cámara de la EXP: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0615",
+            "value": "Cámara de la EXP: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0616",
+            "value": "Cámara de la EXP: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0617",
+            "value": "Cámara de la EXP: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0618",
+            "value": "Cámara de la EXP: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0619",
+            "value": "Cámara de la EXP: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0620",
+            "value": "Cámara de la EXP: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0621",
+            "value": "Cámara de la EXP: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0622",
+            "value": "Cámara de la EXP: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0623",
+            "value": "Cámara de la EXP: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0624",
+            "value": "Cámara de la EXP: tarea 20"
+        },
+        {
+            "key": "M_MONTHLY_0625",
+            "value": "Triunfa en la Arena: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0626",
+            "value": "Triunfa en la Arena: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0627",
+            "value": "Triunfa en la Arena: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0628",
+            "value": "Triunfa en la Arena: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0629",
+            "value": "Triunfa en la Arena: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0630",
+            "value": "Triunfa en la Arena: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0631",
+            "value": "Triunfa en la Arena: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0632",
+            "value": "Triunfa en la Arena: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0633",
+            "value": "Triunfa en la Arena: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0634",
+            "value": "Triunfa en la Arena: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0635",
+            "value": "Triunfa en la Arena: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0636",
+            "value": "Triunfa en la Arena: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0637",
+            "value": "Triunfa en la Arena: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0638",
+            "value": "Triunfa en la Arena: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0639",
+            "value": "Triunfa en la Arena: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0640",
+            "value": "Triunfa en la Arena: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0641",
+            "value": "Triunfa en la Arena: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0642",
+            "value": "Triunfa en la Arena: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0643",
+            "value": "Triunfa en la Arena: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0644",
+            "value": "Triunfa en la Arena: tarea 20"
+        },
+        {
+            "key": "M_MONTHLY_0645",
+            "value": "Entrena a tus chocobos: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0646",
+            "value": "Entrena a tus chocobos: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0647",
+            "value": "Entrena a tus chocobos: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0648",
+            "value": "Entrena a tus chocobos: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0649",
+            "value": "Entrena a tus chocobos: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0650",
+            "value": "Entrena a tus chocobos: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0651",
+            "value": "Entrena a tus chocobos: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0652",
+            "value": "Entrena a tus chocobos: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0653",
+            "value": "Entrena a tus chocobos: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0654",
+            "value": "Entrena a tus chocobos: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0655",
+            "value": "Entrena a tus chocobos: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0656",
+            "value": "Entrena a tus chocobos: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0657",
+            "value": "Entrena a tus chocobos: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0658",
+            "value": "Entrena a tus chocobos: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0659",
+            "value": "Entrena a tus chocobos: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0660",
+            "value": "Entrena a tus chocobos: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0661",
+            "value": "Entrena a tus chocobos: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0662",
+            "value": "Estatuas del gremio: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0663",
+            "value": "Estatuas del gremio: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0664",
+            "value": "Estatuas del gremio: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0665",
+            "value": "Estatuas del gremio: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0666",
+            "value": "Estatuas del gremio: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0667",
+            "value": "Estatuas del gremio: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0668",
+            "value": "Estatuas del gremio: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0669",
+            "value": "Estatuas del gremio: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0670",
+            "value": "Estatuas del gremio: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0671",
+            "value": "Estatuas del gremio: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0672",
+            "value": "Estatuas del gremio: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0673",
+            "value": "Estatuas del gremio: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0674",
+            "value": "Estatuas del gremio: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0675",
+            "value": "Estatuas del gremio: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0676",
+            "value": "Estatuas del gremio: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0677",
+            "value": "Estatuas del gremio: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0678",
+            "value": "Estatuas del gremio: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0679",
+            "value": "Estatuas del gremio: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0680",
+            "value": "Estatuas del gremio: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0681",
+            "value": "Estatuas del gremio: tarea 20"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Gasta visiores: bonificación de tiempo limitado 01"
         },
@@ -4838,6 +5950,54 @@
         },
         {
             "key": "M_LAPS_P_VNLA_06",
+            "value": "Gasta visiores: bonificación de tiempo limitado 06"
+        },
+        {
+            "key": "M_LAPS_P_WROL_01",
+            "value": "Gasta visiores: bonificación de tiempo limitado 01"
+        },
+        {
+            "key": "M_LAPS_P_WROL_02",
+            "value": "Gasta visiores: bonificación de tiempo limitado 02"
+        },
+        {
+            "key": "M_LAPS_P_WROL_03",
+            "value": "Gasta visiores: bonificación de tiempo limitado 03"
+        },
+        {
+            "key": "M_LAPS_P_WROL_04",
+            "value": "Gasta visiores: bonificación de tiempo limitado 04"
+        },
+        {
+            "key": "M_LAPS_P_WROL_05",
+            "value": "Gasta visiores: bonificación de tiempo limitado 05"
+        },
+        {
+            "key": "M_LAPS_P_WROL_06",
+            "value": "Gasta visiores: bonificación de tiempo limitado 06"
+        },
+        {
+            "key": "M_LAPS_P_QILF_01",
+            "value": "Gasta visiores: bonificación de tiempo limitado 01"
+        },
+        {
+            "key": "M_LAPS_P_QILF_02",
+            "value": "Gasta visiores: bonificación de tiempo limitado 02"
+        },
+        {
+            "key": "M_LAPS_P_QILF_03",
+            "value": "Gasta visiores: bonificación de tiempo limitado 03"
+        },
+        {
+            "key": "M_LAPS_P_QILF_04",
+            "value": "Gasta visiores: bonificación de tiempo limitado 04"
+        },
+        {
+            "key": "M_LAPS_P_QILF_05",
+            "value": "Gasta visiores: bonificación de tiempo limitado 05"
+        },
+        {
+            "key": "M_LAPS_P_QILF_06",
             "value": "Gasta visiores: bonificación de tiempo limitado 06"
         },
         {

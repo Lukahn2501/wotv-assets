@@ -33,6 +33,10 @@
             "value": "Prendre l'avantage"
         },
         {
+            "key": "CH_ST_0108",
+            "value": "L'heure de la révolte a sonné"
+        },
+        {
             "key": "CH_WD_0102",
             "value": "Terres glaciales"
         }

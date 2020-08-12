@@ -129,6 +129,30 @@
             "value": "Invocación insólita"
         },
         {
+            "key": "Raregacha_A_gl20200729_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_P",
+            "value": "Invocación insólita"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Invocación normal limitada: Conmemoración del lanzamiento"
         },
@@ -238,6 +262,38 @@
         },
         {
             "key": "Normal_gacha_A_gl20200715_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_10",
             "value": "Invocación normal (x10) limitada"
         }
     ]

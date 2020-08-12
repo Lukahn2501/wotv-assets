@@ -86,11 +86,11 @@
         },
         {
             "key": "IT_SET_AF_RECIPE_R_01",
-            "value": "„Ausrüstung (Seltenheit S)“-Anleitungspaket I "
+            "value": "[R]-Anleitungspaket I "
         },
         {
             "key": "IT_SET_AF_RECIPE_R_02",
-            "value": "„Ausrüstung (Seltenheit S)“-Anleitungspaket II"
+            "value": "[R]-Anleitungspaket II"
         },
         {
             "key": "IT_SET_AW_FIRE_02",
@@ -342,7 +342,7 @@
         },
         {
             "key": "IT_SET_VC_GROW_01",
-            "value": "Visionskarten-Trainingspaket B"
+            "value": "Visionskartentrainingspaket B"
         },
         {
             "key": "IT_SET_5MDL_VC_GROW_00",
@@ -362,7 +362,7 @@
         },
         {
             "key": "IT_SET_UR_UNIT",
-            "value": "„5 Millionen Downloads“-[UR]-Einheitenpaket"
+            "value": "[UR]-Einheitenpaket"
         },
         {
             "key": "IT_SET_UR_VC",
@@ -422,7 +422,7 @@
         },
         {
             "key": "IT_SET_VC_GROW_02",
-            "value": "Visionskarten-Trainingspaket C"
+            "value": "Visionskartentrainingspaket C"
         },
         {
             "key": "IT_SET_AWK_GL01",
@@ -466,7 +466,7 @@
         },
         {
             "key": "IT_SET_VC_GROW_03",
-            "value": "Visionskarten-Trainingspaket II"
+            "value": "Visionskartentrainingspaket II"
         },
         {
             "key": "IT_SET_MBFF_SE_UPI",
@@ -571,6 +571,102 @@
         {
             "key": "IT_SET_AW_DARK_CM_03",
             "value": "Dunkel-Erweckungspaket (vollst.)"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "[Nur für Einsteiger] Regenbogenfarbene Visionskugel x1"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "[Nur für Einsteiger] Azurblaue Visionskugel x1"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "[Nur für Einsteiger] Regenbogen-Gedankenfragment x1"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "[Nur für Einsteiger] Jobpaket"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "[Nur für Einsteiger] Jadeitpaket I"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "[Nur für Einsteiger] Jadeitpaket II"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "[Nur für Einsteiger] Azuritpaket I"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "[Nur für Einsteiger] Azuritpaket II"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "[Nur für Einsteiger] [UR]-Einheitenerweckungspaket"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "[R]-Anleitungspaket II"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "[UR]-Visionskartenpaket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "Licht-Esperstärkungspaket"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "Abwehrpaket"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "Psychepaket"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "„Krieger des Lichts“-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "Licht-Erweckungspaket (vollst.)"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "„Todesmaschine“-Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "Erd-Erweckungspaket (vollst.)"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "[UR]-Einheitenpaket"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Visionskartentrainingspaket B"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "Dunkel-Esperstärkungspaket"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "Visionskartenstärkungspaket"
         }
     ]
 }

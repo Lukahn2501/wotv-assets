@@ -109,6 +109,30 @@
             "value": "[High Difficulty] Training Chamber Lv. 2"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "[High Difficulty] Training Chamber (Yellow) C"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "[High Difficulty] Training Chamber (Yellow) B"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "[High Difficulty] Training Chamber (Yellow) A"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "[High Difficulty] Training Chamber (Red) C"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "[High Difficulty] Training Chamber (Red) B"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "[High Difficulty] Training Chamber (Red) A"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "Alcryst Chamber (Fire) Lv. 1"
         },
@@ -1101,6 +1125,86 @@
             "value": "Long-Distance<br>Communication Device"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "Surprise Attack I"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "Surprise Attack II"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "Savages' Trap"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "You Must Decide I"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "You Must Decide II"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "Catching On"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "Metal on Metal"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "«Solidus», Retreat"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "Believe in Your Fellow Fighters I"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "Believe in Your Fellow Fighters II"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "Leaving a Mark I"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "Leaving a Mark II"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "Hourne's King to Leonis's Castle"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "Sadali's Withdrawl"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "Recapturing the Fortress"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "Reinforcements from Fennes I"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "Reinforcements from Fennes II"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "«Fortem» and « Caelum» I"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "«Fortem» and « Caelum» II"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "King Muraga of Fennes"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Shard Quest: Zazan"
         },
@@ -1319,6 +1423,14 @@
         {
             "key": "QE_HA_LW_VNLA",
             "value": "Shard Quest: Vinera Fennes"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "Shard Quest: Kilphe"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
+            "value": "Shard Quest: Seymore"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1557,6 +1669,14 @@
             "value": "Tyrrell"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "Kilphe"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "Seymore"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "Y'shtola"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "Orlandeau"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "Warrior of Light"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "FINAL FANTASY I Battle #1"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "FINAL FANTASY I Battle #2"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "FINAL FANTASY I Battle #3"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "FINAL FANTASY I Battle #4"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "FINAL FANTASY I Battle #5"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "FINAL FANTASY I Battle #1 [Intermediate]"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "FINAL FANTASY I Battle #2 [Intermediate]"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "FINAL FANTASY I Battle #3 [Intermediate]"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "FINAL FANTASY I Battle #4 [Intermediate]"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "FINAL FANTASY I Battle #5 [Intermediate]"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "Limited Hard Quest (Warrior of Light)"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "Unit Training Supportive Quest"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "[High Difficulty] Challenge Quest"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "[Brutal Difficulty] Challenge Quest I"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "[Brutal Difficulty] Challenge Quest II"
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "To Burn with Life [EX]"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "Mock Guild Battle"
+            "key": "QE_EV_04_01",
+            "value": "Ep. 1: Uninvited Guest"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "Ep. 2: Masters I"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "Ep. 3: Masters II"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "Ep. 4: Aspiration"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "Ep. 5: The Way of the Samurai"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "Ep. 6: Den of Monsters I"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "Ep. 7: Den of Monsters II"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "Ep. 8: Den of Monsters III"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "Ep. 9: Mountain of Trials"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "Ep. 10: To Live"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "The Far East [EX 1]"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "The Far East [EX 2]"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "The Far East [EX 1]"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "The Far East [EX 2]"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "Limited Hard Quest (Kilphe)"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "Equipment Training Quest (Golden Axe)"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Mock Guild Battle"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "Mock Guild Battle (Novice)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "Mock Guild Battle (Intermediate)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "Mock Guild Battle (Advanced)"
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "Brutal Difficulty Chocolate Flan Challenge"
         },
@@ -2145,6 +2405,14 @@
             "value": "Tetra Sylphid Battle"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "Two-Headed Dragon Battle"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "Diabolos Battle"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "Chocolate Flan Raid"
         },
@@ -2159,6 +2427,34 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "Chocolate Flan Raid"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "White Marshmallow Raid"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "White Marshmallow Raid"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "White Marshmallow Raid"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "White Marshmallow Raid"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "FFI Collaboration Raid"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "FFI Collaboration Raid"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "FFI Collaboration Raid"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2297,6 +2593,30 @@
             "value": "[High Difficulty] Training Chamber Lv. 2"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "[High Difficulty] Training Chamber (Yellow) C"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "[High Difficulty] Training Chamber (Yellow) B"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "[High Difficulty] Training Chamber (Yellow) A"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "[High Difficulty] Training Chamber (Red) C"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "[High Difficulty] Training Chamber (Red) B"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "[High Difficulty] Training Chamber (Red) A"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "Beginner Quest 01"
         },
@@ -2365,6 +2685,10 @@
             "value": "Wastelands"
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": "Ancient Ruins"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "Arena"
         },
@@ -2374,6 +2698,10 @@
         },
         {
             "key": "QE_GVG_00003",
+            "value": "Ancient Ruins"
+        },
+        {
+            "key": "QE_GVG_00004",
             "value": "Ancient Ruins"
         },
         {

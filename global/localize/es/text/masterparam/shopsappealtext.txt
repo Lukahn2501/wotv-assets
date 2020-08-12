@@ -55,6 +55,22 @@
         {
             "key": "14",
             "value": "<line-height=15>Tienda de la campaña <br>de apoyo al gremio"
+        },
+        {
+            "key": "15",
+            "value": "<line-height=15>¡Tienda especial <br>de celebración de asalto!"
+        },
+        {
+            "key": "16",
+            "value": "<line-height=15>Tienda de la campaña<br>de verano 2020"
+        },
+        {
+            "key": "17",
+            "value": "<line-height=15>La colaboración con FFI acaba el 11/8"
+        },
+        {
+            "key": "18",
+            "value": "<line-height=15>Tienda del capítulo 8"
         }
     ]
 }

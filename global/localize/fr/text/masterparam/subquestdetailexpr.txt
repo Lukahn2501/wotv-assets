@@ -6,11 +6,11 @@
         },
         {
             "key": "SQ_WD_010101_02",
-            "value": "Améliorez 10 fois l'équipement"
+            "value": "Améliorez l'équipement 10 fois"
         },
         {
             "key": "SQ_WD_010102_01",
-            "value": "Améliorez 10 fois les aptitudes"
+            "value": "Améliorez les aptitudes 5 fois"
         },
         {
             "key": "SQ_WD_010102_02",
@@ -22,35 +22,35 @@
         },
         {
             "key": "SQ_WD_010103_02",
-            "value": "Jouez 1 fois dans l'Arène"
+            "value": "Livrez bataille dans l’arène 1 fois"
         },
         {
             "key": "SQ_WD_010104_01",
-            "value": "Envoyez 1 fois un cadeau à un ami"
+            "value": "Envoyez un cadeau à un ami 1 fois"
         },
         {
             "key": "SQ_WD_010104_02",
-            "value": "Terminez 1 fois la Chambre d'EXP (Intermédiaire)"
+            "value": "Terminez la Chambre d'EXP (Intermédiaire) 1 fois"
         },
         {
             "key": "SQ_WD_010105_01",
-            "value": "Améliorez 10 fois les chimères"
+            "value": "Améliorez des chimères 10 fois"
         },
         {
             "key": "SQ_WD_010105_02",
-            "value": "Terminez 1 fois la Chambre de Gils (Intermédiaire)"
+            "value": "Terminez la Chambre de Gils (Intermédiaire) 1 fois"
         },
         {
             "key": "SQ_WD_010106_01",
-            "value": "Sortez 1 fois vainqueur de l'Arène"
+            "value": "Sortez vainqueur de l'Arène 1 fois"
         },
         {
             "key": "SQ_WD_010106_02",
-            "value": "Terminez 5 fois les quêtes multi"
+            "value": "Terminez les quêtes multi 5 fois"
         },
         {
             "key": "SQ_WD_010107_01",
-            "value": "Éveillez 1 fois un équipement"
+            "value": "Éveillez un équipement 1 fois"
         },
         {
             "key": "SQ_WD_010107_02",
@@ -58,15 +58,15 @@
         },
         {
             "key": "SQ_WD_010108_01",
-            "value": "Terminez 5 fois les quêtes avec un personnage de soutien"
+            "value": "Terminez les quêtes avec un personnage de soutien 5 fois"
         },
         {
             "key": "SQ_WD_010108_02",
-            "value": "Sortez 5 fois vainqueur de l'Arène"
+            "value": "Sortez vainqueur de l'Arène 5 fois"
         },
         {
             "key": "SQ_WD_010109_01",
-            "value": "Terminez 1 fois la Chambre d'EXP (Avancé)"
+            "value": "Terminez la Chambre d'EXP (Avancé) 1 fois"
         },
         {
             "key": "SQ_WD_010109_02",
@@ -74,19 +74,19 @@
         },
         {
             "key": "SQ_WD_010110_01",
-            "value": "Jouez 1 fois dans un face-à-face"
+            "value": "Participez à 1 face-à-face"
         },
         {
             "key": "SQ_WD_010110_02",
-            "value": "Éveillez 1 fois une chimère"
+            "value": "Éveillez une chimère 1 fois"
         },
         {
             "key": "SQ_WD_010201_01",
-            "value": "Terminez 1 fois la Chambre de pots (Avancé)"
+            "value": "Terminez la Chambre de pots (Avancé) 1 fois"
         },
         {
             "key": "SQ_WD_010201_02",
-            "value": "Terminez 1 fois la Chambre de l'Œuf de croissance (Avancé)"
+            "value": "Terminez la Chambre de l'Œuf de croissance (Avancé) 1 fois"
         },
         {
             "key": "SQ_WD_010202_01",
@@ -94,7 +94,7 @@
         },
         {
             "key": "SQ_WD_010202_02",
-            "value": "Sélectionnez 1 fois une aptitude par le biais du Choix des aptitudes"
+            "value": "Sélectionnez une aptitude par le biais du Choix des aptitudes 1 fois"
         },
         {
             "key": "SQ_WD_010203_01",
@@ -103,6 +103,14 @@
         {
             "key": "SQ_WD_010203_02",
             "value": "Rejoignez une guilde"
+        },
+        {
+            "key": "SQ_WD_010204_01",
+            "value": "Prenez part à un combat de guilde"
+        },
+        {
+            "key": "SQ_WD_010204_02",
+            "value": "Fabriquez 1 équipement 1 fois"
         }
     ]
 }

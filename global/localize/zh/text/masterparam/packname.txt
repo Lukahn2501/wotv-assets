@@ -29,6 +29,10 @@
             "value": "劇情任務禮包ⅤI"
         },
         {
+            "key": "MP_QEST_07",
+            "value": "劇情任務禮包ⅤII"
+        },
+        {
             "key": "MP_GL_RANK_02",
             "value": "玩家等級禮包II"
         },

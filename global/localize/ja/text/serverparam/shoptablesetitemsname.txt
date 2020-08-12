@@ -362,7 +362,7 @@
         },
         {
             "key": "IT_SET_UR_UNIT",
-            "value": "500万記念URユニットパック"
+            "value": "URユニットパック"
         },
         {
             "key": "IT_SET_UR_VC",
@@ -571,6 +571,102 @@
         {
             "key": "IT_SET_AW_DARK_CM_03",
             "value": "闇属性のフル覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "初心者限定：星虹の幻球×1"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "初心者限定：蒼輝の幻球×1"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "初心者限定：虹の想いの欠片×1"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "初心者限定ジョブパック"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "ビギナー限定ジェダイトパックI"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "ビギナー限定ジェダイトパックⅡ"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "ビギナー限定アズライトパックI"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "ビギナー限定アズライトパックⅡ"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "初心者限定 URユニット覚醒パック"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "R武具レシピパックⅡ"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "URビジョンカードパック"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Vカード育成パック"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "光属性召喚獣強化パック"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "武具【防御】強化パック"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "武具【精神】強化パック"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "光の戦士育成パック"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "光属性のフル覚醒パック"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "デスマシーンVC育成パック"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "土属性のフル覚醒パック"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "URユニットパック"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Vカード育成パックB"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Vカード育成パック"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "闇属性召喚獣強化パック"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "ビジョンカード強化パック"
         }
     ]
 }

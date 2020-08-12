@@ -2,11 +2,11 @@
     "infos": [
         {
             "key": "BUFF_Buff",
-            "value": " erhöht um "
+            "value": " erhöht "
         },
         {
             "key": "BUFF_Debuff",
-            "value": " gesenkt um "
+            "value": " gesenkt "
         },
         {
             "key": "BUFF_Resist",
@@ -482,7 +482,7 @@
         },
         {
             "key": "BUFF_OtherDamageMax",
-            "value": "Max. Schaden"
+            "value": "Schadensmaximum"
         },
         {
             "key": "BUFF_OtherCastTime",
@@ -1051,6 +1051,10 @@
         {
             "key": "BUFF_ExeShield6",
             "value": "Schild ({0} Runde(n) oder {1} LP)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesPHuman",
+            "value": "Menschenfresser bei physischem Angriff"
         }
     ]
 }

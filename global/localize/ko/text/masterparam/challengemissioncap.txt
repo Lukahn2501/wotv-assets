@@ -23,6 +23,10 @@
         {
             "key": "CM_PRO_004_1",
             "value": "MOBIUS FINAL FANTASY 콜라보 기념 도전 미션"
+        },
+        {
+            "key": "CM_PRO_005_1",
+            "value": "FFI 콜라보 도전 미션"
         }
     ]
 }

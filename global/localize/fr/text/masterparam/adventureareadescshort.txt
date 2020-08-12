@@ -14,7 +14,7 @@
         },
         {
             "key": "AD_AREA_ICE_01",
-            "value": "Obtenez une « Magilithe bleu » pour vos chimères de glace !"
+            "value": "Obtenez une « Magilithe bleue » pour vos chimères de glace !"
         },
         {
             "key": "AD_AREA_THUNDER_01",
@@ -39,6 +39,10 @@
         {
             "key": "AD_AREA_SM_01",
             "value": "Obtenez des « Magilithes » de tous les éléments pour vos chimères !"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Zone pour la collaboration FFI ! Remportez des médailles d'événement et bien plus encore !"
         }
     ]
 }

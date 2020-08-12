@@ -5,6 +5,10 @@
             "value": "초보자 출석 보상"
         },
         {
+            "key": "LB_BEGINNER_002",
+            "value": "초보자 출석 보상"
+        },
+        {
             "key": "LB_TOTAL_001",
             "value": "누적 출석 보상"
         },
@@ -27,6 +31,10 @@
         {
             "key": "LB_202007",
             "value": "7월 출석 보상"
+        },
+        {
+            "key": "LB_202008",
+            "value": "8월 출석 보상"
         },
         {
             "key": "LB_LIMIT_GL_0001",
@@ -103,6 +111,22 @@
         {
             "key": "LB_LIMIT_GL0014",
             "value": "FF EXVIUS Universe 누적 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0015",
+            "value": "레이드 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0016",
+            "value": "FFI 콜라보 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0017",
+            "value": "FFI 콜라보 출석 보상 제2탄"
+        },
+        {
+            "key": "LB_LIMIT_GL0018",
+            "value": "스토리 제8장 개방 기념 출석 보상"
         }
     ]
 }

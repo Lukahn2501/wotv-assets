@@ -2146,7 +2146,7 @@
         },
         {
             "key": "HARDQUEST_LIMIT_OVER_DESC",
-            "value": "今天可挑戰困難任務的次數已達上限。<br>（次數將於每日12:00 a.m. PST重置）"
+            "value": "今天可挑戰困難任務的次數已達上限。<br>（次數將於每日00:00 世界時間(PST)重置）"
         },
         {
             "key": "HARDQUEST_RESET_OVER_TITLE",

@@ -46,11 +46,27 @@
         },
         {
             "key": "12",
-            "value": "Neuzugänge! <br>Jetzt im Blickpunkt!"
+            "value": "Neuzugänge!<br>Jetzt im Blickpunkt!"
         },
         {
             "key": "13",
             "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "14",
+            "value": "Neue Visionskarten<br>im Blickpunkt!"
+        },
+        {
+            "key": "15",
+            "value": "FFI-Kollabo<br>Jetzt beschwören!"
+        },
+        {
+            "key": "16",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "17",
+            "value": "Neue Visionskarten<br>im Blickpunkt!"
         }
     ]
 }

@@ -1051,6 +1051,10 @@
         {
             "key": "BUFF_ExeShield6",
             "value": "Escudo ({0} turno(s) o de {1} de VIT)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesPHuman",
+            "value": "Comehombres al recibir ATQF"
         }
     ]
 }

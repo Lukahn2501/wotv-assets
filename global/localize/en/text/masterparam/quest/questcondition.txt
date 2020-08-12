@@ -113,6 +113,10 @@
             "value": "All allies annihilated except Sterne Leonis"
         },
         {
+            "key": "QE_ST_01010910",
+            "value": "Reach the front of the castle gates or annihilate the enemy"
+        },
+        {
             "key": "QE_ST_01080110",
             "value": "Muraga Fennes defeated"
         },
@@ -145,12 +149,40 @@
             "value": "Defeat the Chocolate Flan"
         },
         {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Defeat the White Marshmallow"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Defeat the White Marshmallow"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Defeat the White Marshmallow"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Defeat the White Marshmallow"
+        },
+        {
             "key": "QE_ST_01070203",
-            "value": "Defeat Deah"
+            "value": "Deah defeated"
         },
         {
             "key": "QE_ST_01070209",
-            "value": "Defeat Oldoa"
+            "value": "Oldoa defeated"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Defeat the Death Machine"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Defeat the Death Machine"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "Defeat the Death Machine"
         }
     ]
 }

@@ -1310,7 +1310,7 @@
         },
         {
             "key": "ABILITY_BOARD_RESET_VIP_DESC",
-            "value": "<color=#f0c040ff>Grâce à vos avantages royaux, aucun visiore ne sera utilisé (valable encore {0} fois jusqu'au lundi prochain, 00:00 PST).</color> Tous les panneaux débloqués en utilisant des PI sur le tableau d'entraînement de chimère <color=#f0c040ff>seront réinitialisés,</color> vous permettant de recommencer l'entraînement depuis le début.<br><color=#f0c040ff>Les PI réinitialisés retourneront dans votre inventaire.</color><br><br>Réinitialiser le tableau d'entraînement de chimère ?"
+            "value": "<color=#f0c040ff>Grâce à vos avantages royaux, aucun visiore ne sera utilisé (valable encore {0} fois jusqu'au lundi prochain, 00:00, heure universelle (PST)).</color> Tous les panneaux débloqués en utilisant des PI sur le tableau d'entraînement de chimère <color=#f0c040ff>seront réinitialisés,</color> vous permettant de recommencer l'entraînement depuis le début.<br><color=#f0c040ff>Les PI réinitialisés retourneront dans votre inventaire.</color><br><br>Réinitialiser le tableau d'entraînement de chimère ?"
         },
         {
             "key": "ABILITY_BOARD_RESET_TITLE",
@@ -2246,7 +2246,7 @@
         },
         {
             "key": "SHOP_BADGE_SPECIAL",
-            "value": "En<br>vente"
+            "value": "Promo"
         },
         {
             "key": "SHOP_LIMITED_ONCE",
@@ -2414,19 +2414,19 @@
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_GIL",
-            "value": "La liste sera mise à jour à l'aide de vos avantages royaux. Voulez-vous utiliser {0} {1} et mettre à jour la liste ? Vous pourrez procéder à la mise à jour en utilisant encore {2} fois vos avantages royaux. <br><br>*Les avantages royaux sont réinitialisés tous les jours à 00:00 (PST)"
+            "value": "La liste sera mise à jour à l'aide de vos avantages royaux. Voulez-vous utiliser {0} {1} et mettre à jour la liste ? Vous pourrez procéder à la mise à jour en utilisant encore {2} fois vos avantages royaux. <br><br>*Les avantages royaux sont réinitialisés tous les jours à 00:00, heure universelle (PST)"
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_LAPIS",
-            "value": "La liste sera mise à jour à l'aide de vos avantages royaux. Voulez-vous utiliser {1} {0} et mettre à jour la liste ? Vous pourrez procéder à la mise à jour en utilisant encore {2} fois vos avantages royaux. <br><br>*Les avantages royaux sont réinitialisés tous les jours à 00:00 (PST)"
+            "value": "La liste sera mise à jour à l'aide de vos avantages royaux. Voulez-vous utiliser {1} {0} et mettre à jour la liste ? Vous pourrez procéder à la mise à jour en utilisant encore {2} fois vos avantages royaux. <br><br>*Les avantages royaux sont réinitialisés tous les jours à 00:00, heure universelle (PST)"
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_FREE",
-            "value": "La liste sera mise à jour à l'aide de vos avantages royaux. Mettre à jour la liste des objets gratuitement ? Vous pourrez procéder à la mise à jour en utilisant encore {0} fois vos avantages royaux. <br><br>*Les avantages royaux sont réinitialisés tous les jours à 00:00 (PST)"
+            "value": "La liste sera mise à jour à l'aide de vos avantages royaux. Mettre à jour la liste des objets gratuitement ? Vous pourrez procéder à la mise à jour en utilisant encore {0} fois vos avantages royaux. <br><br>*Les avantages royaux sont réinitialisés tous les jours à 00:00, heure universelle (PST)"
         },
         {
             "key": "SHOP_UPDATE_UPPER_LIMIT",
-            "value": "Vous avez atteint le nombre de mises à jour maximum autorisé pour votre boutique. <br>Vous pourrez de nouveau la mettre à jour à compter de 00:00 (PST)"
+            "value": "Vous avez atteint le nombre de mises à jour maximum autorisé pour votre boutique. <br>Vous pourrez de nouveau la mettre à jour à 00:00, heure universelle (PST)"
         },
         {
             "key": "SHOP_UPDATE_ERROR_TITLE",
@@ -8333,6 +8333,10 @@
             "value": "Plateforme incorrecte."
         },
         {
+            "key": "GL_GACHA_BONUS_GAUGE_TITLE",
+            "value": "Bonus d'invocation"
+        },
+        {
             "key": "SERVER_Normal_gacha_A_NAME",
             "value": "Invocation normale"
         },
@@ -8938,11 +8942,11 @@
         },
         {
             "key": "SERVER_IT_US_SE_SB_AW_01_NAME",
-            "value": "Ticket sélectionneur de pierre d'éveil élémentaire x20"
+            "value": "Ticket sélectionneur de 20 pierres d'éveil élémentaires"
         },
         {
             "key": "SERVER_IT_US_SE_SB_EXP_01_NAME",
-            "value": "Ticket sélectionneur de Magilithe élémentaire (L) x50"
+            "value": "Ticket sélectionneur de 50 magilithes élémentaires (L)"
         },
         {
             "key": "SERVER_IT_US_SE_UR_U_01_NAME",
@@ -8950,15 +8954,15 @@
         },
         {
             "key": "SERVER_IT_US_SE_SB_EXP_02_NAME",
-            "value": "Ticket sélectionneur de Magilithe élémentaire (XL) x10"
+            "value": "Ticket sélectionneur de 10 magilithes élémentaires (XL)"
         },
         {
             "key": "SERVER_IT_US_SE_SB_EXP_03_NAME",
-            "value": "Ticket sélectionneur de Magilithe élémentaire (M) x50"
+            "value": "Ticket sélectionneur de 50 magilithes élémentaires (M)"
         },
         {
             "key": "SERVER_IT_US_SE_PI_COM_01_NAME",
-            "value": "Ticket sélectionneur de fragment de pensée élémentaire x50"
+            "value": "Ticket sélectionneur de 50 fragments de pensée élémentaires"
         },
         {
             "key": "SERVER_IT_US_SE_AW-ITEM_03_NAME",

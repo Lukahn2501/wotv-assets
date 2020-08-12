@@ -294,7 +294,7 @@
         },
         {
             "key": "gacha_unit_vc_gl20200603_b_10_4",
-            "value": "마음 조각 × 50 등장"
+            "value": "속성 마음 조각 × 50 등장"
         },
         {
             "key": "gacha_unit_vc_gl20200603_b_10_5",
@@ -506,7 +506,7 @@
         },
         {
             "key": "gacha_unit_vc_gl20200624_c_10_step4",
-            "value": "마음 조각 × 50 등장"
+            "value": "속성 마음 조각 × 50 등장"
         },
         {
             "key": "gacha_unit_vc_gl20200624_c_10_step5",
@@ -623,6 +623,258 @@
         {
             "key": "p_gacha_unit_gl20200715_10",
             "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_01",
+            "value": "[7월] 소환 메달 B 10장 등장"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_10",
+            "value": "[7월] 소환 메달 B 100장 등장"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_01",
+            "value": "[7월] 소환 메달 B 10장 등장"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "[7월] 소환 메달 B 100장 등장"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step3",
+            "value": "픽업 비전 카드 1장 보장"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step2",
+            "value": "STEP3에서 픽업 비전 카드 1장 보장"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step1",
+            "value": "STEP3에서 픽업 비전 카드 1장 보장"
+        },
+        {
+            "key": "3step-gacha_gl20200722_base",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step4",
+            "value": "속성 마음 조각 × 50 등장"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step3",
+            "value": "각성 휘석 × 50 등장"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_gacha_gl20200729_01",
+            "value": "FFI 콜라보 소환 메달 A 10장 등장"
+        },
+        {
+            "key": "ff1_gacha_gl20200729_10",
+            "value": "FFI 콜라보 소환 메달 A 100장 등장"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_01",
+            "value": "[7월] 소환 메달 B 10장 등장"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_10",
+            "value": "[7월] 소환 메달 B 100장 등장"
+        },
+        {
+            "key": "ff1_p_gacha_unit_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_p_gacha_vc_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_9",
+            "value": ""
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step3",
+            "value": "UR 빛속성 유닛 1명 보장"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step2",
+            "value": "UR 유닛/비전 카드 1 슬롯 보장"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step1",
+            "value": "UR 유닛/비전 카드 1 슬롯 보장"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step4",
+            "value": "속성 마음 조각 × 50 등장"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step3",
+            "value": "각성 휘석 × 50 등장"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_01",
+            "value": "[8월] 소환 메달 A 10장 등장"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "[8월] 소환 메달 A 100장 등장"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step4",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step3",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200805_10",
+            "value": "[8월] 소환 메달 A 100장 등장"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_01",
+            "value": "[8월] 소환 메달 A 10장 등장"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "[8월] 소환 메달 A 100장 등장"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_01",
+            "value": "[8월] 소환 메달 A 10장 등장"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "[8월] 소환 메달 A 100장 등장"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_01",
+            "value": "[8월] 소환 메달 A 10장 등장"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "[8월] 소환 메달 A 100장 등장"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step4",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step3",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200812_10",
+            "value": "[8월] 소환 메달 A 100장 등장"
         },
         {
             "key": "global_pickup_sterne_20200325_01",

@@ -257,6 +257,18 @@
             "value": "Un chevalier formé dans le Repaire du serpent, le centre d'entraînement des shinobis de Fennes. Il fut envoyé pour escorter Vinera jusqu'à Hourne, où celle-ci devait épouser le prince Dario avant de l'assassiner. Au début, ses sentiments pour Vinera le firent haïr le prince, mais..."
         },
         {
+            "key": "UN_FF1_P_WROL",
+            "value": "Un grand héros dont on chante les louanges dans un monde lointain. Les quatre guerriers dénués de mémoire transportaient chacun sur eux un cristal que la lumière avait quitté. Ils finirent par comprendre que ces cristaux étaient inextricablement liés au devenir de leur monde, et partirent en quête d'un moyen de leur redonner tout leur éclat."
+        },
+        {
+            "key": "UN_LW_P_QILF",
+            "value": "Le bras droit d'Oldoa. Elle vient d'un village glacial près de la frontière entre Fennes et Wezett. Malgré sa réticence, elle fut forcée de prendre part à la guerre à cause de son inégalable talent. Seul l'espoir de revoir son petit frère en vie, lui aussi fait prisonnier et dont elle n'a plus de nouvelles, la maintient en vie."
+        },
+        {
+            "key": "UN_LW_P_SIMR",
+            "value": "Un samouraï de l'est dont l'habileté remarquable à l'épée lui a valu d'être invité à la cour de Wezett par le roi Khory. Or lorsqu'il découvrit la souffrance infligée par la tyrannie du roi sur son peuple, il se rapprocha de la faction de Graziella. Son amour pour l'alcool est bien connu."
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": ""
         },
@@ -406,6 +418,10 @@
         },
         {
             "key": "UN_LW_E_RAIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_QILF",
             "value": ""
         },
         {
@@ -586,6 +602,10 @@
         },
         {
             "key": "UN_LW_E_TH_00_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_RDM_RAID",
             "value": ""
         },
         {
@@ -897,6 +917,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_PR_02_TIM_2",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_PR_02_GRM",
             "value": ""
         },
@@ -1125,6 +1149,18 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": "Applique les caractéristiques du magilame SR"
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_IGNT_TW_EX2",
             "value": ""
         },
@@ -1141,6 +1177,10 @@
             "value": "Applique les caractéristiques du paladin MR"
         },
         {
+            "key": "UN_LW_E_IGNT_02",
+            "value": "Applique les caractéristiques du paladin SR"
+        },
+        {
             "key": "UN_LW_E_IGNT_01_QE",
             "value": "Applique les caractéristiques du paladin MR"
         },
@@ -1155,6 +1195,14 @@
         {
             "key": "UN_LW_E_IGNT_BLM",
             "value": "Applique les caractéristiques estimées du mage noir N"
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": ""
         },
         {
             "key": "UN_LW_E_BHMT",
@@ -1217,11 +1265,19 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_THDG",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_SLIM",
             "value": ""
         },
         {
             "key": "UN_LW_E_CSLI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CSLI_01",
             "value": ""
         },
         {
@@ -1274,6 +1330,18 @@
         },
         {
             "key": "UN_LW_E_OCHU_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
             "value": ""
         },
         {
@@ -1725,6 +1793,42 @@
             "value": ""
         },
         {
+            "key": "UN_LW_S_THDG",
+            "value": "Un dragon bicéphale dont la simple existence annoncerait l'arrivée du chaos. On raconte qu'aucune lame ne peut pénétrer son armure d'écailles dorées et qu'aucun bouclier ne peut parer le double souffle incandescent de ses deux têtes attaquant ensemble."
+        },
+        {
+            "key": "UN_LW_S_THDG_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_THDG_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_S_WRMC",
+            "value": "Le monstre mécanique de la forteresse flottante d'un monde lointain et dont les apparitions sont aussi rares que dévastatrices. On raconte que l'assaut combiné de toute son artillerie a bien failli causer la perte des Guerriers de la lumière."
+        },
+        {
+            "key": "UN_FF01_S_WRMC_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_S_WRMC_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_DABL",
+            "value": "Une créature exotique qui semble pouvoir être invoquée depuis un royaume de ténèbres. Avec ses épaisses cornes tordues, ses grandes ailes noires rappelant celles des chauves-souris et sa queue en pointe acérée, elle ressemble aux démons des contes ancestraux."
+        },
+        {
+            "key": "UN_LW_S_DABL_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_DABL_AW2",
+            "value": ""
+        },
+        {
             "key": "UN_GM_TREASURE",
             "value": ""
         },
@@ -1778,6 +1882,14 @@
         },
         {
             "key": "UN_GM_MGSW_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TARU_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TARU_02",
             "value": ""
         }
     ]

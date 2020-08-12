@@ -625,6 +625,258 @@
             "value": ""
         },
         {
+            "key": "new-gacha_unit_vc_gl20200722_01",
+            "value": "Comes with 10 B-type July Summon Medals"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_10",
+            "value": "Comes with 100 B-type July Summon Medals"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_01",
+            "value": "Comes with 10 B-type July Summon Medals"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "Comes with 100 B-type July Summon Medals"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step3",
+            "value": "Featured Vision Card Guaranteed"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step2",
+            "value": "Featured Vision Card guaranteed on Step 3"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step1",
+            "value": "Featured Vision Card guaranteed on Step 3"
+        },
+        {
+            "key": "3step-gacha_gl20200722_base",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step4",
+            "value": "Comes with 50 Fragments of Thought"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step3",
+            "value": "Comes with 50 Awakening Prisms"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_gacha_gl20200729_01",
+            "value": "Comes with 10 A-type FFI Summon Medals"
+        },
+        {
+            "key": "ff1_gacha_gl20200729_10",
+            "value": "Comes with 100 A-type FFI Summon Medals"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_01",
+            "value": "Comes with 10 B-type July Summon Medals"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_10",
+            "value": "Comes with 100 B-type July Summon Medals"
+        },
+        {
+            "key": "ff1_p_gacha_unit_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_p_gacha_vc_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_9",
+            "value": ""
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step3",
+            "value": "One UR Light-type Unit guaranteed"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step2",
+            "value": "One UR Unit/Vision Card guaranteed"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step1",
+            "value": "One UR Unit/Vision Card guaranteed"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step4",
+            "value": "Comes with 50 Fragments of Thought"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step3",
+            "value": "Comes with 50 Awakening Prisms"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_01",
+            "value": "Comes with 10 A-type August Summon Medals"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "Comes with 100 A-type August Summon Medals"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step4",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step3",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200805_10",
+            "value": "Comes with 100 A-type August Summon Medals"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_01",
+            "value": "Comes with 10 A-type August Summon Medals"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "Comes with 100 A-type August Summon Medals"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_01",
+            "value": "Comes with 10 A-type August Summon Medals"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "Comes with 100 A-type August Summon Medals"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_01",
+            "value": "Comes with 10 A-type August Summon Medals"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "Comes with 100 A-type August Summon Medals"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step4",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step3",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200812_10",
+            "value": "Comes with 100 A-type August Summon Medals"
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Comes with 10 A-type March Summon Medals"
         },

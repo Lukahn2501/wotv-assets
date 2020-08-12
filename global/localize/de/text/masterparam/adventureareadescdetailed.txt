@@ -39,6 +39,10 @@
         {
             "key": "AD_AREA_SM_01",
             "value": "Zu erbeuten sind hier Gegenstände wie Maginit aller Elemente, der zur Ausbildung von Espern benötigt wird!"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Zu erbeuten sind hier Eventmedaillen und Gegenstände, die sich hervorragend zur Ausbildung von Krieger des Lichts eignen!"
         }
     ]
 }

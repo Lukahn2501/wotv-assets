@@ -1310,7 +1310,7 @@
         },
         {
             "key": "ABILITY_BOARD_RESET_VIP_DESC",
-            "value": "로열 특전으로, 다음 주 <color=#f0c040ff>월요일 오전 5시</color>까지는 <color=#f0c040ff>환도석 소비 없이</color> 소환수 육성 보드를 <color=#f0c040ff>{0}회</color> 초기화할 수 있습니다.<br> ※ 초기화 시 <color=#f0c040ff>SP는 전부 돌려받습니다.</color><br><br>소환수 육성 보드를 초기화하시겠습니까?"
+            "value": "로열 특전으로, 다음 주 <color=#f0c040ff>월요일 00:00 세계시간 (PST)</color>까지는 <color=#f0c040ff>환도석 소비 없이</color> 소환수 육성 보드를 <color=#f0c040ff>{0}회</color> 초기화할 수 있습니다.<br> ※ 초기화 시 <color=#f0c040ff>SP는 전부 돌려받습니다.</color><br><br>소환수 육성 보드를 초기화하시겠습니까?"
         },
         {
             "key": "ABILITY_BOARD_RESET_TITLE",
@@ -2414,19 +2414,19 @@
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_GIL",
-            "value": "로열 특전으로 갱신합니다.<br>{0}{1} 소비하여<br>상품 목록을 갱신하시겠습니까?<br>(앞으로 {2}회 더 갱신할 수 있습니다.)<br>※ 로열 특전 갱신 횟수는<br>매일 오전 5시에 초기화됩니다."
+            "value": "로열 특전으로 갱신합니다.<br>{0}{1} 소비하여<br>상품 목록을 갱신하시겠습니까?<br>(앞으로 {2}회 더 갱신할 수 있습니다.)<br>※ 로열 특전 갱신 횟수는<br>매일 00:00 세계시간 (PST)에 초기화됩니다."
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_LAPIS",
-            "value": "로열 특전으로 갱신합니다.<br>{0} {1}개를 소비하여<br>상품 목록을 갱신하시겠습니까?<br>(앞으로 {2}회 더 갱신할 수 있습니다.)<br>※ 로열 특전 갱신 횟수는<br>매일 오전 5시에 초기화됩니다."
+            "value": "로열 특전으로 갱신합니다.<br>{0} {1}개를 소비하여<br>상품 목록을 갱신하시겠습니까?<br>(앞으로 {2}회 더 갱신할 수 있습니다.)<br>※ 로열 특전 갱신 횟수는<br>매일 00:00 세계시간 (PST)에 초기화됩니다."
         },
         {
             "key": "SHOP_UPDATE_DESC_DESC_VIP_FREE",
-            "value": "로열 특전으로 갱신합니다.<br>무료로 상품 목록을 갱신하시겠습니까?<br>(앞으로 {2}회 더 갱신할 수 있습니다.)<br>※ 로열 특전 갱신 횟수는<br>매일 오전 5시에 초기화됩니다."
+            "value": "로열 특전으로 갱신합니다.<br>무료로 상품 목록을 갱신하시겠습니까?<br>(앞으로 {0}회 더 갱신할 수 있습니다.)<br>※ 로열 특전 갱신 횟수는<br>매일 00:00 세계시간 (PST)에 초기화됩니다."
         },
         {
             "key": "SHOP_UPDATE_UPPER_LIMIT",
-            "value": "갱신 한도에 도달했습니다.<br>갱신 횟수는 오전 5시에 초기화됩니다."
+            "value": "갱신 한도에 도달했습니다.<br>갱신 횟수는 00:00 세계시간 (PST)에 초기화됩니다."
         },
         {
             "key": "SHOP_UPDATE_ERROR_TITLE",
@@ -8331,6 +8331,10 @@
         {
             "key": "QRCODE_ERROR_MESSAGE",
             "value": "무효한 플랫폼입니다."
+        },
+        {
+            "key": "GL_GACHA_BONUS_GAUGE_TITLE",
+            "value": "소환 보너스"
         },
         {
             "key": "SERVER_Normal_gacha_A_NAME",

@@ -39,6 +39,10 @@
         {
             "key": "AD_AREA_SM_01",
             "value": "Hol dir Maginit aller Elemente für deine Esper!"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Limitierte FF1-Kollabo-Region! Hol dir Eventmedaillen und mehr!"
         }
     ]
 }

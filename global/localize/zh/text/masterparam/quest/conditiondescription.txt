@@ -217,6 +217,18 @@
             "value": "兵員『維內拉·芬尼斯』的等級在1以上"
         },
         {
+            "key": "COND_HA_FF1_WROL",
+            "value": "兵員『光之戰士』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_QILF",
+            "value": "兵員『基爾菲』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_SIMR",
+            "value": "兵員『西姆爾』的等級在1以上"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "兵員『蒙特·雷歐尼斯』的等級在40以上"
         },
@@ -471,6 +483,18 @@
         {
             "key": "COND_CH_LW_TREL",
             "value": "兵員『泰瑞爾』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FF1_WROL",
+            "value": "兵員『光之戰士』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_QILF",
+            "value": "兵員『基爾菲』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_SIMR",
+            "value": "兵員『西姆爾』的等級在40以上"
         }
     ]
 }

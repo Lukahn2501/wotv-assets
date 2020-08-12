@@ -65,8 +65,20 @@
             "value": "　Quatre sœurs féériques apportées par le vent. Elles portent sur leurs têtes déjà dotées d'ailes magnifiques et d'un plumage sans pareil un diadème d'or étincelant. Les humains se laissent facilement séduire par la beauté de leurs plumes. Prudence, cependant, car les approcher à la légère a tendance à les rendre folles de rage et il est généralement recommandé de ne pas essayer. Les vents provoqués par le battement de leurs ailes peuvent s'associer pour former des tornades impressionnantes. Ensemble, elles sont plus puissantes que toutes les autres fées."
         },
         {
+            "key": "VC_LW_THDG",
+            "value": "　Un gigantesque dragon à deux têtes dont le corps est recouvert d'écailles dorées. Avec son souffle ardent, ses griffes et sa queue, son apparence et ses attaques font penser à un dragon ordinaire à ceci près qu'il possède deux têtes, détail que tout valeureux qui ose se mettre en travers de son chemin se doit de prendre en considération.<br>Il pourrait se servir de l'une de ses têtes pour faire diversion grâce à son souffle ardent et vous attaquer avec la deuxième sans ménagement.<br>Si vous n'avez d'autre choix que de lui faire face, assurez-vous de mettre en place de solides stratégies de contre-attaque si vous souhaitez décrocher la victoire."
+        },
+        {
             "key": "VC_MBFF_MV1",
             "value": "« Le Guerrier de la lumière vaincra le Chaos et sauvera le monde. »<br>La prophétie au cœur de la légende... a omis d'en narrer la fin. Oui, le Chaos qui avait plongé l'humanité dans la désolation fut détruit, mais le héros qui avait ravivé la lueur d'espoir disparut.<br><br>À cause de vous, en effet.<br><br>C'est vous qui avez mis fin à la légende du « Guerrier de la lumière ».<br>Le nom qu'on VOUS donna pour vos actions héroïques...<br>sombra dans l'oubli.<br><br>Mais le peuple amnésique murmure encore.<br><br>On dit qu'il existe un être qui transforma ce monde jadis si beau et rempli d'optimisme.<br><br>« Le Guerrier du désespoir », inconnu de tous.<br>À une époque privée de récits épiques, le monde a soif... de légende."
+        },
+        {
+            "key": "VC_FF01_DMAC",
+            "value": "　Un dangereux monstre mécanique qui patrouille la forteresse volante, un lieu uniquement accessible par une tour située dans le vaste désert d'un monde lointain. On raconte que la Sentinelle est mue par l'alliance des meilleures technologies des anciens. <br>Il n'y a presque aucune chance de croiser sa route, et encore moins d'en réchapper si par malheur cela arrivait. Même les Guerriers de la lumière qui sauvèrent le monde peinèrent à passer entre les gouttes du déluge de balles que les armes innombrables dont elle est équipée ont déchaîné sur eux.  "
+        },
+        {
+            "key": "VC_LW_CBVPARTY1",
+            "value": "« Tiens, Dario. »<br>« Hmm... ! Quel délice ! Vinera, tu cuisines vraiment bien. »<br>« Eh bien, j'ai eu le temps de m'entraîner avant de te rencontrer... Et ce n'est pas fini. Je vais chercher la suite. »<br>« Vinera, attends. Je vais le faire. Repose-toi, d'accord ? »<br>« Mais Dario, ta santé... »<br>« Ne t'inquiète pas pour ça. Je me sens très bien aujourd'hui. C'est sûrement grâce à la présence de toutes ces fleurs magnifiques. »<br>« Dario... merci... Je suis... tellement heureuse... »<br>« Moi aussi. J'espère que nous les admirerons ensemble encore longtemps, qu'importe le temps qui passe. »<br>« Moi aussi... »"
         },
         {
             "key": "VC_LW_IGNT",
@@ -135,6 +147,18 @@
         {
             "key": "VC_MBFF_MV2",
             "value": "　Vous n'appartenez pas à ce monde. Vous vous êtes retrouvé ici, à Palamecia, dépourvu de tout souvenir. Nombre d'étrangers ont échoué là avec vous, atteints de la même affliction. La page vierge de votre mémoire vous a valu le surnom de « Néo ». Mais si vous avez perdu votre passé, votre futur vous appartient encore.<br>À Palamecia, une prophétie annonce ceci : « Un jour le Guerrier de la lumière apparaîtra pour ramener l'espoir sur cette terre ».<br>Se pourrait-il que l'un des amnésiques... ? Non, ce ne peut être que vous ! Seriez-vous ce Guerrier de la lumière ?<br>Battez-vous pour un futur meilleur et ravivez la flamme de l'espoir à Palamecia !"
+        },
+        {
+            "key": "VC_LW_ADLD",
+            "value": "　Adelard, le commandant de la seconde division de Hourne, « Nitor », est un mage rouge qui ne cesse de prouver son adresse à l'épée et son talent magique sans jamais perdre son calme. Il possède néanmoins une faiblesse, en la personne de sa petite sœur et seule parente de sang, Saliah, une mage noire qui combat dans la division.<br>S'il est vrai qu'Adelard a tendance à s'adoucir en présence de sa sœur, cette dernière ne fait pas le moindre effort pour cacher l'amour qu'elle porte à son frère. Même en service, elle évite à tout prix d'être séparée de lui et peut recourir à des mesures extrêmes pour l'isoler des autres. Or la réputation d'Adelard lui vaut bien des admiratrices, tant de femmes qui finissent par subir l'intarissable jalousie de Saliah. Il semble même que ni les hommes ni les animaux domestiques ne puissent échapper à son courroux."
+        },
+        {
+            "key": "VC_LW_WHITEDAY1",
+            "value": "« C'est pour nous ? Mais ça a l'air hors de prix... » « Je te l'ai dit quand on te les a donnés et je le redis encore : Loulila et moi ne t'avons offert des chocolats que parce que c'est la tradition. Tu comprends, n'est-ce pas ? » « Bien sûr que je comprends, Sosha. Je voulais simplement vous remercier pour vos bons services. Vous n'avez aucune raison de paniquer. » « Eh, Lalalou, tu te souviens de nos 'bons services', toi ? » « Allez, Sosha, c'est toi qui jouais les entremetteuses pour lui il n'y a pas si longtemps. Valaïde, je suppose que tu as quelque chose d'encore plus fabuleux de prévu pour Ramada ? » « Bien sûr ! Tout est prêt ! À... à part le fait que ça m'angoisse un peu de ne rien avoir reçu d'elle le mois dernier... »"
+        },
+        {
+            "key": "VC_LW_VNLA2",
+            "value": "　Le mariage de Dario, prince de Hourne, avec Vinera, princesse de Fennes, était une union politique vouée à réconcilier deux nations hostiles. Mais un complot sinistre se nouait dans l'ombre.<br>Malgré les sourires forcés de la foule de Hourne et Fennes le jour des noces, personne ne pariait sur le bonheur de ce mariage... si ce n'est le prince et la princesse eux-mêmes.<br>Ils n'avaient pas la moindre idée de l'apparence ni de la personnalité de l'autre avant de s'unir et se rencontrèrent pour la première fois juste avant la cérémonie. Ils n'aspiraient ni l'un ni l'autre à être ensemble, mais bien que leur relation fût alourdie par les obligations et les responsabilités, Dario passa les bras autour de Vinera et l'accueillit comme sa femme, et celle-ci lui ouvrit un peu plus son cœur chaque fois qu'il fit preuve de cette bonté par la suite.<br>Nonobstant les circonstances et les ambitions qui menèrent à leur mariage, il finit par unir ces deux âmes par des liens indéfectibles."
         },
         {
             "key": "VC_LW_CACT",
@@ -231,6 +255,10 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "　Une Relique séculaire rappelant un miroir, au travers duquel il est possible d'observer des contrées lointaines. Il est orné d'une figure ailée au bras de laquelle est posé une oiseau de proie. "
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "　Originaire du monde des ténèbres, Diabolos est réputé pour son intelligence affûtée et sa malice sans pareille. Bien qu'il lui arrive de conclure des marchés avec certains invocateurs en échange de la réalisation de leurs vœux, il n'est pas rare que des clauses véreuses se glissent dans les termes de ses contrats. Il n'hésite pas à tirer profit de la vulnérabilité des autres lorsqu'il passe un marché, allant jusqu'à mettre leurs vies en jeu."
         },
         {
             "key": "VC_EXP_01",

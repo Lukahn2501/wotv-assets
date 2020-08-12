@@ -103,6 +103,14 @@
         {
             "key": "SQ_WD_010203_02",
             "value": "Únete a un gremio"
+        },
+        {
+            "key": "SQ_WD_010204_01",
+            "value": "Participa en un combate de gremio"
+        },
+        {
+            "key": "SQ_WD_010204_02",
+            "value": "Forja una pieza de equipo"
         }
     ]
 }

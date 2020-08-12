@@ -109,6 +109,30 @@
             "value": "【高難度】修練の間Lv.2"
         },
         {
+            "key": "QE_EV_AW_H09_3",
+            "value": "【高難度】修練の間（橘）C"
+        },
+        {
+            "key": "QE_EV_AW_H09_2",
+            "value": "【高難度】修練の間（橘）B"
+        },
+        {
+            "key": "QE_EV_AW_H09_1",
+            "value": "【高難度】修練の間（橘）A"
+        },
+        {
+            "key": "QE_EV_AW_H13_3",
+            "value": "【高難度】修練の間（緋）C"
+        },
+        {
+            "key": "QE_EV_AW_H13_2",
+            "value": "【高難度】修練の間（緋）B"
+        },
+        {
+            "key": "QE_EV_AW_H13_1",
+            "value": "【高難度】修練の間（緋）A"
+        },
+        {
             "key": "QE_EV_AW_FIRE_01",
             "value": "輝石の間（火）Lv.1"
         },
@@ -1101,6 +1125,86 @@
             "value": "遠話装置の罠"
         },
         {
+            "key": "QE_ST_01070301",
+            "value": "敵はどこから１"
+        },
+        {
+            "key": "QE_ST_01070302",
+            "value": "敵はどこから２"
+        },
+        {
+            "key": "QE_ST_01070303",
+            "value": "蛮族の罠"
+        },
+        {
+            "key": "QE_ST_01070304",
+            "value": "決断の時１"
+        },
+        {
+            "key": "QE_ST_01070305",
+            "value": "決断の時２"
+        },
+        {
+            "key": "QE_ST_01070306",
+            "value": "バレた！"
+        },
+        {
+            "key": "QE_ST_01070307",
+            "value": "剣戟の音"
+        },
+        {
+            "key": "QE_ST_01070308",
+            "value": "≪堅牢≫撤退"
+        },
+        {
+            "key": "QE_ST_01070309",
+            "value": "仲間を信じて１"
+        },
+        {
+            "key": "QE_ST_01070310",
+            "value": "仲間を信じて２"
+        },
+        {
+            "key": "QE_ST_01080101",
+            "value": "爪痕を残さなくちゃ１"
+        },
+        {
+            "key": "QE_ST_01080102",
+            "value": "爪痕を残さなくちゃ２"
+        },
+        {
+            "key": "QE_ST_01080103",
+            "value": "ホルン王、リオニスへ"
+        },
+        {
+            "key": "QE_ST_01080104",
+            "value": "サーダリー撤退す"
+        },
+        {
+            "key": "QE_ST_01080105",
+            "value": "砦奪還へ"
+        },
+        {
+            "key": "QE_ST_01080106",
+            "value": "フェネスの援軍１"
+        },
+        {
+            "key": "QE_ST_01080107",
+            "value": "フェネスの援軍２"
+        },
+        {
+            "key": "QE_ST_01080108",
+            "value": "《勇壮》と《蒼穹》１"
+        },
+        {
+            "key": "QE_ST_01080109",
+            "value": "《勇壮》と《蒼穹》２"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "フェネスの王ムラガ"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "欠片獲得 ザザン"
         },
@@ -1319,6 +1423,14 @@
         {
             "key": "QE_HA_LW_VNLA",
             "value": "欠片獲得 ヴィネラ・フェネス"
+        },
+        {
+            "key": "QE_HA_LW_QILF",
+            "value": "欠片獲得 キルフェ"
+        },
+        {
+            "key": "QE_HA_LW_SIMR",
+            "value": "欠片獲得 シムール"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1557,6 +1669,14 @@
             "value": "ティレル"
         },
         {
+            "key": "QE_CH_LW_QILF",
+            "value": "キルフェ"
+        },
+        {
+            "key": "QE_CH_LW_SIMR",
+            "value": "シムール"
+        },
+        {
             "key": "QE_CH_FF14_YSTL",
             "value": "ヤ・シュトラ"
         },
@@ -1575,6 +1695,62 @@
         {
             "key": "QE_CH_FFT_ORND",
             "value": "オルランドゥ"
+        },
+        {
+            "key": "QE_CH_FF1_WROL",
+            "value": "光の戦士"
+        },
+        {
+            "key": "QE_EV_FF1_01",
+            "value": "FINAL FANTASY I Battle#1"
+        },
+        {
+            "key": "QE_EV_FF1_02",
+            "value": "FINAL FANTASY I Battle#2"
+        },
+        {
+            "key": "QE_EV_FF1_03",
+            "value": "FINAL FANTASY I Battle#3"
+        },
+        {
+            "key": "QE_EV_FF1_04",
+            "value": "FINAL FANTASY I Battle#4"
+        },
+        {
+            "key": "QE_EV_FF1_05",
+            "value": "FINAL FANTASY I Battle#5"
+        },
+        {
+            "key": "QE_EV_FF1_06",
+            "value": "FINAL FANTASY I Battle#1【中級】"
+        },
+        {
+            "key": "QE_EV_FF1_07",
+            "value": "FINAL FANTASY I Battle#2【中級】"
+        },
+        {
+            "key": "QE_EV_FF1_08",
+            "value": "FINAL FANTASY I Battle#3【中級】"
+        },
+        {
+            "key": "QE_EV_FF1_09",
+            "value": "FINAL FANTASY I Battle#4【中級】"
+        },
+        {
+            "key": "QE_EV_FF1_10",
+            "value": "FINAL FANTASY I Battle#5【中級】"
+        },
+        {
+            "key": "QE_EV_FF1_EX",
+            "value": "FINAL FANTASY I 【EX】"
+        },
+        {
+            "key": "QE_MU_EV_FF1_EX",
+            "value": "FINAL FANTASY I 【EX】"
+        },
+        {
+            "key": "QE_EV_WROL_01",
+            "value": "限定ハードクエスト（光の戦士）"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1707,6 +1883,18 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "ユニット育成応援クエスト"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "【高難度】チャレンジクエスト"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "【超高難度】チャレンジクエスト#1"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "【超高難度】チャレンジクエスト#2"
         },
         {
             "key": "QE_EV_01_01",
@@ -1857,8 +2045,64 @@
             "value": "命を燃やし尽くすために 【EX】"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "ギルドバトル模擬戦"
+            "key": "QE_EV_04_01",
+            "value": "1話 招かれざる者"
+        },
+        {
+            "key": "QE_EV_04_02",
+            "value": "2話 師匠１"
+        },
+        {
+            "key": "QE_EV_04_03",
+            "value": "3話 師匠２"
+        },
+        {
+            "key": "QE_EV_04_04",
+            "value": "4話 憧れ"
+        },
+        {
+            "key": "QE_EV_04_05",
+            "value": "5話 サムライへの道"
+        },
+        {
+            "key": "QE_EV_04_06",
+            "value": "6話 魔物の巣窟１"
+        },
+        {
+            "key": "QE_EV_04_07",
+            "value": "7話 魔物の巣窟２"
+        },
+        {
+            "key": "QE_EV_04_08",
+            "value": "8話 魔物の巣窟３"
+        },
+        {
+            "key": "QE_EV_04_09",
+            "value": "9話 試練の山"
+        },
+        {
+            "key": "QE_EV_04_10",
+            "value": "10話 生きるために"
+        },
+        {
+            "key": "QE_EV_04_EX1",
+            "value": "東方遥かなり 【EX1】"
+        },
+        {
+            "key": "QE_EV_04_EX2",
+            "value": "東方遥かなり 【EX2】"
+        },
+        {
+            "key": "QE_MU_EV_04_EX1",
+            "value": "東方遥かなり 【EX1】"
+        },
+        {
+            "key": "QE_MU_EV_04_EX2",
+            "value": "東方遥かなり 【EX2】"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "限定ハードクエスト（キルフェ）"
         },
         {
             "key": "QE_EV_VNLA_01",
@@ -2041,6 +2285,22 @@
             "value": "武具育成クエスト（ゴールドアックス）"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "ギルドバトル模擬戦"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "ギルドバトル模擬戦（初級）"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "ギルドバトル模擬戦（中級）"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "ギルドバトル模擬戦（上級）"
+        },
+        {
             "key": "QE_MU_CSLI_03",
             "value": "超高難度　チョコプリンチャレンジ"
         },
@@ -2145,6 +2405,14 @@
             "value": "テトラシルフィード戦"
         },
         {
+            "key": "QE_SB_THDG_01",
+            "value": "２ヘッドドラゴン戦"
+        },
+        {
+            "key": "QE_SB_DABL_01",
+            "value": "ディアボロス戦"
+        },
+        {
             "key": "QE_RAID_EV_06_01",
             "value": "チョコレートプリンレイド"
         },
@@ -2159,6 +2427,34 @@
         {
             "key": "QE_RAID_EV_06_04",
             "value": "チョコレートプリンレイド"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "ホワイトマシュマロレイド"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "ホワイトマシュマロレイド"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "ホワイトマシュマロレイド"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "ホワイトマシュマロレイド"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "FF1コラボ記念レイド"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "FF1コラボ記念レイド"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "FF1コラボ記念レイド"
         },
         {
             "key": "QE_MU_AW_FIRE_01",
@@ -2297,6 +2593,30 @@
             "value": "【高難度】修練の間Lv.2"
         },
         {
+            "key": "QE_MU_AW_H09_3",
+            "value": "【高難度】修練の間（橘）C"
+        },
+        {
+            "key": "QE_MU_AW_H09_2",
+            "value": "【高難度】修練の間（橘）B"
+        },
+        {
+            "key": "QE_MU_AW_H09_1",
+            "value": "【高難度】修練の間（橘）A"
+        },
+        {
+            "key": "QE_MU_AW_H13_3",
+            "value": "【高難度】修練の間（緋）C"
+        },
+        {
+            "key": "QE_MU_AW_H13_2",
+            "value": "【高難度】修練の間（緋）B"
+        },
+        {
+            "key": "QE_MU_AW_H13_1",
+            "value": "【高難度】修練の間（緋）A"
+        },
+        {
             "key": "QE_BGN_01",
             "value": "初心者クエスト01"
         },
@@ -2365,6 +2685,10 @@
             "value": "荒地"
         },
         {
+            "key": "QE_ARENA_00004",
+            "value": "遺跡"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "闘技場"
         },
@@ -2374,6 +2698,10 @@
         },
         {
             "key": "QE_GVG_00003",
+            "value": "遺跡"
+        },
+        {
+            "key": "QE_GVG_00004",
             "value": "遺跡"
         },
         {

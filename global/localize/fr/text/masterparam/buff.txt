@@ -86,39 +86,39 @@
         },
         {
             "key": "BUFF_ElemNone",
-            "value": "Attaque normale "
+            "value": "Attaque normale"
         },
         {
             "key": "BUFF_ElemFire",
-            "value": "Attaque de feu "
+            "value": "Attaque de feu"
         },
         {
             "key": "BUFF_ElemIce",
-            "value": "Attaque de glace "
+            "value": "Attaque de glace"
         },
         {
             "key": "BUFF_ElemWind",
-            "value": "Attaque de vent "
+            "value": "Attaque de vent"
         },
         {
             "key": "BUFF_ElemEarth",
-            "value": "Attaque de terre "
+            "value": "Attaque de terre"
         },
         {
             "key": "BUFF_ElemThunder",
-            "value": "Attaque de foudre "
+            "value": "Attaque de foudre"
         },
         {
             "key": "BUFF_ElemWater",
-            "value": "Attaque d'eau "
+            "value": "Attaque d'eau"
         },
         {
             "key": "BUFF_ElemShine",
-            "value": "Attaque de lumière "
+            "value": "Attaque de lumière"
         },
         {
             "key": "BUFF_ElemDark",
-            "value": "Attaque d'ombre "
+            "value": "Attaque d'ombre"
         },
         {
             "key": "BUFF_ElemAll",
@@ -206,11 +206,11 @@
         },
         {
             "key": "BUFF_CondSlow",
-            "value": "Lenteur "
+            "value": "Lenteur"
         },
         {
             "key": "BUFF_CondStop",
-            "value": "Stop "
+            "value": "Stop"
         },
         {
             "key": "BUFF_CondStun",
@@ -218,7 +218,7 @@
         },
         {
             "key": "BUFF_CondDontMove",
-            "value": "Immobilisé"
+            "value": "Immobilisation"
         },
         {
             "key": "BUFF_CondDontAction",
@@ -226,7 +226,7 @@
         },
         {
             "key": "BUFF_CondBerserk",
-            "value": "Berserk "
+            "value": "Berserk"
         },
         {
             "key": "BUFF_CondDoom",
@@ -1051,6 +1051,10 @@
         {
             "key": "BUFF_ExeShield6",
             "value": "Bouclier ({0} fois ou {1} PV)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesPHuman",
+            "value": "Anthropophage dès qu'une attaque physique est lancée"
         }
     ]
 }

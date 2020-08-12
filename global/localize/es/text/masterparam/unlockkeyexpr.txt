@@ -62,7 +62,7 @@
         },
         {
             "key": "UnitStrengthLB",
-            "value": "Ver el tutorial sobre las mejoras de EL"
+            "value": "Ver el tutorial sobre la mejora del EL"
         },
         {
             "key": "UnitTraining",

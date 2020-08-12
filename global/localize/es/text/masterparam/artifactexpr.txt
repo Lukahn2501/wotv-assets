@@ -1889,6 +1889,18 @@
             "value": "Tipo de equipo: accesorio<br>Nivel de maestría de accesorio recomendado: B o superior"
         },
         {
+            "key": "AF_ACC_FF1_WROL_1",
+            "value": "Tipo de equipo: accesorio<br>Nivel de maestría de accesorio recomendado: A o superior"
+        },
+        {
+            "key": "AF_ACC_LW_QILF_1",
+            "value": "Tipo de equipo: accesorio<br>Nivel de maestría de accesorio recomendado: A o superior"
+        },
+        {
+            "key": "AF_KAT_LW_SIMR_1",
+            "value": "Tipo de equipo: katana<br>Nivel de maestría de arma recomendado: B o superior"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: B o superior"
         },
@@ -1977,6 +1989,10 @@
             "value": "Tipo de equipo: daga<br>Nivel de maestría de arma recomendado: A o superior"
         },
         {
+            "key": "AF_SWO_FF1_WROL_2",
+            "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: A o superior"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Tipo de equipo: accesorio<br>Nivel de maestría de accesorio recomendado: A o superior"
         },
@@ -2003,6 +2019,58 @@
         {
             "key": "AF_LW_BSW_011",
             "value": "Tipo de equipo: espadón<br>Nivel de maestría de arma recomendado: A o superior"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Tipo de equipo: ropa<br>Nivel de maestría de armadura recomendado: A o superior"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Tipo de equipo: ropa<br>Nivel de maestría de armadura recomendado: A o superior"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Tipo de equipo: ropa<br>Nivel de maestría de armadura recomendado: A o superior"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Tipo de equipo: ropa<br>Nivel de maestría de armadura recomendado: A o superior"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Tipo de equipo: ropa<br>Nivel de maestría de armadura recomendado: A o superior"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Tipo de equipo: ropa<br>Nivel de maestría de armadura recomendado: A o superior"
+        },
+        {
+            "key": "AF_FF1_ARM_002",
+            "value": "Tipo de equipo: armadura<br>Nivel de maestría de armadura recomendado: B o superior"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Tipo de equipo: armadura<br>Nivel de maestría de armadura recomendado: B o superior"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Tipo de equipo: armadura<br>Nivel de maestría de armadura recomendado: B o superior"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Tipo de equipo: armadura<br>Nivel de maestría de armadura recomendado: B o superior"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Tipo de equipo: armadura<br>Nivel de maestría de armadura recomendado: B o superior"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Tipo de equipo: armadura<br>Nivel de maestría de armadura recomendado: B o superior"
+        },
+        {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Tipo de equipo: bastón<br>Nivel de maestría de arma recomendado: A o superior"
         }
     ]
 }

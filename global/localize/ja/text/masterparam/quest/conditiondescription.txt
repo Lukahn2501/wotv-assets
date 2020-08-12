@@ -217,6 +217,18 @@
             "value": "ユニット「ヴィネラ・フェネス」のレベルが1以上"
         },
         {
+            "key": "COND_HA_FF1_WROL",
+            "value": "ユニット「光の戦士」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_QILF",
+            "value": "ユニット「キルフェ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_SIMR",
+            "value": "ユニット「シムール」のレベルが1以上"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "ユニット「モント・リオニス」のレベルが40以上"
         },
@@ -471,6 +483,18 @@
         {
             "key": "COND_CH_LW_TREL",
             "value": "ユニット「ティレル」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FF1_WROL",
+            "value": "ユニット「光の戦士」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_QILF",
+            "value": "ユニット「キルフェ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_SIMR",
+            "value": "ユニット「シムール」のレベルが40以上"
         }
     ]
 }

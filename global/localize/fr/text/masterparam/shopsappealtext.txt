@@ -55,6 +55,22 @@
         {
             "key": "14",
             "value": "<line-height=15>Boutique de la campagne <br>de soutien de guilde"
+        },
+        {
+            "key": "15",
+            "value": "<line-height=15>Boutique spéciale de raid !"
+        },
+        {
+            "key": "16",
+            "value": "<line-height=15>Boutique de la campagne <br>de l'été 2020"
+        },
+        {
+            "key": "17",
+            "value": "<line-height=15>La collaboration avec FFI s'achève le 11/08"
+        },
+        {
+            "key": "18",
+            "value": "<line-height=15>Boutique « Sortie du Chapitre 8 ! »"
         }
     ]
 }

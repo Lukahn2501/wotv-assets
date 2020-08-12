@@ -225,6 +225,78 @@
             "value": "デイリーミッション"
         },
         {
+            "key": "MG_DAILY_011_1",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_011_2",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_011_3",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_011_4",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_011_5",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_011_6",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_011_7",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_011_8",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_011_9",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_012_1",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_012_2",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_012_3",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_012_4",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_012_5",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_012_6",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_012_7",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_012_8",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_012_9",
+            "value": "デイリーミッション"
+        },
+        {
             "key": "MG_STORY_001",
             "value": "ストーリークエスト第1部"
         },
@@ -287,6 +359,38 @@
         {
             "key": "MG_FFT_2_03",
             "value": "【マルチ】【第2弾】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "MG_FF4_1_01",
+            "value": "FINAL FANTASY Ⅳ"
+        },
+        {
+            "key": "MG_FF4_1_M_01",
+            "value": "FINAL FANTASY Ⅳ 【中級】"
+        },
+        {
+            "key": "MG_FF4_1_02",
+            "value": "FINAL FANTASY Ⅳ 【EX】"
+        },
+        {
+            "key": "MG_FF4_1_03",
+            "value": "【マルチ】FINAL FANTASY Ⅳ 【EX】"
+        },
+        {
+            "key": "MG_FF4_1_03_DEL",
+            "value": "【マルチ】FINAL FANTASY Ⅳ 【EX】"
+        },
+        {
+            "key": "MG_PT_FF4_01_1",
+            "value": "裁きの試練クエスト Normal"
+        },
+        {
+            "key": "MG_PT_FF4_01_2",
+            "value": "裁きの試練クエスト Hard"
+        },
+        {
+            "key": "MG_EV_WAVE_001",
+            "value": "連破クエスト"
         },
         {
             "key": "MG_EV_IGNT_01",
@@ -581,6 +685,14 @@
             "value": "期間限定幻導石消費ボーナス"
         },
         {
+            "key": "MG_P_CECL",
+            "value": "期間限定幻導石消費ボーナス"
+        },
+        {
+            "key": "MG_P_ROSA",
+            "value": "期間限定幻導石消費ボーナス"
+        },
+        {
             "key": "MG_PR_001",
             "value": "幻導石消費"
         },
@@ -643,6 +755,10 @@
         {
             "key": "MG_MP_QEST_09",
             "value": "ストーリークエストパックⅨ"
+        },
+        {
+            "key": "MG_MP_QEST_10",
+            "value": "ストーリークエストパックⅩ"
         },
         {
             "key": "MG_MONDAY_001",
@@ -846,6 +962,34 @@
         },
         {
             "key": "MG_MONTHLY_007_7",
+            "value": "【マンスリーミッション】ギルド石像"
+        },
+        {
+            "key": "MG_MONTHLY_008_1",
+            "value": "【マンスリーミッション】ストーリークエスト"
+        },
+        {
+            "key": "MG_MONTHLY_008_2",
+            "value": "【マンスリーミッション】ハードクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_008_3",
+            "value": "【マンスリーミッション】マルチクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_008_4",
+            "value": "【マンスリーミッション】経験の間"
+        },
+        {
+            "key": "MG_MONTHLY_008_5",
+            "value": "【マンスリーミッション】アリーナ"
+        },
+        {
+            "key": "MG_MONTHLY_008_6",
+            "value": "【マンスリーミッション】探検チョコボ"
+        },
+        {
+            "key": "MG_MONTHLY_008_7",
             "value": "【マンスリーミッション】ギルド石像"
         },
         {

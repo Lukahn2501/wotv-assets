@@ -65,8 +65,20 @@
             "value": "　Cuatro hermosas hermanas que llegan con el viento. Aunque sus cabezas ya poseen alas y plumaje llamativo, las adornan con tiaras doradas. Los humanos se embelesan fácilmente con la belleza de sus plumas. Aproximarse a estas hermanas sin cuidado provocará su ira, por lo que se dice que nadie debe acercarse a ellas. Los vientos que crean cada una de ellas con sus alas pueden combinarse para formar tornados colosales. Se dice que la fuerza conjunta de estas hermanas cuando están unidas supera la de cualquier otra ninfa."
         },
         {
+            "key": "VC_LW_THDG",
+            "value": "　Un enorme dragón con dos cabezas cubierto de escamas doradas. Junto a su aliento incandescente, garras, cola y demás, posee métodos de ataque similares a los de otros dragones, pero son sus dos cabezas lo que realmente lo hace arriesgado para aquel que ose desafiarlo.<br>Saltar para esquivar un ataque de una de las cabezas puede resultar en ser atrapado por la otra. Asimismo, el fuego que surge de sus entrañas a través de su boca puede servir de señuelo mientras planea su ataque verdadero con su otra cabeza.<br>Si alguien no tiene más remedio que enfrentarse a esta criatura, a no ser que tenga una buena estrategia para contrarrestar sus ataques, mejor que vaya olvidándose de la victoria."
+        },
+        {
             "key": "VC_MBFF_MV1",
             "value": "«El Guerrero de la Luz prevalecerá sobre el caos y traerá la salvación al mundo».<br>Así lo anunciaba la profecía... Mas lo que acabó sucediendo no es lo que estaba previsto. El caos que condujo a la humanidad a la desesperación se esfumó, pero también lo hizo el héroe que trajo la esperanza.<br><br>Sí, por tu culpa.<br><br>Tú eres el que puso fin a la historia del «Guerrero de la Luz».<br>Nadie recuerda ya la valiente figura del «Guerrero de la Luz»,<br>tu propia figura.<br><br>Habiendo olvidado, la gente susurra.<br><br>Aquel que transformó este mundo, otrora bello y lleno de esperanza, existe.<br><br>El «Guerrero de la Desesperación», al que nadie conoce.<br>En esta era carente de historias que contar, el mundo aguarda con ansia el nacimiento de una nueva leyenda."
+        },
+        {
+            "key": "VC_FF01_DMAC",
+            "value": "　Un monstruo mecánico que patrulla la Fortaleza Voladora, un lugar al que solo se puede acceder desde una torre situada en el vasto desierto de un mundo lejano. Se cree que las civilizaciones de la antigüedad lo construyeron haciendo uso de su tecnología más avanzada.<br>Rara vez se deja ver, pero en el caso de tener tan mala suerte como para toparse con él, se dice que conseguir esquivar la lluvia de ataques de sus múltiples armas y vivir para contarlo sería una tarea hercúlea incluso para los Guerreros de la Luz salvadores del mundo."
+        },
+        {
+            "key": "VC_LW_CBVPARTY1",
+            "value": "«Darío, aquí tienes».<br>«Mmm... Vaya... Está delicioso. Cocinas de maravilla, Vinera».<br>«Bueno, la verdad es que practiqué mucho antes de hacértelo probar... Espera, que te traigo más».<br>«Espera, Vinera, descansa, que voy yo, ¿vale?».<br>«Pero lord Darío, tu cuerpo...».<br>«No te preocupes. Me siento genial hoy. Seguramente por estar rodeado de estas flores tan preciosas».<br>«Lord Darío... Gracias. Soy tan... feliz...».<br>«Yo también. Espero que podamos seguir apreciándolas juntos, por muchos años que pasen».<br>«Ojalá...»."
         },
         {
             "key": "VC_LW_IGNT",
@@ -135,6 +147,18 @@
         {
             "key": "VC_MBFF_MV2",
             "value": "　Este no es tu mundo. Tras haber perdido tus recuerdos, te hallas aquí, en Palamecia. Te acompañan muchos otros forasteros que han aparecido aquí sin recordar nada. Despojados de vuestro pasado, se os conoce como los «blan». Mas todavía tenéis futuro.<br>Existe una profecía en Palamecia que dice: «Un día, el Guerrero de la Luz aparecerá y devolverá la esperanza al mundo».<br>Quizá uno de los blan…, o incluso tú, podría ser el Guerrero de la Luz del que habla la profecía.<br>¡Lucha por tu futuro y trae la esperanza a Palamecia!"
+        },
+        {
+            "key": "VC_LW_ADLD",
+            "value": "　Adelardo, comandante de Nitor, la segunda división de Hourne, es un mago rojo que exhibe constantemente su sofisticada habilidad con la espada y la magia sin perder la compostura. Sin embargo, cuenta con un punto débil: su hermana pequeña Saria, una maga negra que pertenece a la misma división.<br>Comparada con Adelardo, que solo modera su conducta cuando su hermana está presente, Saria jamás intenta esconder su amor por su hermano mayor. Incluso en mitad de una misión, se pega a él y llega a tomar medidas extremas para alejar al resto su hermano. Siendo Adelardo muy de buen ver gracias a su presencia y reputación, ni que decir tiene que todas aquellas mujeres que se le acercan terminan en la lista negra de Saria, y no solo mujeres, incluso hombres y mascotas..."
+        },
+        {
+            "key": "VC_LW_WHITEDAY1",
+            "value": "«¿Qué? ¿Para nosotros? Pero parece caro...». «Lo dije cuando os lo entregué y lo diré otra vez: Lilita y yo simplemente os dimos chocolate porque queremos, sin ninguna obligación. Lo entiendes, ¿verdad?». «Claro que lo entiendo, Sosha. Es solo que me gustaría devolveros el favor por estar siempre cuidando de mí, aunque no sea gran cosa...». «Lililla, ¿hemos cuidado de él en alguna ocasión?». «Argh... Sosha. ¿No eres tú quien le hizo de cupido una vez? Para Ramada tienes preparado algo incluso mejor, ¿verdad, Valaido?». «¡Por supuesto! Así es. Bueno, ¡solo me preocupa que nunca he recibido nada de ella!»."
+        },
+        {
+            "key": "VC_LW_VNLA2",
+            "value": "　El matrimonio de Darío, príncipe de Hourne, y Vinera, princesa de Fennes, fue un matrimonio meramente político para unir a dos naciones en guerra. Sin embargo, una siniestra conspiración se fraguaba en la sombra.<br>Aunque los ciudadanos de Hourne y Fennes se muestran felices ante tal evento, ninguno de ellos en su interior lo es... A excepción del príncipe y la princesa, claro está.<br>Sin siquiera tener una idea de la personalidad o apariencia del otro, ambos estaban obligados a conocerse justo antes de que casarse. No era el caso de que ambos se hubiesen buscado mutuamente, y aunque se trataba de una relación cargada de obligaciones y responsabilidad, él la abrazaba y la trataba como un marido trataría a su esposa, y ella hacía lo mismo, abriendo su corazón ante tal gentileza.<br>No importa cuáles fueran las circunstancias que acabaron juntándolos, al final resultó en una unión pura de dos almas."
         },
         {
             "key": "VC_LW_CACT",
@@ -231,6 +255,10 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "　Una reliquia ancestral que, según parece, es capaz de mostrar imágenes de regiones lejanas. El espejo está adornado con la figurita de una mujer con alas de pájaro que sostiene un ave de presa en el brazo."
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "　Diablo, del que se dice que proviene del Mundo de la Oscuridad, es bien conocido por su elevada inteligencia y astucia. También se le conoce por negociar con invocadores y por concederles deseos, a pesar de que suele ser mediante engañosos contratos con letra pequeña. Si a la hora de realizar acuerdos presiente la vulnerabilidad de la otra parte, en vez de engañarlo simplemente le arrebatará la vida."
         },
         {
             "key": "VC_EXP_01",

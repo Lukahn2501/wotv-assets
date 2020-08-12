@@ -65,8 +65,20 @@
             "value": "　Vier Schwestern unvergleichlicher Schönheit, die die Winde mit sich bringen. Neben den Flügeln und pompösen Federn auf ihrem Haupt schmücken sie sich außerdem noch mit goldenen Diademen. Die Schönheit ihrer Schwingen zieht seit alten Zeiten Menschen in ihren Bann, doch wer es wagt, sich den Schwestern ungeschickt zu nähern, zieht sogleich ihren rasenden Zorn auf sich. Kombiniert sind die Winde, die ihre Schwingen entfachen, in der Lage, einen kolossalen Tornado zu entfachen, und sie gelten nicht ohne Grund als stärkste aller Fabelwesen."
         },
         {
+            "key": "VC_LW_THDG",
+            "value": "　Ein mächtiger zweiköpfiger Drache, dessen gesamter Körper mit goldenen Schuppen bedeckt ist. Mit seinem Feueratem, seinen Klauen und seinem Schwanz erinnern seine Angriffsmechanismen stark an andere Drachen, doch mehr als alles andere ist sich unbedingt vor seinen zwei Häuptern in Acht zu nehmen.<br>Der Versuch, dem Angriff eines Kopfes auszuweichen, endet nur allzu leicht darin, von dem anderen im Sprung geschnappt zu werden; oft dient auch der Feueratem des einen Mauls als Ablenkung, um das andere zubeißen zu lassen.<br>Sollte man keine andere Wahl haben, als sich diesem Gegner zu stellen, sind unbedingt Strategien gegen diese doppelte Bedrohung vorzubereiten, ansonsten ist an einen Sieg nicht zu denken."
+        },
+        {
             "key": "VC_MBFF_MV1",
             "value": "„Der Krieger des Lichts wird Chaos besiegen und die Welt zur Erlösung führen.“<br>So lautet die Prophezeiung – doch es kam anders als vorhergesagt ... Das Chaos, das die Menschheit in die Verzweiflung trieb, wurde beseitigt, doch der Held, der ihnen Hoffnung gab, verschwand.<br><br>Ja – durch deine Hand.<br><br>Du warst es, der die Erzählung des „Kriegers des Lichts“ beendet hat.<br>Und so wurde die mutige Gestalt des „Kriegers des Lichts“ – DU –<br>von der Welt vergessen.<br><br>Die Menschen flüstern, ihre Erinnerungen sind verloren.<br><br>Es gibt den einen, der diese einst wunderschöne Welt voller Hoffnung veränderte.<br><br>„Der Krieger der Verzweiflung“, den keiner kennt.<br>In einem Zeitalter ohne Geschichten hungert die Welt nach einer neuen Legende."
+        },
+        {
+            "key": "VC_FF01_DMAC",
+            "value": "　Ein gefährliches mechanisches Monster, das im Luftschloss patrouilliert, einem Ort in einer fernen Welt, an den man nur über einen Turm in der weiten Wüste gelangt. Es heißt, dass die Vorväter jener Welt die fortgeschrittenste Technologie ihrer Zeit zusammentrugen, um diese Konstruktion zu erschaffen.<br>Die Mechanikbestie ist nur höchst selten anzutreffen, doch diejenigen, die das Pech haben, ihr über den Weg zu laufen, werden von ihren zahlreichen Waffen so gnadenlos unter Beschuss genommen, dass ein Überleben selbst für die Krieger des Lichts, welche die Kraft besitzen, die Welt zu retten, nicht gesichert wäre."
+        },
+        {
+            "key": "VC_LW_CBVPARTY1",
+            "value": "„Dario – sag ‚Aaaah‘ ...“<br> „Mhmmm ... Wow, das ist wirklich unglaublich gut. Du kannst so gut kochen, Vinera.“<br>„Bevor ich hierher gekommen bin, habe ich sehr viel geübt, weißt du ... Ah, es ist noch mehr da – lass es mich holen gehen.“<br>„Warte, Vinera, ich mache das schon. Du entspanne dich einfach, ja?“<br>„Aber Dario, du bist doch so schwach ...“<br>„Mach dir keine Sorgen; heute geht es mir richtig gut. Sicherlich, weil wir von so schönen Blumen umgeben sind.“<br>„Dario ... Vielen Dank. Ich ... Ich bin wirklich glücklich.“<br>„Ich auch, Vinera. Ich will diesen Anblick noch viele Jahre gemeinsam genießen.“<br>„Ja, ich ebenso ...“"
         },
         {
             "key": "VC_LW_IGNT",
@@ -135,6 +147,18 @@
         {
             "key": "VC_MBFF_MV2",
             "value": "　Diese Welt ist nicht die deine. Deines Gedächtnisses beraubt findest du dich hier, in Palamecia, wieder. Doch du bist nicht der Einzige; neben dir hat es auch viele andere hierher verschlagen, die sich an nichts erinnern können. Ohne Vergangenheit nennt man euch die „Blanks“. Doch wenngleich ihr eure Vergangenheit verloren habt, bleibt euch immer noch die Zukunft.<br>In Palamecia gibt es eine Prophezeiung, die lautet: „Eines Tages wird der Krieger des Lichts auftauchen und der Welt die Hoffnung zurückbringen.“<br>Kann es sein, dass einer der Blanks – oder etwa sogar du – der Krieger des Lichts aus der Prophezeiung ist?<br>Kämpfe für die Zukunft und bringe Hoffnung nach Palamecia!"
+        },
+        {
+            "key": "VC_LW_ADLD",
+            "value": "　Adelard, seines Zeichens Rotmagier und Kommandant von Hournes 2. Division „Nitor“, darf sich exquisiter Schwertführung und magischen Talents rühmen. Für gewöhnlich niemals die Fassung verlierend, hat jedoch auch er einen Schwachpunkt: seine jüngere Schwester Salire, eine seiner Division angehörende Schwarzmagierin und seine einzige Blutsverwandte.<br>In krassem Gegensatz zu ihrem Bruder, welcher selbst seiner Schwester gegenüber nur unter vier Augen seine sanfte Seite zeigt, macht Salire keinen Hehl aus ihrer glühenden Bewunderung für ihren großen Bruder: selbst im Einsatz weicht sie keinen Millimeter von seiner Seite und tut alles Menschenmögliche, andere von ihm fernzuhalten, um ihn ganz für sich alleine zu haben. Es überrascht daher nicht, dass seine zahlreichen Verehrerinnen, angezogen von seinem guten Aussehen und seinem exzellenten Ruf, in allerhöchstem Maße Salires brennende Eifersucht auf sich ziehen, doch auch Männer und sogar Haustiere sind Objekte ihrer Rivalität."
+        },
+        {
+            "key": "VC_LW_WHITEDAY1",
+            "value": "„Ooh, können wir das wirklich annehmen? Sieht ja echt teuer aus ...“ „Nur um das nochmal klarzumachen: Lolla und ich haben dir nur aus Verpflichtung heraus Schokolade gegeben, klar?“ „Natürlich weiß ich das, Sosha. Aber ich wollte mich einfach dafür revanchieren, dass ihr euch immer um mich kümmert. Ist wirklich nichts Besonderes!“ „Hey Lallu, wann haben wir uns denn um ihn ihn gekümmert?“ „Also wirklich, Sosha – du hast ihm doch sogar liebesmäßig unter die Arme gegriffen! Für Lhamada hast du doch sicher noch was Besseres vorbereitet, oder, Vallaid?“ „Absolut! Allerdings kann ich mich bei ihr nicht ‚revanchieren‘, da ich noch nie irgendetwas von ihr bekommen habe ...“"
+        },
+        {
+            "key": "VC_LW_VNLA2",
+            "value": "　Die Heirat von Dario, dem Prinzen von Hourne, und Vinera, der Prinzessin von Fennes, war nichts weiter als ein politisches Manöver, um eine Allianz zwischen den beiden verfeindeten Nationen zu erzwingen; dahinter jedoch stand eine finstere Verschwörung.<br>Wenngleich die Bürger der beiden Königreiche vorgaben, die Vermählung zu feiern, glaubte doch niemand an eine glückliche Zukunft für die beiden ... Niemand außer dem Prinzen und der Prinzessin selbst.<br>Die beiden wurden einander versprochen, ohne auch nur das Geringste über den jeweils Anderen zu wissen, und auf ihrer Beziehung lasteten schwer Verpflichtung und Verantwortung, doch Dario nahm sich Vinera an, wie es Gemahlen mit einer Gemahlin tun, und mit jedem Mal, das sie seine Freundlichkeit erfuhr, öffnete sich ihr Herz mehr. <br>Auch wenn die Verbindung der beiden aus ominösen Umständen hervorging – letzten Endes wurde daraus eine echte Seelenverwandtschaft."
         },
         {
             "key": "VC_LW_CACT",
@@ -231,6 +255,10 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "　Ein Relikt der Altvorderen, das angeblich Bilder aus fernen Landen zeigen kann. Eine kleine weibliche Figur mit vogelartigen Flügeln ziert den Spiegel, und auf ihrem Arm sitzt ein Greifvogel."
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "　Diabolos, von dem angenommen wird, er stamme aus der Welt der Dunkelheit, ist bekannt für seinen scharfen Verstand und seine intrigante Persönlichkeit. Während es vorkommen mag, dass er jenen, die ihn riefen, im Gegenzug Wünsche gewährt, enthalten diese Transaktionen nur allzu oft Fallen und Hintertüren, und sollte sich sein Verhandlungspartner während der Verhandlungen verletzlich zeigen, kann ihn das zuweilen gar das Leben kosten."
         },
         {
             "key": "VC_EXP_01",

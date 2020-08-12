@@ -65,8 +65,20 @@
             "value": "사천열풍-테트라 실피드"
         },
         {
+            "key": "VC_LW_THDG",
+            "value": "맹공의 쌍두룡-투헤드 드래곤"
+        },
+        {
             "key": "VC_MBFF_MV1",
             "value": "절망과 진실의 뫼비우스"
+        },
+        {
+            "key": "VC_FF01_DMAC",
+            "value": "데스 머신"
+        },
+        {
+            "key": "VC_LW_CBVPARTY1",
+            "value": "덧없는 꽃놀이"
         },
         {
             "key": "VC_LW_IGNT",
@@ -135,6 +147,18 @@
         {
             "key": "VC_MBFF_MV2",
             "value": "희망과 환상의 뫼비우스"
+        },
+        {
+            "key": "VC_LW_ADLD",
+            "value": "질투심 많은 마술사"
+        },
+        {
+            "key": "VC_LW_WHITEDAY1",
+            "value": "허세의 대가"
+        },
+        {
+            "key": "VC_LW_VNLA2",
+            "value": "거짓된 언약, 진실된 영혼"
         },
         {
             "key": "VC_LW_CACT",
@@ -231,6 +255,10 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "원견의 거울"
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "몽환마인-디아볼로스"
         },
         {
             "key": "VC_EXP_01",

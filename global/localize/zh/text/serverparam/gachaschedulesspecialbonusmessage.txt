@@ -526,11 +526,11 @@
         },
         {
             "key": "gacha_unit_vc_gl20200701_10_step2",
-            "value": "確保出現1名UR兵員或幻兵卡"
+            "value": "確保1個名額為UR兵員或幻兵卡"
         },
         {
             "key": "gacha_unit_vc_gl20200701_10_step1",
-            "value": "確保出現1名UR兵員或幻兵卡"
+            "value": "確保1個名額為UR兵員或幻兵卡"
         },
         {
             "key": "gacha_unit_vc_gl20200701_10_base",
@@ -623,6 +623,258 @@
         {
             "key": "p_gacha_unit_gl20200715_10",
             "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_01",
+            "value": "附贈10個【7月】召喚獎牌B"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_10",
+            "value": "附贈100個【7月】召喚獎牌B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_01",
+            "value": "附贈10個【7月】召喚獎牌B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "附贈100個【7月】召喚獎牌B"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step3",
+            "value": "確保精選幻兵卡1張"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step2",
+            "value": "於STEP 3確保精選幻兵卡1張"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step1",
+            "value": "於STEP 3確保精選幻兵卡1張"
+        },
+        {
+            "key": "3step-gacha_gl20200722_base",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step4",
+            "value": "附贈思念的碎片×50"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step3",
+            "value": "附贈覺醒輝源×50"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_gacha_gl20200729_01",
+            "value": "附贈10個FFI聯動召喚獎牌A"
+        },
+        {
+            "key": "ff1_gacha_gl20200729_10",
+            "value": "附贈100個FFI聯動召喚獎牌A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_01",
+            "value": "附贈10個【7月】召喚獎牌B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_10",
+            "value": "附贈100個【7月】召喚獎牌B"
+        },
+        {
+            "key": "ff1_p_gacha_unit_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_p_gacha_vc_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_9",
+            "value": ""
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step3",
+            "value": "確保1名光屬性UR兵員"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step2",
+            "value": "確保1個名額為UR兵員或幻兵卡"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step1",
+            "value": "確保1個名額為UR兵員或幻兵卡"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step4",
+            "value": "附贈思念的碎片×50"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step3",
+            "value": "附贈覺醒輝源×50"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_01",
+            "value": "附贈10個【8月】召喚獎牌A"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "附贈100個【8月】召喚獎牌A"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step4",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step3",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200805_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200805_10",
+            "value": "附贈100個【8月】召喚獎牌A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_01",
+            "value": "附贈10個【8月】召喚獎牌A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "附贈100個【8月】召喚獎牌A"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_01",
+            "value": "附贈10個【8月】召喚獎牌A"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "附贈100個【8月】召喚獎牌A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_01",
+            "value": "附贈10個【8月】召喚獎牌A"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "附贈100個【8月】召喚獎牌A"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step4",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step3",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200812_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200812_10",
+            "value": "附贈100個【8月】召喚獎牌A"
         },
         {
             "key": "global_pickup_sterne_20200325_01",

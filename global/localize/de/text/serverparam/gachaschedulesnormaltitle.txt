@@ -129,6 +129,30 @@
             "value": "Rare Beschwörung"
         },
         {
+            "key": "Raregacha_A_gl20200729_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_P",
+            "value": "Rare Beschwörung"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Veröffentlichungsandenken – limitierte normale Beschwörung"
         },
@@ -238,6 +262,38 @@
         },
         {
             "key": "Normal_gacha_A_gl20200715_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_10",
             "value": "Limitierte Normale Beschwörung (10-malig)"
         }
     ]

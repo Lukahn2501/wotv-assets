@@ -18,7 +18,7 @@
         },
         {
             "key": "5",
-            "value": "¡Nuevas<br>unidades destacadas!"
+            "value": "¡Nuevas unidades<br>destacadas!"
         },
         {
             "key": "6",
@@ -50,7 +50,23 @@
         },
         {
             "key": "13",
-            "value": "¡Nuevas<br>unidades destacadas!"
+            "value": "¡Nuevas unidades<br>destacadas!"
+        },
+        {
+            "key": "14",
+            "value": "¡Nuevas cartas de<br>visión destacadas!"
+        },
+        {
+            "key": "15",
+            "value": "Colaboración de FFI<br>¡Invoca ahora!"
+        },
+        {
+            "key": "16",
+            "value": "¡Nuevas unidades<br>destacadas!"
+        },
+        {
+            "key": "17",
+            "value": "¡Nuevas cartas de<br>visión destacadas!"
         }
     ]
 }

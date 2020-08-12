@@ -54,7 +54,7 @@
         },
         {
             "key": "IT_SET_AF_LW_CLT_001",
-            "value": "Tissu : peut être équipé par les seigneurs, les guerriers, les moines, les lanciers, les voleurs, les chasseurs, les ninjas, les artilleurs, les mages blancs, les mages noirs, les prêtres, les mages rouges, les chronomages, les mages verts, les mages blancs de Lapis, les sorcières, les pistosabreurs, les écuyers et les épées sacrées."
+            "value": "Tissu : peut être équipé par les seigneurs, les guerriers, les moines, les lanciers, les voleurs, les chasseurs, les ninjas, les artilleurs, les mages blancs, les mages noirs, les prêtres, les mages rouges, les chronomages, les mages verts, les mages blancs de Lapis, les vikings, les artilleurs ambidextres, les sorcières, les pistosabreurs, les écuyers et les épées sacrées."
         },
         {
             "key": "IT_SET_AF_LW_HLM_001",
@@ -74,7 +74,7 @@
         },
         {
             "key": "IT_SET_JB_EM_01",
-            "value": "Un lot spécial rempli d'alcrists (Vert) essentiels aux jobs des niv. 2-3. Offre spéciale de la boutique du débutant."
+            "value": "Un lot spécial rempli d'alcrists (verts) essentiels aux jobs des niv. 2-3. Offre spéciale de la boutique du débutant."
         },
         {
             "key": "IT_SET_JB_A_01",
@@ -86,11 +86,11 @@
         },
         {
             "key": "IT_SET_AF_RECIPE_R_01",
-            "value": "Un lot spécial rempli de recettes pour les équipements R qui sont compatibles avec tous les types de job. Offre spéciale de la boutique du débutant - Moitié prix !"
+            "value": "Un lot spécial rempli de recettes d'artisanat pour les équipements R qui sont compatibles avec leur type de job respectif. Offre spéciale de la boutique du débutant."
         },
         {
             "key": "IT_SET_AF_RECIPE_R_02",
-            "value": "Un lot spécial rempli de recettes pour les équipements R qui sont compatibles avec tous les types de job. Offre spéciale de la boutique du débutant - Moitié prix !"
+            "value": "Un lot spécial rempli de recettes d'artisanat pour les équipements R qui sont compatibles avec leur type de job respectif. Offre spéciale de la boutique du débutant - Moitié prix !"
         },
         {
             "key": "IT_SET_AW_FIRE_02",
@@ -158,35 +158,35 @@
         },
         {
             "key": "IT_SET_AW_FIRE_03",
-            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de feu."
+            "value": "Un lot spécial rempli d'âmes d'éveil (2-4★), indispensables à l'éveil des unités de feu."
         },
         {
             "key": "IT_SET_AW_WATER_03",
-            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités d'eau."
+            "value": "Un lot spécial rempli d'âmes d'éveil (2-4★), indispensables à l'éveil des unités d'eau."
         },
         {
             "key": "IT_SET_AW_WIND_03",
-            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de vent."
+            "value": "Un lot spécial rempli d'âmes d'éveil (2-4★), indispensables à l'éveil des unités de vent."
         },
         {
             "key": "IT_SET_AW_THUNDER_03",
-            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de foudre."
+            "value": "Un lot spécial rempli d'âmes d'éveil (2-4★), indispensables à l'éveil des unités de foudre."
         },
         {
             "key": "IT_SET_AW_SOIL_03",
-            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de terre."
+            "value": "Un lot spécial rempli d'âmes d'éveil (2-4★), indispensables à l'éveil des unités de terre."
         },
         {
             "key": "IT_SET_AW_ICE_03",
-            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de glace."
+            "value": "Un lot spécial rempli d'âmes d'éveil (2-4★), indispensables à l'éveil des unités de glace."
         },
         {
             "key": "IT_SET_AW_SHINE_03",
-            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités de lumière."
+            "value": "Un lot spécial rempli d'âmes d'éveil (2-4★), indispensables à l'éveil des unités de lumière."
         },
         {
             "key": "IT_SET_AW_DARK_03",
-            "value": "Un lot spécial rempli d'âmes d'éveil (2–4★), indispensables à l'éveil des unités d'ombre."
+            "value": "Un lot spécial rempli d'âmes d'éveil (2-4★), indispensables à l'éveil des unités d'ombre."
         },
         {
             "key": "IT_SET_GROW_01",
@@ -206,7 +206,7 @@
         },
         {
             "key": "IT_SET_GROW_GL_00",
-            "value": "[Offre spéciale pour les débutants] Un lot spécial contenant un ticket sélectionneur de fragment de pensée (x10), avec en bonus des orbes de vision arc-en-ciel, un ticket sélectionneur de prisme d'éveil (x10) et des cubes d'EXP (L) !"
+            "value": "[Offre spéciale pour les débutants] Un lot spécial contenant un ticket sélectionneur de 10 fragments de pensée élémentaires, avec en bonus des orbes de vision arc-en-ciel, un ticket sélectionneur de 10 prismes d'éveil et des cubes d'EXP (L) !"
         },
         {
             "key": "IT_SET_ACTP_GL_00",
@@ -214,7 +214,7 @@
         },
         {
             "key": "IT_SET_GROW_GL_01",
-            "value": "[Offre spéciale pour le lancement du jeu] Un lot spécial rempli de cubes d'EXP (XL), avec des orbes de vision et des fragments de pensée arc-en-ciel en bonus ! De quoi renforcer vos unités !"
+            "value": "[Offre spéciale pour le lancement du jeu] Un lot spécial rempli de cubes d'EXP (XL), avec des orbes de vision arc-en-ciel et des fragments de pensée arc-en-ciel en bonus ! De quoi renforcer vos unités !"
         },
         {
             "key": "IT_SET_STORY_GL_00",
@@ -270,7 +270,7 @@
         },
         {
             "key": "IT_SET_3MDL_AW",
-            "value": "Un lot spécial contenant un orbe de vision arc-en-ciel, un ticket sélectionneur de 100 prismes d'éveil et un ticket sélectionneur de 100 fragments de pensée ! L'essentiel pour entraîner vos unités !"
+            "value": "Un lot spécial contenant un orbe de vision arc-en-ciel, un ticket sélectionneur de 100 prismes d'éveil et un ticket sélectionneur de 100 fragments de pensée élémentaires ! L'essentiel pour entraîner vos unités !"
         },
         {
             "key": "IT_SET_GROW_RAMZ",
@@ -310,7 +310,7 @@
         },
         {
             "key": "IT_SET_4MDL_AW",
-            "value": "Un lot spécial contenant un orbe de vision arc-en-ciel, un ticket sélectionneur de 100 prismes d'éveil et un ticket sélectionneur de 100 fragments de pensée ! L'essentiel pour entraîner vos unités !"
+            "value": "Un lot spécial contenant un orbe de vision arc-en-ciel, un ticket sélectionneur de 100 prismes d'éveil et un ticket sélectionneur de 100 fragments de pensée élémentaires ! L'essentiel pour entraîner vos unités !"
         },
         {
             "key": "IT_SET_LB_EXP_00",
@@ -322,7 +322,7 @@
         },
         {
             "key": "IT_SET_AWK_01",
-            "value": "Un lot spécial contenant un ticket sélectionneur de fragment de pensée x50, avec en bonus un orbe de vision arc-en-ciel et un ticket sélectionneur de prisme d'éveil x50 !"
+            "value": "Un lot spécial contenant un ticket sélectionneur de 50 fragments de pensée élémentaires, avec en bonus un orbe de vision arc-en-ciel et un ticket sélectionneur de 50 prismes d'éveil !"
         },
         {
             "key": "IT_SET_5MDL_WATER",
@@ -362,7 +362,7 @@
         },
         {
             "key": "IT_SET_UR_UNIT",
-            "value": "Un lot contenant un ticket d'invocation d'unité UR garantie, des cubes d'EXP (L/XL), un ticket sélectionneur de 100 fragments de pensée élémentaires, un ticket sélectionneur de 100 prismes d'éveil élémentaires, un fragment de pensée arc-en-ciel et des orbes de vision arc-en-ciel ! * Les unités limitées, les unités des collaborations, ainsi que Kitone et « Chuchote », ne sont pas incluses."
+            "value": "Ce lot renferme un ticket d'invocation d'unité UR garantie [A] et des objets nécessaires à l'entraînement de vos unités ! *Le ticket d'invocation d'unité UR garantie [A] ne peut pas être utilisé pour Vinera, Rain ni pour les unités limitées et celles issues des collaborations."
         },
         {
             "key": "IT_SET_UR_VC",
@@ -414,7 +414,7 @@
         },
         {
             "key": "IT_SET_WA_ATK_GL01",
-            "value": "Un lot spécial contenant un marteau de reforge pour réinitialiser les caractéristiques d'un équipement, des sceaux d'attaque pour augmenter les chances d'améliorer les attaques quand un équipement gagne un niveau, ainsi que des marteaux nains d'attaque pour améliorer l'attaque de votre équipement !"
+            "value": "Un lot spécial contenant un marteau de reforge pour réinitialiser les caractéristiques d'un équipement, des sceaux d'attaque pour augmenter les chances d'améliorer les attaques quand un équipement gagne un niveau, ainsi que des marteaux nains d'ATT pour améliorer l'attaque de votre équipement !"
         },
         {
             "key": "IT_SET_WA_HIT_GL01",
@@ -486,35 +486,35 @@
         },
         {
             "key": "IT_SET_EM_FIRE_01",
-            "value": "Un lot spécial débordant d'Alcrist de feu de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type feu !"
+            "value": "Un lot spécial débordant d'alcrists de feu de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de feu !"
         },
         {
             "key": "IT_SET_EM_WATER_01",
-            "value": "Un lot spécial débordant d'Alcrist d'eau de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type eau !"
+            "value": "Un lot spécial débordant d'alcrists d'eau de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités d'eau !"
         },
         {
             "key": "IT_SET_EM_WIND_01",
-            "value": "Un lot spécial débordant d'Alcrist de vent de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type vent !"
+            "value": "Un lot spécial débordant d'alcrists de vent de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de vent !"
         },
         {
             "key": "IT_SET_EM_THUNDER_01",
-            "value": "Un lot spécial débordant d'Alcrist de foudre de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type foudre !"
+            "value": "Un lot spécial débordant d'alcrists de foudre de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de foudre !"
         },
         {
             "key": "IT_SET_EM_SOIL_01",
-            "value": "Un lot spécial débordant d'Alcrist de terre de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type terre !"
+            "value": "Un lot spécial débordant d'alcrists de terre de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de terre !"
         },
         {
             "key": "IT_SET_EM_ICE_01",
-            "value": "Un lot spécial débordant d'Alcrist de glace de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type glace !"
+            "value": "Un lot spécial débordant d'alcrists de glace de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de glace !"
         },
         {
             "key": "IT_SET_EM_SHINE_01",
-            "value": "Un lot spécial débordant d'Alcrist de lumière de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type lumière !"
+            "value": "Un lot spécial débordant d'alcrists de lumière de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de lumière !"
         },
         {
             "key": "IT_SET_EM_DARK_01",
-            "value": "Un lot spécial débordant d'Alcrist d'ombre de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités de type ombre !"
+            "value": "Un lot spécial débordant d'alcrists d'ombre de toutes raretés ! Des objets essentiels pour augmenter le niveau du job de vos unités d'ombre !"
         },
         {
             "key": "IT_SET_UNIT_EXP_TOWER",
@@ -566,11 +566,107 @@
         },
         {
             "key": "IT_SET_GU_EXP_GL_01",
-            "value": "Ce lot renferme des crocs venimeux de serpent (L), d'imposantes cornes de taureau (L), des crinières de Kirin (L) et de puissantes mâchoires de lion (L) ! Des objets essentiels à l'entraînement de vos statues de guilde !"
+            "value": "Ce lot renferme des crocs venimeux de serpent (L), d'imposantes cornes de taureau (L), des crinières de Kirin (L) et de puissantes mâchoires de lion (L) ! Des objets essentiels à l'entraînement de vos statues de guilde !"
         },
         {
             "key": "IT_SET_AW_DARK_CM_03",
-            "value": "Un lot spécial qui contient des fragments de pensée d'ombre, des âmes d'éveil d'ombre (2–6★), des fragments de pensée arc-en-ciel, des orbes de vision et des prismes d'éveil d'ombre ! De quoi éveiller vos unités d'ombre !"
+            "value": "Un lot spécial qui contient des fragments de pensée d'ombre, des âmes d'éveil d'ombre (2-6★), des fragments de pensée arc-en-ciel, des orbes de vision arc-en-ciel et des prismes d'éveil d'ombre ! De quoi éveiller vos unités d'ombre !"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "Un orbe de vision arc-en-ciel, objet nécessaire pour briser la limite de vos unités UR. Offre spéciale de la Boutique du débutant."
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "Un orbe de vision azur, objet nécessaire pour briser la limite de vos unités MR. Peut être obtenu gratuitement une fois par jour, seulement par les débutants !"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "Un fragment de pensée arc-en-ciel, objet nécessaire pour éveiller vos unités. Offre spéciale de la Boutique du débutant."
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "Un lot pour améliorer les jobs de vos unités jusqu'au niveau 4. Offre spéciale de la boutique du débutant."
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "Un lot qui renferme toutes les variétés de jades nécessaires pour améliorer les jobs de vos unités jusqu'aux niveaux 2 à 3. Offre spéciale de la boutique du débutant."
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "Un lot qui renferme toutes les variétés de jades nécessaires pour améliorer les jobs de vos unités jusqu'aux niveaux 2 à 3. Offre spéciale de la boutique du débutant."
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "Un lot qui renferme toutes les variétés d'azurites nécessaires pour améliorer les jobs de vos unités jusqu'aux niveaux 4 à 6. Offre spéciale de la boutique du débutant."
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "Un lot qui renferme toutes les variétés d'azurites nécessaires pour améliorer les jobs de vos unités jusqu'aux niveaux 4 à 6. Offre spéciale de la boutique du débutant."
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "Un lot spécial contenant un ticket sélectionneur de 200 fragments de pensée élémentaires, avec en bonus un ticket sélectionneur de 200 prismes d'éveil, des fragments de pensée arc-en-ciel et des orbes de vision arc-en-ciel !"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "Un lot spécial rempli de recettes d'artisanat pour les équipements R qui sont compatibles avec leur type de job respectif. Offre spéciale de la boutique du débutant."
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "Ce lot renferme des objets tels qu'un ticket d'invocation d'atout-vision UR garanti [A] et des orbes de vision arc-en-ciel ! *Le ticket d'invocation d'atout-vision UR garanti [A] ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Ce lot contient un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 22 juillet. Il renferme également 1 orbe de vision arc-en-ciel, des œufs de croissance (MR) et des gilkhélones (L) ! *Le ticket sélectionneur de 50 fragments d'atout-vision UR ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations. *Ne contient aucun atout-vision apparu après la date indiquée."
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "Un lot spécial qui renferme de la magilithe blanche (XL) et des œufs de croissance (MR) ! De quoi améliorer les chimères de lumière !"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "Un lot spécial contenant un marteau de reforge nécessaire à la réinitialisation des caractéristiques d'un équipement, des sceaux de défense qui favorisent l'amélioration de la DEF quand un équipement gagne un niveau ainsi que des marteaux nains de DEF pour améliorer encore davantage la DEF de votre équipement !"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "Un lot spécial contenant un marteau de reforge nécessaire à la réinitialisation des caractéristiques d'un équipement, des sceaux d'âme qui favorisent l'amélioration de la PSY quand un équipement gagne un niveau ainsi que des marteaux nains de PSY pour améliorer encore davantage la PSY de votre équipement !"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "Un lot spécial rempli de fragments de l'unité UR Guerrier de la lumière, nécessaires pour briser sa limite, ainsi que des fragments de pensée de lumière pour l'éveil et des bonus tels que des orbes de vision arc-en-ciel et un fragment de pensée arc-en-ciel !"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "Un lot spécial qui contient des fragments de pensée de lumière, des âmes d'éveil de lumière (2-6★), des fragments de pensée arc-en-ciel, des orbes de vision arc-en-ciel et des prismes d'éveil de lumière ! De quoi éveiller vos unités de lumière !"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "Un lot spécial qui contient des fragments d'atout-vision nécessaires à l'éveil de la « Sentinelle », ainsi que des œufs de croissance (MR), des orbes de vision arc-en-ciel et des gilkhélones (L) nécessaires à son amélioration !"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "Un lot spécial qui contient des fragments de pensée de terre, des âmes d'éveil de terre (2-6★), des fragments de pensée arc-en-ciel, des orbes de vision arc-en-ciel et des prismes d'éveil de terre ! De quoi éveiller vos unités de terre !"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "Ce lot renferme un ticket d'invocation d'unité UR garantie et des objets nécessaires à l'entraînement de vos unités ! *Le ticket d'invocation d'unité UR garantie ne peut pas être utilisé pour les unités limitées et celles issues des collaborations."
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Ce lot contient des œufs de croissance (MR) et 1 ticket sélectionneur de 25 magilithes élémentaires (M)."
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Ce lot contient un ticket sélectionneur de 50 fragments d'atout-vision UR, 1 orbe de vision arc-en-ciel, des œufs de croissance (MR) et des gilkhélones (L) ! *Le ticket sélectionneur de 50 fragments d'atout-vision UR ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "Un lot spécial qui renferme de la magilithe violette (XL) et des œufs de croissance (MR) ! De quoi améliorer les chimères d'ombre !"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "Un lot spécial rempli d'œufs de croissance (MR), avec en bonus des œufs de croissance (SR) et des gilkhélones (L) ! De quoi améliorer vos atouts-visions !"
         }
     ]
 }

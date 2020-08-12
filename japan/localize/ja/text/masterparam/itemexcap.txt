@@ -39,6 +39,10 @@
         {
             "key": "EX_AF_AW",
             "value": "精錬の秘伝書"
+        },
+        {
+            "key": "EX_AF_SUP",
+            "value": "刻印"
         }
     ]
 }

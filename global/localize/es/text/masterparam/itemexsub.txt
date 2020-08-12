@@ -191,6 +191,62 @@
         {
             "key": "EX_SUB_JB_AXE",
             "value": "Mineral para hachas"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SW",
+            "value": "Libro secreto de mejora (espada)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_LS",
+            "value": "Libro secreto de mejora (espadón)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_JS",
+            "value": "Libro secreto de mejora (katana)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_FI",
+            "value": "Libro secreto de mejora (puños)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SP",
+            "value": "Libro secreto de mejora (lanza)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SS",
+            "value": "Libro secreto de mejora (daga)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_KU",
+            "value": "Libro secreto de mejora (hoja ninja)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_BO",
+            "value": "Libro secreto de mejora (arco)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_GU",
+            "value": "Libro secreto de mejora (pistola)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_ST",
+            "value": "Libro secreto de mejora (bastón)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_MA",
+            "value": "Libro secreto de mejora (maza)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AX",
+            "value": "Libro secreto de mejora (hacha)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AR",
+            "value": "Libro secreto de mejora (armadura)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AC",
+            "value": "Libro secreto de mejora (accesorio)"
         }
     ]
 }

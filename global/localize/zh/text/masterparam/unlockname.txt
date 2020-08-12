@@ -102,7 +102,7 @@
         },
         {
             "key": "CharaQuest",
-            "value": "兵員任務"
+            "value": "角色任務"
         },
         {
             "key": "ItemExchange",

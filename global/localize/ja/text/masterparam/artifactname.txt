@@ -1889,6 +1889,18 @@
             "value": "蛇闘士の冠"
         },
         {
+            "key": "AF_ACC_FF1_WROL_1",
+            "value": "ガントレットオブライト"
+        },
+        {
+            "key": "AF_ACC_LW_QILF_1",
+            "value": "杖術士の髪飾り"
+        },
+        {
+            "key": "AF_KAT_LW_SIMR_1",
+            "value": "滅却の大太刀"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "リオンズソード"
         },
@@ -1977,6 +1989,10 @@
             "value": "アサシンクリス"
         },
         {
+            "key": "AF_SWO_FF1_WROL_2",
+            "value": "ソードオブライト"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "アレキサンドライトの指輪"
         },
@@ -2003,6 +2019,58 @@
         {
             "key": "AF_LW_BSW_011",
             "value": "クリムゾンセイバー"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "プラチナローブ"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "プラチナローブ+1"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "プラチナローブ+2"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "プラチナローブ+3"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "プラチナローブ+4"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "プラチナローブ+5"
+        },
+        {
+            "key": "AF_FF1_ARM_002",
+            "value": "アーマーオブライト"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "アーマーオブライト+1"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "アーマーオブライト+2"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "アーマーオブライト+3"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "アーマーオブライト+4"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "アーマーオブライト+5"
+        },
+        {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "ファントムケーン"
         }
     ]
 }

@@ -1051,6 +1051,10 @@
         {
             "key": "BUFF_ExeShield6",
             "value": "護盾({0}回合orHP{1})"
+        },
+        {
+            "key": "BUFF_KillerSpeciesPHuman",
+            "value": "物理攻擊時對人特效"
         }
     ]
 }

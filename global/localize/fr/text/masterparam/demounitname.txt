@@ -210,15 +210,15 @@
         },
         {
             "key": "DU_LW_PRAY",
-            "value": "« Grâce »"
+            "value": "« Grâce »"
         },
         {
             "key": "DU_LW_MURM",
-            "value": "« Murmure »"
+            "value": "« Murmure »"
         },
         {
             "key": "DU_LW_WHIS",
-            "value": "« Chuchote »"
+            "value": "« Chuchote »"
         },
         {
             "key": "DU_LW_GRGS",

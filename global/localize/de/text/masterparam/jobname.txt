@@ -803,6 +803,42 @@
         {
             "key": "JB_LW_ASS_DARK",
             "value": "Assassine"
+        },
+        {
+            "key": "JB_FF1_WROL",
+            "value": "Krieger des Lichts"
+        },
+        {
+            "key": "JB_LW_MST_FIRE",
+            "value": "Stabmagier"
+        },
+        {
+            "key": "JB_LW_MST_WATER",
+            "value": "Stabmagier"
+        },
+        {
+            "key": "JB_LW_MST_ICE",
+            "value": "Stabmagier"
+        },
+        {
+            "key": "JB_LW_MST_SOIL",
+            "value": "Stabmagier"
+        },
+        {
+            "key": "JB_LW_MST_THUN",
+            "value": "Stabmagier"
+        },
+        {
+            "key": "JB_LW_MST_WIND",
+            "value": "Stabmagier"
+        },
+        {
+            "key": "JB_LW_MST_SHINE",
+            "value": "Stabmagier"
+        },
+        {
+            "key": "JB_LW_MST_DARK",
+            "value": "Stabmagier"
         }
     ]
 }
