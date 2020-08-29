@@ -311,6 +311,46 @@
         {
             "key": "wotvffbeww.limited.exhaustion.standard.024",
             "value": "【聯動紀念】幻導石禮包VI"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "任務挑戰優待證"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "兵員育成優待證"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "武具育成優待證"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.016",
+            "value": "聯動紀念彩虹覺醒禮包"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.025",
+            "value": "【聯動紀念】幻導石禮包I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.026",
+            "value": "【聯動紀念】幻導石禮包II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.027",
+            "value": "【聯動紀念】幻導石禮包III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.028",
+            "value": "【聯動紀念】幻導石禮包IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.029",
+            "value": "【聯動紀念】幻導石禮包V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.030",
+            "value": "【聯動紀念】幻導石禮包VI"
         }
     ]
 }

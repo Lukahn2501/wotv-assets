@@ -37,6 +37,10 @@
             "value": "8月登入獎勵"
         },
         {
+            "key": "LB_202009",
+            "value": "9月登入獎勵"
+        },
+        {
             "key": "LB_LIMIT_GL_0001",
             "value": "上市紀念"
         },
@@ -50,6 +54,10 @@
         },
         {
             "key": "LB_COMEBACK_001",
+            "value": "回歸登入獎勵"
+        },
+        {
+            "key": "LB_COMEBACK_002",
             "value": "回歸登入獎勵"
         },
         {
@@ -127,6 +135,18 @@
         {
             "key": "LB_LIMIT_GL0018",
             "value": "劇情第8章公開紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0019",
+            "value": "大型版本更新紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0020",
+            "value": "FFT聯動紀念登入獎勵"
+        },
+        {
+            "key": "LB_LIMIT_GL0021",
+            "value": "半週年前夜祭第1階段登入獎勵"
         }
     ]
 }

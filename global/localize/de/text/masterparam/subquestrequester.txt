@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "Schmiedenovize"
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "Chocobo-Fan"
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "Gladiator-Veteran"
         }
     ]
 }

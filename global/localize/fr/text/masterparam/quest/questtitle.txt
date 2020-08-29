@@ -1205,6 +1205,46 @@
             "value": "Muraga, roi de Fennes"
         },
         {
+            "key": "QE_ST_01080201",
+            "value": "Retour triomphant"
+        },
+        {
+            "key": "QE_ST_01080202",
+            "value": "Le plan de Viktora"
+        },
+        {
+            "key": "QE_ST_01080203",
+            "value": "Plaines enneigées"
+        },
+        {
+            "key": "QE_ST_01080204",
+            "value": "Faire pencher la balance"
+        },
+        {
+            "key": "QE_ST_01080205",
+            "value": "La colère de Khory I"
+        },
+        {
+            "key": "QE_ST_01080206",
+            "value": "La colère de Khory II"
+        },
+        {
+            "key": "QE_ST_01080207",
+            "value": "Pour mon ami"
+        },
+        {
+            "key": "QE_ST_01080208",
+            "value": "Pour rien"
+        },
+        {
+            "key": "QE_ST_01080209",
+            "value": "Vers Leonis"
+        },
+        {
+            "key": "QE_ST_01080210",
+            "value": "La fierté de Hourne"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Quête de fragments : Zazan"
         },
@@ -1425,12 +1465,20 @@
             "value": "Quête de fragments : Vinera Fennes"
         },
         {
+            "key": "QE_HA_LW_SIMR",
+            "value": "Quête de fragments : Seymore"
+        },
+        {
             "key": "QE_HA_LW_QILF",
             "value": "Quête de fragments : Kilphe"
         },
         {
-            "key": "QE_HA_LW_SIMR",
-            "value": "Quête de fragments : Seymore"
+            "key": "QE_HA_LW_ORDR",
+            "value": "Quête de fragments : Oldoa"
+        },
+        {
+            "key": "QE_HA_LW_LVES",
+            "value": "Quête de fragments : Raviesse"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1669,12 +1717,20 @@
             "value": "Tyrrell"
         },
         {
+            "key": "QE_CH_LW_SIMR",
+            "value": "Seymore"
+        },
+        {
             "key": "QE_CH_LW_QILF",
             "value": "Kilphe"
         },
         {
-            "key": "QE_CH_LW_SIMR",
-            "value": "Seymore"
+            "key": "QE_CH_LW_ORDR",
+            "value": "Oldoa"
+        },
+        {
+            "key": "QE_CH_LW_LVES",
+            "value": "Raviesse"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1699,6 +1755,18 @@
         {
             "key": "QE_CH_FF1_WROL",
             "value": "Guerrier de la lumière"
+        },
+        {
+            "key": "QE_CH_FFT_MSTD",
+            "value": "Mustadio"
+        },
+        {
+            "key": "QE_CH_FFT_AGRA",
+            "value": "Agrias"
+        },
+        {
+            "key": "QE_CH_FFT_DELT",
+            "value": "Delita "
         },
         {
             "key": "QE_EV_FF1_01",
@@ -1789,6 +1857,34 @@
             "value": "FINAL FANTASY XIV: Shadowbringers [Conquête] Niv. 10"
         },
         {
+            "key": "QE_EV_FFT02_01",
+            "value": "FINAL FANTASY TACTICS [Partie II] Combat 1"
+        },
+        {
+            "key": "QE_EV_FFT02_02",
+            "value": "FINAL FANTASY TACTICS [Partie II] Combat 2"
+        },
+        {
+            "key": "QE_EV_FFT02_03",
+            "value": "FINAL FANTASY TACTICS [Partie II] Combat 3"
+        },
+        {
+            "key": "QE_EV_FFT02_04",
+            "value": "FINAL FANTASY TACTICS [Partie II] Combat 4"
+        },
+        {
+            "key": "QE_EV_FFT02_05",
+            "value": "[Partie II] Ville fortifiée de Zaland"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02",
+            "value": "FINAL FANTASY TACTICS [Partie II] EX"
+        },
+        {
+            "key": "QE_MU_FFT_EX_02",
+            "value": "FINAL FANTASY TACTICS [Partie II] EX"
+        },
+        {
             "key": "QE_EV_FFT_01",
             "value": "FINAL FANTASY TACTICS Combat 1"
         },
@@ -1841,12 +1937,44 @@
             "value": "Quête de FF EXVIUS Universe"
         },
         {
+            "key": "QE_EV_DELT_01",
+            "value": "Quête difficile limitée (Delita)"
+        },
+        {
+            "key": "QE_EV_AGRA_01",
+            "value": "Quête difficile limitée (Agrias)"
+        },
+        {
+            "key": "QE_EV_VNLA_01",
+            "value": "Quête difficile limitée (Vinera Fennes)"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "Quête difficile limitée (Kilphe)"
+        },
+        {
+            "key": "QE_EV_ORDR_01",
+            "value": "Quête difficile limitée (Oldoa)"
+        },
+        {
             "key": "QE_EV_GL_1M_FIR",
             "value": "Quête de célébration [Feu] du « 1er million de téléchargements »"
         },
         {
             "key": "QE_EV_GL_1M_ICE",
             "value": "Quête de célébration [Glace] du « 1er million de téléchargements »"
+        },
+        {
+            "key": "QE_EV_JP_001",
+            "value": "Quête de PJ"
+        },
+        {
+            "key": "QE_SB_OCHU_02",
+            "value": "Le défi d'Otyugh [Très difficile]"
+        },
+        {
+            "key": "QE_SB_OCHU_03",
+            "value": "Le défi d'Otyugh [Super difficile]"
         },
         {
             "key": "QE_EV_GL_1M_WIN",
@@ -1883,18 +2011,6 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "Quête de soutien d'entraînement d'unité"
-        },
-        {
-            "key": "QE_CHAL_01_01",
-            "value": "Quête de défi [Très difficile]"
-        },
-        {
-            "key": "QE_CHAL_01_02",
-            "value": "Quête de défi I [Super difficile]"
-        },
-        {
-            "key": "QE_CHAL_01_03",
-            "value": "Quête de défi II [Super difficile]"
         },
         {
             "key": "QE_EV_01_01",
@@ -1995,6 +2111,10 @@
         {
             "key": "QE_EV_02_EX1",
             "value": "Rundall, menace à l'ouest [EX]"
+        },
+        {
+            "key": "QE_EV_RAIN_01",
+            "value": "Quête difficile limitée (Rain)"
         },
         {
             "key": "QE_EV_03_01",
@@ -2101,24 +2221,24 @@
             "value": "Aux confins de l'Orient [EX 2]"
         },
         {
-            "key": "QE_EV_QILF_01",
-            "value": "Quête difficile limitée (Kilphe)"
-        },
-        {
-            "key": "QE_EV_VNLA_01",
-            "value": "Quête difficile limitée (Vinera Fennes)"
-        },
-        {
-            "key": "QE_EV_RAIN_01",
-            "value": "Quête difficile limitée (Rain)"
-        },
-        {
             "key": "QE_SB_CSLI_02",
             "value": "Le défi du Chocoflan [Très difficile]"
         },
         {
             "key": "QE_SB_CSLI_03",
             "value": "Le défi du Chocoflan [Super difficile]"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "Quête de défi [Très difficile]"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "Quête de défi I [Super difficile]"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "Quête de défi II [Super difficile]"
         },
         {
             "key": "QE_EV_SB_EXP_FIR",
@@ -2198,11 +2318,11 @@
         },
         {
             "key": "QE_SB_IGNT_02",
-            "value": "Défi du Géant de fer [Très difficile]"
+            "value": "Le défi du Géant de fer [Très difficile]"
         },
         {
             "key": "QE_SB_IGNT_03",
-            "value": "Défi du Géant de fer [Super difficile]"
+            "value": "Le défi du Géant de fer [Super difficile]"
         },
         {
             "key": "QE_EV_ETRE_01",
@@ -2235,10 +2355,6 @@
         {
             "key": "QE_EV_ETRE_EX2",
             "value": "Quête d'entraînement EX d'Éthéa II [Très difficile]"
-        },
-        {
-            "key": "QE_EV_JP_001",
-            "value": "Quête de PJ"
         },
         {
             "key": "QE_EV_ART_SCR_01",
@@ -2285,20 +2401,8 @@
             "value": "Quête d'entraînement d'équipement (Hache en or)"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "Entraînement aux combats de guilde"
-        },
-        {
-            "key": "QE_EV_NEWMAP_002",
-            "value": "Entraînement aux combats de guilde (Débutant)"
-        },
-        {
-            "key": "QE_EV_NEWMAP_003",
-            "value": "Entraînement aux combats de guilde (Intermédiaire)"
-        },
-        {
-            "key": "QE_EV_NEWMAP_004",
-            "value": "Entraînement aux combats de guilde (Avancé)"
+            "key": "QE_MU_OCHU_04",
+            "value": "Le défi d'Otyugh [Super difficile]"
         },
         {
             "key": "QE_MU_CSLI_03",
@@ -2306,7 +2410,7 @@
         },
         {
             "key": "QE_MU_IGNT_03",
-            "value": "Défi du Géant de fer [Super difficile]"
+            "value": "Le défi du Géant de fer [Super difficile]"
         },
         {
             "key": "QE_MU_EV_SCR_01",
@@ -2673,6 +2777,22 @@
             "value": "Quête débutant 14"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "Entraînement aux combats de guilde"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "Entraînement aux combats de guilde (Débutant)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "Entraînement aux combats de guilde (Intermédiaire)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "Entraînement aux combats de guilde (Avancé)"
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": "Arène"
         },
@@ -2687,6 +2807,10 @@
         {
             "key": "QE_ARENA_00004",
             "value": "Ruines anciennes"
+        },
+        {
+            "key": "QE_ARENA_00005",
+            "value": "Les extérieurs du château"
         },
         {
             "key": "QE_GVG_00001",
@@ -2727,6 +2851,10 @@
         {
             "key": "QE_PVP_FRI_0004",
             "value": "Arène"
+        },
+        {
+            "key": "QE_PVP_FRI_0005",
+            "value": "Les extérieurs du château"
         },
         {
             "key": "QE_PVP_RANK_0001",

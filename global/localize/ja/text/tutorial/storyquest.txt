@@ -33,6 +33,10 @@
             "value": "さあ、それでは一度戻りましょうか。"
         },
         {
+            "key": "TALK_005_GL",
+            "value": "Now our party is in full formation. Shall we turn the Auto Function ON and Embark? The Auto setting can be switched on or off even mid-battle."
+        },
+        {
             "key": "DIALOG_001_T",
             "value": "◆ストーリークエスト◆"
         },
@@ -90,15 +94,11 @@
         },
         {
             "key": "SKIP_YES",
-            "value": "見る"
+            "value": "はい"
         },
         {
             "key": "SKIP_NO",
-            "value": "見ない"
-        },
-        {
-            "key": "TALK_005_GL",
-            "value": "Now our party is in full formation. Shall we turn the Auto Function ON and Embark? The Auto setting can be switched on or off even mid-battle."
+            "value": "いいえ"
         }
     ]
 }

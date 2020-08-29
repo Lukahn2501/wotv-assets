@@ -97,6 +97,30 @@
             "value": "地形が{0}に変わった"
         },
         {
+            "key": "QE_COND_PLAYER_DEADCOUNT",
+            "value": "{0}が{1}体死亡"
+        },
+        {
+            "key": "QE_COND_ENEMY_DEADCOUNT",
+            "value": "{0}が{1}体死亡"
+        },
+        {
+            "key": "QE_COND_PLAYER_KNOCKOUT",
+            "value": "{0}が{1}体戦闘不能"
+        },
+        {
+            "key": "QE_COND_ENEMY_KNOCKOUT",
+            "value": "{0}が{1}体戦闘不能"
+        },
+        {
+            "key": "QE_COND_ESCAPEALL",
+            "value": "全ての{0}の撤退"
+        },
+        {
+            "key": "QE_COND_ESCAPE",
+            "value": "{0}の撤退"
+        },
+        {
             "key": "QE_ST_01010910",
             "value": "城門前に到達、若しくは敵の殲滅"
         },

@@ -877,6 +877,166 @@
             "value": "Invocation x10 d'atout-vision UR garanti"
         },
         {
+            "key": "new-gacha_unit_vc_gl20200819_01",
+            "value": "Invocation des nouvelles unités du moment"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "Invocation x10 des nouvelles unités du moment"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step3",
+            "value": "Invocation x10 à paliers [Palier 3]"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step2",
+            "value": "Invocation x10 à paliers [Palier 2]"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step1",
+            "value": "Invocation x10 à paliers [Palier 1]"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step5",
+            "value": "Invocation x10 à 5 paliers [Palier 5]"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step4",
+            "value": "Invocation x10 à 5 paliers [Palier 4]"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step3",
+            "value": "Invocation x10 à 5 paliers [Palier 3]"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step2",
+            "value": "Invocation x10 à 5 paliers [Palier 2]"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step1",
+            "value": "Invocation x10 à 5 paliers [Palier 1]"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200819_10",
+            "value": "Invocation x10 d'unité UR garantie"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_01",
+            "value": "Invocation du moment"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "Invocation x10 du moment"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step3",
+            "value": "Invocation x10 à paliers [Palier 3]"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step2",
+            "value": "Invocation x10 à paliers [Palier 2]"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step1",
+            "value": "Invocation x10 à paliers [Palier 1]"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_p_gacha_4unitvc_gl20200826_10",
+            "value": "Invocation x10 de 4 UR garantis"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_1",
+            "value": "Invocation de la collaboration avec FFT [Partie II] - Agrias"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_10",
+            "value": "Invocation x10 de la collaboration avec FFT [Partie II] - Agrias"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_1",
+            "value": "Invocation de la collaboration avec FFT [Partie II] - Delita"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_10",
+            "value": "Invocation x10 de la collaboration avec FFT [Partie II] - Delita"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step15",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step14",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step13",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step12",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step11",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step10",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step9",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step8",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step7",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step6",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step5",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step4",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step3",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step2",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step1",
+            "value": "Invocation x10 GRATUITE"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Invocation du moment de célébration du lancement du jeu"
         },

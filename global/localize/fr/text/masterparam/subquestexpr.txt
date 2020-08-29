@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "Créez un équipement"
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo"
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "Sortez vainqueur de l'Arène"
         }
     ]
 }

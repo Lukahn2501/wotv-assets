@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "Verwandle Materialien und Anleitungen in Ausrüstung!"
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "Chocobos sind echte Arbeitstiere! ♪"
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "Jetzt, wo du ein Veteran in der Arena bist … "
         }
     ]
 }

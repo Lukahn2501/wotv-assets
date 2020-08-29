@@ -93,6 +93,10 @@
             "value": "매치 전투"
         },
         {
+            "key": "SupportUnit",
+            "value": "동행자 설정"
+        },
+        {
             "key": "Mission",
             "value": "미션"
         },
@@ -105,16 +109,12 @@
             "value": "캐릭터 퀘스트"
         },
         {
-            "key": "ItemExchange",
-            "value": "재료 교환"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "동행자 설정"
-        },
-        {
             "key": "Tower",
             "value": "백자탑"
+        },
+        {
+            "key": "ItemExchange",
+            "value": "재료 교환"
         }
     ]
 }

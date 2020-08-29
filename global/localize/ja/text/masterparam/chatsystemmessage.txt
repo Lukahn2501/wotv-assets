@@ -61,7 +61,7 @@
             "value": "リーグレベルが${beforeLevelName}から${afterLevelName}に昇格しました"
         },
         {
-            "key": "16",
+            "key": "23",
             "value": "リーグレベルが${beforeLevelName}から${afterLevelName}に降格しました"
         }
     ]

@@ -26,11 +26,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Texte test •"
+            "value": "• Quêtes secondaires •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Passer le tutoriel pour les débutants ?"
+            "value": "Voulez-vous lancer le tutoriel sur les quêtes secondaires ?"
         },
         {
             "key": "SKIP_YES",

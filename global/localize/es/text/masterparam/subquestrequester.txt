@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "Herrero inexperto"
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "Amante de los chocobos"
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "Gladiador veterano"
         }
     ]
 }

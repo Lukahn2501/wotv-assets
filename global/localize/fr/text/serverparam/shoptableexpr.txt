@@ -667,6 +667,70 @@
         {
             "key": "IT_SET_SMVC_VE_EXP",
             "value": "Un lot spécial rempli d'œufs de croissance (MR), avec en bonus des œufs de croissance (SR) et des gilkhélones (L) ! De quoi améliorer vos atouts-visions !"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "Un lot spécial rempli d'orbes de vision arc-en-ciel et d'un fragment de pensée arc-en-ciel."
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "Un lot spécial rempli d'alcrists de vent (rouges), des statues d'ange en prière (rouges), de statues de wyverne aux aguets (rouges) et de souvenirs confus (rouges)."
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "Un lot spécial rempli d'alcrists de vent (jaunes), des statues d'ange en prière (jaunes), de statues de wyverne aux aguets (jaunes) et de souvenirs confus (jaunes)."
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "Un lot spécial rempli d'alcrists de vent (violets), des statues d'ange en prière (violettes), de statues de wyverne aux aguets (violettes) et de souvenirs confus (violets)."
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "Un lot spécial contenant des cubes d'EXP (L/XL)."
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "Un lot spécial qui renferme des tickets d'expédition (5h/10h) qui peuvent être utilisés pour accélérer les expéditions chocobo !"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "Un lot spécial qui contient des fragments de pensée de vent, des âmes d'éveil de vent (2-6★), des fragments de pensée arc-en-ciel, des orbes de vision arc-en-ciel et des prismes d'éveil de vent ! De quoi éveiller vos unités de vent !"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "Un lot spécial rempli de fragments de l'unité UR Oldoa, nécessaires pour briser sa limite, ainsi que des fragments de pensée de vent pour l'éveil et des bonus tels que des orbes de vision arc-en-ciel et un fragment de pensée arc-en-ciel !"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "Un lot spécial rempli de fragments de l'unité UR Agrias, nécessaires pour briser sa limite, ainsi que de fragments de pensée de glace pour l'éveil et de bonus tels que des orbes de vision arc-en-ciel et un fragment de pensée arc-en-ciel !"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "Un lot qui contient 1 ticket sélectionneur de 40 fragments d'unité UR et 1 orbe de vision arc-en-ciel ! *Le ticket sélectionneur de 40 fragments d'unité UR ne peut pas être utilisé pour les unités limitées ou celles issues des collaborations."
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "Un lot spécial qui contient des fragments de pensée de glace, des âmes d'éveil de glace (2-6★), des fragments de pensée arc-en-ciel, des orbes de vision arc-en-ciel et des prismes d'éveil de glace ! De quoi éveiller vos unités de glace !"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "Un lot spécial qui contient des fragments de pensée de feu, des âmes d'éveil de feu (2-6★), des fragments de pensée arc-en-ciel, des orbes de vision arc-en-ciel et des prismes d'éveil de feu ! De quoi éveiller vos unités de feu !"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "Un lot spécial qui contient 1 ticket sélectionneur de 70 alcrists élémentaires (rouges), 1 ticket sélectionneur de 70 alcrists élémentaires (jaunes), des statues d'ange en prière (jaune/rouge), des statues de wyverne aux aguets (jaune/rouge) et des souvenirs confus (jaune/rouge)."
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "Un lot rempli de cubes d'EXP (S/M) ! De quoi entraîner vos unités !"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "Un lot rempli d'œufs de croissance (N/R/SR), essentiels à l'entraînement de vos atouts-visions !"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "Un lot rempli d'adamantine (S/M/L), essentielle à l'entraînement de votre équipement !"
         }
     ]
 }

@@ -71,6 +71,14 @@
         {
             "key": "18",
             "value": "<cspace=1>劇情第8章<cspace=-0.5><br>公開紀念商店"
+        },
+        {
+            "key": "19",
+            "value": "<cspace=1>大型版本更新<cspace=-0.5><br>紀念商店"
+        },
+        {
+            "key": "20",
+            "value": "<cspace=1>期間限定！<cspace=-0.5><br>聯動紀念禮包"
         }
     ]
 }

@@ -26,11 +26,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Dummy •"
+            "value": "• Unteraufträge •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du das Dummy-Tutorial überspringen?"
+            "value": "Möchtest du dir ein Tutorial zu Unteraufträgen ansehen?"
         },
         {
             "key": "SKIP_YES",

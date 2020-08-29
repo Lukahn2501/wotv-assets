@@ -311,6 +311,46 @@
         {
             "key": "wotvffbeww.limited.exhaustion.standard.024",
             "value": "[Kollabo] Visiorepaket VI"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "Herausforderungspass"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "Einheitentrainingspass"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "Ausrüstungstrainingspass"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.016",
+            "value": "[Kollabo] Regenbogenpaket"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.025",
+            "value": "[Kollabo] Visiorepaket I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.026",
+            "value": "[Kollabo] Visiorepaket II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.027",
+            "value": "[Kollabo] Visiorepaket III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.028",
+            "value": "[Kollabo] Visiorepaket IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.029",
+            "value": "[Kollabo] Visiorepaket V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.030",
+            "value": "[Kollabo] Visiorepaket VI"
         }
     ]
 }

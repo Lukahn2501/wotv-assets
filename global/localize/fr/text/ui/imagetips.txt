@@ -30,7 +30,7 @@
         },
         {
             "key": "GuidanceTips_ChallengeMission",
-            "value": "Accueil"
+            "value": "Écran d'accueil"
         },
         {
             "key": "GuidanceTips_UnitStrength",

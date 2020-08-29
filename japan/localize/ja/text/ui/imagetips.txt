@@ -119,6 +119,10 @@
         {
             "key": "GuidanceTips_Pointquest",
             "value": "裁きの試練"
+        },
+        {
+            "key": "GuidanceTips_LimitedGuildBattle",
+            "value": "期間限定ギルドバトル"
         }
     ]
 }

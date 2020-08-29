@@ -97,22 +97,6 @@
             "value": "Mission du lundi"
         },
         {
-            "key": "MG_FF1_1_01",
-            "value": "FINAL FANTASY I "
-        },
-        {
-            "key": "MG_FF1_1_M_01",
-            "value": "FINAL FANTASY I [Intermédiaire]"
-        },
-        {
-            "key": "MG_FF1_1_02",
-            "value": "FINAL FANTASY I [EX]"
-        },
-        {
-            "key": "MG_FF1_1_M_02",
-            "value": "[Multi] FINAL FANTASY I [EX]"
-        },
-        {
             "key": "MG_GL_DAILY_RAID_01",
             "value": "Mission quotidienne de participation au raid"
         },
@@ -149,6 +133,10 @@
             "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
         },
         {
+            "key": "MG_GL_FFT_2_CH_01",
+            "value": "FINAL FANTASY TACTICS<br>[Partie II]"
+        },
+        {
             "key": "MG_FFT_1_01",
             "value": "FINAL FANTASY TACTICS"
         },
@@ -165,6 +153,34 @@
             "value": "FINAL FANTASY TACTICS [Intermédiaire]"
         },
         {
+            "key": "MG_FF1_1_01",
+            "value": "FINAL FANTASY I "
+        },
+        {
+            "key": "MG_FF1_1_M_01",
+            "value": "FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "MG_FF1_1_02",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FF1_1_M_02",
+            "value": "[Multi] FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FFT_2_01",
+            "value": "FINAL FANTASY TACTICS<br>[Partie II]"
+        },
+        {
+            "key": "MG_FFT_2_02",
+            "value": "FINAL FANTASY TACTICS<br>[Partie II] EX"
+        },
+        {
+            "key": "MG_FFT_2_03",
+            "value": "[Multi] FINAL FANTASY TACTICS<br>[Partie II] EX"
+        },
+        {
             "key": "MG_EV_IGNT_01",
             "value": "Le défi du Géant de fer"
         },
@@ -179,6 +195,14 @@
         {
             "key": "MG_MU_CSLI_01",
             "value": "[Multi] Défi du Chocoflan"
+        },
+        {
+            "key": "MG_EV_OCHU_01",
+            "value": "Le défi d'Otyugh"
+        },
+        {
+            "key": "MG_MU_OCHU_01",
+            "value": "[Multi] Défi d'Otyugh"
         },
         {
             "key": "MG_EV_ART_CRF_01",
@@ -274,19 +298,19 @@
         },
         {
             "key": "MG_EV_ART_SCR_00",
-            "value": ""
-        },
-        {
-            "key": "MG_MU_ART_SCR_00",
-            "value": ""
-        },
-        {
-            "key": "MG_EV_ART_SCR_01",
             "value": "Quête du livre secret [Très difficile]"
         },
         {
-            "key": "MG_MU_ART_SCR_01",
+            "key": "MG_MU_ART_SCR_00",
             "value": "[Multi] Quête du livre secret [Très difficile]"
+        },
+        {
+            "key": "MG_EV_ART_SCR_01",
+            "value": "Quête du livre secret I [Très difficile]"
+        },
+        {
+            "key": "MG_MU_ART_SCR_01",
+            "value": "[Multi] Quête du livre secret I [Très difficile]"
         },
         {
             "key": "MG_EV_ART_SCR_02",
@@ -529,6 +553,34 @@
             "value": "[Mission mensuelle] Statues de guilde"
         },
         {
+            "key": "MG_MONTHLY_006_1",
+            "value": "[Mission mensuelle] Quêtes d'histoire"
+        },
+        {
+            "key": "MG_MONTHLY_006_2",
+            "value": "[Mission mensuelle] Quêtes difficiles"
+        },
+        {
+            "key": "MG_MONTHLY_006_3",
+            "value": "[Mission mensuelle] Quêtes multi"
+        },
+        {
+            "key": "MG_MONTHLY_006_4",
+            "value": "[Mission mensuelle] Chambre d'EXP"
+        },
+        {
+            "key": "MG_MONTHLY_006_5",
+            "value": "[Mission mensuelle] Arène"
+        },
+        {
+            "key": "MG_MONTHLY_006_6",
+            "value": "[Mission mensuelle] Expédition chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_006_7",
+            "value": "[Mission mensuelle] Statues de guilde"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "Utilisez des visiores - Bonus à durée limitée"
         },
@@ -541,10 +593,6 @@
             "value": "Utilisez des visiores - Bonus à durée limitée"
         },
         {
-            "key": "MG_COMEBACK_001",
-            "value": "Mission de retour au jeu"
-        },
-        {
             "key": "MG_LAPS_P_VNLA",
             "value": "Utilisez des visiores - Bonus à durée limitée"
         },
@@ -555,6 +603,18 @@
         {
             "key": "MG_LAPS_P_QILF",
             "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_LAPS_P_ORDR",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_LAPS_P_DELT",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_COMEBACK_001",
+            "value": "Mission de retour au jeu"
         }
     ]
 }

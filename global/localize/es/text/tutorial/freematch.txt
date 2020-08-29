@@ -50,11 +50,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• •"
+            "value": "• Duelos •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "¿Omitir el tutorial provisional?"
+            "value": "¿Queréis ver el tutorial sobre los duelos?"
         },
         {
             "key": "SKIP_YES",

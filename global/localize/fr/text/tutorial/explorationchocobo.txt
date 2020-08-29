@@ -146,7 +146,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "Voulez-vous lancer le tutoriel sur les expéditions chocobo ?"
+            "value": "Voulez-vous lancer le tutoriel sur les expéditions chocobos ?"
         },
         {
             "key": "SKIP_YES",

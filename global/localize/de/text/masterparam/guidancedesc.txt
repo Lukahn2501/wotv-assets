@@ -77,6 +77,10 @@
             "value": "Wir befinden uns in der Halle der Statuen. Hier könnt Ihr Euch die Gildenstatuen ansehen."
         },
         {
+            "key": "GuildBattle",
+            "value": "Endlich ist es soweit – Ihr werdet nun an Eurer ersten Gildenschlacht teilnehmen."
+        },
+        {
             "key": "UnitIntimacy",
             "value": "Euer Hoheit. Kommuniziert Ihr mit den anderen Mitgliedern der Gruppe?"
         },
@@ -101,20 +105,16 @@
             "value": "Euer Hoheit, wie sehr Ihr Euch doch seit unserer ersten Begegnung entwickelt habt."
         },
         {
-            "key": "GuildBattle",
-            "value": "Endlich ist es soweit – Ihr werdet nun an Eurer ersten Gildenschlacht teilnehmen."
-        },
-        {
-            "key": "SupportUnit",
-            "value": "Euer Hoheit, seid Ihr in Begleitereinstellungen bewandert?"
+            "key": "Tower",
+            "value": "Ich sehe, Ihr habt Euch in den Porzellanturm begeben …"
         },
         {
             "key": "ItemExchange",
             "value": "Euer Hoheit, es sieht so aus, als habe ein Tauschladen seine Pforten geöffnet. Wollen wir einen Blick hineinwerfen?"
         },
         {
-            "key": "Tower",
-            "value": "Ich sehe, Ihr habt Euch in den Porzellanturm begeben …"
+            "key": "SupportUnit",
+            "value": "Euer Hoheit, seid Ihr in Begleitereinstellungen bewandert?"
         }
     ]
 }

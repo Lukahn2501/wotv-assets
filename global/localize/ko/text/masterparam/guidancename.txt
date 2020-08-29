@@ -77,6 +77,10 @@
             "value": "길드 기능 3"
         },
         {
+            "key": "GuildBattle",
+            "value": "길드 전투"
+        },
+        {
             "key": "UnitIntimacy",
             "value": "친밀도"
         },
@@ -101,20 +105,16 @@
             "value": "캐릭터 퀘스트"
         },
         {
-            "key": "GuildBattle",
-            "value": "길드 전투"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "동행자 설정"
+            "key": "Tower",
+            "value": "탑"
         },
         {
             "key": "ItemExchange",
             "value": "교환소"
         },
         {
-            "key": "Tower",
-            "value": "탑"
+            "key": "SupportUnit",
+            "value": "동행자 설정"
         }
     ]
 }

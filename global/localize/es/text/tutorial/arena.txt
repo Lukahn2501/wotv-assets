@@ -98,7 +98,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "¿Queréis ver el tutorial sobre la Arena?"
+            "value": "¿Quéréis ver el tutorial sobre la Arena?"
         },
         {
             "key": "SKIP_YES",

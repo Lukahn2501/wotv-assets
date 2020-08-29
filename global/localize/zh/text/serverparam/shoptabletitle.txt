@@ -17,6 +17,14 @@
             "value": "特殊商店"
         },
         {
+            "key": "Realmoney-0819",
+            "value": "特殊商店"
+        },
+        {
+            "key": "Realmoney-0826",
+            "value": ""
+        },
+        {
             "key": "Begginer-20200317",
             "value": "新手商店"
         },
@@ -313,6 +321,30 @@
             "value": "普通商店"
         },
         {
+            "key": "Normal-20200501_A",
+            "value": "普通商店"
+        },
+        {
+            "key": "Normal-20200501_B",
+            "value": "普通商店"
+        },
+        {
+            "key": "Normal-20200501_C",
+            "value": "普通商店"
+        },
+        {
+            "key": "Normal-20200507_A",
+            "value": "普通商店"
+        },
+        {
+            "key": "Normal-20200507_B",
+            "value": "普通商店"
+        },
+        {
+            "key": "Normal-20200507_C",
+            "value": "普通商店"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "快閃店 "
         },
@@ -601,12 +633,56 @@
             "value": "快閃店"
         },
         {
+            "key": "Guerrilla-20200501A",
+            "value": "快閃店"
+        },
+        {
+            "key": "Guerrilla-20200501B",
+            "value": "快閃店"
+        },
+        {
+            "key": "Guerrilla-20200501C",
+            "value": "快閃店"
+        },
+        {
+            "key": "Guerrilla-20200507A",
+            "value": "快閃店"
+        },
+        {
+            "key": "Guerrilla-20200507B",
+            "value": "快閃店"
+        },
+        {
+            "key": "Guerrilla-20200507C",
+            "value": "快閃店"
+        },
+        {
+            "key": "Limited-20200422_A",
+            "value": "【第2波】FFT聯動紀念商店"
+        },
+        {
             "key": "Limited-gl20200729_A",
             "value": "FFI聯動紀念商店"
         },
         {
             "key": "Limited-20191227_A",
             "value": "FFT聯動紀念商店"
+        },
+        {
+            "key": "Limited-gl20200826",
+            "value": "半週年前夜祭第1階段商店"
+        },
+        {
+            "key": "Limited-gl20200819",
+            "value": "大型版本更新紀念商店"
+        },
+        {
+            "key": "Limited-gl20200819_A",
+            "value": "新兵員精選商店"
+        },
+        {
+            "key": "Limited-gl20200819_B",
+            "value": "精選兵員商店"
         },
         {
             "key": "Limited-gl20200812",
@@ -821,6 +897,18 @@
             "value": "精選商店"
         },
         {
+            "key": "Event-Quest_20200422",
+            "value": "【第2波】FFT聯動活動獎牌交換所"
+        },
+        {
+            "key": "Event-Summon_20200422_A",
+            "value": "召喚獎牌交換所"
+        },
+        {
+            "key": "Event-Summon_20200422_B",
+            "value": "召喚獎牌交換所"
+        },
+        {
             "key": "Event-Quest_GL20200729",
             "value": "FFI聯動活動獎牌交換所"
         },
@@ -841,20 +929,16 @@
             "value": "FFXIV: 漆黑的反叛者 聯動商店"
         },
         {
+            "key": "Event-EV02_1_20200201",
+            "value": "西方的威脅朗德爾獎牌交換所"
+        },
+        {
             "key": "Event-Quest_20200401",
             "value": "【8月】活動獎牌交換所"
         },
         {
-            "key": "Event-Raid_20200309",
-            "value": "白色棉花糖共鬥獎牌交換所"
-        },
-        {
-            "key": "Event-Quest_20200301",
-            "value": "【7月】活動獎牌交換所"
-        },
-        {
-            "key": "Event-Tower_20200317",
-            "value": "塔獎牌交換所"
+            "key": "Event-Summon_GL20200819_B",
+            "value": "召喚獎牌交換所"
         },
         {
             "key": "Event-Summon_GL20200812_A",
@@ -869,6 +953,18 @@
             "value": "巧克力布丁共鬥獎牌交換所"
         },
         {
+            "key": "Event-Raid_20200309",
+            "value": "白色棉花糖共鬥獎牌交換所"
+        },
+        {
+            "key": "Event-Quest_20200301",
+            "value": "【7月】活動獎牌交換所"
+        },
+        {
+            "key": "Event-Tower_20200317",
+            "value": "塔獎牌交換所"
+        },
+        {
             "key": "Event-Summon_GL20200722_B",
             "value": "召喚獎牌交換所"
         },
@@ -879,10 +975,6 @@
         {
             "key": "Event-Summon_GL20200701_A",
             "value": "召喚獎牌交換所"
-        },
-        {
-            "key": "Event-EV02_1_20200201",
-            "value": "【6月】活動獎牌交換所"
         },
         {
             "key": "Event-Summon_GL20200624_B",
@@ -1882,6 +1974,70 @@
         },
         {
             "key": "Limited-FIRE_2020_4_B",
+            "value": "每日輪替火屬性商店"
+        },
+        {
+            "key": "Limited-WATER_2020_4_C",
+            "value": "每日輪替水屬性商店"
+        },
+        {
+            "key": "Limited-WIND_2020_4_C",
+            "value": "每日輪替風屬性商店"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_C",
+            "value": "每日輪替雷屬性商店"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_C",
+            "value": "每日輪替土屬性商店"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_C",
+            "value": "每日輪替光屬性商店"
+        },
+        {
+            "key": "Limited-DARK_2020_4_C",
+            "value": "每日輪替暗屬性商店"
+        },
+        {
+            "key": "Limited-ICE_2020_4_C",
+            "value": "每日輪替冰屬性商店"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_C",
+            "value": "每日輪替火屬性商店"
+        },
+        {
+            "key": "Limited-WATER_2020_4_D",
+            "value": "每日輪替水屬性商店"
+        },
+        {
+            "key": "Limited-WIND_2020_4_D",
+            "value": "每日輪替風屬性商店"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_D",
+            "value": "每日輪替雷屬性商店"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_D",
+            "value": "每日輪替土屬性商店"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_D",
+            "value": "每日輪替光屬性商店"
+        },
+        {
+            "key": "Limited-DARK_2020_4_D",
+            "value": "每日輪替暗屬性商店"
+        },
+        {
+            "key": "Limited-ICE_2020_4_D",
+            "value": "每日輪替冰屬性商店"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_D",
             "value": "每日輪替火屬性商店"
         }
     ]

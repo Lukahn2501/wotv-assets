@@ -14,15 +14,15 @@
         },
         {
             "key": "DIALOG_001_T",
-            "value": "◆Torre de Porcelana I◆"
+            "value": "• Torre de Porcelana I •"
         },
         {
             "key": "DIALOG_001_M",
-            "value": "◆Torre de Porcelana◆<br>En la Torre de Porcelana, podéis librar batallas sin cuartel con <color=#00ffff>todas las visiones que hayáis adquirido</color>."
+            "value": "• Torre de Porcelana•<br>En la Torre de Porcelana, podéis librar batallas sin cuartel con <color=#00ffff>todas las visiones que hayáis adquirido</color>."
         },
         {
             "key": "DIALOG_002_T",
-            "value": "◆Torre de Porcelana II◆"
+            "value": "• Torre de Porcelana II •"
         },
         {
             "key": "DIALOG_002_M",
@@ -30,7 +30,7 @@
         },
         {
             "key": "DIALOG_003_T",
-            "value": "◆Torre de Porcelana III◆"
+            "value": "• Torre de Porcelana III •"
         },
         {
             "key": "DIALOG_003_M",
@@ -38,35 +38,35 @@
         },
         {
             "key": "DIALOG_004_T",
-            "value": "◆Torre de Porcelana◆"
+            "value": "• Torre de Porcelana •"
         },
         {
             "key": "DIALOG_004_M",
-            "value": "◆Recompensas◆<br>Conseguiréis recompensas <color=#00ffff>al completar una planta</color>. También podéis obtener recompensas al completar una planta por 2.ª vez, aunque <color=#00ffff>serán diferentes a las recompensas iniciales</color>."
+            "value": "• Recompensas•<br>Conseguiréis recompensas <color=#00ffff>al completar una planta</color>. También podéis obtener recompensas al completar una planta por 2.ª vez, aunque <color=#00ffff>serán diferentes a las recompensas iniciales</color>."
         },
         {
             "key": "DIALOG_005_T",
-            "value": "◆Torre de Porcelana◆"
+            "value": "• Torre de Porcelana •"
         },
         {
             "key": "DIALOG_005_M",
-            "value": "◆Clasificaciones◆<br>La <color=#00ffff>clasificación de velocidad</color> se calcula según el tiempo que hayáis tardado en realizar todas vuestras acciones."
+            "value": "• Clasificaciones•<br>La <color=#00ffff>clasificación por velocidad</color> se calcula según el tiempo que hayáis tardado en realizar todas vuestras acciones."
         },
         {
             "key": "DIALOG_006_T",
-            "value": "◆Torre de Porcelana◆"
+            "value": "• Torre de Porcelana •"
         },
         {
             "key": "DIALOG_006_M",
-            "value": "También existe la <color=#00ffff>clasificación de destreza</color>, que se establece según el número de unidades que hayan quedado KO al completar una planta. Por tanto, podéis competir en <color=#00ffff>dos tipos de clasificaciones</color>."
+            "value": "También existe la <color=#00ffff>clasificación por técnica</color>, que se establece según el número de unidades que hayan quedado KO al completar una planta. Por tanto, podéis competir en <color=#00ffff>dos tipos de clasificaciones</color>."
         },
         {
             "key": "SKIP_TITLE",
-            "value": "◆◆"
+            "value": "• Torre de Porcelana •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "¿Omitir el tutorial provisional?"
+            "value": "¿Queréis ver el tutorial sobre la Torre de Porcelana?"
         },
         {
             "key": "SKIP_YES",

@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "Fabrique de l'équipement à l'aide de matériaux et de recettes !"
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "Les chocobos adorent travailler ♪"
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "On peut dire que tu es désormais un habitué de l'Arène... "
         }
     ]
 }

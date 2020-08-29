@@ -38,11 +38,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Dummy •"
+            "value": "• Gildenstatuen •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du das Dummy-Tutorial überspringen?"
+            "value": "Möchtest du dir ein Tutorial zu Gildenstatuen ansehen?"
         },
         {
             "key": "SKIP_YES",

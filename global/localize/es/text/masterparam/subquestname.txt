@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "¡Elabora equipo con recetas y materiales!"
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "¡A los chocobos les encanta trabajar! ♪"
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "Veo que ya eres un luchador de la Arena con experiencia... "
         }
     ]
 }

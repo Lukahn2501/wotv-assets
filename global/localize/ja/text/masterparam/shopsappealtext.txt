@@ -71,6 +71,14 @@
         {
             "key": "18",
             "value": "<line-height=15><cspace=1>8章<cspace=-0.5><br>公開記念ショップ"
+        },
+        {
+            "key": "19",
+            "value": "<line-height=15><cspace=1>大型バージョンアップ<cspace=-0.5><br>記念ショップ"
+        },
+        {
+            "key": "20",
+            "value": "<line-height=15><cspace=1>期間限定！<cspace=-0.5><br>コラボ記念パック"
         }
     ]
 }

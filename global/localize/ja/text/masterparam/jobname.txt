@@ -839,6 +839,18 @@
         {
             "key": "JB_LW_MST_DARK",
             "value": "魔杖術士"
+        },
+        {
+            "key": "JB_FFT_AGRA",
+            "value": "ホーリーナイト"
+        },
+        {
+            "key": "JB_FFT_DELT",
+            "value": "見習い戦士"
+        },
+        {
+            "key": "JB_FFT_MSTD",
+            "value": "機工士"
         }
     ]
 }

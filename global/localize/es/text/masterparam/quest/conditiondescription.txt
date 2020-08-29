@@ -221,12 +221,28 @@
             "value": "[Guerrero de la Luz] de nv. 1 o superior"
         },
         {
+            "key": "COND_HA_LW_SIMR",
+            "value": "[Seymore] de nv. 1 o superior"
+        },
+        {
             "key": "COND_HA_LW_QILF",
             "value": "[Kilfe] de nv. 1 o superior"
         },
         {
-            "key": "COND_HA_LW_SIMR",
-            "value": "[Seymore] de nv. 1 o superior"
+            "key": "COND_HA_LW_ORDR",
+            "value": "[Oldoa] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "[Raviesse] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_FFT_DELT",
+            "value": "[Delita] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_FFT_AGRA",
+            "value": "[Agrias] de nv. 1 o superior"
         },
         {
             "key": "COND_CH_LW_MONT",
@@ -489,12 +505,32 @@
             "value": "[Guerrero de la Luz] de nv. 40 o superior"
         },
         {
+            "key": "COND_CH_LW_SIMR",
+            "value": "[Seymore] de nv. 40 o superior"
+        },
+        {
             "key": "COND_CH_LW_QILF",
             "value": "[Kilfe] de nv. 40 o superior"
         },
         {
-            "key": "COND_CH_LW_SIMR",
-            "value": "[Seymore] de nv. 40 o superior"
+            "key": "COND_CH_LW_ORDR",
+            "value": "[Oldoa] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "[Raviesse] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FFT_MSTD",
+            "value": "[Mustadio] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FFT_DELT",
+            "value": "[Delita] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FFT_AGRA",
+            "value": "[Agrias] de nv. 40 o superior"
         }
     ]
 }

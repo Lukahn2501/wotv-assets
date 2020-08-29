@@ -93,6 +93,10 @@
             "value": "Wird nach Erreichen von Spielerrang 15 freigeschaltet."
         },
         {
+            "key": "SupportUnit",
+            "value": "Wird nach Abschluss von<br>Kapitel 1, Abschnitt 1 „Relikt der Altvorderen“<br>der Storyaufträge freigeschaltet."
+        },
+        {
             "key": "Mission",
             "value": "Kann in dieser Version nicht gespielt werden."
         },
@@ -105,16 +109,12 @@
             "value": "Wird nach Spielen von <br>Kapitel 1, Abschnitt 1 „Vertrauensbeweis“<br>der Storyaufträge freigeschaltet."
         },
         {
-            "key": "ItemExchange",
-            "value": "Wird nach Spielen von <br>Kapitel 1, Abschnitt 1 „Vertrauensbeweis“<br>der Storyaufträge <br>sowie nach Erreichen von Spielerrang 30 <br>freigeschaltet."
-        },
-        {
-            "key": "SupportUnit",
-            "value": "Wird nach Abschluss von<br>Kapitel 1, Abschnitt 1 „Relikt der Altvorderen“<br>der Storyaufträge freigeschaltet."
-        },
-        {
             "key": "Tower",
             "value": "Wird nach Abschluss von <br>Kapitel 1, Abschnitt 1 „Zeige, was du wert bist“<br>der Storyaufträge und Erreichen von Spielerrang 10 freigeschaltet."
+        },
+        {
+            "key": "ItemExchange",
+            "value": "Wird nach Spielen von <br>Kapitel 1, Abschnitt 1 „Vertrauensbeweis“<br>der Storyaufträge <br>sowie nach Erreichen von Spielerrang 30 <br>freigeschaltet."
         }
     ]
 }

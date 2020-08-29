@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "Stelle einen Ausrüstungsgegenstand her."
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "Sammle bei der Chocobo-Expedition zehnmal Gegenstände ein."
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "Trage in der Arena zehnmal den Sieg davon."
         }
     ]
 }

@@ -221,12 +221,28 @@
             "value": "ユニット「光の戦士」のレベルが1以上"
         },
         {
+            "key": "COND_HA_LW_SIMR",
+            "value": "ユニット「シムール」のレベルが1以上"
+        },
+        {
             "key": "COND_HA_LW_QILF",
             "value": "ユニット「キルフェ」のレベルが1以上"
         },
         {
-            "key": "COND_HA_LW_SIMR",
-            "value": "ユニット「シムール」のレベルが1以上"
+            "key": "COND_HA_LW_ORDR",
+            "value": "ユニット「オルドア」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "ユニット「ラヴィエス」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_FFT_DELT",
+            "value": "ユニット「ディリータ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_FFT_AGRA",
+            "value": "ユニット「アグリアス」のレベルが1以上"
         },
         {
             "key": "COND_CH_LW_MONT",
@@ -489,12 +505,32 @@
             "value": "ユニット「光の戦士」のレベルが40以上"
         },
         {
+            "key": "COND_CH_LW_SIMR",
+            "value": "ユニット「シムール」のレベルが40以上"
+        },
+        {
             "key": "COND_CH_LW_QILF",
             "value": "ユニット「キルフェ」のレベルが40以上"
         },
         {
-            "key": "COND_CH_LW_SIMR",
-            "value": "ユニット「シムール」のレベルが40以上"
+            "key": "COND_CH_LW_ORDR",
+            "value": "ユニット「オルドア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "ユニット「ラヴィエス」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FFT_MSTD",
+            "value": "ユニット「ムスタディオ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FFT_DELT",
+            "value": "ユニット「ディリータ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FFT_AGRA",
+            "value": "ユニット「アグリアス」のレベルが40以上"
         }
     ]
 }

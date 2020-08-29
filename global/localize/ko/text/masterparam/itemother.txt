@@ -1081,6 +1081,66 @@
             "value": "영혼 메달[UR] 교환소"
         },
         {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": ""
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": ""
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "일반 상점/변덕쟁이 상점"
         },
@@ -1791,6 +1851,26 @@
         {
             "key": "IT_PI_LW_SIMR",
             "value": "일반 상점/변덕쟁이 상점/탐험 초코보"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "일반 상점/변덕쟁이 상점/탐험 초코보"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "일반 상점/변덕쟁이 상점/탐험 초코보"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
+            "value": ""
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -2581,6 +2661,10 @@
             "value": ""
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": ""
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "결투장 메달 교환소/PVP 메달 교환소"
         },
@@ -2773,6 +2857,10 @@
             "value": ""
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": ""
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": ""
         },
@@ -2813,6 +2901,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -2822,6 +2914,18 @@
         },
         {
             "key": "IT_EC_FFT_2_B",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
             "value": ""
         },
         {
@@ -2841,19 +2945,15 @@
             "value": ""
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": ""
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": ""
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": ""
         },
         {
             "key": "IT_EC_FF1_2",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_FFT_01",
             "value": ""
         },
         {
@@ -2917,6 +3017,10 @@
             "value": ""
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": ""
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": ""
         },
@@ -2937,6 +3041,14 @@
             "value": ""
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": ""
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": ""
         },
@@ -2950,90 +3062,6 @@
         },
         {
             "key": "IT_US_SE_SB_EXP_03",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": ""
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
             "value": ""
         },
         {
@@ -3065,15 +3093,31 @@
             "value": ""
         },
         {
-            "key": "IT_US_G_FFT_01",
+            "key": "IT_US_SE_JB_MM_01",
             "value": ""
         },
         {
-            "key": "IT_US_G_FF14_01",
+            "key": "IT_US_SE_JB_MM_02",
             "value": ""
         },
         {
-            "key": "IT_US_G_N_TW_10",
+            "key": "IT_US_SE_JB_MM_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
             "value": ""
         },
         {
@@ -3098,10 +3142,6 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_05",
-            "value": ""
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
             "value": ""
         },
         {
@@ -3337,10 +3377,6 @@
             "value": ""
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": "일반 상점/비전 메달[UR] 교환소"
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": "일반 상점/비전 메달[MR] 교환소"
         },
@@ -3353,6 +3389,10 @@
             "value": "일반 상점/비전 메달[MR] 교환소"
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": "일반 상점/비전 메달[UR] 교환소"
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": ""
         },
@@ -3363,6 +3403,14 @@
         {
             "key": "IT_VPI_LW_CBVPARTY1",
             "value": "일반 상점/비전 메달[UR] 교환소"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
+            "value": ""
         },
         {
             "key": "IT_VC_EXP_01",
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "길드 메달 교환소"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": ""
         }
     ]
 }

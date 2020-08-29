@@ -89,6 +89,10 @@
             "value": "第1部第8章第1節"
         },
         {
+            "key": "SE_ST_010802",
+            "value": "第1部第8章第2節"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "雷恩茲大森林"
         },
@@ -145,6 +149,10 @@
             "value": "沃爾瑪之村"
         },
         {
+            "key": "SE_WD_010205",
+            "value": "維澤特城"
+        },
+        {
             "key": "SE_SB_01",
             "value": "強敵之間"
         },
@@ -163,6 +171,14 @@
         {
             "key": "SE_MU_SB_03",
             "value": "巧克力布丁考驗"
+        },
+        {
+            "key": "SE_SB_04",
+            "value": "食腐獸考驗"
+        },
+        {
+            "key": "SE_MU_SB_04",
+            "value": "食腐獸考驗"
         },
         {
             "key": "SE_EV_UNITEXP_01",
@@ -317,8 +333,20 @@
             "value": "為了燃盡生命【EX】"
         },
         {
+            "key": "SE_EV_04_01",
+            "value": "遙遠的東方"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "遙遠的東方【EX】"
+        },
+        {
             "key": "SE_MU_EV_03_EX",
             "value": "為了燃盡生命【EX】協力"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "遙遠的東方【EX】協力"
         },
         {
             "key": "SE_EV_SBEXP_01",
@@ -425,6 +453,18 @@
             "value": "FINAL FANTASY TACTICS聯動活動任務 【EX】"
         },
         {
+            "key": "SE_EV_FFT_02_01",
+            "value": "FINAL FANTASY TACTICS聯動活動第2波活動任務"
+        },
+        {
+            "key": "SE_EV_FFT_02_EX",
+            "value": "FINAL FANTASY TACTICS聯動活動第2波活動任務【EX】"
+        },
+        {
+            "key": "SE_MU_FFT_02_EX",
+            "value": "FINAL FANTASY TACTICS聯動活動第2波活動任務【EX】"
+        },
+        {
             "key": "SE_EV_ART_SCR_00",
             "value": ""
         },
@@ -473,6 +513,14 @@
             "value": "兵員育成支援任務"
         },
         {
+            "key": "SE_EV_DELT_01",
+            "value": "限定困難任務（迪利塔）"
+        },
+        {
+            "key": "SE_EV_AGRA_01",
+            "value": "限定困難任務（阿格莉亞絲）"
+        },
+        {
             "key": "SE_EV_RAIN_01",
             "value": "限定困難任務（雷因）"
         },
@@ -493,6 +541,22 @@
             "value": "高難度 薩麗雅的碎片獲得 EX任務協力"
         },
         {
+            "key": "SE_EV_VNLA_01",
+            "value": "限定困難任務（維內拉·芬尼斯）"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "限定困難任務（光之戰士）"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "限定困難任務（基爾菲）"
+        },
+        {
+            "key": "SE_EV_ORDR_01",
+            "value": "限定困難任務（奧爾多）"
+        },
+        {
             "key": "SE_EV_ARENA_1",
             "value": "鬥技場模擬戰"
         },
@@ -501,11 +565,11 @@
             "value": "FF EXVIUS Universe任務"
         },
         {
-            "key": "SE_EV_VNLA_01",
-            "value": "限定困難任務（維內拉·芬尼斯）"
+            "key": "SE_EV_NEWMAP_001",
+            "value": "公會戰鬥模擬戰"
         },
         {
-            "key": "SE_EV_NEWMAP_001",
+            "key": "SE_EV_NEWMAP_002",
             "value": "公會戰鬥模擬戰"
         },
         {
@@ -521,48 +585,24 @@
             "value": "FINAL FANTASY I 聯動任務【EX】"
         },
         {
-            "key": "SE_EV_WROL_01",
-            "value": "限定困難任務（光之戰士）"
-        },
-        {
-            "key": "SE_EV_QILF_01",
-            "value": "限定困難任務（基爾菲）"
-        },
-        {
-            "key": "SE_EV_04_01",
-            "value": "遙遠的東方"
-        },
-        {
-            "key": "SE_EV_04_EX_01",
-            "value": "遙遠的東方【EX】"
-        },
-        {
-            "key": "SE_MU_EV_04_EX",
-            "value": "遙遠的東方【EX】協力"
-        },
-        {
-            "key": "SE_EV_NEWMAP_002",
-            "value": "公會戰鬥模擬戰"
-        },
-        {
             "key": "SE_CHAL_01",
             "value": "挑戰任務"
         },
         {
             "key": "SE_EV_AW_HIGH_02",
-            "value": ""
+            "value": "修煉之間（黃）"
         },
         {
             "key": "SE_EV_AW_HIGH_03",
-            "value": ""
+            "value": "修煉之間（緋）"
         },
         {
             "key": "SE_MU_AW_HIGH_02",
-            "value": ""
+            "value": "修煉之間（黃）"
         },
         {
             "key": "SE_MU_AW_HIGH_03",
-            "value": ""
+            "value": "修煉之間（緋）"
         }
     ]
 }

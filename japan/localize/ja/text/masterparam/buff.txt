@@ -469,36 +469,64 @@
             "value": "Faith 弱体耐性"
         },
         {
-            "key": "BUFF_OtherDebuffResistFire",
+            "key": "BUFF_OtherDebuffResistFireR",
             "value": "火属性 弱体耐性"
         },
         {
-            "key": "BUFF_OtherDebuffResistIce",
+            "key": "BUFF_OtherDebuffResistIceR",
             "value": "氷属性 弱体耐性"
         },
         {
-            "key": "BUFF_OtherDebuffResistWind",
+            "key": "BUFF_OtherDebuffResistWindR",
             "value": "風属性 弱体耐性"
         },
         {
-            "key": "BUFF_OtherDebuffResistEarth",
+            "key": "BUFF_OtherDebuffResistEarthR",
             "value": "土属性 弱体耐性"
         },
         {
-            "key": "BUFF_OtherDebuffResistThunder",
+            "key": "BUFF_OtherDebuffResistThunderR",
             "value": "雷属性 弱体耐性"
         },
         {
-            "key": "BUFF_OtherDebuffResistWater",
+            "key": "BUFF_OtherDebuffResistWaterR",
             "value": "水属性 弱体耐性"
         },
         {
-            "key": "BUFF_OtherDebuffResistShine",
+            "key": "BUFF_OtherDebuffResistShineR",
             "value": "光属性 弱体耐性"
         },
         {
-            "key": "BUFF_OtherDebuffResistDark",
+            "key": "BUFF_OtherDebuffResistDarkR",
             "value": "闇属性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistSlashR",
+            "value": "斬撃耐性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistPierceR",
+            "value": "刺突耐性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistBlowR",
+            "value": "打撃耐性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistShotR",
+            "value": "射撃耐性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistMagicR",
+            "value": "魔法耐性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistAttackR",
+            "value": "全攻撃耐性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistElementR",
+            "value": "全属性 弱体耐性"
         },
         {
             "key": "BUFF_OtherBuffTurn",
@@ -574,7 +602,7 @@
         },
         {
             "key": "BUFF_OtherPosSlashIgnore",
-            "value": "斬撃耐性貫通率"
+            "value": "斬撃攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegSlashIgnore",
@@ -582,7 +610,7 @@
         },
         {
             "key": "BUFF_OtherPosPierceIgnore",
-            "value": "刺突耐性貫通率"
+            "value": "刺突攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegPierceIgnore",
@@ -590,7 +618,7 @@
         },
         {
             "key": "BUFF_OtherPosBlowIgnore",
-            "value": "打撃耐性貫通率"
+            "value": "打撃攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegBlowIgnore",
@@ -598,7 +626,7 @@
         },
         {
             "key": "BUFF_OtherPosShotIgnore",
-            "value": "射撃耐性貫通率"
+            "value": "射撃攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegShotIgnore",
@@ -606,7 +634,7 @@
         },
         {
             "key": "BUFF_OtherPosMagicIgnore",
-            "value": "魔法耐性貫通率"
+            "value": "魔法攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegMagicIgnore",
@@ -614,7 +642,7 @@
         },
         {
             "key": "BUFF_OtherPosFireIgnore",
-            "value": "火属性耐性貫通率"
+            "value": "火属性攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegFireIgnore",
@@ -622,7 +650,7 @@
         },
         {
             "key": "BUFF_OtherPosIceIgnore",
-            "value": "氷属性耐性貫通率"
+            "value": "氷属性攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegIceIgnore",
@@ -630,7 +658,7 @@
         },
         {
             "key": "BUFF_OtherPosWindIgnore",
-            "value": "風属性耐性貫通率"
+            "value": "風属性攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegWindIgnore",
@@ -638,7 +666,7 @@
         },
         {
             "key": "BUFF_OtherPosEarthIgnore",
-            "value": "土属性耐性貫通率"
+            "value": "土属性攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegEarthIgnore",
@@ -646,7 +674,7 @@
         },
         {
             "key": "BUFF_OtherPosThunderIgnore",
-            "value": "雷属性耐性貫通率"
+            "value": "雷属性攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegThunderIgnore",
@@ -654,7 +682,7 @@
         },
         {
             "key": "BUFF_OtherPosWaterIgnore",
-            "value": "水属性耐性貫通率"
+            "value": "水属性攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegWaterIgnore",
@@ -662,7 +690,7 @@
         },
         {
             "key": "BUFF_OtherPosShineIgnore",
-            "value": "光属性耐性貫通率"
+            "value": "光属性攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegShineIgnore",
@@ -670,7 +698,7 @@
         },
         {
             "key": "BUFF_OtherPosDarkIgnore",
-            "value": "闇属性耐性貫通率"
+            "value": "闇属性攻撃耐性貫通率"
         },
         {
             "key": "BUFF_OtherNegDarkIgnore",

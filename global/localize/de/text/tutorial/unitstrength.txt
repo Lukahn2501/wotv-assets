@@ -25,6 +25,10 @@
             "value": "Mag sein, dass Ihr momentan nur über wenige Fähigkeitsarten verfügt, aber ich freue mich darauf zuzusehen, wie Ihr wachsen und die verschiedensten Fertigkeiten meistern werdet, Euer Hoheit."
         },
         {
+            "key": "TALK_007_GL",
+            "value": "Dies sind all die wichtigsten Grundinformationen. Durch das Voranschreiten im Storymodus werden noch weitere Funktionen freigeschaltet."
+        },
+        {
             "key": "DIALOG_001_T",
             "value": "• Verbessern von Einheiten mit ERF-Würfeln •"
         },
@@ -103,10 +107,6 @@
         {
             "key": "SKIP_NO",
             "value": "Nein"
-        },
-        {
-            "key": "TALK_007_GL",
-            "value": "Dies sind all die wichtigsten Grundinformationen. Durch das Voranschreiten im Storymodus werden noch weitere Funktionen freigeschaltet."
         },
         {
             "key": "TALK_007",

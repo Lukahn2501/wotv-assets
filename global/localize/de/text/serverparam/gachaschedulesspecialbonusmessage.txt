@@ -1,6 +1,10 @@
 {
     "infos": [
         {
+            "key": "VideoGacha_Normal",
+            "value": ""
+        },
+        {
             "key": "init",
             "value": ""
         },
@@ -82,19 +86,19 @@
         },
         {
             "key": "fft_gacha_20191226_ORND_1",
-            "value": "Mit 10 „Typ B“-FFT-Beschwörungsmedaillen"
+            "value": "Mit 10 FFT-Beschwörungsmedaillen B"
         },
         {
             "key": "fft_gacha_20191226_ORND_10",
-            "value": "Mit 100 „Typ B“-FFT-Beschwörungsmedaillen"
+            "value": "Mit 100 FFT-Beschwörungsmedaillen B"
         },
         {
             "key": "fft_gacha_20191226_RAMZ_1",
-            "value": "Mit 10 „Typ A“-FFT-Beschwörungsmedaillen"
+            "value": "Mit 10 FFT-Beschwörungsmedaillen A"
         },
         {
             "key": "fft_gacha_20191226_RAMZ_10",
-            "value": "Mit 100 „Typ A“-FFT-Beschwörungsmedaillen"
+            "value": "Mit 100 FFT-Beschwörungsmedaillen A"
         },
         {
             "key": "no_coin_gacha_gl20200422_10_1",
@@ -850,23 +854,23 @@
         },
         {
             "key": "5step-gacha_gl20200812_10_step5",
-            "value": ""
+            "value": "Mit 100 August-Beschwörungsmedaillen A"
         },
         {
             "key": "5step-gacha_gl20200812_10_step4",
-            "value": ""
+            "value": "Mit einem „Auswählbares Gedankenfragment x50“-Beschwörungsticket"
         },
         {
             "key": "5step-gacha_gl20200812_10_step3",
-            "value": ""
+            "value": "Mit einem „Auswählbares Erweckungsprisma x50“-Beschwörungsticket"
         },
         {
             "key": "5step-gacha_gl20200812_10_step2",
-            "value": ""
+            "value": "Mit 100 August-Beschwörungsmedaillen A"
         },
         {
             "key": "5step-gacha_gl20200812_10_step1",
-            "value": ""
+            "value": "Mit 100 August-Beschwörungsmedaillen A"
         },
         {
             "key": "5step-gacha_gl20200812_10",
@@ -875,6 +879,166 @@
         {
             "key": "p_gacha_vc_gl20200812_10",
             "value": "Mit 100 August-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_01",
+            "value": "Mit 10 August-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "Mit 100 August-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step3",
+            "value": "Mit 5 Regenbogen-Gedankenfragmenten"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step2",
+            "value": "Mit 3 Regenbogen-Gedankenfragmenten"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step1",
+            "value": "Mit einem Regenbogen-Gedankenfragment"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step5",
+            "value": "Eine [UR]-Einheit garantiert"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step4",
+            "value": "Mit einem „Auswählbares Gedankenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step3",
+            "value": "Mit einem „Auswählbares Erweckungsprisma x50“-Beschwörungsticket"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step2",
+            "value": "[MR+]-Einheit oder Visionskarte garantiert"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step1",
+            "value": "[MR+]-Einheit oder Visionskarte garantiert"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200819_10",
+            "value": "Mit 100 August-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_01",
+            "value": "Mit 10 August-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "Mit 100 August-Beschwörungsmedaillen B"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step3",
+            "value": "Eine [UR]-FFT-Kollabo-Einheit garantiert"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step2",
+            "value": "Eine [UR]-Einheit/-Visionskarte garantiert"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step1",
+            "value": "Eine [UR]-Einheit/-Visionskarte garantiert"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_p_gacha_4unitvc_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_1",
+            "value": "Mit 10 FFT-Beschwörungsmedaillen A (Runde 2)"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_10",
+            "value": "Mit 100 FFT-Beschwörungsmedaillen A (Runde 2)"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_1",
+            "value": "Mit 10 FFT-Beschwörungsmedaillen B (Runde 2)"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_10",
+            "value": "Mit 100 FFT-Beschwörungsmedaillen B (Runde 2)"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step15",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step14",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step13",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step12",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step11",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step10",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step9",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step8",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step7",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step6",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step5",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step4",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step3",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step2",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step1",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10",
+            "value": ""
         },
         {
             "key": "global_pickup_sterne_20200325_01",

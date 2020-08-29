@@ -37,6 +37,10 @@
             "value": "Bonificación de acceso de agosto"
         },
         {
+            "key": "LB_202009",
+            "value": "Bonificación de acceso de septiembre"
+        },
+        {
             "key": "LB_LIMIT_GL_0001",
             "value": "Conmemoración del lanzamiento"
         },
@@ -50,6 +54,10 @@
         },
         {
             "key": "LB_COMEBACK_001",
+            "value": "Bonificación de acceso de regreso al juego"
+        },
+        {
+            "key": "LB_COMEBACK_002",
             "value": "Bonificación de acceso de regreso al juego"
         },
         {
@@ -127,6 +135,18 @@
         {
             "key": "LB_LIMIT_GL0018",
             "value": "Bonificación de acceso del capítulo 8"
+        },
+        {
+            "key": "LB_LIMIT_GL0019",
+            "value": "Bonificación de acceso de celebración de la gran actualización del juego"
+        },
+        {
+            "key": "LB_LIMIT_GL0020",
+            "value": "Bonificación de acceso de FFT"
+        },
+        {
+            "key": "LB_LIMIT_GL0021",
+            "value": "Bonificación de acceso de la cuenta atrás <br>de los 6 primeros meses del juego, parte I"
         }
     ]
 }

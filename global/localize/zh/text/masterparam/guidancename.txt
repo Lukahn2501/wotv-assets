@@ -77,6 +77,10 @@
             "value": "公會功能3"
         },
         {
+            "key": "GuildBattle",
+            "value": "公會戰鬥"
+        },
+        {
             "key": "UnitIntimacy",
             "value": "親密度"
         },
@@ -101,20 +105,16 @@
             "value": "角色任務"
         },
         {
-            "key": "GuildBattle",
-            "value": "公會戰鬥"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "同行者設定"
+            "key": "Tower",
+            "value": "塔"
         },
         {
             "key": "ItemExchange",
             "value": "交換所"
         },
         {
-            "key": "Tower",
-            "value": "塔"
+            "key": "SupportUnit",
+            "value": "同行者設定"
         }
     ]
 }

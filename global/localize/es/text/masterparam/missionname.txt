@@ -109,6 +109,150 @@
             "value": "Únete a un gremio"
         },
         {
+            "key": "CM_PRO_GL_01",
+            "value": "Conéctate al juego una vez"
+        },
+        {
+            "key": "CM_PRO_GL_02",
+            "value": "Alcanza el nv. 15 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_03",
+            "value": "Alcanza el nv. 30 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_04",
+            "value": "Completa la misión de historia 1-2-1"
+        },
+        {
+            "key": "CM_PRO_GL_05",
+            "value": "Conéctate al juego 2 días"
+        },
+        {
+            "key": "CM_PRO_GL_06",
+            "value": "Alcanza el nv. de profesión 3 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_07",
+            "value": "Completa la misión de historia 1-1-10"
+        },
+        {
+            "key": "CM_PRO_GL_08",
+            "value": "Completa la misión de historia 1-1-5"
+        },
+        {
+            "key": "CM_PRO_GL_09",
+            "value": "Alcanza el nv. de profesión 6 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_10",
+            "value": "Conéctate al juego"
+        },
+        {
+            "key": "CM_PRO_GL_11",
+            "value": "Rompe el límite de Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_12",
+            "value": "Alcanza el nv. 35 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_13",
+            "value": "Rompe el límite de Numbralince 3 veces"
+        },
+        {
+            "key": "CM_PRO_GL_14",
+            "value": "Conéctate al juego un día más"
+        },
+        {
+            "key": "CM_PRO_GL_15",
+            "value": "Rompe el límite de Numbralince 2 veces"
+        },
+        {
+            "key": "CM_PRO_GL_16",
+            "value": "Completa la misión de historia 1-2-10"
+        },
+        {
+            "key": "CM_PRO_GL_17",
+            "value": "Completa la misión de historia 1-2-5"
+        },
+        {
+            "key": "CM_PRO_GL_18",
+            "value": "Alcanza el nv. 40 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_19",
+            "value": "Conéctate al juego"
+        },
+        {
+            "key": "CM_PRO_GL_20",
+            "value": "Despierta a Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_21",
+            "value": "Alcanza el nv. 45 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_22",
+            "value": "Alcanza el nv. 60 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_23",
+            "value": "Conéctate al juego un día más"
+        },
+        {
+            "key": "CM_PRO_GL_24",
+            "value": "Despierta a Numbralince 2 veces"
+        },
+        {
+            "key": "CM_PRO_GL_25",
+            "value": "Despierta a Numbralince 3 veces"
+        },
+        {
+            "key": "CM_PRO_GL_26",
+            "value": "Completa la misión de historia 1-3-10"
+        },
+        {
+            "key": "CM_PRO_GL_27",
+            "value": "Alcanza el nv. 50 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_28",
+            "value": "Conéctate al juego"
+        },
+        {
+            "key": "CM_PRO_GL_29",
+            "value": "Completa la misión de historia 2-1-10"
+        },
+        {
+            "key": "CM_PRO_GL_30",
+            "value": "Completa la misión de historia 2-2-10"
+        },
+        {
+            "key": "CM_PRO_GL_31",
+            "value": "Conéctate al juego 2 días más"
+        },
+        {
+            "key": "CM_PRO_GL_32",
+            "value": "Conéctate al juego 3 días más"
+        },
+        {
+            "key": "CM_PRO_GL_33",
+            "value": "Completa la misión de historia 2-3-10"
+        },
+        {
+            "key": "CM_PRO_GL_34",
+            "value": "Conéctate al juego un día más"
+        },
+        {
+            "key": "CM_PRO_GL_35",
+            "value": "Completa la misión difícil de Mediena"
+        },
+        {
+            "key": "CM_PRO_GL_36",
+            "value": "Completa la misión de historia 3-1-10"
+        },
+        {
             "key": "CM_PRO_28",
             "value": "Avanza en las misiones de evento de FFT I"
         },
@@ -251,6 +395,42 @@
         {
             "key": "CM_PRO_72",
             "value": "Avanza en las misiones de FFI III"
+        },
+        {
+            "key": "CM_PRO_73",
+            "value": "Avanza en las misiones de FFT (parte II) I"
+        },
+        {
+            "key": "CM_PRO_74",
+            "value": "Avanza en las misiones de evento 100 veces"
+        },
+        {
+            "key": "CM_PRO_75",
+            "value": "Avanza en las misiones difíciles 50 veces"
+        },
+        {
+            "key": "CM_PRO_76",
+            "value": "Avanza en las misiones de historia 100 veces"
+        },
+        {
+            "key": "CM_PRO_77",
+            "value": "Avanza en las misiones de FFT (parte II) II"
+        },
+        {
+            "key": "CM_PRO_78",
+            "value": "Juega en la Arena 30 veces"
+        },
+        {
+            "key": "CM_PRO_79",
+            "value": "Consigue objetos en la expedición chocobo 30 veces"
+        },
+        {
+            "key": "CM_PRO_80",
+            "value": "Avanza en las multimisiones 50 veces"
+        },
+        {
+            "key": "CM_PRO_81",
+            "value": "Avanza en las misiones de FFT (parte II) III"
         },
         {
             "key": "GM_0001",
@@ -497,6 +677,14 @@
             "value": "Completa el capítulo 8, escena 1: Muraga, el rey de Fennes"
         },
         {
+            "key": "M_ST_0008_02",
+            "value": "Completa el capítulo 8, escena 2: Kuri enfurecido I"
+        },
+        {
+            "key": "M_ST_0008_02_2",
+            "value": "Completa el capítulo 8, escena 2: El orgullo de Hourne"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Bonificación de acceso de rango vip 1"
         },
@@ -570,7 +758,7 @@
         },
         {
             "key": "M_DAILY_001_04",
-            "value": "Completa una multimisión"
+            "value": "Mejora una estatua del gremio"
         },
         {
             "key": "M_DAILY_001_05",
@@ -1013,6 +1201,102 @@
             "value": "Completa FINAL FANTASY XIV: Shadowbringers [Conquista] nv. 10 (5/5)"
         },
         {
+            "key": "M_GL_FFT_2_CH_AGRA",
+            "value": "Completa todos los objetivos de la misión de personaje de Agrias"
+        },
+        {
+            "key": "M_GL_FFT_2_CH_DELT",
+            "value": "Completa todos los objetivos de la misión de personaje de Delita"
+        },
+        {
+            "key": "M_FFT_2_01",
+            "value": "[Parte II] Completa la batalla 1 de FINAL FANTASY TACTICS (1/3)"
+        },
+        {
+            "key": "M_FFT_2_02",
+            "value": "[Parte II] Completa la batalla 1 de FINAL FANTASY TACTICS (2/3)"
+        },
+        {
+            "key": "M_FFT_2_03",
+            "value": "[Parte II] Completa la batalla 1 de FINAL FANTASY TACTICS (3/3)"
+        },
+        {
+            "key": "M_FFT_2_04",
+            "value": "[Parte II] Completa la batalla 2 de FINAL FANTASY TACTICS (1/3)"
+        },
+        {
+            "key": "M_FFT_2_05",
+            "value": "[Parte II] Completa la batalla 2 de FINAL FANTASY TACTICS (2/3)"
+        },
+        {
+            "key": "M_FFT_2_06",
+            "value": "[Parte II] Completa la batalla 2 de FINAL FANTASY TACTICS (3/3)"
+        },
+        {
+            "key": "M_FFT_2_07",
+            "value": "[Parte II] Completa la batalla 3 de FINAL FANTASY TACTICS (1/3)"
+        },
+        {
+            "key": "M_FFT_2_08",
+            "value": "[Parte II] Completa la batalla 3 de FINAL FANTASY TACTICS (2/3)"
+        },
+        {
+            "key": "M_FFT_2_09",
+            "value": "[Parte II] Completa la batalla 3 de FINAL FANTASY TACTICS (3/3)"
+        },
+        {
+            "key": "M_FFT_2_10",
+            "value": "[Parte II] Completa la batalla 4 de FINAL FANTASY TACTICS (1/5)"
+        },
+        {
+            "key": "M_FFT_2_11",
+            "value": "[Parte II] Completa la batalla 4 de FINAL FANTASY TACTICS (3/5)"
+        },
+        {
+            "key": "M_FFT_2_12",
+            "value": "[Parte II] Completa la batalla 4 de FINAL FANTASY TACTICS (5/5)"
+        },
+        {
+            "key": "M_FFT_2_13",
+            "value": "[Parte II] Completa Zaland, ciudad amurallada (1/5)"
+        },
+        {
+            "key": "M_FFT_2_14",
+            "value": "[Parte II] Completa Zaland, ciudad amurallada (3/5)"
+        },
+        {
+            "key": "M_FFT_2_15",
+            "value": "[Parte II] Completa Zaland, ciudad amurallada (5/5)"
+        },
+        {
+            "key": "M_FFT_2_EX_01",
+            "value": "[Parte II] Completa FINAL FANTASY TACTICS [EX] (1/10)"
+        },
+        {
+            "key": "M_FFT_2_EX_02",
+            "value": "[Parte II] Completa FINAL FANTASY TACTICS [EX] (3/10)"
+        },
+        {
+            "key": "M_FFT_2_EX_03",
+            "value": "[Parte II] Completa FINAL FANTASY TACTICS [EX] (5/10)"
+        },
+        {
+            "key": "M_FFT_2_EX_04",
+            "value": "[Parte II] Completa FINAL FANTASY TACTICS [EX] (10/10)"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_01",
+            "value": "[Multiijugador] [Parte II] Completa FINAL FANTASY TACTICS [EX] (1/5)"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_02",
+            "value": "[Multiijugador] [Parte II] Completa FINAL FANTASY TACTICS [EX] (3/5)"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_03",
+            "value": "[Multiijugador] [Parte II] Completa FINAL FANTASY TACTICS [EX] (5/5)"
+        },
+        {
             "key": "M_FFT_1_01",
             "value": "Completa la batalla 1 de FINAL FANTASY TACTICS (1/3)"
         },
@@ -1315,6 +1599,50 @@
         {
             "key": "M_EV_CSLI_11",
             "value": "[Multijugador] Completa el desafío del flan de chocolate en dificultad extrema (5/5)"
+        },
+        {
+            "key": "M_EV_OCHU_01",
+            "value": "Completa el desafío de Ochú de dificultad alta I (1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_02",
+            "value": "Completa el desafío de Ochú de dificultad alta II (1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_03",
+            "value": "Completa el desafío de Ochú de dificultad alta I (3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_04",
+            "value": "Completa el Desafío de Ochú de dificultad alta II (3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_05",
+            "value": "Completa el Desafío de Ochú de dificultad alta (5/5)"
+        },
+        {
+            "key": "M_EV_OCHU_06",
+            "value": "Completa el Desafío de Ochú de dificultad extrema (1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_07",
+            "value": "Completa el Desafío de Ochú de dificultad extrema (3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_08",
+            "value": "Completa el Desafío de Ochú de dificultad extrema (5/5)"
+        },
+        {
+            "key": "M_EV_OCHU_09",
+            "value": "[Multijugador] Completa el desafío de Ochú de dificultad extrema (1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_10",
+            "value": "[Multijugador] Completa el desafío de Ochú de dificultad extrema (3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_11",
+            "value": "[Multijugador] Completa el desafío de Ochú de dificultad extrema (5/5)"
         },
         {
             "key": "M_ART_CRF_05_01",
@@ -2581,6 +2909,14 @@
             "value": "Conseguir unidades: tarea 10"
         },
         {
+            "key": "MG_PR_002_011",
+            "value": "Conseguir unidades: tarea 11"
+        },
+        {
+            "key": "MG_PR_002_012",
+            "value": "Conseguir unidades: tarea 12"
+        },
+        {
             "key": "MG_PR_003_001",
             "value": "Despertar de unidades: tarea 1"
         },
@@ -2673,6 +3009,26 @@
             "value": "Despertar de unidades: tarea 23"
         },
         {
+            "key": "MG_PR_003_024",
+            "value": "Despertar de unidades: tarea 24"
+        },
+        {
+            "key": "MG_PR_003_025",
+            "value": "Despertar de unidades: tarea 25"
+        },
+        {
+            "key": "MG_PR_003_026",
+            "value": "Despertar de unidades: tarea 26"
+        },
+        {
+            "key": "MG_PR_003_027",
+            "value": "Despertar de unidades: tarea 27"
+        },
+        {
+            "key": "MG_PR_003_028",
+            "value": "Despertar de unidades: tarea 28"
+        },
+        {
             "key": "MG_PR_004_001",
             "value": "Ruptura de límite de unidades: tarea 1"
         },
@@ -2763,6 +3119,26 @@
         {
             "key": "MG_PR_004_023",
             "value": "Ruptura de límite de unidades: tarea 23"
+        },
+        {
+            "key": "MG_PR_004_024",
+            "value": "Ruptura de límite de unidades: tarea 24"
+        },
+        {
+            "key": "MG_PR_004_025",
+            "value": "Ruptura de límite de unidades: tarea 25"
+        },
+        {
+            "key": "MG_PR_004_026",
+            "value": "Ruptura de límite de unidades: tarea 26"
+        },
+        {
+            "key": "MG_PR_004_027",
+            "value": "Ruptura de límite de unidades: tarea 27"
+        },
+        {
+            "key": "MG_PR_004_028",
+            "value": "Ruptura de límite de unidades: tarea 28"
         },
         {
             "key": "M_QEST_001",
@@ -5857,6 +6233,550 @@
             "value": "Estatuas del gremio: tarea 20"
         },
         {
+            "key": "M_MONTHLY_0682",
+            "value": "Misiones de historia: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0683",
+            "value": "Misiones de historia: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0684",
+            "value": "Misiones de historia: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0685",
+            "value": "Misiones de historia: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0686",
+            "value": "Misiones de historia: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0687",
+            "value": "Misiones de historia: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0688",
+            "value": "Misiones de historia: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0689",
+            "value": "Misiones de historia: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0690",
+            "value": "Misiones de historia: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0691",
+            "value": "Misiones de historia: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0692",
+            "value": "Misiones de historia: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0693",
+            "value": "Misiones de historia: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0694",
+            "value": "Misiones de historia: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0695",
+            "value": "Misiones de historia: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0696",
+            "value": "Misiones de historia: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0697",
+            "value": "Misiones de historia: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0698",
+            "value": "Misiones de historia: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0699",
+            "value": "Misiones de historia: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0700",
+            "value": "Misiones de historia: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0701",
+            "value": "Misiones de historia: tarea 20"
+        },
+        {
+            "key": "M_MONTHLY_0702",
+            "value": "Misiones difíciles: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0703",
+            "value": "Misiones difíciles: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0704",
+            "value": "Misiones difíciles: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0705",
+            "value": "Misiones difíciles: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0706",
+            "value": "Misiones difíciles: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0707",
+            "value": "Misiones difíciles: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0708",
+            "value": "Misiones difíciles: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0709",
+            "value": "Misiones difíciles: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0710",
+            "value": "Misiones difíciles: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0711",
+            "value": "Misiones difíciles: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0712",
+            "value": "Misiones difíciles: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0713",
+            "value": "Misiones difíciles: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0714",
+            "value": "Misiones difíciles: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0715",
+            "value": "Misiones difíciles: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0716",
+            "value": "Misiones difíciles: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0717",
+            "value": "Misiones difíciles: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0718",
+            "value": "Misiones difíciles: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0719",
+            "value": "Misiones difíciles: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0720",
+            "value": "Misiones difíciles: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0721",
+            "value": "Multimisiones: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0722",
+            "value": "Multimisiones: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0723",
+            "value": "Multimisiones: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0724",
+            "value": "Multimisiones: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0725",
+            "value": "Multimisiones: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0726",
+            "value": "Multimisiones: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0727",
+            "value": "Multimisiones: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0728",
+            "value": "Multimisiones: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0729",
+            "value": "Multimisiones: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0730",
+            "value": "Multimisiones: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0731",
+            "value": "Multimisiones: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0732",
+            "value": "Multimisiones: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0733",
+            "value": "Multimisiones: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0734",
+            "value": "Multimisiones: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0735",
+            "value": "Multimisiones: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0736",
+            "value": "Multimisiones: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0737",
+            "value": "Multimisiones: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0738",
+            "value": "Multimisiones: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0739",
+            "value": "Multimisiones: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0740",
+            "value": "Multimisiones: tarea 20"
+        },
+        {
+            "key": "M_MONTHLY_0741",
+            "value": "Cámara de la EXP: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0742",
+            "value": "Cámara de la EXP: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0743",
+            "value": "Cámara de la EXP: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0744",
+            "value": "Cámara de la EXP: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0745",
+            "value": "Cámara de la EXP: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0746",
+            "value": "Cámara de la EXP: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0747",
+            "value": "Cámara de la EXP: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0748",
+            "value": "Cámara de la EXP: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0749",
+            "value": "Cámara de la EXP: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0750",
+            "value": "Cámara de la EXP: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0751",
+            "value": "Cámara de la EXP: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0752",
+            "value": "Cámara de la EXP: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0753",
+            "value": "Cámara de la EXP: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0754",
+            "value": "Cámara de la EXP: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0755",
+            "value": "Cámara de la EXP: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0756",
+            "value": "Cámara de la EXP: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0757",
+            "value": "Cámara de la EXP: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0758",
+            "value": "Cámara de la EXP: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0759",
+            "value": "Cámara de la EXP: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0760",
+            "value": "Cámara de la EXP: tarea 20"
+        },
+        {
+            "key": "M_MONTHLY_0761",
+            "value": "Triunfa en la Arena: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0762",
+            "value": "Triunfa en la Arena: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0763",
+            "value": "Triunfa en la Arena: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0764",
+            "value": "Triunfa en la Arena: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0765",
+            "value": "Triunfa en la Arena: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0766",
+            "value": "Triunfa en la Arena: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0767",
+            "value": "Triunfa en la Arena: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0768",
+            "value": "Triunfa en la Arena: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0769",
+            "value": "Triunfa en la Arena: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0770",
+            "value": "Triunfa en la Arena: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0771",
+            "value": "Triunfa en la Arena: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0772",
+            "value": "Triunfa en la Arena: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0773",
+            "value": "Triunfa en la Arena: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0774",
+            "value": "Triunfa en la Arena: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0775",
+            "value": "Triunfa en la Arena: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0776",
+            "value": "Triunfa en la Arena: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0777",
+            "value": "Triunfa en la Arena: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0778",
+            "value": "Triunfa en la Arena: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0779",
+            "value": "Triunfa en la Arena: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0780",
+            "value": "Triunfa en la Arena: tarea 20"
+        },
+        {
+            "key": "M_MONTHLY_0781",
+            "value": "Entrena a tus chocobos: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0782",
+            "value": "Entrena a tus chocobos: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0783",
+            "value": "Entrena a tus chocobos: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0784",
+            "value": "Entrena a tus chocobos: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0785",
+            "value": "Entrena a tus chocobos: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0786",
+            "value": "Entrena a tus chocobos: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0787",
+            "value": "Entrena a tus chocobos: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0788",
+            "value": "Entrena a tus chocobos: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0789",
+            "value": "Entrena a tus chocobos: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0790",
+            "value": "Entrena a tus chocobos: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0791",
+            "value": "Entrena a tus chocobos: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0792",
+            "value": "Entrena a tus chocobos: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0793",
+            "value": "Entrena a tus chocobos: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0794",
+            "value": "Entrena a tus chocobos: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0795",
+            "value": "Entrena a tus chocobos: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0796",
+            "value": "Entrena a tus chocobos: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0797",
+            "value": "Entrena a tus chocobos: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0798",
+            "value": "Estatuas del gremio: tarea 1"
+        },
+        {
+            "key": "M_MONTHLY_0799",
+            "value": "Estatuas del gremio: tarea 2"
+        },
+        {
+            "key": "M_MONTHLY_0800",
+            "value": "Estatuas del gremio: tarea 3"
+        },
+        {
+            "key": "M_MONTHLY_0801",
+            "value": "Estatuas del gremio: tarea 4"
+        },
+        {
+            "key": "M_MONTHLY_0802",
+            "value": "Estatuas del gremio: tarea 5"
+        },
+        {
+            "key": "M_MONTHLY_0803",
+            "value": "Estatuas del gremio: tarea 6"
+        },
+        {
+            "key": "M_MONTHLY_0804",
+            "value": "Estatuas del gremio: tarea 7"
+        },
+        {
+            "key": "M_MONTHLY_0805",
+            "value": "Estatuas del gremio: tarea 8"
+        },
+        {
+            "key": "M_MONTHLY_0806",
+            "value": "Estatuas del gremio: tarea 9"
+        },
+        {
+            "key": "M_MONTHLY_0807",
+            "value": "Estatuas del gremio: tarea 10"
+        },
+        {
+            "key": "M_MONTHLY_0808",
+            "value": "Estatuas del gremio: tarea 11"
+        },
+        {
+            "key": "M_MONTHLY_0809",
+            "value": "Estatuas del gremio: tarea 12"
+        },
+        {
+            "key": "M_MONTHLY_0810",
+            "value": "Estatuas del gremio: tarea 13"
+        },
+        {
+            "key": "M_MONTHLY_0811",
+            "value": "Estatuas del gremio: tarea 14"
+        },
+        {
+            "key": "M_MONTHLY_0812",
+            "value": "Estatuas del gremio: tarea 15"
+        },
+        {
+            "key": "M_MONTHLY_0813",
+            "value": "Estatuas del gremio: tarea 16"
+        },
+        {
+            "key": "M_MONTHLY_0814",
+            "value": "Estatuas del gremio: tarea 17"
+        },
+        {
+            "key": "M_MONTHLY_0815",
+            "value": "Estatuas del gremio: tarea 18"
+        },
+        {
+            "key": "M_MONTHLY_0816",
+            "value": "Estatuas del gremio: tarea 19"
+        },
+        {
+            "key": "M_MONTHLY_0817",
+            "value": "Estatuas del gremio: tarea 20"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Gasta visiores: bonificación de tiempo limitado 01"
         },
@@ -5998,6 +6918,54 @@
         },
         {
             "key": "M_LAPS_P_QILF_06",
+            "value": "Gasta visiores: bonificación de tiempo limitado 06"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_01",
+            "value": "Gasta visiores: bonificación de tiempo limitado 01"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_02",
+            "value": "Gasta visiores: bonificación de tiempo limitado 02"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_03",
+            "value": "Gasta visiores: bonificación de tiempo limitado 03"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_04",
+            "value": "Gasta visiores: bonificación de tiempo limitado 04"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_05",
+            "value": "Gasta visiores: bonificación de tiempo limitado 05"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_06",
+            "value": "Gasta visiores: bonificación de tiempo limitado 06"
+        },
+        {
+            "key": "M_LAPS_P_DELT_01",
+            "value": "Gasta visiores: bonificación de tiempo limitado 01"
+        },
+        {
+            "key": "M_LAPS_P_DELT_02",
+            "value": "Gasta visiores: bonificación de tiempo limitado 02"
+        },
+        {
+            "key": "M_LAPS_P_DELT_03",
+            "value": "Gasta visiores: bonificación de tiempo limitado 03"
+        },
+        {
+            "key": "M_LAPS_P_DELT_04",
+            "value": "Gasta visiores: bonificación de tiempo limitado 04"
+        },
+        {
+            "key": "M_LAPS_P_DELT_05",
+            "value": "Gasta visiores: bonificación de tiempo limitado 05"
+        },
+        {
+            "key": "M_LAPS_P_DELT_06",
             "value": "Gasta visiores: bonificación de tiempo limitado 06"
         },
         {

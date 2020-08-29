@@ -1081,6 +1081,66 @@
             "value": "魔杖術士的記憶·緋"
         },
         {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "神聖騎士的記憶·翠"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "神聖騎士的記憶·碧"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "神聖騎士的記憶·紫"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "神聖騎士的記憶·黃"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "神聖騎士的記憶·緋"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "見習戰士（迪利塔）的記憶·翠"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "見習戰士（迪利塔）的記憶·碧"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "見習戰士（迪利塔）的記憶·紫"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "見習戰士（迪利塔）的記憶·黃"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "見習戰士（迪利塔）的記憶·緋"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "機工士的記憶·翠"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "機工士的記憶·碧"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "機工士的記憶·紫"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "機工士的記憶·黃"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "機工士的記憶·緋"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "火之輝石·翠"
         },
@@ -1791,6 +1851,26 @@
         {
             "key": "IT_PI_LW_SIMR",
             "value": "西姆爾的碎片"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "奧爾多的碎片"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "菈薇絲的碎片"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "阿格莉亞絲的碎片"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "迪利塔的碎片"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
+            "value": "姆斯達迪奧的碎片"
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -2581,6 +2661,10 @@
             "value": "光明之鎧的製作配方"
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "製作魔咒魅香水時所需的配方"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "命之刻印"
         },
@@ -2773,6 +2857,10 @@
             "value": "聯動召喚獎牌"
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": "FFXIV聯動活動召喚券"
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "【3月】召喚獎牌A"
         },
@@ -2813,6 +2901,10 @@
             "value": "【8月】召喚獎牌A"
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "【8月】召喚獎牌B"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT聯動活動獎牌"
         },
@@ -2825,12 +2917,24 @@
             "value": "FFT聯動召喚獎牌B"
         },
         {
+            "key": "IT_EC_FFT_3",
+            "value": "【第2波】FFT聯動活動獎牌"
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "【第2波】FFT聯動召喚獎牌A"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "【第2波】FFT聯動召喚獎牌B"
+        },
+        {
             "key": "IT_EC_TOWER_001",
             "value": "塔獎牌"
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": "【6月】活動獎牌"
+            "value": "西方的威脅朗德爾獎牌"
         },
         {
             "key": "IT_EC_EV03_1",
@@ -2841,20 +2945,16 @@
             "value": "【8月】活動獎牌"
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": "巧克力布丁共鬥獎牌"
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": "白色棉花糖共鬥獎牌"
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": "FFI聯動活動獎牌"
         },
         {
             "key": "IT_EC_FF1_2",
             "value": "FFI聯動召喚獎牌"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FFT聯動活動召喚券"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2917,6 +3017,10 @@
             "value": "覺醒輝源×50選擇召喚券"
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "覺醒輝源×200選擇召喚券"
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": "屬性思念的碎片×50選擇召喚券"
         },
@@ -2937,6 +3041,14 @@
             "value": "屬性輝石·紫×70選擇召喚券"
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "屬性輝石·黃×70選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "屬性輝石·緋×70選擇召喚券"
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": "屬性獸醒石×20選擇召喚券"
         },
@@ -2951,90 +3063,6 @@
         {
             "key": "IT_US_SE_SB_EXP_03",
             "value": "屬性魔石（中）×50選擇召喚券"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": "職業的記憶·翠×1選擇召喚券"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": "職業的記憶·碧×2選擇召喚券"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": "職業的記憶·紫×3選擇召喚券"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": "職業的記憶·黃×4選擇召喚券"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": "職業的記憶·緋×5選擇召喚券"
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": "UR兵員選擇召喚券A"
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": "覺醒輝源×10選擇召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "屬性魔石（中）×500選擇召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "屬性魔石（中）×10選擇召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "屬性魔石（中）×25選擇召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "屬性魔石（大）×100選擇召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "UR幻兵卡碎片x50選擇召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": "UR幻兵卡碎片x50選擇召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": "UR幻兵卡碎片x50選擇召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": "UR幻兵卡碎片x50選擇召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": "UR幻兵卡碎片x50選擇召喚券"
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "推薦UR兵員選擇召喚券"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "推薦MR兵員選擇召喚券"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": "MR兵員選擇召喚券A"
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": "UR兵員碎片×40選擇召喚券"
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
-            "value": "UR兵員碎片×40選擇召喚券"
         },
         {
             "key": "IT_US_G_U_UR_01",
@@ -3065,16 +3093,32 @@
             "value": "確保UR幻兵卡召喚券A"
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "FFT聯動活動召喚券"
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "職業的記憶·翠×1選擇召喚券"
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "FFXIV聯動活動召喚券"
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "職業的記憶·碧×2選擇召喚券"
         },
         {
-            "key": "IT_US_G_N_TW_10",
-            "value": "【白磁之塔】普通10連召喚券"
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "職業的記憶·紫×3選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "職業的記憶·黃×4選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "職業的記憶·緋×5選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "UR兵員選擇召喚券A"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "覺醒輝源×10選擇召喚券"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -3099,10 +3143,6 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "覺醒輝源×NN選擇召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
-            "value": "覺醒輝源×200選擇召喚券"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3337,10 +3377,6 @@
             "value": "帥哥爭奪戰！！的碎片"
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": "猛攻雙龍　雙頭巨龍的碎片"
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": "嫉心的魔術師的碎片"
         },
@@ -3353,6 +3389,10 @@
             "value": "虛偽的契約，真實的靈魂的碎片"
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": "猛攻雙龍　雙頭巨龍的碎片"
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": "死亡機器的碎片"
         },
@@ -3363,6 +3403,14 @@
         {
             "key": "IT_VPI_LW_CBVPARTY1",
             "value": "徒櫻之宴的碎片"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "紅陸行鳥的碎片"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
+            "value": "草笛的碎片"
         },
         {
             "key": "IT_VC_EXP_01",
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "獅子的強顎（大）"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "巧克力布丁共鬥獎牌"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "白色棉花糖共鬥獎牌"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "屬性魔石（中）×500選擇召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "屬性魔石（中）×10選擇召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "屬性魔石（中）×25選擇召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "屬性魔石（大）×100選擇召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "UR幻兵卡碎片x50選擇召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "UR幻兵卡碎片x50選擇召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "UR幻兵卡碎片x50選擇召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "UR幻兵卡碎片x50選擇召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "UR幻兵卡碎片x50選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "推薦UR兵員選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "推薦MR兵員選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "MR兵員選擇召喚券A"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "UR兵員碎片×40選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "UR兵員碎片×40選擇召喚券"
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "UR兵員碎片×40選擇召喚券"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "【白磁之塔】普通10連召喚券"
         }
     ]
 }

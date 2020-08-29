@@ -1081,6 +1081,66 @@
             "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 15"
         },
         {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier sacré) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier sacré) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier sacré) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier sacré) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier sacré) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Delita) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Delita) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Delita) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Delita) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Delita) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "Un objet nécessaire pour faire évoluer le job (Machiniste) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Machiniste) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Machiniste) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Machiniste) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Machiniste) au niveau 15"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 2<space=1>-<space=1>3"
         },
@@ -1790,6 +1850,26 @@
         },
         {
             "key": "IT_PI_LW_SIMR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
             "value": "Un objet nécessaire pour briser la limite d'une unité"
         },
         {
@@ -2581,6 +2661,10 @@
             "value": "Une recette nécessaire à la fabrication d'une Armure de la Lumière"
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "Une recette nécessaire à la fabrication d'un Sortilège"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Augmente les chances de voir ses PV augmenter lorsque l'équipement passe au niveau supérieur."
         },
@@ -2773,6 +2857,10 @@
             "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFXIV. Elle peut être échangée contre divers objets dans la boutique d’échange des médailles d’invocation de FFXIV."
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": "Un ticket qui peut être obtenu en échangeant des mémoquartz goétiques acquis grâce aux événements de la collaboration FFXIV."
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Expire le 14/04/2020 à 23:59 PST)"
         },
@@ -2813,16 +2901,32 @@
             "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 01/09/2020, 23:59, heure universelle (PST))"
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Expire le 15/09/2020, 23:59, heure universelle (PST))"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration avec FFT. Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement FFT."
         },
         {
             "key": "IT_EC_FFT_2_A",
-            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d’échange des médailles d'invocation A de la collaboration avec FFT (Expire le 26/05/2020, 23:59, heure universelle (PST))"
+            "value": ""
         },
         {
             "key": "IT_EC_FFT_2_B",
-            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d’échange des médailles d'invocation B de la collaboration avec FFT (Expire le 26/05/2020, 23:59, heure universelle (PST))"
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration avec FFT [Partie II]. Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement FFT [Partie II]."
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "Une médaille qui peut être obtenue grâce à la réédition des invocations de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d’échange des médailles d'invocation A de la réédition de la collaboration avec FFT (Expire le 29/09/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFT [Partie II]. Elle peut être échangée contre divers objets dans la boutique d’échange des médailles d'invocation B de la collaboration avec FFT [Partie II] (Expire le 29/09/2020, 23:59, heure universelle (PST))"
         },
         {
             "key": "IT_EC_TOWER_001",
@@ -2830,7 +2934,7 @@
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": "Un objet qui peut être obtenu grâce aux événements de « Rundall, menace à l'ouest ». Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement de juin."
+            "value": "Un objet qui peut être obtenu grâce aux événements de « Rundall, menace à l'ouest ». Il peut être échangé contre divers objets dans la Boutique d’échange des médailles de « Rundall, menace à l'ouest »."
         },
         {
             "key": "IT_EC_EV03_1",
@@ -2841,20 +2945,16 @@
             "value": "Un objet qui peut être obtenu grâce aux événements « Aux confins de l'Orient ». Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement d'août."
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": "Une médaille qui s'obtient lors des combats de raid"
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": "Une médaille qui s'obtient lors du Raid de la Guimauve blanche"
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration avec FFI. Il peut être échangé contre divers objets dans la Boutique d’échange des médailles d'événement FFI."
         },
         {
             "key": "IT_EC_FF1_2",
             "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFI. Elle peut être échangée contre divers objets dans la boutique d’échange des médailles d'invocation de la collaboration avec FFI (Expire le 25/08/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Un ticket qui peut être obtenu grâce aux événements de la collaboration avec FFT."
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2917,6 +3017,10 @@
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 50 prismes d'éveil parmi les 8 éléments proposés."
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 200 prismes d'éveil parmi les 8 éléments proposés."
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 50 fragments de pensée nécessaires à l'éveil parmi les 8 éléments proposés."
         },
@@ -2937,6 +3041,14 @@
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (violets) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (jaunes) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (rouges) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 20 pierres d'éveil nécessaires à l'amélioration des chimères parmi les 8 éléments proposés."
         },
@@ -2951,90 +3063,6 @@
         {
             "key": "IT_US_SE_SB_EXP_03",
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 50 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": "Un ticket qui permet au joueur d'invoquer le souvenir de job (Vert) de n'importe quel job."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": "Un ticket qui permet au joueur d'invoquer 2 souvenirs de job (Bleu) de n'importe quel job."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": "Un ticket qui permet au joueur d'invoquer 3 souvenirs de job (Violet) de n'importe quel job."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": "Un ticket qui permet au joueur d'invoquer 4 souvenirs de job (Jaune) de n'importe quel job."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": "Un ticket qui permet au joueur d'invoquer 5 souvenirs de job (Rouge) de n'importe quel job."
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité UR"
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 prismes d'éveil parmi les 8 éléments proposés."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 500 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 25 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 100 magilithes (L) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 20 mars. *Ne peut pas être utilisé pour les atouts-visions limités et ceux issus des collaborations."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 24 juin. *Ne peut pas être utilisé pour les atouts-visions « Porteurs d'ombre » et « Héritier des Béoulve »."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 17 juin. *Ne peut pas être utilisé pour les atouts-visions limités et ceux issus des collaborations."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 22 juillet. *Ne peut pas être utilisé pour les atouts-visions limités et ceux issus des collaborations."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 12 août inclus. *Ce ticket ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité UR recommandée.*Si vous invoquez une unité que vous possédez déjà, elle sera convertie en 40 fragments d'unité."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité MR recommandée.*Si vous invoquez une unité que vous possédez déjà, elle sera convertie en 20 fragments d'unité."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité MR"
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": "Un ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties avant le 17 juin. *Ne peut pas être utilisé pour les unités limitées ou des collaborations."
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
-            "value": "Un ticket qui permet de sélectionner et d’invoquer 40 fragments d'unité UR."
         },
         {
             "key": "IT_US_G_U_UR_01",
@@ -3065,16 +3093,32 @@
             "value": "Un ticket qui vous permet d’invoquer un atout-vision UR."
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "Un ticket qui peut être obtenu grâce aux événements de la collaboration avec FFT."
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "Un ticket qui permet au joueur d'invoquer le souvenir de job (Vert) de n'importe quel job."
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "Un ticket qui peut être obtenu en échangeant des mémoquartz goétiques acquis grâce aux événements de la collaboration FFXIV."
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "Un ticket qui permet au joueur d'invoquer 2 souvenirs de job (Bleu) de n'importe quel job."
         },
         {
-            "key": "IT_US_G_N_TW_10",
-            "value": "Un ticket qui vous permet de mettre la main sur des objets tels que des fragments d'unité et d'atout-vision."
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "Un ticket qui permet au joueur d'invoquer 3 souvenirs de job (Violet) de n'importe quel job."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "Un ticket qui permet au joueur d'invoquer 4 souvenirs de job (Jaune) de n'importe quel job."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "Un ticket qui permet au joueur d'invoquer 5 souvenirs de job (Rouge) de n'importe quel job."
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité UR"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 prismes d'éveil parmi les 8 éléments proposés."
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -3099,10 +3143,6 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer NN prismes d'éveil parmi les 8 éléments proposés."
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
-            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 200 prismes d'éveil parmi les 8 éléments proposés."
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3337,10 +3377,6 @@
             "value": "Un objet nécessaire à l'éveil d'un atout-vision"
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": "Un objet nécessaire à l'éveil d'un atout-vision"
         },
@@ -3353,6 +3389,10 @@
             "value": "Un objet nécessaire à l'éveil d'un atout-vision"
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": "Un objet nécessaire à l'éveil d'un atout-vision"
         },
@@ -3362,6 +3402,14 @@
         },
         {
             "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
             "value": "Un objet nécessaire à l'éveil d'un atout-vision"
         },
         {
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Lion en pierre » (L)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Une médaille qui s'obtient lors des combats de raid"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "Une médaille qui s'obtient lors du Raid de la Guimauve blanche"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 500 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 25 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 100 magilithes (L) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis jusqu'au 20 mars inclus. *Ne peut pas être utilisé pour les atouts-visions limités et ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis jusqu'au 24 juin inclus. *Ne peut pas être utilisé pour les atouts-visions « Porteurs d'ombre » et « Héritier des Béoulve »."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis jusqu'au 17 juin inclus. *Ne peut pas être utilisé pour les atouts-visions limités et ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis jusqu'au 22 juillet inclus. *Ne peut pas être utilisé pour les atouts-visions limités et ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis jusqu'au 12 août inclus. *Ne peut pas être utilisé pour les atouts-visions limités et ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité UR recommandée.*Si vous invoquez une unité que vous possédez déjà, elle sera convertie en 40 fragments d'unité."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité MR recommandée.*Si vous invoquez une unité que vous possédez déjà, elle sera convertie en 20 fragments d'unité."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité MR"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Un ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties jusqu'au 17 juin inclus. *Ne peut pas être utilisé pour les unités limitées ou des collaborations."
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Un ticket qui permet de sélectionner et d’invoquer 40 fragments d'unité UR."
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "Un ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties jusqu'au 19 août inclus. *Ne peut pas être utilisé pour les unités limitées ou des collaborations."
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "Un ticket qui vous permet de mettre la main sur des objets tels que des fragments d'unité et d'atout-vision."
         }
     ]
 }

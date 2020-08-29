@@ -67,6 +67,14 @@
         {
             "key": "17",
             "value": "Nouveaux atouts-visions<br>disponibles !"
+        },
+        {
+            "key": "18",
+            "value": "Nouvelles unités<br>disponibles !"
+        },
+        {
+            "key": "19",
+            "value": "Invocation de la collab.<br>FFT disponible !"
         }
     ]
 }

@@ -61,8 +61,8 @@
             "value": "聯盟等級從${beforeLevelName}升級為${afterLevelName}了。"
         },
         {
-            "key": "16",
-            "value": "聯盟等級從${beforeLevelName}降級為${afterLevelName}了。"
+            "key": "23",
+            "value": "聯盟等級從${beforeLevelName}降級為${afterLevelName}了"
         }
     ]
 }

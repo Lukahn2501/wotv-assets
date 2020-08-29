@@ -67,6 +67,14 @@
         {
             "key": "17",
             "value": "¡Nuevas cartas de<br>visión destacadas!"
+        },
+        {
+            "key": "18",
+            "value": "¡Nuevas unidades<br>destacadas!"
+        },
+        {
+            "key": "19",
+            "value": "Colaboración de FFT<br>¡Invoca ahora!"
         }
     ]
 }

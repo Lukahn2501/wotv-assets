@@ -142,7 +142,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "Voulez-vous écouter des explications sur les opérations basiques de combat ?"
+            "value": "Voulez-vous lancer le tutoriel sur les opérations basiques de combat ?"
         },
         {
             "key": "SKIP_YES",

@@ -65,6 +65,10 @@
             "value": "Repetir"
         },
         {
+            "key": "MENU_SKIP",
+            "value": "Omitir"
+        },
+        {
             "key": "MENU_SPEED_DEFAULT",
             "value": "Normal"
         },
@@ -279,6 +283,14 @@
         {
             "key": "RESULT_DIALOG_REMATCH_DESC",
             "value": "Si seleccionas Confirmar, no se mostrará la escena al completar la misión."
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "★ adicionales adquiridas"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "Has adquirido <color=#F0C040>★ x{0}</color><br>del grupo de defensa no establecido<br>de este jugador."
         },
         {
             "key": "INTIMACYUP_BONUS_TITLE",
@@ -619,18 +631,6 @@
         {
             "key": "BATTLE_HEIGHT_ABBREV",
             "value": "A"
-        },
-        {
-            "key": "MENU_SKIP",
-            "value": "Omitir"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_TITLE",
-            "value": "★ adicionales adquiridas"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_DESC",
-            "value": "Has adquirido <color=#F0C040>★ x{0}</color><br>del grupo de defensa no establecido<br>de este jugador."
         },
         {
             "key": "RESULT_RETRY",

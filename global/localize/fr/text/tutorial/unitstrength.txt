@@ -25,6 +25,10 @@
             "value": "Vous n'êtes qu'au début de l'aventure et n'en possédez pas encore beaucoup, mais j'ai hâte de vous voir progresser et en maîtriser une plus grande variété, Sire !"
         },
         {
+            "key": "TALK_007_GL",
+            "value": "Vous possédez désormais toutes les connaissances de base. Progressez dans l'histoire pour débloquer de nouvelles fonctionnalités."
+        },
+        {
             "key": "DIALOG_001_T",
             "value": "• Améliorer des unités grâce aux cubes d'EXP •"
         },
@@ -103,10 +107,6 @@
         {
             "key": "SKIP_NO",
             "value": "Non"
-        },
-        {
-            "key": "TALK_007_GL",
-            "value": "Vous possédez désormais toutes les connaissances de base. Progressez dans l'histoire pour débloquer de nouvelles fonctionnalités."
         },
         {
             "key": "TALK_007",

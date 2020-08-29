@@ -17,16 +17,8 @@
             "value": "Spathe"
         },
         {
-            "key": "LARGESWORD",
-            "value": "Spathe"
-        },
-        {
             "key": "KATANA",
             "value": "Katana"
-        },
-        {
-            "key": "STAFF",
-            "value": "Bâton"
         },
         {
             "key": "ROD",
@@ -123,6 +115,14 @@
         {
             "key": "SEPARATOR",
             "value": ", "
+        },
+        {
+            "key": "LARGESWORD",
+            "value": "Spathe"
+        },
+        {
+            "key": "STAFF",
+            "value": "Bâton"
         }
     ]
 }

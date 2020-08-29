@@ -98,15 +98,15 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "バトルの基本操作の説明を聞きますか？"
+            "value": "バトルの基本操作の説明を見ますか？"
         },
         {
             "key": "SKIP_YES",
-            "value": "聞く"
+            "value": "はい"
         },
         {
             "key": "SKIP_NO",
-            "value": "聞かない"
+            "value": "いいえ"
         },
         {
             "key": "TALK_003",

@@ -30,11 +30,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Dummy •"
+            "value": "• Charakteraufträge •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du das Dummy-Tutorial überspringen?"
+            "value": "Möchtest du dir eine Erklärung zu Charakteraufträgen anhören?"
         },
         {
             "key": "SKIP_YES",

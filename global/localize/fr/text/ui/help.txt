@@ -14,7 +14,7 @@
         },
         {
             "key": "BUYLAPIS_DESC",
-            "value": "■ Les visiores<br>Les visiores sont la monnaie qui permet d'invoquer des unités, d'acheter des objets dans la boutique et de restaurer votre endurance.<br><br>■ Renseigner votre date de naissance<br>Il est essentiel de renseigner votre date de naissance la première fois que vous achetez des visiores.<br>La date de naissance n'est plus modifiable par la suite.<br><br>■ Types de visiores<br>Il existe trois types de visiores.<br><br>• Les visiores payés<br>Visiores achetés via les différentes plateformes d'achat.<br>*Ces visiores ne peuvent pas être transférés entre les plateformes.<br><br>• Les visiores bonus<br>Visiores bonus livrés avec les packs de visiores payés.<br>*Ces visiores ne peuvent pas être transférés entre les plateformes.<br><br>• Les visiores gratuits<br>Visiores reçus en bonus de connexion, en récompense de missions, etc.<br>*Ces visiores peuvent être transférés et utilisés à travers les différentes plateformes d'achat.<br><br>*Le jeu consommera vos visiores dans l'ordre de priorité suivant : visiores bonus > visiores gratuits > visiores payés."
+            "value": "■Visiores<br>Les visiores sont des objets de valeur qui vous permettent d'invoquer des unités, d'acheter des objets dans la boutique ou encore de restaurer votre endurance. <br>En achetant des visiores, vous pouvez obtenir des « visiores payés » ou des « visiores bonus ». <br><br>*Les visiores payés et les visiores bonus ne peuvent être utilisés que sur la plateforme depuis laquelle vous les avez achetés. <br>*Les visiores sont consommés dans l'ordre de priorité suivant :<br>Visiores bonus > Visiores gratuits > Visiores payés. <br><br>■ Passe<br>Cette fonctionnalité vous permet de bénéficier de plusieurs avantages au cours de votre achat. <br>Ces avantages se reflèteront une fois que l'achat du passe apparaîtra dans le jeu. La période de validité débutera alors le jour suivant à 00:00, heure universelle (PST). <br>Pour davantage d'informations concernant ses avantages et sa période de validité, veuillez consulter la rubrique « Détails » depuis l'écran d'achat. <br><br>*Si vous utilisez le même compte pour vous procurer des passes sur différentes plateformes, les avantages des passes seront alors divisés entre les différentes plateformes. <br><br>*Notez que vous ne serez pas en mesure de modifier votre date de naissance une fois que vous l'aurez enregistrée. <br><br>■ Reflet des achats dans l'application <br>En fonction de votre connexion ou de votre boutique d'applications, vos achats peuvent mettre un certain temps avant de se refléter dans le jeu. <br>Assurez-vous d'utiliser une connexion stable avant de procéder à quelque achat que ce soit."
         },
         {
             "key": "VIP_TITLE",
@@ -77,14 +77,6 @@
             "value": "Pour voir les unités que vous possédez, consultez la liste des unités.<br>Appuyez sur « Élément » pour filtrer les unités par éléments.<br>*Lorsque que le mode « Filtres : actifs » est visible, cela signifie que vos objets sont actuellement filtrés."
         },
         {
-            "key": "F",
-            "value": ""
-        },
-        {
-            "key": "e",
-            "value": ""
-        },
-        {
             "key": "UNIT_DETAIL_TITLE",
             "value": "Détails sur les unités"
         },
@@ -131,6 +123,14 @@
         {
             "key": "UNIT_INTIMACY_DESC",
             "value": "En appuyant sur l'icône d'une unité, vous pourrez consulter son niveau d'affinité avec les autres unités et combien d'expérience il lui manque pour atteindre le niveau suivant.<br><br>L'affinité entre unités augmente si elles partent en quête et combattent ensemble.<br>Quand deux unités avec un haut niveau d'affinité sont placées à proximité sur le champ de bataille, leur AGI, DEX et Cha augmentent.<br>Plus vous augmentez le niveau d'affinité entre deux unités, plus leurs caractéristiques seront améliorées et la distance maximum à laquelle elles peuvent se trouver sur le terrain pour recevoir le bonus augmentera."
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "Aptitudes pendant les combats automatiques"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_DESC",
+            "value": "Les aptitudes réglées sur OFF ne seront pas utilisées pendant les combats automatiques.<br>Vous pouvez modifier ces options en appuyant sur le bouton Paramètres avancés.<br>*Même réglées sur ON, certaines aptitudes peuvent ne pas être disponibles en combat automatique en fonction du job secondaire de votre unité ou d'altérations d'état."
         },
         {
             "key": "GUILD_JOINSELECT_TITLE",
@@ -211,6 +211,14 @@
         {
             "key": "GUILDBATTLE_DESC",
             "value": "Vous y affrontez les autres guildes pour gagner des ★. Si les conditions sont remplies, la participation et la recherche d'adversaire se fait automatiquement.<br><br>■ Conditions de participation<br>・La guilde doit compter au moins 10 membres au total (Chef de guilde et bras-droits compris).<br>・Le Chef de guilde doit s'être connecté au moins une fois au cours des 3 derniers jours.<br><br>Vous devez former deux groupes pour ces combats : un en attaque et un en défense. Ils peuvent être paramétrés tous les deux depuis l'écran de formation.<br>*La Formation des groupes est verrouillée dès que la recherche d'adversaire est lancée. Aucun changement effectué ultérieurement ne sera pris en compte dans le combat.<br><br>■ En cas de victoire<br>Votre guilde gagne des trophées !<br>La grandeur de votre victoire dépend du nombre d'★ que vous gagnez pendant le combat et des trophées possédés par votre adversaire.<br><br>■ En cas de défaite<br>Votre guilde perd des trophées.<br>Cette pénalité peut être atténuée si vous avez récolté beaucoup d'★ dans le combat et si votre adversaire possédait beaucoup de trophées.<br><br>En cas de match nul, chaque adversaire conserve tous ses trophées.<br><br>*Le nombre de ★ qui peuvent être obtenues quand vous terrassez une unité ennemie dépend du nombre de membres dans le groupe.<br>*Si chaque équipe à gagné le même nombre de ★ à la fin du combat, la gagnante est celle qui aura infligé le plus de dégâts à l'adversaire.<br>*Si les deux équipes ont récupéré les même nombre de ★ et infligé le même nombre de dégâts, alors le match est nul.<br><br>■Récompenses<br>Les médailles de guildes que vous gagnerez pendant les combats de guilde vous rapporteront des récompenses.<br>・Vous recevez une part de vos récompenses personnelles en fonction du nombre de ★ obtenues dans chaque combat.<br>・Vous obtenez d'autres récompenses personnelles en fonction du nombre total de ★ obtenues pendant toute la durée de l'événement.<br>・Vous obtenez enfin des récompenses de guilde qui dépendent des ★ obtenues par tous les membres."
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "Combats de guilde limités"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_DESC",
+            "value": "Dans les combats de guilde limités, vous pouvez utiliser votre tour pour soutenir vos alliés ou attaquer pour ralentir votre adversaire.<br><br>Si votre guilde remplit les conditions suivantes de participation, elle combattra automatiquement contre un adversaire à sa taille.<br>- Un niveau de ligue supérieur ou égal à un certain niveau<br>- Au moins 10 membres (dont le chef et ses bras droits.)<br>- Le chef de guilde s'est connecté au moins une fois lors des trois derniers jours.<br>Dans les combats de guilde, il y a une formation pour le groupe en attaque et une formation pour le groupe en défense. Vous pouvez assigner des unités dans ces différentes formations depuis le menu « Combats de guilde » sur l'écran de Formation.<br>*Le nombre de groupes que vous pouvez former et leurs conditions dépendent du combat de guilde.<br>*Si vous n'assignez pas d'unité en défense, vous offrez des ★ faciles à l'adversaire.<br>*Dès que votre guilde a trouvé un adversaire, vous ne pouvez plus changer la formation du groupe. Si malgré tout vous essayez de la modifier, les changements ne s'appliqueront pas au combat en cours.<br><br>■ Résultats du combat<br>Quand la période de combat prend fin, la guilde dont les membres ont gagné le plus grand nombre de ★ l'emporte.<br>Si les deux guildes ont remporté le même nombre de ★, celle qui a infligé le plus de dégâts totaux gagne.<br>Si les deux guildes ont remporté le même nombre de ★ et qu'elles ont infligé le même nombre de dégâts, celle dont la puissance totale de tous les groupes de défense est supérieure gagne.<br>*Le nombre de ★ gagnées en terrassant une unité dépend de la taille du groupe adverse.<br><br>■ Points finaux<br>Vous gagnez des points finaux que vous remportiez ou non le combat.<br>Ils déterminent votre place lors du classement général.<br><br>Vous pouvez obtenir de nombreux points en :<br>- Gagnant des combats de guilde<br>- Obtenant beaucoup de ★ pendant le combat<br>- Ayant une forte valeur totale dans tous les groupes de défense<br>- Gagnant plusieurs combats d'affilée<br><br>■ Récompenses<br>Les combats de guilde limités vous rapportent les récompenses suivantes :<br>- Les récompenses de participation dépendent du nombre de combats menés.<br>- Les récompenses de combat s'obtiennent à chaque combat en fonction du nombre de ★ rapportées par les attaques individuelles.<br>- Les récompenses d'action dépendent des points d'action dépensés pour le soutien individuel.<br>- Les récompenses finales dépendent du taux de ★ obtenues par tous les membres de la guilde.<br>- Les récompenses du classement général dépendent de votre rang final."
         },
         {
             "key": "DUEL_TITLE",
@@ -338,7 +346,7 @@
         },
         {
             "key": "MULTI_TOP_DESC",
-            "value": "■ Le mode multi<br>Grâce au mode multi, vous et les autres joueurs pouvez former un groupe allant jusqu'à 4 membres pour terminer une quête.<br>Vous pouvez rejoindre le salon de votre choix en renseignant le mot de passe correspondant décidé lors de la création du salon.<br>Les quêtes multi se divisent en deux catégories.<br><br>Quatuor : 4 joueurs différents contrôlent chacun une unité.<br>Duo : 2 joueurs différents contrôlent chacun 2 unités.<br><br>■ Bonus de première rencontre<br>Lorsque vous complétez une quête avec un autre joueur pour la première fois, vous recevez des visiores bonus.<br>Le nombre de visiores s'élève à 200 pour les 10 premières personnes, puis à 40 à partir de la 11ème personne que vous rencontrez pour la première fois.<br>*Vous recevrez un bonus de première rencontre pour les 50 premières personnes avec lesquelles vous participerez à des quêtes multi ou des raids pour la première fois.<br>* Les bonus ne s'adressent qu'aux joueurs qui se rencontrent pour la première fois. Les joueurs qui auraient déjà joué ensemble ne recevront pas ce bonus.<br>*Vous ne recevrez aucune récompense si vous quittez la quête en plein milieu."
+            "value": "■ Le mode multi<br>Grâce au mode multi, vous et les autres joueurs pouvez former un groupe allant jusqu'à 4 membres pour terminer une quête.<br>Vous pouvez rejoindre le salon de votre choix en renseignant le mot de passe correspondant décidé lors de la création du salon.<br>Les quêtes multi se divisent en deux catégories.<br><br>Quatuor : 4 joueurs différents contrôlent chacun une unité.<br>Duo : 2 joueurs différents contrôlent chacun 2 unités.<br><br>■ Bonus de l'hôte<br>Le joueur à l'origine de la création du salon bénéficiera d'une récompense supplémentaire appelée « Bonus de l'hôte ».<br>*Les bonus de l'hôte ne seront pas distribués lors des combats qui auraient débutés sans membre dans le salon.<br><br>■ Bonus de première rencontre<br>Lorsque vous complétez une quête avec un autre joueur pour la première fois, vous recevez des visiores bonus.<br>Le nombre de visiores s'élève à 200 pour les 10 premières personnes, puis à 40 à partir de la 11ème personne que vous rencontrez pour la première fois.<br>*Vous recevrez un bonus de première rencontre pour les 50 premières personnes avec lesquelles vous participerez à des quêtes multi ou des raids pour la première fois.<br>* Les bonus ne s'adressent qu'aux joueurs qui se rencontrent pour la première fois. Les joueurs qui auraient déjà joué ensemble ne recevront pas ce bonus.<br>*Vous ne recevrez aucune récompense si vous quittez la quête en plein milieu."
         },
         {
             "key": "MULTI_QUESTLIST_TITLE",
@@ -854,7 +862,7 @@
         },
         {
             "key": "OPTION_DESC",
-            "value": "■ Le Menu<br>Vous trouverez dans le Menu des informations utiles et vous aurez accès aux paramètres du jeu.<br><br>■ Les options<br>Voici les options paramétrables :<br>• Options<br>Pour ajuster le son et les graphismes.<br>• Paramètres de chat<br>Pour désactiver certaines fonctionnalités du chat ou modifier les messages pré-écrits.<br>• Téléchargements<br>Pour télécharger les voix ou d'autres contenus.<br>• Notifications<br>Vous pouvez activer ou désactiver les notifications push."
+            "value": "■ Le Menu<br>Vous trouverez dans le Menu des informations utiles et vous aurez accès aux paramètres du jeu.<br><br>■ Les options<br>Voici les options paramétrables :<br>• Options<br>Pour ajuster le son, les graphismes et les paramètres du mode d'économie d'énergie.<br>• Paramètres de chat<br>Pour désactiver certaines fonctionnalités du chat ou modifier les messages pré-écrits.<br>• Téléchargements<br>Pour télécharger les voix ou d'autres contenus.<br>• Notifications<br>Vous pouvez activer ou désactiver les notifications push."
         },
         {
             "key": "OPTION_PLAYERINFO_TITLE",
@@ -1131,22 +1139,6 @@
         {
             "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
             "value": "Envoyer le message ?"
-        },
-        {
-            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
-            "value": "Aptitude pendant les combats automatiques"
-        },
-        {
-            "key": "UNIT_ABILITY_AUTO_SETTING_DESC",
-            "value": "Les compétences réglées sur OFF ne seront pas utilisées pendant les combats automatiques.<br>Vous pouvez modifier ces options en appuyant sur le bouton Paramètres avancés.<br>*Même réglées sur ON, certaines compétences peuvent ne pas être disponibles en combat automatique en fonction du job secondaire de votre unité ou d'altérations d'état."
-        },
-        {
-            "key": "GUILDBATTLE_LIMITED_TITLE",
-            "value": "Combats de guilde limités"
-        },
-        {
-            "key": "GUILDBATTLE_LIMITED_DESC",
-            "value": "Dans les combats de guilde limités, vous pouvez utiliser votre tour pour soutenir vos alliés ou attaquer pour ralentir votre adversaire.<br><br>Si votre guilde remplit les conditions suivantes de participation, elle combattra automatiquement contre un adversaire à sa taille.<br>- Un niveau de ligue supérieur ou égal à un certain niveau<br>- Au moins 10 membres (dont le chef et ses bras droits.)<br>- Le chef de guilde s'est connecté au moins une fois lors des trois derniers jours.<br>Dans les combats de guilde, il y a une formation pour le groupe en attaque et une formation pour le groupe en défense. Vous pouvez assigner des unités dans ces différentes formations depuis le menu « Combats de guilde » sur l'écran de Formation.<br>*Le nombre de groupes que vous pouvez former et leurs conditions dépendent du combat de guilde.<br>*Si vous n'assignez pas d'unité en défense, vous offrez des ★ faciles à l'adversaire.<br>*Dès que votre guilde a trouvé un adversaire, vous ne pouvez plus changer la formation du groupe. Si malgré tout vous essayez de la modifier, les changements ne s'appliqueront pas au combat en cours.<br><br>■ Résultats du combat<br>Quand la période de combat prend fin, la guilde dont les membres ont gagné le plus grand nombre de ★ gagne.<br>Si les deux guildes ont remporté le même nombre de ★, celle qui a infligé le plus de dégâts totaux gagne.<br>Si les deux guildes ont remporté le même nombre de ★ et qu'elles ont infligé le même nombre de dégâts, celle dont la puissance totale de tous les groupes de défense est supérieure gagne.<br>*Le nombre de ★ gagnées en terrassant une unité dépend de la taille du groupe adverse.<br><br>■ Points finaux<br>Vous gagnez des points finaux que vous remportiez ou non le combat.<br>Ils déterminent votre place lors du classement général.<br><br>Vous pouvez obtenir de nombreux points en :<br>- Gagnant des combats de guilde<br>- Obtenant beaucoup de ★ pendant le combat<br>- Ayant une forte valeur totale dans tous les groupes de défense<br>- Gagnant plusieurs combats d'affilée<br><br>■ Récompenses<br>Les combats de guilde limités vous rapportent les récompenses suivantes :<br>- Les récompenses de participation dépendent du nombre de combats menés.<br>- Les récompenses de combat s'obtiennent à chaque combat en fonction du nombre de ★ rapportées par les attaques individuelles.<br>- Les récompenses d'action dépendent des points d'action dépensés pour le soutien individuel.<br>- Les récompenses finales dépendent du taux de ★ obtenues par tous les membres de la guilde.<br>- Les récompenses du classement général dépendent de votre rang final."
         },
         {
             "key": "ARTI_SELECT_TITLE",

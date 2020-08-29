@@ -30,11 +30,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Provisional •"
+            "value": "• Misiones de personaje •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "¿Omitir el tutorial provisional?"
+            "value": "¿Queréis ver el tutorial sobre las misiones de personaje?"
         },
         {
             "key": "SKIP_YES",

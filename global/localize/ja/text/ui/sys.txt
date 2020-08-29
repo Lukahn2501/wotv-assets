@@ -809,6 +809,10 @@
             "value": "幻導石購入"
         },
         {
+            "key": "POWER_SAVE",
+            "value": "クリスタルに触れて節電モード解除"
+        },
+        {
             "key": "ACT_SPECIFIED_COMMERCIAL_TRANSACTIONS",
             "value": "特定商取引法"
         },
@@ -1065,6 +1069,10 @@
             "value": "TP"
         },
         {
+            "key": "SORT_TITLE_AP",
+            "value": "AP"
+        },
+        {
             "key": "SORT_TITLE_SPEED",
             "value": "素早さ"
         },
@@ -1075,6 +1083,22 @@
         {
             "key": "SORT_TITLE_AVOID",
             "value": "回避"
+        },
+        {
+            "key": "SORT_TITLE_DEFENCE",
+            "value": "防御"
+        },
+        {
+            "key": "SORT_TITLE_MIND",
+            "value": "精神"
+        },
+        {
+            "key": "SORT_TITLE_DEXTERITY",
+            "value": "器用さ"
+        },
+        {
+            "key": "SORT_TITLE_LUCK",
+            "value": "運"
         },
         {
             "key": "SORT_TITLE_CRITICAL",
@@ -1553,6 +1577,10 @@
             "value": "Faith"
         },
         {
+            "key": "STATUS_HATE",
+            "value": "Hate"
+        },
+        {
             "key": "STATUS_COST",
             "value": "Cost"
         },
@@ -1765,6 +1793,18 @@
             "value": "TP"
         },
         {
+            "key": "ABILITY_STATUS_USE_AUTO",
+            "value": "オートアビリティでの使用"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL",
+            "value": "詳細設定"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL_ON",
+            "value": "詳細設定:ON"
+        },
+        {
             "key": "ABILITY_CAPTION_LEADER",
             "value": "LeaderAbility"
         },
@@ -1853,6 +1893,30 @@
             "value": "フレンドではないため発動しません"
         },
         {
+            "key": "ABILITY_AUTO_SETTING_TITLE",
+            "value": "オートバトルでの使用"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_QUEST",
+            "value": "クエスト"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_MULTI",
+            "value": "マルチ"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_DUEL",
+            "value": "デュエル"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_GUILD",
+            "value": "ギルドバトル"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TOWER",
+            "value": "Porcelain Tower / Midlight's Deep"
+        },
+        {
             "key": "JOB_LEVEL_MAX",
             "value": "MAX"
         },
@@ -1923,6 +1987,14 @@
         {
             "key": "UNITLIST_NOTUSE",
             "value": "使用不可"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
+            "value": "ユニット選択"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
+            "value": "別のパーティ（{0}）で<br>既に選択済みです。<br>それでも選択しますか？<br>（別のパーティからは<br>対象ユニットは外されます。）"
         },
         {
             "key": "NETHERBEAST_SYNCHRO",
@@ -2637,6 +2709,14 @@
             "value": "パーティー編成"
         },
         {
+            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
+            "value": "通常"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
+            "value": "期間限定"
+        },
+        {
             "key": "PARTYEDITOR_GUILD_PARTY_OFFENSE",
             "value": "攻撃"
         },
@@ -2651,6 +2731,14 @@
         {
             "key": "PARTYEDITOR_GUILD_PERIOD_TITLE",
             "value": "ギルドバトル開催期間"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
+            "value": "編成ルール"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
+            "value": "<line-height=22>※複数の攻撃パーティーで同じユニット、武具、召喚獣、ビジョンカードの設定はできません。複数の防御パーティーについても同様です。"
         },
         {
             "key": "PARTYEDITOR_TAB_QUEST",
@@ -2771,10 +2859,6 @@
         {
             "key": "PARTYEDITOR_AUTOBATTLE_DISABLE",
             "value": "設定不可"
-        },
-        {
-            "key": "；編成画面 - オート周回",
-            "value": ""
         },
         {
             "key": "PARTYEDITOR_AUTOLAP_TITLE",
@@ -2949,16 +3033,56 @@
             "value": "優先する項目を設定してください。"
         },
         {
+            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
+            "value": "優先項目を選択"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
+            "value": "おまかせ対象選択"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
+            "value": "全部おまかせ"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
+            "value": "武具"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
+            "value": "ビジョンカード"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
+            "value": "召喚獣"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
+            "value": "<line-height=26>※ユニット・武具・ビジョンカード・召喚獣が、<br>設定された項目に沿って自動的に編成されます。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
+            "value": "<line-height=26>※チェックした装備品のみ設定に沿って自動的に編成され、<br>それ以外は現在の編成がそのまま残ります。"
+        },
+        {
             "key": "RECOMMEND_TEAM_FAVORITE",
             "value": "お気に入り武具を優先"
         },
         {
-            "key": "RECOMMEND_TEAM_LIMITBURST",
-            "value": "リミットバースト武具を優先"
+            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
+            "value": "<line-height=26>※チェックを入れておくとユニット詳細画面で<br>設定したお気に入り武具が優先して編成されます。"
         },
         {
             "key": "RECOMMEND_TEAM_CALCULATING",
             "value": "検索中"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_TITLE",
+            "value": "項目にチェックを入れてください"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
+            "value": "武具、ビジョンカード、召喚獣の<br>少なくとも1つに<br>チェックを入れてください。"
         },
         {
             "key": "TEAM_NAME_INPUT_TITLE",
@@ -3119,6 +3243,14 @@
         {
             "key": "CHAT_GUILD_JOIN_DESC",
             "value": "ギルドに加入しますか？"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_CHAT",
+            "value": "チャット"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
+            "value": "バトルログ"
         },
         {
             "key": "CHAT_NOTTFY_TEXT",
@@ -3577,6 +3709,10 @@
             "value": "アビリティ演出"
         },
         {
+            "key": "OPTION_EFFECT",
+            "value": "範囲エフェクトの表示"
+        },
+        {
             "key": "OPTION_SOUND",
             "value": "サウンド"
         },
@@ -3623,6 +3759,66 @@
         {
             "key": "OPTION_CHANGE_DRAW",
             "value": "描画設定を切り替えます"
+        },
+        {
+            "key": "OPTION_LAP_TITLE",
+            "value": "周回設定"
+        },
+        {
+            "key": "OPTION_LAP_LIMIT",
+            "value": "周回制限"
+        },
+        {
+            "key": "OPTION_LAP_NONE",
+            "value": "制限なし"
+        },
+        {
+            "key": "OPTION_LAP_TIMES",
+            "value": "周回数"
+        },
+        {
+            "key": "OPTION_LAP_ITEM",
+            "value": "アイテム獲得"
+        },
+        {
+            "key": "OPTION_LAP_USE_ITEM",
+            "value": "消費体力"
+        },
+        {
+            "key": "OPTION_LAP_STOP",
+            "value": "周回ストップ"
+        },
+        {
+            "key": "OPTION_LAP_FEAVER",
+            "value": "探検チョコボ Fever"
+        },
+        {
+            "key": "OPTION_LAP_CAPRICIOUS",
+            "value": "気まぐれ屋発見"
+        },
+        {
+            "key": "OPTION_LAP_RAID",
+            "value": "レイド遭遇"
+        },
+        {
+            "key": "OPTION_LAP_STOP_CAUTION",
+            "value": "※ONにしておくと演出が発生した際周回が止まります。"
+        },
+        {
+            "key": "OPTION_LAP_AP_USE",
+            "value": "自動体力回復薬使用"
+        },
+        {
+            "key": "OPTION_LAP_AP_TIMES",
+            "value": "回復回数上限"
+        },
+        {
+            "key": "OPTION_LAP_AP_CAUTION",
+            "value": "※周回中に体力が切れた場合に自動で体力を回復します。<br>※回復薬以外での体力回復は行いません。<br>※回復薬は所持しているもので回復量が大きいものより使用されます。"
+        },
+        {
+            "key": "OPTION_ITEM_TITLE",
+            "value": "アイテム選択"
         },
         {
             "key": "LAPIS_CAUTION_GOOGLE",
@@ -4001,490 +4197,6 @@
             "value": "テクニカルランキング"
         },
         {
-            "key": "DENY",
-            "value": "Deny"
-        },
-        {
-            "key": "IAP_CUR_4217",
-            "value": "EUR;CHF;USD;"
-        },
-        {
-            "key": "CURRENCY_SEPARATOR",
-            "value": "."
-        },
-        {
-            "key": "CONNECT_SELECT_ACCOUNTBINDING",
-            "value": "Account Binding"
-        },
-        {
-            "key": "TARGETADV_AGE_TITLE",
-            "value": "Age Verification"
-        },
-        {
-            "key": "TARGETADV_AGE_CONTENT",
-            "value": "You must be {0} years old and above to receive Personalized Advertising."
-        },
-        {
-            "key": "TARGETADV_AGE_YES",
-            "value": "I am {0} years old and above."
-        },
-        {
-            "key": "TARGETADV_AGE_NO",
-            "value": "I am below {0} years old."
-        },
-        {
-            "key": "TARGETADV_TITLE",
-            "value": "Advertising Consent"
-        },
-        {
-            "key": "TARGETADV_CONTENT",
-            "value": "Would you like to see Personalized or Non-Personalized Advertising?"
-        },
-        {
-            "key": "TARGETADV_OPTION_PERSO",
-            "value": "Personalized"
-        },
-        {
-            "key": "TARGETADV_OPTION_NONPERSO",
-            "value": "Non-Personalized"
-        },
-        {
-            "key": "LANGUAGE_SELECT_TITLE",
-            "value": "Language"
-        },
-        {
-            "key": "LANGUAGE_SELECT_CONTENT",
-            "value": "Please select your preferred language.<br>(You can change this later)"
-        },
-        {
-            "key": "LANGUAGE_SELECT_CONFIRM_TITLE",
-            "value": "Language Confirmation"
-        },
-        {
-            "key": "LANGUAGE_SELECT_CONFIRM_CONTENT",
-            "value": "You are switching languages from:<br><color=#F0C040>{0}</color> > <color=#00BB00>{1}</color>.<br><br>Additional downloads will be required and a connection to a Wi-Fi environment is recommended.<br><br>You will be returned to the Main Title Screen. Do you wish to proceed?"
-        },
-        {
-            "key": "NEWGAME_TITLE",
-            "value": "Start Game"
-        },
-        {
-            "key": "NEWGAME_BTN",
-            "value": "New Game"
-        },
-        {
-            "key": "CONTINUE_BTN",
-            "value": "Continue"
-        },
-        {
-            "key": "ACCOUNT_BINDING_TITLE",
-            "value": "Account Binding"
-        },
-        {
-            "key": "ACCOUNT_BINDING_APPLE",
-            "value": "Sign in with Apple"
-        },
-        {
-            "key": "ACCOUNT_BINDING_GOOGLE",
-            "value": "Sign in with Google"
-        },
-        {
-            "key": "ACCOUNT_BINDING_FACEBOOK",
-            "value": "Log in with Facebook"
-        },
-        {
-            "key": "ACCOUNT_BINDING_SQEX",
-            "value": "SQEX Account Login"
-        },
-        {
-            "key": "ACCOUNT_BINDING_GUEST",
-            "value": "Guest"
-        },
-        {
-            "key": "DLC_CHECK_WW_TITLE",
-            "value": "Download Data"
-        },
-        {
-            "key": "DLC_CHECK_WW_DESC",
-            "value": "DLC Data <color=#F0C040>(Approximately {0}MB)</color><br>A <color=#F0C040>Wi-Fi connection</color> is recommended.<br>(You can change this later)"
-        },
-        {
-            "key": "DLC_CHECK_WW_TITLE_VO_EN",
-            "value": "With English Voiceover"
-        },
-        {
-            "key": "DLC_CHECK_WW_TITLE_VO_JA",
-            "value": "With Japanese Voiceover"
-        },
-        {
-            "key": "DLC_CHECK_WW_TITLE_VO_OFF",
-            "value": "Without Voiceover (Less Data Consumption)"
-        },
-        {
-            "key": "ACCOUNT_BINDING_ERROR_TITLE",
-            "value": "Warning"
-        },
-        {
-            "key": "ACCOUNT_BINDING_ERROR_DESC",
-            "value": "<color=#F0C040>Account binding failed</color><br>Please try again"
-        },
-        {
-            "key": "FEATURE_DISABLED_CBT",
-            "value": "<color=#F0C040>Function Temporarily disabled for CBT.</color>"
-        },
-        {
-            "key": "LANG_JAPANESE",
-            "value": "Japanese"
-        },
-        {
-            "key": "LANG_ENGLISH",
-            "value": "English"
-        },
-        {
-            "key": "LANG_FRENCH",
-            "value": "French"
-        },
-        {
-            "key": "LANG_GERMAN",
-            "value": "German"
-        },
-        {
-            "key": "LANG_SPANISH",
-            "value": "Spanish"
-        },
-        {
-            "key": "LANG_KOREAN",
-            "value": "Korean"
-        },
-        {
-            "key": "LANG_CHINESE_ZH",
-            "value": "Chinese (Traditional)"
-        },
-        {
-            "key": "STATUS_NBEAST_TYPE_RARE_MONSTER",
-            "value": "Rare Monster"
-        },
-        {
-            "key": "SELECTLIST_NO_UNITS",
-            "value": "該当するユニットが存在しません"
-        },
-        {
-            "key": "ABILITY_PARTY_DETAIL_EFFECT_OVERLAP",
-            "value": "効果重複"
-        },
-        {
-            "key": "CONNECT_SELECT_SUCCESS_TITLE",
-            "value": "SNS connect success"
-        },
-        {
-            "key": "CONNECT_APPLE_TITLE",
-            "value": "Apple Connect"
-        },
-        {
-            "key": "CONNECT_DEVICE_NOT_SUPPORT_DESC",
-            "value": "Apple ID login unsuccessful. Please confirm that your Apple ID has two-factor authentication (2FA) enabled, and that you are signed into iCloud on your iOS 13 (or higher) device."
-        },
-        {
-            "key": "CONNECT_WARNING_TITLE",
-            "value": "Warning"
-        },
-        {
-            "key": "CONNECT_DISCONNECT_PREVIOUS_ACC_DESC",
-            "value": "新しい端末に変更する場合、ゲームデータの引き継ぎにはアカウント連携が必要です。<br>各ソーシャルアカウントと連携できる回数はそれぞれ1回までです。変更する場合、現在連携しているソーシャルアカウントとの再連携はできません。<br>本当に続行しますか？"
-        },
-        {
-            "key": "MULTI_ROOM_SETTING_PASSWORD_DISABLE",
-            "value": "変更不可"
-        },
-        {
-            "key": "VISION_BULK_ENHANCE_CANCEL",
-            "value": "適用"
-        },
-        {
-            "key": "TIPS_BACK",
-            "value": "<< Back"
-        },
-        {
-            "key": "TIPS_NEXT",
-            "value": "Next >>"
-        },
-        {
-            "key": "STATUS_TITLE",
-            "value": "<cspace=0.6>Unit Status"
-        },
-        {
-            "key": "SUPPORT_MAIL_DESC_GL",
-            "value": "<line-height=30>Once you have submitted an inquiry, you will receive an automatic reply acknowledging your inquiry. Please check to ensure that your e-mail settings allow you to receive messages from the domain [@wotvffbe.com]. <br>*Depending on your e-mail software, the reply may be sorted into your spam folder. <br><br>The following information will be referenced in the e-mail. <br>-Player ID <br>-App Version <br>-DLC Version <br>-Player Name <br>-Device Used <br>-OS Version Used <br><br>Regarding Inquiries <br>-It may take time for a response to be sent, and depending on the nature of your question, it may not be possible for us to respond to your inquiry. <br>*The support window is unavailable during weekends, holidays, and company closures, and replies will be sent out on the following business day. <br>-We will receive/respond to your inquiry via e-mail. <br>-Regarding bugs and other inquiries that are already mentioned in our notices or on the official website, please understand that we may answer your question via public announcement. <br>-We will not respond to inquiries regarding game walkthroughs or strategies. <br>-As a general rule, we do not respond to opinions or requests about the game, but your input will be taken into consideration as reference for future developments. <br>-Responses to inquiries will be handled by gumi Inc. <br>-Please visit the following site for more information regarding gumi Inc's handling of personal information."
-        },
-        {
-            "key": "EXPENDITION_ITEM_TIMES",
-            "value": "time(s)"
-        },
-        {
-            "key": "MICROPHONE_PERMISSION_ERROR_TITLE",
-            "value": "Warning"
-        },
-        {
-            "key": "MICROPHONE_PERMISSION_ERROR_DESC",
-            "value": "In order to enable the speech-to-text feature, we need access to your microphone. Go to your device's Settings app to enable the permissions."
-        },
-        {
-            "key": "TTS_SPEECH_RATE_SLOW",
-            "value": "Slow"
-        },
-        {
-            "key": "TTS_SPEECH_RATE_NORMAL",
-            "value": "Normal"
-        },
-        {
-            "key": "TTS_SPEECH_RATE_FAST",
-            "value": "Fast"
-        },
-        {
-            "key": "PERMISSION_ANDROID_STORAGE_TITLE",
-            "value": "Permission Request"
-        },
-        {
-            "key": "PERMISSION_ANDROID_STORAGE_DESCRIPTION",
-            "value": "In order to enable various functions in the game, we need access to your storage.\\nPlease accept the permission on the next screen to proceed.\\nAlternatively, you can go to Settings to enable the permission."
-        },
-        {
-            "key": "PERMISSION_ANDROID_REQUEST",
-            "value": "Permission"
-        },
-        {
-            "key": "PERMISSION_ANDROID_SETTING",
-            "value": "Settings"
-        },
-        {
-            "key": "DAY_TEXT",
-            "value": "日"
-        },
-        {
-            "key": "HOUR_TEXT",
-            "value": "時"
-        },
-        {
-            "key": "MINUTE_TEXT",
-            "value": "分"
-        },
-        {
-            "key": "MONTH_TEXT",
-            "value": "月"
-        },
-        {
-            "key": "SECOND_TEXT",
-            "value": "秒"
-        },
-        {
-            "key": "YEAR_TEXT",
-            "value": "年"
-        },
-        {
-            "key": "POWER_SAVE",
-            "value": "クリスタルに触れて節電モード解除"
-        },
-        {
-            "key": "SORT_TITLE_AP",
-            "value": "AP"
-        },
-        {
-            "key": "SORT_TITLE_DEFENCE",
-            "value": "防御"
-        },
-        {
-            "key": "SORT_TITLE_MIND",
-            "value": "精神"
-        },
-        {
-            "key": "SORT_TITLE_DEXTERITY",
-            "value": "器用さ"
-        },
-        {
-            "key": "SORT_TITLE_LUCK",
-            "value": "運"
-        },
-        {
-            "key": "STATUS_HATE",
-            "value": "Hate"
-        },
-        {
-            "key": "ABILITY_STATUS_USE_AUTO",
-            "value": "オートアビリティでの使用"
-        },
-        {
-            "key": "ABILITY_STATUS_DETAIL",
-            "value": "詳細設定"
-        },
-        {
-            "key": "ABILITY_STATUS_DETAIL_ON",
-            "value": "詳細設定:ON"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_TITLE",
-            "value": "オートバトルでの使用"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_QUEST",
-            "value": "クエスト"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_MULTI",
-            "value": "マルチ"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_DUEL",
-            "value": "デュエル"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_GUILD",
-            "value": "ギルドバトル"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_TOWER",
-            "value": "白磁の塔"
-        },
-        {
-            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
-            "value": "ユニット選択"
-        },
-        {
-            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
-            "value": "別のパーティ（{0}）で<br>既に選択済みです。<br>それでも選択しますか？<br>（別のパーティからは<br>対象ユニットは外されます。）"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
-            "value": "通常"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
-            "value": "期間限定"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
-            "value": "編成ルール"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
-            "value": "<line-height=22>※複数の攻撃パーティーで同じユニット、武具、召喚獣、ビジョンカードの設定はできません。複数の防御パーティーについても同様です。"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
-            "value": "優先項目を選択"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
-            "value": "おまかせ対象選択"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
-            "value": "全部おまかせ"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
-            "value": "武具"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
-            "value": "ビジョンカード"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
-            "value": "召喚獣"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
-            "value": "<line-height=26>※ユニット・武具・ビジョンカード・召喚獣が、<br>設定された項目に沿って自動的に編成されます。"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
-            "value": "<line-height=26>※チェックした装備品のみ設定に沿って自動的に編成され、<br>それ以外は現在の編成がそのまま残ります。"
-        },
-        {
-            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
-            "value": "<line-height=26>※チェックを入れておくとユニット詳細画面で<br>設定したお気に入り武具が優先して編成されます。"
-        },
-        {
-            "key": "RECOMMEND_TEAM_ERROR_TITLE",
-            "value": "項目にチェックを入れてください"
-        },
-        {
-            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
-            "value": "武具、ビジョンカード、召喚獣の<br>少なくとも1つに<br>チェックを入れてください。"
-        },
-        {
-            "key": "CHAT_GUILD_FILTER_CHAT",
-            "value": "チャット"
-        },
-        {
-            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
-            "value": "バトルログ"
-        },
-        {
-            "key": "OPTION_EFFECT",
-            "value": "範囲エフェクトの表示"
-        },
-        {
-            "key": "OPTION_LAP_TITLE",
-            "value": "周回設定"
-        },
-        {
-            "key": "OPTION_LAP_LIMIT",
-            "value": "周回制限"
-        },
-        {
-            "key": "OPTION_LAP_NONE",
-            "value": "制限なし"
-        },
-        {
-            "key": "OPTION_LAP_TIMES",
-            "value": "周回数"
-        },
-        {
-            "key": "OPTION_LAP_ITEM",
-            "value": "アイテム獲得"
-        },
-        {
-            "key": "OPTION_LAP_USE_ITEM",
-            "value": "消費体力"
-        },
-        {
-            "key": "OPTION_LAP_STOP",
-            "value": "周回ストップ"
-        },
-        {
-            "key": "OPTION_LAP_FEAVER",
-            "value": "探検チョコボ Fever"
-        },
-        {
-            "key": "OPTION_LAP_CAPRICIOUS",
-            "value": "気まぐれ屋発見"
-        },
-        {
-            "key": "OPTION_LAP_RAID",
-            "value": "レイド遭遇"
-        },
-        {
-            "key": "OPTION_LAP_STOP_CAUTION",
-            "value": "※ONにしておくと演出が発生した際周回が止まります。"
-        },
-        {
-            "key": "OPTION_LAP_AP_USE",
-            "value": "自動体力回復薬使用"
-        },
-        {
-            "key": "OPTION_LAP_AP_TIMES",
-            "value": "回復回数上限"
-        },
-        {
-            "key": "OPTION_LAP_AP_CAUTION",
-            "value": "※周回中に体力が切れた場合に自動で体力を回復します。<br>※回復薬以外での体力回復は行いません。<br>※回復薬は所持しているもので回復量が大きいものより使用されます。"
-        },
-        {
-            "key": "OPTION_ITEM_TITLE",
-            "value": "アイテム選択"
-        },
-        {
             "key": "ARTI_CONDITION_TITLE",
             "value": "装備可能条件"
         },
@@ -4821,8 +4533,292 @@
             "value": "シリアルコードを取り込みました。<br>ホームに戻ります。"
         },
         {
+            "key": "DENY",
+            "value": "Deny"
+        },
+        {
+            "key": "IAP_CUR_4217",
+            "value": "EUR;CHF;USD;"
+        },
+        {
+            "key": "CURRENCY_SEPARATOR",
+            "value": "."
+        },
+        {
+            "key": "CONNECT_SELECT_ACCOUNTBINDING",
+            "value": "Account Binding"
+        },
+        {
+            "key": "TARGETADV_AGE_TITLE",
+            "value": "Age Verification"
+        },
+        {
+            "key": "TARGETADV_AGE_CONTENT",
+            "value": "You must be {0} years old and above to receive Personalized Advertising."
+        },
+        {
+            "key": "TARGETADV_AGE_YES",
+            "value": "I am {0} years old and above."
+        },
+        {
+            "key": "TARGETADV_AGE_NO",
+            "value": "I am below {0} years old."
+        },
+        {
+            "key": "TARGETADV_TITLE",
+            "value": "Advertising Consent"
+        },
+        {
+            "key": "TARGETADV_CONTENT",
+            "value": "Would you like to see Personalized or Non-Personalized Advertising?"
+        },
+        {
+            "key": "TARGETADV_OPTION_PERSO",
+            "value": "Personalized"
+        },
+        {
+            "key": "TARGETADV_OPTION_NONPERSO",
+            "value": "Non-Personalized"
+        },
+        {
+            "key": "LANGUAGE_SELECT_TITLE",
+            "value": "Language"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONTENT",
+            "value": "Please select your preferred language.<br>(You can change this later)"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONFIRM_TITLE",
+            "value": "Language Confirmation"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONFIRM_CONTENT",
+            "value": "You are switching languages from:<br><color=#F0C040>{0}</color> > <color=#00BB00>{1}</color>.<br><br>Additional downloads will be required and a connection to a Wi-Fi environment is recommended.<br><br>You will be returned to the Main Title Screen. Do you wish to proceed?"
+        },
+        {
+            "key": "NEWGAME_TITLE",
+            "value": "Start Game"
+        },
+        {
+            "key": "NEWGAME_BTN",
+            "value": "New Game"
+        },
+        {
+            "key": "CONTINUE_BTN",
+            "value": "Continue"
+        },
+        {
+            "key": "ACCOUNT_BINDING_TITLE",
+            "value": "Account Binding"
+        },
+        {
+            "key": "ACCOUNT_BINDING_APPLE",
+            "value": "Sign in with Apple"
+        },
+        {
+            "key": "ACCOUNT_BINDING_GOOGLE",
+            "value": "Sign in with Google"
+        },
+        {
+            "key": "ACCOUNT_BINDING_FACEBOOK",
+            "value": "Log in with Facebook"
+        },
+        {
+            "key": "ACCOUNT_BINDING_SQEX",
+            "value": "SQEX Account Login"
+        },
+        {
+            "key": "ACCOUNT_BINDING_GUEST",
+            "value": "Guest"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE",
+            "value": "Download Data"
+        },
+        {
+            "key": "DLC_CHECK_WW_DESC",
+            "value": "DLC Data <color=#F0C040>(Approximately {0}MB)</color><br>A <color=#F0C040>Wi-Fi connection</color> is recommended.<br>(You can change this later)"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_EN",
+            "value": "With English Voiceover"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_JA",
+            "value": "With Japanese Voiceover"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_OFF",
+            "value": "Without Voiceover (Less Data Consumption)"
+        },
+        {
+            "key": "ACCOUNT_BINDING_ERROR_TITLE",
+            "value": "Warning"
+        },
+        {
+            "key": "ACCOUNT_BINDING_ERROR_DESC",
+            "value": "<color=#F0C040>Account binding failed</color><br>Please try again"
+        },
+        {
+            "key": "FEATURE_DISABLED_CBT",
+            "value": "<color=#F0C040>Function Temporarily disabled for CBT.</color>"
+        },
+        {
+            "key": "LANG_JAPANESE",
+            "value": "Japanese"
+        },
+        {
+            "key": "LANG_ENGLISH",
+            "value": "English"
+        },
+        {
+            "key": "LANG_FRENCH",
+            "value": "French"
+        },
+        {
+            "key": "LANG_GERMAN",
+            "value": "German"
+        },
+        {
+            "key": "LANG_SPANISH",
+            "value": "Spanish"
+        },
+        {
+            "key": "LANG_KOREAN",
+            "value": "Korean"
+        },
+        {
+            "key": "LANG_CHINESE_ZH",
+            "value": "Chinese (Traditional)"
+        },
+        {
+            "key": "STATUS_NBEAST_TYPE_RARE_MONSTER",
+            "value": "Rare Monster"
+        },
+        {
+            "key": "SELECTLIST_NO_UNITS",
+            "value": "該当するユニットが存在しません"
+        },
+        {
+            "key": "ABILITY_PARTY_DETAIL_EFFECT_OVERLAP",
+            "value": "効果重複"
+        },
+        {
+            "key": "CONNECT_SELECT_SUCCESS_TITLE",
+            "value": "SNS connect success"
+        },
+        {
+            "key": "CONNECT_APPLE_TITLE",
+            "value": "Apple Connect"
+        },
+        {
+            "key": "CONNECT_DEVICE_NOT_SUPPORT_DESC",
+            "value": "Apple ID login unsuccessful. Please confirm that your Apple ID has two-factor authentication (2FA) enabled, and that you are signed into iCloud on your iOS 13 (or higher) device."
+        },
+        {
+            "key": "CONNECT_WARNING_TITLE",
+            "value": "Warning"
+        },
+        {
+            "key": "CONNECT_DISCONNECT_PREVIOUS_ACC_DESC",
+            "value": "新しい端末に変更する場合、ゲームデータの引き継ぎにはアカウント連携が必要です。<br>各ソーシャルアカウントと連携できる回数はそれぞれ1回までです。変更する場合、現在連携しているソーシャルアカウントとの再連携はできません。<br>本当に続行しますか？"
+        },
+        {
+            "key": "MULTI_ROOM_SETTING_PASSWORD_DISABLE",
+            "value": "変更不可"
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_CANCEL",
+            "value": "適用"
+        },
+        {
+            "key": "TIPS_BACK",
+            "value": "<< Back"
+        },
+        {
+            "key": "TIPS_NEXT",
+            "value": "Next >>"
+        },
+        {
+            "key": "STATUS_TITLE",
+            "value": "<cspace=0.6>Unit Status"
+        },
+        {
+            "key": "SUPPORT_MAIL_DESC_GL",
+            "value": "<line-height=30>Once you have submitted an inquiry, you will receive an automatic reply acknowledging your inquiry. Please check to ensure that your e-mail settings allow you to receive messages from the domain [@wotvffbe.com]. <br>*Depending on your e-mail software, the reply may be sorted into your spam folder. <br><br>The following information will be referenced in the e-mail. <br>-Player ID <br>-App Version <br>-DLC Version <br>-Player Name <br>-Device Used <br>-OS Version Used <br><br>Regarding Inquiries <br>-It may take time for a response to be sent, and depending on the nature of your question, it may not be possible for us to respond to your inquiry. <br>*The support window is unavailable during weekends, holidays, and company closures, and replies will be sent out on the following business day. <br>-We will receive/respond to your inquiry via e-mail. <br>-Regarding bugs and other inquiries that are already mentioned in our notices or on the official website, please understand that we may answer your question via public announcement. <br>-We will not respond to inquiries regarding game walkthroughs or strategies. <br>-As a general rule, we do not respond to opinions or requests about the game, but your input will be taken into consideration as reference for future developments. <br>-Responses to inquiries will be handled by gumi Inc. <br>-Please visit the following site for more information regarding gumi Inc's handling of personal information."
+        },
+        {
+            "key": "EXPENDITION_ITEM_TIMES",
+            "value": "time(s)"
+        },
+        {
+            "key": "MICROPHONE_PERMISSION_ERROR_TITLE",
+            "value": "Warning"
+        },
+        {
+            "key": "MICROPHONE_PERMISSION_ERROR_DESC",
+            "value": "In order to enable the speech-to-text feature, we need access to your microphone. Go to your device's Settings app to enable the permissions."
+        },
+        {
+            "key": "TTS_SPEECH_RATE_SLOW",
+            "value": "Slow"
+        },
+        {
+            "key": "TTS_SPEECH_RATE_NORMAL",
+            "value": "Normal"
+        },
+        {
+            "key": "TTS_SPEECH_RATE_FAST",
+            "value": "Fast"
+        },
+        {
+            "key": "PERMISSION_ANDROID_STORAGE_TITLE",
+            "value": "Permission Request"
+        },
+        {
+            "key": "PERMISSION_ANDROID_STORAGE_DESCRIPTION",
+            "value": "In order to enable various functions in the game, we need access to your storage.\\nPlease accept the permission on the next screen to proceed.\\nAlternatively, you can go to Settings to enable the permission."
+        },
+        {
+            "key": "PERMISSION_ANDROID_REQUEST",
+            "value": "Permission"
+        },
+        {
+            "key": "PERMISSION_ANDROID_SETTING",
+            "value": "Settings"
+        },
+        {
+            "key": "DAY_TEXT",
+            "value": "日"
+        },
+        {
+            "key": "HOUR_TEXT",
+            "value": "時"
+        },
+        {
+            "key": "MINUTE_TEXT",
+            "value": "分"
+        },
+        {
+            "key": "MONTH_TEXT",
+            "value": "月"
+        },
+        {
+            "key": "SECOND_TEXT",
+            "value": "秒"
+        },
+        {
+            "key": "YEAR_TEXT",
+            "value": "年"
+        },
+        {
             "key": "RECOMMEND_TEAM_CAUTION",
             "value": "<line-height=26>※ユニット・武具・召喚獣・ビジョンカードが、<br>設定された項目に沿って自動的に編成されます。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_LIMITBURST",
+            "value": "リミットバースト武具を優先"
         },
         {
             "key": "DEBUG_SELECT_TUTORIAL_TITLE",

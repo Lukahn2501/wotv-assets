@@ -25,6 +25,10 @@
             "value": "今はアビリティの種類も少ないですが、<br>今後モント様が成長し、多彩な技を<br>使いこなす日を楽しみにしておりますわ。"
         },
         {
+            "key": "TALK_007_GL",
+            "value": "That's all the basics you will need to know for now. Now, try progressing in the Story Mode to unlock more game modes."
+        },
+        {
             "key": "DIALOG_001_T",
             "value": "◆キューブによるユニット強化◆"
         },
@@ -94,7 +98,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "ユニット強化のチュートリアルに進みますか？"
+            "value": "ユニット強化のチュートリアルを見ますか？"
         },
         {
             "key": "SKIP_YES",
@@ -103,10 +107,6 @@
         {
             "key": "SKIP_NO",
             "value": "いいえ"
-        },
-        {
-            "key": "TALK_007_GL",
-            "value": "That's all the basics you will need to know for now. Now, try progressing in the Story Mode to unlock more game modes."
         },
         {
             "key": "TALK_007",

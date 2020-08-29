@@ -311,6 +311,46 @@
         {
             "key": "wotvffbeww.limited.exhaustion.standard.024",
             "value": "【コラボ記念】幻導石パックⅥ"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "クエスト挑戦パス"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "ユニット育成パス"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "武具育成パス"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.016",
+            "value": "コラボ記念 虹の覚醒パック"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.025",
+            "value": "【コラボ記念】幻導石パックI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.026",
+            "value": "【コラボ記念】幻導石パックⅡ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.027",
+            "value": "【コラボ記念】幻導石パックⅢ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.028",
+            "value": "【コラボ記念】幻導石パックⅣ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.029",
+            "value": "【コラボ記念】幻導石パックⅤ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.030",
+            "value": "【コラボ記念】幻導石パックⅥ"
         }
     ]
 }

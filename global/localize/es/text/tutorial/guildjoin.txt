@@ -22,11 +22,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Provisional •"
+            "value": "• Unirse a un gremio •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "¿Omitir el tutorial provisional?"
+            "value": "¿Queréis ver el tutorial sobre unirse a un gremio?"
         },
         {
             "key": "SKIP_YES",

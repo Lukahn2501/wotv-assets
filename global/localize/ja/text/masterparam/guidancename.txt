@@ -77,6 +77,10 @@
             "value": "ギルド機能３"
         },
         {
+            "key": "GuildBattle",
+            "value": "ギルドバトル"
+        },
+        {
             "key": "UnitIntimacy",
             "value": "親密度"
         },
@@ -101,20 +105,16 @@
             "value": "キャラクエスト"
         },
         {
-            "key": "GuildBattle",
-            "value": "ギルドバトル"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "同行者設定"
+            "key": "Tower",
+            "value": "タワー"
         },
         {
             "key": "ItemExchange",
             "value": "交換所"
         },
         {
-            "key": "Tower",
-            "value": "タワー"
+            "key": "SupportUnit",
+            "value": "同行者設定"
         }
     ]
 }

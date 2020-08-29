@@ -14,7 +14,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "¿Omitir el tutorial provisional?"
+            "value": "¿Queréis ver el tutorial provisional?"
         },
         {
             "key": "SKIP_YES",

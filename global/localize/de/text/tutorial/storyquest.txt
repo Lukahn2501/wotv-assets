@@ -26,11 +26,15 @@
         },
         {
             "key": "TALK_007",
-            "value": "Schicken wir eine Freundschaftsanfrage an den Söldner, der uns vorhin geholfen hat."
+            "value": "Schicken wir eine Freundschaftsanfrage an den Begleiter, der uns vorhin geholfen hat."
         },
         {
             "key": "TALK_008",
             "value": "Wollen wir zurückkehren?"
+        },
+        {
+            "key": "TALK_005_GL",
+            "value": "Damit wäre unsere Gruppe komplett. Wollen wir nun die Auto-Funktion einschalten und aufbrechen? Die Auto-Funktion kann auch während des Kampfes an-und ausgeschaltet werden."
         },
         {
             "key": "DIALOG_001_T",
@@ -95,10 +99,6 @@
         {
             "key": "SKIP_NO",
             "value": "Nein"
-        },
-        {
-            "key": "TALK_005_GL",
-            "value": "Damit wäre unsere Gruppe komplett. Wollen wir nun die Auto-Funktion einschalten und aufbrechen? Die Auto-Funktion kann auch während des Kampfes an-und ausgeschaltet werden."
         }
     ]
 }

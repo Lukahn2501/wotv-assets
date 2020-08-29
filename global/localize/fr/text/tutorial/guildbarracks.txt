@@ -22,7 +22,7 @@
         },
         {
             "key": "DIALOG_002_M",
-            "value": "• Fonctionnement de la caserne •<br>Pour utiliser la caserne, vous aurez besoin de <color=#00ffff>provisions</color>. Vous pouvez en acheter dans le menu <color=#00ffff>« Refaire le plein de provisions »</color>."
+            "value": "• Fonctionnement de la caserne •<br>Pour utiliser la caserne, vous aurez besoin de <color=#00ffff>provisions</color>. Vous pouvez en acheter dans le menu <color=#00ffff>« Réapprovisionner »</color>."
         },
         {
             "key": "DIALOG_003_T",
@@ -42,11 +42,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Texte test •"
+            "value": "• Caserne •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Passer le tutoriel de ... ?"
+            "value": "Voulez-vous lancer le tutoriel sur la caserne ?"
         },
         {
             "key": "SKIP_YES",

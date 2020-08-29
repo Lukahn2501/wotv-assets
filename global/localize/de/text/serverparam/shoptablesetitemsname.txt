@@ -250,7 +250,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_06",
-            "value": "Tägliches ERF-Würfel-Paket"
+            "value": "Tägliches ERF-Würfel-Paket B"
         },
         {
             "key": "IT_SET_3MDL_THUNDER",
@@ -667,6 +667,70 @@
         {
             "key": "IT_SET_SMVC_VE_EXP",
             "value": "Visionskartenstärkungspaket"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "Regenbogen-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "Wind-Jobverstärkungspaket (Rot)"
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "Wind-Jobverstärkungspaket (Gelb)"
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "Wind-Jobverstärkungspaket (Violett)"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "ERF-Würfel-Paket+"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "Expeditionsticketpaket+"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "Wind-Erweckungspaket (vollst.)"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "Oldoa-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "Agrias-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "[UR]-Einheiten-Limitbruchpaket"
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "Eis-Erweckungspaket+"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "Feuer-Erweckungspaket+"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "Jobverstärkung-Unterstützungspaket"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "ERF-Würfel-Paket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "Wachstumseierpaket"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "Adamantitpaket"
         }
     ]
 }

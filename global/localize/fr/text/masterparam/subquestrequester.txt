@@ -18,7 +18,7 @@
         },
         {
             "key": "SQ_WD_010103_01",
-            "value": "Fan de Chocobo"
+            "value": "Fan de chocobo"
         },
         {
             "key": "SQ_WD_010103_02",
@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "Forgeron novice"
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "Fan de chocobo"
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "Gladiateur vétéran"
         }
     ]
 }

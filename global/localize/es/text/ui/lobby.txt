@@ -65,12 +65,16 @@
             "value": "El periodo para recibir la recompensa de asalto está disponible ahora."
         },
         {
+            "key": "QLN_RAID_3",
+            "value": "¡Desafía a Ifrit!"
+        },
+        {
             "key": "QLN_TOWER_1",
             "value": "¡Estamos preparando un nuevo evento!"
         },
         {
             "key": "QLN_TOWER_3",
-            "value": "¡Consigue ya el Sable carmesí!"
+            "value": "¡Consigue ya el sable carmesí!"
         },
         {
             "key": "QLN_SUMMON_1",
@@ -91,10 +95,6 @@
         {
             "key": "CHALLENGE_OPEN_DESC",
             "value": "Ha terminado el periodo de desafío"
-        },
-        {
-            "key": "QLN_RAID_3",
-            "value": "¡Desafía a Ifrit!"
         }
     ]
 }

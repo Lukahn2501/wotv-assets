@@ -839,6 +839,18 @@
         {
             "key": "JB_LW_MST_DARK",
             "value": "Stabmagier"
+        },
+        {
+            "key": "JB_FFT_AGRA",
+            "value": "Heiliger Ritter"
+        },
+        {
+            "key": "JB_FFT_DELT",
+            "value": "Knappe"
+        },
+        {
+            "key": "JB_FFT_MSTD",
+            "value": "Maschinist"
         }
     ]
 }

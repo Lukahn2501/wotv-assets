@@ -97,22 +97,6 @@
             "value": "Tarea del lunes"
         },
         {
-            "key": "MG_FF1_1_01",
-            "value": "FINAL FANTASY I "
-        },
-        {
-            "key": "MG_FF1_1_M_01",
-            "value": "FINAL FANTASY I [Intermedio]"
-        },
-        {
-            "key": "MG_FF1_1_02",
-            "value": "FINAL FANTASY I [EX]"
-        },
-        {
-            "key": "MG_FF1_1_M_02",
-            "value": "[Multijugador] FINAL FANTASY I [EX]"
-        },
-        {
             "key": "MG_GL_DAILY_RAID_01",
             "value": "Tarea diaria de participación de asalto"
         },
@@ -149,6 +133,10 @@
             "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
         },
         {
+            "key": "MG_GL_FFT_2_CH_01",
+            "value": "[Parte II] FINAL FANTASY TACTICS"
+        },
+        {
             "key": "MG_FFT_1_01",
             "value": "FINAL FANTASY TACTICS"
         },
@@ -165,6 +153,34 @@
             "value": "FINAL FANTASY TACTICS [Intermedio]"
         },
         {
+            "key": "MG_FF1_1_01",
+            "value": "FINAL FANTASY I "
+        },
+        {
+            "key": "MG_FF1_1_M_01",
+            "value": "FINAL FANTASY I [Intermedio]"
+        },
+        {
+            "key": "MG_FF1_1_02",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FF1_1_M_02",
+            "value": "[Multijugador] FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FFT_2_01",
+            "value": "[Parte II] FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_2_02",
+            "value": "[Parte II] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_2_03",
+            "value": "[Multiijugador] [Parte II] FINAL FANTASY TACTICS [EX]"
+        },
+        {
             "key": "MG_EV_IGNT_01",
             "value": "Desafío de Férreo"
         },
@@ -179,6 +195,14 @@
         {
             "key": "MG_MU_CSLI_01",
             "value": "[Multijugador] Desafío del flan de chocolate"
+        },
+        {
+            "key": "MG_EV_OCHU_01",
+            "value": "Desafío de Ochú"
+        },
+        {
+            "key": "MG_MU_OCHU_01",
+            "value": "Desafío de Ochú"
         },
         {
             "key": "MG_EV_ART_CRF_01",
@@ -274,19 +298,19 @@
         },
         {
             "key": "MG_EV_ART_SCR_00",
-            "value": ""
-        },
-        {
-            "key": "MG_MU_ART_SCR_00",
-            "value": ""
-        },
-        {
-            "key": "MG_EV_ART_SCR_01",
             "value": "[Difícil] Misión de libro secreto"
         },
         {
-            "key": "MG_MU_ART_SCR_01",
+            "key": "MG_MU_ART_SCR_00",
             "value": "[Multijugador] [Difícil] Misión de libro secreto"
+        },
+        {
+            "key": "MG_EV_ART_SCR_01",
+            "value": "[Difícil] Misión de libro secreto I"
+        },
+        {
+            "key": "MG_MU_ART_SCR_01",
+            "value": "[Multijugador] [Difícil] Misión de libro secreto I"
         },
         {
             "key": "MG_EV_ART_SCR_02",
@@ -529,6 +553,34 @@
             "value": "[Tarea mensual] Estatuas del gremio"
         },
         {
+            "key": "MG_MONTHLY_006_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_006_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_006_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_006_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_006_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_006_6",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_006_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "Gasta visiores: bonificación de tiempo limitado"
         },
@@ -541,10 +593,6 @@
             "value": "Gasta visiores: bonificación de tiempo limitado"
         },
         {
-            "key": "MG_COMEBACK_001",
-            "value": "Tarea de regreso al juego"
-        },
-        {
             "key": "MG_LAPS_P_VNLA",
             "value": "Gasta visiores: bonificación de tiempo limitado"
         },
@@ -555,6 +603,18 @@
         {
             "key": "MG_LAPS_P_QILF",
             "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_LAPS_P_ORDR",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_LAPS_P_DELT",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_COMEBACK_001",
+            "value": "Tarea de regreso al juego"
         }
     ]
 }

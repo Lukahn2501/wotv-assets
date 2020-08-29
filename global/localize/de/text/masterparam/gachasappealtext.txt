@@ -67,6 +67,14 @@
         {
             "key": "17",
             "value": "Neue Visionskarten<br>im Blickpunkt!"
+        },
+        {
+            "key": "18",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "19",
+            "value": "FFT-Kollabo<br>Jetzt beschwören!"
         }
     ]
 }

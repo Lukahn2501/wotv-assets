@@ -111,6 +111,10 @@
         {
             "key": "Pointquest",
             "value": "「裁きの試練」に関する説明を<br>お聞きになりますか？"
+        },
+        {
+            "key": "LimitedGuildBattle",
+            "value": "「期間限定ギルドバトル」に関する説明を<br>お聞きになりますか？"
         }
     ]
 }

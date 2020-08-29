@@ -839,6 +839,18 @@
         {
             "key": "JB_LW_MST_DARK",
             "value": "Clase conjuradora a corta distancia<br><br>Esta profesión emplea el tiempo de lanzamiento para desatar ataques mágicos a distancia de gran poder. Su alta DEF le permite luchar en primera línea."
+        },
+        {
+            "key": "JB_FFT_AGRA",
+            "value": "Clase tanque mágico a corta distancia<br><br>Esta profesión de gran fortaleza puede infligir estados alterados y proteger a los aliados con habilidades como Revitalia o Barrera."
+        },
+        {
+            "key": "JB_FFT_DELT",
+            "value": "Clase atacante a corta distancia<br><br>Esta profesión suele infligir estados alterados y reducciones al atacar. Sus habilidades que dañan tanto la VIT como los PA son muy útiles, sobre todo contra luchadores cuerpo a cuerpo."
+        },
+        {
+            "key": "JB_FFT_MSTD",
+            "value": "Clase atacante a media distancia<br><br>Esta profesión ataca a distancia. Se especializa en ataques que golpean 3 veces y en infligir estados alterados como inútil o inmóvil."
         }
     ]
 }

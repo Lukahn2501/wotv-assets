@@ -46,7 +46,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "Voulez-vous lancer le tutoriel sur l'amélioration de la limite ?"
+            "value": "Voulez-vous lancer le tutoriel sur l'amélioration des limites ?"
         },
         {
             "key": "SKIP_YES",

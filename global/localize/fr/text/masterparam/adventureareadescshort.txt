@@ -1,6 +1,10 @@
 {
     "infos": [
         {
+            "key": "AD_AREA_FFT_01",
+            "value": "Zone pour la collaboration FFT ! Remportez des médailles d'événement et bien plus encore !"
+        },
+        {
             "key": "AD_AREA_WATER_01",
             "value": "Obtenez une « Magilithe bleu clair » pour vos chimères d'eau !"
         },

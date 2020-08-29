@@ -1285,6 +1285,30 @@
             "value": "Eine höchst robuste Rüstung aus Platin. Frühe Rüstungen aus diesem Material dienten hauptsächlich als Dekorationsobjekte, da sie durch ihr Gewicht als ungeeignet für den Einsatz auf dem Schlachtfeld eingestuft wurden. Doch die stete Weiterentwicklung des Schmiedehandwerks brachte letztendlich Platinrüstungen hervor, deren Leichtigkeit und Bewegungsspielraum endlich mit jener normaler Rüstungen konkurrieren konnten. Wer eine zu erstehen gedenkt, muss tief in die Tasche greifen, wird den Kauf jedoch gewiss nicht bereuen."
         },
         {
+            "key": "AF_FF1_ARM_002",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
+        },
+        {
             "key": "AF_LW_HLM_001",
             "value": "Ein aus Bronze gefertigter Helm, der den Kopf vollständig bedeckt. Zwar bietet er seinem Träger nur eingeschränkten Schutz, aber da er in der Anschaffung sehr günstig ist, stellt er Teil der Standardausrüstung für Soldaten nahezu aller Länder dar."
         },
@@ -1511,6 +1535,30 @@
         {
             "key": "AF_LW_CLT_004_5",
             "value": "Dieses vortreffliche Kleidungsstück wurde von einem Handwerker angefertigt, der selbst den kleinsten Einzelheiten größte Beachtung schenkte. Die feinen Stickereien, die den Mantel zieren, ziehen selbst diejenigen in ihren Bann, die für gewöhnlich kein Auge für solche Dinge haben. Es sorgt außerdem für einen gestärkten Geist und mentale Klarsicht bei seinem Träger."
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
         },
         {
             "key": "AF_LW_RNG_001",
@@ -1901,6 +1949,26 @@
             "value": "Ein Odachi, das einst als Dämonenschwert bekannt war, gefürchtet dafür, seine Besitzer in den Wahn zu treiben und schließlich zu vernichten. Wenngleich ein gewöhnlicher Schwertkämpfer niemals in der Lage wäre, diese Klinge zu führen, benutzt Seymore sie mit Leichtigkeit. Auch das Schwert scheint Gefallen an Seymore gefunden zu haben, weswegen sich seine Bösartigkeit nach vielen Jahren des gemeinsamen Kampfes verflüchtigte und es nun schlicht eine gepriesene Klinge ist."
         },
         {
+            "key": "AF_ACC_LW_ORDR_1",
+            "value": "Ein Lendenschurz, an dem nichts dran ist, was nicht dran sein muss, und der maximale Bewegungsfreiheit gewährt. Ursprünglich Teil einer klobigen Rüstung, wurde diese nach und nach von Oldoa entfernt, da sie nicht ihrer Ästhetik entsprach. So schön und praktisch wie sie selbst, befand Oldoa, dass es nur passend wäre, ihm ihren Namen zu geben."
+        },
+        {
+            "key": "AF_SWO_LW_LVES_1",
+            "value": "Das Schwert, das Ravesses Vater zu führen pflegte. Einst ein ganz gewöhnliches Schwert, beherbergt es nun die Mordlust seines Besitzers. Es hat die dunklen Gefühle zahlloser Schlachten in sich aufgenommen und ist auf dem besten Weg, ein verfluchtes Schwert zu werden, sollte der Blutlust nicht Einhalt geboten werden. "
+        },
+        {
+            "key": "AF_ACC_FFT_AGRA_1",
+            "value": "Die Halbrüstung der Ritterin Agrias, die der Familie Atkascha diente. Im Kontrast zu dem verstärkten Torso erinnert der weite Saum an einen luftigen Rock, ebenso elegant und graziös wie Agrias selbst."
+        },
+        {
+            "key": "AF_ARM_FFT_DELT_1",
+            "value": "Eine robuste Lederweste, die Delitas verstorbener Vater, ein Bauer auf den Ländereien des Hauses Beoulve, insgeheim für die Zukunft seines Sohnes bereitgestellt hatte. Wenngleich sie schmucklos aus verschiedenen Lederstücken gefertigt wurde, machen sie ihre Verteidigungseigenschaften und ihre Bewegungsfreiheit erstaunlich praktisch. Die Stickereien auf den Manschetten stammen von Delitas kleiner Schwester Tietra, um ihm bei seiner Aufnahme in die Akademie zu einem Hauch von Rafinesse zu verhelfen."
+        },
+        {
+            "key": "AF_GUN_FFT_MSTD_2",
+            "value": "Eine vom Maschinisten Besrudio höchstpersönlich ausgegrabene und modifizierte Pistole, die seine Inschrift trägt und von diesem an seinen Sohn Mustadio weitergegeben wurde. Die Kombination aus dem Talent ihres Besitzers und der herausragenden Leistung der Pistole selbst garantiert trotz ihres kurzen Laufs selbst auf lange Distanz erstaunliche Präzision."
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Dieses einhändig geführte Schwert wurde von einem ausschließlich für Leonis arbeitenden Waffenschmied speziell für Mont angefertigt. Geschmiedet wurde es gemäß des Prinzen Bitte nach einem Schwert, das für ihn am einfachsten zu handhaben sei. Sein Aussehen erinnert eher an das einer liebgewonnenen und ausgiebig benutzten Übungsklinge. Andere mögen zwar der Meinung sein, dass dem Prinzen eine etwas „königlicher“ anmutende Waffe besser zu Gesicht stünde. Doch Mont selber ist von seinem Schwert über alle Maßen angetan."
         },
@@ -1949,6 +2017,10 @@
             "value": ""
         },
         {
+            "key": "AF_LW_SHI_003",
+            "value": ""
+        },
+        {
             "key": "AF_SWO_FFT_RAMZ_2",
             "value": "Das Schwert, das Ramzas Vater Barbaneth für ihn fertigte, als dieser der Königlichen Militärakademie in Gariland beitrat. Die Verzierung am Griff erinnert an Barbaneths geliebte Klinge, die er während seiner eigenen Militärzeit bei sich führte."
         },
@@ -1993,6 +2065,22 @@
             "value": "Ein Schwert aus einer fernen Welt, dessen filigran verzierte Klinge an einen goldenen Sonnenstrahl erinnert, der durch die Wolken bricht. Es heißt, dass es einst von einem legendären Krieger geführt wurde, um das Chaos zu bekämpfen und die Ketten der Zeit zu durchtrennen."
         },
         {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Ein magischer Stab, der mit zahllosen Verzierungen übersät ist. Seine Form eignet sich nicht für das Schwingen mit den Händen, ist jedoch wie dafür gemacht, ihn durch den Einsatz von Magie zu kontrollieren. Kilphe benutzt diesen Stab schon viele Jahre, und er bewegt sich beinahe so, als wäre er tatsächlich am Leben. Des Weiteren ist er in der Lage, auch Kilphes unartikulierte Emotionen wahrzunehmen, weshalb er manchmal mehr tut als nur das, was ihm befohlen wurde. "
+        },
+        {
+            "key": "AF_BSW_LW_ORDR_2",
+            "value": "Ein Schwert, dessen Fokus nicht etwa auf Schlitzangriffen, sondern auf dem Niederschlagen und Zerquetschen von Gegnern liegt. Dementsprechend schwer, bedarf es gehöriger Stärke, es überhaupt in den Händen zu halten. Da es an Wucht und Verlässlichkeit seiner Besitzerin in nichts nachsteht, beschloss Oldoa kurzerhand, es nach sich selbst zu benennen. "
+        },
+        {
+            "key": "AF_SWO_FFT_AGRA_2",
+            "value": "Ein zweischneidiges, gerades Schwert, das von der königlichen Leibgarde der Familie Atkascha geführt wird. Da es breiter ist als gewöhnliche Schwerter, eignet es sich hervorragend dazu, in kritischen Momenten die Attacken des Gegners abzuwenden."
+        },
+        {
+            "key": "AF_SWO_FFT_DELT_2",
+            "value": "Das Schwert, das Ramzas Vater Barbaneth Delita zu dessen Aufnahme in die Akademie überreichte. Barbaneth erkannte das herausragende Potenzial, das in dem Jungen gewöhnlicher Herkunft schlummerte, und dieses wuchtige Schwert verkörpert seinen Wunsch, Delita zum treuen Beschützer und unerschütterlichen Vertrauten seines Sohnes heranwachsen zu sehen."
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Ein mit einem faszinierend leuchtenden Alexandrit besetzter Ring. Seine Eigenschaft, mit auftreffendem Licht seine Farbe zu ändern, brachte ihm den Titel „König der Edelsteine“ ein. Exemplare, die sich durch hohe Transparenz und Farbenreichtum auszeichnen, sind außerordentlich selten und wechseln nur gegen hohe Preise den Besitzer."
         },
@@ -2021,56 +2109,28 @@
             "value": "Das geliebte Schwert von Rain, Ritter von Grandshelt. Die prächtige Silberklinge reagiert auf die starken Emotionen ihres Besitzers und leuchtet wie eine gleißende Flamme auf. Mit seinem verjüngten Mittelteil hebt sich dieses Schwert von den meisten im Umlauf befindlichen Schwertern ab und wurde gewiss unter Einsatz einer ganz besonderen Schmiedetechnik hergestellt."
         },
         {
-            "key": "AF_LW_CLT_005",
-            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+            "key": "AF_FFT_ACC_001",
+            "value": "Ein Damenparfum, das für Charme, Reiz und Magie steht. Wird es auf die Haut aufgetragen, entfalten sich seine mysteriösen Kräfte und legen einen schützenden Schleier über die Trägerin. Bei den sanften Duftnoten überrascht es etwas, dass seine Bestandteile durch die Jagd auf den grimmigen Roten Drachen beschafft werden."
         },
         {
-            "key": "AF_LW_CLT_005_1",
-            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+            "key": "AF_FFT_ACC_001_1",
+            "value": "Ein Damenparfum, das für Charme, Reiz und Magie steht. Wird es auf die Haut aufgetragen, entfalten sich seine mysteriösen Kräfte und legen einen schützenden Schleier über die Trägerin. Anders jedoch, als man aufgrund seines sanften Duftes vermuten würde, werden seine Bestandteile durch die Jagd auf den grausamen Roten Drachen beschafft."
         },
         {
-            "key": "AF_LW_CLT_005_2",
-            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+            "key": "AF_FFT_ACC_001_2",
+            "value": "Ein Damenparfum, das für Charme, Reiz und Magie steht. Wird es auf die Haut aufgetragen, entfalten sich seine mysteriösen Kräfte und legen einen schützenden Schleier über die Trägerin. Anders jedoch, als man aufgrund seines sanften Duftes vermuten würde, werden seine Bestandteile durch die Jagd auf den grausamen Roten Drachen beschafft."
         },
         {
-            "key": "AF_LW_CLT_005_3",
-            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+            "key": "AF_FFT_ACC_001_3",
+            "value": "Ein Damenparfum, das für Charme, Reiz und Magie steht. Wird es auf die Haut aufgetragen, entfalten sich seine mysteriösen Kräfte und legen einen schützenden Schleier über die Trägerin. Anders jedoch, als man aufgrund seines sanften Duftes vermuten würde, werden seine Bestandteile durch die Jagd auf den grausamen Roten Drachen beschafft."
         },
         {
-            "key": "AF_LW_CLT_005_4",
-            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
+            "key": "AF_FFT_ACC_001_4",
+            "value": "Ein Damenparfum, das für Charme, Reiz und Magie steht. Wird es auf die Haut aufgetragen, entfalten sich seine mysteriösen Kräfte und legen einen schützenden Schleier über die Trägerin. Anders jedoch, als man aufgrund seines sanften Duftes vermuten würde, werden seine Bestandteile durch die Jagd auf den grausamen Roten Drachen beschafft."
         },
         {
-            "key": "AF_LW_CLT_005_5",
-            "value": "Eine speziell angefertigte Robe, in die Platinfasern eingewoben wurden. Obwohl sie so leicht ist, dass selbst die körperlich Schwachen sie tragen können, ermöglichen ihre defensiven Eigenschaften die Abwehr einiger Treffer auf dem Schlachtfeld, und auch an Robustheit lässt sie nichts zu wünschen übrig."
-        },
-        {
-            "key": "AF_FF1_ARM_002",
-            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
-        },
-        {
-            "key": "AF_FF1_ARM_002_1",
-            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
-        },
-        {
-            "key": "AF_FF1_ARM_002_2",
-            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
-        },
-        {
-            "key": "AF_FF1_ARM_002_3",
-            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
-        },
-        {
-            "key": "AF_FF1_ARM_002_4",
-            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
-        },
-        {
-            "key": "AF_FF1_ARM_002_5",
-            "value": "Eine Rüstung aus einer fernen Welt, deren ultramariner Grundton herrlich farbenprächtig von leuchtenden roten Ornamenten und einem gelben Umhang ergänzt wird. Sie soll von einem der legendären Krieger getragen worden sein, die einst die Welt bereisten, um den Kristallen ihr Licht wiederzubringen."
-        },
-        {
-            "key": "AF_ROD_LW_QILF_2",
-            "value": "Ein magischer Stab, der mit zahllosen Verzierungen übersät ist. Seine Form eignet sich nicht für das Schwingen mit den Händen, ist jedoch wie dafür gemacht, ihn durch den Einsatz von Magie zu kontrollieren. Kilphe benutzt diesen Stab schon viele Jahre, und er bewegt sich beinahe so, als wäre er tatsächlich am Leben. Des Weiteren ist er in der Lage, auch Kilphes unartikulierte Emotionen wahrzunehmen, weshalb er manchmal mehr tut als nur das, was ihm befohlen wurde. "
+            "key": "AF_FFT_ACC_001_5",
+            "value": "Ein Damenparfum, das für Charme, Reiz und Magie steht. Wird es auf die Haut aufgetragen, entfalten sich seine mysteriösen Kräfte und legen einen schützenden Schleier über die Trägerin. Anders jedoch, als man aufgrund seines sanften Duftes vermuten würde, werden seine Bestandteile durch die Jagd auf den grausamen Roten Drachen beschafft."
         }
     ]
 }

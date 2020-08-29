@@ -269,6 +269,26 @@
             "value": "西姆爾"
         },
         {
+            "key": "UN_LW_P_ORDR",
+            "value": "奧爾多"
+        },
+        {
+            "key": "UN_LW_P_LVES",
+            "value": "菈薇絲"
+        },
+        {
+            "key": "UN_FFT_P_AGRA",
+            "value": "阿格莉亞絲"
+        },
+        {
+            "key": "UN_FFT_P_DELT",
+            "value": "迪利塔"
+        },
+        {
+            "key": "UN_FFT_P_MSTD",
+            "value": "姆斯達迪奧"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "蒙特·雷歐尼斯"
         },
@@ -421,10 +441,6 @@
             "value": "雷因"
         },
         {
-            "key": "UN_LW_E_QILF",
-            "value": "基爾菲"
-        },
-        {
             "key": "UN_LW_E_TREL",
             "value": "泰瑞爾"
         },
@@ -447,6 +463,18 @@
         {
             "key": "UN_LW_E_DRZA",
             "value": "多魯扎"
+        },
+        {
+            "key": "UN_LW_E_QILF",
+            "value": "基爾菲"
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": "死亡機器"
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
+            "value": "死亡機器"
         },
         {
             "key": "UN_LW_E_RU_01_THI",
@@ -917,11 +945,11 @@
             "value": "僧兵"
         },
         {
-            "key": "UN_LW_E_PR_02_TIM_2",
+            "key": "UN_LW_E_PR_02_GRM",
             "value": "僧兵"
         },
         {
-            "key": "UN_LW_E_PR_02_GRM",
+            "key": "UN_LW_E_PR_02_TIM_2",
             "value": "僧兵"
         },
         {
@@ -1053,6 +1081,10 @@
             "value": "詛咒骸骨"
         },
         {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": "詛咒骸骨"
+        },
+        {
             "key": "UN_LW_E_ARMN",
             "value": "惡精靈"
         },
@@ -1149,16 +1181,12 @@
             "value": "加夫加利安"
         },
         {
-            "key": "UN_LW_E_SKEL_02_2",
-            "value": "詛咒骸骨"
+            "key": "UN_FFT_E_MSTD",
+            "value": "姆斯達迪奧"
         },
         {
-            "key": "UN_FF01_E_WRMC",
-            "value": "死亡機器"
-        },
-        {
-            "key": "UN_FF01_E_WRMC_RAID",
-            "value": "死亡機器"
+            "key": "UN_FFT_E_AGRA",
+            "value": "阿格莉亞絲"
         },
         {
             "key": "UN_LW_E_IGNT_TW_EX2",
@@ -1177,12 +1205,12 @@
             "value": "惡狼鐵兵"
         },
         {
-            "key": "UN_LW_E_IGNT_02",
-            "value": "黑鐵魔人"
-        },
-        {
             "key": "UN_LW_E_IGNT_01_QE",
             "value": "惡狼鐵兵"
+        },
+        {
+            "key": "UN_LW_E_IGNT_02",
+            "value": "黑鐵魔人"
         },
         {
             "key": "UN_LW_E_IGNT_2",
@@ -1195,14 +1223,6 @@
         {
             "key": "UN_LW_E_IGNT_BLM",
             "value": "黑魔道士（男）"
-        },
-        {
-            "key": "UN_LW_E_THDG_QE",
-            "value": "雙頭巨龍"
-        },
-        {
-            "key": "UN_LW_E_DABL",
-            "value": "迪亞波羅斯"
         },
         {
             "key": "UN_LW_E_BHMT",
@@ -1265,10 +1285,6 @@
             "value": "食腐獸"
         },
         {
-            "key": "UN_LW_E_THDG",
-            "value": "雙頭巨龍"
-        },
-        {
             "key": "UN_LW_E_SLIM",
             "value": "綠色史萊姆"
         },
@@ -1277,12 +1293,28 @@
             "value": "巧克力布丁"
         },
         {
+            "key": "UN_LW_E_CSLI_QE",
+            "value": "巧克力布丁"
+        },
+        {
             "key": "UN_LW_E_CSLI_01",
             "value": "白色棉花糖"
         },
         {
-            "key": "UN_LW_E_CSLI_QE",
-            "value": "巧克力布丁"
+            "key": "UN_LW_E_THDG",
+            "value": "雙頭巨龍"
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": "雙頭巨龍"
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": "迪亞波羅斯"
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
+            "value": "迪亞波羅斯"
         },
         {
             "key": "UN_LW_E_IFRT_SIREN",
@@ -1339,10 +1371,6 @@
         {
             "key": "UN_FF01_E_WRMC_SIREN",
             "value": "死亡機器"
-        },
-        {
-            "key": "UN_LW_E_DABL_SIREN",
-            "value": "迪亞波羅斯"
         },
         {
             "key": "UN_LW_E_ENBT",
@@ -1827,6 +1855,18 @@
         {
             "key": "UN_LW_S_DABL_AW2",
             "value": "迪亞波羅斯"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01",
+            "value": "紅陸行鳥"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW1",
+            "value": "紅陸行鳥"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW2",
+            "value": "紅陸行鳥"
         },
         {
             "key": "UN_GM_TREASURE",

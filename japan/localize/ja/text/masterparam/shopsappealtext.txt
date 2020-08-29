@@ -155,6 +155,14 @@
         {
             "key": "39",
             "value": "<line-height=15><cspace=1>夏休みCP第2弾<cspace=-0.5><br>ショップ"
+        },
+        {
+            "key": "40",
+            "value": "<line-height=15><cspace=1>サマーＣＰ<cspace=-0.5><br>ショップ第2弾！"
+        },
+        {
+            "key": "41",
+            "value": "<line-height=15><cspace=1>11章公開記念<br><cspace=-0.5>ショップ！"
         }
     ]
 }

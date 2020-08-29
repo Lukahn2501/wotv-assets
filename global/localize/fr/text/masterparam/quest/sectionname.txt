@@ -89,6 +89,10 @@
             "value": "Saison 1, Chapitre 8, Partie 1"
         },
         {
+            "key": "SE_ST_010802",
+            "value": "Saison 1, Chapitre 8, Partie 2"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "L'immense forêt du Lion"
         },
@@ -145,6 +149,10 @@
             "value": "Village de Warlmah"
         },
         {
+            "key": "SE_WD_010205",
+            "value": "Château de Wezett"
+        },
+        {
             "key": "SE_SB_01",
             "value": "Le repaire de la bête"
         },
@@ -163,6 +171,14 @@
         {
             "key": "SE_MU_SB_03",
             "value": "Défi du Chocoflan"
+        },
+        {
+            "key": "SE_SB_04",
+            "value": "Défi d'Otyugh"
+        },
+        {
+            "key": "SE_MU_SB_04",
+            "value": "Défi d'Otyugh"
         },
         {
             "key": "SE_EV_UNITEXP_01",
@@ -317,8 +333,20 @@
             "value": "Embraser la vie [EX]"
         },
         {
+            "key": "SE_EV_04_01",
+            "value": "Aux confins de l'Orient"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "Aux confins de l'Orient [EX]"
+        },
+        {
             "key": "SE_MU_EV_03_EX",
             "value": "[Multi] Embraser la vie [EX]"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "[Multi] Aux confins de l'Orient [EX]"
         },
         {
             "key": "SE_EV_SBEXP_01",
@@ -425,6 +453,18 @@
             "value": "Quête FINAL FANTASY TACTICS [EX]"
         },
         {
+            "key": "SE_EV_FFT_02_01",
+            "value": "Quête d'événement de FINAL FANTASY TACTICS [Partie II]"
+        },
+        {
+            "key": "SE_EV_FFT_02_EX",
+            "value": "Quête d'événement de FINAL FANTASY TACTICS [Partie II] EX"
+        },
+        {
+            "key": "SE_MU_FFT_02_EX",
+            "value": "Quête d'événement de FINAL FANTASY TACTICS [Partie II] EX"
+        },
+        {
             "key": "SE_EV_ART_SCR_00",
             "value": ""
         },
@@ -473,6 +513,14 @@
             "value": "Quête de soutien d'entraînement d'unité"
         },
         {
+            "key": "SE_EV_DELT_01",
+            "value": "Quête difficile limitée (Delita)"
+        },
+        {
+            "key": "SE_EV_AGRA_01",
+            "value": "Quête difficile limitée (Agrias)"
+        },
+        {
             "key": "SE_EV_RAIN_01",
             "value": "Quête difficile limitée (Rain)"
         },
@@ -493,6 +541,22 @@
             "value": "[Multi] Quête EX des fragments d'unité de Saliah [Très difficile]"
         },
         {
+            "key": "SE_EV_VNLA_01",
+            "value": "Quête difficile limitée (Vinera Fennes)"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "Quête difficile limitée (Guerrier de la lumière)"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "Quête difficile limitée (Kilphe)"
+        },
+        {
+            "key": "SE_EV_ORDR_01",
+            "value": "Quête difficile limitée (Oldoa)"
+        },
+        {
             "key": "SE_EV_ARENA_1",
             "value": "Entraînement dans l'Arène"
         },
@@ -501,11 +565,11 @@
             "value": "Quête de FF EXVIUS Universe"
         },
         {
-            "key": "SE_EV_VNLA_01",
-            "value": "Quête difficile limitée (Vinera Fennes)"
+            "key": "SE_EV_NEWMAP_001",
+            "value": "Entraînement aux combats de guilde"
         },
         {
-            "key": "SE_EV_NEWMAP_001",
+            "key": "SE_EV_NEWMAP_002",
             "value": "Entraînement aux combats de guilde"
         },
         {
@@ -521,48 +585,24 @@
             "value": "Quête FINAL FANTASY I [EX]"
         },
         {
-            "key": "SE_EV_WROL_01",
-            "value": "Quête difficile limitée (Guerrier de la lumière)"
-        },
-        {
-            "key": "SE_EV_QILF_01",
-            "value": "Quête difficile limitée (Kilphe)"
-        },
-        {
-            "key": "SE_EV_04_01",
-            "value": "Aux confins de l'Orient"
-        },
-        {
-            "key": "SE_EV_04_EX_01",
-            "value": "Aux confins de l'Orient [EX]"
-        },
-        {
-            "key": "SE_MU_EV_04_EX",
-            "value": "[Multi] Aux confins de l'Orient [EX]"
-        },
-        {
-            "key": "SE_EV_NEWMAP_002",
-            "value": "Entraînement aux combats de guilde"
-        },
-        {
             "key": "SE_CHAL_01",
             "value": "Quête de défi"
         },
         {
             "key": "SE_EV_AW_HIGH_02",
-            "value": ""
+            "value": "Salle d'entraînement (Jaune)"
         },
         {
             "key": "SE_EV_AW_HIGH_03",
-            "value": ""
+            "value": "Salle d'entraînement (Rouge)"
         },
         {
             "key": "SE_MU_AW_HIGH_02",
-            "value": ""
+            "value": "Salle d'entraînement (Jaune)"
         },
         {
             "key": "SE_MU_AW_HIGH_03",
-            "value": ""
+            "value": "Salle d'entraînement (Rouge)"
         }
     ]
 }

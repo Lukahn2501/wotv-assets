@@ -1,1 +1,9 @@
-{"quest_drop_data":[{"iname": "IT_SB_AW_FIRE", "questlist": ["QE_EV_SM_FIRE_01"]}, {"iname": "IT_SB_AW_ICE", "questlist": ["QE_EV_SM_ICE_01"]}, {"iname": "IT_SB_AW_THUNDER", "questlist": ["QE_EV_SM_THUN_01"]}, {"iname": "IT_SB_AW_WATER", "questlist": ["QE_EV_SM_WTR_01"]}, {"iname": "IT_SB_AW_WIND", "questlist": ["QE_EV_SM_WIND_01"]}, {"iname": "IT_SB_AW_SOIL", "questlist": ["QE_EV_SM_EAR_01"]}, {"iname": "IT_SB_AW_SHINE", "questlist": ["QE_EV_SM_SHIN_01"]}, {"iname": "IT_SB_AW_DARK", "questlist": ["QE_EV_SM_DARK_01"]}]}
+bTtXIYmrj5/lDgJJjnCg5fa3ejGEJ1jdSGF2ypmNZwOxGdzYR0Tjey1C0KT73g/XIeoyZrEV9EFC
+0MVQaCw4lxSxoI1PTcaYqmVeoXcYO6Z1OOIcZLZgZTIRnmhyMZEe12JYTGN91Lu+xS+H+3Ao7eWN
+kVIxWs8zQh94mz1yHZdetc1seuxtD0FmkKdaBsqKcyayHwS2ctNDN9YmB9L1169ccGepnSxVQ+in
+RZBK2uNXURztaJxFCaUqY/bb0G7dPnzSGBoX9UeAXjimqaa6iocZUVJLPSWktLwHR8M5eUKVOoCT
+TJHv1jqFdg9CENjdrbjbHpiUZmhK7eocAQKxHyS1EU+o7qEtDigthpS08Z2Hj1n9KA1INSf3MAwI
+hADOk9On0v0EtzocKmudOeqmX3MXD8O0lqw0oxaqzFbcv8RoHgKH/uCNWcKCIIrlsBxhNROXYZ9a
+VWwkXhsITPmk7Agm1W3WQCDLO0vnW2/Ik7acE2bfkB6FRvjZKONWzipe4G7hDmw/n1J0BS1fq4D0
+9gfBtnDxs5fvOtBZ531r+rHyHqElNMPAw2ybnWvS7/OIoYLnBy/Mp9mkR1lGjPVZF6GWpmUHJODE
+3zw4SkaSQ9IQVvT4hHNjE0LotvaLbKUN2IFwuLHL0Qk4Cdg3sogc7qMDYY6BcaLl19jQI1NgJbA=

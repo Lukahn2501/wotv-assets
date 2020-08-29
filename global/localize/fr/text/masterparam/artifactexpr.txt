@@ -1285,6 +1285,30 @@
             "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
         },
         {
+            "key": "AF_FF1_ARM_002",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
             "key": "AF_LW_HLM_001",
             "value": "Type d'équipement : Casque <br>Adapté à un niveau de maîtrise d'armure : E ou plus"
         },
@@ -1511,6 +1535,30 @@
         {
             "key": "AF_LW_CLT_004_5",
             "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
         },
         {
             "key": "AF_LW_RNG_001",
@@ -1901,6 +1949,26 @@
             "value": "Type d'équipement : Katana <br>Adapté à un niveau de maîtrise d'arme : B ou plus"
         },
         {
+            "key": "AF_ACC_LW_ORDR_1",
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
+        },
+        {
+            "key": "AF_SWO_LW_LVES_1",
+            "value": "Type d'équipement : Épée <br>Adapté à un niveau de maîtrise d'arme : B ou plus"
+        },
+        {
+            "key": "AF_ACC_FFT_AGRA_1",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_ARM_FFT_DELT_1",
+            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+        },
+        {
+            "key": "AF_GUN_FFT_MSTD_2",
+            "value": "Type d'équipement : Fusil <br>Adapté à un niveau de maîtrise d'arme : B ou plus"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Type d'équipement : Épée <br>Adapté à un niveau de maîtrise d'arme : B ou plus"
         },
@@ -1949,6 +2017,10 @@
             "value": "Type d'équipement : Bouclier <br>Adapté à un niveau de maîtrise d'armure : E ou plus"
         },
         {
+            "key": "AF_LW_SHI_003",
+            "value": "Type d'équipement : Bouclier <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
+        },
+        {
             "key": "AF_SWO_FFT_RAMZ_2",
             "value": "Type d'équipement : Épée <br>Adapté à un niveau de maîtrise d'arme : A ou plus"
         },
@@ -1993,6 +2065,22 @@
             "value": "Type d'équipement : Épée <br>Adapté à un niveau de maîtrise d'arme : A ou plus"
         },
         {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Type d'équipement : Bâton <br>Adapté à un niveau de maîtrise d'arme : A ou plus"
+        },
+        {
+            "key": "AF_BSW_LW_ORDR_2",
+            "value": "Type d'équipement : Spathe <br>Adapté à un niveau de maîtrise d'arme : A ou plus"
+        },
+        {
+            "key": "AF_SWO_FFT_AGRA_2",
+            "value": "Type d'équipement : Épée <br>Adapté à un niveau de maîtrise d'arme : B ou plus"
+        },
+        {
+            "key": "AF_SWO_FFT_DELT_2",
+            "value": "Type d'équipement : Épée <br>Adapté à un niveau de maîtrise d'arme : B ou plus"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : A ou plus"
         },
@@ -2021,56 +2109,28 @@
             "value": "Type d'équipement : Spathe <br>Adapté à un niveau de maîtrise d'arme : A ou plus"
         },
         {
-            "key": "AF_LW_CLT_005",
-            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+            "key": "AF_FFT_ACC_001",
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
-            "key": "AF_LW_CLT_005_1",
-            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+            "key": "AF_FFT_ACC_001_1",
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
-            "key": "AF_LW_CLT_005_2",
-            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+            "key": "AF_FFT_ACC_001_2",
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
-            "key": "AF_LW_CLT_005_3",
-            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+            "key": "AF_FFT_ACC_001_3",
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
-            "key": "AF_LW_CLT_005_4",
-            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
+            "key": "AF_FFT_ACC_001_4",
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         },
         {
-            "key": "AF_LW_CLT_005_5",
-            "value": "Type d'équipement : Tissu <br>Adapté à un niveau de maîtrise d'armure : A ou plus"
-        },
-        {
-            "key": "AF_FF1_ARM_002",
-            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
-        },
-        {
-            "key": "AF_FF1_ARM_002_1",
-            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
-        },
-        {
-            "key": "AF_FF1_ARM_002_2",
-            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
-        },
-        {
-            "key": "AF_FF1_ARM_002_3",
-            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
-        },
-        {
-            "key": "AF_FF1_ARM_002_4",
-            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
-        },
-        {
-            "key": "AF_FF1_ARM_002_5",
-            "value": "Type d'équipement : Armure <br>Adapté à un niveau de maîtrise d'armure : B ou plus"
-        },
-        {
-            "key": "AF_ROD_LW_QILF_2",
-            "value": "Type d'équipement : Bâton <br>Adapté à un niveau de maîtrise d'arme : A ou plus"
+            "key": "AF_FFT_ACC_001_5",
+            "value": "Type d'équipement : Accessoire <br>Adapté à un niveau de maîtrise d'accessoire : B ou plus"
         }
     ]
 }

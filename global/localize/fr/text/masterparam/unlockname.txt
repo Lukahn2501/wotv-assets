@@ -93,6 +93,10 @@
             "value": "Face-à-face"
         },
         {
+            "key": "SupportUnit",
+            "value": "Paramètres des personnages de soutien"
+        },
+        {
             "key": "Mission",
             "value": "Missions"
         },
@@ -105,16 +109,12 @@
             "value": "Quêtes de personnage"
         },
         {
-            "key": "ItemExchange",
-            "value": "Échange de matériaux"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "Paramètres des personnages de soutien"
-        },
-        {
             "key": "Tower",
             "value": "Tour de porcelaine"
+        },
+        {
+            "key": "ItemExchange",
+            "value": "Échange de matériaux"
         }
     ]
 }

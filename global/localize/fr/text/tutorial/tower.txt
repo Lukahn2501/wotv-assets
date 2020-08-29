@@ -14,15 +14,15 @@
         },
         {
             "key": "DIALOG_001_T",
-            "value": "◆Tour de Porcelaine I◆"
+            "value": "• Tour de porcelaine I •"
         },
         {
             "key": "DIALOG_001_M",
-            "value": "◆Tour de Porcelaine◆<br>Dans la Tour de porcelaine, vous pouvez entraîner <color=#00ffff>toutes les unités que vous possédez</color> dans une bataille à pleine puissance."
+            "value": "• Porcelain Tower •<br>Dans la Tour de porcelaine, vous pouvez entraîner <color=#00ffff>toutes les unités que vous possédez</color> dans une bataille à pleine puissance."
         },
         {
             "key": "DIALOG_002_T",
-            "value": "◆Tour de Porcelaine II◆"
+            "value": "• Tour de porcelaine II •"
         },
         {
             "key": "DIALOG_002_M",
@@ -30,7 +30,7 @@
         },
         {
             "key": "DIALOG_003_T",
-            "value": "◆Tour de Porcelaine III◆"
+            "value": "• Tour de porcelaine III •"
         },
         {
             "key": "DIALOG_003_M",
@@ -38,23 +38,23 @@
         },
         {
             "key": "DIALOG_004_T",
-            "value": "◆Tour de Porcelaine◆"
+            "value": "• Tour de porcelaine •"
         },
         {
             "key": "DIALOG_004_M",
-            "value": "◆Récompenses◆<br>Vous gagnez des récompenses chaque fois que vous <color=#00ffff>terminez un étage</color>. Vous en gagnerez à chaque fois que vous recommencerez la tour depuis le début, mais les <color=#00ffff>récompenses d'étage diffèreront d'une tentative à l'autre</color>."
+            "value": "• Récompenses •<br>Vous gagnez des récompenses chaque fois que vous <color=#00ffff>terminez un étage</color>. Vous en gagnerez à chaque fois que vous recommencerez la tour depuis le début, mais les <color=#00ffff>récompenses d'étage diffèreront d'une tentative à l'autre</color>."
         },
         {
             "key": "DIALOG_005_T",
-            "value": "◆Tour de Porcelaine◆"
+            "value": "• Tour de porcelaine •"
         },
         {
             "key": "DIALOG_005_M",
-            "value": "◆Classement◆<br>Le <color=#00ffff>classement par vitesse</color> calcule à quel rythme vous avez effectué toutes vos actions."
+            "value": "• Classement •<br>Le <color=#00ffff>classement par vitesse</color> calcule à quel rythme vous avez effectué toutes vos actions."
         },
         {
             "key": "DIALOG_006_T",
-            "value": "◆Tour de Porcelaine◆"
+            "value": "• Tour de porcelaine •"
         },
         {
             "key": "DIALOG_006_M",
@@ -62,15 +62,15 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "◆◆"
+            "value": "• Tour de porcelaine •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Passer le tutoriel pour les débutants ?"
+            "value": "Voulez-vous lancer le tutoriel sur la Tour de porcelaine ?"
         },
         {
             "key": "SKIP_YES",
-            "value": "Continuer"
+            "value": "Oui"
         },
         {
             "key": "SKIP_NO",

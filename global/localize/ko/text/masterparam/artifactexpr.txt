@@ -1285,6 +1285,30 @@
             "value": "장비 종류: 갑옷<br>적정 숙련도: A 이상"
         },
         {
+            "key": "AF_FF1_ARM_002",
+            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
+        },
+        {
             "key": "AF_LW_HLM_001",
             "value": "장비 종류: 투구<br>적정 숙련도: E 이상"
         },
@@ -1511,6 +1535,30 @@
         {
             "key": "AF_LW_CLT_004_5",
             "value": "장비 종류: 옷<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
         },
         {
             "key": "AF_LW_RNG_001",
@@ -1901,6 +1949,26 @@
             "value": "장비 종류: 도검<br>적정 숙련도: B 이상"
         },
         {
+            "key": "AF_ACC_LW_ORDR_1",
+            "value": "장비 종류: 장신구<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_SWO_LW_LVES_1",
+            "value": "장비 종류: 검<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_ACC_FFT_AGRA_1",
+            "value": "장비 종류: 갑옷<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_ARM_FFT_DELT_1",
+            "value": "장비 종류: 갑옷<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_GUN_FFT_MSTD_2",
+            "value": "장비 종류: 총<br>적정 숙련도: B 이상"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "장비 종류: 검<br>적정 숙련도: B 이상"
         },
@@ -1949,6 +2017,10 @@
             "value": "장비 종류: 방패<br>적정 숙련도: E 이상"
         },
         {
+            "key": "AF_LW_SHI_003",
+            "value": "장비 종류: 방패<br>적정 숙련도: B 이상"
+        },
+        {
             "key": "AF_SWO_FFT_RAMZ_2",
             "value": "장비 종류: 검<br>적정 숙련도: A 이상"
         },
@@ -1993,6 +2065,22 @@
             "value": "장비 종류: 검<br>적정 숙련도: A 이상"
         },
         {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "장비 종류: 지팡이<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_BSW_LW_ORDR_2",
+            "value": "장비 종류: 대검<br>적정 숙련도: A 이상"
+        },
+        {
+            "key": "AF_SWO_FFT_AGRA_2",
+            "value": "장비 종류: 검<br>적정 숙련도: B 이상"
+        },
+        {
+            "key": "AF_SWO_FFT_DELT_2",
+            "value": "장비 종류: 검<br>적정 숙련도: B 이상"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "장비 종류: 장신구<br>적정 숙련도: A 이상"
         },
@@ -2021,56 +2109,28 @@
             "value": "장비 종류: 대검<br>적정 숙련도: A 이상"
         },
         {
-            "key": "AF_LW_CLT_005",
-            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+            "key": "AF_FFT_ACC_001",
+            "value": "장비 종류: 장신구<br>적정 숙련도: B 이상"
         },
         {
-            "key": "AF_LW_CLT_005_1",
-            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+            "key": "AF_FFT_ACC_001_1",
+            "value": "장비 종류: 장신구<br>적정 숙련도: B 이상"
         },
         {
-            "key": "AF_LW_CLT_005_2",
-            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+            "key": "AF_FFT_ACC_001_2",
+            "value": "장비 종류: 장신구<br>적정 숙련도: B 이상"
         },
         {
-            "key": "AF_LW_CLT_005_3",
-            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+            "key": "AF_FFT_ACC_001_3",
+            "value": "장비 종류: 장신구<br>적정 숙련도: B 이상"
         },
         {
-            "key": "AF_LW_CLT_005_4",
-            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
+            "key": "AF_FFT_ACC_001_4",
+            "value": "장비 종류: 장신구<br>적정 숙련도: B 이상"
         },
         {
-            "key": "AF_LW_CLT_005_5",
-            "value": "장비 종류: 옷<br>적정 숙련도: A 이상"
-        },
-        {
-            "key": "AF_FF1_ARM_002",
-            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
-        },
-        {
-            "key": "AF_FF1_ARM_002_1",
-            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
-        },
-        {
-            "key": "AF_FF1_ARM_002_2",
-            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
-        },
-        {
-            "key": "AF_FF1_ARM_002_3",
-            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
-        },
-        {
-            "key": "AF_FF1_ARM_002_4",
-            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
-        },
-        {
-            "key": "AF_FF1_ARM_002_5",
-            "value": "장비 종류: 갑옷<br>적정 숙련도: B 이상"
-        },
-        {
-            "key": "AF_ROD_LW_QILF_2",
-            "value": "장비 종류: 지팡이<br>적정 숙련도: A 이상"
+            "key": "AF_FFT_ACC_001_5",
+            "value": "장비 종류: 장신구<br>적정 숙련도: B 이상"
         }
     ]
 }

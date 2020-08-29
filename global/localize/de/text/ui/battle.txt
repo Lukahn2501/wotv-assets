@@ -65,6 +65,10 @@
             "value": "Wiederholen"
         },
         {
+            "key": "MENU_SKIP",
+            "value": "Überspr."
+        },
+        {
             "key": "MENU_SPEED_DEFAULT",
             "value": "Normal"
         },
@@ -279,6 +283,14 @@
         {
             "key": "RESULT_DIALOG_REMATCH_DESC",
             "value": "Wenn du „Ja“ auswählst, wird die Sequenz nach dem bestandenen Auftrag übersprungen."
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "Zusätzliche ★ erhalten."
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "<color=#F0C040>★ x{0}</color> erhalten, da dieser Spieler<br>keine Defensiv-Gruppe festgelegt hatte."
         },
         {
             "key": "INTIMACYUP_BONUS_TITLE",
@@ -619,18 +631,6 @@
         {
             "key": "BATTLE_HEIGHT_ABBREV",
             "value": "H"
-        },
-        {
-            "key": "MENU_SKIP",
-            "value": "Überspringen"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_TITLE",
-            "value": "Zusätzliche ★ erhalten."
-        },
-        {
-            "key": "LIMITED_GB_RESULT_DESC",
-            "value": "<color=#F0C040>★ x{0}</color> erhalten, da dieser Spieler<br>keine Defensiv-Gruppe festgelegt hatte."
         },
         {
             "key": "RESULT_RETRY",

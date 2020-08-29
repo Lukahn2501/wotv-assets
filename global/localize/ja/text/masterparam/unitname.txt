@@ -269,6 +269,26 @@
             "value": "シムール"
         },
         {
+            "key": "UN_LW_P_ORDR",
+            "value": "オルドア"
+        },
+        {
+            "key": "UN_LW_P_LVES",
+            "value": "ラヴィエス"
+        },
+        {
+            "key": "UN_FFT_P_AGRA",
+            "value": "アグリアス"
+        },
+        {
+            "key": "UN_FFT_P_DELT",
+            "value": "ディリータ"
+        },
+        {
+            "key": "UN_FFT_P_MSTD",
+            "value": "ムスタディオ"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "モント・リオニス"
         },
@@ -421,10 +441,6 @@
             "value": "レイン"
         },
         {
-            "key": "UN_LW_E_QILF",
-            "value": "キルフェ"
-        },
-        {
             "key": "UN_LW_E_TREL",
             "value": "ティレル"
         },
@@ -447,6 +463,18 @@
         {
             "key": "UN_LW_E_DRZA",
             "value": "ドルーザ"
+        },
+        {
+            "key": "UN_LW_E_QILF",
+            "value": "キルフェ"
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": "デスマシーン"
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
+            "value": "デスマシーン"
         },
         {
             "key": "UN_LW_E_RU_01_THI",
@@ -917,11 +945,11 @@
             "value": "僧兵"
         },
         {
-            "key": "UN_LW_E_PR_02_TIM_2",
+            "key": "UN_LW_E_PR_02_GRM",
             "value": "僧兵"
         },
         {
-            "key": "UN_LW_E_PR_02_GRM",
+            "key": "UN_LW_E_PR_02_TIM_2",
             "value": "僧兵"
         },
         {
@@ -1053,6 +1081,10 @@
             "value": "カースドスカル"
         },
         {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": "カースドスカル"
+        },
+        {
             "key": "UN_LW_E_ARMN",
             "value": "アーリマン"
         },
@@ -1149,16 +1181,12 @@
             "value": "ガフガリオン"
         },
         {
-            "key": "UN_LW_E_SKEL_02_2",
-            "value": "カースドスカル"
+            "key": "UN_FFT_E_MSTD",
+            "value": "ムスタディオ"
         },
         {
-            "key": "UN_FF01_E_WRMC",
-            "value": "デスマシーン"
-        },
-        {
-            "key": "UN_FF01_E_WRMC_RAID",
-            "value": "デスマシーン"
+            "key": "UN_FFT_E_AGRA",
+            "value": "アグリアス"
         },
         {
             "key": "UN_LW_E_IGNT_TW_EX2",
@@ -1177,12 +1205,12 @@
             "value": "ウルフラマイター"
         },
         {
-            "key": "UN_LW_E_IGNT_02",
-            "value": "黒鉄魔人"
-        },
-        {
             "key": "UN_LW_E_IGNT_01_QE",
             "value": "ウルフラマイター"
+        },
+        {
+            "key": "UN_LW_E_IGNT_02",
+            "value": "黒鉄魔人"
         },
         {
             "key": "UN_LW_E_IGNT_2",
@@ -1195,14 +1223,6 @@
         {
             "key": "UN_LW_E_IGNT_BLM",
             "value": "黒魔道士（男）"
-        },
-        {
-            "key": "UN_LW_E_THDG_QE",
-            "value": "２ヘッドドラゴン"
-        },
-        {
-            "key": "UN_LW_E_DABL",
-            "value": "ディアボロス"
         },
         {
             "key": "UN_LW_E_BHMT",
@@ -1265,10 +1285,6 @@
             "value": "オチュー"
         },
         {
-            "key": "UN_LW_E_THDG",
-            "value": "２ヘッドドラゴン"
-        },
-        {
             "key": "UN_LW_E_SLIM",
             "value": "グリーンスライム"
         },
@@ -1277,12 +1293,28 @@
             "value": "チョコプリン"
         },
         {
+            "key": "UN_LW_E_CSLI_QE",
+            "value": "チョコプリン"
+        },
+        {
             "key": "UN_LW_E_CSLI_01",
             "value": "ホワイトマシュマロ"
         },
         {
-            "key": "UN_LW_E_CSLI_QE",
-            "value": "チョコプリン"
+            "key": "UN_LW_E_THDG",
+            "value": "２ヘッドドラゴン"
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": "２ヘッドドラゴン"
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": "ディアボロス"
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
+            "value": "ディアボロス"
         },
         {
             "key": "UN_LW_E_IFRT_SIREN",
@@ -1339,10 +1371,6 @@
         {
             "key": "UN_FF01_E_WRMC_SIREN",
             "value": "デスマシーン"
-        },
-        {
-            "key": "UN_LW_E_DABL_SIREN",
-            "value": "ディアボロス"
         },
         {
             "key": "UN_LW_E_ENBT",
@@ -1827,6 +1855,18 @@
         {
             "key": "UN_LW_S_DABL_AW2",
             "value": "ディアボロス"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01",
+            "value": "赤チョコボ"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW1",
+            "value": "赤チョコボ"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW2",
+            "value": "赤チョコボ"
         },
         {
             "key": "UN_GM_TREASURE",

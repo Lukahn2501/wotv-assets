@@ -1397,22 +1397,6 @@
             "value": "Les conditions de formation du groupe ne sont pas remplies."
         },
         {
-            "key": "ALREADY_CONNECTED",
-            "value": "Le compte de cette plateforme est déjà relié à un autre compte joueur."
-        },
-        {
-            "key": "SNS_ACCOUNT_LIMIT_REACHED",
-            "value": "Limite maximum d'association à un compte social atteinte"
-        },
-        {
-            "key": "SNS_CONNECTION_LIMIT_REACHED",
-            "value": "Limite maximum de connexion à un réseau social atteinte"
-        },
-        {
-            "key": "SNS_LIMIT_REACHED",
-            "value": "Limite d'association à un compte social atteinte"
-        },
-        {
             "key": "APP_ERROR_5201",
             "value": "Code inexistant."
         },
@@ -1443,6 +1427,38 @@
         {
             "key": "APP_ERROR_5302",
             "value": "Le groupe a été modifié. Veuillez rafraîchir et réessayer."
+        },
+        {
+            "key": "ALREADY_CONNECTED",
+            "value": "Le compte de cette plateforme est déjà relié à un autre compte joueur."
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "Limite maximum d'association à un compte social atteinte"
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "Limite maximum de connexion à un réseau social atteinte"
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "Limite d'association à un compte social atteinte"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_TITLE",
+            "value": "Suspension temporaire"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_TITLE",
+            "value": "Suspension définitive"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_MESSAGE",
+            "value": "Votre compte a été suspendu jusqu'au {0}, heure universelle (PST).<br><br>Pour davantage d'informations, veuillez contacter le service client depuis l'écran titre en vous rendant sur [Aide] > [Nous contacter]."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE",
+            "value": "Votre compte a été suspendu.<br><br>Pour davantage d'informations, veuillez contacter le service client depuis l'écran titre en vous rendant sur [Aide] > [Nous contacter]."
         }
     ]
 }

@@ -1525,6 +1525,46 @@
             "value": "為すべきこと"
         },
         {
+            "key": "QE_ST_01110101",
+            "value": "声なき答え"
+        },
+        {
+            "key": "QE_ST_01110102",
+            "value": "でも僕は戦う１"
+        },
+        {
+            "key": "QE_ST_01110103",
+            "value": "でも僕は戦う２"
+        },
+        {
+            "key": "QE_ST_01110104",
+            "value": "勝機はある"
+        },
+        {
+            "key": "QE_ST_01110105",
+            "value": "突入１"
+        },
+        {
+            "key": "QE_ST_01110106",
+            "value": "突入２"
+        },
+        {
+            "key": "QE_ST_01110107",
+            "value": "最後の手"
+        },
+        {
+            "key": "QE_ST_01110108",
+            "value": "証拠１"
+        },
+        {
+            "key": "QE_ST_01110109",
+            "value": "証拠２"
+        },
+        {
+            "key": "QE_ST_01110110",
+            "value": "反旗"
+        },
+        {
             "key": "QE_HA_LW_MONT",
             "value": "欠片獲得 モント・リオニス"
         },
@@ -2161,6 +2201,10 @@
             "value": "ローザ"
         },
         {
+            "key": "QE_CH_LW_KTON_01",
+            "value": "キトン（水着）"
+        },
+        {
             "key": "QE_EV_1100DL_FIR",
             "value": "1100万DL記念クエスト（火）"
         },
@@ -2327,6 +2371,10 @@
         {
             "key": "QE_EV_ROSA_01",
             "value": "限定ハードクエスト（ローザ）"
+        },
+        {
+            "key": "QE_EV_KTON_01",
+            "value": "限定ハードクエスト（キトン（水着））"
         },
         {
             "key": "QE_PT_001_01",
@@ -2645,6 +2693,30 @@
             "value": "FINAL FANTASY Ⅳ 【EX2】"
         },
         {
+            "key": "QE_EV_ART_CRF_13",
+            "value": "武具育成クエスト（癒しのメイス）"
+        },
+        {
+            "key": "QE_EV_ART_CRF_14",
+            "value": "武具育成クエスト（ラス・アルゲテイ）"
+        },
+        {
+            "key": "QE_EV_ART_CRF_15",
+            "value": "武具育成クエスト（佐助の刀）"
+        },
+        {
+            "key": "QE_EV_ART_CRF_10",
+            "value": "超高難度　武具育成クエスト（癒しのメイス）"
+        },
+        {
+            "key": "QE_EV_ART_CRF_11",
+            "value": "超高難度　武具育成クエスト（ラス・アルゲテイ）"
+        },
+        {
+            "key": "QE_EV_ART_CRF_12",
+            "value": "超高難度　武具育成クエスト（佐助の刀）"
+        },
+        {
             "key": "QE_EV_ART_CRF_07",
             "value": "武具育成クエスト（プラチナメイス）"
         },
@@ -2759,6 +2831,14 @@
         {
             "key": "QE_EV_05_EX2",
             "value": "ゴウガとサイガ　前編 【EX2】"
+        },
+        {
+            "key": "QE_SB_SHIV_02",
+            "value": "高難度 シヴァチャレンジ"
+        },
+        {
+            "key": "QE_SB_SHIV_03",
+            "value": "超高難度 シヴァチャレンジ"
         },
         {
             "key": "QE_SB_FNRR_02",
@@ -3441,6 +3521,10 @@
             "value": "チョコボ戦"
         },
         {
+            "key": "QE_SB_TNBR_01",
+            "value": "トンベリ戦"
+        },
+        {
             "key": "QE_MU_EV_FF1_EX",
             "value": "FINAL FANTASY I 【EX】"
         },
@@ -3467,6 +3551,34 @@
         {
             "key": "QE_MU_FF4_EX_02",
             "value": "FINAL FANTASY Ⅳ 【EX2】"
+        },
+        {
+            "key": "QE_MU_SHIV_04",
+            "value": "超高難度 シヴァチャレンジ"
+        },
+        {
+            "key": "QE_MU_ART_CRF_13",
+            "value": "武具育成クエスト（癒しのメイス）"
+        },
+        {
+            "key": "QE_MU_ART_CRF_14",
+            "value": "武具育成クエスト（ラス・アルゲテイ）"
+        },
+        {
+            "key": "QE_MU_ART_CRF_15",
+            "value": "武具育成クエスト（佐助の刀）"
+        },
+        {
+            "key": "QE_MU_ART_CRF_10",
+            "value": "超高難度　武具育成クエスト（癒しのメイス）"
+        },
+        {
+            "key": "QE_MU_ART_CRF_11",
+            "value": "超高難度　武具育成クエスト（ラス・アルゲテイ）"
+        },
+        {
+            "key": "QE_MU_ART_CRF_12",
+            "value": "超高難度　武具育成クエスト（佐助の刀）"
         },
         {
             "key": "QE_MU_ART_CRF_07",
@@ -3885,6 +3997,10 @@
             "value": "雪山"
         },
         {
+            "key": "QE_ARENA_00009",
+            "value": "海岸"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "闘技場"
         },
@@ -3931,6 +4047,10 @@
         {
             "key": "QE_PVP_FRE_0004",
             "value": "城内"
+        },
+        {
+            "key": "QE_PVP_FRI_0012",
+            "value": "海岸"
         },
         {
             "key": "QE_PVP_FRI_0011",

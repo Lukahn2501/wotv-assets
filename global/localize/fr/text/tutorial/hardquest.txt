@@ -50,7 +50,7 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Amélioration des limites •"
+            "value": "• Quêtes difficiles •"
         },
         {
             "key": "SKIP_MSG",

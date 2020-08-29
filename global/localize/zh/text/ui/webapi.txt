@@ -1397,22 +1397,6 @@
             "value": "違反編配規則。"
         },
         {
-            "key": "ALREADY_CONNECTED",
-            "value": "此社群平台的指定帳號已經綁定至另一個玩家帳號。"
-        },
-        {
-            "key": "SNS_ACCOUNT_LIMIT_REACHED",
-            "value": "社群帳號已達上限"
-        },
-        {
-            "key": "SNS_CONNECTION_LIMIT_REACHED",
-            "value": "社群帳號連線數已達上限"
-        },
-        {
-            "key": "SNS_LIMIT_REACHED",
-            "value": "社群已達上限"
-        },
-        {
             "key": "APP_ERROR_5201",
             "value": "不存在的號碼。"
         },
@@ -1443,6 +1427,38 @@
         {
             "key": "APP_ERROR_5302",
             "value": "隊伍變更。請於更新後再試一次。"
+        },
+        {
+            "key": "ALREADY_CONNECTED",
+            "value": "此社群平台的指定帳號已經綁定至另一個玩家帳號。"
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "社群帳號已達上限"
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "社群帳號連線數已達上限"
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "社群已達上限"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_TITLE",
+            "value": "暫時停權"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_TITLE",
+            "value": "永久停權"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_MESSAGE",
+            "value": "您的帳號已被封鎖至{0} 世界時間(PST)。<br><br>欲知詳情，請由標題畫面的「支援服務」＞「諮詢」與客服聯繫。"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE",
+            "value": "您的帳號已被封鎖。<br><br>欲知詳情，請由標題畫面的「支援服務」＞「諮詢」與客服聯繫。"
         }
     ]
 }

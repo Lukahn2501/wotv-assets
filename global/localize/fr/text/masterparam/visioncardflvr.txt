@@ -65,12 +65,12 @@
             "value": "　Quatre sœurs féériques apportées par le vent. Elles portent sur leurs têtes déjà dotées d'ailes magnifiques et d'un plumage sans pareil un diadème d'or étincelant. Les humains se laissent facilement séduire par la beauté de leurs plumes. Prudence, cependant, car les approcher à la légère a tendance à les rendre folles de rage et il est généralement recommandé de ne pas essayer. Les vents provoqués par le battement de leurs ailes peuvent s'associer pour former des tornades impressionnantes. Ensemble, elles sont plus puissantes que toutes les autres fées."
         },
         {
-            "key": "VC_LW_THDG",
-            "value": "　Un gigantesque dragon à deux têtes dont le corps est recouvert d'écailles dorées. Avec son souffle ardent, ses griffes et sa queue, son apparence et ses attaques font penser à un dragon ordinaire à ceci près qu'il possède deux têtes, détail que tout valeureux qui ose se mettre en travers de son chemin se doit de prendre en considération.<br>Il pourrait se servir de l'une de ses têtes pour faire diversion grâce à son souffle ardent et vous attaquer avec la deuxième sans ménagement.<br>Si vous n'avez d'autre choix que de lui faire face, assurez-vous de mettre en place de solides stratégies de contre-attaque si vous souhaitez décrocher la victoire."
-        },
-        {
             "key": "VC_MBFF_MV1",
             "value": "« Le Guerrier de la lumière vaincra le Chaos et sauvera le monde. »<br>La prophétie au cœur de la légende... a omis d'en narrer la fin. Oui, le Chaos qui avait plongé l'humanité dans la désolation fut détruit, mais le héros qui avait ravivé la lueur d'espoir disparut.<br><br>À cause de vous, en effet.<br><br>C'est vous qui avez mis fin à la légende du « Guerrier de la lumière ».<br>Le nom qu'on VOUS donna pour vos actions héroïques...<br>sombra dans l'oubli.<br><br>Mais le peuple amnésique murmure encore.<br><br>On dit qu'il existe un être qui transforma ce monde jadis si beau et rempli d'optimisme.<br><br>« Le Guerrier du désespoir », inconnu de tous.<br>À une époque privée de récits épiques, le monde a soif... de légende."
+        },
+        {
+            "key": "VC_LW_THDG",
+            "value": "　Un gigantesque dragon à deux têtes dont le corps est recouvert d'écailles dorées. Avec son souffle ardent, ses griffes et sa queue, son apparence et ses attaques font penser à un dragon ordinaire à ceci près qu'il possède deux têtes, détail que tout valeureux qui ose se mettre en travers de son chemin se doit de prendre en considération.<br>Il pourrait se servir de l'une de ses têtes pour faire diversion grâce à son souffle ardent et vous attaquer avec la deuxième sans ménagement.<br>Si vous n'avez d'autre choix que de lui faire face, assurez-vous de mettre en place de solides stratégies de contre-attaque si vous souhaitez décrocher la victoire."
         },
         {
             "key": "VC_FF01_DMAC",
@@ -79,6 +79,14 @@
         {
             "key": "VC_LW_CBVPARTY1",
             "value": "« Tiens, Dario. »<br>« Hmm... ! Quel délice ! Vinera, tu cuisines vraiment bien. »<br>« Eh bien, j'ai eu le temps de m'entraîner avant de te rencontrer... Et ce n'est pas fini. Je vais chercher la suite. »<br>« Vinera, attends. Je vais le faire. Repose-toi, d'accord ? »<br>« Mais Dario, ta santé... »<br>« Ne t'inquiète pas pour ça. Je me sens très bien aujourd'hui. C'est sûrement grâce à la présence de toutes ces fleurs magnifiques. »<br>« Dario... merci... Je suis... tellement heureuse... »<br>« Moi aussi. J'espère que nous les admirerons ensemble encore longtemps, qu'importe le temps qui passe. »<br>« Moi aussi... »"
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "　Originaire du monde des ténèbres, Diabolos est réputé pour son intelligence affûtée et sa malice sans pareille. Bien qu'il lui arrive de conclure des marchés avec certains invocateurs en échange de la réalisation de leurs vœux, il n'est pas rare que des clauses véreuses se glissent dans les termes de ses contrats. Il n'hésite pas à tirer profit de la vulnérabilité des autres lorsqu'il passe un marché, allant jusqu'à mettre leurs vies en jeu."
+        },
+        {
+            "key": "VC_FFT_MV3",
+            "value": "« J'imagine qu'il y a certaines choses auxquelles on ne peut rien, Ramza, quoi qu'on fasse. »<br>« Ne dis pas ça ! Avec assez d'effort... »<br>« Pourrais-je être Général si je fournissais les efforts nécessaires ? Je veux sauver Tietra par moi-même, mais j'ai les mains liées. Je suis ''inutile''... »<br>« ... »<br>« Tu te souviens quand père nous a appris à jouer avec un simple brin d'herbe ? »"
         },
         {
             "key": "VC_LW_IGNT",
@@ -159,6 +167,10 @@
         {
             "key": "VC_LW_VNLA2",
             "value": "　Le mariage de Dario, prince de Hourne, avec Vinera, princesse de Fennes, était une union politique vouée à réconcilier deux nations hostiles. Mais un complot sinistre se nouait dans l'ombre.<br>Malgré les sourires forcés de la foule de Hourne et Fennes le jour des noces, personne ne pariait sur le bonheur de ce mariage... si ce n'est le prince et la princesse eux-mêmes.<br>Ils n'avaient pas la moindre idée de l'apparence ni de la personnalité de l'autre avant de s'unir et se rencontrèrent pour la première fois juste avant la cérémonie. Ils n'aspiraient ni l'un ni l'autre à être ensemble, mais bien que leur relation fût alourdie par les obligations et les responsabilités, Dario passa les bras autour de Vinera et l'accueillit comme sa femme, et celle-ci lui ouvrit un peu plus son cœur chaque fois qu'il fit preuve de cette bonté par la suite.<br>Nonobstant les circonstances et les ambitions qui menèrent à leur mariage, il finit par unir ces deux âmes par des liens indéfectibles."
+        },
+        {
+            "key": "VC_FFT_MV2",
+            "value": "　On reconnaît les chocobos à leur bouffante couverture de plumes jaunes. En réalité, leur plumage peut arborer différentes couleurs selon des facteurs héréditaires et environnementaux. Parmi eux, les chocobos rouges sont connus pour être particulièrement irascibles et agressifs, caractère en accord certain avec la teinte de leur manteau.<br>Comme beaucoup de chocobos, la variété rouge vit près d'une rivière dans un monde lointain. On raconte que leurs puissantes pattes leur permettent de se déplacer librement même sur les terrains les moins praticables et qu'ils sont capables d'invoquer de petites météorites. Ceux qui les ont croisés au cours de leurs périples les décrivent avant tout comme des créatures effrayantes."
         },
         {
             "key": "VC_LW_CACT",
@@ -255,10 +267,6 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "　Une Relique séculaire rappelant un miroir, au travers duquel il est possible d'observer des contrées lointaines. Il est orné d'une figure ailée au bras de laquelle est posé une oiseau de proie. "
-        },
-        {
-            "key": "VC_LW_DABL",
-            "value": "　Originaire du monde des ténèbres, Diabolos est réputé pour son intelligence affûtée et sa malice sans pareille. Bien qu'il lui arrive de conclure des marchés avec certains invocateurs en échange de la réalisation de leurs vœux, il n'est pas rare que des clauses véreuses se glissent dans les termes de ses contrats. Il n'hésite pas à tirer profit de la vulnérabilité des autres lorsqu'il passe un marché, allant jusqu'à mettre leurs vies en jeu."
         },
         {
             "key": "VC_EXP_01",

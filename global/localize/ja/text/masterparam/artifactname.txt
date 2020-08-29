@@ -1285,6 +1285,30 @@
             "value": "プラチナアーマー+5"
         },
         {
+            "key": "AF_FF1_ARM_002",
+            "value": "アーマーオブライト"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "アーマーオブライト+1"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "アーマーオブライト+2"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "アーマーオブライト+3"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "アーマーオブライト+4"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "アーマーオブライト+5"
+        },
+        {
             "key": "AF_LW_HLM_001",
             "value": "ブロンズヘルム"
         },
@@ -1511,6 +1535,30 @@
         {
             "key": "AF_LW_CLT_004_5",
             "value": "インテリコート+5"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "プラチナローブ"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "プラチナローブ+1"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "プラチナローブ+2"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "プラチナローブ+3"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "プラチナローブ+4"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "プラチナローブ+5"
         },
         {
             "key": "AF_LW_RNG_001",
@@ -1901,6 +1949,26 @@
             "value": "滅却の大太刀"
         },
         {
+            "key": "AF_ACC_LW_ORDR_1",
+            "value": "オルドアンエプロン"
+        },
+        {
+            "key": "AF_SWO_LW_LVES_1",
+            "value": "ホロウスレイヴ"
+        },
+        {
+            "key": "AF_ACC_FFT_AGRA_1",
+            "value": "ホーリーナイトアーマー"
+        },
+        {
+            "key": "AF_ARM_FFT_DELT_1",
+            "value": "エンデュランスベスト"
+        },
+        {
+            "key": "AF_GUN_FFT_MSTD_2",
+            "value": "ベスロディオ"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "リオンズソード"
         },
@@ -1949,6 +2017,10 @@
             "value": "エンゲルベルト盾"
         },
         {
+            "key": "AF_LW_SHI_003",
+            "value": "ラヴィエス盾"
+        },
+        {
             "key": "AF_SWO_FFT_RAMZ_2",
             "value": "インテグリティソード"
         },
@@ -1993,6 +2065,22 @@
             "value": "ソードオブライト"
         },
         {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "ファントムケーン"
+        },
+        {
+            "key": "AF_BSW_LW_ORDR_2",
+            "value": "オルドアンソード"
+        },
+        {
+            "key": "AF_SWO_FFT_AGRA_2",
+            "value": "FFTアグリアス"
+        },
+        {
+            "key": "AF_SWO_FFT_DELT_2",
+            "value": "FFTディリータ"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "アレキサンドライトの指輪"
         },
@@ -2021,56 +2109,28 @@
             "value": "クリムゾンセイバー"
         },
         {
-            "key": "AF_LW_CLT_005",
-            "value": "プラチナローブ"
+            "key": "AF_FFT_ACC_001",
+            "value": "ソルティレージュ"
         },
         {
-            "key": "AF_LW_CLT_005_1",
-            "value": "プラチナローブ+1"
+            "key": "AF_FFT_ACC_001_1",
+            "value": "ソルティレージュ+1"
         },
         {
-            "key": "AF_LW_CLT_005_2",
-            "value": "プラチナローブ+2"
+            "key": "AF_FFT_ACC_001_2",
+            "value": "ソルティレージュ+2"
         },
         {
-            "key": "AF_LW_CLT_005_3",
-            "value": "プラチナローブ+3"
+            "key": "AF_FFT_ACC_001_3",
+            "value": "ソルティレージュ+3"
         },
         {
-            "key": "AF_LW_CLT_005_4",
-            "value": "プラチナローブ+4"
+            "key": "AF_FFT_ACC_001_4",
+            "value": "ソルティレージュ+4"
         },
         {
-            "key": "AF_LW_CLT_005_5",
-            "value": "プラチナローブ+5"
-        },
-        {
-            "key": "AF_FF1_ARM_002",
-            "value": "アーマーオブライト"
-        },
-        {
-            "key": "AF_FF1_ARM_002_1",
-            "value": "アーマーオブライト+1"
-        },
-        {
-            "key": "AF_FF1_ARM_002_2",
-            "value": "アーマーオブライト+2"
-        },
-        {
-            "key": "AF_FF1_ARM_002_3",
-            "value": "アーマーオブライト+3"
-        },
-        {
-            "key": "AF_FF1_ARM_002_4",
-            "value": "アーマーオブライト+4"
-        },
-        {
-            "key": "AF_FF1_ARM_002_5",
-            "value": "アーマーオブライト+5"
-        },
-        {
-            "key": "AF_ROD_LW_QILF_2",
-            "value": "ファントムケーン"
+            "key": "AF_FFT_ACC_001_5",
+            "value": "ソルティレージュ+5"
         }
     ]
 }

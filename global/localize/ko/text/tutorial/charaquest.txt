@@ -30,19 +30,19 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "◆ダミー◆"
+            "value": "◆캐릭터 퀘스트◆"
         },
         {
             "key": "SKIP_MSG",
-            "value": "ダミーのチュートリアルをスキップしますか？"
+            "value": "캐릭터 퀘스트에 관한 설명을 보시겠습니까?"
         },
         {
             "key": "SKIP_YES",
-            "value": "본다"
+            "value": "네"
         },
         {
             "key": "SKIP_NO",
-            "value": "보지 않는다"
+            "value": "아니요"
         }
     ]
 }

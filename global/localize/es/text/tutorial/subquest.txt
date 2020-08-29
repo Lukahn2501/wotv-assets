@@ -26,11 +26,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Provisional •"
+            "value": "• Misiones secundarias •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "¿Omitir el tutorial provisional?"
+            "value": "¿Queréis ver el tutorial sobre las misiones secundarias?"
         },
         {
             "key": "SKIP_YES",

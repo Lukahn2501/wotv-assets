@@ -97,22 +97,6 @@
             "value": "Montagsmission"
         },
         {
-            "key": "MG_FF1_1_01",
-            "value": "FINAL FANTASY I "
-        },
-        {
-            "key": "MG_FF1_1_M_01",
-            "value": "FINA FANTASY I [Geübt]"
-        },
-        {
-            "key": "MG_FF1_1_02",
-            "value": "FINAL FANTASY I [EX]"
-        },
-        {
-            "key": "MG_FF1_1_M_02",
-            "value": "[Multi] FINAL FANTASY I [EX]"
-        },
-        {
             "key": "MG_GL_DAILY_RAID_01",
             "value": "[Tagesmission] Kraftproben-Teilnahme"
         },
@@ -149,6 +133,10 @@
             "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
         },
         {
+            "key": "MG_GL_FFT_2_CH_01",
+            "value": "[Runde 2] FINAL FANTASY TACTICS"
+        },
+        {
             "key": "MG_FFT_1_01",
             "value": "FINAL FANTASY TACTICS"
         },
@@ -165,6 +153,34 @@
             "value": "FINAL FANTASY TACTICS [Geübt]"
         },
         {
+            "key": "MG_FF1_1_01",
+            "value": "FINAL FANTASY I "
+        },
+        {
+            "key": "MG_FF1_1_M_01",
+            "value": "FINA FANTASY I [Geübt]"
+        },
+        {
+            "key": "MG_FF1_1_02",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FF1_1_M_02",
+            "value": "[Multi] FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FFT_2_01",
+            "value": "[Runde 2] FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_2_02",
+            "value": "[Runde 2] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_2_03",
+            "value": "[Multi] [Runde 2] FINAL FANTASY TACTICS [EX]"
+        },
+        {
             "key": "MG_EV_IGNT_01",
             "value": "Herausforderung des Eisengiganten"
         },
@@ -179,6 +195,14 @@
         {
             "key": "MG_MU_CSLI_01",
             "value": "[Multi] Herausforderung des Schokopuddings"
+        },
+        {
+            "key": "MG_EV_OCHU_01",
+            "value": "Herausforderung des Küsschens"
+        },
+        {
+            "key": "MG_MU_OCHU_01",
+            "value": "[Multi] Herausforderung des Küsschens"
         },
         {
             "key": "MG_EV_ART_CRF_01",
@@ -274,19 +298,19 @@
         },
         {
             "key": "MG_EV_ART_SCR_00",
-            "value": ""
-        },
-        {
-            "key": "MG_MU_ART_SCR_00",
-            "value": ""
-        },
-        {
-            "key": "MG_EV_ART_SCR_01",
             "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
         },
         {
-            "key": "MG_MU_ART_SCR_01",
+            "key": "MG_MU_ART_SCR_00",
             "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
+        },
+        {
+            "key": "MG_EV_ART_SCR_01",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag I"
+        },
+        {
+            "key": "MG_MU_ART_SCR_01",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag I"
         },
         {
             "key": "MG_EV_ART_SCR_02",
@@ -529,6 +553,34 @@
             "value": "[Monatsmission] Gildenstatuen"
         },
         {
+            "key": "MG_MONTHLY_006_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_006_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_006_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_006_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_006_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_006_6",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_006_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "Visiore einsetzen: Limitierter Bonus"
         },
@@ -541,10 +593,6 @@
             "value": "Visiore einsetzen: Limitierter Bonus"
         },
         {
-            "key": "MG_COMEBACK_001",
-            "value": "Rückkehrermission"
-        },
-        {
             "key": "MG_LAPS_P_VNLA",
             "value": "Visiore einsetzen: Limitierter Bonus"
         },
@@ -555,6 +603,18 @@
         {
             "key": "MG_LAPS_P_QILF",
             "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_LAPS_P_ORDR",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_LAPS_P_DELT",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_COMEBACK_001",
+            "value": "Rückkehrermission"
         }
     ]
 }

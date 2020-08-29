@@ -66,7 +66,7 @@
         },
         {
             "key": "DIALOG_004_M",
-            "value": "<color=#00ffff>Lv上限</color>まで強化したクラフト武具を<br><color=#00ffff>覚醒</color>させることで<color=#00ffff>Lv上限</color>が増加し、<br>武具の<color=#00ffff>付加能力</color>が<color=#00ffff>強化</color>されます。"
+            "value": "武具を<color=#00ffff>覚醒</color>すると<color=#00ffff>Lv上限</color>が増加し、<br>武具の<color=#00ffff>付加能力</color>が<color=#00ffff>強化</color>されます。"
         },
         {
             "key": "DIALOG_005_T",

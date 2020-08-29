@@ -38,11 +38,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Provisional •"
+            "value": "• Estatuas del gremio •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "¿Omitir el tutorial sobre provisional?"
+            "value": "¿Queréis ver el tutorial sobre las estatuas del gremio?"
         },
         {
             "key": "SKIP_YES",

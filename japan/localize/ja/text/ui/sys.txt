@@ -729,6 +729,10 @@
             "value": "あと{0}日間有効"
         },
         {
+            "key": "VALUE_COMMA",
+            "value": ","
+        },
+        {
             "key": "NEED_GIL",
             "value": "必要ギル"
         },
@@ -1215,6 +1219,10 @@
         {
             "key": "FILTER_TITLE_ON",
             "value": "フィルタ：ON"
+        },
+        {
+            "key": "FILTER_TITLE_OFF",
+            "value": "フィルタ：OFF"
         },
         {
             "key": "FILTER_CLEAR",
@@ -1861,6 +1869,10 @@
             "value": "<line-height=36>武具アビリティ、召喚魔法は<br>編成の装備単位のON/OFFとなります"
         },
         {
+            "key": "ABILITY_STATUS_CONDITION",
+            "value": "使用可能条件"
+        },
+        {
             "key": "ABILITY_CAPTION_LEADER",
             "value": "LeaderAbility"
         },
@@ -1875,6 +1887,10 @@
         {
             "key": "ABILITY_CAPTION_LIMIT_BURST",
             "value": "Limit Burst"
+        },
+        {
+            "key": "ABILITY_CAPTION_VISION",
+            "value": "VisionAbility"
         },
         {
             "key": "ABILITY_CAPTION_LIMIT_BURST_ENHANCE",
@@ -2007,6 +2023,10 @@
         {
             "key": "ARTIFACT_DETAIL_TITLE",
             "value": "詳細"
+        },
+        {
+            "key": "ARTIFACT_ABILITY_START_TURN_DESC",
+            "value": "バトル開始から{0}ターン、{1}"
         },
         {
             "key": "ARTIFACT_LIMIT_OVER_TITLE",
@@ -2821,6 +2841,14 @@
             "value": "<line-height=22>※複数の攻撃パーティーで同じユニット、武具、召喚獣、ビジョンカードの設定はできません。複数の防御パーティーについても同様です。"
         },
         {
+            "key": "PARTYEDITOR_GUILD_LIMITED_HELP",
+            "value": "<line-height=1.1em><cspace=-0.05em>期間限定<br>ギルドバトルとは"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_LIMITED_DISABLE",
+            "value": "開催期間外"
+        },
+        {
             "key": "PARTYEDITOR_TAB_QUEST",
             "value": "クエスト"
         },
@@ -2847,6 +2875,10 @@
         {
             "key": "PARTYEDITOR_COPY_PARTY",
             "value": "【{0}:{1}】をコピー中"
+        },
+        {
+            "key": "PARTYEDITOR_COPY_PARTY_SHORT",
+            "value": "【{0}】をコピー中"
         },
         {
             "key": "PARTYEDITOR_COPY_DESC",
@@ -2883,6 +2915,10 @@
         {
             "key": "PARTY_COPY_TARGET",
             "value": "コピー対象:【{0}】{1}"
+        },
+        {
+            "key": "PARTY_COPY_TARGET_SHORT",
+            "value": "コピー対象:{0}"
         },
         {
             "key": "PARTY_COPY_CAUTION",
@@ -3329,6 +3365,14 @@
             "value": "プレイヤーID:[*****{0}]"
         },
         {
+            "key": "CHAT_IN_BATTLE_TITLE",
+            "value": "バトル中チャット"
+        },
+        {
+            "key": "CHAT_IN_BATTLE_TEXT",
+            "value": "バトル中のチャットからは他モードへの移動は行なえません。<br>バトル終了後にホーム画面のチャットで利用してください。"
+        },
+        {
             "key": "CHAT_GUILD_REQUEST_TITLE",
             "value": "ギルド加入申請"
         },
@@ -3359,6 +3403,10 @@
         {
             "key": "CHAT_GUILD_REQUEST_DESC_FAILED",
             "value": "<line-height=38>加入条件に達していないため<br>加入申請を送ることができませんでした。"
+        },
+        {
+            "key": "CHAT_GUILD_JOIN",
+            "value": "加入"
         },
         {
             "key": "CHAT_GUILD_JOIN_DESC",
@@ -3535,6 +3583,38 @@
         {
             "key": "GUILD_RECRUIT_LIMITED_RANK",
             "value": "{0} 以上"
+        },
+        {
+            "key": "GUILD_CHAT_COLOR_TAG",
+            "value": "<color=orange>{0}</color>"
+        },
+        {
+            "key": "CHATBATTLE_AUTO_SETTING_TITLE",
+            "value": "バトル中チャット"
+        },
+        {
+            "key": "CHATBATTLE_AUTO_SETTING_QUEST",
+            "value": "クエスト"
+        },
+        {
+            "key": "CHATBATTLE_AUTO_SETTING_MULTI_RAID",
+            "value": "マルチ・レイド"
+        },
+        {
+            "key": "CHATBATTLE_AUTO_SETTING_ARENA",
+            "value": "アリーナ"
+        },
+        {
+            "key": "CHATBATTLE_AUTO_SETTING_GUILD",
+            "value": "ギルドバトル"
+        },
+        {
+            "key": "CHATBATTLE_AUTO_SETTING_TOWER",
+            "value": "白磁の塔"
+        },
+        {
+            "key": "CHATBATTLE_AUTO_SETTING_CAUTION",
+            "value": "バトル中のチャットからは<br>他モードへの移動は行えません。<br><br>バトル終了後にホーム画面の<br>チャットで利用してください。"
         },
         {
             "key": "RAID_ENCOUNT_TRY",
@@ -3753,6 +3833,10 @@
             "value": "原則、ご意見・ご要望に関していただいた内容にはご返信いたしておりません。予めご了承ください。<br>"
         },
         {
+            "key": "SUPPORT_MAIL_BODY_CALL911",
+            "value": "■確認された違反行為の詳細<br>→<br><br>■対象プレイヤー名<br>→<br><br>■違反を確認した日時<br>→<br><br>{0}※状況が確認できるスクリーンショットをお持ちの場合は、メールに添付してください。<br>※違反行為のご報告や調査結果、対応内容に関しましては、個別にご返答いたしておりません。あらかじめご了承ください。<br>※お客様同士のトラブルにつきましては弊社は関与いたしません。<br>-----以下編集不要-----<br>"
+        },
+        {
             "key": "DATA_CONNECT_INPUT_TITLE",
             "value": "データ引き継ぎ"
         },
@@ -3827,6 +3911,14 @@
         {
             "key": "OPTION_AUTO_BATTLE_CAUTION",
             "value": "初回オート不可"
+        },
+        {
+            "key": "OPTION_AUTOROTATION",
+            "value": "カメラ回転"
+        },
+        {
+            "key": "OPTION_AUTOROTATION_DESC",
+            "value": "※手順がきたユニットが障害物に隠れた場合にカメラが自動回転します"
         },
         {
             "key": "OPTION_ABILITY",
@@ -4337,6 +4429,30 @@
             "value": "AUTO周回は<br>初期配置はOFF、同行者はなし<br>でのプレイとなります。"
         },
         {
+            "key": "AUTOLAP_RESULT_TITLE",
+            "value": "周回結果"
+        },
+        {
+            "key": "AUTOLAP_RESULT_CANCEL",
+            "value": "オート周回が解除されました。"
+        },
+        {
+            "key": "AUTOLAP_RESULT_COMPLATE",
+            "value": "オート周回が完了しました。"
+        },
+        {
+            "key": "AUTOLAP_RESULT_APCANCEL",
+            "value": "体力が0になったため、オート周回が解除されました。"
+        },
+        {
+            "key": "AUTOLAP_RESULT_AROUNDTIMES",
+            "value": "周回完了回数"
+        },
+        {
+            "key": "AUTOLAP_RESULT_APHEALTIMES",
+            "value": "体力回復薬使用回数"
+        },
+        {
             "key": "TOWER_QUEST_TYPE_NORMAL",
             "value": "Normal"
         },
@@ -4442,7 +4558,7 @@
         },
         {
             "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
-            "value": "召喚獣詳細"
+            "value": "召喚獣"
         },
         {
             "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
@@ -4498,7 +4614,7 @@
         },
         {
             "key": "BUFF_LIMITED_CONDITION_TITLE",
-            "value": "特定条件ユニット"
+            "value": "発動条件"
         },
         {
             "key": "BUFF_LIMITED_CONDITION_MAINJOB",
@@ -4731,6 +4847,22 @@
         {
             "key": "UNIT_ARTI_SET_CONFIRM",
             "value": "別のユニットが既に装備済です。<br>それでも装備しますか？<br>（装備済のユニットからは<br>装備が外されます。）"
+        },
+        {
+            "key": "UNIT_ARTI_SET_EXCHANGE_WEAPON_TITLE",
+            "value": "武器の装備上限"
+        },
+        {
+            "key": "UNIT_ARTI_SET_EXCHANGE_WEAPON_DESC",
+            "value": "武器は1ユニット1つしか装備できません。<br>この武器の装備に入れ替えますか？"
+        },
+        {
+            "key": "UNIT_ARTI_SET_EXCHANGE_ARMOUR_TITLE",
+            "value": "防具の装備上限"
+        },
+        {
+            "key": "UNIT_ARTI_SET_EXCHANGE_ARMOUR_DESC",
+            "value": "防具は1ユニット1つしか<br>装備できません。<br>この防具の装備に入れ替えますか？"
         },
         {
             "key": "ARTI_STATUS_ADD_NONE",

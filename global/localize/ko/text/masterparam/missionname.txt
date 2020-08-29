@@ -109,6 +109,150 @@
             "value": "길드 가입"
         },
         {
+            "key": "CM_PRO_GL_01",
+            "value": "1일째 출석하자."
+        },
+        {
+            "key": "CM_PRO_GL_02",
+            "value": " '섀도링크스'의 레벨을 15로 올리자."
+        },
+        {
+            "key": "CM_PRO_GL_03",
+            "value": " '섀도링크스'의 레벨을 30으로 올리자."
+        },
+        {
+            "key": "CM_PRO_GL_04",
+            "value": "스토리 제1장 제2절 전투 1을 완료하자."
+        },
+        {
+            "key": "CM_PRO_GL_05",
+            "value": "2일째 출석하자."
+        },
+        {
+            "key": "CM_PRO_GL_06",
+            "value": " '섀도링크스'의 직업 레벨을 3으로 올리자."
+        },
+        {
+            "key": "CM_PRO_GL_07",
+            "value": "스토리 제1장 제1절 전투 10을 완료하자."
+        },
+        {
+            "key": "CM_PRO_GL_08",
+            "value": "스토리 제1장 제1절 전투 5를 완료하자."
+        },
+        {
+            "key": "CM_PRO_GL_09",
+            "value": " '섀도링크스'의 직업 레벨을 6으로 올리자."
+        },
+        {
+            "key": "CM_PRO_GL_10",
+            "value": "출석하자."
+        },
+        {
+            "key": "CM_PRO_GL_11",
+            "value": " '섀도링크스'를 1회 한계 돌파하자."
+        },
+        {
+            "key": "CM_PRO_GL_12",
+            "value": " '섀도링크스'의 레벨을 35로 올리자."
+        },
+        {
+            "key": "CM_PRO_GL_13",
+            "value": " '섀도링크스'를 3회 한계 돌파하자."
+        },
+        {
+            "key": "CM_PRO_GL_14",
+            "value": "1일째 출석하자."
+        },
+        {
+            "key": "CM_PRO_GL_15",
+            "value": " '섀도링크스'를 2회 한계 돌파하자."
+        },
+        {
+            "key": "CM_PRO_GL_16",
+            "value": "스토리 제1장 제2절 전투 10을 완료하자."
+        },
+        {
+            "key": "CM_PRO_GL_17",
+            "value": "스토리 제1장 제2절 전투 5를 완료하자."
+        },
+        {
+            "key": "CM_PRO_GL_18",
+            "value": " '섀도링크스'의 레벨을 40으로 올리자."
+        },
+        {
+            "key": "CM_PRO_GL_19",
+            "value": "출석하자."
+        },
+        {
+            "key": "CM_PRO_GL_20",
+            "value": " '섀도링크스'를 1회 각성하자."
+        },
+        {
+            "key": "CM_PRO_GL_21",
+            "value": " '섀도링크스'의 레벨을 45로 올리자."
+        },
+        {
+            "key": "CM_PRO_GL_22",
+            "value": " '섀도링크스'의 레벨을 60으로 올리자."
+        },
+        {
+            "key": "CM_PRO_GL_23",
+            "value": "1일째 출석하자."
+        },
+        {
+            "key": "CM_PRO_GL_24",
+            "value": " '섀도링크스'를 2회 각성하자."
+        },
+        {
+            "key": "CM_PRO_GL_25",
+            "value": " '섀도링크스'를 3회 각성하자."
+        },
+        {
+            "key": "CM_PRO_GL_26",
+            "value": "스토리 제1장 제3절 전투 10을 완료하자."
+        },
+        {
+            "key": "CM_PRO_GL_27",
+            "value": " '섀도링크스'의 레벨을 50으로 올리자."
+        },
+        {
+            "key": "CM_PRO_GL_28",
+            "value": "출석하자."
+        },
+        {
+            "key": "CM_PRO_GL_29",
+            "value": "스토리 제2장 제1절 전투 10을 완료하자."
+        },
+        {
+            "key": "CM_PRO_GL_30",
+            "value": "스토리 제2장 제2절 전투 10을 완료하자."
+        },
+        {
+            "key": "CM_PRO_GL_31",
+            "value": "2일째 출석하자."
+        },
+        {
+            "key": "CM_PRO_GL_32",
+            "value": "3일째 출석하자."
+        },
+        {
+            "key": "CM_PRO_GL_33",
+            "value": "스토리 제2장 제3절 전투 10을 완료하자."
+        },
+        {
+            "key": "CM_PRO_GL_34",
+            "value": "1일째 출석하자."
+        },
+        {
+            "key": "CM_PRO_GL_35",
+            "value": " '메디아나'의 하드 퀘스트를 1회 완료하자."
+        },
+        {
+            "key": "CM_PRO_GL_36",
+            "value": "스토리 제3장 제1절 전투 10을 완료하자."
+        },
+        {
             "key": "CM_PRO_28",
             "value": "FFT 콜라보 이벤트 퀘스트를 진행하자(1)"
         },
@@ -251,6 +395,42 @@
         {
             "key": "CM_PRO_72",
             "value": "FFI 콜라보 퀘스트를 진행하자(3)"
+        },
+        {
+            "key": "CM_PRO_73",
+            "value": "FFT 콜라보 제2탄 이벤트 퀘스트를 진행하자(1)"
+        },
+        {
+            "key": "CM_PRO_74",
+            "value": "이벤트 퀘스트를 100회 완료하자."
+        },
+        {
+            "key": "CM_PRO_75",
+            "value": "하드 퀘스트를 50회 진행하자."
+        },
+        {
+            "key": "CM_PRO_76",
+            "value": "스토리 퀘스트를 100회 진행하자."
+        },
+        {
+            "key": "CM_PRO_77",
+            "value": "FFT 콜라보 제2탄 이벤트 퀘스트를 진행하자(2)"
+        },
+        {
+            "key": "CM_PRO_78",
+            "value": "결투장에서 30회 대전하자."
+        },
+        {
+            "key": "CM_PRO_79",
+            "value": "탐험 초코보에서 아이템을 30회 회수한다."
+        },
+        {
+            "key": "CM_PRO_80",
+            "value": "멀티 퀘스트를 50회 진행하자."
+        },
+        {
+            "key": "CM_PRO_81",
+            "value": "FFT 콜라보 제2탄 이벤트 퀘스트를 진행하자(3)"
         },
         {
             "key": "GM_0001",
@@ -490,11 +670,19 @@
         },
         {
             "key": "M_ST_0008_01",
-            "value": "제8장 제1절 [요새를 탈환하기 위해] 완료"
+            "value": "제8장 제1절 [요새를 탈환하러] 완료"
         },
         {
             "key": "M_ST_0008_01_2",
             "value": "제8장 제1절 [페네스의 왕 무라가] 완료"
+        },
+        {
+            "key": "M_ST_0008_02",
+            "value": "제8장 제2절 [크리, 격노하다 1] 완료"
+        },
+        {
+            "key": "M_ST_0008_02_2",
+            "value": "제8장 제2절 [호른의 긍지] 완료"
         },
         {
             "key": "M_VIP_LOGB_001",
@@ -570,7 +758,7 @@
         },
         {
             "key": "M_DAILY_001_04",
-            "value": "멀티 퀘스트 완료"
+            "value": "길드 석상을 강화한다."
         },
         {
             "key": "M_DAILY_001_05",
@@ -1013,6 +1201,102 @@
             "value": "파이널판타지14 칠흑의 반역자 [토벌] 레벨 10 완료(5/5)"
         },
         {
+            "key": "M_GL_FFT_2_CH_AGRA",
+            "value": " '아그리아스' 캐릭터 퀘스트의 퀘스트 미션을 전부 완료"
+        },
+        {
+            "key": "M_GL_FFT_2_CH_DELT",
+            "value": " '딜리타' 캐릭터 퀘스트의 퀘스트 미션을 전부 완료"
+        },
+        {
+            "key": "M_FFT_2_01",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #1 완료(1/3)"
+        },
+        {
+            "key": "M_FFT_2_02",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #1 완료(2/3)"
+        },
+        {
+            "key": "M_FFT_2_03",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #1 완료(3/3)"
+        },
+        {
+            "key": "M_FFT_2_04",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #2 완료(1/3)"
+        },
+        {
+            "key": "M_FFT_2_05",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #2 완료(2/3)"
+        },
+        {
+            "key": "M_FFT_2_06",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #2 완료(3/3)"
+        },
+        {
+            "key": "M_FFT_2_07",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #3 완료(1/3)"
+        },
+        {
+            "key": "M_FFT_2_08",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #3 완료(2/3)"
+        },
+        {
+            "key": "M_FFT_2_09",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #3 완료(3/3)"
+        },
+        {
+            "key": "M_FFT_2_10",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #4 완료(1/5)"
+        },
+        {
+            "key": "M_FFT_2_11",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #4 완료(3/5)"
+        },
+        {
+            "key": "M_FFT_2_12",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #4 완료(5/5)"
+        },
+        {
+            "key": "M_FFT_2_13",
+            "value": "[제2탄] 성채도시 잘랜다 완료(1/5)"
+        },
+        {
+            "key": "M_FFT_2_14",
+            "value": "[제2탄] 성채도시 잘랜다 완료(3/5)"
+        },
+        {
+            "key": "M_FFT_2_15",
+            "value": "[제2탄] 성채도시 잘랜다 완료(5/5)"
+        },
+        {
+            "key": "M_FFT_2_EX_01",
+            "value": "[제2탄] FINAL FANTASY TACTICS [EX] 완료(1/10)"
+        },
+        {
+            "key": "M_FFT_2_EX_02",
+            "value": "[제2탄] FINAL FANTASY TACTICS [EX] 완료(3/10)"
+        },
+        {
+            "key": "M_FFT_2_EX_03",
+            "value": "[제2탄] FINAL FANTASY TACTICS [EX] 완료(5/10)"
+        },
+        {
+            "key": "M_FFT_2_EX_04",
+            "value": "[제2탄] FINAL FANTASY TACTICS [EX] 완료(10/10)"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_01",
+            "value": "[멀티] [제2탄] FINAL FANTASY TACTICS [EX] 완료(1/5)"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_02",
+            "value": "[멀티] [제2탄] FINAL FANTASY TACTICS [EX] 완료(3/5)"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_03",
+            "value": "[멀티] [제2탄] FINAL FANTASY TACTICS [EX] 완료(5/5)"
+        },
+        {
             "key": "M_FFT_1_01",
             "value": "FINAL FANTASY TACTICS 전투 #1 완료(1/3)"
         },
@@ -1315,6 +1599,50 @@
         {
             "key": "M_EV_CSLI_11",
             "value": "[멀티] 초고난도 초코 푸딩 도전 완료(5/5)"
+        },
+        {
+            "key": "M_EV_OCHU_01",
+            "value": "고난도 오츄 도전 완료 1(1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_02",
+            "value": "고난도 오츄 도전 완료 2(1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_03",
+            "value": "고난도 오츄 도전 완료 1(3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_04",
+            "value": "고난도 오츄 도전 완료 2(3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_05",
+            "value": "고난도 오츄 도전 완료(5/5)"
+        },
+        {
+            "key": "M_EV_OCHU_06",
+            "value": "초고난도 오츄 도전 완료(1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_07",
+            "value": "초고난도 오츄 도전 완료(3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_08",
+            "value": "초고난도 오츄 도전 완료(5/5)"
+        },
+        {
+            "key": "M_EV_OCHU_09",
+            "value": "[멀티] 초고난도 오츄 도전 완료(1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_10",
+            "value": "[멀티] 초고난도 오츄 도전 완료(3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_11",
+            "value": "[멀티] 초고난도 오츄 도전 완료(5/5)"
         },
         {
             "key": "M_ART_CRF_05_01",
@@ -2581,6 +2909,14 @@
             "value": "유닛 수 합계 미션 10"
         },
         {
+            "key": "MG_PR_002_011",
+            "value": "유닛 수 합계 미션 11"
+        },
+        {
+            "key": "MG_PR_002_012",
+            "value": "유닛 수 합계 미션 12"
+        },
+        {
             "key": "MG_PR_003_001",
             "value": "유닛 각성 미션 1"
         },
@@ -2673,6 +3009,26 @@
             "value": "유닛 각성 미션 23"
         },
         {
+            "key": "MG_PR_003_024",
+            "value": "유닛 각성 미션 24"
+        },
+        {
+            "key": "MG_PR_003_025",
+            "value": "유닛 각성 미션 25"
+        },
+        {
+            "key": "MG_PR_003_026",
+            "value": "유닛 각성 미션 26"
+        },
+        {
+            "key": "MG_PR_003_027",
+            "value": "유닛 각성 미션 27"
+        },
+        {
+            "key": "MG_PR_003_028",
+            "value": "유닛 각성 미션 28"
+        },
+        {
             "key": "MG_PR_004_001",
             "value": "유닛 한계 돌파 미션 1"
         },
@@ -2763,6 +3119,26 @@
         {
             "key": "MG_PR_004_023",
             "value": "유닛 한계 돌파 미션 23"
+        },
+        {
+            "key": "MG_PR_004_024",
+            "value": "유닛 한계 돌파 미션 24"
+        },
+        {
+            "key": "MG_PR_004_025",
+            "value": "유닛 한계 돌파 미션 25"
+        },
+        {
+            "key": "MG_PR_004_026",
+            "value": "유닛 한계 돌파 미션 26"
+        },
+        {
+            "key": "MG_PR_004_027",
+            "value": "유닛 한계 돌파 미션 27"
+        },
+        {
+            "key": "MG_PR_004_028",
+            "value": "유닛 한계 돌파 미션 28"
         },
         {
             "key": "M_QEST_001",
@@ -5857,6 +6233,550 @@
             "value": "길드 석상 누적 강화 미션 20"
         },
         {
+            "key": "M_MONTHLY_0682",
+            "value": "스토리 퀘스트 누적 완료 미션 1"
+        },
+        {
+            "key": "M_MONTHLY_0683",
+            "value": "스토리 퀘스트 누적 완료 미션 2"
+        },
+        {
+            "key": "M_MONTHLY_0684",
+            "value": "스토리 퀘스트 누적 완료 미션 3"
+        },
+        {
+            "key": "M_MONTHLY_0685",
+            "value": "스토리 퀘스트 누적 완료 미션 4"
+        },
+        {
+            "key": "M_MONTHLY_0686",
+            "value": "스토리 퀘스트 누적 완료 미션 5"
+        },
+        {
+            "key": "M_MONTHLY_0687",
+            "value": "스토리 퀘스트 누적 완료 미션 6"
+        },
+        {
+            "key": "M_MONTHLY_0688",
+            "value": "스토리 퀘스트 누적 완료 미션 7"
+        },
+        {
+            "key": "M_MONTHLY_0689",
+            "value": "스토리 퀘스트 누적 완료 미션 8"
+        },
+        {
+            "key": "M_MONTHLY_0690",
+            "value": "스토리 퀘스트 누적 완료 미션 9"
+        },
+        {
+            "key": "M_MONTHLY_0691",
+            "value": "스토리 퀘스트 누적 완료 미션 10"
+        },
+        {
+            "key": "M_MONTHLY_0692",
+            "value": "스토리 퀘스트 누적 완료 미션 11"
+        },
+        {
+            "key": "M_MONTHLY_0693",
+            "value": "스토리 퀘스트 누적 완료 미션 12"
+        },
+        {
+            "key": "M_MONTHLY_0694",
+            "value": "스토리 퀘스트 누적 완료 미션 13"
+        },
+        {
+            "key": "M_MONTHLY_0695",
+            "value": "스토리 퀘스트 누적 완료 미션 14"
+        },
+        {
+            "key": "M_MONTHLY_0696",
+            "value": "스토리 퀘스트 누적 완료 미션 15"
+        },
+        {
+            "key": "M_MONTHLY_0697",
+            "value": "스토리 퀘스트 누적 완료 미션 16"
+        },
+        {
+            "key": "M_MONTHLY_0698",
+            "value": "스토리 퀘스트 누적 완료 미션 17"
+        },
+        {
+            "key": "M_MONTHLY_0699",
+            "value": "스토리 퀘스트 누적 완료 미션 18"
+        },
+        {
+            "key": "M_MONTHLY_0700",
+            "value": "스토리 퀘스트 누적 완료 미션 19"
+        },
+        {
+            "key": "M_MONTHLY_0701",
+            "value": "스토리 퀘스트 누적 완료 미션 20"
+        },
+        {
+            "key": "M_MONTHLY_0702",
+            "value": "하드 퀘스트 누적 완료 미션 1"
+        },
+        {
+            "key": "M_MONTHLY_0703",
+            "value": "하드 퀘스트 누적 완료 미션 2"
+        },
+        {
+            "key": "M_MONTHLY_0704",
+            "value": "하드 퀘스트 누적 완료 미션 3"
+        },
+        {
+            "key": "M_MONTHLY_0705",
+            "value": "하드 퀘스트 누적 완료 미션 4"
+        },
+        {
+            "key": "M_MONTHLY_0706",
+            "value": "하드 퀘스트 누적 완료 미션 5"
+        },
+        {
+            "key": "M_MONTHLY_0707",
+            "value": "하드 퀘스트 누적 완료 미션 6"
+        },
+        {
+            "key": "M_MONTHLY_0708",
+            "value": "하드 퀘스트 누적 완료 미션 7"
+        },
+        {
+            "key": "M_MONTHLY_0709",
+            "value": "하드 퀘스트 누적 완료 미션 8"
+        },
+        {
+            "key": "M_MONTHLY_0710",
+            "value": "하드 퀘스트 누적 완료 미션 9"
+        },
+        {
+            "key": "M_MONTHLY_0711",
+            "value": "하드 퀘스트 누적 완료 미션 10"
+        },
+        {
+            "key": "M_MONTHLY_0712",
+            "value": "하드 퀘스트 누적 완료 미션 11"
+        },
+        {
+            "key": "M_MONTHLY_0713",
+            "value": "하드 퀘스트 누적 완료 미션 12"
+        },
+        {
+            "key": "M_MONTHLY_0714",
+            "value": "하드 퀘스트 누적 완료 미션 13"
+        },
+        {
+            "key": "M_MONTHLY_0715",
+            "value": "하드 퀘스트 누적 완료 미션 14"
+        },
+        {
+            "key": "M_MONTHLY_0716",
+            "value": "하드 퀘스트 누적 완료 미션 15"
+        },
+        {
+            "key": "M_MONTHLY_0717",
+            "value": "하드 퀘스트 누적 완료 미션 16"
+        },
+        {
+            "key": "M_MONTHLY_0718",
+            "value": "하드 퀘스트 누적 완료 미션 17"
+        },
+        {
+            "key": "M_MONTHLY_0719",
+            "value": "하드 퀘스트 누적 완료 미션 18"
+        },
+        {
+            "key": "M_MONTHLY_0720",
+            "value": "하드 퀘스트 누적 완료 미션 19"
+        },
+        {
+            "key": "M_MONTHLY_0721",
+            "value": "멀티 퀘스트 누적 완료 미션 1"
+        },
+        {
+            "key": "M_MONTHLY_0722",
+            "value": "멀티 퀘스트 누적 완료 미션 2"
+        },
+        {
+            "key": "M_MONTHLY_0723",
+            "value": "멀티 퀘스트 누적 완료 미션 3"
+        },
+        {
+            "key": "M_MONTHLY_0724",
+            "value": "멀티 퀘스트 누적 완료 미션 4"
+        },
+        {
+            "key": "M_MONTHLY_0725",
+            "value": "멀티 퀘스트 누적 완료 미션 5"
+        },
+        {
+            "key": "M_MONTHLY_0726",
+            "value": "멀티 퀘스트 누적 완료 미션 6"
+        },
+        {
+            "key": "M_MONTHLY_0727",
+            "value": "멀티 퀘스트 누적 완료 미션 7"
+        },
+        {
+            "key": "M_MONTHLY_0728",
+            "value": "멀티 퀘스트 누적 완료 미션 8"
+        },
+        {
+            "key": "M_MONTHLY_0729",
+            "value": "멀티 퀘스트 누적 완료 미션 9"
+        },
+        {
+            "key": "M_MONTHLY_0730",
+            "value": "멀티 퀘스트 누적 완료 미션 10"
+        },
+        {
+            "key": "M_MONTHLY_0731",
+            "value": "멀티 퀘스트 누적 완료 미션 11"
+        },
+        {
+            "key": "M_MONTHLY_0732",
+            "value": "멀티 퀘스트 누적 완료 미션 12"
+        },
+        {
+            "key": "M_MONTHLY_0733",
+            "value": "멀티 퀘스트 누적 완료 미션 13"
+        },
+        {
+            "key": "M_MONTHLY_0734",
+            "value": "멀티 퀘스트 누적 완료 미션 14"
+        },
+        {
+            "key": "M_MONTHLY_0735",
+            "value": "멀티 퀘스트 누적 완료 미션 15"
+        },
+        {
+            "key": "M_MONTHLY_0736",
+            "value": "멀티 퀘스트 누적 완료 미션 16"
+        },
+        {
+            "key": "M_MONTHLY_0737",
+            "value": "멀티 퀘스트 누적 완료 미션 17"
+        },
+        {
+            "key": "M_MONTHLY_0738",
+            "value": "멀티 퀘스트 누적 완료 미션 18"
+        },
+        {
+            "key": "M_MONTHLY_0739",
+            "value": "멀티 퀘스트 누적 완료 미션 19"
+        },
+        {
+            "key": "M_MONTHLY_0740",
+            "value": "멀티 퀘스트 누적 완료 미션 20"
+        },
+        {
+            "key": "M_MONTHLY_0741",
+            "value": "경험의 방 누적 완료 미션 1"
+        },
+        {
+            "key": "M_MONTHLY_0742",
+            "value": "경험의 방 누적 완료 미션 2"
+        },
+        {
+            "key": "M_MONTHLY_0743",
+            "value": "경험의 방 누적 완료 미션 3"
+        },
+        {
+            "key": "M_MONTHLY_0744",
+            "value": "경험의 방 누적 완료 미션 4"
+        },
+        {
+            "key": "M_MONTHLY_0745",
+            "value": "경험의 방 누적 완료 미션 5"
+        },
+        {
+            "key": "M_MONTHLY_0746",
+            "value": "경험의 방 누적 완료 미션 6"
+        },
+        {
+            "key": "M_MONTHLY_0747",
+            "value": "경험의 방 누적 완료 미션 7"
+        },
+        {
+            "key": "M_MONTHLY_0748",
+            "value": "경험의 방 누적 완료 미션 8"
+        },
+        {
+            "key": "M_MONTHLY_0749",
+            "value": "경험의 방 누적 완료 미션 9"
+        },
+        {
+            "key": "M_MONTHLY_0750",
+            "value": "경험의 방 누적 완료 미션 10"
+        },
+        {
+            "key": "M_MONTHLY_0751",
+            "value": "경험의 방 누적 완료 미션 11"
+        },
+        {
+            "key": "M_MONTHLY_0752",
+            "value": "경험의 방 누적 완료 미션 12"
+        },
+        {
+            "key": "M_MONTHLY_0753",
+            "value": "경험의 방 누적 완료 미션 13"
+        },
+        {
+            "key": "M_MONTHLY_0754",
+            "value": "경험의 방 누적 완료 미션 14"
+        },
+        {
+            "key": "M_MONTHLY_0755",
+            "value": "경험의 방 누적 완료 미션 15"
+        },
+        {
+            "key": "M_MONTHLY_0756",
+            "value": "경험의 방 누적 완료 미션 16"
+        },
+        {
+            "key": "M_MONTHLY_0757",
+            "value": "경험의 방 누적 완료 미션 17"
+        },
+        {
+            "key": "M_MONTHLY_0758",
+            "value": "경험의 방 누적 완료 미션 18"
+        },
+        {
+            "key": "M_MONTHLY_0759",
+            "value": "경험의 방 누적 완료 미션 19"
+        },
+        {
+            "key": "M_MONTHLY_0760",
+            "value": "경험의 방 누적 완료 미션 20"
+        },
+        {
+            "key": "M_MONTHLY_0761",
+            "value": "결투장 누적 대전 미션 1"
+        },
+        {
+            "key": "M_MONTHLY_0762",
+            "value": "결투장 누적 대전 미션 2"
+        },
+        {
+            "key": "M_MONTHLY_0763",
+            "value": "결투장 누적 대전 미션 3"
+        },
+        {
+            "key": "M_MONTHLY_0764",
+            "value": "결투장 누적 대전 미션 4"
+        },
+        {
+            "key": "M_MONTHLY_0765",
+            "value": "결투장 누적 대전 미션 5"
+        },
+        {
+            "key": "M_MONTHLY_0766",
+            "value": "결투장 누적 대전 미션 6"
+        },
+        {
+            "key": "M_MONTHLY_0767",
+            "value": "결투장 누적 대전 미션 7"
+        },
+        {
+            "key": "M_MONTHLY_0768",
+            "value": "결투장 누적 대전 미션 8"
+        },
+        {
+            "key": "M_MONTHLY_0769",
+            "value": "결투장 누적 대전 미션 9"
+        },
+        {
+            "key": "M_MONTHLY_0770",
+            "value": "결투장 누적 대전 미션 10"
+        },
+        {
+            "key": "M_MONTHLY_0771",
+            "value": "결투장 누적 대전 미션 11"
+        },
+        {
+            "key": "M_MONTHLY_0772",
+            "value": "결투장 누적 대전 미션 12"
+        },
+        {
+            "key": "M_MONTHLY_0773",
+            "value": "결투장 누적 대전 미션 13"
+        },
+        {
+            "key": "M_MONTHLY_0774",
+            "value": "결투장 누적 대전 미션 14"
+        },
+        {
+            "key": "M_MONTHLY_0775",
+            "value": "결투장 누적 대전 미션 15"
+        },
+        {
+            "key": "M_MONTHLY_0776",
+            "value": "결투장 누적 대전 미션 16"
+        },
+        {
+            "key": "M_MONTHLY_0777",
+            "value": "결투장 누적 대전 미션 17"
+        },
+        {
+            "key": "M_MONTHLY_0778",
+            "value": "결투장 누적 대전 미션 18"
+        },
+        {
+            "key": "M_MONTHLY_0779",
+            "value": "결투장 누적 대전 미션 19"
+        },
+        {
+            "key": "M_MONTHLY_0780",
+            "value": "결투장 누적 대전 미션 20"
+        },
+        {
+            "key": "M_MONTHLY_0781",
+            "value": "탐험 초코보 누적 회수 미션 1"
+        },
+        {
+            "key": "M_MONTHLY_0782",
+            "value": "탐험 초코보 누적 회수 미션 2"
+        },
+        {
+            "key": "M_MONTHLY_0783",
+            "value": "탐험 초코보 누적 회수 미션 3"
+        },
+        {
+            "key": "M_MONTHLY_0784",
+            "value": "탐험 초코보 누적 회수 미션 4"
+        },
+        {
+            "key": "M_MONTHLY_0785",
+            "value": "탐험 초코보 누적 회수 미션 5"
+        },
+        {
+            "key": "M_MONTHLY_0786",
+            "value": "탐험 초코보 누적 회수 미션 6"
+        },
+        {
+            "key": "M_MONTHLY_0787",
+            "value": "탐험 초코보 누적 회수 미션 7"
+        },
+        {
+            "key": "M_MONTHLY_0788",
+            "value": "탐험 초코보 누적 회수 미션 8"
+        },
+        {
+            "key": "M_MONTHLY_0789",
+            "value": "탐험 초코보 누적 회수 미션 9"
+        },
+        {
+            "key": "M_MONTHLY_0790",
+            "value": "탐험 초코보 누적 회수 미션 10"
+        },
+        {
+            "key": "M_MONTHLY_0791",
+            "value": "탐험 초코보 누적 회수 미션 11"
+        },
+        {
+            "key": "M_MONTHLY_0792",
+            "value": "탐험 초코보 누적 회수 미션 12"
+        },
+        {
+            "key": "M_MONTHLY_0793",
+            "value": "탐험 초코보 누적 회수 미션 13"
+        },
+        {
+            "key": "M_MONTHLY_0794",
+            "value": "탐험 초코보 누적 회수 미션 14"
+        },
+        {
+            "key": "M_MONTHLY_0795",
+            "value": "탐험 초코보 누적 회수 미션 15"
+        },
+        {
+            "key": "M_MONTHLY_0796",
+            "value": "탐험 초코보 누적 회수 미션 16"
+        },
+        {
+            "key": "M_MONTHLY_0797",
+            "value": "탐험 초코보 누적 회수 미션 17"
+        },
+        {
+            "key": "M_MONTHLY_0798",
+            "value": "길드 석상 누적 강화 미션 1"
+        },
+        {
+            "key": "M_MONTHLY_0799",
+            "value": "길드 석상 누적 강화 미션 2"
+        },
+        {
+            "key": "M_MONTHLY_0800",
+            "value": "길드 석상 누적 강화 미션 3"
+        },
+        {
+            "key": "M_MONTHLY_0801",
+            "value": "길드 석상 누적 강화 미션 4"
+        },
+        {
+            "key": "M_MONTHLY_0802",
+            "value": "길드 석상 누적 강화 미션 5"
+        },
+        {
+            "key": "M_MONTHLY_0803",
+            "value": "길드 석상 누적 강화 미션 6"
+        },
+        {
+            "key": "M_MONTHLY_0804",
+            "value": "길드 석상 누적 강화 미션 7"
+        },
+        {
+            "key": "M_MONTHLY_0805",
+            "value": "길드 석상 누적 강화 미션 8"
+        },
+        {
+            "key": "M_MONTHLY_0806",
+            "value": "길드 석상 누적 강화 미션 9"
+        },
+        {
+            "key": "M_MONTHLY_0807",
+            "value": "길드 석상 누적 강화 미션 10"
+        },
+        {
+            "key": "M_MONTHLY_0808",
+            "value": "길드 석상 누적 강화 미션 11"
+        },
+        {
+            "key": "M_MONTHLY_0809",
+            "value": "길드 석상 누적 강화 미션 12"
+        },
+        {
+            "key": "M_MONTHLY_0810",
+            "value": "길드 석상 누적 강화 미션 13"
+        },
+        {
+            "key": "M_MONTHLY_0811",
+            "value": "길드 석상 누적 강화 미션 14"
+        },
+        {
+            "key": "M_MONTHLY_0812",
+            "value": "길드 석상 누적 강화 미션 15"
+        },
+        {
+            "key": "M_MONTHLY_0813",
+            "value": "길드 석상 누적 강화 미션 16"
+        },
+        {
+            "key": "M_MONTHLY_0814",
+            "value": "길드 석상 누적 강화 미션 17"
+        },
+        {
+            "key": "M_MONTHLY_0815",
+            "value": "길드 석상 누적 강화 미션 18"
+        },
+        {
+            "key": "M_MONTHLY_0816",
+            "value": "길드 석상 누적 강화 미션 19"
+        },
+        {
+            "key": "M_MONTHLY_0817",
+            "value": "길드 석상 누적 강화 미션 20"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "기간 한정: 환도석 소비 보너스 01"
         },
@@ -5998,6 +6918,54 @@
         },
         {
             "key": "M_LAPS_P_QILF_06",
+            "value": "기간 한정: 환도석 소비 보너스 06"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_01",
+            "value": "기간 한정: 환도석 소비 보너스 01"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_02",
+            "value": "기간 한정: 환도석 소비 보너스 02"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_03",
+            "value": "기간 한정: 환도석 소비 보너스 03"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_04",
+            "value": "기간 한정: 환도석 소비 보너스 04"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_05",
+            "value": "기간 한정: 환도석 소비 보너스 05"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_06",
+            "value": "기간 한정: 환도석 소비 보너스 06"
+        },
+        {
+            "key": "M_LAPS_P_DELT_01",
+            "value": "기간 한정: 환도석 소비 보너스 01"
+        },
+        {
+            "key": "M_LAPS_P_DELT_02",
+            "value": "기간 한정: 환도석 소비 보너스 02"
+        },
+        {
+            "key": "M_LAPS_P_DELT_03",
+            "value": "기간 한정: 환도석 소비 보너스 03"
+        },
+        {
+            "key": "M_LAPS_P_DELT_04",
+            "value": "기간 한정: 환도석 소비 보너스 04"
+        },
+        {
+            "key": "M_LAPS_P_DELT_05",
+            "value": "기간 한정: 환도석 소비 보너스 05"
+        },
+        {
+            "key": "M_LAPS_P_DELT_06",
             "value": "기간 한정: 환도석 소비 보너스 06"
         },
         {

@@ -14,15 +14,15 @@
         },
         {
             "key": "DIALOG_001_T",
-            "value": "◆Porzellanturm I◆"
+            "value": "• Porzellanturm I •"
         },
         {
             "key": "DIALOG_001_M",
-            "value": "◆Porzellanturm◆<br>Im Porzellanturm kannst du dich einem Kampf um alles mit <color=#00ffff>allen Visionen, die du besitzt,</color> stellen."
+            "value": "• Porzellanturm • <br>Im Porzellanturm kannst du dich einem Kampf um alles mit <color=#00ffff>allen Visionen, die du besitzt,</color> stellen."
         },
         {
             "key": "DIALOG_002_T",
-            "value": "◆Porzellanturm II◆"
+            "value": "• Porzellanturm II •"
         },
         {
             "key": "DIALOG_002_M",
@@ -30,7 +30,7 @@
         },
         {
             "key": "DIALOG_003_T",
-            "value": "◆Porzellanturm III◆"
+            "value": "• Porzellanturm III •"
         },
         {
             "key": "DIALOG_003_M",
@@ -38,23 +38,23 @@
         },
         {
             "key": "DIALOG_004_T",
-            "value": "◆Porzellanturm◆"
+            "value": "• Porzellanturm •"
         },
         {
             "key": "DIALOG_004_M",
-            "value": "◆Belohnungen◆<br>Belohnungen verdienst du, <color=#00ffff>indem du ein Stockwerk abschließt</color>. Sie sind ebenfalls ab dem zweiten Versuch erhältlich, <color=#00ffff>wobei die Belohnungen sich in diesem Fall von denen beim ersten Versuch unterscheiden</color>."
+            "value": "• Belohnungen • <br>Belohnungen verdienst du, <color=#00ffff>indem du ein Stockwerk abschließt</color>. Sie sind ebenfalls ab dem zweiten Versuch erhältlich, <color=#00ffff>wobei die Belohnungen sich in diesem Fall von denen beim ersten Versuch unterscheiden</color>."
         },
         {
             "key": "DIALOG_005_T",
-            "value": "◆Porzellanturm◆"
+            "value": "• Porzellanturm •"
         },
         {
             "key": "DIALOG_005_M",
-            "value": "◆Ranglisten◆<br>Die <color=#00ffff>Geschwindigkeits-Rangliste</color> richtet sich nach der Geschwindigkeit, in der die Gesamtzahl deiner Aktionen durchgeführt wurde."
+            "value": "• Ranglisten • <br>Die <color=#00ffff>Geschwindigkeits-Rangliste</color> richtet sich nach der Geschwindigkeit, in der die Gesamtzahl deiner Aktionen durchgeführt wurde."
         },
         {
             "key": "DIALOG_006_T",
-            "value": "◆Porzellanturm◆"
+            "value": "• Porzellanturm •"
         },
         {
             "key": "DIALOG_006_M",
@@ -62,11 +62,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "★★"
+            "value": "• Porzellanturm •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du das Dummy-Tutorial überspringen?"
+            "value": "Möchtest du dir ein Tutorial zum Porzellanturm ansehen?"
         },
         {
             "key": "SKIP_YES",

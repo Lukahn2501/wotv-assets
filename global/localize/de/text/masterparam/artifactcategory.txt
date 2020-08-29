@@ -17,16 +17,8 @@
             "value": "Großschwert"
         },
         {
-            "key": "LARGESWORD",
-            "value": "Großschwert"
-        },
-        {
             "key": "KATANA",
             "value": "Katana"
-        },
-        {
-            "key": "STAFF",
-            "value": "Stab"
         },
         {
             "key": "ROD",
@@ -123,6 +115,14 @@
         {
             "key": "SEPARATOR",
             "value": ", "
+        },
+        {
+            "key": "LARGESWORD",
+            "value": "Großschwert"
+        },
+        {
+            "key": "STAFF",
+            "value": "Stab"
         }
     ]
 }

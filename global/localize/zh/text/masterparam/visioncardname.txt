@@ -65,12 +65,12 @@
             "value": "四天烈風 四方風精靈"
         },
         {
-            "key": "VC_LW_THDG",
-            "value": "猛攻雙龍　雙頭巨龍"
-        },
-        {
             "key": "VC_MBFF_MV1",
             "value": "絕望與真實的莫比烏斯"
+        },
+        {
+            "key": "VC_LW_THDG",
+            "value": "猛攻雙龍　雙頭巨龍"
         },
         {
             "key": "VC_FF01_DMAC",
@@ -79,6 +79,14 @@
         {
             "key": "VC_LW_CBVPARTY1",
             "value": "徒櫻之宴"
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "夢幻魔人　迪亞波羅斯"
+        },
+        {
+            "key": "VC_FFT_MV3",
+            "value": "草笛"
         },
         {
             "key": "VC_LW_IGNT",
@@ -159,6 +167,10 @@
         {
             "key": "VC_LW_VNLA2",
             "value": "虛偽的契約，真實的靈魂"
+        },
+        {
+            "key": "VC_FFT_MV2",
+            "value": "紅陸行鳥"
         },
         {
             "key": "VC_LW_CACT",
@@ -255,10 +267,6 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "遠見之鏡"
-        },
-        {
-            "key": "VC_LW_DABL",
-            "value": "夢幻魔人　迪亞波羅斯"
         },
         {
             "key": "VC_EXP_01",

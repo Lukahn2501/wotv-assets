@@ -42,11 +42,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Dummy •"
+            "value": "• Gildenkämpfe •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du das Dummy-Tutorial überspringen?"
+            "value": "Möchtest du dir ein Tutorial zu Gildenkämpfen ansehen?"
         },
         {
             "key": "SKIP_YES",

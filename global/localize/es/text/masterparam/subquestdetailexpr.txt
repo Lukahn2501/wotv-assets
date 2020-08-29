@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "Elabora una pieza de equipo una vez"
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "Consigue objetos en la expedición chocobo 10 veces"
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "Gana en la arena 10 veces"
         }
     ]
 }

@@ -109,6 +109,150 @@
             "value": "Gründe eine Gilde oder tritt einer bei"
         },
         {
+            "key": "CM_PRO_GL_01",
+            "value": "Melde dich einmal an"
+        },
+        {
+            "key": "CM_PRO_GL_02",
+            "value": "Erreiche mit Schattenluchs Stufe 15"
+        },
+        {
+            "key": "CM_PRO_GL_03",
+            "value": "Erreiche mit Schattenluchs Stufe 30"
+        },
+        {
+            "key": "CM_PRO_GL_04",
+            "value": "Schließe Kapitel 1, Abschnitt 2, Kampf 1 „In die Höhle des Löwen“ ab"
+        },
+        {
+            "key": "CM_PRO_GL_05",
+            "value": "Melde dich insgesamt an zwei Tagen an"
+        },
+        {
+            "key": "CM_PRO_GL_06",
+            "value": "Erreiche mit Schattenluchs Jobstufe 3"
+        },
+        {
+            "key": "CM_PRO_GL_07",
+            "value": "Schließe Kapitel 1, Szene 1, Kampf 10 „Zeige, was du wert bist“ ab"
+        },
+        {
+            "key": "CM_PRO_GL_08",
+            "value": "Schließe Kapitel 1, Abschnitt 1, Kampf 5 „Vertrauensbeweis“ ab"
+        },
+        {
+            "key": "CM_PRO_GL_09",
+            "value": "Erreiche mit Schattenluchs Jobstufe 6"
+        },
+        {
+            "key": "CM_PRO_GL_10",
+            "value": "Melde dich an"
+        },
+        {
+            "key": "CM_PRO_GL_11",
+            "value": "Führe einen Limitbruch an Schattenluchs durch"
+        },
+        {
+            "key": "CM_PRO_GL_12",
+            "value": "Erreiche mit Schattenluchs Stufe 35"
+        },
+        {
+            "key": "CM_PRO_GL_13",
+            "value": "Führe drei Limitbrüche an Schattenluchs durch"
+        },
+        {
+            "key": "CM_PRO_GL_14",
+            "value": "Melde dich noch einen Tag an"
+        },
+        {
+            "key": "CM_PRO_GL_15",
+            "value": "Führe zwei Limitbrüche an Schattenluchs durch"
+        },
+        {
+            "key": "CM_PRO_GL_16",
+            "value": "Schließe Kapitel 1, Abschnitt 2, Kampf 10 „Wiedergutmachung“ ab"
+        },
+        {
+            "key": "CM_PRO_GL_17",
+            "value": "Schließe Kapitel 1, Abschnitt 2, Kampf 5 „Willensakt“ ab"
+        },
+        {
+            "key": "CM_PRO_GL_18",
+            "value": "Erreiche mit Schattenluchs Stufe 40"
+        },
+        {
+            "key": "CM_PRO_GL_19",
+            "value": "Melde dich an"
+        },
+        {
+            "key": "CM_PRO_GL_20",
+            "value": "Erwecke Schattenluchs"
+        },
+        {
+            "key": "CM_PRO_GL_21",
+            "value": "Erreiche mit Schattenluchs Stufe 45"
+        },
+        {
+            "key": "CM_PRO_GL_22",
+            "value": "Erreiche mit Schattenluchs Stufe 60"
+        },
+        {
+            "key": "CM_PRO_GL_23",
+            "value": "Melde dich noch einen Tag an"
+        },
+        {
+            "key": "CM_PRO_GL_24",
+            "value": "Erwecke Schattenluchs zweimal"
+        },
+        {
+            "key": "CM_PRO_GL_25",
+            "value": "Erwecke Schattenluchs dreimal"
+        },
+        {
+            "key": "CM_PRO_GL_26",
+            "value": "Schließe Kapitel 1, Abschnitt 3, Kampf 10 „Verstärkungstruppen“ ab"
+        },
+        {
+            "key": "CM_PRO_GL_27",
+            "value": "Erreiche mit Schattenluchs Stufe 50"
+        },
+        {
+            "key": "CM_PRO_GL_28",
+            "value": "Melde dich an"
+        },
+        {
+            "key": "CM_PRO_GL_29",
+            "value": "Schließe Kapitel 2, Abschnitt 1, Kampf 10 „Was die Sterne flüstern“ ab"
+        },
+        {
+            "key": "CM_PRO_GL_30",
+            "value": "Schließe Kapitel 2, Abschnitt 2, Kampf 10 „Der Stolz der Löwen“ ab"
+        },
+        {
+            "key": "CM_PRO_GL_31",
+            "value": "Melde dich noch zwei Tage an"
+        },
+        {
+            "key": "CM_PRO_GL_32",
+            "value": "Melde dich noch drei Tage an"
+        },
+        {
+            "key": "CM_PRO_GL_33",
+            "value": "Schließe Kapitel 2, Abschnitt 3, Kampf 10 „Das Erste Schwert“ ab"
+        },
+        {
+            "key": "CM_PRO_GL_34",
+            "value": "Melde dich noch einen Tag an"
+        },
+        {
+            "key": "CM_PRO_GL_35",
+            "value": "Schließe Medienas Schwierigen Auftrag ab"
+        },
+        {
+            "key": "CM_PRO_GL_36",
+            "value": "Schließe Kapitel 3, Abschnitt 1, Kampf 10 „Mit dem Leben bezahlen“ ab"
+        },
+        {
             "key": "CM_PRO_28",
             "value": "Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 1 ab"
         },
@@ -251,6 +395,42 @@
         {
             "key": "CM_PRO_72",
             "value": "Schließe den „FINAL FANTASY I“-Kampf Nr. 5 ab"
+        },
+        {
+            "key": "CM_PRO_73",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 1 ab"
+        },
+        {
+            "key": "CM_PRO_74",
+            "value": "Schließe 100 Eventaufträge ab"
+        },
+        {
+            "key": "CM_PRO_75",
+            "value": "Schließe 50 Schwierige Aufträge aus der Liste der Weltweiten Aufträge ab"
+        },
+        {
+            "key": "CM_PRO_76",
+            "value": "Schließe 100 Storyaufträge ab"
+        },
+        {
+            "key": "CM_PRO_77",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 3 ab"
+        },
+        {
+            "key": "CM_PRO_78",
+            "value": "Messe dich 30-mal in der Duellarena"
+        },
+        {
+            "key": "CM_PRO_79",
+            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein"
+        },
+        {
+            "key": "CM_PRO_80",
+            "value": "Schließe 50 Multiaufträge ab"
+        },
+        {
+            "key": "CM_PRO_81",
+            "value": "[Runde 2] Schließe „Stadtfestung Zaland“ ab"
         },
         {
             "key": "GM_0001",
@@ -497,6 +677,14 @@
             "value": "Schließe Kapitel 8, Szene 1 „Muraga, König von Fennes“ ab"
         },
         {
+            "key": "M_ST_0008_02",
+            "value": "Schließe Kapitel 8, Szene 2 „Khuri in Rage I“ ab"
+        },
+        {
+            "key": "M_ST_0008_02_2",
+            "value": "Schließe Kapitel 8, Szene 2 „Der hournsche Stolz“ ab"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Erreiche Royalen Rang 1"
         },
@@ -558,7 +746,7 @@
         },
         {
             "key": "M_DAILY_001_01",
-            "value": "Schließe fünf Storyaufträge ab"
+            "value": "Schließe einen Storyauftrag ab"
         },
         {
             "key": "M_DAILY_001_02",
@@ -570,7 +758,7 @@
         },
         {
             "key": "M_DAILY_001_04",
-            "value": "Schließe einen Multiauftrag ab"
+            "value": "Verbessere eine Gildenstatue"
         },
         {
             "key": "M_DAILY_001_05",
@@ -1013,6 +1201,102 @@
             "value": "Schließe „FINAL FANTASY XIV: Shadowbringers [Eroberung] Stufe 10“ fünfmal ab"
         },
         {
+            "key": "M_GL_FFT_2_CH_AGRA",
+            "value": "Schließe alle Auftragsmissionen von Agrias‘ Charakterauftrag ab"
+        },
+        {
+            "key": "M_GL_FFT_2_CH_DELT",
+            "value": "Schließe alle Auftragsmissionen von Delitas Charakterauftrag ab"
+        },
+        {
+            "key": "M_FFT_2_01",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 1 ab"
+        },
+        {
+            "key": "M_FFT_2_02",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 1 zweimal ab"
+        },
+        {
+            "key": "M_FFT_2_03",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 1 dreimal ab"
+        },
+        {
+            "key": "M_FFT_2_04",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 2 ab"
+        },
+        {
+            "key": "M_FFT_2_05",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 2 zweimal ab"
+        },
+        {
+            "key": "M_FFT_2_06",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 2 dreimal ab"
+        },
+        {
+            "key": "M_FFT_2_07",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 3 ab"
+        },
+        {
+            "key": "M_FFT_2_08",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 3 zweimal ab"
+        },
+        {
+            "key": "M_FFT_2_09",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 3 dreimal ab"
+        },
+        {
+            "key": "M_FFT_2_10",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 4 ab"
+        },
+        {
+            "key": "M_FFT_2_11",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 4 dreimal ab"
+        },
+        {
+            "key": "M_FFT_2_12",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 4 fünfmal ab"
+        },
+        {
+            "key": "M_FFT_2_13",
+            "value": "[Runde 2] Schließe „Stadtfestung Zaland“ einmal ab"
+        },
+        {
+            "key": "M_FFT_2_14",
+            "value": "[Runde 2] Schließe „Stadtfestung Zaland“ dreimal ab"
+        },
+        {
+            "key": "M_FFT_2_15",
+            "value": "[Runde 2] Schließe „Stadtfestung Zaland“ fünfmal ab"
+        },
+        {
+            "key": "M_FFT_2_EX_01",
+            "value": "[Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ ab"
+        },
+        {
+            "key": "M_FFT_2_EX_02",
+            "value": "[Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ dreimal ab"
+        },
+        {
+            "key": "M_FFT_2_EX_03",
+            "value": "[Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ fünfmal ab"
+        },
+        {
+            "key": "M_FFT_2_EX_04",
+            "value": "[Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ zehnmal ab"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_01",
+            "value": "[Multi] [Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ ab"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_02",
+            "value": "[Multi] [Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ dreimal ab"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_03",
+            "value": "[Multi] [Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ fünfmal ab"
+        },
+        {
             "key": "M_FFT_1_01",
             "value": "Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 1 ab"
         },
@@ -1315,6 +1599,50 @@
         {
             "key": "M_EV_CSLI_11",
             "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Schokopuddings“ fünfmal ab"
+        },
+        {
+            "key": "M_EV_OCHU_01",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Küsschens“ ab"
+        },
+        {
+            "key": "M_EV_OCHU_02",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Küsschens“ ab"
+        },
+        {
+            "key": "M_EV_OCHU_03",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Küsschens“ dreimal ab"
+        },
+        {
+            "key": "M_EV_OCHU_04",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Küsschens“ dreimal ab"
+        },
+        {
+            "key": "M_EV_OCHU_05",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Küsschens“ fünfmal ab"
+        },
+        {
+            "key": "M_EV_OCHU_06",
+            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ ab"
+        },
+        {
+            "key": "M_EV_OCHU_07",
+            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ dreimal ab"
+        },
+        {
+            "key": "M_EV_OCHU_08",
+            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ fünfmal ab"
+        },
+        {
+            "key": "M_EV_OCHU_09",
+            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ ab"
+        },
+        {
+            "key": "M_EV_OCHU_10",
+            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ dreimal ab"
+        },
+        {
+            "key": "M_EV_OCHU_11",
+            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ fünfmal ab"
         },
         {
             "key": "M_ART_CRF_05_01",
@@ -2581,6 +2909,14 @@
             "value": "Sammle 50 Einheiten"
         },
         {
+            "key": "MG_PR_002_011",
+            "value": "Sammle 55 Einheiten"
+        },
+        {
+            "key": "MG_PR_002_012",
+            "value": "Sammle 60 Einheiten"
+        },
+        {
             "key": "MG_PR_003_001",
             "value": "Führe die Erweckung einer Einheit aus"
         },
@@ -2673,6 +3009,26 @@
             "value": "Führe 300 Erweckungen von Einheiten aus"
         },
         {
+            "key": "MG_PR_003_024",
+            "value": "Führe 320 Erweckungen von Einheiten aus"
+        },
+        {
+            "key": "MG_PR_003_025",
+            "value": "Führe 340 Erweckungen von Einheiten aus"
+        },
+        {
+            "key": "MG_PR_003_026",
+            "value": "Führe 360 Erweckungen von Einheiten aus"
+        },
+        {
+            "key": "MG_PR_003_027",
+            "value": "Führe 380 Erweckungen von Einheiten aus"
+        },
+        {
+            "key": "MG_PR_003_028",
+            "value": "Führe 400 Erweckungen von Einheiten aus"
+        },
+        {
             "key": "MG_PR_004_001",
             "value": "Führe den Limitbruch einer Einheit aus"
         },
@@ -2763,6 +3119,26 @@
         {
             "key": "MG_PR_004_023",
             "value": "Führe 300 Limitbrüche von Einheiten aus"
+        },
+        {
+            "key": "MG_PR_004_024",
+            "value": "Führe 320 Limitbrüche von Einheiten aus"
+        },
+        {
+            "key": "MG_PR_004_025",
+            "value": "Führe 340 Limitbrüche von Einheiten aus"
+        },
+        {
+            "key": "MG_PR_004_026",
+            "value": "Führe 360 Limitbrüche von Einheiten aus"
+        },
+        {
+            "key": "MG_PR_004_027",
+            "value": "Führe 380 Limitbrüche von Einheiten aus"
+        },
+        {
+            "key": "MG_PR_004_028",
+            "value": "Führe 400 Limitbrüche von Einheiten aus"
         },
         {
             "key": "M_QEST_001",
@@ -5857,6 +6233,550 @@
             "value": "Verbessere 70-mal eine Gildenstatue"
         },
         {
+            "key": "M_MONTHLY_0682",
+            "value": "Schließe 20 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0683",
+            "value": "Schließe 40 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0684",
+            "value": "Schließe 60 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0685",
+            "value": "Schließe 80 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0686",
+            "value": "Schließe 100 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0687",
+            "value": "Schließe 120 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0688",
+            "value": "Schließe 140 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0689",
+            "value": "Schließe 160 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0690",
+            "value": "Schließe 180 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0691",
+            "value": "Schließe 200 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0692",
+            "value": "Schließe 220 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0693",
+            "value": "Schließe 240 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0694",
+            "value": "Schließe 260 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0695",
+            "value": "Schließe 280 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0696",
+            "value": "Schließe 300 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0697",
+            "value": "Schließe 320 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0698",
+            "value": "Schließe 340 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0699",
+            "value": "Schließe 360 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0700",
+            "value": "Schließe 380 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0701",
+            "value": "Schließe 400 Storyaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0702",
+            "value": "Schließe zehn Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0703",
+            "value": "Schließe 20 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0704",
+            "value": "Schließe 30 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0705",
+            "value": "Schließe 40 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0706",
+            "value": "Schließe 50 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0707",
+            "value": "Schließe 60 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0708",
+            "value": "Schließe 70 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0709",
+            "value": "Schließe 80 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0710",
+            "value": "Schließe 90 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0711",
+            "value": "Schließe 100 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0712",
+            "value": "Schließe 110 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0713",
+            "value": "Schließe 120 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0714",
+            "value": "Schließe 130 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0715",
+            "value": "Schließe 140 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0716",
+            "value": "Schließe 150 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0717",
+            "value": "Schließe 170 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0718",
+            "value": "Schließe 190 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0719",
+            "value": "Schließe 210 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0720",
+            "value": "Schließe 230 Schwierige Aufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0721",
+            "value": "Schließe zehn Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0722",
+            "value": "Schließe 20 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0723",
+            "value": "Schließe 30 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0724",
+            "value": "Schließe 40 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0725",
+            "value": "Schließe 50 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0726",
+            "value": "Schließe 60 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0727",
+            "value": "Schließe 70 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0728",
+            "value": "Schließe 80 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0729",
+            "value": "Schließe 90 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0730",
+            "value": "Schließe 100 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0731",
+            "value": "Schließe 110 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0732",
+            "value": "Schließe 120 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0733",
+            "value": "Schließe 130 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0734",
+            "value": "Schließe 140 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0735",
+            "value": "Schließe 150 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0736",
+            "value": "Schließe 160 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0737",
+            "value": "Schließe 170 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0738",
+            "value": "Schließe 180 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0739",
+            "value": "Schließe 190 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0740",
+            "value": "Schließe 200 Multiaufträge ab"
+        },
+        {
+            "key": "M_MONTHLY_0741",
+            "value": "Schließe die ERF-Kammer dreimal ab"
+        },
+        {
+            "key": "M_MONTHLY_0742",
+            "value": "Schließe die ERF-Kammer sechsmal ab"
+        },
+        {
+            "key": "M_MONTHLY_0743",
+            "value": "Schließe die ERF-Kammer neunmal ab"
+        },
+        {
+            "key": "M_MONTHLY_0744",
+            "value": "Schließe die ERF-Kammer zwölfmal ab"
+        },
+        {
+            "key": "M_MONTHLY_0745",
+            "value": "Schließe die ERF-Kammer 15-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0746",
+            "value": "Schließe die ERF-Kammer 18-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0747",
+            "value": "Schließe die ERF-Kammer 21-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0748",
+            "value": "Schließe die ERF-Kammer 24-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0749",
+            "value": "Schließe die ERF-Kammer 27-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0750",
+            "value": "Schließe die ERF-Kammer 30-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0751",
+            "value": "Schließe die ERF-Kammer 33-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0752",
+            "value": "Schließe die ERF-Kammer 36-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0753",
+            "value": "Schließe die ERF-Kammer 39-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0754",
+            "value": "Schließe die ERF-Kammer 42-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0755",
+            "value": "Schließe die ERF-Kammer 45-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0756",
+            "value": "Schließe die ERF-Kammer 50-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0757",
+            "value": "Schließe die ERF-Kammer 55-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0758",
+            "value": "Schließe die ERF-Kammer 60-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0759",
+            "value": "Schließe die ERF-Kammer 65-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0760",
+            "value": "Schließe die ERF-Kammer 70-mal ab"
+        },
+        {
+            "key": "M_MONTHLY_0761",
+            "value": "Messe dich fünfmal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0762",
+            "value": "Messe dich zehnmal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0763",
+            "value": "Messe dich 15-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0764",
+            "value": "Messe dich 20-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0765",
+            "value": "Messe dich 25-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0766",
+            "value": "Messe dich 30-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0767",
+            "value": "Messe dich 35-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0768",
+            "value": "Messe dich 40-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0769",
+            "value": "Messe dich 45-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0770",
+            "value": "Messe dich 50-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0771",
+            "value": "Messe dich 55-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0772",
+            "value": "Messe dich 60-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0773",
+            "value": "Messe dich 65-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0774",
+            "value": "Messe dich 70-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0775",
+            "value": "Messe dich 80-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0776",
+            "value": "Messe dich 90-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0777",
+            "value": "Messe dich 100-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0778",
+            "value": "Messe dich 110-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0779",
+            "value": "Messe dich 120-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0780",
+            "value": "Messe dich 130-mal in der Duellarena"
+        },
+        {
+            "key": "M_MONTHLY_0781",
+            "value": "Sammle bei der Chocobo-Expedition zehnmal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0782",
+            "value": "Sammle bei der Chocobo-Expedition 15-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0783",
+            "value": "Sammle bei der Chocobo-Expedition 20-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0784",
+            "value": "Sammle bei der Chocobo-Expedition 25-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0785",
+            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0786",
+            "value": "Sammle bei der Chocobo-Expedition 35-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0787",
+            "value": "Sammle bei der Chocobo-Expedition 40-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0788",
+            "value": "Sammle bei der Chocobo-Expedition 45-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0789",
+            "value": "Sammle bei der Chocobo-Expedition 50-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0790",
+            "value": "Sammle bei der Chocobo-Expedition 55-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0791",
+            "value": "Sammle bei der Chocobo-Expedition 60-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0792",
+            "value": "Sammle bei der Chocobo-Expedition 65-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0793",
+            "value": "Sammle bei der Chocobo-Expedition 70-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0794",
+            "value": "Sammle bei der Chocobo-Expedition 75-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0795",
+            "value": "Sammle bei der Chocobo-Expedition 80-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0796",
+            "value": "Sammle bei der Chocobo-Expedition 85-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0797",
+            "value": "Sammle bei der Chocobo-Expedition 90-mal Gegenstände ein"
+        },
+        {
+            "key": "M_MONTHLY_0798",
+            "value": "Verbessere dreimal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0799",
+            "value": "Verbessere sechsmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0800",
+            "value": "Verbessere neunmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0801",
+            "value": "Verbessere zwölfmal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0802",
+            "value": "Verbessere 15-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0803",
+            "value": "Verbessere 18-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0804",
+            "value": "Verbessere 21-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0805",
+            "value": "Verbessere 24-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0806",
+            "value": "Verbessere 27-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0807",
+            "value": "Verbessere 30-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0808",
+            "value": "Verbessere 33-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0809",
+            "value": "Verbessere 36-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0810",
+            "value": "Verbessere 39-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0811",
+            "value": "Verbessere 42-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0812",
+            "value": "Verbessere 45-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0813",
+            "value": "Verbessere 50-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0814",
+            "value": "Verbessere 55-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0815",
+            "value": "Verbessere 60-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0816",
+            "value": "Verbessere 65-mal eine Gildenstatue"
+        },
+        {
+            "key": "M_MONTHLY_0817",
+            "value": "Verbessere 70-mal eine Gildenstatue"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Verbrauche 500 Visiore"
         },
@@ -5998,6 +6918,54 @@
         },
         {
             "key": "M_LAPS_P_QILF_06",
+            "value": "Verbrauche 50.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_01",
+            "value": "Verbrauche 500 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_02",
+            "value": "Verbrauche 3.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_03",
+            "value": "Verbrauche 6.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_04",
+            "value": "Verbrauche 12.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_05",
+            "value": "Verbrauche 24.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_06",
+            "value": "Verbrauche 50.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_DELT_01",
+            "value": "Verbrauche 500 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_DELT_02",
+            "value": "Verbrauche 3.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_DELT_03",
+            "value": "Verbrauche 6.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_DELT_04",
+            "value": "Verbrauche 12.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_DELT_05",
+            "value": "Verbrauche 24.000 Visiore"
+        },
+        {
+            "key": "M_LAPS_P_DELT_06",
             "value": "Verbrauche 50.000 Visiore"
         },
         {

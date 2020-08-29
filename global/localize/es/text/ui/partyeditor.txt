@@ -302,11 +302,11 @@
         },
         {
             "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
-            "value": "Hay un espacio libre en tu grupo."
+            "value": "Confirmar formación"
         },
         {
             "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
-            "value": "Partir con espacios libres será una desventaja durante los combates de gremio limitados. ¿Proceder de todos modos?"
+            "value": "Partir con espacios libres será una desventaja durante los combates de gremio limitados. ¿Quieres hacerlo de todos modos?"
         },
         {
             "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",

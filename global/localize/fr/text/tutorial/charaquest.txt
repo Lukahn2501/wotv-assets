@@ -30,11 +30,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Texte test •"
+            "value": "• Quêtes de personnage •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Passer le tutoriel de ... ?"
+            "value": "Voulez-vous lancer le tutoriel sur les quêtes de personnage ?"
         },
         {
             "key": "SKIP_YES",

@@ -38,19 +38,19 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "◆ダミー◆"
+            "value": "◆ギルド石像◆"
         },
         {
             "key": "SKIP_MSG",
-            "value": "ダミーのチュートリアルをスキップしますか？"
+            "value": "ギルド石像のチュートリアルを見ますか？"
         },
         {
             "key": "SKIP_YES",
-            "value": "聞く"
+            "value": "はい"
         },
         {
             "key": "SKIP_NO",
-            "value": "聞かない"
+            "value": "いいえ"
         }
     ]
 }

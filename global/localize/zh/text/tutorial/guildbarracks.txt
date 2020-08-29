@@ -42,19 +42,19 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "◆代替品◆"
+            "value": "◆兵舍◆"
         },
         {
             "key": "SKIP_MSG",
-            "value": "要跳過代替品的新手教學嗎？"
+            "value": "要看兵舍的新手教學嗎？"
         },
         {
             "key": "SKIP_YES",
-            "value": "聽"
+            "value": "是"
         },
         {
             "key": "SKIP_NO",
-            "value": "不聽"
+            "value": "否"
         }
     ]
 }

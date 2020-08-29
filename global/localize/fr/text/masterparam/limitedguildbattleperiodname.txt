@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "LGBP_001",
+            "value": "Combat de guilde limité de mars"
+        }
+    ]
+}

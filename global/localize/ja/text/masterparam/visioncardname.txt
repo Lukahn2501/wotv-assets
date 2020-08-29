@@ -65,12 +65,12 @@
             "value": "四天烈風　テトラシルフィード"
         },
         {
-            "key": "VC_LW_THDG",
-            "value": "猛攻双竜　２ヘッドドラゴン"
-        },
-        {
             "key": "VC_MBFF_MV1",
             "value": "絶望と真実のメビウス"
+        },
+        {
+            "key": "VC_LW_THDG",
+            "value": "猛攻双竜　２ヘッドドラゴン"
         },
         {
             "key": "VC_FF01_DMAC",
@@ -79,6 +79,14 @@
         {
             "key": "VC_LW_CBVPARTY1",
             "value": "徒桜の宴"
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "夢幻魔人　ディアボロス"
+        },
+        {
+            "key": "VC_FFT_MV3",
+            "value": "草笛"
         },
         {
             "key": "VC_LW_IGNT",
@@ -159,6 +167,10 @@
         {
             "key": "VC_LW_VNLA2",
             "value": "偽りの契り、偽れぬ魂"
+        },
+        {
+            "key": "VC_FFT_MV2",
+            "value": "赤チョコボ"
         },
         {
             "key": "VC_LW_CACT",
@@ -255,10 +267,6 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "遠見の鏡"
-        },
-        {
-            "key": "VC_LW_DABL",
-            "value": "夢幻魔人　ディアボロス"
         },
         {
             "key": "VC_EXP_01",

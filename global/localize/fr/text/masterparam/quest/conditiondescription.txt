@@ -221,12 +221,28 @@
             "value": "Le Guerrier de la lumière doit être au niv. 1"
         },
         {
+            "key": "COND_HA_LW_SIMR",
+            "value": "Seymore doit être au niv. 1"
+        },
+        {
             "key": "COND_HA_LW_QILF",
             "value": "Kilphe doit être au niv. 1"
         },
         {
-            "key": "COND_HA_LW_SIMR",
-            "value": "Seymore doit être au niv. 1"
+            "key": "COND_HA_LW_ORDR",
+            "value": "Oldoa doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "Raviesse doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_FFT_DELT",
+            "value": "Delita doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_FFT_AGRA",
+            "value": "Agrias doit être au niv. 1"
         },
         {
             "key": "COND_CH_LW_MONT",
@@ -489,12 +505,32 @@
             "value": "Le Guerrier de la lumière doit être au niv. 40"
         },
         {
+            "key": "COND_CH_LW_SIMR",
+            "value": "Seymore doit être au niv. 40"
+        },
+        {
             "key": "COND_CH_LW_QILF",
             "value": "Kilphe doit être au niv. 40"
         },
         {
-            "key": "COND_CH_LW_SIMR",
-            "value": "Seymore doit être au niv. 40"
+            "key": "COND_CH_LW_ORDR",
+            "value": "Oldoa doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "Raviesse doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FFT_MSTD",
+            "value": "Mustadio doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FFT_DELT",
+            "value": "Delita doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FFT_AGRA",
+            "value": "Agrias doit être au niv. 40"
         }
     ]
 }

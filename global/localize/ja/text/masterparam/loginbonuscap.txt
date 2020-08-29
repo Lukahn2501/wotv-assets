@@ -37,6 +37,10 @@
             "value": "8月ログインボーナス"
         },
         {
+            "key": "LB_202009",
+            "value": "9月ログインボーナス"
+        },
+        {
             "key": "LB_LIMIT_GL_0001",
             "value": "Release Commemoration"
         },
@@ -50,6 +54,10 @@
         },
         {
             "key": "LB_COMEBACK_001",
+            "value": "カムバックログインボーナス"
+        },
+        {
+            "key": "LB_COMEBACK_002",
             "value": "カムバックログインボーナス"
         },
         {
@@ -127,6 +135,18 @@
         {
             "key": "LB_LIMIT_GL0018",
             "value": "ストーリー8章公開記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0019",
+            "value": "大型バージョンアップ記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0020",
+            "value": "FFTコラボ記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0021",
+            "value": "ハーフアニバーサリー前夜祭第1弾ログインボーナス"
         }
     ]
 }

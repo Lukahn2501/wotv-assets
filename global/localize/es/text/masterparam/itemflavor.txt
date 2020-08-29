@@ -1081,6 +1081,66 @@
             "value": "A pesar de su aspecto casi esférico, esta piedra roja no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo mago de bastones y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos correspondientes con su color."
         },
         {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "A pesar de su aspecto casi esférico, esta piedra verde no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo caballero sagrado y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "A pesar de su aspecto casi esférico, esta piedra azul no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo caballero sagrado y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "A pesar de su aspecto casi esférico, esta piedra morada no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo caballero sagrado y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "A pesar de su aspecto casi esférico, esta piedra amarilla no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo caballero sagrado y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "A pesar de su aspecto casi esférico, esta piedra roja no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo caballero sagrado y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "A pesar de su aspecto casi esférico, esta piedra verde no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo escudero y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "A pesar de su aspecto casi esférico, esta piedra azul no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo escudero y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "A pesar de su aspecto casi esférico, esta piedra morada no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo escudero y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "A pesar de su aspecto casi esférico, esta piedra amarilla no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo escudero y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "A pesar de su aspecto casi esférico, esta piedra roja no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo escudero y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "A pesar de su aspecto casi esférico, esta piedra verde no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo maquinista y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "A pesar de su aspecto casi esférico, esta piedra azul no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo maquinista y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "A pesar de su aspecto casi esférico, esta piedra morada no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo maquinista y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "A pesar de su aspecto casi esférico, esta piedra amarilla no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo maquinista y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "A pesar de su aspecto casi esférico, esta piedra roja no es artificial, sino que se forma en la naturaleza. Contiene los recuerdos de un antiguo maquinista y, según dicen, se encontró cerca del lugar de entrenamiento de esta persona, donde acabó desatando sus poderes. Entrenar con esta piedra permitirá obtener los recuerdos almacenados en su interior."
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Un mineral que emite un resplandor de color verde cuya forma recuerda al de una llama trémula. Se dice que incrementa mucho más el poder de aquellos que poseen protección divina de fuego cuando se reúnen muchos minerales. La cantidad de poder que puede incrementar depende del color del mineral."
         },
@@ -1790,6 +1850,26 @@
         },
         {
             "key": "IT_PI_LW_SIMR",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
             "value": ""
         },
         {
@@ -2581,6 +2661,10 @@
             "value": "Receta que describe la combinación de materiales necesarios para elaborar una armadura de la luz. Con el tipo y la cantidad de materiales correctos, se puede crear el objeto con tan solo seguir la receta. Este método se lleva a cabo en todo el mundo, pues no requiere los conocimientos ni la habilidad de un herrero."
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "Receta que describe la combinación de materiales necesarios para fabricar un Sortilége. Con el tipo y la cantidad de materiales correctos, se puede crear el objeto con tan solo seguir la receta. Este método se lleva a cabo en todo el mundo, pues no requiere los conocimientos ni la habilidad de un herrero."
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Grabar adornos especiales en el equipo mientras se forja crea un efecto similar al de un campo mágico a pequeña escala que lo imbuye de diferentes poderes. Este sello en concreto aumenta la VIT de quien se ponga el equipo con esta inscripción."
         },
@@ -2773,6 +2857,10 @@
             "value": ""
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación. El resultado de la invocación dependerá por completo de los hilos espirituales que contenga el tícket, aunque su diseño, color y forma pueden servir como pistas sobre el resultado."
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": ""
         },
@@ -2813,6 +2901,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -2822,6 +2914,18 @@
         },
         {
             "key": "IT_EC_FFT_2_B",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
             "value": ""
         },
         {
@@ -2841,20 +2945,16 @@
             "value": ""
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": ""
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": ""
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": ""
         },
         {
             "key": "IT_EC_FF1_2",
             "value": ""
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación. El resultado de la invocación dependerá por completo de los hilos espirituales que contenga el tícket, aunque su diseño, color y forma pueden servir como pistas sobre el resultado."
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2917,6 +3017,10 @@
             "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
         },
@@ -2937,6 +3041,14 @@
             "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
         },
@@ -2950,90 +3062,6 @@
         },
         {
             "key": "IT_US_SE_SB_EXP_03",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": "Un tícket extremadamente raro que sirve para seleccionar e invocar una visión excepcional de entre las muchas que guardan los cristales, de cualquier época o el mundo. Este tícket, al igual que los demás, no está hecho de papel, sino de una fina lámina mineral."
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "Un tícket extremadamente raro que sirve para seleccionar e invocar una visión excepcional de entre las muchas que guardan los cristales, de cualquier época o el mundo. Este tícket, al igual que los demás, no está hecho de papel, sino de una fina lámina mineral."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "Un tícket extremadamente raro que sirve para seleccionar e invocar una visión excepcional de entre las muchas que guardan los cristales, de cualquier época o el mundo. Este tícket, al igual que los demás, no está hecho de papel, sino de una fina lámina mineral."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": "Un tícket extremadamente raro que sirve para seleccionar e invocar una visión excepcional de entre las muchas que guardan los cristales, de cualquier época o el mundo. Este tícket, al igual que los demás, no está hecho de papel, sino de una fina lámina mineral."
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
             "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
         },
         {
@@ -3065,16 +3093,32 @@
             "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación. El resultado de la invocación dependerá por completo de los hilos espirituales que contenga el tícket, aunque su diseño, color y forma pueden servir como pistas sobre el resultado."
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación. El resultado de la invocación dependerá por completo de los hilos espirituales que contenga el tícket, aunque su diseño, color y forma pueden servir como pistas sobre el resultado."
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación. El resultado de la invocación dependerá por completo de los hilos espirituales que contenga el tícket, aunque su diseño, color y forma pueden servir como pistas sobre el resultado."
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
         },
         {
-            "key": "IT_US_G_N_TW_10",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación. El resultado de la invocación suele comprender varios minerales, materiales o medicinas. Se dice que los deseos que contiene el tícket pueden servir como pistas sobre el resultado."
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "Un tícket extremadamente raro que sirve para seleccionar e invocar una visión excepcional de entre las muchas que guardan los cristales, de cualquier época o el mundo. Este tícket, al igual que los demás, no está hecho de papel, sino de una fina lámina mineral."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -3098,10 +3142,6 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_05",
-            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
             "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
         },
         {
@@ -3337,10 +3377,6 @@
             "value": ""
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": ""
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": ""
         },
@@ -3353,6 +3389,10 @@
             "value": ""
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": ""
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": ""
         },
@@ -3362,6 +3402,14 @@
         },
         {
             "key": "IT_VPI_LW_CBVPARTY1",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
             "value": ""
         },
         {
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Objeto que otorga la bendición del aumento de ataque cuando se entrega como ofrenda a la estatua del león. Se creó para representar la mandíbula de un león. Contemplar la impecable obra basta para evocar imágenes del mismísimo animal. Se dice que, cuantos más amuletos de estos se ofrezcan, mayores serán los efectos de la bendición."
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Un tícket extremadamente raro que sirve para seleccionar e invocar una visión excepcional de entre las muchas que guardan los cristales, de cualquier época o el mundo. Este tícket, al igual que los demás, no está hecho de papel, sino de una fina lámina mineral."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Un tícket extremadamente raro que sirve para seleccionar e invocar una visión excepcional de entre las muchas que guardan los cristales, de cualquier época o el mundo. Este tícket, al igual que los demás, no está hecho de papel, sino de una fina lámina mineral."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Un tícket extremadamente raro que sirve para seleccionar e invocar una visión excepcional de entre las muchas que guardan los cristales, de cualquier época o el mundo. Este tícket, al igual que los demás, no está hecho de papel, sino de una fina lámina mineral."
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación, aunque es muy inusual que un objeto de este tipo permita seleccionar durante el ritual. Al igual que otros tíckets seleccionadores, se puede deducir el resultado de la invocación examinando su diseño y color."
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación. El resultado de la invocación suele comprender varios minerales, materiales o medicinas. Se dice que los deseos que contiene el tícket pueden servir como pistas sobre el resultado."
         }
     ]
 }

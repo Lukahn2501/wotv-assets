@@ -1205,6 +1205,46 @@
             "value": "페네스의 왕 무라가"
         },
         {
+            "key": "QE_ST_01080201",
+            "value": "개선"
+        },
+        {
+            "key": "QE_ST_01080202",
+            "value": "빅토라의 속셈"
+        },
+        {
+            "key": "QE_ST_01080203",
+            "value": "설원"
+        },
+        {
+            "key": "QE_ST_01080204",
+            "value": "천칭"
+        },
+        {
+            "key": "QE_ST_01080205",
+            "value": "크리, 격노하다 1"
+        },
+        {
+            "key": "QE_ST_01080206",
+            "value": "크리, 격노하다 2"
+        },
+        {
+            "key": "QE_ST_01080207",
+            "value": "친구를 위해"
+        },
+        {
+            "key": "QE_ST_01080208",
+            "value": "그걸 헛수고로 만들 셈이야?"
+        },
+        {
+            "key": "QE_ST_01080209",
+            "value": "레오니스로"
+        },
+        {
+            "key": "QE_ST_01080210",
+            "value": "호른의 긍지"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "조각 획득: 자잔"
         },
@@ -1425,12 +1465,20 @@
             "value": "조각 획득: 비네라 페네스"
         },
         {
+            "key": "QE_HA_LW_SIMR",
+            "value": "조각 획득: 시무르"
+        },
+        {
             "key": "QE_HA_LW_QILF",
             "value": "조각 획득: 키르페"
         },
         {
-            "key": "QE_HA_LW_SIMR",
-            "value": "조각 획득: 시무르"
+            "key": "QE_HA_LW_ORDR",
+            "value": "조각 획득: 오르도아"
+        },
+        {
+            "key": "QE_HA_LW_LVES",
+            "value": "조각 획득: 라비에스"
         },
         {
             "key": "QE_CH_LW_ZZAN",
@@ -1669,12 +1717,20 @@
             "value": "티렐"
         },
         {
+            "key": "QE_CH_LW_SIMR",
+            "value": "시무르"
+        },
+        {
             "key": "QE_CH_LW_QILF",
             "value": "키르페"
         },
         {
-            "key": "QE_CH_LW_SIMR",
-            "value": "시무르"
+            "key": "QE_CH_LW_ORDR",
+            "value": "오르도아"
+        },
+        {
+            "key": "QE_CH_LW_LVES",
+            "value": "라비에스"
         },
         {
             "key": "QE_CH_FF14_YSTL",
@@ -1699,6 +1755,18 @@
         {
             "key": "QE_CH_FF1_WROL",
             "value": "빛의 전사"
+        },
+        {
+            "key": "QE_CH_FFT_MSTD",
+            "value": "무스타디오"
+        },
+        {
+            "key": "QE_CH_FFT_AGRA",
+            "value": "아그리아스"
+        },
+        {
+            "key": "QE_CH_FFT_DELT",
+            "value": "딜리타"
         },
         {
             "key": "QE_EV_FF1_01",
@@ -1789,6 +1857,34 @@
             "value": "파이널판타지14 칠흑의 반역자 [토벌] 레벨 10"
         },
         {
+            "key": "QE_EV_FFT02_01",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #1"
+        },
+        {
+            "key": "QE_EV_FFT02_02",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #2"
+        },
+        {
+            "key": "QE_EV_FFT02_03",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #3"
+        },
+        {
+            "key": "QE_EV_FFT02_04",
+            "value": "[제2탄] FINAL FANTASY TACTICS 전투 #4"
+        },
+        {
+            "key": "QE_EV_FFT02_05",
+            "value": "[제2탄] 성채도시 잘랜다"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02",
+            "value": "[제2탄] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "QE_MU_FFT_EX_02",
+            "value": "[제2탄] FINAL FANTASY TACTICS [EX]"
+        },
+        {
             "key": "QE_EV_FFT_01",
             "value": "FINAL FANTASY TACTICS 전투 #1"
         },
@@ -1841,12 +1937,44 @@
             "value": "FF EXVIUS Universe 퀘스트"
         },
         {
+            "key": "QE_EV_DELT_01",
+            "value": "한정 하드 퀘스트(딜리타)"
+        },
+        {
+            "key": "QE_EV_AGRA_01",
+            "value": "한정 하드 퀘스트(아그리아스)"
+        },
+        {
+            "key": "QE_EV_VNLA_01",
+            "value": "한정 하드 퀘스트(비네라 페네스)"
+        },
+        {
+            "key": "QE_EV_QILF_01",
+            "value": "한정 하드 퀘스트(키르페)"
+        },
+        {
+            "key": "QE_EV_ORDR_01",
+            "value": "한정 하드 퀘스트(오르도아)"
+        },
+        {
             "key": "QE_EV_GL_1M_FIR",
             "value": "100만 다운로드 기념 퀘스트(불)"
         },
         {
             "key": "QE_EV_GL_1M_ICE",
             "value": "100만 다운로드 기념 퀘스트(얼음)"
+        },
+        {
+            "key": "QE_EV_JP_001",
+            "value": "JP 획득 퀘스트"
+        },
+        {
+            "key": "QE_SB_OCHU_02",
+            "value": "고난도 오츄 도전"
+        },
+        {
+            "key": "QE_SB_OCHU_03",
+            "value": "초고난도 오츄 도전"
         },
         {
             "key": "QE_EV_GL_1M_WIN",
@@ -1883,18 +2011,6 @@
         {
             "key": "QE_EV_BEGN_2001",
             "value": "유닛 육성 응원 퀘스트"
-        },
-        {
-            "key": "QE_CHAL_01_01",
-            "value": "[고난도] 도전 퀘스트"
-        },
-        {
-            "key": "QE_CHAL_01_02",
-            "value": "[초고난도] 도전 퀘스트 #1"
-        },
-        {
-            "key": "QE_CHAL_01_03",
-            "value": "[초고난도] 도전 퀘스트 #2"
         },
         {
             "key": "QE_EV_01_01",
@@ -1995,6 +2111,10 @@
         {
             "key": "QE_EV_02_EX1",
             "value": "서쪽의 위협 런달 [EX]"
+        },
+        {
+            "key": "QE_EV_RAIN_01",
+            "value": "한정 하드 퀘스트(레인)"
         },
         {
             "key": "QE_EV_03_01",
@@ -2101,24 +2221,24 @@
             "value": "머나먼 동방 [EX 2]"
         },
         {
-            "key": "QE_EV_QILF_01",
-            "value": "한정 하드 퀘스트(키르페)"
-        },
-        {
-            "key": "QE_EV_VNLA_01",
-            "value": "한정 하드 퀘스트(비네라 페네스)"
-        },
-        {
-            "key": "QE_EV_RAIN_01",
-            "value": "한정 하드 퀘스트(레인)"
-        },
-        {
             "key": "QE_SB_CSLI_02",
             "value": "고난도 초코 푸딩 도전"
         },
         {
             "key": "QE_SB_CSLI_03",
             "value": "초고난도 초코 푸딩 도전"
+        },
+        {
+            "key": "QE_CHAL_01_01",
+            "value": "[고난도] 도전 퀘스트"
+        },
+        {
+            "key": "QE_CHAL_01_02",
+            "value": "[초고난도] 도전 퀘스트 #1"
+        },
+        {
+            "key": "QE_CHAL_01_03",
+            "value": "[초고난도] 도전 퀘스트 #2"
         },
         {
             "key": "QE_EV_SB_EXP_FIR",
@@ -2237,10 +2357,6 @@
             "value": "에트와 육성 퀘스트 EX 퀘스트 2"
         },
         {
-            "key": "QE_EV_JP_001",
-            "value": "JP 획득 퀘스트"
-        },
-        {
             "key": "QE_EV_ART_SCR_01",
             "value": "고난도 비전서 획득 퀘스트(검, 대검, 도끼)"
         },
@@ -2285,20 +2401,8 @@
             "value": "장비 육성 퀘스트(황금 도끼)"
         },
         {
-            "key": "QE_EV_NEWMAP_001",
-            "value": "길드 전투 모의전"
-        },
-        {
-            "key": "QE_EV_NEWMAP_002",
-            "value": "길드 전투 모의전(초급)"
-        },
-        {
-            "key": "QE_EV_NEWMAP_003",
-            "value": "길드 전투 모의전(중급)"
-        },
-        {
-            "key": "QE_EV_NEWMAP_004",
-            "value": "길드 전투 모의전(상급)"
+            "key": "QE_MU_OCHU_04",
+            "value": "초고난도 오츄 도전"
         },
         {
             "key": "QE_MU_CSLI_03",
@@ -2673,6 +2777,22 @@
             "value": "초보자 퀘스트 14"
         },
         {
+            "key": "QE_EV_NEWMAP_001",
+            "value": "길드 전투 모의전"
+        },
+        {
+            "key": "QE_EV_NEWMAP_002",
+            "value": "길드 전투 모의전(초급)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_003",
+            "value": "길드 전투 모의전(중급)"
+        },
+        {
+            "key": "QE_EV_NEWMAP_004",
+            "value": "길드 전투 모의전(상급)"
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": "투기장"
         },
@@ -2687,6 +2807,10 @@
         {
             "key": "QE_ARENA_00004",
             "value": "유적"
+        },
+        {
+            "key": "QE_ARENA_00005",
+            "value": "성 밖"
         },
         {
             "key": "QE_GVG_00001",
@@ -2727,6 +2851,10 @@
         {
             "key": "QE_PVP_FRI_0004",
             "value": "투기장"
+        },
+        {
+            "key": "QE_PVP_FRI_0005",
+            "value": "성 밖"
         },
         {
             "key": "QE_PVP_RANK_0001",

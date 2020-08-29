@@ -30,7 +30,7 @@
         },
         {
             "key": "GuidanceTips_ChallengeMission",
-            "value": "Home"
+            "value": "ホーム画面"
         },
         {
             "key": "GuidanceTips_UnitStrength",

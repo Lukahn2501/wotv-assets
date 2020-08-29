@@ -2,7 +2,7 @@
     "infos": [
         {
             "key": "TALK_001",
-            "value": "Ich locke ihn von <color=#0000ff>vorn</color> hierher. Bruderherz, versuch du, <color=#0000ff>hinter</color> die Bomber zu gelangen!"
+            "value": "Ich locke ihn von <color=#0000ff>vorn</color> hierher. Bruder, versuch du, <color=#0000ff>hinter</color> die Bomber zu gelangen!"
         },
         {
             "key": "TALK_002",
@@ -38,7 +38,7 @@
         },
         {
             "key": "TALK_007",
-            "value": "Nicht schlecht, Bruderherz! Die Dorfbewohner sind gerettet. Kehren wir zum Schloss zurück."
+            "value": "Nicht schlecht, Bruder! Die Dorfbewohner sind gerettet. Kehren wir zum Schloss zurück."
         },
         {
             "key": "DIALOG_001_T",
@@ -98,7 +98,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du dir eine Erläuterung von grundlegenden Kampfaktionen anhören?"
+            "value": "Möchtest du dir eine Erklärung der grundlegenden Kampfaktionen anhören?"
         },
         {
             "key": "SKIP_YES",

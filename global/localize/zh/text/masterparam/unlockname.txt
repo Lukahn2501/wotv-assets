@@ -93,6 +93,10 @@
             "value": "匹配戰鬥"
         },
         {
+            "key": "SupportUnit",
+            "value": "同行者設定"
+        },
+        {
             "key": "Mission",
             "value": "挑戰"
         },
@@ -105,16 +109,12 @@
             "value": "角色任務"
         },
         {
-            "key": "ItemExchange",
-            "value": "素材交換"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "同行者設定"
-        },
-        {
             "key": "Tower",
             "value": "白磁之塔"
+        },
+        {
+            "key": "ItemExchange",
+            "value": "素材交換"
         }
     ]
 }

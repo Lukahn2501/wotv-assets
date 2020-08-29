@@ -250,7 +250,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_06",
-            "value": "經驗立方每日禮包"
+            "value": "經驗立方每日禮包B"
         },
         {
             "key": "IT_SET_3MDL_THUNDER",
@@ -667,6 +667,70 @@
         {
             "key": "IT_SET_SMVC_VE_EXP",
             "value": "幻兵卡強化禮包"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "彩虹覺醒禮包"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "風屬性職業強化禮包·緋"
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "風屬性職業強化禮包·黃"
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "風屬性職業強化禮包·紫"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "經驗立方禮包+"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "探險券禮包SP"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "風屬性完全覺醒禮包"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "奧爾多育成禮包"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "阿格莉亞絲育成禮包"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "UR兵員極限突破禮包"
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "冰之覺醒禮包+"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "火之覺醒禮包+"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "職業強化支援禮包"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "經驗立方禮包"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "成長蛋禮包"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "堅鋼石禮包"
         }
     ]
 }

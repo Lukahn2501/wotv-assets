@@ -450,11 +450,11 @@
         },
         {
             "key": "COLON",
-            "value": " : "
+            "value": ":"
         },
         {
             "key": "COLON_L",
-            "value": " : "
+            "value": ":"
         },
         {
             "key": "LIMIT_NONE",
@@ -809,6 +809,10 @@
             "value": "Acheter des visiores"
         },
         {
+            "key": "POWER_SAVE",
+            "value": "Appuyez sur le cristal pour sortir du mode économie d'énergie"
+        },
+        {
             "key": "ACT_SPECIFIED_COMMERCIAL_TRANSACTIONS",
             "value": "Transactions commerciales spécifiques"
         },
@@ -1065,6 +1069,10 @@
             "value": "PT"
         },
         {
+            "key": "SORT_TITLE_AP",
+            "value": "PA"
+        },
+        {
             "key": "SORT_TITLE_SPEED",
             "value": "AGI"
         },
@@ -1075,6 +1083,22 @@
         {
             "key": "SORT_TITLE_AVOID",
             "value": "ESQUIVE"
+        },
+        {
+            "key": "SORT_TITLE_DEFENCE",
+            "value": "DEF"
+        },
+        {
+            "key": "SORT_TITLE_MIND",
+            "value": "PSY"
+        },
+        {
+            "key": "SORT_TITLE_DEXTERITY",
+            "value": "DEX"
+        },
+        {
+            "key": "SORT_TITLE_LUCK",
+            "value": "CHA"
         },
         {
             "key": "SORT_TITLE_CRITICAL",
@@ -1553,6 +1577,10 @@
             "value": "Foi"
         },
         {
+            "key": "STATUS_HATE",
+            "value": "Haine"
+        },
+        {
             "key": "STATUS_COST",
             "value": "Coût"
         },
@@ -1765,6 +1793,18 @@
             "value": "PT"
         },
         {
+            "key": "ABILITY_STATUS_USE_AUTO",
+            "value": "Utilisation en aptitudes automatiques"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL",
+            "value": "Paramètres avancés"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL_ON",
+            "value": "Paramètres avancés : ON"
+        },
+        {
             "key": "ABILITY_CAPTION_LEADER",
             "value": "Aptitude de leader"
         },
@@ -1853,6 +1893,30 @@
             "value": "Activation indisponible car vous n'êtes pas amis."
         },
         {
+            "key": "ABILITY_AUTO_SETTING_TITLE",
+            "value": "Utilisation en combats automatiques"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_QUEST",
+            "value": "Quêtes"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_MULTI",
+            "value": "Multi"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_DUEL",
+            "value": "Duel "
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_GUILD",
+            "value": "Combat de guilde"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TOWER",
+            "value": "Tour de porcelaine/Donjon impénétrable"
+        },
+        {
             "key": "JOB_LEVEL_MAX",
             "value": "Max"
         },
@@ -1923,6 +1987,14 @@
         {
             "key": "UNITLIST_NOTUSE",
             "value": "Usage interdit"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
+            "value": "Choix de l'unité"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
+            "value": "Cette unité appartient déjà à un autre groupe<br>({0}).<br>La sélectionner quand même ?<br>(Cette action retirera l'unité<br>de l'autre groupe.)"
         },
         {
             "key": "NETHERBEAST_SYNCHRO",
@@ -2637,6 +2709,14 @@
             "value": "Formation d'un groupe"
         },
         {
+            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
+            "value": "Normal"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
+            "value": "Limité"
+        },
+        {
             "key": "PARTYEDITOR_GUILD_PARTY_OFFENSE",
             "value": "ATT"
         },
@@ -2651,6 +2731,14 @@
         {
             "key": "PARTYEDITOR_GUILD_PERIOD_TITLE",
             "value": "Durée des combats de guilde"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
+            "value": "Règles de formation"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
+            "value": "<line-height=22>*Vous ne pouvez pas assigner une même unité, chimère, équipement, atout-vision dans plusieurs groupes d'attaque ou de défense."
         },
         {
             "key": "PARTYEDITOR_TAB_QUEST",
@@ -2771,10 +2859,6 @@
         {
             "key": "PARTYEDITOR_AUTOBATTLE_DISABLE",
             "value": "Paramètres OFF"
-        },
-        {
-            "key": "；編成画面 - オート周回",
-            "value": ""
         },
         {
             "key": "PARTYEDITOR_AUTOLAP_TITLE",
@@ -2949,16 +3033,56 @@
             "value": "Paramétrer les priorités"
         },
         {
+            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
+            "value": "Paramétrer les priorités"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
+            "value": "Sélection automatique des cibles"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
+            "value": "Tout automatique"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
+            "value": "Équipement"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
+            "value": "Atouts-Vision"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
+            "value": "Chimères"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
+            "value": "<line-height=26>*Les unités, l'équipement, les atouts-visions et les chimères<br>seront automatiquement intégrés à la formation d'un groupe en fonction des conditions sélectionnées."
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
+            "value": "<line-height=26>*Seuls les éléments sélectionnés seront ajoutés aux formations en fonction des paramètres.<br>Tous les autres éléments resteront dans leur formation actuelle."
+        },
+        {
             "key": "RECOMMEND_TEAM_FAVORITE",
             "value": "Équipement favori en priorité"
         },
         {
-            "key": "RECOMMEND_TEAM_LIMITBURST",
-            "value": "Équipement de limite en priorité"
+            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
+            "value": "<line-height=26>*S'il est coché, l'équipement favori d'une unité<br>sera assigné en priorité dans les formations."
         },
         {
             "key": "RECOMMEND_TEAM_CALCULATING",
             "value": "Recherche"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_TITLE",
+            "value": "Sélectionnez une cible automatique"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
+            "value": "Cochez au moins l'un des objets de la sélection automatique des cibles."
         },
         {
             "key": "TEAM_NAME_INPUT_TITLE",
@@ -3119,6 +3243,14 @@
         {
             "key": "CHAT_GUILD_JOIN_DESC",
             "value": "Rejoindre cette guilde ?"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_CHAT",
+            "value": "Chat"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
+            "value": "Historique des combats"
         },
         {
             "key": "CHAT_NOTTFY_TEXT",
@@ -3577,6 +3709,10 @@
             "value": "Effets d'aptitude"
         },
         {
+            "key": "OPTION_EFFECT",
+            "value": "Affichage des effets de zone"
+        },
+        {
             "key": "OPTION_SOUND",
             "value": "Son"
         },
@@ -3623,6 +3759,66 @@
         {
             "key": "OPTION_CHANGE_DRAW",
             "value": "Paramètres graphiques modifiés."
+        },
+        {
+            "key": "OPTION_LAP_TITLE",
+            "value": "Paramètres de la boucle"
+        },
+        {
+            "key": "OPTION_LAP_LIMIT",
+            "value": "Nombre max de répétitions"
+        },
+        {
+            "key": "OPTION_LAP_NONE",
+            "value": "Illimité"
+        },
+        {
+            "key": "OPTION_LAP_TIMES",
+            "value": "Nombre de répétitions"
+        },
+        {
+            "key": "OPTION_LAP_ITEM",
+            "value": "Obtenir des objets"
+        },
+        {
+            "key": "OPTION_LAP_USE_ITEM",
+            "value": "Coût END"
+        },
+        {
+            "key": "OPTION_LAP_STOP",
+            "value": "Interrompre la boucle"
+        },
+        {
+            "key": "OPTION_LAP_FEAVER",
+            "value": "Chocoboost"
+        },
+        {
+            "key": "OPTION_LAP_CAPRICIOUS",
+            "value": "Découverte d'une boutique surprise"
+        },
+        {
+            "key": "OPTION_LAP_RAID",
+            "value": "Apparitions de raid"
+        },
+        {
+            "key": "OPTION_LAP_STOP_CAUTION",
+            "value": "*Régler sur ON interrompra la boucle lors du lancement de ces événements."
+        },
+        {
+            "key": "OPTION_LAP_AP_USE",
+            "value": "Restauration d'endurance automatique"
+        },
+        {
+            "key": "OPTION_LAP_AP_TIMES",
+            "value": "Nombre de restaurations max"
+        },
+        {
+            "key": "OPTION_LAP_AP_CAUTION",
+            "value": "*Restaure automatiquement votre endurance quand elle tombe à zéro au cours d'une boucle.<br>*L'endurance ne sera restaurée qu'avec vos objets de restauration d'endurance.<br>*Les objets de restauration d'endurance seront consommés en partant de la restauration la plus importante à la plus minime."
+        },
+        {
+            "key": "OPTION_ITEM_TITLE",
+            "value": "Choix des objets"
         },
         {
             "key": "LAPIS_CAUTION_GOOGLE",
@@ -4001,6 +4197,342 @@
             "value": "Concours technique"
         },
         {
+            "key": "ARTI_CONDITION_TITLE",
+            "value": "Conditions d'équipement"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_TITLE",
+            "value": "Jobs compatibles"
+        },
+        {
+            "key": "ARTI_CONDITION_NONE",
+            "value": "Aucune condition d'équipement"
+        },
+        {
+            "key": "ARTI_CONDITION_COUNTRY",
+            "value": "- Originaire de {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_SEX",
+            "value": "- {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_UNIT",
+            "value": "- {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_RARITY",
+            "value": "- De rareté {0} ou plus"
+        },
+        {
+            "key": "ARTI_CONDITION_AWAKE",
+            "value": "- De niveau d'éveil {0} ou plus"
+        },
+        {
+            "key": "ARTI_CONDITION_RANK",
+            "value": "- Ayant brisé ses limites {0} fois ou plus"
+        },
+        {
+            "key": "ARTI_CONDITION_SERIES",
+            "value": "- Série {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_NONE",
+            "value": "Compatible avec tous les jobs"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
+            "value": "Détails des unités"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
+            "value": "*Une fois au niveau d'éveil {0}★/Au niveau de limite {0}/Avec tous les jobs au niv. max"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
+            "value": "Détails des atouts-visions"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
+            "value": "*Une fois au niveau d'éveil {0}★/Au niv. max"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
+            "value": "Détails des chimères"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
+            "value": "*Chaque chimère s'obtient gratuitement à chaque première invocation"
+        },
+        {
+            "key": "VISION_DETAIL_STATUS",
+            "value": "Caractéristiques"
+        },
+        {
+            "key": "VISION_DETAIL_INFO",
+            "value": "Informations"
+        },
+        {
+            "key": "VISION_DETAIL_ADD_EFF",
+            "value": "Effet(s) attribué(s)"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE_BONUS",
+            "value": "Bonus d'éveil"
+        },
+        {
+            "key": "VISION_DETAIL_ENHANCE",
+            "value": "Améliorer"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE",
+            "value": "Éveiller"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_STATUS",
+            "value": "Statut"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_SYNCHRO",
+            "value": "Résonance"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_RESIST",
+            "value": "Résistances"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
+            "value": "Magie d'invocation"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
+            "value": "Tableau d'entraînement des chimères "
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
+            "value": "Amélioration des chimères "
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
+            "value": "Améliorations multiples"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
+            "value": "La chimère a atteint son niveau maximum."
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
+            "value": "La quantité d'EXP reçue excède la quantité nécessaire pour atteindre le niveau max de la chimère. Procéder à l'amélioration ?"
+        },
+        {
+            "key": "UNIT_DETAIL_AWAKE",
+            "value": "Éveiller"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP",
+            "value": "Briser une limite"
+        },
+        {
+            "key": "UNIT_DETAIL_INTIMACY",
+            "value": "Affinité"
+        },
+        {
+            "key": "UNIT_DETAIL_STATUS_DETAIL",
+            "value": "Détails"
+        },
+        {
+            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
+            "value": "Récompenses de confiance absolue"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_BORD",
+            "value": "Tableau des aptitudes"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_SET",
+            "value": "Aptitude sélectionnée"
+        },
+        {
+            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
+            "value": "Tableau d'entraînement des chimères "
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ENHANCE",
+            "value": "Améliorer"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_AWAKE",
+            "value": "Éveiller"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ABILITY",
+            "value": "Aptitudes"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
+            "value": "Confiance"
+        },
+        {
+            "key": "UNIT_DETAIL_RANK_LIMIT",
+            "value": "Limite de rang"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ON",
+            "value": "Enregistré dans les Favoris"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_OFF",
+            "value": "Retiré des Favoris"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP_CONDITION",
+            "value": "Débloquer en brisant les limites jusqu'à {0}"
+        },
+        {
+            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
+            "value": "Maîtrise d'équipement"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP",
+            "value": "Équiper"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI",
+            "value": "Équipement favori"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
+            "value": "Sélectionner"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
+            "value": "Matériaux d'amélioration"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
+            "value": "Vous ne possédez aucun matériau d'amélioration"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
+            "value": "Améliorations multiples"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
+            "value": "Confirmer l'amélioration"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
+            "value": "L'unité a atteint son niveau maximum."
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
+            "value": "La quantité d'EXP reçue excède la quantité nécessaire pour atteindre le niveau max de l'unité. Procéder à l'amélioration ?"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
+            "value": "Améliorer"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
+            "value": "Principal"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
+            "value": "Niv. d'unité requis"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
+            "value": "Améliorer le job"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
+            "value": "Max"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
+            "value": "Matériaux d'amélioration de job"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
+            "value": "Niv. de Job max atteint"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
+            "value": "Matériaux insuffisants"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITYSET_SET",
+            "value": "Sélectionner"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_STATUS",
+            "value": "Statut de l'unité"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_JOB",
+            "value": "Job"
+        },
+        {
+            "key": "UNIT_ARTI_SET_TITLE",
+            "value": "Équiper"
+        },
+        {
+            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
+            "value": "Affichage des résistances"
+        },
+        {
+            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
+            "value": "Retirer l'équipement"
+        },
+        {
+            "key": "UNIT_ARTI_SET_REMOVE",
+            "value": "Retirer"
+        },
+        {
+            "key": "UNIT_ARTI_SET_CONFIRM",
+            "value": "Cet équipement est déjà utilisé<br>par une autre unité.<br>Équiper quand même ?<br>(Cet action retirera l'équipement<br>de l'autre unité.)"
+        },
+        {
+            "key": "ARTI_STATUS_ADD_NONE",
+            "value": "Aucune aptitude supplémentaire"
+        },
+        {
+            "key": "ARTI_STATUS_WA_TITLE",
+            "value": "AE"
+        },
+        {
+            "key": "ARTI_STATUS_LB_TITLE",
+            "value": "Limite brisée"
+        },
+        {
+            "key": "ARTI_STATUS_LB_ENHANCE",
+            "value": "équipé(e)"
+        },
+        {
+            "key": "TRUST_MASTER_TITLE",
+            "value": "Récompenses de confiance absolue"
+        },
+        {
+            "key": "TRUST_MASTER_CONDITION",
+            "value": "S'obtient en atteignant le niv 5 de la limite et le niv 6 de l'éveil"
+        },
+        {
+            "key": "TRUST_MASTER_COMPLETE",
+            "value": "Obtenu"
+        },
+        {
+            "key": "QRCODE_TAKE_TITLE",
+            "value": "Numéro de série"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_BATTLE",
+            "value": "Numéro de série enregistré<br>Veuillez consulter l'écran d'accueil."
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_HOME",
+            "value": "Numéro de série enregistré.<br>Vous allez revenir à l'écran d'accueil."
+        },
+        {
             "key": "DENY",
             "value": "Ignorer"
         },
@@ -4281,548 +4813,12 @@
             "value": "yr"
         },
         {
-            "key": "POWER_SAVE",
-            "value": "Appuyez sur le cristal pour sortir du mode économie d'énergie"
-        },
-        {
-            "key": "SORT_TITLE_AP",
-            "value": "PA"
-        },
-        {
-            "key": "SORT_TITLE_DEFENCE",
-            "value": "DEF"
-        },
-        {
-            "key": "SORT_TITLE_MIND",
-            "value": "PSY"
-        },
-        {
-            "key": "SORT_TITLE_DEXTERITY",
-            "value": "DEX"
-        },
-        {
-            "key": "SORT_TITLE_LUCK",
-            "value": "CHA"
-        },
-        {
-            "key": "STATUS_HATE",
-            "value": "Haine"
-        },
-        {
-            "key": "ABILITY_STATUS_USE_AUTO",
-            "value": "Aptitudes utilisées en combat auto"
-        },
-        {
-            "key": "ABILITY_STATUS_DETAIL",
-            "value": "Paramètres avancés"
-        },
-        {
-            "key": "ABILITY_STATUS_DETAIL_ON",
-            "value": "Paramètres avancés : ON"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_TITLE",
-            "value": "Utilisation en combat auto"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_QUEST",
-            "value": "Quêtes"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_MULTI",
-            "value": "Multi"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_DUEL",
-            "value": "Duel "
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_GUILD",
-            "value": "Combat de guilde"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_TOWER",
-            "value": "Tour de porcelaine"
-        },
-        {
-            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
-            "value": "Choix de l'unité"
-        },
-        {
-            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
-            "value": "Cette unité appartient déjà à un autre groupe ({0}).<br>La sélectionner quand même ?<br>(Cette action retirera l'unité<br>de l'autre groupe.)"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
-            "value": "Normal"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
-            "value": "Limité"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
-            "value": "Règles de formation"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
-            "value": "<line-height=22>*Vous ne pouvez pas assigner une même unité, chimère, équipement, atout-vision dans plusieurs groupes d'attaque ou de défense."
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
-            "value": "Paramétrer les priorités"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
-            "value": "Sélection automatique des cibles"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
-            "value": "Tout automatique"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
-            "value": "Équipement"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
-            "value": "Atouts-Vision"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
-            "value": "Chimères"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
-            "value": "<line-height=26>*Les unités, l'équipement, les atouts-visions et les chimères<br>seront automatiquement intégrés à la formation d'un groupe en fonction des conditions sélectionnées."
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
-            "value": "<line-height=26>*Seuls les équipements sélectionnés seront ajoutés aux formations en fonction des paramètres.<br>Tous les autres équipements resteront dans leur formation actuelle."
-        },
-        {
-            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
-            "value": "<line-height=26>*S'il est coché, l'équipement favori d'une unité<br>sera assigné en priorité dans les formations."
-        },
-        {
-            "key": "RECOMMEND_TEAM_ERROR_TITLE",
-            "value": "Veuillez cocher un équipement."
-        },
-        {
-            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
-            "value": "Veuillez cocher<br>au moins 1 équipement, <br> 1 atout vision et 1 chimère."
-        },
-        {
-            "key": "CHAT_GUILD_FILTER_CHAT",
-            "value": "Chat"
-        },
-        {
-            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
-            "value": "Historique des combats"
-        },
-        {
-            "key": "OPTION_EFFECT",
-            "value": "Affichage des effets de zone"
-        },
-        {
-            "key": "OPTION_LAP_TITLE",
-            "value": "Paramètres de la boucle"
-        },
-        {
-            "key": "OPTION_LAP_LIMIT",
-            "value": "Nombre max de répétitions"
-        },
-        {
-            "key": "OPTION_LAP_NONE",
-            "value": "Illimité"
-        },
-        {
-            "key": "OPTION_LAP_TIMES",
-            "value": "Nombre de répétitions"
-        },
-        {
-            "key": "OPTION_LAP_ITEM",
-            "value": "Obtenir des objets"
-        },
-        {
-            "key": "OPTION_LAP_USE_ITEM",
-            "value": "Coût END"
-        },
-        {
-            "key": "OPTION_LAP_STOP",
-            "value": "Interrompre la boucle"
-        },
-        {
-            "key": "OPTION_LAP_FEAVER",
-            "value": "Chocoboost"
-        },
-        {
-            "key": "OPTION_LAP_CAPRICIOUS",
-            "value": "Découverte d'une boutique surprise"
-        },
-        {
-            "key": "OPTION_LAP_RAID",
-            "value": "Apparitions de raid"
-        },
-        {
-            "key": "OPTION_LAP_STOP_CAUTION",
-            "value": "*Régler sur ON interrompra la boucle lors du lancement de ces événements."
-        },
-        {
-            "key": "OPTION_LAP_AP_USE",
-            "value": "Restauration d'endurance automatique"
-        },
-        {
-            "key": "OPTION_LAP_AP_TIMES",
-            "value": "Nombre de restaurations max"
-        },
-        {
-            "key": "OPTION_LAP_AP_CAUTION",
-            "value": "*Restaure automatiquement votre endurance quand elle tombe à zéro au cours d'une boucle.<br>*L'endurance ne sera restaurée qu'avec vos objets de restauration d'endurance.<br>*Les objets de restauration d'endurance seront consommés en partant de la restauration la plus importante à la plus minime."
-        },
-        {
-            "key": "OPTION_ITEM_TITLE",
-            "value": "Choix des objets"
-        },
-        {
-            "key": "ARTI_CONDITION_TITLE",
-            "value": "Conditions d'équipement"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_TITLE",
-            "value": "Jobs compatibles"
-        },
-        {
-            "key": "ARTI_CONDITION_NONE",
-            "value": "Aucune condition d'équipement"
-        },
-        {
-            "key": "ARTI_CONDITION_COUNTRY",
-            "value": "- Originaire de {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_SEX",
-            "value": "- {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_UNIT",
-            "value": "- {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_RARITY",
-            "value": "- De rareté {0} ou plus"
-        },
-        {
-            "key": "ARTI_CONDITION_AWAKE",
-            "value": "- De niveau d'éveil {0} ou plus"
-        },
-        {
-            "key": "ARTI_CONDITION_RANK",
-            "value": "- Ayant brisé ses limites {0} fois ou plus"
-        },
-        {
-            "key": "ARTI_CONDITION_SERIES",
-            "value": "- Série {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_NONE",
-            "value": "Compatible avec tous les jobs"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
-            "value": "Détails des unités"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
-            "value": "*Une fois au niveau d'éveil {0}★/Au niveau de limite {0}/Avec tous les jobs au niv. max"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
-            "value": "Détails des atouts-visions"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
-            "value": "*Une fois au niveau d'éveil {0}★/Au niv. max"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
-            "value": "Détails des chimères"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
-            "value": "*Chaque chimère s'obtient gratuitement à chaque première invocation"
-        },
-        {
-            "key": "VISION_DETAIL_STATUS",
-            "value": "Caractéristiques"
-        },
-        {
-            "key": "VISION_DETAIL_INFO",
-            "value": "Informations"
-        },
-        {
-            "key": "VISION_DETAIL_ADD_EFF",
-            "value": "Effet(s) attribué(s)"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE_BONUS",
-            "value": "Bonus d'éveil"
-        },
-        {
-            "key": "VISION_DETAIL_ENHANCE",
-            "value": "Améliorer"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE",
-            "value": "Éveiller"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_STATUS",
-            "value": "Statut"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_SYNCHRO",
-            "value": "Résonance"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_RESIST",
-            "value": "Résistances"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
-            "value": "Magie d'invocation"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
-            "value": "Tableau d'entraînement des chimères "
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
-            "value": "Amélioration des chimères "
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
-            "value": "Améliorations multiples"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
-            "value": "La chimère a atteint son niveau maximum."
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
-            "value": "La quantité d'EXP reçue excède la quantité nécessaire pour atteindre le niveau max de la chimère. Procéder à l'amélioration ?"
-        },
-        {
-            "key": "UNIT_DETAIL_AWAKE",
-            "value": "Éveiller"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP",
-            "value": "Briser la limite"
-        },
-        {
-            "key": "UNIT_DETAIL_INTIMACY",
-            "value": "Affinité"
-        },
-        {
-            "key": "UNIT_DETAIL_STATUS_DETAIL",
-            "value": "Détails"
-        },
-        {
-            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
-            "value": "Récompenses de confiance absolue"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_BORD",
-            "value": "Tableau des aptitudes"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_SET",
-            "value": "Aptitude sélectionnée"
-        },
-        {
-            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
-            "value": "Tableau d'entraînement des chimères "
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ENHANCE",
-            "value": "Améliorer"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_AWAKE",
-            "value": "Éveiller"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ABILITY",
-            "value": "Aptitudes"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
-            "value": "Confiance"
-        },
-        {
-            "key": "UNIT_DETAIL_RANK_LIMIT",
-            "value": "Limite de rang"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ON",
-            "value": "Enregistré dans les Favoris"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_OFF",
-            "value": "Retiré des Favoris"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP_CONDITION",
-            "value": "Débloquer en brisant les limites jusqu'à {0}"
-        },
-        {
-            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
-            "value": "Maîtrise d'équipement"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP",
-            "value": "Équiper"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI",
-            "value": "Équipement favori"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
-            "value": "Paramètres"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
-            "value": "Matériaux d'amélioration"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
-            "value": "Vous ne possédez aucun matériau d'amélioration"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
-            "value": "Améliorations multiples"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
-            "value": "Confirmer l'amélioration"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
-            "value": "L'unité a atteint son niveau maximum."
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
-            "value": "La quantité d'EXP reçue excède la quantité nécessaire pour atteindre le niveau max de l'unité. Procéder à l'amélioration ?"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
-            "value": "Améliorer"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
-            "value": "Principale"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
-            "value": "Niv. d'unité requis"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
-            "value": "Amélioration des jobs"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
-            "value": "Max"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
-            "value": "Matériaux d'amélioration de job"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
-            "value": "Niv. de Job max atteint"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
-            "value": "Matériaux insuffisants"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITYSET_SET",
-            "value": "Sélectionner"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_STATUS",
-            "value": "Statut de l'unité"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_JOB",
-            "value": "Job"
-        },
-        {
-            "key": "UNIT_ARTI_SET_TITLE",
-            "value": "Équiper"
-        },
-        {
-            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
-            "value": "Affichage des résistances"
-        },
-        {
-            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
-            "value": "Retirer l'équipement"
-        },
-        {
-            "key": "UNIT_ARTI_SET_REMOVE",
-            "value": "Retirer"
-        },
-        {
-            "key": "UNIT_ARTI_SET_CONFIRM",
-            "value": "Cet équipement est déjà utilisé par une autre unité.<br>Équiper quand même ?<br>(Cet action retirera l'équipement<br>de l'autre unité.)"
-        },
-        {
-            "key": "ARTI_STATUS_ADD_NONE",
-            "value": "Aucune aptitude supplémentaire"
-        },
-        {
-            "key": "ARTI_STATUS_WA_TITLE",
-            "value": "AE"
-        },
-        {
-            "key": "ARTI_STATUS_LB_TITLE",
-            "value": "Limite brisée"
-        },
-        {
-            "key": "ARTI_STATUS_LB_ENHANCE",
-            "value": "équipé(e)"
-        },
-        {
-            "key": "TRUST_MASTER_TITLE",
-            "value": "Récompenses de confiance absolue"
-        },
-        {
-            "key": "TRUST_MASTER_CONDITION",
-            "value": "S'obtient en atteignant le niv 5 de la limite et le niv 6 de l'éveil"
-        },
-        {
-            "key": "TRUST_MASTER_COMPLETE",
-            "value": "Obtenu"
-        },
-        {
-            "key": "QRCODE_TAKE_TITLE",
-            "value": "Numéro de série"
-        },
-        {
-            "key": "QRCODE_TAKE_DESC_IN_BATTLE",
-            "value": "Numéro de série enregistré<br>Veuillez consulter l'écran d'accueil."
-        },
-        {
-            "key": "QRCODE_TAKE_DESC_IN_HOME",
-            "value": "Numéro de série enregistré.<br>Vous allez revenir à l'écran d'accueil."
-        },
-        {
             "key": "RECOMMEND_TEAM_CAUTION",
             "value": "<line-height=26>*Les unités, les équipements, les chimères et les atouts-visions seront automatiquement ajoutés à votre formation en fonction des priorités choisies."
+        },
+        {
+            "key": "RECOMMEND_TEAM_LIMITBURST",
+            "value": "Équipement de limite en priorité"
         },
         {
             "key": "DEBUG_SELECT_TUTORIAL_TITLE",

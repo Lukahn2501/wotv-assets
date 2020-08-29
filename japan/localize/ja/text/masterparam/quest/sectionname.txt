@@ -121,6 +121,10 @@
             "value": "第１部第１０章第３節"
         },
         {
+            "key": "SE_ST_011101",
+            "value": "第１部第１１章第１節"
+        },
+        {
             "key": "SE_WD_010101",
             "value": "リオンズ大森林"
         },
@@ -263,6 +267,10 @@
         {
             "key": "SE_EV_ROSA_01",
             "value": "限定ハードクエスト（ローザ）"
+        },
+        {
+            "key": "SE_EV_KTON_01",
+            "value": "限定ハードクエスト（キトン（水着））"
         },
         {
             "key": "SE_EV_ANV_19_10",
@@ -513,10 +521,6 @@
             "value": "囚われの姫君【EX】 マルチ"
         },
         {
-            "key": "SE_EV_ART_CRF_01",
-            "value": "武具育成クエスト"
-        },
-        {
             "key": "SE_EV_ETRE",
             "value": "エトア育成クエスト"
         },
@@ -539,38 +543,6 @@
         {
             "key": "SE_MU_EV_THLA_EX",
             "value": "高難度　サリアの欠片獲得　EXクエストマルチ"
-        },
-        {
-            "key": "SE_EV_ART_CRF_02",
-            "value": "超高難度 武具育成クエスト"
-        },
-        {
-            "key": "SE_MU_ART_CRF_02",
-            "value": "超高難度 武具育成クエスト"
-        },
-        {
-            "key": "SE_EV_ART_CRF_03",
-            "value": "武具育成クエスト"
-        },
-        {
-            "key": "SE_MU_ART_CRF_03",
-            "value": "武具育成クエスト"
-        },
-        {
-            "key": "SE_EV_ART_CRF_04",
-            "value": "武具育成クエスト"
-        },
-        {
-            "key": "SE_MU_ART_CRF_04",
-            "value": "武具育成クエスト"
-        },
-        {
-            "key": "SE_EV_ART_CRF_05",
-            "value": "武具育成クエスト"
-        },
-        {
-            "key": "SE_MU_ART_CRF_05",
-            "value": "武具育成クエスト"
         },
         {
             "key": "SE_EV_ARENA_1",
@@ -615,6 +587,58 @@
         {
             "key": "SE_MU_SB_06",
             "value": "フェンリルチャレンジ"
+        },
+        {
+            "key": "SE_SB_07",
+            "value": "シヴァチャレンジ"
+        },
+        {
+            "key": "SE_MU_SB_07",
+            "value": "シヴァチャレンジ"
+        },
+        {
+            "key": "SE_EV_ART_CRF_01",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "SE_EV_ART_CRF_02",
+            "value": "超高難度 武具育成クエスト"
+        },
+        {
+            "key": "SE_MU_ART_CRF_02",
+            "value": "超高難度 武具育成クエスト"
+        },
+        {
+            "key": "SE_EV_ART_CRF_03",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "SE_MU_ART_CRF_03",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "SE_EV_ART_CRF_04",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "SE_MU_ART_CRF_04",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "SE_EV_ART_CRF_05",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "SE_MU_ART_CRF_05",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "SE_EV_ART_CRF_06",
+            "value": "超高難度 武具育成クエスト"
+        },
+        {
+            "key": "SE_MU_ART_CRF_06",
+            "value": "超高難度 武具育成クエスト"
         },
         {
             "key": "SE_CHAL_01",

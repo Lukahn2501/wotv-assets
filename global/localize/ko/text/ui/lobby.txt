@@ -65,6 +65,10 @@
             "value": "레이드 보상 수령 기간 중"
         },
         {
+            "key": "QLN_RAID_3",
+            "value": "이프리트에게 도전하라!"
+        },
+        {
             "key": "QLN_TOWER_1",
             "value": "이벤트 준비 중!"
         },
@@ -91,10 +95,6 @@
         {
             "key": "CHALLENGE_OPEN_DESC",
             "value": "도전 기간 종료"
-        },
-        {
-            "key": "QLN_RAID_3",
-            "value": "이프리트에게 도전하라!"
         }
     ]
 }

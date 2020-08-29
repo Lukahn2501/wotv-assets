@@ -71,6 +71,14 @@
         {
             "key": "18",
             "value": "<line-height=15>„Kapitel 8 veröffentlicht!“-Laden"
+        },
+        {
+            "key": "19",
+            "value": "<line-height=15>Laden zur Feier des<br>Super-Versionsupdates"
+        },
+        {
+            "key": "20",
+            "value": "<line-height=15>Limitierte<br>Kollabopakete!"
         }
     ]
 }

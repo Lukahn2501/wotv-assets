@@ -50,11 +50,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "◆極限技強化◆"
+            "value": "◆困難任務◆"
         },
         {
             "key": "SKIP_MSG",
-            "value": "要進入困難任務相關的新手教學嗎？"
+            "value": "要看關於困難任務的新手教學嗎？"
         },
         {
             "key": "SKIP_YES",

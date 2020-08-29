@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "Forja una pieza de equipo"
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "Consigue objetos en la expedición chocobo"
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "Gana en la arena"
         }
     ]
 }

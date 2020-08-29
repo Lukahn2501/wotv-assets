@@ -65,12 +65,16 @@
             "value": "共鬥報酬領取期間"
         },
         {
+            "key": "QLN_RAID_3",
+            "value": "討伐伊弗利特！"
+        },
+        {
             "key": "QLN_TOWER_1",
             "value": "活動準備中！"
         },
         {
             "key": "QLN_TOWER_3",
-            "value": "立即前往贏得「深紅烈焰」！"
+            "value": "立即前往贏得深紅烈焰！"
         },
         {
             "key": "QLN_SUMMON_1",
@@ -91,10 +95,6 @@
         {
             "key": "CHALLENGE_OPEN_DESC",
             "value": "挑戰期間結束"
-        },
-        {
-            "key": "QLN_RAID_3",
-            "value": "討伐伊弗利特！"
         }
     ]
 }

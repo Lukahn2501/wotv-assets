@@ -1285,6 +1285,30 @@
             "value": "Armadura de platino +5"
         },
         {
+            "key": "AF_FF1_ARM_002",
+            "value": "Armadura de la luz"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Armadura de la luz +1"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Armadura de la luz +2"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Armadura de la luz +3"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Armadura de la luz +4"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Armadura de la luz +5"
+        },
+        {
             "key": "AF_LW_HLM_001",
             "value": "Yelmo de bronce"
         },
@@ -1511,6 +1535,30 @@
         {
             "key": "AF_LW_CLT_004_5",
             "value": "Abrigo perspicaz +5"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Túnica de platino"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Túnica de platino +1"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Túnica de platino +2"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Túnica de platino +3"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Túnica de platino +4"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Túnica de platino +5"
         },
         {
             "key": "AF_LW_RNG_001",
@@ -1901,6 +1949,26 @@
             "value": "Odachi de la destrucción"
         },
         {
+            "key": "AF_ACC_LW_ORDR_1",
+            "value": "Delantal de Oldoa"
+        },
+        {
+            "key": "AF_SWO_LW_LVES_1",
+            "value": "Esclavo demacrado"
+        },
+        {
+            "key": "AF_ACC_FFT_AGRA_1",
+            "value": "Armadura de caballero sagrado"
+        },
+        {
+            "key": "AF_ARM_FFT_DELT_1",
+            "value": "Chaleco resistente"
+        },
+        {
+            "key": "AF_GUN_FFT_MSTD_2",
+            "value": "Besrudio"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Espada de león"
         },
@@ -1949,6 +2017,10 @@
             "value": "Escudo de Engelberto"
         },
         {
+            "key": "AF_LW_SHI_003",
+            "value": "Escudo de Raviesse"
+        },
+        {
             "key": "AF_SWO_FFT_RAMZ_2",
             "value": "Espada de integridad"
         },
@@ -1993,6 +2065,22 @@
             "value": "Espada de la luz"
         },
         {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Bastón fantasmal"
+        },
+        {
+            "key": "AF_BSW_LW_ORDR_2",
+            "value": "Espada de Oldoa"
+        },
+        {
+            "key": "AF_SWO_FFT_AGRA_2",
+            "value": "FFT Agrias"
+        },
+        {
+            "key": "AF_SWO_FFT_DELT_2",
+            "value": "FFT Delita"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Anillo de alejandrita"
         },
@@ -2021,56 +2109,28 @@
             "value": "Sable carmesí"
         },
         {
-            "key": "AF_LW_CLT_005",
-            "value": "Túnica de platino"
+            "key": "AF_FFT_ACC_001",
+            "value": "Sortilége"
         },
         {
-            "key": "AF_LW_CLT_005_1",
-            "value": "Túnica de platino +1"
+            "key": "AF_FFT_ACC_001_1",
+            "value": "Sortilége +1"
         },
         {
-            "key": "AF_LW_CLT_005_2",
-            "value": "Túnica de platino +2"
+            "key": "AF_FFT_ACC_001_2",
+            "value": "Sortilége +2"
         },
         {
-            "key": "AF_LW_CLT_005_3",
-            "value": "Túnica de platino +3"
+            "key": "AF_FFT_ACC_001_3",
+            "value": "Sortilége +3"
         },
         {
-            "key": "AF_LW_CLT_005_4",
-            "value": "Túnica de platino +4"
+            "key": "AF_FFT_ACC_001_4",
+            "value": "Sortilége +4"
         },
         {
-            "key": "AF_LW_CLT_005_5",
-            "value": "Túnica de platino +5"
-        },
-        {
-            "key": "AF_FF1_ARM_002",
-            "value": "Armadura de la luz"
-        },
-        {
-            "key": "AF_FF1_ARM_002_1",
-            "value": "Armadura de la luz +1"
-        },
-        {
-            "key": "AF_FF1_ARM_002_2",
-            "value": "Armadura de la luz +2"
-        },
-        {
-            "key": "AF_FF1_ARM_002_3",
-            "value": "Armadura de la luz +3"
-        },
-        {
-            "key": "AF_FF1_ARM_002_4",
-            "value": "Armadura de la luz +4"
-        },
-        {
-            "key": "AF_FF1_ARM_002_5",
-            "value": "Armadura de la luz +5"
-        },
-        {
-            "key": "AF_ROD_LW_QILF_2",
-            "value": "Bastón fantasmal"
+            "key": "AF_FFT_ACC_001_5",
+            "value": "Sortilége +5"
         }
     ]
 }

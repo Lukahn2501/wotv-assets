@@ -62,7 +62,7 @@
         },
         {
             "key": "UnitStrengthLB",
-            "value": "Ver el tutorial sobre la mejora del EL"
+            "value": "Ver el tutorial sobre la mejora de ruptura de límite"
         },
         {
             "key": "UnitTraining",

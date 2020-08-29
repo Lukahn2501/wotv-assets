@@ -97,22 +97,6 @@
             "value": "週一挑戰"
         },
         {
-            "key": "MG_FF1_1_01",
-            "value": "FINAL FANTASY I "
-        },
-        {
-            "key": "MG_FF1_1_M_01",
-            "value": "FINAL FANTASY I【中級】"
-        },
-        {
-            "key": "MG_FF1_1_02",
-            "value": "FINAL FANTASY I【EX】"
-        },
-        {
-            "key": "MG_FF1_1_M_02",
-            "value": "【協力】FINAL FANTASY I【EX】"
-        },
-        {
             "key": "MG_GL_DAILY_RAID_01",
             "value": "參加共鬥每日挑戰"
         },
@@ -149,6 +133,10 @@
             "value": "Final Fantasy XIV: 漆黑的反叛者 【EX】"
         },
         {
+            "key": "MG_GL_FFT_2_CH_01",
+            "value": "【第2波】FINAL FANTASY TACTICS"
+        },
+        {
             "key": "MG_FFT_1_01",
             "value": "FINAL FANTASY TACTICS"
         },
@@ -165,6 +153,34 @@
             "value": "FINAL FANTASY TACTICS 【中級】"
         },
         {
+            "key": "MG_FF1_1_01",
+            "value": "FINAL FANTASY I "
+        },
+        {
+            "key": "MG_FF1_1_M_01",
+            "value": "FINAL FANTASY I【中級】"
+        },
+        {
+            "key": "MG_FF1_1_02",
+            "value": "FINAL FANTASY I【EX】"
+        },
+        {
+            "key": "MG_FF1_1_M_02",
+            "value": "【協力】FINAL FANTASY I【EX】"
+        },
+        {
+            "key": "MG_FFT_2_01",
+            "value": "【第2波】FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_2_02",
+            "value": "【第2波】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "MG_FFT_2_03",
+            "value": "【協力】【第2波】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
             "key": "MG_EV_IGNT_01",
             "value": "鐵巨人考驗"
         },
@@ -179,6 +195,14 @@
         {
             "key": "MG_MU_CSLI_01",
             "value": "【協力】巧克力布丁考驗"
+        },
+        {
+            "key": "MG_EV_OCHU_01",
+            "value": "食腐獸考驗"
+        },
+        {
+            "key": "MG_MU_OCHU_01",
+            "value": "【協力】食腐獸考驗"
         },
         {
             "key": "MG_EV_ART_CRF_01",
@@ -282,19 +306,19 @@
         },
         {
             "key": "MG_EV_ART_SCR_01",
-            "value": "高難度　秘籍獲得任務"
+            "value": "高難度　秘籍獲得任務1"
         },
         {
             "key": "MG_MU_ART_SCR_01",
-            "value": "【協力】高難度　秘籍獲得任務"
+            "value": "【協力】高難度　秘籍獲得任務1"
         },
         {
             "key": "MG_EV_ART_SCR_02",
-            "value": "高難度　秘籍獲得任務II"
+            "value": "高難度　秘籍獲得任務2"
         },
         {
             "key": "MG_MU_ART_SCR_02",
-            "value": "【協力】高難度　秘籍獲得任務II"
+            "value": "【協力】高難度　秘籍獲得任務2"
         },
         {
             "key": "MG_EV_SCR_01",
@@ -529,6 +553,34 @@
             "value": "【每月挑戰】公會石像"
         },
         {
+            "key": "MG_MONTHLY_006_1",
+            "value": "【每月挑戰】劇情任務"
+        },
+        {
+            "key": "MG_MONTHLY_006_2",
+            "value": "【每月挑戰】困難任務"
+        },
+        {
+            "key": "MG_MONTHLY_006_3",
+            "value": "【每月挑戰】協力任務"
+        },
+        {
+            "key": "MG_MONTHLY_006_4",
+            "value": "【每月挑戰】經驗之間"
+        },
+        {
+            "key": "MG_MONTHLY_006_5",
+            "value": "【每月挑戰】鬥技場"
+        },
+        {
+            "key": "MG_MONTHLY_006_6",
+            "value": "【每月挑戰】探險陸行鳥"
+        },
+        {
+            "key": "MG_MONTHLY_006_7",
+            "value": "【每月挑戰】公會石像"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "期間限定幻導石消耗獎勵"
         },
@@ -541,10 +593,6 @@
             "value": "期間限定幻導石消耗獎勵"
         },
         {
-            "key": "MG_COMEBACK_001",
-            "value": "回歸挑戰"
-        },
-        {
             "key": "MG_LAPS_P_VNLA",
             "value": "期間限定幻導石消耗獎勵"
         },
@@ -555,6 +603,18 @@
         {
             "key": "MG_LAPS_P_QILF",
             "value": "期間限定幻導石消耗獎勵"
+        },
+        {
+            "key": "MG_LAPS_P_ORDR",
+            "value": "期間限定幻導石消耗獎勵"
+        },
+        {
+            "key": "MG_LAPS_P_DELT",
+            "value": "期間限定幻導石消耗獎勵"
+        },
+        {
+            "key": "MG_COMEBACK_001",
+            "value": "回歸挑戰"
         }
     ]
 }

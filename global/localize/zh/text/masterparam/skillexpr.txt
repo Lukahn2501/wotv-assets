@@ -2509,6 +2509,150 @@
             "value": "提升防禦"
         },
         {
+            "key": "SK_FFT_AGRA_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_AGRA_M_1",
+            "value": "對範圍內目標造成傷害（大）&一定機率施加停止，使其一定時間內無法積蓄CT"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_2",
+            "value": "對範圍內目標造成傷害（小）&一定機率施加沉默，使其無法使用魔法3回合"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_3",
+            "value": "以自身為中心，大幅提升範圍內己方隊員的精神1回合"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_1",
+            "value": "對目標造成傷害（小）&一定機率施加止動，使其3回合內無法進行「移動」以外的行動"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_2",
+            "value": "以自身為中心對範圍內己方隊員施加再生，使其3回合內持續恢復HP"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_3",
+            "value": "以自身為中心展開屏障，減輕範圍內己方隊員所受魔法傷害（3次）"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_4",
+            "value": "提升己方隊員的攻擊、魔力3回合"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_5",
+            "value": "對目標造成傷害（小）&降低攻擊、魔力、防禦、精神2回合"
+        },
+        {
+            "key": "SK_FFT_AGRA_R_1",
+            "value": "受到傷害時，一定機率減輕傷害"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_1",
+            "value": "提升攻擊"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_2",
+            "value": "提升敏捷、精神"
+        },
+        {
+            "key": "SK_FFT_DELT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_DELT_M_1",
+            "value": "對目標造成傷害（中）&一定機率施加死亡宣告，使其於第4次行動起陷入無法戰鬥狀態"
+        },
+        {
+            "key": "SK_FFT_DELT_M_2",
+            "value": "對目標造成傷害（中）&減少AP"
+        },
+        {
+            "key": "SK_FFT_DELT_M_3",
+            "value": "對目標造成傷害（大）&大幅降低火屬性耐性3回合"
+        },
+        {
+            "key": "SK_FFT_DELT_S_1",
+            "value": "對目標造成傷害（極小）"
+        },
+        {
+            "key": "SK_FFT_DELT_S_2",
+            "value": "消耗自身HP，恢復己方隊員的HP（中）"
+        },
+        {
+            "key": "SK_FFT_DELT_S_3",
+            "value": "對目標造成受魔力高低影響的火屬性傷害（大）"
+        },
+        {
+            "key": "SK_FFT_DELT_S_4",
+            "value": "大幅提升自身攻擊、魔力3回合&降低消耗AP"
+        },
+        {
+            "key": "SK_FFT_DELT_S_5",
+            "value": "對範圍內目標造成傷害（大）&一定機率施加停止，使其一定時間內無法積蓄CT"
+        },
+        {
+            "key": "SK_FFT_DELT_R_1",
+            "value": "受到傷害時，一定機率進行反擊&一定機率往後移動1格"
+        },
+        {
+            "key": "SK_FFT_DELT_P_1",
+            "value": "移動+1"
+        },
+        {
+            "key": "SK_FFT_DELT_P_2",
+            "value": "提升AP獲得量"
+        },
+        {
+            "key": "SK_FFT_MSTD_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_MSTD_M_1",
+            "value": "對範圍內目標造成傷害（中）"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_2",
+            "value": "對目標造成傷害（大）&一定機率對敵方施加石化，使其無法進行任何行動"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_3",
+            "value": "對目標連續造成3次傷害（中）"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_1",
+            "value": "對目標造成傷害（小）&一定機率施加失明，使其3回合內攻擊難以命中"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_2",
+            "value": "以自身為中心，大幅提升範圍內己方隊員的弱化耐性3回合"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_3",
+            "value": "使自身不易受到敵方攻擊"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_4",
+            "value": "對目標造成傷害（小）&一定機率施加止移，使其3回合內無法「移動」"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_5",
+            "value": "對目標造成傷害（中）&一定機率施加止動，使其3回合內無法進行「移動」以外的行動"
+        },
+        {
+            "key": "SK_FFT_MSTD_R_1",
+            "value": "受到傷害時，一定機率恢復一定比例的自身HP（小）"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_1",
+            "value": "射程+1&跳躍+1"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_2",
+            "value": "提升射擊攻擊力"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "對範圍內目標造成受魔力高低影響的冰屬性傷害（小）"
         },
@@ -3041,22 +3185,6 @@
             "value": "以自身為中心對範圍內目標造成傷害（大）&一定機率對目標施加魅惑，使其3回合內無法操作並攻擊同伴"
         },
         {
-            "key": "SK_CSLI_01_ATK",
-            "value": ""
-        },
-        {
-            "key": "SK_CSLI_01_M_01",
-            "value": "對目標造成傷害（小）"
-        },
-        {
-            "key": "SK_CSLI_01_M_02",
-            "value": "對目標造成傷害（小）&吸收所造成的傷害"
-        },
-        {
-            "key": "SK_CSLI_01_M_03",
-            "value": "以自身為中心，對範圍內目標造成傷害（中）&一定機率對目標施加睡眠，使其3回合內無法進行任何行動"
-        },
-        {
             "key": "SK_SLIM_ATK",
             "value": ""
         },
@@ -3071,6 +3199,22 @@
         {
             "key": "SK_SLIM_M_03",
             "value": "以自身為中心對範圍內目標造成傷害（大）&一定機率施加中毒，使其3回合內持續減少HP"
+        },
+        {
+            "key": "SK_CSLI_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "對目標造成傷害（小）"
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "對目標造成傷害（小）&吸收所造成的傷害"
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "以自身為中心，對範圍內目標造成傷害（中）&一定機率對目標施加睡眠，使其3回合內無法進行任何行動"
         },
         {
             "key": "SK_IFRT_ATK",
@@ -3230,7 +3374,7 @@
         },
         {
             "key": "SK_LAMA_M_03",
-            "value": "對範圍內敵方造成傷害（中）&對男性特效&一定機率施加混亂，使其3回合內無法操作，且攻擊時不分敵我"
+            "value": "對範圍內敵方造成傷害（中）&一定機率施加混亂，使其3回合內無法操作，且攻擊時不分敵我"
         },
         {
             "key": "SK_GL_LAMA_M_03",
@@ -3277,6 +3421,22 @@
             "value": "對目標造成魔法傷害（大）"
         },
         {
+            "key": "SK_WRMC_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "對範圍內目標造成傷害（小）&一定機率施加止移"
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "對範圍內目標造成傷害（中）&一定機率降低防禦、精神"
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "對範圍內目標造成火屬性傷害（大）"
+        },
+        {
             "key": "SK_THDG_ATK",
             "value": ""
         },
@@ -3303,22 +3463,6 @@
         {
             "key": "SK_THDG_M_05",
             "value": "以自身為中心對範圍內兵員造成物理傷害（中）&一定機率對敵方施加3回合異常狀態（失明、沉默）"
-        },
-        {
-            "key": "SK_WRMC_ATK",
-            "value": ""
-        },
-        {
-            "key": "SK_WRMC_M_01",
-            "value": "對範圍內目標造成傷害（小）&一定機率施加止移"
-        },
-        {
-            "key": "SK_WRMC_M_02",
-            "value": "對範圍內目標造成傷害（中）&一定機率降低防禦、精神"
-        },
-        {
-            "key": "SK_WRMC_M_03",
-            "value": "對範圍內目標造成火屬性傷害（大）"
         },
         {
             "key": "SK_DABL_ATK",
@@ -3375,26 +3519,6 @@
         {
             "key": "SK_LW_E_VIK_S_3",
             "value": "提升自身攻擊、防禦3回合&降低閃避率"
-        },
-        {
-            "key": "SK_GMK_ATK_NEEDLE",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_FIRE",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_ARROW",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_1",
-            "value": "機關攻擊（投石器單體）"
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_2",
-            "value": "機關攻擊（投石器範圍）"
         },
         {
             "key": "SK_LB_LW_MONT",
@@ -3565,6 +3689,18 @@
             "value": "降低目標魔法耐性3回合後，造成受魔力高低影響的傷害（大）"
         },
         {
+            "key": "SK_LB_LW_ORDR",
+            "value": "降低目標的防禦3回合後，對其造成傷害（大）"
+        },
+        {
+            "key": "SK_LB_FFT_AGRA_01",
+            "value": "對範圍內目標造成傷害（大）&一定機率施加混亂，使其3回合內無法操作，且攻擊時不分敵我"
+        },
+        {
+            "key": "SK_LB_FFT_DELT_01",
+            "value": "對範圍內目標造成傷害（大）&一定機率施加沉默，使其無法使用魔法3回合"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "召喚『伊弗利特』，對範圍內目標造成火屬性傷害（極大）&一定時間內發動地圖效果（提升己方隊員的攻擊、魔力&大幅降低敵方的火屬性耐性）"
         },
@@ -3643,6 +3779,10 @@
         {
             "key": "SK_SMN_DABL",
             "value": "召喚『迪亞波羅斯』，對範圍內目標造成暗屬性傷害（極大）&一定時間內發動地圖效果（提升己方隊員的攻擊、魔力&大幅降低敵方暗屬性耐性）"
+        },
+        {
+            "key": "SK_SMN_CHCB_01",
+            "value": "召喚『紅陸行鳥』，對範圍內目標造成光屬性傷害（大）"
         },
         {
             "key": "SK_US_POTION",
@@ -3798,7 +3938,7 @@
         },
         {
             "key": "SK_MA_LW_GLMS_2",
-            "value": "HP+1000、命中率+15、<br>斬擊攻擊力+10、敏捷+10%"
+            "value": "HP+1,000、命中率+15、<br>斬擊攻擊力+10、敏捷+10%"
         },
         {
             "key": "SK_MA_LW_MACR",
@@ -4025,6 +4165,26 @@
             "value": "攻擊+10%、命中率+30"
         },
         {
+            "key": "SK_MA_LW_ORDR",
+            "value": "AP獲得修正量+30%，斬擊、突刺、打擊、射擊攻擊耐性+5"
+        },
+        {
+            "key": "SK_MA_LW_LVES",
+            "value": "閃避率+10，消耗AP-20%"
+        },
+        {
+            "key": "SK_MA_FFT_AGRA",
+            "value": "單體攻擊耐性+15"
+        },
+        {
+            "key": "SK_MA_FFT_DELT",
+            "value": "攻擊+20%"
+        },
+        {
+            "key": "SK_MA_FFT_MSTD",
+            "value": "命中率+30、提升失明、止移、止動發動率"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "斬擊攻擊力+2"
         },
@@ -4077,6 +4237,26 @@
             "value": "斬擊攻擊力+20"
         },
         {
+            "key": "SK_LW_AVOID_1",
+            "value": "閃避率+1"
+        },
+        {
+            "key": "SK_LW_AVOID_2",
+            "value": "閃避率+2"
+        },
+        {
+            "key": "SK_LW_AVOID_3",
+            "value": "閃避率+3"
+        },
+        {
+            "key": "SK_LW_AVOID_4_N_SSR",
+            "value": "閃避率+4"
+        },
+        {
+            "key": "SK_LW_AVOID_5_SSR",
+            "value": "閃避率+8"
+        },
+        {
             "key": "SK_LW_SWO_003_1",
             "value": ""
         },
@@ -4106,6 +4286,98 @@
         },
         {
             "key": "SK_LW_RNG_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FTW_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_5",
             "value": ""
         },
         {
@@ -4209,7 +4481,23 @@
             "value": "提升自身的單體攻擊耐性3回合&降低範圍攻擊耐性"
         },
         {
-            "key": "SK_KAT_LW_SIMR_1_1",
+            "key": "SK_ACC_LW_ORDR_1_1",
+            "value": "賦予自身自動恢復AP效果（小）3回合&提升防禦貫通率"
+        },
+        {
+            "key": "SK_SWO_LW_LVES_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FFT_AGRA_1_1",
+            "value": "3回合內對自身施加物防護、魔防護"
+        },
+        {
+            "key": "SK_ARM_FFT_DELT_1_1",
+            "value": "消耗自身AP，恢復己方隊員的AP"
+        },
+        {
+            "key": "SK_GUN_FFT_MSTD_1_1",
             "value": ""
         },
         {
@@ -4389,95 +4677,15 @@
             "value": ""
         },
         {
-            "key": "SK_SWO_LW_DRIO_1_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_007_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_5",
-            "value": ""
-        },
-        {
             "key": "SK_KAT_LW_DIAA_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_1",
+            "key": "SK_SWO_LW_DRIO_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_FTW_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_3",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_5",
+            "key": "SK_KAT_LW_SIMR_1_1",
             "value": ""
         },
         {
@@ -4781,18 +4989,6 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_THDG_GS",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GS_AW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GSMAX",
-            "value": ""
-        },
-        {
             "key": "SK_VC_LW_ADLD_GS",
             "value": ""
         },
@@ -4817,6 +5013,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_FF01_DMAC_GS",
             "value": ""
         },
@@ -4826,6 +5034,30 @@
         },
         {
             "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
             "value": ""
         },
         {
@@ -4965,15 +5197,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS",
+            "key": "SK_VC_FFT_MV2_GS",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS_AW",
+            "key": "SK_VC_FFT_MV2_GSAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GSMAX",
+            "key": "SK_VC_FFT_MV3_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSMAX",
             "value": ""
         },
         {
@@ -5269,27 +5509,15 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_P",
+            "key": "SK_VC_LW_CBVPARTY1_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_WHITEDAY1_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_WHITEDAY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {
@@ -5437,6 +5665,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_THDG_P",
             "value": ""
         },
@@ -5473,27 +5725,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "key": "SK_VC_FFT_MV2_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "key": "SK_VC_FFT_MV2_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "key": "SK_VC_FFT_MV3_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_P",
+            "key": "SK_VC_FFT_MV3_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_CBVPARTY1_PMAX",
+            "key": "SK_VC_FFT_MV3_PMAX",
             "value": ""
         },
         {
@@ -5554,6 +5802,10 @@
         },
         {
             "key": "SK_BTL_RANGE_1-20_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U_PA",
             "value": "任務調整用技能"
         },
         {
@@ -6077,6 +6329,74 @@
             "value": "任務調整用技能"
         },
         {
+            "key": "SK_BTL_RES_OTFIRE_1_80_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_D",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_D",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_D",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_D",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_D",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_D",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_D",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_D",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_RES_OTELEMALL_1_80_D",
+            "value": "任務調整用技能"
+        },
+        {
             "key": "SK_BTL_HP_100-99900_U_PA",
             "value": "任務調整用技能"
         },
@@ -6174,6 +6494,14 @@
         },
         {
             "key": "SK_BTL_KILLER_SHINE_1-100_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_CHARM_1-100_U",
+            "value": "任務調整用技能"
+        },
+        {
+            "key": "SK_BTL_POIS_1-100_U",
             "value": "任務調整用技能"
         },
         {
@@ -6299,6 +6627,26 @@
         {
             "key": "SK_GMK_ATK_TEST_KATA_2",
             "value": "機關假定攻擊（投石器範圍）"
+        },
+        {
+            "key": "SK_GMK_ATK_NEEDLE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_FIRE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_ARROW",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1",
+            "value": "機關攻擊（投石器單體）"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2",
+            "value": "機關攻擊（投石器範圍）"
         },
         {
             "key": "SK_LW_WAR_P_2",

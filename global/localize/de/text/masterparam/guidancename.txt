@@ -77,6 +77,10 @@
             "value": "Gildenfunktionen 3"
         },
         {
+            "key": "GuildBattle",
+            "value": "Gildenkämpfe"
+        },
+        {
             "key": "UnitIntimacy",
             "value": "Vertrautheit"
         },
@@ -101,20 +105,16 @@
             "value": "Charakteraufträge"
         },
         {
-            "key": "GuildBattle",
-            "value": "Gildenkämpfe"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "Begleitereinstellungen"
+            "key": "Tower",
+            "value": "Turm"
         },
         {
             "key": "ItemExchange",
             "value": "Tauschladen"
         },
         {
-            "key": "Tower",
-            "value": "Turm"
+            "key": "SupportUnit",
+            "value": "Begleitereinstellungen"
         }
     ]
 }

@@ -1285,6 +1285,30 @@
             "value": "Armure de platine +5"
         },
         {
+            "key": "AF_FF1_ARM_002",
+            "value": "Armure de la lumière"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Armure de la lumière +1"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Armure de la lumière +2"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Armure de la lumière +3"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Armure de la lumière +4"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Armure de la lumière +5"
+        },
+        {
             "key": "AF_LW_HLM_001",
             "value": "Casque en bronze"
         },
@@ -1511,6 +1535,30 @@
         {
             "key": "AF_LW_CLT_004_5",
             "value": "Manteau perspicace +5"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Tunique de platine"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Tunique de platine +1"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Tunique de platine +2"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Tunique de platine +3"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Tunique de platine +4"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Tunique de platine +5"
         },
         {
             "key": "AF_LW_RNG_001",
@@ -1901,6 +1949,26 @@
             "value": "Odachi de la destruction"
         },
         {
+            "key": "AF_ACC_LW_ORDR_1",
+            "value": "Pagne Oldoa"
+        },
+        {
+            "key": "AF_SWO_LW_LVES_1",
+            "value": "Servante insignifiante"
+        },
+        {
+            "key": "AF_ACC_FFT_AGRA_1",
+            "value": "Armure de chevalier sacré"
+        },
+        {
+            "key": "AF_ARM_FFT_DELT_1",
+            "value": "Veste d'endurance"
+        },
+        {
+            "key": "AF_GUN_FFT_MSTD_2",
+            "value": "Besrudio"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Épée du lion"
         },
@@ -1949,6 +2017,10 @@
             "value": "Bouclier d'Engelbert"
         },
         {
+            "key": "AF_LW_SHI_003",
+            "value": "Bouclier de Raviesse"
+        },
+        {
             "key": "AF_SWO_FFT_RAMZ_2",
             "value": "Lame du Juste"
         },
@@ -1993,6 +2065,22 @@
             "value": "Épée de la lumière"
         },
         {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Sceptre fantôme"
+        },
+        {
+            "key": "AF_BSW_LW_ORDR_2",
+            "value": "Épée Oldoa"
+        },
+        {
+            "key": "AF_SWO_FFT_AGRA_2",
+            "value": "FFT Agrias"
+        },
+        {
+            "key": "AF_SWO_FFT_DELT_2",
+            "value": "FFT Delita"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Anneau d'alexandrite"
         },
@@ -2021,56 +2109,28 @@
             "value": "Sabre carmin"
         },
         {
-            "key": "AF_LW_CLT_005",
-            "value": "Tunique de platine"
+            "key": "AF_FFT_ACC_001",
+            "value": "Sortilège"
         },
         {
-            "key": "AF_LW_CLT_005_1",
-            "value": "Tunique de platine +1"
+            "key": "AF_FFT_ACC_001_1",
+            "value": "Sortilège +1"
         },
         {
-            "key": "AF_LW_CLT_005_2",
-            "value": "Tunique de platine +2"
+            "key": "AF_FFT_ACC_001_2",
+            "value": "Sortilège +2"
         },
         {
-            "key": "AF_LW_CLT_005_3",
-            "value": "Tunique de platine +3"
+            "key": "AF_FFT_ACC_001_3",
+            "value": "Sortilège +3"
         },
         {
-            "key": "AF_LW_CLT_005_4",
-            "value": "Tunique de platine +4"
+            "key": "AF_FFT_ACC_001_4",
+            "value": "Sortilège +4"
         },
         {
-            "key": "AF_LW_CLT_005_5",
-            "value": "Tunique de platine +5"
-        },
-        {
-            "key": "AF_FF1_ARM_002",
-            "value": "Armure de la lumière"
-        },
-        {
-            "key": "AF_FF1_ARM_002_1",
-            "value": "Armure de la lumière +1"
-        },
-        {
-            "key": "AF_FF1_ARM_002_2",
-            "value": "Armure de la lumière +2"
-        },
-        {
-            "key": "AF_FF1_ARM_002_3",
-            "value": "Armure de la lumière +3"
-        },
-        {
-            "key": "AF_FF1_ARM_002_4",
-            "value": "Armure de la lumière +4"
-        },
-        {
-            "key": "AF_FF1_ARM_002_5",
-            "value": "Armure de la lumière +5"
-        },
-        {
-            "key": "AF_ROD_LW_QILF_2",
-            "value": "Sceptre fantôme"
+            "key": "AF_FFT_ACC_001_5",
+            "value": "Sortilège +5"
         }
     ]
 }

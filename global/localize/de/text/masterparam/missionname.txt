@@ -109,6 +109,150 @@
             "value": "Tritt einer Gilde bei"
         },
         {
+            "key": "CM_PRO_GL_01",
+            "value": "Melde dich einmal an"
+        },
+        {
+            "key": "CM_PRO_GL_02",
+            "value": "Erreiche mit Schattenluchs Stufe 15"
+        },
+        {
+            "key": "CM_PRO_GL_03",
+            "value": "Erreiche mit Schattenluchs Stufe 30"
+        },
+        {
+            "key": "CM_PRO_GL_04",
+            "value": "Schließe Storyauftrag 1-2-1 ab"
+        },
+        {
+            "key": "CM_PRO_GL_05",
+            "value": "Melde dich an zwei Tagen an"
+        },
+        {
+            "key": "CM_PRO_GL_06",
+            "value": "Erreiche mit Schattenluchs Jobstufe 3"
+        },
+        {
+            "key": "CM_PRO_GL_07",
+            "value": "Schließe Storyauftrag 1-1-10 ab"
+        },
+        {
+            "key": "CM_PRO_GL_08",
+            "value": "Schließe Storyauftrag 1-1-5 ab"
+        },
+        {
+            "key": "CM_PRO_GL_09",
+            "value": "Erreiche mit Schattenluchs Jobstufe 6"
+        },
+        {
+            "key": "CM_PRO_GL_10",
+            "value": "Melde dich an"
+        },
+        {
+            "key": "CM_PRO_GL_11",
+            "value": "Führe einen Limitbruch an Schattenluchs durch"
+        },
+        {
+            "key": "CM_PRO_GL_12",
+            "value": "Erreiche mit Schattenluchs Stufe 35"
+        },
+        {
+            "key": "CM_PRO_GL_13",
+            "value": "Führe drei Limitbrüche an Schattenluchs durch"
+        },
+        {
+            "key": "CM_PRO_GL_14",
+            "value": "Melde dich noch einen Tag an"
+        },
+        {
+            "key": "CM_PRO_GL_15",
+            "value": "Führe zwei Limitbrüche an Schattenluchs durch"
+        },
+        {
+            "key": "CM_PRO_GL_16",
+            "value": "Schließe Storyauftrag 1-2-10 ab"
+        },
+        {
+            "key": "CM_PRO_GL_17",
+            "value": "Schließe Storyauftrag 1-2-5 ab"
+        },
+        {
+            "key": "CM_PRO_GL_18",
+            "value": "Erreiche mit Schattenluchs Stufe 40"
+        },
+        {
+            "key": "CM_PRO_GL_19",
+            "value": "Melde dich an"
+        },
+        {
+            "key": "CM_PRO_GL_20",
+            "value": "Erwecke Schattenluchs"
+        },
+        {
+            "key": "CM_PRO_GL_21",
+            "value": "Erreiche mit Schattenluchs Stufe 45"
+        },
+        {
+            "key": "CM_PRO_GL_22",
+            "value": "Erreiche mit Schattenluchs Stufe 60"
+        },
+        {
+            "key": "CM_PRO_GL_23",
+            "value": "Melde dich noch einen Tag an"
+        },
+        {
+            "key": "CM_PRO_GL_24",
+            "value": "Erwecke Schattenluchs zweimal"
+        },
+        {
+            "key": "CM_PRO_GL_25",
+            "value": "Erwecke Schattenluchs dreimal"
+        },
+        {
+            "key": "CM_PRO_GL_26",
+            "value": "Schließe Storyauftrag 1-3-10 ab"
+        },
+        {
+            "key": "CM_PRO_GL_27",
+            "value": "Erreiche mit Schattenluchs Stufe 50"
+        },
+        {
+            "key": "CM_PRO_GL_28",
+            "value": "Melde dich an"
+        },
+        {
+            "key": "CM_PRO_GL_29",
+            "value": "Schließe Storyauftrag 2-1-10 ab"
+        },
+        {
+            "key": "CM_PRO_GL_30",
+            "value": "Schließe Storyauftrag 2-2-10 ab"
+        },
+        {
+            "key": "CM_PRO_GL_31",
+            "value": "Melde dich noch zwei Tage an"
+        },
+        {
+            "key": "CM_PRO_GL_32",
+            "value": "Melde dich noch drei Tage an"
+        },
+        {
+            "key": "CM_PRO_GL_33",
+            "value": "Schließe Storyauftrag 2-3-10 ab"
+        },
+        {
+            "key": "CM_PRO_GL_34",
+            "value": "Melde dich noch einen Tag an"
+        },
+        {
+            "key": "CM_PRO_GL_35",
+            "value": "Schließe Medienas Schwierigen Auftrag ab"
+        },
+        {
+            "key": "CM_PRO_GL_36",
+            "value": "Schließe Storyauftrag 3-1-10 ab"
+        },
+        {
             "key": "CM_PRO_28",
             "value": "Spiele die FFT-Eventaufträge I"
         },
@@ -251,6 +395,42 @@
         {
             "key": "CM_PRO_72",
             "value": "Setze die FFI-Aufträge fort III"
+        },
+        {
+            "key": "CM_PRO_73",
+            "value": "Setze die FFT-Aufträge Teil II fort I"
+        },
+        {
+            "key": "CM_PRO_74",
+            "value": "Spiele 100-mal die Eventaufträge"
+        },
+        {
+            "key": "CM_PRO_75",
+            "value": "Spiele 50-mal Schwierige Aufträge "
+        },
+        {
+            "key": "CM_PRO_76",
+            "value": "Spiele 100-mal Storyaufträge"
+        },
+        {
+            "key": "CM_PRO_77",
+            "value": "Setze die FFT-Aufträge Teil II fort II"
+        },
+        {
+            "key": "CM_PRO_78",
+            "value": "Messe dich 30-mal in der Arena"
+        },
+        {
+            "key": "CM_PRO_79",
+            "value": "Sammle bei der Chocobo-Expedition 30-mal Gegenstände ein"
+        },
+        {
+            "key": "CM_PRO_80",
+            "value": "Spiele 50-mal Multiaufträge"
+        },
+        {
+            "key": "CM_PRO_81",
+            "value": "Setze die FFT-Aufträge Teil II fort III"
         },
         {
             "key": "GM_0001",
@@ -497,6 +677,14 @@
             "value": "Schließe Kapitel 8, Szene 1 „Muraga, König von Fennes“ ab"
         },
         {
+            "key": "M_ST_0008_02",
+            "value": "Schließe Kapitel 8, Szene 2 „Khuri in Rage I“ ab"
+        },
+        {
+            "key": "M_ST_0008_02_2",
+            "value": "Schließe Kapitel 8, Szene 2 „Der hournsche Stolz“ ab"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Royaler Rang 1: Anmeldebonus"
         },
@@ -570,7 +758,7 @@
         },
         {
             "key": "M_DAILY_001_04",
-            "value": "Schließe einen Multiauftrag ab"
+            "value": "Verbessere eine Gildenstatue"
         },
         {
             "key": "M_DAILY_001_05",
@@ -1013,6 +1201,102 @@
             "value": "Schließe „FINAL FANTASY XIV: Shadowbringers [Eroberung] Stufe 10“ ab (5/5)"
         },
         {
+            "key": "M_GL_FFT_2_CH_AGRA",
+            "value": "Schließe alle Auftragsmissionen von Agrias‘ Charakterauftrag ab"
+        },
+        {
+            "key": "M_GL_FFT_2_CH_DELT",
+            "value": "Schließe alle Auftragsmissionen von Delitas Charakterauftrag ab"
+        },
+        {
+            "key": "M_FFT_2_01",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 1 ab (1/3)"
+        },
+        {
+            "key": "M_FFT_2_02",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 1 ab (2/3)"
+        },
+        {
+            "key": "M_FFT_2_03",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 1 ab (3/3)"
+        },
+        {
+            "key": "M_FFT_2_04",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 2 ab (1/3)"
+        },
+        {
+            "key": "M_FFT_2_05",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 2 ab (2/3)"
+        },
+        {
+            "key": "M_FFT_2_06",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 2 ab (3/3)"
+        },
+        {
+            "key": "M_FFT_2_07",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 3 ab (1/3)"
+        },
+        {
+            "key": "M_FFT_2_08",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 3 ab (2/3)"
+        },
+        {
+            "key": "M_FFT_2_09",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 3 ab (3/3)"
+        },
+        {
+            "key": "M_FFT_2_10",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 4 ab (1/5)"
+        },
+        {
+            "key": "M_FFT_2_11",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 4 ab (3/5)"
+        },
+        {
+            "key": "M_FFT_2_12",
+            "value": "[Teil II] Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 4 ab (5/5)"
+        },
+        {
+            "key": "M_FFT_2_13",
+            "value": "[Runde 2] Schließe „Stadtfestung Zaland“ ab (1/5)"
+        },
+        {
+            "key": "M_FFT_2_14",
+            "value": "[Runde 2] Schließe „Stadtfestung Zaland“ ab (3/5)"
+        },
+        {
+            "key": "M_FFT_2_15",
+            "value": "[Runde 2] Schließe „Stadtfestung Zaland“ ab (5/5)"
+        },
+        {
+            "key": "M_FFT_2_EX_01",
+            "value": "[Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ ab (1/10)"
+        },
+        {
+            "key": "M_FFT_2_EX_02",
+            "value": "[Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ ab (3/10)"
+        },
+        {
+            "key": "M_FFT_2_EX_03",
+            "value": "[Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ ab (5/10)"
+        },
+        {
+            "key": "M_FFT_2_EX_04",
+            "value": "[Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ ab (10/10)"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_01",
+            "value": "[Multi] [Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ ab (1/5)"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_02",
+            "value": "[Multi] [Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ ab (3/5)"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_03",
+            "value": "[Multi] [Teil II] Schließe „FINAL FANTASY TACTICS [EX]“ ab (5/5)"
+        },
+        {
             "key": "M_FFT_1_01",
             "value": "Schließe den „FINAL FANTASY TACTICS“-Kampf Nr. 1 ab (1/3)"
         },
@@ -1315,6 +1599,50 @@
         {
             "key": "M_EV_CSLI_11",
             "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Schokopuddings“ ab (5/5)"
+        },
+        {
+            "key": "M_EV_OCHU_01",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Küsschens“ ab I (1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_02",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Küsschens“ ab II (1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_03",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Küsschens“ ab I (3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_04",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Küsschens“ ab II (3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_05",
+            "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Küsschens“ ab (5/5)"
+        },
+        {
+            "key": "M_EV_OCHU_06",
+            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ ab (1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_07",
+            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ ab (3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_08",
+            "value": "Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ ab (5/5)"
+        },
+        {
+            "key": "M_EV_OCHU_09",
+            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ ab (1/5)"
+        },
+        {
+            "key": "M_EV_OCHU_10",
+            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ ab (3/5)"
+        },
+        {
+            "key": "M_EV_OCHU_11",
+            "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Herausforderung des Küsschens“ ab (5/5)"
         },
         {
             "key": "M_ART_CRF_05_01",
@@ -2581,6 +2909,14 @@
             "value": "Sammeln von Einheiten: Mission 10"
         },
         {
+            "key": "MG_PR_002_011",
+            "value": "Sammeln von Einheiten: Mission 11"
+        },
+        {
+            "key": "MG_PR_002_012",
+            "value": "Sammeln von Einheiten: Mission 12"
+        },
+        {
             "key": "MG_PR_003_001",
             "value": "Erweckung von Einheiten: Mission 1"
         },
@@ -2673,6 +3009,26 @@
             "value": "Erweckung von Einheiten: Mission 23"
         },
         {
+            "key": "MG_PR_003_024",
+            "value": "Erweckung von Einheiten: Mission 24"
+        },
+        {
+            "key": "MG_PR_003_025",
+            "value": "Erweckung von Einheiten: Mission 25"
+        },
+        {
+            "key": "MG_PR_003_026",
+            "value": "Erweckung von Einheiten: Mission 26"
+        },
+        {
+            "key": "MG_PR_003_027",
+            "value": "Erweckung von Einheiten: Mission 27"
+        },
+        {
+            "key": "MG_PR_003_028",
+            "value": "Erweckung von Einheiten: Mission 28"
+        },
+        {
             "key": "MG_PR_004_001",
             "value": "Einheiten und Limitbrüche: Mission 1"
         },
@@ -2763,6 +3119,26 @@
         {
             "key": "MG_PR_004_023",
             "value": "Einheiten und Limitbrüche: Mission 23"
+        },
+        {
+            "key": "MG_PR_004_024",
+            "value": "Einheiten und Limitbrüche: Mission 24"
+        },
+        {
+            "key": "MG_PR_004_025",
+            "value": "Einheiten und Limitbrüche: Mission 25"
+        },
+        {
+            "key": "MG_PR_004_026",
+            "value": "Einheiten und Limitbrüche: Mission 26"
+        },
+        {
+            "key": "MG_PR_004_027",
+            "value": "Einheiten und Limitbrüche: Mission 27"
+        },
+        {
+            "key": "MG_PR_004_028",
+            "value": "Einheiten und Limitbrüche: Mission 28"
         },
         {
             "key": "M_QEST_001",
@@ -5857,6 +6233,550 @@
             "value": "Aufpolieren der Gildenstatuen: Mission 20"
         },
         {
+            "key": "M_MONTHLY_0682",
+            "value": "Abschließen von Storyaufträgen: Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_0683",
+            "value": "Abschließen von Storyaufträgen: Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_0684",
+            "value": "Abschließen von Storyaufträgen: Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_0685",
+            "value": "Abschließen von Storyaufträgen: Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_0686",
+            "value": "Abschließen von Storyaufträgen: Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_0687",
+            "value": "Abschließen von Storyaufträgen: Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_0688",
+            "value": "Abschließen von Storyaufträgen: Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_0689",
+            "value": "Abschließen von Storyaufträgen: Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_0690",
+            "value": "Abschließen von Storyaufträgen: Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_0691",
+            "value": "Abschließen von Storyaufträgen: Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_0692",
+            "value": "Abschließen von Storyaufträgen: Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_0693",
+            "value": "Abschließen von Storyaufträgen: Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_0694",
+            "value": "Abschließen von Storyaufträgen: Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_0695",
+            "value": "Abschließen von Storyaufträgen: Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_0696",
+            "value": "Abschließen von Storyaufträgen: Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_0697",
+            "value": "Abschließen von Storyaufträgen: Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_0698",
+            "value": "Abschließen von Storyaufträgen: Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_0699",
+            "value": "Abschließen von Storyaufträgen: Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_0700",
+            "value": "Abschließen von Storyaufträgen: Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_0701",
+            "value": "Abschließen von Storyaufträgen: Mission 20"
+        },
+        {
+            "key": "M_MONTHLY_0702",
+            "value": "Abschließen Schwieriger Aufträge: Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_0703",
+            "value": "Abschließen Schwieriger Aufträge: Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_0704",
+            "value": "Abschließen Schwieriger Aufträge: Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_0705",
+            "value": "Abschließen Schwieriger Aufträge: Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_0706",
+            "value": "Abschließen Schwieriger Aufträge: Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_0707",
+            "value": "Abschließen Schwieriger Aufträge: Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_0708",
+            "value": "Abschließen Schwieriger Aufträge: Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_0709",
+            "value": "Abschließen Schwieriger Aufträge: Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_0710",
+            "value": "Abschließen Schwieriger Aufträge: Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_0711",
+            "value": "Abschließen Schwieriger Aufträge: Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_0712",
+            "value": "Abschließen Schwieriger Aufträge: Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_0713",
+            "value": "Abschließen Schwieriger Aufträge: Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_0714",
+            "value": "Abschließen Schwieriger Aufträge: Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_0715",
+            "value": "Abschließen Schwieriger Aufträge: Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_0716",
+            "value": "Abschließen Schwieriger Aufträge: Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_0717",
+            "value": "Abschließen Schwieriger Aufträge: Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_0718",
+            "value": "Abschließen Schwieriger Aufträge: Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_0719",
+            "value": "Abschließen Schwieriger Aufträge: Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_0720",
+            "value": "Abschließen Schwieriger Aufträge: Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_0721",
+            "value": "Abschließen von Multiaufträgen: Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_0722",
+            "value": "Abschließen von Multiaufträgen: Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_0723",
+            "value": "Abschließen von Multiaufträgen: Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_0724",
+            "value": "Abschließen von Multiaufträgen: Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_0725",
+            "value": "Abschließen von Multiaufträgen: Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_0726",
+            "value": "Abschließen von Multiaufträgen: Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_0727",
+            "value": "Abschließen von Multiaufträgen: Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_0728",
+            "value": "Abschließen von Multiaufträgen: Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_0729",
+            "value": "Abschließen von Multiaufträgen: Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_0730",
+            "value": "Abschließen von Multiaufträgen: Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_0731",
+            "value": "Abschließen von Multiaufträgen: Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_0732",
+            "value": "Abschließen von Multiaufträgen: Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_0733",
+            "value": "Abschließen von Multiaufträgen: Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_0734",
+            "value": "Abschließen von Multiaufträgen: Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_0735",
+            "value": "Abschließen von Multiaufträgen: Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_0736",
+            "value": "Abschließen von Multiaufträgen: Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_0737",
+            "value": "Abschließen von Multiaufträgen: Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_0738",
+            "value": "Abschließen von Multiaufträgen: Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_0739",
+            "value": "Abschließen von Multiaufträgen: Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_0740",
+            "value": "Abschließen von Multiaufträgen: Mission 20"
+        },
+        {
+            "key": "M_MONTHLY_0741",
+            "value": "Meistere die ERF-Kammer: Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_0742",
+            "value": "Meistere die ERF-Kammer: Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_0743",
+            "value": "Meistere die ERF-Kammer: Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_0744",
+            "value": "Meistere die ERF-Kammer: Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_0745",
+            "value": "Meistere die ERF-Kammer: Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_0746",
+            "value": "Meistere die ERF-Kammer: Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_0747",
+            "value": "Meistere die ERF-Kammer: Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_0748",
+            "value": "Meistere die ERF-Kammer: Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_0749",
+            "value": "Meistere die ERF-Kammer: Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_0750",
+            "value": "Meistere die ERF-Kammer: Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_0751",
+            "value": "Meistere die ERF-Kammer: Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_0752",
+            "value": "Meistere die ERF-Kammer: Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_0753",
+            "value": "Meistere die ERF-Kammer: Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_0754",
+            "value": "Meistere die ERF-Kammer: Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_0755",
+            "value": "Meistere die ERF-Kammer: Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_0756",
+            "value": "Meistere die ERF-Kammer: Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_0757",
+            "value": "Meistere die ERF-Kammer: Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_0758",
+            "value": "Meistere die ERF-Kammer: Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_0759",
+            "value": "Meistere die ERF-Kammer: Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_0760",
+            "value": "Meistere die ERF-Kammer: Mission 20"
+        },
+        {
+            "key": "M_MONTHLY_0761",
+            "value": "Meistere die Arena: Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_0762",
+            "value": "Meistere die Arena: Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_0763",
+            "value": "Meistere die Arena: Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_0764",
+            "value": "Meistere die Arena: Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_0765",
+            "value": "Meistere die Arena: Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_0766",
+            "value": "Meistere die Arena: Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_0767",
+            "value": "Meistere die Arena: Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_0768",
+            "value": "Meistere die Arena: Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_0769",
+            "value": "Meistere die Arena: Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_0770",
+            "value": "Meistere die Arena: Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_0771",
+            "value": "Meistere die Arena: Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_0772",
+            "value": "Meistere die Arena: Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_0773",
+            "value": "Meistere die Arena: Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_0774",
+            "value": "Meistere die Arena: Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_0775",
+            "value": "Meistere die Arena: Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_0776",
+            "value": "Meistere die Arena: Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_0777",
+            "value": "Meistere die Arena: Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_0778",
+            "value": "Meistere die Arena: Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_0779",
+            "value": "Meistere die Arena: Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_0780",
+            "value": "Meistere die Arena: Mission 20"
+        },
+        {
+            "key": "M_MONTHLY_0781",
+            "value": "Trainiere deine Chocobos: Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_0782",
+            "value": "Trainiere deine Chocobos: Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_0783",
+            "value": "Trainiere deine Chocobos: Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_0784",
+            "value": "Trainiere deine Chocobos: Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_0785",
+            "value": "Trainiere deine Chocobos: Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_0786",
+            "value": "Trainiere deine Chocobos: Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_0787",
+            "value": "Trainiere deine Chocobos: Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_0788",
+            "value": "Trainiere deine Chocobos: Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_0789",
+            "value": "Trainiere deine Chocobos: Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_0790",
+            "value": "Trainiere deine Chocobos: Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_0791",
+            "value": "Trainiere deine Chocobos: Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_0792",
+            "value": "Trainiere deine Chocobos: Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_0793",
+            "value": "Trainiere deine Chocobos: Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_0794",
+            "value": "Trainiere deine Chocobos: Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_0795",
+            "value": "Trainiere deine Chocobos: Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_0796",
+            "value": "Trainiere deine Chocobos: Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_0797",
+            "value": "Trainiere deine Chocobos: Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_0798",
+            "value": "Aufpolieren der Gildenstatuen: Mission 1"
+        },
+        {
+            "key": "M_MONTHLY_0799",
+            "value": "Aufpolieren der Gildenstatuen: Mission 2"
+        },
+        {
+            "key": "M_MONTHLY_0800",
+            "value": "Aufpolieren der Gildenstatuen: Mission 3"
+        },
+        {
+            "key": "M_MONTHLY_0801",
+            "value": "Aufpolieren der Gildenstatuen: Mission 4"
+        },
+        {
+            "key": "M_MONTHLY_0802",
+            "value": "Aufpolieren der Gildenstatuen: Mission 5"
+        },
+        {
+            "key": "M_MONTHLY_0803",
+            "value": "Aufpolieren der Gildenstatuen: Mission 6"
+        },
+        {
+            "key": "M_MONTHLY_0804",
+            "value": "Aufpolieren der Gildenstatuen: Mission 7"
+        },
+        {
+            "key": "M_MONTHLY_0805",
+            "value": "Aufpolieren der Gildenstatuen: Mission 8"
+        },
+        {
+            "key": "M_MONTHLY_0806",
+            "value": "Aufpolieren der Gildenstatuen: Mission 9"
+        },
+        {
+            "key": "M_MONTHLY_0807",
+            "value": "Aufpolieren der Gildenstatuen: Mission 10"
+        },
+        {
+            "key": "M_MONTHLY_0808",
+            "value": "Aufpolieren der Gildenstatuen: Mission 11"
+        },
+        {
+            "key": "M_MONTHLY_0809",
+            "value": "Aufpolieren der Gildenstatuen: Mission 12"
+        },
+        {
+            "key": "M_MONTHLY_0810",
+            "value": "Aufpolieren der Gildenstatuen: Mission 13"
+        },
+        {
+            "key": "M_MONTHLY_0811",
+            "value": "Aufpolieren der Gildenstatuen: Mission 14"
+        },
+        {
+            "key": "M_MONTHLY_0812",
+            "value": "Aufpolieren der Gildenstatuen: Mission 15"
+        },
+        {
+            "key": "M_MONTHLY_0813",
+            "value": "Aufpolieren der Gildenstatuen: Mission 16"
+        },
+        {
+            "key": "M_MONTHLY_0814",
+            "value": "Aufpolieren der Gildenstatuen: Mission 17"
+        },
+        {
+            "key": "M_MONTHLY_0815",
+            "value": "Aufpolieren der Gildenstatuen: Mission 18"
+        },
+        {
+            "key": "M_MONTHLY_0816",
+            "value": "Aufpolieren der Gildenstatuen: Mission 19"
+        },
+        {
+            "key": "M_MONTHLY_0817",
+            "value": "Aufpolieren der Gildenstatuen: Mission 20"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Visiore einsetzen: Limitierter Bonus 01"
         },
@@ -5998,6 +6918,54 @@
         },
         {
             "key": "M_LAPS_P_QILF_06",
+            "value": "Visiore einsetzen: Limitierter Bonus 06"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_01",
+            "value": "Visiore einsetzen: Limitierter Bonus 01"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_02",
+            "value": "Visiore einsetzen: Limitierter Bonus 02"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_03",
+            "value": "Visiore einsetzen: Limitierter Bonus 03"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_04",
+            "value": "Visiore einsetzen: Limitierter Bonus 04"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_05",
+            "value": "Visiore einsetzen: Limitierter Bonus 05"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_06",
+            "value": "Visiore einsetzen: Limitierter Bonus 06"
+        },
+        {
+            "key": "M_LAPS_P_DELT_01",
+            "value": "Visiore einsetzen: Limitierter Bonus 01"
+        },
+        {
+            "key": "M_LAPS_P_DELT_02",
+            "value": "Visiore einsetzen: Limitierter Bonus 02"
+        },
+        {
+            "key": "M_LAPS_P_DELT_03",
+            "value": "Visiore einsetzen: Limitierter Bonus 03"
+        },
+        {
+            "key": "M_LAPS_P_DELT_04",
+            "value": "Visiore einsetzen: Limitierter Bonus 04"
+        },
+        {
+            "key": "M_LAPS_P_DELT_05",
+            "value": "Visiore einsetzen: Limitierter Bonus 05"
+        },
+        {
+            "key": "M_LAPS_P_DELT_06",
             "value": "Visiore einsetzen: Limitierter Bonus 06"
         },
         {

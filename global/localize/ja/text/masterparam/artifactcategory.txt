@@ -17,16 +17,8 @@
             "value": "大剣"
         },
         {
-            "key": "LARGESWORD",
-            "value": "大剣"
-        },
-        {
             "key": "KATANA",
             "value": "刀"
-        },
-        {
-            "key": "STAFF",
-            "value": "杖"
         },
         {
             "key": "ROD",
@@ -123,6 +115,14 @@
         {
             "key": "SEPARATOR",
             "value": "、"
+        },
+        {
+            "key": "LARGESWORD",
+            "value": "大剣"
+        },
+        {
+            "key": "STAFF",
+            "value": "杖"
         }
     ]
 }

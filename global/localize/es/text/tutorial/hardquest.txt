@@ -50,7 +50,7 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Mejorar los estallidos límite •"
+            "value": "• Misiones difíciles •"
         },
         {
             "key": "SKIP_MSG",

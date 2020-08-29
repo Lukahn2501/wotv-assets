@@ -66,11 +66,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Texte test •"
+            "value": "• Les guildes •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Passer le tutoriel de ... ?"
+            "value": "Voulez-vous lancer le tutoriel sur les guildes ?"
         },
         {
             "key": "SKIP_YES",

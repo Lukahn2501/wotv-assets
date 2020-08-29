@@ -111,6 +111,14 @@
         {
             "key": "SQ_WD_010204_02",
             "value": "Fabriquez 1 équipement 1 fois"
+        },
+        {
+            "key": "SQ_WD_010205_01",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 10 fois"
+        },
+        {
+            "key": "SQ_WD_010205_02",
+            "value": "Sortez vainqueur de l'Arène 10 fois"
         }
     ]
 }

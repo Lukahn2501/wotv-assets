@@ -29,6 +29,46 @@
             "value": "<cspace=-1.6>公會戰鬥開始！"
         },
         {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
+            "value": "戰鬥中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
+            "value": "<line-height=20>期間限定<br><size=15><cspace=-0.5>公會戰鬥舉辦中！！"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
+            "value": "匹配中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
+            "value": "戰鬥開始"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
+            "value": "<cspace=1.6>統計中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
+            "value": "下次戰鬥準備中"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
+            "value": "MM/dd HH:mm～"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
+            "value": "～MM/dd HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
+            "value": "～MM/dd HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
+            "value": "最終結果確認"
+        },
+        {
             "key": "GLOBAL_MAIN_PVP",
             "value": "決鬥"
         },
@@ -54,7 +94,7 @@
         },
         {
             "key": "GLOBAL_MAIN_BADGE_RAID_AGGREGATING",
-            "value": "計算中"
+            "value": "統計中"
         },
         {
             "key": "GLOBAL_MAIN_RAID_END",
@@ -757,154 +797,6 @@
             "value": "兵員化"
         },
         {
-            "key": "UNIT_DETAIL_AWAKE",
-            "value": "覺醒"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP",
-            "value": "極限突破"
-        },
-        {
-            "key": "UNIT_DETAIL_INTIMACY",
-            "value": "親密度"
-        },
-        {
-            "key": "UNIT_DETAIL_STATUS_DETAIL",
-            "value": "狀態詳細"
-        },
-        {
-            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
-            "value": "信賴度滿點報酬"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_BORD",
-            "value": "兵員能力盤"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_SET",
-            "value": "能力設置"
-        },
-        {
-            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
-            "value": "召喚獸育成盤"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ENHANCE",
-            "value": "強化"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_AWAKE",
-            "value": "覺醒"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ABILITY",
-            "value": "能力"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
-            "value": "<cspace=0.5>Trust"
-        },
-        {
-            "key": "UNIT_DETAIL_RANK_LIMIT",
-            "value": "等級上限"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ON",
-            "value": "已鎖定"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_OFF",
-            "value": "已解除鎖定"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP_CONDITION",
-            "value": "極限突破「{0}」後解鎖"
-        },
-        {
-            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
-            "value": "武具熟練度"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP",
-            "value": "裝備"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI",
-            "value": "鎖定武具"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
-            "value": "設定"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
-            "value": "強化素材"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
-            "value": "沒有強化素材"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
-            "value": "一併強化"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
-            "value": "強化確認"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
-            "value": "兵員等級已達上限"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
-            "value": "會超出兵員等級MAX所需的經驗值，確定繼續？"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
-            "value": "強化"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
-            "value": "主要"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
-            "value": "必要兵員等級"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
-            "value": "職業強化"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
-            "value": "MAX"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
-            "value": "職業強化素材"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
-            "value": "<cspace=-1>已到達職業等級(JobLv)上限"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
-            "value": "<cspace=-1>素材不足"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITYSET_SET",
-            "value": "設定"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_STATUS",
-            "value": "<cspace=0.6>兵員狀態"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_JOB",
-            "value": "<cspace=0.6>職業"
-        },
-        {
             "key": "UNIT_RANK_TITLE",
             "value": "極限突破"
         },
@@ -1113,26 +1005,6 @@
             "value": "可裝備的武具"
         },
         {
-            "key": "UNIT_ARTI_SET_TITLE",
-            "value": "武具裝備"
-        },
-        {
-            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
-            "value": "顯示耐性"
-        },
-        {
-            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
-            "value": "裝備中的武具除外"
-        },
-        {
-            "key": "UNIT_ARTI_SET_REMOVE",
-            "value": "卸下"
-        },
-        {
-            "key": "UNIT_ARTI_SET_CONFIRM",
-            "value": "已被同一隊伍的<br>兵員裝備。<br>確定要裝備嗎？<br>（會將裝備從已裝備的<br>兵員身上卸下。）"
-        },
-        {
             "key": "ABILITY_CHANGE_TITLE",
             "value": "能力設置"
         },
@@ -1163,18 +1035,6 @@
         {
             "key": "UNIT_PROFILE_BELONGING",
             "value": "所屬"
-        },
-        {
-            "key": "TRUST_MASTER_TITLE",
-            "value": "信賴度滿點報酬"
-        },
-        {
-            "key": "TRUST_MASTER_CONDITION",
-            "value": "極限突破5·覺醒★6後獲得"
-        },
-        {
-            "key": "TRUST_MASTER_COMPLETE",
-            "value": "已獲得"
         },
         {
             "key": "LIMITBURST_LEVELUP_CHECK_TITLE",
@@ -1455,42 +1315,6 @@
         {
             "key": "ABILITY_ENHANCE_RESULT_DEF_IGNORE",
             "value": "防禦貫通效果"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_STATUS",
-            "value": "<cspace=0.5>狀態"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_SYNCHRO",
-            "value": "共鳴度"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_RESIST",
-            "value": "耐性"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
-            "value": "召喚魔法"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
-            "value": "召喚獸育成盤"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
-            "value": "召喚獸強化"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
-            "value": "一併強化"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
-            "value": "召喚獸等級已達上限"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
-            "value": "會超出召喚獸等級MAX所需的經驗值，確定繼續？"
         },
         {
             "key": "NETHERBEAST_SYNCHRO_TITLE",
@@ -2029,50 +1853,6 @@
             "value": "已解除鎖定"
         },
         {
-            "key": "ARTI_CONDITION_TITLE",
-            "value": "可裝備條件"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_TITLE",
-            "value": "可裝備職業"
-        },
-        {
-            "key": "ARTI_CONDITION_NONE",
-            "value": "無可裝備條件"
-        },
-        {
-            "key": "ARTI_CONDITION_COUNTRY",
-            "value": "·{0}出身"
-        },
-        {
-            "key": "ARTI_CONDITION_SEX",
-            "value": "·{0}"
-        },
-        {
-            "key": "ARTI_CONDITION_UNIT",
-            "value": "·{0}"
-        },
-        {
-            "key": "ARTI_CONDITION_RARITY",
-            "value": "·稀有度 {0}以上"
-        },
-        {
-            "key": "ARTI_CONDITION_AWAKE",
-            "value": "·覺醒數 {0}以上"
-        },
-        {
-            "key": "ARTI_CONDITION_RANK",
-            "value": "·極限突破數 {0}以上"
-        },
-        {
-            "key": "ARTI_CONDITION_SERIES",
-            "value": "·系列 {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_NONE",
-            "value": "所有職業都可以裝備"
-        },
-        {
             "key": "ARTI_ENHANCE_CORRECTION_TITLE",
             "value": "成長率修正"
         },
@@ -2195,22 +1975,6 @@
         {
             "key": "ARTI_CHECK_FAVORITE_CAUTION",
             "value": "<line-height=26>※將其他兵員裝備中的武具設為鎖定時，<br>則不會裝備該武具。<br>※也可以在編配畫面編配武具。"
-        },
-        {
-            "key": "ARTI_STATUS_ADD_NONE",
-            "value": "沒有附加能力"
-        },
-        {
-            "key": "ARTI_STATUS_WA_TITLE",
-            "value": "武具能力"
-        },
-        {
-            "key": "ARTI_STATUS_LB_TITLE",
-            "value": "極限技"
-        },
-        {
-            "key": "ARTI_STATUS_LB_ENHANCE",
-            "value": "已裝備"
         },
         {
             "key": "ARTI_TYPE_INHERIT_TITLE",
@@ -2791,6 +2555,30 @@
         {
             "key": "MENU_OPTION_GRAPHIC_HIGH",
             "value": "？？？"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_TITLE",
+            "value": "省電模式"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_DESC",
+            "value": "<line-height=33>在設定時間內沒有操作的話<br>自動切換畫面至較不耗電的狀態"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_SECOND",
+            "value": "30秒"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_MINUTE",
+            "value": "1分鐘"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
+            "value": "3分鐘"
         },
         {
             "key": "MENU_OPTION_DOWNLOAD_VOICE_TITLE",
@@ -3969,6 +3757,10 @@
             "value": "房主"
         },
         {
+            "key": "MULTI_ROOM_RESET",
+            "value": "解散房間<br>（可重新設定）"
+        },
+        {
             "key": "MULTI_ROOM_DISSOLVE_CHECK_TITLE",
             "value": "解散房間"
         },
@@ -4187,10 +3979,6 @@
         {
             "key": "ARTIFACT_SELL_OVER_DESC",
             "value": "會超過持有金幣上限<br>無法販售。"
-        },
-        {
-            "key": "；武具装備リスト確認ダイアログ",
-            "value": ""
         },
         {
             "key": "ARTIFACT_EQUIPLIST_TITLE",
@@ -4623,30 +4411,6 @@
         {
             "key": "GACHA_TICKET_CHECK_CAUTION",
             "value": "點擊圖示確認詳情"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
-            "value": "兵員詳細"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
-            "value": "※覺醒★{0}/極限突破{1}/等級·全職業等級(JobLv)為MAX時"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
-            "value": "幻兵卡詳細"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
-            "value": "※覺醒★{0}/等級MAX時"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
-            "value": "召喚獸詳細"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
-            "value": "※僅限初次可獲得召喚獸"
         },
         {
             "key": "GACHA_PIECE_NAME",
@@ -5397,30 +5161,6 @@
             "value": "顯示耐性"
         },
         {
-            "key": "VISION_DETAIL_STATUS",
-            "value": "狀態"
-        },
-        {
-            "key": "VISION_DETAIL_INFO",
-            "value": "資訊"
-        },
-        {
-            "key": "VISION_DETAIL_ADD_EFF",
-            "value": "賦予效果"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE_BONUS",
-            "value": "覺醒獎勵"
-        },
-        {
-            "key": "VISION_DETAIL_ENHANCE",
-            "value": "強化"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE",
-            "value": "覺醒"
-        },
-        {
             "key": "VISION_SELL_CHECK_TITLE",
             "value": "販售確認"
         },
@@ -5707,10 +5447,6 @@
         {
             "key": "MATCH_MATCHING_FAILED_DESC",
             "value": "無法匹配。"
-        },
-        {
-            "key": "；マッチ - フレンドマッチ",
-            "value": ""
         },
         {
             "key": "MATCH_MAKEROOM_WATCHING",
@@ -6321,6 +6057,10 @@
             "value": "匹配中"
         },
         {
+            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
+            "value": "確定對戰對手！"
+        },
+        {
             "key": "GUILD_LEAGUE_BANNER_OUTTERM",
             "value": "非舉辦期間內"
         },
@@ -6387,6 +6127,26 @@
         {
             "key": "GUILD_COMING_SOON",
             "value": "<cspace=0.07em>即將推出"
+        },
+        {
+            "key": "GUILD_LIMITED_TITLE",
+            "value": "期間限定公會戰鬥"
+        },
+        {
+            "key": "GUILD_LIMITED_POINT",
+            "value": "戰鬥點數"
+        },
+        {
+            "key": "GUILD_LIMITED_PERIOD",
+            "value": "舉辦期間："
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END",
+            "value": "最終結果確認："
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END_FMT",
+            "value": "～MM/dd HH:mm"
         },
         {
             "key": "GUILD_CHAT_NEW_MEMBER",
@@ -6825,6 +6585,10 @@
             "value": "<cspace=-0.6>公會貢獻度"
         },
         {
+            "key": "GUILD_RANKING_TAB_LIMITED",
+            "value": "<cspace=-0.6>期間限定"
+        },
+        {
             "key": "GUILD_RANKING_SEASON",
             "value": "舉辦日"
         },
@@ -6885,6 +6649,10 @@
             "value": "敗"
         },
         {
+            "key": "GUILD_RANKING_LIMITED_POINTS",
+            "value": "戰鬥點數"
+        },
+        {
             "key": "GUILD_RANKING_NOTAVAIL_TITLE",
             "value": "沒有所屬公會。"
         },
@@ -6898,7 +6666,7 @@
         },
         {
             "key": "GUILD_BARRACKS_DESC",
-            "value": "<line-height=28>設置的兵員會得到與時間對應的JP。<br>「勇氣」會上升，「信念」則會可能上升或下降"
+            "value": "<line-height=28>設置的兵員會得到與時間對應的JP。<br>「勇氣」會上升，「信念」則會上升或下降"
         },
         {
             "key": "GUILD_BARRACKS_FOOD_STORAGE",
@@ -7261,6 +7029,14 @@
             "value": "聯盟表"
         },
         {
+            "key": "GUILD_BATTLE_EVENT_DETAIL",
+            "value": "活動詳情"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_ABSTENTION",
+            "value": "<line-height=32>本次期間<br>沒有報名"
+        },
+        {
             "key": "GUILD_BATTLE_STATE_OUT_TERM",
             "value": "非舉辦<br>期間內"
         },
@@ -7299,6 +7075,14 @@
         {
             "key": "GUILD_BATTLE_STATE_END",
             "value": "對戰結束"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE",
+            "value": "不戰而勝"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE_DESC",
+            "value": "因未發現對戰對手，<br>不戰而勝。"
         },
         {
             "key": "GUILD_BATTLE_START_TIME",
@@ -7389,6 +7173,42 @@
             "value": "已達到公會戰鬥的<br>可出擊次數"
         },
         {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
+            "value": "剩餘行動次數為0"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
+            "value": "已達到本次公會戰鬥的<br>可行動次數"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_DESC",
+            "value": "<line-height=32>由於未達到下列參加條件<br>無法報名參加公會戰鬥。"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
+            "value": "公會聯盟等級"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
+            "value": "{0}以上"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
+            "value": "公會成員"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
+            "value": "{0}人以上"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
+            "value": "會長"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
+            "value": "{0}天之內沒有登入"
+        },
+        {
             "key": "GUILD_BATTLE_PLAYER_DETAIL_ABILITY",
             "value": "能力"
         },
@@ -7405,6 +7225,10 @@
             "value": "公會<space=10>戰鬥<space=10>結果"
         },
         {
+            "key": "GUILD_BATTLE_END_TROPHY_POINT",
+            "value": "戰鬥點數："
+        },
+        {
             "key": "GUILD_BATTLE_END_TROPHY_STAR_GET",
             "value": "奪取的★"
         },
@@ -7419,6 +7243,10 @@
         {
             "key": "GUILD_BATTLE_END_TROPHY_STAR_RESIDUE_SEP",
             "value": "剩餘的★<space=2>:"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
+            "value": "(不戰而勝★ {0}%)"
         },
         {
             "key": "GUILD_BATTLE_END_TROPHY_DAMAGE",
@@ -7489,6 +7317,10 @@
             "value": "防禦"
         },
         {
+            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
+            "value": "聲援"
+        },
+        {
             "key": "GUILD_BATTLE_LOG_DESC_OFFENSE",
             "value": "攻擊{0}"
         },
@@ -7503,6 +7335,30 @@
         {
             "key": "GUILD_BATTLE_LOG_RESULT_DIFFENSE",
             "value": "撤退{0}名"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
+            "value": "偵查了{0}<br>揭露了{0}的隊伍"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
+            "value": "被{0}偵查了<br>隊伍被揭露了"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
+            "value": "給予{0}補給<br>{0}隊伍的行動次數恢復了"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
+            "value": "獲得{0}的補給<br>隊伍的行動次數恢復了"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
+            "value": "給予{0}詠唱<br>{0}隊伍的能力次數恢復了"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
+            "value": "獲得{0}的詠唱<br>隊伍的能力次數恢復了"
         },
         {
             "key": "GUILD_BATTLE_END_LOG_TITLE",
@@ -7559,6 +7415,50 @@
         {
             "key": "GUILD_BATTLE_DEFFENCE_SET_NONE",
             "value": "未設定"
+        },
+        {
+            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
+            "value": "防禦隊伍設定數："
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
+            "value": "攻擊"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
+            "value": "聲援"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_TITLE",
+            "value": "聲援"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE",
+            "value": "使用"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
+            "value": "{0}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
+            "value": "<color=#F0C040>{0}</color>的<br><color=#F0C040>{1}</color>的<br>{2}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
+            "value": "已收取行動報酬"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
+            "value": "請選擇要攻擊的敵方隊伍"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
+            "value": "請選擇要聲援的隊伍"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
+            "value": "{0}詳細資訊"
         },
         {
             "key": "OTHER_PLAYER_DETAIL_REQUEST",
@@ -7723,6 +7623,18 @@
         {
             "key": "GM_RAIDBOSS_DISCOVER_REWARD",
             "value": "共鬥發現報酬"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
+            "value": "${period}開始的期間限定公會戰鬥、累計第${entry_count}戰的參加報酬"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
+            "value": "${period}開始的期間限定公會戰鬥的報酬"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
+            "value": "${period}開始的期間限定公會戰鬥的總排名第${ranking}名的報酬"
         },
         {
             "key": "QUEST_APPEAL_AP",
@@ -7905,8 +7817,20 @@
             "value": "编配中有無法戰鬥兵員，無法出擊。"
         },
         {
-            "key": "VISION_ILLUSTRATOR",
-            "value": "Illustrator"
+            "key": "QRCODE_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_MESSAGE",
+            "value": "{0}。"
+        },
+        {
+            "key": "QRCODE_ERROR_TITLE",
+            "value": "錯誤"
+        },
+        {
+            "key": "QRCODE_ERROR_MESSAGE",
+            "value": "非有效平台。"
         },
         {
             "key": "MENU_OPTION_LANGUAGE",
@@ -8077,260 +8001,8 @@
             "value": "交易仍在進行中，請稍後再試。"
         },
         {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
-            "value": "戰鬥中"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
-            "value": "<line-height=20>期間限定<br><size=15><cspace=-0.5>公會戰鬥舉辦中！！"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
-            "value": "匹配中"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
-            "value": "戰鬥開始"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
-            "value": "<cspace=1.6>統計中"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
-            "value": "下次戰鬥準備中"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
-            "value": "MM/dd HH:mm～"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
-            "value": "～MM/dd HH:mm"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
-            "value": "～MM/dd HH:mm"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
-            "value": "最終結果確認"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_TITLE",
-            "value": "省電模式"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_DESC",
-            "value": "<line-height=33>在設定時間內沒有操作的話<br>自動切換畫面至較不耗電的狀態"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_OFF",
-            "value": "OFF"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_SECOND",
-            "value": "30秒"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_MINUTE",
-            "value": "1分鐘"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
-            "value": "3分鐘"
-        },
-        {
-            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
-            "value": "確定對戰對手！"
-        },
-        {
-            "key": "GUILD_LIMITED_TITLE",
-            "value": "期間限定公會戰鬥"
-        },
-        {
-            "key": "GUILD_LIMITED_POINT",
-            "value": "戰鬥點數"
-        },
-        {
-            "key": "GUILD_LIMITED_PERIOD",
-            "value": "舉辦期間："
-        },
-        {
-            "key": "GUILD_LIMITED_DURATION_END",
-            "value": "最終結果確認："
-        },
-        {
-            "key": "GUILD_LIMITED_DURATION_END_FMT",
-            "value": "～MM/dd HH:mm"
-        },
-        {
-            "key": "GUILD_RANKING_TAB_LIMITED",
-            "value": "<cspace=-0.6>期間限定"
-        },
-        {
-            "key": "GUILD_RANKING_LIMITED_POINTS",
-            "value": "戰鬥點數"
-        },
-        {
-            "key": "GUILD_BATTLE_EVENT_DETAIL",
-            "value": "活動詳情"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_ABSTENTION",
-            "value": "<line-height=32>本次期間<br>沒有報名"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_BYE",
-            "value": "不戰而勝"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_BYE_DESC",
-            "value": "因未發現對戰對手，<br>不戰而勝。"
-        },
-        {
-            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
-            "value": "剩餘行動次數為0"
-        },
-        {
-            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
-            "value": "已達到本次公會戰鬥的<br>可行動次數"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_DESC",
-            "value": "<line-height=32>由於未達到下列參加條件<br>無法報名參加公會戰鬥。"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
-            "value": "公會聯盟等級"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
-            "value": "{0}以上"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
-            "value": "公會成員"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
-            "value": "{0}人以上"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
-            "value": "會長"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
-            "value": "{0}天之內沒有登入"
-        },
-        {
-            "key": "GUILD_BATTLE_END_TROPHY_POINT",
-            "value": "戰鬥點數："
-        },
-        {
-            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
-            "value": "(不戰而勝★ {0}%)"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
-            "value": "聲援"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
-            "value": "偵查了{0}\\n揭露了{0}的隊伍"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
-            "value": "被{0}偵查了\\n隊伍被揭露了"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
-            "value": "給予{0}補給\\n{0}隊伍的行動次數恢復了"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
-            "value": "獲得{0}的補給\\n隊伍的行動次數恢復了"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
-            "value": "給予{0}詠唱\\n{0}隊伍的能力次數恢復了"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
-            "value": "獲得{0}的詠唱\\n隊伍的能力次數恢復了"
-        },
-        {
-            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
-            "value": "防禦隊伍設定數："
-        },
-        {
-            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
-            "value": "攻擊"
-        },
-        {
-            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
-            "value": "聲援"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_TITLE",
-            "value": "聲援"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE",
-            "value": "使用"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
-            "value": "{0}"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
-            "value": "<color=#F0C040>{0}</color>的<br><color=#F0C040>{1}</color>的<br>{2}"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
-            "value": "已收取行動報酬"
-        },
-        {
-            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
-            "value": "請選擇要攻擊的敵方隊伍"
-        },
-        {
-            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
-            "value": "請選擇要聲援的隊伍"
-        },
-        {
-            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
-            "value": "{0}詳細資訊"
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
-            "value": "${period}開始的期間限定公會戰鬥、累計第${entry_count}戰的參加報酬"
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
-            "value": "${period}開始的期間限定公會戰鬥的報酬"
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
-            "value": "${period}開始的期間限定公會戰鬥的總排名第${ranking}名的報酬"
-        },
-        {
-            "key": "QRCODE_TITLE",
-            "value": "{0}"
-        },
-        {
-            "key": "QRCODE_MESSAGE",
-            "value": "{0}。"
-        },
-        {
-            "key": "QRCODE_ERROR_TITLE",
-            "value": "錯誤"
-        },
-        {
-            "key": "QRCODE_ERROR_MESSAGE",
-            "value": "非有效平台。"
+            "key": "VISION_ILLUSTRATOR",
+            "value": "Illustrator"
         },
         {
             "key": "GL_GACHA_BONUS_GAUGE_TITLE",

@@ -2509,6 +2509,150 @@
             "value": "提升防禦Lv1"
         },
         {
+            "key": "SK_FFT_AGRA_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_1",
+            "value": "不動無明劍"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_2",
+            "value": "無雙閃電刺"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_3",
+            "value": "驅魔"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_1",
+            "value": "北斗骨碎打"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_2",
+            "value": "公主的近衛騎士"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_3",
+            "value": "聖近衛騎士的守護"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_4",
+            "value": "我相信你！！"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_5",
+            "value": "身心潰擊"
+        },
+        {
+            "key": "SK_FFT_AGRA_R_1",
+            "value": "防禦"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_1",
+            "value": "騎士道"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_2",
+            "value": "騎士的信義"
+        },
+        {
+            "key": "SK_FFT_DELT_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_FFT_DELT_M_1",
+            "value": "亂命割殺打"
+        },
+        {
+            "key": "SK_FFT_DELT_M_2",
+            "value": "咬擊冰狼破"
+        },
+        {
+            "key": "SK_FFT_DELT_M_3",
+            "value": "因果劍"
+        },
+        {
+            "key": "SK_FFT_DELT_S_1",
+            "value": "投石"
+        },
+        {
+            "key": "SK_FFT_DELT_S_2",
+            "value": "咒語"
+        },
+        {
+            "key": "SK_FFT_DELT_S_3",
+            "value": "大火焰劍"
+        },
+        {
+            "key": "SK_FFT_DELT_S_4",
+            "value": "冥想"
+        },
+        {
+            "key": "SK_FFT_DELT_S_5",
+            "value": "不動無明劍"
+        },
+        {
+            "key": "SK_FFT_DELT_R_1",
+            "value": "衝擊反擊"
+        },
+        {
+            "key": "SK_FFT_DELT_P_1",
+            "value": "移動+1"
+        },
+        {
+            "key": "SK_FFT_DELT_P_2",
+            "value": "提升AP獲得量"
+        },
+        {
+            "key": "SK_FFT_MSTD_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_1",
+            "value": "爆裂散射"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_2",
+            "value": "封印邪心"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_3",
+            "value": "連續射擊"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_1",
+            "value": "力量射擊"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_2",
+            "value": "維護"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_3",
+            "value": "隱蔽身形"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_4",
+            "value": "狙足"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_5",
+            "value": "狙腕"
+        },
+        {
+            "key": "SK_FFT_MSTD_R_1",
+            "value": "自動治療劑"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_1",
+            "value": "狙擊"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_2",
+            "value": "提升射擊攻擊力"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "中暴雪"
         },
@@ -3041,22 +3185,6 @@
             "value": "甜蜜噴泉"
         },
         {
-            "key": "SK_CSLI_01_ATK",
-            "value": "普通攻擊"
-        },
-        {
-            "key": "SK_CSLI_01_M_01",
-            "value": "棉花糖穿透"
-        },
-        {
-            "key": "SK_CSLI_01_M_02",
-            "value": "溶解"
-        },
-        {
-            "key": "SK_CSLI_01_M_03",
-            "value": "白色派對"
-        },
-        {
             "key": "SK_SLIM_ATK",
             "value": "普通攻擊"
         },
@@ -3071,6 +3199,22 @@
         {
             "key": "SK_SLIM_M_03",
             "value": "流體擴散"
+        },
+        {
+            "key": "SK_CSLI_01_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "棉花糖穿透"
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "溶解"
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "白色派對"
         },
         {
             "key": "SK_IFRT_ATK",
@@ -3277,6 +3421,22 @@
             "value": "集束·種子大砲"
         },
         {
+            "key": "SK_WRMC_ATK",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "擴散導彈"
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "光束炮"
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "核攻擊"
+        },
+        {
             "key": "SK_THDG_ATK",
             "value": "普通攻擊"
         },
@@ -3303,22 +3463,6 @@
         {
             "key": "SK_THDG_M_05",
             "value": "釋放"
-        },
-        {
-            "key": "SK_WRMC_ATK",
-            "value": "普通攻擊"
-        },
-        {
-            "key": "SK_WRMC_M_01",
-            "value": "擴散導彈"
-        },
-        {
-            "key": "SK_WRMC_M_02",
-            "value": "光束炮"
-        },
-        {
-            "key": "SK_WRMC_M_03",
-            "value": "核攻擊"
         },
         {
             "key": "SK_DABL_ATK",
@@ -3375,26 +3519,6 @@
         {
             "key": "SK_LW_E_VIK_S_3",
             "value": "反叛精神"
-        },
-        {
-            "key": "SK_GMK_ATK_NEEDLE",
-            "value": "陷阱"
-        },
-        {
-            "key": "SK_GMK_ATK_FIRE",
-            "value": "陷阱"
-        },
-        {
-            "key": "SK_GMK_ATK_ARROW",
-            "value": "陷阱"
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_1",
-            "value": "投石"
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_2",
-            "value": "散石"
         },
         {
             "key": "SK_LB_LW_MONT",
@@ -3565,6 +3689,18 @@
             "value": "魔杖集戟"
         },
         {
+            "key": "SK_LB_LW_ORDR",
+            "value": "奧爾多轟炸"
+        },
+        {
+            "key": "SK_LB_FFT_AGRA_01",
+            "value": "聖光集煌破"
+        },
+        {
+            "key": "SK_LB_FFT_DELT_01",
+            "value": "真·閃電無雙三段"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "地獄火焰"
         },
@@ -3643,6 +3779,10 @@
         {
             "key": "SK_SMN_DABL",
             "value": "來自黑暗的使者"
+        },
+        {
+            "key": "SK_SMN_CHCB_01",
+            "value": "陸行鳥隕石"
         },
         {
             "key": "SK_US_POTION",
@@ -4025,6 +4165,26 @@
             "value": "專精能力"
         },
         {
+            "key": "SK_MA_LW_ORDR",
+            "value": "專精能力"
+        },
+        {
+            "key": "SK_MA_LW_LVES",
+            "value": "專精能力"
+        },
+        {
+            "key": "SK_MA_FFT_AGRA",
+            "value": "專精能力"
+        },
+        {
+            "key": "SK_MA_FFT_DELT",
+            "value": "專精能力"
+        },
+        {
+            "key": "SK_MA_FFT_MSTD",
+            "value": "專精能力"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "斬擊攻擊力+2"
         },
@@ -4077,6 +4237,26 @@
             "value": "斬擊攻擊力+20"
         },
         {
+            "key": "SK_LW_AVOID_1",
+            "value": "閃避率+1"
+        },
+        {
+            "key": "SK_LW_AVOID_2",
+            "value": "閃避率+2"
+        },
+        {
+            "key": "SK_LW_AVOID_3",
+            "value": "閃避率+3"
+        },
+        {
+            "key": "SK_LW_AVOID_4_N_SSR",
+            "value": "閃避率+4"
+        },
+        {
+            "key": "SK_LW_AVOID_5_SSR",
+            "value": "閃避率+8"
+        },
+        {
             "key": "SK_LW_SWO_003_1",
             "value": "睡眠劍"
         },
@@ -4106,6 +4286,98 @@
         },
         {
             "key": "SK_LW_RNG_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_1",
+            "value": "珊瑚劍"
+        },
+        {
+            "key": "SK_LW_SWO_006_5",
+            "value": "珊瑚劍"
+        },
+        {
+            "key": "SK_LW_SWO_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_1",
+            "value": "冰屬性能力攻擊UP被動"
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_5",
+            "value": "冰屬性能力攻擊UP被動"
+        },
+        {
+            "key": "SK_LW_SPE_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FTW_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": "深紅烈焰"
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": "深紅烈焰"
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": "深紅烈焰"
+        },
+        {
+            "key": "SK_FFT_ACC_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_5",
             "value": ""
         },
         {
@@ -4209,7 +4481,23 @@
             "value": "相反的矜持"
         },
         {
-            "key": "SK_KAT_LW_SIMR_1_1",
+            "key": "SK_ACC_LW_ORDR_1_1",
+            "value": "繼承的暴威"
+        },
+        {
+            "key": "SK_SWO_LW_LVES_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FFT_AGRA_1_1",
+            "value": "聖近衛騎士團的榮耀"
+        },
+        {
+            "key": "SK_ARM_FFT_DELT_1_1",
+            "value": "託付AP"
+        },
+        {
+            "key": "SK_GUN_FFT_MSTD_1_1",
             "value": ""
         },
         {
@@ -4389,96 +4677,16 @@
             "value": ""
         },
         {
-            "key": "SK_SWO_LW_DRIO_1_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_1",
-            "value": "珊瑚劍"
-        },
-        {
-            "key": "SK_LW_SWO_006_5",
-            "value": "珊瑚劍"
-        },
-        {
-            "key": "SK_LW_SWO_007_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_1",
-            "value": "冰屬性能力攻擊UP被動"
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_5",
-            "value": "冰屬性能力攻擊UP被動"
-        },
-        {
             "key": "SK_KAT_LW_DIAA_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_1",
+            "key": "SK_SWO_LW_DRIO_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_5",
+            "key": "SK_KAT_LW_SIMR_1_1",
             "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_FTW_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_1",
-            "value": "深紅烈焰"
-        },
-        {
-            "key": "SK_LW_BSW_011_3",
-            "value": "深紅烈焰"
-        },
-        {
-            "key": "SK_LW_BSW_011_5",
-            "value": "深紅烈焰"
         },
         {
             "key": "SK_VC_LW_GLEM_GS",
@@ -4781,18 +4989,6 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_THDG_GS",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GS_AW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GSMAX",
-            "value": ""
-        },
-        {
             "key": "SK_VC_LW_ADLD_GS",
             "value": ""
         },
@@ -4817,6 +5013,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_FF01_DMAC_GS",
             "value": ""
         },
@@ -4826,6 +5034,30 @@
         },
         {
             "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
             "value": ""
         },
         {
@@ -4965,15 +5197,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS",
+            "key": "SK_VC_FFT_MV2_GS",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS_AW",
+            "key": "SK_VC_FFT_MV2_GSAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GSMAX",
+            "key": "SK_VC_FFT_MV3_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSMAX",
             "value": ""
         },
         {
@@ -5269,27 +5509,15 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_P",
+            "key": "SK_VC_LW_CBVPARTY1_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_WHITEDAY1_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_WHITEDAY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {
@@ -5437,6 +5665,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_THDG_P",
             "value": ""
         },
@@ -5473,27 +5725,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "key": "SK_VC_FFT_MV2_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "key": "SK_VC_FFT_MV2_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "key": "SK_VC_FFT_MV3_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_P",
+            "key": "SK_VC_FFT_MV3_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_CBVPARTY1_PMAX",
+            "key": "SK_VC_FFT_MV3_PMAX",
             "value": ""
         },
         {
@@ -5555,6 +5803,10 @@
         {
             "key": "SK_BTL_RANGE_1-20_U",
             "value": "提升射程1-20"
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U_PA",
+            "value": "提升射程1-15"
         },
         {
             "key": "SK_BTL_HP_100-99900_D",
@@ -6077,6 +6329,74 @@
             "value": "▼降低全屬性耐性1-80（基礎）"
         },
         {
+            "key": "SK_BTL_RES_OTFIRE_1_80_U",
+            "value": "提升火屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_U",
+            "value": "提升水屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_U",
+            "value": "提升風屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_U",
+            "value": "提升雷屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_U",
+            "value": "提升冰屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_U",
+            "value": "提升土屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_U",
+            "value": "提升暗屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_U",
+            "value": "提升光屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_D",
+            "value": "▼降低火屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_D",
+            "value": "▼降低水屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_D",
+            "value": "▼降低風屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_D",
+            "value": "▼降低雷屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_D",
+            "value": "▼降低冰屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_D",
+            "value": "▼降低土屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_D",
+            "value": "▼降低暗屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_D",
+            "value": "▼降低光屬性以外的耐性1-80（基礎）"
+        },
+        {
+            "key": "SK_BTL_RES_OTELEMALL_1_80_D",
+            "value": "▼降低光屬性以外的耐性1-80（基礎）"
+        },
+        {
             "key": "SK_BTL_HP_100-99900_U_PA",
             "value": "提升最大HP100-99900（被動）"
         },
@@ -6175,6 +6495,14 @@
         {
             "key": "SK_BTL_KILLER_SHINE_1-100_U",
             "value": "提升光屬性特效1-100"
+        },
+        {
+            "key": "SK_BTL_CHARM_1-100_U",
+            "value": "提升異常狀態【魅惑】機率1-100"
+        },
+        {
+            "key": "SK_BTL_POIS_1-100_U",
+            "value": "提升異常狀態【中毒】機率1-100"
         },
         {
             "key": "SK_BTL_TOAD_1-100_U",
@@ -6299,6 +6627,26 @@
         {
             "key": "SK_GMK_ATK_TEST_KATA_2",
             "value": "機關假定攻擊（投石器範圍）"
+        },
+        {
+            "key": "SK_GMK_ATK_NEEDLE",
+            "value": "陷阱"
+        },
+        {
+            "key": "SK_GMK_ATK_FIRE",
+            "value": "陷阱"
+        },
+        {
+            "key": "SK_GMK_ATK_ARROW",
+            "value": "陷阱"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1",
+            "value": "投石"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2",
+            "value": "散石"
         },
         {
             "key": "SK_LW_WAR_P_2",

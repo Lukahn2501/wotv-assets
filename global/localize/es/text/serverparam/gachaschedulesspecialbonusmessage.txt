@@ -1,6 +1,10 @@
 {
     "infos": [
         {
+            "key": "VideoGacha_Normal",
+            "value": ""
+        },
+        {
             "key": "init",
             "value": ""
         },
@@ -850,23 +854,23 @@
         },
         {
             "key": "5step-gacha_gl20200812_10_step5",
-            "value": ""
+            "value": "Incluye 100 medallas de invocación de tipo A (agosto)."
         },
         {
             "key": "5step-gacha_gl20200812_10_step4",
-            "value": ""
+            "value": "Incluye un tícket seleccionador de 50 fragmentos de la memoria elementales."
         },
         {
             "key": "5step-gacha_gl20200812_10_step3",
-            "value": ""
+            "value": "Incluye un tícket seleccionador de 50 prismas del despertar."
         },
         {
             "key": "5step-gacha_gl20200812_10_step2",
-            "value": ""
+            "value": "Incluye 100 medallas de invocación de tipo A (agosto)."
         },
         {
             "key": "5step-gacha_gl20200812_10_step1",
-            "value": ""
+            "value": "Incluye 100 medallas de invocación de tipo A (agosto)."
         },
         {
             "key": "5step-gacha_gl20200812_10",
@@ -875,6 +879,166 @@
         {
             "key": "p_gacha_vc_gl20200812_10",
             "value": "Incluye 100 medallas de invocación de tipo A (agosto)."
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_01",
+            "value": "Incluye 10 medallas de invocación de tipo B (agosto)."
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "Incluye 100 medallas de invocación de tipo B (agosto)."
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step3",
+            "value": "Incluye 5 fragmentos de la memoria arcoíris."
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step2",
+            "value": "Incluye 3 fragmentos de la memoria arcoíris."
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step1",
+            "value": "Incluye un fragmento de la memoria arcoíris."
+        },
+        {
+            "key": "3step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step5",
+            "value": "Unidad UR garantizada."
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step4",
+            "value": "Incluye un tícket seleccionador de 50 fragmentos de la memoria elementales."
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step3",
+            "value": "Incluye un tícket seleccionador de 50 prismas del despertar."
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step2",
+            "value": "Unidad o carta de visión MR+ garantizada"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step1",
+            "value": "Unidad o carta de visión MR+ garantizada"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200819_10",
+            "value": "Incluye 100 medallas de invocación de tipo B (agosto)."
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_01",
+            "value": "Incluye 10 medallas de invocación de tipo B (agosto)."
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "Incluye 100 medallas de invocación de tipo B (agosto)."
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step3",
+            "value": "Unidad UR de colaboración de FFT garantizada."
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step2",
+            "value": "Unidad o carta de visión UR garantizada"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step1",
+            "value": "Unidad o carta de visión UR garantizada"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_p_gacha_4unitvc_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_1",
+            "value": "Incluye 10 medallas de invocación de FFT de tipo A, parte II."
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_10",
+            "value": "Incluye 100 medallas de invocación de FFT de tipo A, parte II."
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_1",
+            "value": "Incluye 10 medallas de invocación de FFT de tipo B, parte II."
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_10",
+            "value": "Incluye 100 medallas de invocación de FFT de tipo B, parte II."
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step15",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step14",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step13",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step12",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step11",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step10",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step9",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step8",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step7",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step6",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step5",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step4",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step3",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step2",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step1",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10",
+            "value": ""
         },
         {
             "key": "global_pickup_sterne_20200325_01",

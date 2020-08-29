@@ -14,7 +14,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du das Dummy-Tutorial überspringen?"
+            "value": "Möchtest du dir ein Tutorial zum Dummy ansehen?"
         },
         {
             "key": "SKIP_YES",

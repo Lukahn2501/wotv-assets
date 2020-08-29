@@ -269,6 +269,26 @@
             "value": "Un samouraï de l'est dont l'habileté remarquable à l'épée lui a valu d'être invité à la cour de Wezett par le roi Khory. Or lorsqu'il découvrit la souffrance infligée par la tyrannie du roi sur son peuple, il se rapprocha de la faction de Graziella. Son amour pour l'alcool est bien connu."
         },
         {
+            "key": "UN_LW_P_ORDR",
+            "value": "Une épéiste, cousine éloignée du roi Muraga de Fennes, et seule stratège de l'armée du royaume. Sa profonde admiration pour Muraga lui fait naturellement entretenir une certaine rancœur à l'endroit de Sadali qui le traite comme un subordonné."
+        },
+        {
+            "key": "UN_LW_P_LVES",
+            "value": "Une épéiste qui erre d'un royaume à l'autre après la perte de ses parents et de son plus jeune frère. Un mystérieux dessein l'a menée jusqu'à l'extrême Orient et elle a confié à Owe et Seymore son désir de devenir samouraï de l'Est. Mais quelles sont ses véritables intentions ?"
+        },
+        {
+            "key": "UN_FFT_P_AGRA",
+            "value": "Une chevalière au service de la famille royale Atkascha et garde du corps personnel de la princesse Ovelia. Elle apparaît dans le conte des pierres du Zodiaque, raconté depuis des siècles dans le monde lointain d'Ivalice. Elle est connue pour sa noblesse d'esprit, son indéfectible loyauté et son sens aiguisé de la justice. Aussi ne peut-elle s'empêcher de plaindre la princesse qui ne cesse d'être jetée à la merci du chaos du monde."
+        },
+        {
+            "key": "UN_FFT_P_DELT",
+            "value": "Le fils d'un fermier au service de la Maison Béoulve. Il apparaît dans le conte des pierres du Zodiaque, raconté depuis des siècles dans le monde lointain d'Ivalice. Après la mort de ses parents, il fut généreusement recueilli par le père de Ramza, Barbaneth, et put ainsi suivre les enseignements de l'académie militaire réservée d'ordinaire aux enfants de la noblesse."
+        },
+        {
+            "key": "UN_FFT_P_MSTD",
+            "value": "Un jeune mineur de la cité mécanique de Goug, étonnamment doué avec les armes à feu. Il apparaît dans le conte des pierres du Zodiaque, raconté depuis des siècles dans le monde lointain d'Ivalice. Traqué par la Compagnie commerciale de Baert après qu'il a excavé une de ces pierres dans les mines, il est heureusement sauvé par Ramza."
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": ""
         },
@@ -421,10 +441,6 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_QILF",
-            "value": ""
-        },
-        {
             "key": "UN_LW_E_TREL",
             "value": ""
         },
@@ -446,6 +462,18 @@
         },
         {
             "key": "UN_LW_E_DRZA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_QILF",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
             "value": ""
         },
         {
@@ -917,11 +945,11 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_PR_02_TIM_2",
+            "key": "UN_LW_E_PR_02_GRM",
             "value": ""
         },
         {
-            "key": "UN_LW_E_PR_02_GRM",
+            "key": "UN_LW_E_PR_02_TIM_2",
             "value": ""
         },
         {
@@ -1053,6 +1081,10 @@
             "value": "Applique les caractéristiques du magilame SR"
         },
         {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": "Applique les caractéristiques du magilame SR"
+        },
+        {
             "key": "UN_LW_E_ARMN",
             "value": "Applique les caractéristiques du dragonnier N"
         },
@@ -1149,15 +1181,11 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_SKEL_02_2",
-            "value": "Applique les caractéristiques du magilame SR"
-        },
-        {
-            "key": "UN_FF01_E_WRMC",
+            "key": "UN_FFT_E_MSTD",
             "value": ""
         },
         {
-            "key": "UN_FF01_E_WRMC_RAID",
+            "key": "UN_FFT_E_AGRA",
             "value": ""
         },
         {
@@ -1177,12 +1205,12 @@
             "value": "Applique les caractéristiques du paladin MR"
         },
         {
-            "key": "UN_LW_E_IGNT_02",
-            "value": "Applique les caractéristiques du paladin SR"
-        },
-        {
             "key": "UN_LW_E_IGNT_01_QE",
             "value": "Applique les caractéristiques du paladin MR"
+        },
+        {
+            "key": "UN_LW_E_IGNT_02",
+            "value": "Applique les caractéristiques du paladin SR"
         },
         {
             "key": "UN_LW_E_IGNT_2",
@@ -1195,14 +1223,6 @@
         {
             "key": "UN_LW_E_IGNT_BLM",
             "value": "Applique les caractéristiques estimées du mage noir N"
-        },
-        {
-            "key": "UN_LW_E_THDG_QE",
-            "value": ""
-        },
-        {
-            "key": "UN_LW_E_DABL",
-            "value": ""
         },
         {
             "key": "UN_LW_E_BHMT",
@@ -1265,10 +1285,6 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_THDG",
-            "value": ""
-        },
-        {
             "key": "UN_LW_E_SLIM",
             "value": ""
         },
@@ -1277,11 +1293,27 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_CSLI_QE",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_CSLI_01",
             "value": ""
         },
         {
-            "key": "UN_LW_E_CSLI_QE",
+            "key": "UN_LW_E_THDG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
             "value": ""
         },
         {
@@ -1338,10 +1370,6 @@
         },
         {
             "key": "UN_FF01_E_WRMC_SIREN",
-            "value": ""
-        },
-        {
-            "key": "UN_LW_E_DABL_SIREN",
             "value": ""
         },
         {
@@ -1826,6 +1854,18 @@
         },
         {
             "key": "UN_LW_S_DABL_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01",
+            "value": "Un chocobo rouge qu'on aurait été aperçu près d'une rivière dans un monde lointain. Il est plus irascible et agressif que les chocobos ordinaires, profitant d'une vitesse fulgurante et d'un mystérieux pouvoir lui permettant d'invoquer de petites météorites."
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW2",
             "value": ""
         },
         {

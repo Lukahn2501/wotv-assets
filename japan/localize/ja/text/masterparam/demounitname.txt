@@ -49,6 +49,22 @@
             "value": "オー,騎士オー"
         },
         {
+            "key": "DU_LW_IRDL",
+            "value": "イルディラ"
+        },
+        {
+            "key": "DU_LW_RYEL",
+            "value": "リューエル"
+        },
+        {
+            "key": "DU_LW_GRTH",
+            "value": "ガレス"
+        },
+        {
+            "key": "DU_LW_SIRM",
+            "value": "シルマ"
+        },
+        {
             "key": "DU_LW_KTON",
             "value": "キトン"
         },

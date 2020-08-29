@@ -1,0 +1,40 @@
+{
+    "infos": [
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "[UR] in der nächsten 10-maligen Beschwörung garantiert!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "[UR] in der nächsten 10-maligen Beschwörung garantiert!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "[UR] in der nächsten 10-maligen Beschwörung garantiert!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "[UR] in der nächsten 10-maligen Beschwörung garantiert!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "[UR] in der nächsten 10-maligen Beschwörung garantiert!"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "[UR] in der nächsten 10-maligen Beschwörung garantiert!"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "[UR] in der nächsten 10-maligen Beschwörung garantiert!"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_10",
+            "value": "[UR] in der nächsten 10-maligen Beschwörung garantiert!"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_10",
+            "value": "[UR] in der nächsten 10-maligen Beschwörung garantiert!"
+        }
+    ]
+}

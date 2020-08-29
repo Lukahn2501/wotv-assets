@@ -250,7 +250,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_06",
-            "value": "경험치 큐브 일일 패키지"
+            "value": "경험치 큐브 일일 패키지 B"
         },
         {
             "key": "IT_SET_3MDL_THUNDER",
@@ -667,6 +667,70 @@
         {
             "key": "IT_SET_SMVC_VE_EXP",
             "value": "비전 카드 강화 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "무지개 각성 패키지"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "바람속성 직업 강화 패키지: 빨강"
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "바람속성 직업 강화 패키지: 노랑"
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "바람속성 직업 강화 패키지: 보라"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "경험치 큐브 패키지+"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "탐험 티켓 스페셜 패키지"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "바람속성 풀 각성 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "오르도아 육성 패키지"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "아그리아스 육성 패키지"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "UR 유닛 한계 돌파 패키지"
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "얼음의 각성 패키지+"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "불의 각성 패키지+"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "직업 강화 지원 패키지"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "경험치 큐브 패키지"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "그로우 에그 패키지"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "아다만타이트 패키지"
         }
     ]
 }

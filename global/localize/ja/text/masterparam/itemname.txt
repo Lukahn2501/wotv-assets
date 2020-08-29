@@ -1081,6 +1081,66 @@
             "value": "魔杖術士の記憶・緋"
         },
         {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "ホーリーナイトの記憶・翠"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "ホーリーナイトの記憶・碧"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "ホーリーナイトの記憶・紫"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "ホーリーナイトの記憶・橘"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "ホーリーナイトの記憶・緋"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "見習い戦士（ディリータ）の記憶・翠"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "見習い戦士（ディリータ）の記憶・碧"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "見習い戦士（ディリータ）の記憶・紫"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "見習い戦士（ディリータ）の記憶・橘"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "見習い戦士（ディリータ）の記憶・緋"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "機工士の記憶・翠"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "機工士の記憶・碧"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "機工士の記憶・紫"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "機工士の記憶・橘"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "機工士の記憶・緋"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "火の輝石・翠"
         },
@@ -1791,6 +1851,26 @@
         {
             "key": "IT_PI_LW_SIMR",
             "value": "シムールの欠片"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "オルドアの欠片"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "ラヴィエスの欠片"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "アグリアスの欠片"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "ディリータの欠片"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
+            "value": "ムスタディオの欠片"
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -2581,6 +2661,10 @@
             "value": "アーマーオブライトのクラフトレシピ"
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "ソルティレージュのクラフトレシピ"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "命の刻印"
         },
@@ -2773,6 +2857,10 @@
             "value": "コラボ召喚メダル"
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": "FFXIVコラボイベント召喚券"
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "【March】SummonMedalA"
         },
@@ -2813,6 +2901,10 @@
             "value": "【August】Summon Medal A"
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "【August】Summon Medal B"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFTコラボイベントメダル"
         },
@@ -2825,12 +2917,24 @@
             "value": "FFTコラボ召喚メダルB"
         },
         {
+            "key": "IT_EC_FFT_3",
+            "value": "【第2弾】FFTコラボイベントメダル"
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "【第2弾】FFTコラボ召喚メダルA"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "【第2弾】FFTコラボ召喚メダルB"
+        },
+        {
             "key": "IT_EC_TOWER_001",
             "value": "タワーメダル"
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": "【6月】イベントメダル"
+            "value": "西の脅威ランダルメダル"
         },
         {
             "key": "IT_EC_EV03_1",
@@ -2841,20 +2945,16 @@
             "value": "【8月】イベントメダル"
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": "チョコレートプリンレイドメダル"
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": "ホワイトマシュマロレイドメダル"
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": "FF1コラボイベントメダル"
         },
         {
             "key": "IT_EC_FF1_2",
             "value": "FF1コラボ召喚メダル"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FFTコラボイベント召喚券"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2917,6 +3017,10 @@
             "value": "覚醒輝源×50選択召喚券"
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "覚醒輝源×200選択召喚券"
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": "属性の想いの欠片×50選択召喚券"
         },
@@ -2937,6 +3041,14 @@
             "value": "属性の輝石・紫×70選択召喚券"
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "属性の輝石・橘×70選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "属性の輝石・緋×70選択召喚券"
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": "属性の獣醒石×20選択召喚券"
         },
@@ -2951,90 +3063,6 @@
         {
             "key": "IT_US_SE_SB_EXP_03",
             "value": "属性の魔石（中）×50選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": "ジョブの記憶・翠×1選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": "ジョブの記憶・碧×2選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": "ジョブの記憶・紫×3選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": "ジョブの記憶・橘×4選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": "ジョブの記憶・緋×5選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": "URユニット選択召喚券A"
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": "覚醒輝源×10選択召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "属性の魔石（中）×500選択召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "属性の魔石（中）×10選択召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "属性の魔石（中）×25選択召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "属性の魔石（大）×100選択召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "URVカード欠片×50選択召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": "URVカード欠片×50選択召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": "URVカード欠片×50選択召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": "URVカード欠片×50選択召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": "URVカード欠片×50選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "おすすめURユニット選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "おすすめSSRユニット選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": "SSRユニット選択召喚券A"
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": "URユニット欠片×40選択召喚券"
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
-            "value": "URユニット欠片×40選択召喚券"
         },
         {
             "key": "IT_US_G_U_UR_01",
@@ -3065,16 +3093,32 @@
             "value": "URVカード確定召喚券A"
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "FFTコラボイベント召喚券"
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "ジョブの記憶・翠×1選択召喚券"
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "FFXIVコラボイベント召喚券"
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "ジョブの記憶・碧×2選択召喚券"
         },
         {
-            "key": "IT_US_G_N_TW_10",
-            "value": "【白磁の塔】ノーマル10連召喚券"
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "ジョブの記憶・紫×3選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "ジョブの記憶・橘×4選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "ジョブの記憶・緋×5選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "URユニット選択召喚券A"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "覚醒輝源×10選択召喚券"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -3099,10 +3143,6 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "覚醒輝源×NN選択召喚券"
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
-            "value": "覚醒輝源×200選択召喚券"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3337,10 +3377,6 @@
             "value": "イケメン争奪戦！！の欠片"
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": "猛攻双竜　２ヘッドドラゴンの欠片"
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": "嫉心の魔術師の欠片"
         },
@@ -3353,6 +3389,10 @@
             "value": "偽りの契り、偽れぬ魂の欠片"
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": "猛攻双竜　２ヘッドドラゴンの欠片"
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": "デスマシーンの欠片"
         },
@@ -3363,6 +3403,14 @@
         {
             "key": "IT_VPI_LW_CBVPARTY1",
             "value": "徒桜の宴の欠片"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "赤チョコボの欠片"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
+            "value": "草笛の欠片"
         },
         {
             "key": "IT_VC_EXP_01",
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "獅子の強咢（大）"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "チョコレートプリンレイドメダル"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "ホワイトマシュマロレイドメダル"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "属性の魔石（中）×500選択召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "属性の魔石（中）×10選択召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "属性の魔石（中）×25選択召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "属性の魔石（大）×100選択召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "URVカード欠片×50選択召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "URVカード欠片×50選択召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "URVカード欠片×50選択召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "URVカード欠片×50選択召喚券"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "URVカード欠片×50選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "おすすめURユニット選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "おすすめSSRユニット選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "SSRユニット選択召喚券A"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "URユニット欠片×40選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "URユニット欠片×40選択召喚券"
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "URユニット欠片×40選択召喚券"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "【白磁の塔】ノーマル10連召喚券"
         }
     ]
 }

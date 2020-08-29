@@ -46,7 +46,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "Voulez-vous lancer le tutoriel sur l'Affinité ?"
+            "value": "Voulez-vous lancer le tutoriel sur l'affinité ?"
         },
         {
             "key": "SKIP_YES",

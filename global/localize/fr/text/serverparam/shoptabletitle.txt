@@ -17,6 +17,14 @@
             "value": "Boutique spéciale"
         },
         {
+            "key": "Realmoney-0819",
+            "value": "Boutique spéciale"
+        },
+        {
+            "key": "Realmoney-0826",
+            "value": ""
+        },
+        {
             "key": "Begginer-20200317",
             "value": "Boutique du débutant"
         },
@@ -313,6 +321,30 @@
             "value": "Boutique ordinaire"
         },
         {
+            "key": "Normal-20200501_A",
+            "value": "Boutique ordinaire"
+        },
+        {
+            "key": "Normal-20200501_B",
+            "value": "Boutique ordinaire"
+        },
+        {
+            "key": "Normal-20200501_C",
+            "value": "Boutique ordinaire"
+        },
+        {
+            "key": "Normal-20200507_A",
+            "value": "Boutique ordinaire"
+        },
+        {
+            "key": "Normal-20200507_B",
+            "value": "Boutique ordinaire"
+        },
+        {
+            "key": "Normal-20200507_C",
+            "value": "Boutique ordinaire"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Boutique de combat"
         },
@@ -601,12 +633,56 @@
             "value": "Boutique de combat"
         },
         {
+            "key": "Guerrilla-20200501A",
+            "value": "Boutique de combat"
+        },
+        {
+            "key": "Guerrilla-20200501B",
+            "value": "Boutique de combat"
+        },
+        {
+            "key": "Guerrilla-20200501C",
+            "value": "Boutique de combat"
+        },
+        {
+            "key": "Guerrilla-20200507A",
+            "value": "Boutique de combat"
+        },
+        {
+            "key": "Guerrilla-20200507B",
+            "value": "Boutique de combat"
+        },
+        {
+            "key": "Guerrilla-20200507C",
+            "value": "Boutique de combat"
+        },
+        {
+            "key": "Limited-20200422_A",
+            "value": "Boutique de la collaboration FFT [Partie II]"
+        },
+        {
             "key": "Limited-gl20200729_A",
             "value": "Boutique de la collaboration FFI"
         },
         {
             "key": "Limited-20191227_A",
             "value": "Boutique de la collaboration FFT"
+        },
+        {
+            "key": "Limited-gl20200826",
+            "value": "Compte à rebours de l'Anniversaire des 6 mois [Partie I] - Boutique"
+        },
+        {
+            "key": "Limited-gl20200819",
+            "value": "Boutique de la célébration de la nouvelle version"
+        },
+        {
+            "key": "Limited-gl20200819_A",
+            "value": "Boutique des nouvelles unités du moment"
+        },
+        {
+            "key": "Limited-gl20200819_B",
+            "value": "Boutique des unités du moment"
         },
         {
             "key": "Limited-gl20200812",
@@ -821,6 +897,18 @@
             "value": "Boutique du moment"
         },
         {
+            "key": "Event-Quest_20200422",
+            "value": "Boutique d'échange des médailles d'événement de FFT [Partie II]"
+        },
+        {
+            "key": "Event-Summon_20200422_A",
+            "value": "Boutique d'échange des médailles d'invocation"
+        },
+        {
+            "key": "Event-Summon_20200422_B",
+            "value": "Boutique d'échange des médailles d'invocation"
+        },
+        {
             "key": "Event-Quest_GL20200729",
             "value": "Boutique d'échange des médailles d'événement FFI"
         },
@@ -841,20 +929,16 @@
             "value": "Boutique de la collaboration FFXIV : Shadowbringers"
         },
         {
+            "key": "Event-EV02_1_20200201",
+            "value": "Boutique d'échange des médailles de « Rundall, menace à l'ouest »"
+        },
+        {
             "key": "Event-Quest_20200401",
             "value": "Boutique d'échange des médailles d'événement d'août"
         },
         {
-            "key": "Event-Raid_20200309",
-            "value": "Boutique d'échange des médailles du raid contre la Guimauve blanche"
-        },
-        {
-            "key": "Event-Quest_20200301",
-            "value": "Boutique d'échange des médailles d'événement de juillet"
-        },
-        {
-            "key": "Event-Tower_20200317",
-            "value": "Boutique d'échange des médailles de la Tour"
+            "key": "Event-Summon_GL20200819_B",
+            "value": "Boutique d'échange des médailles d'invocation"
         },
         {
             "key": "Event-Summon_GL20200812_A",
@@ -869,6 +953,18 @@
             "value": "Boutique d'échange des médailles du raid du Chocoflan"
         },
         {
+            "key": "Event-Raid_20200309",
+            "value": "Boutique d'échange des médailles du raid contre la Guimauve blanche"
+        },
+        {
+            "key": "Event-Quest_20200301",
+            "value": "Boutique d'échange des médailles d'événement de juillet"
+        },
+        {
+            "key": "Event-Tower_20200317",
+            "value": "Boutique d'échange des médailles de la Tour"
+        },
+        {
             "key": "Event-Summon_GL20200722_B",
             "value": "Boutique d'échange des médailles d'invocation"
         },
@@ -879,10 +975,6 @@
         {
             "key": "Event-Summon_GL20200701_A",
             "value": "Boutique d'échange des médailles d'invocation"
-        },
-        {
-            "key": "Event-EV02_1_20200201",
-            "value": "Boutique d'échange des médailles d'événement de juin"
         },
         {
             "key": "Event-Summon_GL20200624_B",
@@ -1882,6 +1974,70 @@
         },
         {
             "key": "Limited-FIRE_2020_4_B",
+            "value": "Boutique du feu"
+        },
+        {
+            "key": "Limited-WATER_2020_4_C",
+            "value": "Boutique de l'eau"
+        },
+        {
+            "key": "Limited-WIND_2020_4_C",
+            "value": "Boutique du vent"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_C",
+            "value": "Boutique de la foudre"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_C",
+            "value": "Boutique de la terre"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_C",
+            "value": "Boutique de la lumière"
+        },
+        {
+            "key": "Limited-DARK_2020_4_C",
+            "value": "Boutique de l'ombre"
+        },
+        {
+            "key": "Limited-ICE_2020_4_C",
+            "value": "Boutique de la glace"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_C",
+            "value": "Boutique du feu"
+        },
+        {
+            "key": "Limited-WATER_2020_4_D",
+            "value": "Boutique de l'eau"
+        },
+        {
+            "key": "Limited-WIND_2020_4_D",
+            "value": "Boutique du vent"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_D",
+            "value": "Boutique de la foudre"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_D",
+            "value": "Boutique de la terre"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_D",
+            "value": "Boutique de la lumière"
+        },
+        {
+            "key": "Limited-DARK_2020_4_D",
+            "value": "Boutique de l'ombre"
+        },
+        {
+            "key": "Limited-ICE_2020_4_D",
+            "value": "Boutique de la glace"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_D",
             "value": "Boutique du feu"
         }
     ]

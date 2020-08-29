@@ -29,6 +29,46 @@
             "value": "Gildenkampf hat begonnen!"
         },
         {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
+            "value": "Im Kampf"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
+            "value": "<line-height=20>Limitierter<br><size=15>Gildenkampf läuft!"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
+            "value": "Suche ..."
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
+            "value": "Kampf beginnen"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
+            "value": "Rechenvorgang ..."
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
+            "value": "Bereite nächsten Kampf vor"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
+            "value": "Ab dd.MM., HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
+            "value": "Bis dd.MM., HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
+            "value": "Bis dd.MM., HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
+            "value": "Endgültiges Ergebnis"
+        },
+        {
             "key": "GLOBAL_MAIN_PVP",
             "value": "Duelle"
         },
@@ -757,154 +797,6 @@
             "value": "Einheit bilden"
         },
         {
-            "key": "UNIT_DETAIL_AWAKE",
-            "value": "Erwecken"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP",
-            "value": "Limitbruch"
-        },
-        {
-            "key": "UNIT_DETAIL_INTIMACY",
-            "value": "Vertrautheit"
-        },
-        {
-            "key": "UNIT_DETAIL_STATUS_DETAIL",
-            "value": "Attribut-Info"
-        },
-        {
-            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
-            "value": "Treuemeister-Belohnung"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_BORD",
-            "value": "Fähigkeitenbrett"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_SET",
-            "value": "Fähigkeiten einrichten"
-        },
-        {
-            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
-            "value": "Esper-Trainingsbrett"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ENHANCE",
-            "value": "Verbessern"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_AWAKE",
-            "value": "Erwecken"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ABILITY",
-            "value": "Fähigkeiten"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
-            "value": "Treue"
-        },
-        {
-            "key": "UNIT_DETAIL_RANK_LIMIT",
-            "value": "Ranggrenze"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ON",
-            "value": "Als bevorzugt festgelegt"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_OFF",
-            "value": "Nicht mehr bevorzugt"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP_CONDITION",
-            "value": "Mit Limitbruch „{0}“ freischalten"
-        },
-        {
-            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
-            "value": "A.-Kenntnisse"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP",
-            "value": "Ausrüsten"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI",
-            "value": "Bevorzugte Ausrüstung"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
-            "value": "Ausrüsten"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
-            "value": "Verbesserungsmaterialien"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
-            "value": "Keine Verbesserungsmaterialien"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
-            "value": "Mehrfach verbessern"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
-            "value": "Verbessern"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
-            "value": "Maximale Einheitenstufe erreicht."
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
-            "value": "Das sind mehr ERF-Punkte, als zum Erreichen der aktuellen Maximalstufe der Einheit notwendig wären. Trotzdem fortfahren?"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
-            "value": "Verbessern"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
-            "value": "Primär"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
-            "value": "Ab Einheitenstufe"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
-            "value": "Job verbessern"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
-            "value": "Max."
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
-            "value": "Job-Verbesserungsmaterialien"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
-            "value": "Jobstufe auf Maximum"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
-            "value": "Nicht genug Materialien"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITYSET_SET",
-            "value": "Ausrüsten"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_STATUS",
-            "value": "<cspace=0.6>Einheitenwerte"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_JOB",
-            "value": "<cspace=0.6>Job"
-        },
-        {
             "key": "UNIT_RANK_TITLE",
             "value": "Limitbruch"
         },
@@ -1113,26 +1005,6 @@
             "value": "Ausrüstbare Gegenstände"
         },
         {
-            "key": "UNIT_ARTI_SET_TITLE",
-            "value": "Ausrüsten"
-        },
-        {
-            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
-            "value": "Resistenzanzeige"
-        },
-        {
-            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
-            "value": "Ausgerüstetes ausblenden"
-        },
-        {
-            "key": "UNIT_ARTI_SET_REMOVE",
-            "value": "Entfernen"
-        },
-        {
-            "key": "UNIT_ARTI_SET_CONFIRM",
-            "value": "Bereits von einer anderen Einheit der Gruppe ausgerüstet. Trotzdem ausrüsten?<br>(Die andere Einheit legt den Gegenstand ab.)"
-        },
-        {
             "key": "ABILITY_CHANGE_TITLE",
             "value": "Fähigkeiten einrichten"
         },
@@ -1163,18 +1035,6 @@
         {
             "key": "UNIT_PROFILE_BELONGING",
             "value": "Zugehörigkeit: "
-        },
-        {
-            "key": "TRUST_MASTER_TITLE",
-            "value": "Treuemeister-Belohnung"
-        },
-        {
-            "key": "TRUST_MASTER_CONDITION",
-            "value": "Erhältlich ab Limitbruch 5 und Erweckungsgrad 6★"
-        },
-        {
-            "key": "TRUST_MASTER_COMPLETE",
-            "value": "Erhalten"
         },
         {
             "key": "LIMITBURST_LEVELUP_CHECK_TITLE",
@@ -1455,42 +1315,6 @@
         {
             "key": "ABILITY_ENHANCE_RESULT_DEF_IGNORE",
             "value": "ABW-Durchbohreffekt"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_STATUS",
-            "value": "Status"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_SYNCHRO",
-            "value": "Resonanz"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_RESIST",
-            "value": "Resistenz"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
-            "value": "Anrufungsmagie"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
-            "value": "Esper-Trainingsbrett"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
-            "value": "Esper verbessern"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
-            "value": "Mehrfach verbessern"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
-            "value": "Maximale Esperstufe erreicht."
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
-            "value": "Das sind mehr ERF-Punkte, als zum Erreichen der aktuellen Maximalstufe der Esper notwendig wären. Trotzdem fortfahren?"
         },
         {
             "key": "NETHERBEAST_SYNCHRO_TITLE",
@@ -2029,50 +1853,6 @@
             "value": "Nicht mehr bevorzugt"
         },
         {
-            "key": "ARTI_CONDITION_TITLE",
-            "value": "Bedingungen"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_TITLE",
-            "value": "Ausrüstbare Jobs"
-        },
-        {
-            "key": "ARTI_CONDITION_NONE",
-            "value": "Keine Bedingungen."
-        },
-        {
-            "key": "ARTI_CONDITION_COUNTRY",
-            "value": "-Aus {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_SEX",
-            "value": "-{0}"
-        },
-        {
-            "key": "ARTI_CONDITION_UNIT",
-            "value": "-{0}"
-        },
-        {
-            "key": "ARTI_CONDITION_RARITY",
-            "value": "-Seltenheit: {0} oder höher"
-        },
-        {
-            "key": "ARTI_CONDITION_AWAKE",
-            "value": "-Erweckungen: {0} oder mehr"
-        },
-        {
-            "key": "ARTI_CONDITION_RANK",
-            "value": "-Limitbrüche: {0} oder mehr"
-        },
-        {
-            "key": "ARTI_CONDITION_SERIES",
-            "value": "-Serien: {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_NONE",
-            "value": "Kann von allen Jobs verwendet werden."
-        },
-        {
             "key": "ARTI_ENHANCE_CORRECTION_TITLE",
             "value": "Wachstumsverstärker"
         },
@@ -2195,22 +1975,6 @@
         {
             "key": "ARTI_CHECK_FAVORITE_CAUTION",
             "value": "<line-height=26>* Zu deiner Bevorzugten Ausrüstung zählende Ausrüstungsgegenstände, die bereits von einer anderen Einheit angelegt wurden, können nicht ausgerüstet werden.<br>* Ausrüstung kann auch über den Aufstellungsbildschirm angelegt werden."
-        },
-        {
-            "key": "ARTI_STATUS_ADD_NONE",
-            "value": "Keine Zusatzfähigkeiten"
-        },
-        {
-            "key": "ARTI_STATUS_WA_TITLE",
-            "value": "AF"
-        },
-        {
-            "key": "ARTI_STATUS_LB_TITLE",
-            "value": "LB"
-        },
-        {
-            "key": "ARTI_STATUS_LB_ENHANCE",
-            "value": "ausgerüstet"
         },
         {
             "key": "ARTI_TYPE_INHERIT_TITLE",
@@ -2793,6 +2557,30 @@
             "value": "???"
         },
         {
+            "key": "MENU_OPTION_PSAVE_TITLE",
+            "value": "Energiesparmodus"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_DESC",
+            "value": "<line-height=33>Wenn während des ausgewählten Zeitraums keine Eingabe erfolgt,<br>wird der Bildschirm automatisch umgeschaltet, um Akku zu sparen."
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_OFF",
+            "value": "AUS"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_SECOND",
+            "value": "30 Sek."
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_MINUTE",
+            "value": "1 Min."
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
+            "value": "3 Min."
+        },
+        {
             "key": "MENU_OPTION_DOWNLOAD_VOICE_TITLE",
             "value": "Stimmen"
         },
@@ -2974,7 +2762,7 @@
         },
         {
             "key": "MENU_PLAYER_HOME_UNIT",
-            "value": "Hauptmenü-Einheiten"
+            "value": "Hauptbildschirm-Einheit"
         },
         {
             "key": "MENU_PLAYER_HOME_UNIT_CHANGE",
@@ -2986,7 +2774,7 @@
         },
         {
             "key": "MENU_PLAYER_ERROR_UNIT_CHANGE_DESC",
-            "value": "Einheit konnte nicht aufgestellt werden. <br>Zurück zum Hauptmenü?"
+            "value": "Einheit konnte nicht aufgestellt werden. <br>Zurück zum Hauptbildschirm?"
         },
         {
             "key": "MENU_BULK_DOWNLOAD_TITLE",
@@ -3969,6 +3757,10 @@
             "value": "Raumleiter"
         },
         {
+            "key": "MULTI_ROOM_RESET",
+            "value": "Raum auflösen<br>(rücksetzbar)"
+        },
+        {
             "key": "MULTI_ROOM_DISSOLVE_CHECK_TITLE",
             "value": "Raum auflösen"
         },
@@ -4187,10 +3979,6 @@
         {
             "key": "ARTIFACT_SELL_OVER_DESC",
             "value": "Verkauf nicht möglich. Du kannst keine weiteren Gil entgegennehmen."
-        },
-        {
-            "key": "；武具装備リスト確認ダイアログ",
-            "value": ""
         },
         {
             "key": "ARTIFACT_EQUIPLIST_TITLE",
@@ -4623,30 +4411,6 @@
         {
             "key": "GACHA_TICKET_CHECK_CAUTION",
             "value": "Berühre das Symbol für mehr Details."
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
-            "value": "Einheitenprofile"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
-            "value": "* Erweckungen: {0}★/Limitbrüche: {1}/Bei max. Stufe und Jobstufe"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
-            "value": "Visionskartenbeschreibung"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
-            "value": "* Erweckungen: {0}★/Bei max. Stufe"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
-            "value": "Esper-Profile"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
-            "value": "* Beim ersten Mal kannst du eine kostenlose Esper erhalten."
         },
         {
             "key": "GACHA_PIECE_NAME",
@@ -5397,30 +5161,6 @@
             "value": "Resistenzanzeige"
         },
         {
-            "key": "VISION_DETAIL_STATUS",
-            "value": "Attribute"
-        },
-        {
-            "key": "VISION_DETAIL_INFO",
-            "value": "Info"
-        },
-        {
-            "key": "VISION_DETAIL_ADD_EFF",
-            "value": "Gewährte Effekte"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE_BONUS",
-            "value": "Erweckungsbonus"
-        },
-        {
-            "key": "VISION_DETAIL_ENHANCE",
-            "value": "Verbesserung"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE",
-            "value": "Erwecken"
-        },
-        {
             "key": "VISION_SELL_CHECK_TITLE",
             "value": "Verkauf bestätigen"
         },
@@ -5707,10 +5447,6 @@
         {
             "key": "MATCH_MATCHING_FAILED_DESC",
             "value": "Die Suche wurde abgebrochen."
-        },
-        {
-            "key": "；マッチ - フレンドマッチ",
-            "value": ""
         },
         {
             "key": "MATCH_MAKEROOM_WATCHING",
@@ -6321,6 +6057,10 @@
             "value": "Suche ..."
         },
         {
+            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
+            "value": "Gegner festgelegt!"
+        },
+        {
             "key": "GUILD_LEAGUE_BANNER_OUTTERM",
             "value": "Event wird derzeit nicht abgehalten."
         },
@@ -6358,7 +6098,7 @@
         },
         {
             "key": "GUILD_LEAGUE_DURATION_END",
-            "value": "Ergebnisabrufzeitraum: "
+            "value": "Ergebnisabrufzeitraum endet am:"
         },
         {
             "key": "GUILD_LEAGUE_DURATION_NOW",
@@ -6387,6 +6127,26 @@
         {
             "key": "GUILD_COMING_SOON",
             "value": "Demnächst"
+        },
+        {
+            "key": "GUILD_LIMITED_TITLE",
+            "value": "Limitierter Gildenkampf"
+        },
+        {
+            "key": "GUILD_LIMITED_POINT",
+            "value": "Kampfpunkte"
+        },
+        {
+            "key": "GUILD_LIMITED_PERIOD",
+            "value": "Dauer:"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END",
+            "value": "Endgültiges Ergebnis:"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END_FMT",
+            "value": "dd.MM., HH:mm"
         },
         {
             "key": "GUILD_CHAT_NEW_MEMBER",
@@ -6825,6 +6585,10 @@
             "value": "Gildenbeitrag"
         },
         {
+            "key": "GUILD_RANKING_TAB_LIMITED",
+            "value": "Limitiert"
+        },
+        {
             "key": "GUILD_RANKING_SEASON",
             "value": "Event-Datum"
         },
@@ -6883,6 +6647,10 @@
         {
             "key": "GUILD_RANKING_LEAGUE_LOSE",
             "value": "Niederlagen"
+        },
+        {
+            "key": "GUILD_RANKING_LIMITED_POINTS",
+            "value": "Kampfpunkte"
         },
         {
             "key": "GUILD_RANKING_NOTAVAIL_TITLE",
@@ -7261,6 +7029,14 @@
             "value": "Liga-Liste"
         },
         {
+            "key": "GUILD_BATTLE_EVENT_DETAIL",
+            "value": "Eventdetails"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_ABSTENTION",
+            "value": "<line-height=32>Teilnahme derzeit<br>nicht möglich"
+        },
+        {
             "key": "GUILD_BATTLE_STATE_OUT_TERM",
             "value": "Event wird derzeit nicht abgehalten."
         },
@@ -7299,6 +7075,14 @@
         {
             "key": "GUILD_BATTLE_STATE_END",
             "value": "Vorbei"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE",
+            "value": "Kampfloser Sieg"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE_DESC",
+            "value": "Ohne Kampf gewonnen,<br>da kein Gegner gefunden werden konnte."
         },
         {
             "key": "GUILD_BATTLE_START_TIME",
@@ -7389,6 +7173,42 @@
             "value": "Angriffslimit für diesen Gildenkampf erreicht."
         },
         {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
+            "value": "Keine verbleibenden Aktionen"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
+            "value": "Aktionslimit für diesen Gildenkampf erreicht."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_DESC",
+            "value": "<line-height=32>Teilnahme nicht möglich,<br>da die folgenden Teilnahmebedingungen<br>nicht erfüllt wurden."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
+            "value": "Gildenligastufe"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
+            "value": "über {0}"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
+            "value": "Gildenmitglieder"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
+            "value": "{0} oder mehr Mitglieder"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
+            "value": "Vorstand"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
+            "value": "Keine Anmeldung innerhalb von {0} Tag(en)"
+        },
+        {
             "key": "GUILD_BATTLE_PLAYER_DETAIL_ABILITY",
             "value": "Fähigkeiten"
         },
@@ -7405,6 +7225,10 @@
             "value": "Gildenkampf-Ergebnis"
         },
         {
+            "key": "GUILD_BATTLE_END_TROPHY_POINT",
+            "value": "Kampfpunkte:"
+        },
+        {
             "key": "GUILD_BATTLE_END_TROPHY_STAR_GET",
             "value": "Erbeutete ★"
         },
@@ -7419,6 +7243,10 @@
         {
             "key": "GUILD_BATTLE_END_TROPHY_STAR_RESIDUE_SEP",
             "value": "Verbleibende ★:"
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
+            "value": "{Kampfloser Sieg ★ {0}%)"
         },
         {
             "key": "GUILD_BATTLE_END_TROPHY_DAMAGE",
@@ -7489,6 +7317,10 @@
             "value": "Abwehr"
         },
         {
+            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
+            "value": "Unterstützung"
+        },
+        {
             "key": "GUILD_BATTLE_LOG_DESC_OFFENSE",
             "value": "{0} angegriffen"
         },
@@ -7503,6 +7335,30 @@
         {
             "key": "GUILD_BATTLE_LOG_RESULT_DIFFENSE",
             "value": "{0}-mal zurückgezogen"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
+            "value": "{0} ausgekundschaftet<br>Gruppe {0} aufgedeckt"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
+            "value": "Von {0} ausgekundschaftet<br>Gruppe aufgedeckt"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
+            "value": "Für {0} aufgefüllt<br>Aktionszahl der Gruppe {0} wiederhergestellt"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
+            "value": "Von {0} aufgefüllt<br>Aktionszahl der Gruppe wiederhergestellt"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
+            "value": "Zu {0} gezaubert<br>Fähigkeiteneinsätze der Gruppe {0} wiederhergestellt"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
+            "value": "Von {0} gezaubert<br>Fähigkeiteneinsätze der Gruppe wiederhergestellt"
         },
         {
             "key": "GUILD_BATTLE_END_LOG_TITLE",
@@ -7559,6 +7415,50 @@
         {
             "key": "GUILD_BATTLE_DEFFENCE_SET_NONE",
             "value": "Nicht aufgestellt"
+        },
+        {
+            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
+            "value": "Festgelegte Defensiv-Gruppen:"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
+            "value": "Angriff"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
+            "value": "Unterstützung"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_TITLE",
+            "value": "Unterstützung"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE",
+            "value": "Verwenden"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
+            "value": "{0}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
+            "value": "<color=#F0C040>{0}</color>von<br><color=#F0C040>{1}</color>von<br>{2}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
+            "value": "Aktionsbelohnungen abgeholt"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
+            "value": "Wähle die gegnerische Gruppe, die du angreifen möchtest"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
+            "value": "Wähle eine Unterstützungsgruppe"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
+            "value": "{0}: Details"
         },
         {
             "key": "OTHER_PLAYER_DETAIL_REQUEST",
@@ -7723,6 +7623,18 @@
         {
             "key": "GM_RAIDBOSS_DISCOVER_REWARD",
             "value": "Entdeckungsbelohnungen der Kraftprobe"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
+            "value": "Belohnung für die Teilnahme an insgesamt ${entry_count} Kämpfen während des Limitierten Gildenkampfes vom ${period}"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
+            "value": "Belohnung für den Limitierten Gildenkampf vom ${period}"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
+            "value": "Belohnung für das Erreichen von Platz ${ranking} während des Limitierten Gildenkampfes vom ${period}"
         },
         {
             "key": "QUEST_APPEAL_AP",
@@ -7905,8 +7817,20 @@
             "value": "Du kannst nicht mit kampfunfähigen Einheiten in deiner Gruppe aufbrechen."
         },
         {
-            "key": "VISION_ILLUSTRATOR",
-            "value": "Illustration"
+            "key": "QRCODE_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_MESSAGE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_ERROR_TITLE",
+            "value": "Fehler"
+        },
+        {
+            "key": "QRCODE_ERROR_MESSAGE",
+            "value": "Ungültige Plattform."
         },
         {
             "key": "MENU_OPTION_LANGUAGE",
@@ -8077,260 +8001,8 @@
             "value": "Die Transaktion läuft gerade.<br>Bitte probiere es später nochmal."
         },
         {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
-            "value": "Im Kampf"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
-            "value": "<line-height=20>Limitierter<br><size=15>Gildenkampf läuft!"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
-            "value": "Suche ..."
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
-            "value": "Kampf beginnen"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
-            "value": "Rechenvorgang ..."
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
-            "value": "Bereite nächsten Kampf vor"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
-            "value": "Ab dd.MM., HH:mm"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
-            "value": "Bis dd.MM., HH:mm"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
-            "value": "Bis dd.MM., HH:mm"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
-            "value": "Endgültiges Ergebnis"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_TITLE",
-            "value": "Energiesparmodus"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_DESC",
-            "value": "<line-height=33>Wenn während des ausgewählten Zeitraums keine Eingabe erfolgt,<br>wird der Bildschirm automatisch umgeschaltet, um Akku zu sparen."
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_OFF",
-            "value": "AUS"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_SECOND",
-            "value": "30 Sek."
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_MINUTE",
-            "value": "1 Min."
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
-            "value": "3 Min."
-        },
-        {
-            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
-            "value": "Gegner festgelegt!"
-        },
-        {
-            "key": "GUILD_LIMITED_TITLE",
-            "value": "Limitierter Gildenkampf"
-        },
-        {
-            "key": "GUILD_LIMITED_POINT",
-            "value": "Kampfpunkte"
-        },
-        {
-            "key": "GUILD_LIMITED_PERIOD",
-            "value": "Dauer:"
-        },
-        {
-            "key": "GUILD_LIMITED_DURATION_END",
-            "value": "Endgültiges Ergebnis:"
-        },
-        {
-            "key": "GUILD_LIMITED_DURATION_END_FMT",
-            "value": "Bis dd.MM., HH:mm"
-        },
-        {
-            "key": "GUILD_RANKING_TAB_LIMITED",
-            "value": "Limitiert"
-        },
-        {
-            "key": "GUILD_RANKING_LIMITED_POINTS",
-            "value": "Kampfpunkte"
-        },
-        {
-            "key": "GUILD_BATTLE_EVENT_DETAIL",
-            "value": "Eventdetails"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_ABSTENTION",
-            "value": "<line-height=32>Teilnahme derzeit<br>nicht möglich"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_BYE",
-            "value": "Kampfloser Sieg"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_BYE_DESC",
-            "value": "Ohne Kampf gewonnen,<br>da kein Gegner gefunden werden konnte."
-        },
-        {
-            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
-            "value": "Keine verbleibenden Aktionen"
-        },
-        {
-            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
-            "value": "Aktionslimit für diesen Gildenkampf erreicht."
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_DESC",
-            "value": "<line-height=32>Teilnahme nicht möglich,<br>da die folgenden Teilnahmebedingungen<br>nicht erfüllt wurden."
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
-            "value": "Gildenligastufe"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
-            "value": "über {0}"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
-            "value": "Gildenmitglieder"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
-            "value": "{0} oder mehr Mitglieder"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
-            "value": "Vorstand"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
-            "value": "Keine Anmeldung innerhalb von {0} Tag(en)"
-        },
-        {
-            "key": "GUILD_BATTLE_END_TROPHY_POINT",
-            "value": "Kampfpunkte:"
-        },
-        {
-            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
-            "value": "{Kampfloser Sieg ★ {0}%)"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
-            "value": "Unterstützung"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
-            "value": "{0} ausgekundschaftet/n-Gruppe aufgedeckt"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
-            "value": "Ausgekundschaftet durch {0}/n-Gruppe aufgedeckt"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
-            "value": "Für {0} aufgefüllt/Aktionszahl der n-Gruppe wiederhergestellt"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
-            "value": "Von {0} aufgefüllt/Aktionszahl der n-Gruppe wiederhergestellt"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
-            "value": "Zu {0} gezaubert/Fähigkeiteneinsätze der n-Gruppe wiederhergestellt"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
-            "value": "Von {0} gezaubert/Fähigkeiteneinsätze der n-Gruppe wiederhergestellt"
-        },
-        {
-            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
-            "value": "Festgelegte Defensiv-Gruppen:"
-        },
-        {
-            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
-            "value": "Angriff"
-        },
-        {
-            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
-            "value": "Unterstützung"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_TITLE",
-            "value": "Unterstützung"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE",
-            "value": "Verwenden"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
-            "value": "{0}"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
-            "value": "<color=#F0C040>{0}</color>von<br><color=#F0C040>{1}</color>von<br>{2}"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
-            "value": "Aktionsbelohnungen abgeholt."
-        },
-        {
-            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
-            "value": "Wähle die gegnerische Gruppe, die du angreifen möchtest"
-        },
-        {
-            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
-            "value": "Wähle eine Unterstützungsgruppe"
-        },
-        {
-            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
-            "value": "{0}: Details"
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
-            "value": "Belohnung für die Teilnahme an insgesamt ${entry_count} Kämpfen während des Limitierten Gildenkampfes vom ${period} "
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
-            "value": "Belohnung für den Limitierten Gildenkampf vom ${period} "
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
-            "value": "Belohnung für das Erreichen von Platz ${ranking} während des Limitierten Gildenkampfes vom ${period} "
-        },
-        {
-            "key": "QRCODE_TITLE",
-            "value": "{0}"
-        },
-        {
-            "key": "QRCODE_MESSAGE",
-            "value": "{0}"
-        },
-        {
-            "key": "QRCODE_ERROR_TITLE",
-            "value": "Fehler"
-        },
-        {
-            "key": "QRCODE_ERROR_MESSAGE",
-            "value": "Ungültige Plattform."
+            "key": "VISION_ILLUSTRATOR",
+            "value": "Illustration"
         },
         {
             "key": "GL_GACHA_BONUS_GAUGE_TITLE",

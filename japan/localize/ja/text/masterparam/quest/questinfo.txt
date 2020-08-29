@@ -1525,6 +1525,46 @@
             "value": "クエスト情報<br>推奨：UnitLv.82 JobLv.13"
         },
         {
+            "key": "QE_ST_01110101",
+            "value": "クエスト情報<br>推奨：UnitLv.73 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01110102",
+            "value": "クエスト情報<br>推奨：UnitLv.74 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01110103",
+            "value": "クエスト情報<br>推奨：UnitLv.74 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01110104",
+            "value": "クエスト情報<br>推奨：UnitLv.75 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01110105",
+            "value": "クエスト情報<br>推奨：UnitLv.76 JobLv.12"
+        },
+        {
+            "key": "QE_ST_01110106",
+            "value": "クエスト情報<br>推奨：UnitLv.76 JobLv.13"
+        },
+        {
+            "key": "QE_ST_01110107",
+            "value": "クエスト情報<br>推奨：UnitLv.77 JobLv.13"
+        },
+        {
+            "key": "QE_ST_01110108",
+            "value": "クエスト情報<br>推奨：UnitLv.78 JobLv.13"
+        },
+        {
+            "key": "QE_ST_01110109",
+            "value": "クエスト情報<br>推奨：UnitLv.78 JobLv.13"
+        },
+        {
+            "key": "QE_ST_01110110",
+            "value": "クエスト情報<br>推奨：UnitLv.83 JobLv.13"
+        },
+        {
             "key": "QE_HA_LW_MONT",
             "value": "クエスト情報<br>推奨：UnitLv.17 JobLv.3"
         },
@@ -2161,6 +2201,10 @@
             "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ローザ」UnitLv.40以上"
         },
         {
+            "key": "QE_CH_LW_KTON_01",
+            "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「キトン（水着）」UnitLv.40以上"
+        },
+        {
             "key": "QE_EV_1100DL_FIR",
             "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
         },
@@ -2327,6 +2371,10 @@
         {
             "key": "QE_EV_ROSA_01",
             "value": "クエスト情報<br>解放条件：ユニット「ローザ」を獲得"
+        },
+        {
+            "key": "QE_EV_KTON_01",
+            "value": "クエスト情報<br>解放条件：ユニット「キトン（水着）」を獲得"
         },
         {
             "key": "QE_PT_001_01",
@@ -2645,6 +2693,30 @@
             "value": "クエスト情報<br>なし"
         },
         {
+            "key": "QE_EV_ART_CRF_13",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9<br>ヒント：狩人は高台に登れるユニットで対処しよう"
+        },
+        {
+            "key": "QE_EV_ART_CRF_14",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9<br>ヒント1：ラミアクイーンは回避が高いので命中を上げておこう<br>ヒント2：魅了・混乱などの状態異常は予防していこう<br>ヒント3：男性ユニットよりも女性ユニットを優先して連れて行こう"
+        },
+        {
+            "key": "QE_EV_ART_CRF_15",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9<br>ヒント：単体攻撃が効きにくいので、範囲攻撃を活用して倒していこう"
+        },
+        {
+            "key": "QE_EV_ART_CRF_10",
+            "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>ヒント：狩人は高台に登れるユニットで対処しよう"
+        },
+        {
+            "key": "QE_EV_ART_CRF_11",
+            "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>ヒント1：ラミアクイーンは回避が高いので命中を上げておこう<br>ヒント2：魅了・混乱などの状態異常は予防していこう<br>ヒント3：男性ユニットよりも女性ユニットを優先して連れて行こう"
+        },
+        {
+            "key": "QE_EV_ART_CRF_12",
+            "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>ヒント：単体攻撃が効きにくいので、範囲攻撃を活用して倒していこう"
+        },
+        {
             "key": "QE_EV_ART_CRF_07",
             "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
         },
@@ -2758,6 +2830,14 @@
         },
         {
             "key": "QE_EV_05_EX2",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_SB_SHIV_02",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_SB_SHIV_03",
             "value": "クエスト情報<br>なし"
         },
         {
@@ -3441,6 +3521,10 @@
             "value": "クエスト情報<br>なし"
         },
         {
+            "key": "QE_SB_TNBR_01",
+            "value": "クエスト情報<br>ヒント：倒せば倒すほど・・・？"
+        },
+        {
             "key": "QE_MU_EV_FF1_EX",
             "value": "クエスト情報<br>なし"
         },
@@ -3467,6 +3551,34 @@
         {
             "key": "QE_MU_FF4_EX_02",
             "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_SHIV_04",
+            "value": "クエスト情報<br>なし"
+        },
+        {
+            "key": "QE_MU_ART_CRF_13",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9<br>ヒント：狩人は高台に登れるユニットで対処しよう"
+        },
+        {
+            "key": "QE_MU_ART_CRF_14",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9<br>ヒント1：ラミアクイーンは回避が高いので命中を上げておこう<br>ヒント2：魅了・混乱などの状態異常は予防していこう<br>ヒント3：男性ユニットよりも女性ユニットを優先して連れて行こう"
+        },
+        {
+            "key": "QE_MU_ART_CRF_15",
+            "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9<br>ヒント：単体攻撃が効きにくいので、範囲攻撃を活用して倒していこう"
+        },
+        {
+            "key": "QE_MU_ART_CRF_10",
+            "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>ヒント：狩人は高台に登れるユニットで対処しよう"
+        },
+        {
+            "key": "QE_MU_ART_CRF_11",
+            "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>ヒント1：ラミアクイーンは回避が高いので命中を上げておこう<br>ヒント2：魅了・混乱などの状態異常は予防していこう<br>ヒント3：男性ユニットよりも女性ユニットを優先して連れて行こう"
+        },
+        {
+            "key": "QE_MU_ART_CRF_12",
+            "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>ヒント：単体攻撃が効きにくいので、範囲攻撃を活用して倒していこう"
         },
         {
             "key": "QE_MU_ART_CRF_07",
@@ -3885,6 +3997,10 @@
             "value": "命中率・範囲攻撃耐性アップ"
         },
         {
+            "key": "QE_ARENA_00009",
+            "value": "魔法攻撃アップ"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "なし"
         },
@@ -3930,6 +4046,10 @@
         },
         {
             "key": "QE_PVP_FRE_0004",
+            "value": "なし"
+        },
+        {
+            "key": "QE_PVP_FRI_0012",
             "value": "なし"
         },
         {

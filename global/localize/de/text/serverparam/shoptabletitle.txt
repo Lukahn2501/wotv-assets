@@ -17,6 +17,14 @@
             "value": "Spezialitätenladen"
         },
         {
+            "key": "Realmoney-0819",
+            "value": "Spezialitätenladen"
+        },
+        {
+            "key": "Realmoney-0826",
+            "value": ""
+        },
+        {
             "key": "Begginer-20200317",
             "value": "Laden für Laien"
         },
@@ -313,6 +321,30 @@
             "value": "Hauptladen"
         },
         {
+            "key": "Normal-20200501_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200501_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200501_C",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200507_A",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200507_B",
+            "value": "Hauptladen"
+        },
+        {
+            "key": "Normal-20200507_C",
+            "value": "Hauptladen"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Guerilla-Geschäft"
         },
@@ -601,12 +633,56 @@
             "value": "Guerilla-Geschäft"
         },
         {
+            "key": "Guerrilla-20200501A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200501B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200501C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200507A",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200507B",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Guerrilla-20200507C",
+            "value": "Guerilla-Geschäft"
+        },
+        {
+            "key": "Limited-20200422_A",
+            "value": "FFT-Kollaboladen (Runde 2)"
+        },
+        {
             "key": "Limited-gl20200729_A",
             "value": "FFI-Kollaboladen"
         },
         {
             "key": "Limited-20191227_A",
             "value": "FFT-Kollaboladen"
+        },
+        {
+            "key": "Limited-gl20200826",
+            "value": "Countdown zum Halbjährigen Jubiläum Teil I: Laden"
+        },
+        {
+            "key": "Limited-gl20200819",
+            "value": "Laden zur Feier des Super-Versionsupdates"
+        },
+        {
+            "key": "Limited-gl20200819_A",
+            "value": "Laden für neue Einheiten im Blickpunkt"
+        },
+        {
+            "key": "Limited-gl20200819_B",
+            "value": "Laden für Einheiten im Blickpunkt"
         },
         {
             "key": "Limited-gl20200812",
@@ -821,6 +897,18 @@
             "value": "Blickpunktladen"
         },
         {
+            "key": "Event-Quest_20200422",
+            "value": "Tauschladen für FFT-Eventmedaillen (Runde 2)"
+        },
+        {
+            "key": "Event-Summon_20200422_A",
+            "value": "Tauschladen für Beschwörungsmedaillen"
+        },
+        {
+            "key": "Event-Summon_20200422_B",
+            "value": "Tauschladen für Beschwörungsmedaillen"
+        },
+        {
             "key": "Event-Quest_GL20200729",
             "value": "Tauschladen für FFI-Eventmedaillen"
         },
@@ -841,20 +929,16 @@
             "value": "FFXIV: Shadowbringers-Kollabo-Laden"
         },
         {
+            "key": "Event-EV02_1_20200201",
+            "value": "Tauschladen für „Rundall, Bedrohung im Westen“-Medaillen"
+        },
+        {
             "key": "Event-Quest_20200401",
             "value": "Tauschladen für August-Eventmedaillen"
         },
         {
-            "key": "Event-Raid_20200309",
-            "value": "Tauschladen für „Weißes Marshmallow“-Kraftprobenmedaillen"
-        },
-        {
-            "key": "Event-Quest_20200301",
-            "value": "Tauschladen für Juli-Eventmedaillen"
-        },
-        {
-            "key": "Event-Tower_20200317",
-            "value": "Tauschladen für Turmmedaillen"
+            "key": "Event-Summon_GL20200819_B",
+            "value": "Tauschladen für Beschwörungsmedaillen"
         },
         {
             "key": "Event-Summon_GL20200812_A",
@@ -869,6 +953,18 @@
             "value": "Tauschladen für Schokopudding-Kraftprobenmedaillen"
         },
         {
+            "key": "Event-Raid_20200309",
+            "value": "Tauschladen für „Weißes Marshmallow“-Kraftprobenmedaillen"
+        },
+        {
+            "key": "Event-Quest_20200301",
+            "value": "Tauschladen für Juli-Eventmedaillen"
+        },
+        {
+            "key": "Event-Tower_20200317",
+            "value": "Tauschladen für Turmmedaillen"
+        },
+        {
             "key": "Event-Summon_GL20200722_B",
             "value": "Tauschladen für Beschwörungsmedaillen"
         },
@@ -879,10 +975,6 @@
         {
             "key": "Event-Summon_GL20200701_A",
             "value": "Tauschladen für Beschwörungsmedaillen"
-        },
-        {
-            "key": "Event-EV02_1_20200201",
-            "value": "Tauschladen für Juni-Eventmedaillen"
         },
         {
             "key": "Event-Summon_GL20200624_B",
@@ -1882,6 +1974,70 @@
         },
         {
             "key": "Limited-FIRE_2020_4_B",
+            "value": "Aschenbasar"
+        },
+        {
+            "key": "Limited-WATER_2020_4_C",
+            "value": "Gezeitenbasar"
+        },
+        {
+            "key": "Limited-WIND_2020_4_C",
+            "value": "Böenbasar"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_C",
+            "value": "Schockbasar"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_C",
+            "value": "Lehmbasar"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_C",
+            "value": "Schimmerbasar"
+        },
+        {
+            "key": "Limited-DARK_2020_4_C",
+            "value": "Schattenbasar"
+        },
+        {
+            "key": "Limited-ICE_2020_4_C",
+            "value": "Frostbasar"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_C",
+            "value": "Aschenbasar"
+        },
+        {
+            "key": "Limited-WATER_2020_4_D",
+            "value": "Gezeitenbasar"
+        },
+        {
+            "key": "Limited-WIND_2020_4_D",
+            "value": "Böenbasar"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_D",
+            "value": "Schockbasar"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_D",
+            "value": "Lehmbasar"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_D",
+            "value": "Schimmerbasar"
+        },
+        {
+            "key": "Limited-DARK_2020_4_D",
+            "value": "Schattenbasar"
+        },
+        {
+            "key": "Limited-ICE_2020_4_D",
+            "value": "Frostbasar"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_D",
             "value": "Aschenbasar"
         }
     ]

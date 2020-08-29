@@ -17,6 +17,14 @@
             "value": "スペシャルショップ"
         },
         {
+            "key": "Realmoney-0819",
+            "value": "スペシャルショップ"
+        },
+        {
+            "key": "Realmoney-0826",
+            "value": ""
+        },
+        {
             "key": "Begginer-20200317",
             "value": "ビギナーズショップ"
         },
@@ -313,6 +321,30 @@
             "value": "通常ショップ"
         },
         {
+            "key": "Normal-20200501_A",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200501_B",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200501_C",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200507_A",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200507_B",
+            "value": "通常ショップ"
+        },
+        {
+            "key": "Normal-20200507_C",
+            "value": "通常ショップ"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "ゲリラショップ"
         },
@@ -601,12 +633,56 @@
             "value": "ゲリラショップ"
         },
         {
+            "key": "Guerrilla-20200501A",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200501B",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200501C",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200507A",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200507B",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Guerrilla-20200507C",
+            "value": "ゲリラショップ"
+        },
+        {
+            "key": "Limited-20200422_A",
+            "value": "【第2弾】FFTコラボ記念ショップ"
+        },
+        {
             "key": "Limited-gl20200729_A",
             "value": "FF1コラボ記念ショップ"
         },
         {
             "key": "Limited-20191227_A",
             "value": "FFTコラボ記念ショップ"
+        },
+        {
+            "key": "Limited-gl20200826",
+            "value": "ハーフアニバーサリー前夜祭第1弾ショップ"
+        },
+        {
+            "key": "Limited-gl20200819",
+            "value": "大型バージョンアップ記念ショップ"
+        },
+        {
+            "key": "Limited-gl20200819_A",
+            "value": "新ユニットピックアップショップ"
+        },
+        {
+            "key": "Limited-gl20200819_B",
+            "value": "ピックアップユニットショップ"
         },
         {
             "key": "Limited-gl20200812",
@@ -821,6 +897,18 @@
             "value": "ピックアップショップ"
         },
         {
+            "key": "Event-Quest_20200422",
+            "value": "【第2弾】FFTコラボイベントメダル交換所"
+        },
+        {
+            "key": "Event-Summon_20200422_A",
+            "value": "召喚メダル交換所"
+        },
+        {
+            "key": "Event-Summon_20200422_B",
+            "value": "召喚メダル交換所"
+        },
+        {
             "key": "Event-Quest_GL20200729",
             "value": "FF1コラボイベントメダル交換所"
         },
@@ -841,20 +929,16 @@
             "value": "FFXIV: Shadowbringers Collaborative Shop"
         },
         {
+            "key": "Event-EV02_1_20200201",
+            "value": "西の脅威ランダルメダル交換所"
+        },
+        {
             "key": "Event-Quest_20200401",
             "value": "【8月】イベントメダル交換所"
         },
         {
-            "key": "Event-Raid_20200309",
-            "value": "ホワイトマシュマロレイドメダル交換所"
-        },
-        {
-            "key": "Event-Quest_20200301",
-            "value": "【7月】イベントメダル交換所"
-        },
-        {
-            "key": "Event-Tower_20200317",
-            "value": "タワーメダル交換所"
+            "key": "Event-Summon_GL20200819_B",
+            "value": "召喚メダル交換所"
         },
         {
             "key": "Event-Summon_GL20200812_A",
@@ -869,6 +953,18 @@
             "value": "チョコプリンレイドメダル交換所"
         },
         {
+            "key": "Event-Raid_20200309",
+            "value": "ホワイトマシュマロレイドメダル交換所"
+        },
+        {
+            "key": "Event-Quest_20200301",
+            "value": "【7月】イベントメダル交換所"
+        },
+        {
+            "key": "Event-Tower_20200317",
+            "value": "タワーメダル交換所"
+        },
+        {
             "key": "Event-Summon_GL20200722_B",
             "value": "召喚メダル交換所"
         },
@@ -879,10 +975,6 @@
         {
             "key": "Event-Summon_GL20200701_A",
             "value": "召喚メダル交換所"
-        },
-        {
-            "key": "Event-EV02_1_20200201",
-            "value": "【6月】イベントメダル交換所"
         },
         {
             "key": "Event-Summon_GL20200624_B",
@@ -1882,6 +1974,70 @@
         },
         {
             "key": "Limited-FIRE_2020_4_B",
+            "value": "日替わり火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_4_C",
+            "value": "日替わり水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_4_C",
+            "value": "日替わり風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_C",
+            "value": "日替わり雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_C",
+            "value": "日替わり土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_C",
+            "value": "日替わり光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_4_C",
+            "value": "日替わり闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_4_C",
+            "value": "日替わり氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_C",
+            "value": "日替わり火属性ショップ"
+        },
+        {
+            "key": "Limited-WATER_2020_4_D",
+            "value": "日替わり水属性ショップ"
+        },
+        {
+            "key": "Limited-WIND_2020_4_D",
+            "value": "日替わり風属性ショップ"
+        },
+        {
+            "key": "Limited-THUNDER_2020_4_D",
+            "value": "日替わり雷属性ショップ"
+        },
+        {
+            "key": "Limited-SOIL_2020_4_D",
+            "value": "日替わり土属性ショップ"
+        },
+        {
+            "key": "Limited-SHINE_2020_4_D",
+            "value": "日替わり光属性ショップ"
+        },
+        {
+            "key": "Limited-DARK_2020_4_D",
+            "value": "日替わり闇属性ショップ"
+        },
+        {
+            "key": "Limited-ICE_2020_4_D",
+            "value": "日替わり氷属性ショップ"
+        },
+        {
+            "key": "Limited-FIRE_2020_4_D",
             "value": "日替わり火属性ショップ"
         }
     ]

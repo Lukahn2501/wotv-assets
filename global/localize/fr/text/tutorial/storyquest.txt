@@ -33,6 +33,10 @@
             "value": "Bien. Et si nous y retournions ?"
         },
         {
+            "key": "TALK_005_GL",
+            "value": "Et voilà ! Notre groupe est au complet. Activons le mode automatique en passant le bouton sur ON et partons en quête. Vous pourrez désactiver et réactiver ce mode à tout moment en combat."
+        },
+        {
             "key": "DIALOG_001_T",
             "value": "• Quêtes d'histoire •"
         },
@@ -95,10 +99,6 @@
         {
             "key": "SKIP_NO",
             "value": "Non"
-        },
-        {
-            "key": "TALK_005_GL",
-            "value": "Et voilà ! Notre groupe est au complet. Activons le mode automatique en passant le bouton sur ON et partons en quête. Vous pourrez désactiver et réactiver ce mode à tout moment en combat."
         }
     ]
 }

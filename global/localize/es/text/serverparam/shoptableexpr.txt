@@ -667,6 +667,70 @@
         {
             "key": "IT_SET_SMVC_VE_EXP",
             "value": "Un lote especial repleto de huevos nutritivos (MR), además de huevos nutritivos (SR) y guilonios (G) a modo de bonificación. ¡Imprescindibles para mejorar tus carta de visión!"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "Un lote especial que contiene esferas de visión arcoíris y un fragmento de la memoria arcoíris."
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "Lote especial que contiene alcrists de viento (rojo), estatuas de ángel devoto (rojo), estatuas de guiverno acechador (rojo) y recuerdos lejanos (rojo)."
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "Lote especial que contiene alcrists de viento (amarillo), estatuas de ángel devoto (amarillo), estatuas de guiverno acechador (amarillo) y recuerdos lejanos (amarillo)."
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "Lote especial que contiene alcrists de viento (morado), estatuas de ángel devoto (morado), estatuas de guiverno acechador (morado) y recuerdos lejanos (morado)."
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "Lote especial que contiene cubos de EXP (G/XL)."
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "Lote especial que contiene tíckets de expedición (5h/10h) que sirven para acelerar expediciones chocobo."
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "Lote especial que contiene fragmentos de la memoria de viento, almas del despertar de viento (2–6★), fragmentos de la memoria arcoíris, esferas de visión arcoíris y prismas del despertar de viento. ¡Imprescindible para mejorar unidades de viento!"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "¡Un lote especial que incluye fragmentos de la unidad UR Oldoa necesarios para la ruptura de límite, fragmentos de la memoria de viento necesarios para el despertar, y objetos de bonificación como esferas de visión arcoíris y un fragmento de la memoria arcoíris!"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "¡Un lote especial que incluye fragmentos de la unidad UR Agrias necesarios para la ruptura de límite, fragmentos de la memoria de hielo necesarios para el despertar, y objetos de bonificación como esferas de visión arcoíris y un fragmento de la memoria arcoíris!"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "¡Un lote especial que contiene un tícket seleccionador de 40 fragmentos de unidad UR y una esfera de visión arcoíris! *El tícket seleccionador de 40 fragmentos de unidad UR no puede usarse con unidades limitadas o de colaboración."
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "¡Un lote especial que contiene fragmentos de la memoria de hielo, almas del despertar de hielo (2–6★), fragmentos de la memoria arcoíris, esferas de visión arcoíris, y prismas del despertar de hielo! ¡Imprescindible para despertar unidades de hielo!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "¡Un lote especial que contiene fragmentos de la memoria de fuego, almas del despertar de fuego (2–6★), fragmentos de la memoria arcoíris, esferas de visión arcoíris, y prismas del despertar de fuego! ¡Imprescindible para despertar unidades de fuego!"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "¡Un lote especial que contiene un tícket seleccionador de 70 alcrists elementales (rojos), un tícket seleccionador de 70 alcrists elementales (amarillos), estatuas de ángel devoto (amarillo y rojo), estatua de guiverno acechador (amarillo y rojo) y recuerdos lejanos (amarillo y rojo)!"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "Un lote especial repleto de cubos de EXP (P/M). ¡Imprescindibles para mejorar tus unidades!"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "Un lote especial repleto de huevos nutritivos (N/R/SR). ¡Imprescindibles para mejorar tus carta de visión!"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "Un lote especial repleto de adamantita (P/M/G). ¡Imprescindible para mejorar tu equipo!"
         }
     ]
 }

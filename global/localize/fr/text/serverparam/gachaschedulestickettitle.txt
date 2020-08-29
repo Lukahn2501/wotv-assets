@@ -191,6 +191,10 @@
         {
             "key": "IT_US_G_UR_01_gl20200812",
             "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200819",
+            "value": "Ticket d'invocation UR garantie [A]"
         }
     ]
 }

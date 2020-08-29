@@ -50,11 +50,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• •"
+            "value": "• Match-Kämpfe •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du das Dummy-Tutorial überspringen?"
+            "value": "Möchtest du dir ein Tutorial zu Match-Kämpfen ansehen?"
         },
         {
             "key": "SKIP_YES",

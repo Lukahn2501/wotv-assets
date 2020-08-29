@@ -17,16 +17,8 @@
             "value": "Espada grande"
         },
         {
-            "key": "LARGESWORD",
-            "value": "Espada grande"
-        },
-        {
             "key": "KATANA",
             "value": "Katana"
-        },
-        {
-            "key": "STAFF",
-            "value": "Bastón"
         },
         {
             "key": "ROD",
@@ -123,6 +115,14 @@
         {
             "key": "SEPARATOR",
             "value": ", "
+        },
+        {
+            "key": "LARGESWORD",
+            "value": "Espada grande"
+        },
+        {
+            "key": "STAFF",
+            "value": "Bastón"
         }
     ]
 }

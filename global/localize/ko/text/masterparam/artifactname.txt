@@ -1285,6 +1285,30 @@
             "value": "백금 갑옷+5"
         },
         {
+            "key": "AF_FF1_ARM_002",
+            "value": "빛의 갑옷"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "빛의 갑옷+1"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "빛의 갑옷+2"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "빛의 갑옷+3"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "빛의 갑옷+4"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "빛의 갑옷+5"
+        },
+        {
             "key": "AF_LW_HLM_001",
             "value": "청동 투구"
         },
@@ -1511,6 +1535,30 @@
         {
             "key": "AF_LW_CLT_004_5",
             "value": "인텔리 코트+5"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "백금 로브"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "백금 로브+1"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "백금 로브+2"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "백금 로브+3"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "백금 로브+4"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "백금 로브+5"
         },
         {
             "key": "AF_LW_RNG_001",
@@ -1901,6 +1949,26 @@
             "value": "멸각의 대태도"
         },
         {
+            "key": "AF_ACC_LW_ORDR_1",
+            "value": "오르도안 에이프런"
+        },
+        {
+            "key": "AF_SWO_LW_LVES_1",
+            "value": "허무의 포로"
+        },
+        {
+            "key": "AF_ACC_FFT_AGRA_1",
+            "value": "성기사 갑옷"
+        },
+        {
+            "key": "AF_ARM_FFT_DELT_1",
+            "value": "튼튼한 조끼"
+        },
+        {
+            "key": "AF_GUN_FFT_MSTD_2",
+            "value": "베스로디오"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "레온 소드"
         },
@@ -1949,6 +2017,10 @@
             "value": "엥겔베르트 방패"
         },
         {
+            "key": "AF_LW_SHI_003",
+            "value": "라비에스 방패"
+        },
+        {
             "key": "AF_SWO_FFT_RAMZ_2",
             "value": "고결한 검"
         },
@@ -1993,6 +2065,22 @@
             "value": "빛의 검"
         },
         {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "환영 지팡이"
+        },
+        {
+            "key": "AF_BSW_LW_ORDR_2",
+            "value": "오르도안 소드"
+        },
+        {
+            "key": "AF_SWO_FFT_AGRA_2",
+            "value": "FFT 아그리아스"
+        },
+        {
+            "key": "AF_SWO_FFT_DELT_2",
+            "value": "FFT 딜리타"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "알렉산드라이트 반지"
         },
@@ -2021,56 +2109,28 @@
             "value": "진홍의 군도"
         },
         {
-            "key": "AF_LW_CLT_005",
-            "value": "백금 로브"
+            "key": "AF_FFT_ACC_001",
+            "value": "소르틸레주"
         },
         {
-            "key": "AF_LW_CLT_005_1",
-            "value": "백금 로브+1"
+            "key": "AF_FFT_ACC_001_1",
+            "value": "소르틸레주+1"
         },
         {
-            "key": "AF_LW_CLT_005_2",
-            "value": "백금 로브+2"
+            "key": "AF_FFT_ACC_001_2",
+            "value": "소르틸레주+2"
         },
         {
-            "key": "AF_LW_CLT_005_3",
-            "value": "백금 로브+3"
+            "key": "AF_FFT_ACC_001_3",
+            "value": "소르틸레주+3"
         },
         {
-            "key": "AF_LW_CLT_005_4",
-            "value": "백금 로브+4"
+            "key": "AF_FFT_ACC_001_4",
+            "value": "소르틸레주+4"
         },
         {
-            "key": "AF_LW_CLT_005_5",
-            "value": "백금 로브+5"
-        },
-        {
-            "key": "AF_FF1_ARM_002",
-            "value": "빛의 갑옷"
-        },
-        {
-            "key": "AF_FF1_ARM_002_1",
-            "value": "빛의 갑옷+1"
-        },
-        {
-            "key": "AF_FF1_ARM_002_2",
-            "value": "빛의 갑옷+2"
-        },
-        {
-            "key": "AF_FF1_ARM_002_3",
-            "value": "빛의 갑옷+3"
-        },
-        {
-            "key": "AF_FF1_ARM_002_4",
-            "value": "빛의 갑옷+4"
-        },
-        {
-            "key": "AF_FF1_ARM_002_5",
-            "value": "빛의 갑옷+5"
-        },
-        {
-            "key": "AF_ROD_LW_QILF_2",
-            "value": "환영 지팡이"
+            "key": "AF_FFT_ACC_001_5",
+            "value": "소르틸레주+5"
         }
     ]
 }

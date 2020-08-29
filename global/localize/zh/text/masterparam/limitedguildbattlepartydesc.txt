@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "PB_LGB_Noraml01",
+            "value": "無特別限制"
+        },
+        {
+            "key": "PB_LGB_Normal02",
+            "value": "無特別限制"
+        },
+        {
+            "key": "PB_LGB_Normal03",
+            "value": "無特別限制"
+        }
+    ]
+}

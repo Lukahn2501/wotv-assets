@@ -46,7 +46,7 @@
         },
         {
             "key": "TIPS_ALLQE_007",
-            "value": "Quand vous terminez une quête en équipant une chimère, la Résonance de l'unité avec cette chimère croît. Au-delà d'un certain seuil de Résonance, le niveau et les bonus de caractéristiques de la chimère augmentent."
+            "value": "Quand vous terminez une quête en équipant une chimère, la résonance de l'unité avec cette chimère croît. Au-delà d'un certain seuil de résonance, le niveau et les bonus de caractéristiques de la chimère augmentent."
         },
         {
             "key": "TIPS_ALLQE_008",

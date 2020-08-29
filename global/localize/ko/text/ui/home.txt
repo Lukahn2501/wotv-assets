@@ -29,6 +29,46 @@
             "value": "<cspace=-1.6>길드 전투 시작!"
         },
         {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
+            "value": "전투 중"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
+            "value": "<line-height=20>기간 한정<br><size=15><cspace=-0.5> 길드 전투 개최 중!"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
+            "value": "매칭 중"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
+            "value": "전투 시작"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
+            "value": "<cspace=1.6>집계 중"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
+            "value": "다음 전투 준비 중"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
+            "value": "MM/dd HH:mm~"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
+            "value": "~MM/dd HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
+            "value": "~MM/dd HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
+            "value": "최종 결과 열람"
+        },
+        {
             "key": "GLOBAL_MAIN_PVP",
             "value": "PvP"
         },
@@ -757,154 +797,6 @@
             "value": "유닛 생성"
         },
         {
-            "key": "UNIT_DETAIL_AWAKE",
-            "value": "각성"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP",
-            "value": "한계 돌파"
-        },
-        {
-            "key": "UNIT_DETAIL_INTIMACY",
-            "value": "친밀도"
-        },
-        {
-            "key": "UNIT_DETAIL_STATUS_DETAIL",
-            "value": "능력치 상세 정보"
-        },
-        {
-            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
-            "value": "트러스트 마스터 보상"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_BORD",
-            "value": "어빌리티 보드"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_SET",
-            "value": "어빌리티 장착"
-        },
-        {
-            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
-            "value": "소환수 육성 보드"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ENHANCE",
-            "value": "강화"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_AWAKE",
-            "value": "각성"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ABILITY",
-            "value": "어빌리티"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
-            "value": "<cspace=0.5>트러스트"
-        },
-        {
-            "key": "UNIT_DETAIL_RANK_LIMIT",
-            "value": "랭크 한도"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ON",
-            "value": "즐겨찾기에 등록했습니다."
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_OFF",
-            "value": "즐겨찾기 등록을 해제했습니다."
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP_CONDITION",
-            "value": "{0}번째 한계 돌파 후 개방"
-        },
-        {
-            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
-            "value": "장비 숙련도"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP",
-            "value": "장착"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI",
-            "value": "즐겨찾기 장비"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
-            "value": "설정"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
-            "value": "강화 재료"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
-            "value": "강화 재료가 없습니다."
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
-            "value": "일괄 강화"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
-            "value": "강화 확인"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
-            "value": "유닛 레벨이 최대입니다."
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
-            "value": "현재 유닛의 최대 레벨에 필요한 경험치보다 많습니다. 계속하시겠습니까?"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
-            "value": "강화"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
-            "value": "주 직업"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
-            "value": "필요 유닛 레벨"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
-            "value": "직업 강화"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
-            "value": "MAX"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
-            "value": "직업 강화 재료"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
-            "value": "<cspace=-1>직업 레벨 한도에 도달했습니다."
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
-            "value": "<cspace=-1>재료가 부족합니다."
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITYSET_SET",
-            "value": "장착"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_STATUS",
-            "value": "<cspace=0.6>유닛 능력치"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_JOB",
-            "value": "<cspace=0.6>직업"
-        },
-        {
             "key": "UNIT_RANK_TITLE",
             "value": "한계 돌파"
         },
@@ -1113,26 +1005,6 @@
             "value": "장착 가능 장비"
         },
         {
-            "key": "UNIT_ARTI_SET_TITLE",
-            "value": "장비 장착"
-        },
-        {
-            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
-            "value": "저항력 표시"
-        },
-        {
-            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
-            "value": "장착 중인 장비 제외"
-        },
-        {
-            "key": "UNIT_ARTI_SET_REMOVE",
-            "value": "해제"
-        },
-        {
-            "key": "UNIT_ARTI_SET_CONFIRM",
-            "value": "다른 유닛이 장착 중입니다.<br>장착을 해제하고 이 유닛에 장착하시겠습니까?"
-        },
-        {
             "key": "ABILITY_CHANGE_TITLE",
             "value": "어빌리티 장착"
         },
@@ -1163,18 +1035,6 @@
         {
             "key": "UNIT_PROFILE_BELONGING",
             "value": "소속"
-        },
-        {
-            "key": "TRUST_MASTER_TITLE",
-            "value": "트러스트 마스터 보상"
-        },
-        {
-            "key": "TRUST_MASTER_CONDITION",
-            "value": "한계 돌파 5 / 각성 ★6에 획득"
-        },
-        {
-            "key": "TRUST_MASTER_COMPLETE",
-            "value": "획득 완료"
         },
         {
             "key": "LIMITBURST_LEVELUP_CHECK_TITLE",
@@ -1455,42 +1315,6 @@
         {
             "key": "ABILITY_ENHANCE_RESULT_DEF_IGNORE",
             "value": "방어 관통 효과"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_STATUS",
-            "value": "<cspace=0.5>능력치"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_SYNCHRO",
-            "value": "공명도"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_RESIST",
-            "value": "저항력"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
-            "value": "소환마법"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
-            "value": "소환수 육성 보드"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
-            "value": "소환수 강화"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
-            "value": "일괄 강화"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
-            "value": "소환수 레벨이 최대입니다."
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
-            "value": "현재 소환수의 최대 레벨에 필요한 경험치보다 많습니다. 계속하시겠습니까?"
         },
         {
             "key": "NETHERBEAST_SYNCHRO_TITLE",
@@ -2029,50 +1853,6 @@
             "value": "즐겨찾기 등록을 해제했습니다."
         },
         {
-            "key": "ARTI_CONDITION_TITLE",
-            "value": "장착 가능 조건"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_TITLE",
-            "value": "장착 가능 직업"
-        },
-        {
-            "key": "ARTI_CONDITION_NONE",
-            "value": "장착 가능 조건 없음"
-        },
-        {
-            "key": "ARTI_CONDITION_COUNTRY",
-            "value": "· {0} 출신"
-        },
-        {
-            "key": "ARTI_CONDITION_SEX",
-            "value": "· {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_UNIT",
-            "value": "· {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_RARITY",
-            "value": "· 레어도 {0} 이상"
-        },
-        {
-            "key": "ARTI_CONDITION_AWAKE",
-            "value": "· 각성 수 {0} 이상"
-        },
-        {
-            "key": "ARTI_CONDITION_RANK",
-            "value": "· 한계 돌파 수 {0} 이상"
-        },
-        {
-            "key": "ARTI_CONDITION_SERIES",
-            "value": "· 시리즈 {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_NONE",
-            "value": "모든 직업이 장착할 수 있습니다."
-        },
-        {
             "key": "ARTI_ENHANCE_CORRECTION_TITLE",
             "value": "성장률 보정"
         },
@@ -2195,22 +1975,6 @@
         {
             "key": "ARTI_CHECK_FAVORITE_CAUTION",
             "value": "<line-height=26>※ 다른 유닛이 장착한 장비를 즐겨찾기로<br>설정한 경우, 장착할 수 없습니다.<br>※ 장비 설정은 편성 화면에서도 가능합니다."
-        },
-        {
-            "key": "ARTI_STATUS_ADD_NONE",
-            "value": "부가 능력 없음"
-        },
-        {
-            "key": "ARTI_STATUS_WA_TITLE",
-            "value": "WA"
-        },
-        {
-            "key": "ARTI_STATUS_LB_TITLE",
-            "value": "LB"
-        },
-        {
-            "key": "ARTI_STATUS_LB_ENHANCE",
-            "value": "이(가) 장착"
         },
         {
             "key": "ARTI_TYPE_INHERIT_TITLE",
@@ -2791,6 +2555,30 @@
         {
             "key": "MENU_OPTION_GRAPHIC_HIGH",
             "value": "???"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_TITLE",
+            "value": "절전 모드"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_DESC",
+            "value": "<line-height=33>조작하지 않은 채로 일정 시간이 지나면<br>배터리가 절약되도록 화면이 자동 전환됩니다."
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_SECOND",
+            "value": "30초"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_MINUTE",
+            "value": "1분"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
+            "value": "3분"
         },
         {
             "key": "MENU_OPTION_DOWNLOAD_VOICE_TITLE",
@@ -3969,6 +3757,10 @@
             "value": "방장"
         },
         {
+            "key": "MULTI_ROOM_RESET",
+            "value": "방 해산<br>(재설정 가능)"
+        },
+        {
             "key": "MULTI_ROOM_DISSOLVE_CHECK_TITLE",
             "value": "방 해산"
         },
@@ -4187,10 +3979,6 @@
         {
             "key": "ARTIFACT_SELL_OVER_DESC",
             "value": "소지금이 한도를 초과하여<br>판매할 수 없습니다."
-        },
-        {
-            "key": "；武具装備リスト確認ダイアログ",
-            "value": ""
         },
         {
             "key": "ARTIFACT_EQUIPLIST_TITLE",
@@ -4623,30 +4411,6 @@
         {
             "key": "GACHA_TICKET_CHECK_CAUTION",
             "value": "아이콘을 터치하여 정보 확인"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
-            "value": "유닛 정보"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
-            "value": "※ 각성★{0}/한계 돌파 {1}/유닛 레벨 및 모든 직업 레벨이 최대일 때"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
-            "value": "비전 카드 정보"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
-            "value": "※ 각성★{0}/레벨이 최대일 때"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
-            "value": "소환수 정보"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
-            "value": "※ 소환수는 첫 회에 한해 획득할 수 있습니다."
         },
         {
             "key": "GACHA_PIECE_NAME",
@@ -5397,30 +5161,6 @@
             "value": "저항력 표시"
         },
         {
-            "key": "VISION_DETAIL_STATUS",
-            "value": "능력치"
-        },
-        {
-            "key": "VISION_DETAIL_INFO",
-            "value": "정보"
-        },
-        {
-            "key": "VISION_DETAIL_ADD_EFF",
-            "value": "부여 효과"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE_BONUS",
-            "value": "각성 보너스"
-        },
-        {
-            "key": "VISION_DETAIL_ENHANCE",
-            "value": "강화"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE",
-            "value": "각성"
-        },
-        {
             "key": "VISION_SELL_CHECK_TITLE",
             "value": "판매 확인"
         },
@@ -5707,10 +5447,6 @@
         {
             "key": "MATCH_MATCHING_FAILED_DESC",
             "value": "매칭하지 못했습니다."
-        },
-        {
-            "key": "；マッチ - フレンドマッチ",
-            "value": ""
         },
         {
             "key": "MATCH_MAKEROOM_WATCHING",
@@ -6321,6 +6057,10 @@
             "value": "매칭 중"
         },
         {
+            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
+            "value": "대전 상대 결정!"
+        },
+        {
             "key": "GUILD_LEAGUE_BANNER_OUTTERM",
             "value": "개최 기간 외"
         },
@@ -6387,6 +6127,26 @@
         {
             "key": "GUILD_COMING_SOON",
             "value": "<cspace=0.07em>Coming Soon"
+        },
+        {
+            "key": "GUILD_LIMITED_TITLE",
+            "value": "기간 한정 길드 전투"
+        },
+        {
+            "key": "GUILD_LIMITED_POINT",
+            "value": "전투 포인트"
+        },
+        {
+            "key": "GUILD_LIMITED_PERIOD",
+            "value": "개최 기간:"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END",
+            "value": "최종 결과 열람: "
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END_FMT",
+            "value": "~MM/dd HH:mm"
         },
         {
             "key": "GUILD_CHAT_NEW_MEMBER",
@@ -6825,6 +6585,10 @@
             "value": "<cspace=-0.6>길드 공헌도"
         },
         {
+            "key": "GUILD_RANKING_TAB_LIMITED",
+            "value": "<cspace=-0.6>기간 한정"
+        },
+        {
             "key": "GUILD_RANKING_SEASON",
             "value": "개최일"
         },
@@ -6883,6 +6647,10 @@
         {
             "key": "GUILD_RANKING_LEAGUE_LOSE",
             "value": "패"
+        },
+        {
+            "key": "GUILD_RANKING_LIMITED_POINTS",
+            "value": "전투 포인트"
         },
         {
             "key": "GUILD_RANKING_NOTAVAIL_TITLE",
@@ -7261,6 +7029,14 @@
             "value": "리그 표"
         },
         {
+            "key": "GUILD_BATTLE_EVENT_DETAIL",
+            "value": "이벤트 정보"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_ABSTENTION",
+            "value": "<line-height=32>현재 기간<br>참가 신청 안 함"
+        },
+        {
             "key": "GUILD_BATTLE_STATE_OUT_TERM",
             "value": "개최 기간 외"
         },
@@ -7299,6 +7075,14 @@
         {
             "key": "GUILD_BATTLE_STATE_END",
             "value": "대전 종료"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE",
+            "value": "부전승"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE_DESC",
+            "value": "대전 상대가 존재하지 않아<br>부전승했습니다."
         },
         {
             "key": "GUILD_BATTLE_START_TIME",
@@ -7389,6 +7173,42 @@
             "value": "이번 길드 전투에서<br>출격 횟수 한도에 도달했습니다."
         },
         {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
+            "value": "남은 행동 횟수 없음"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
+            "value": "이번 길드 전투의<br>행동 횟수 한도에 도달했습니다."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_DESC",
+            "value": "<line-height=32>다음 참가 조건을<br>충족하지 않아<br>참가 신청하지 못했습니다."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
+            "value": "길드 리그 레벨"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
+            "value": "{0} 이상"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
+            "value": "길드 멤버"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
+            "value": "{0}명 이상"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
+            "value": "마스터"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
+            "value": "{0}일 이상 로그인하지 않음"
+        },
+        {
             "key": "GUILD_BATTLE_PLAYER_DETAIL_ABILITY",
             "value": "어빌리티"
         },
@@ -7405,6 +7225,10 @@
             "value": "GUILD <space=10>BATTLE <space=10>RESULT"
         },
         {
+            "key": "GUILD_BATTLE_END_TROPHY_POINT",
+            "value": "전투 포인트: "
+        },
+        {
             "key": "GUILD_BATTLE_END_TROPHY_STAR_GET",
             "value": "빼앗은 ★"
         },
@@ -7419,6 +7243,10 @@
         {
             "key": "GUILD_BATTLE_END_TROPHY_STAR_RESIDUE_SEP",
             "value": "남은 ★: "
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
+            "value": "(부전승 ★ {0}%)"
         },
         {
             "key": "GUILD_BATTLE_END_TROPHY_DAMAGE",
@@ -7489,6 +7317,10 @@
             "value": "방어"
         },
         {
+            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
+            "value": "응원"
+        },
+        {
             "key": "GUILD_BATTLE_LOG_DESC_OFFENSE",
             "value": "{0}을(를) 공격"
         },
@@ -7503,6 +7335,30 @@
         {
             "key": "GUILD_BATTLE_LOG_RESULT_DIFFENSE",
             "value": "{0}명 후퇴"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
+            "value": "{0}을(를) 정찰<br>{0}의 파티 정보를 알아냈습니다."
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
+            "value": "{0}(으)로부터 정찰<br>파티 정보가 알려졌습니다."
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
+            "value": "{0}에게 보급<br>{0} 파티의 행동 횟수가 회복되었습니다."
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
+            "value": "{0}(으)로부터 보급<br>파티 행동 횟수가 회복되었습니다."
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
+            "value": "{0}에게 시전<br>{0} 파티의 어빌리티 횟수가 회복되었습니다."
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
+            "value": "{0}(으)로부터 시전<br>파티 어빌리티 횟수가 회복되었습니다."
         },
         {
             "key": "GUILD_BATTLE_END_LOG_TITLE",
@@ -7559,6 +7415,50 @@
         {
             "key": "GUILD_BATTLE_DEFFENCE_SET_NONE",
             "value": "미설정"
+        },
+        {
+            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
+            "value": "방어 파티 설정 수:"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
+            "value": "공격"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
+            "value": "응원"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_TITLE",
+            "value": "응원"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE",
+            "value": "사용"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
+            "value": "{0}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
+            "value": "<color=#F0C040>{0}</color>의 <br><color=#F0C040>{1}</color>의 <br>{2}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
+            "value": "행동 보상을 수령했습니다."
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
+            "value": "공격할 적 파티를 선택하십시오."
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
+            "value": "응원할 파티를 선택하십시오."
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
+            "value": "{0} 정보"
         },
         {
             "key": "OTHER_PLAYER_DETAIL_REQUEST",
@@ -7723,6 +7623,18 @@
         {
             "key": "GM_RAIDBOSS_DISCOVER_REWARD",
             "value": "레이드 발견 보상입니다."
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
+            "value": "${period}에 시작한 기간 한정 길드 전투의 통산 ${entry_count}번째 참전 보상입니다."
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
+            "value": "${period}에 시작한 기간 한정 길드 전투 보상입니다."
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
+            "value": "${period}에 시작한 기간 한정 길드 전투의 최종 랭킹 ${ranking}위 보상입니다."
         },
         {
             "key": "QUEST_APPEAL_AP",
@@ -7905,8 +7817,20 @@
             "value": "전투불능 유닛이 편성되어 있어 출격할 수 없습니다."
         },
         {
-            "key": "VISION_ILLUSTRATOR",
-            "value": "Illustrator"
+            "key": "QRCODE_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_MESSAGE",
+            "value": "{0}."
+        },
+        {
+            "key": "QRCODE_ERROR_TITLE",
+            "value": "오류"
+        },
+        {
+            "key": "QRCODE_ERROR_MESSAGE",
+            "value": "무효 플랫폼입니다."
         },
         {
             "key": "MENU_OPTION_LANGUAGE",
@@ -8077,260 +8001,8 @@
             "value": "구매가 아직 진행 중입니다. 나중에 다시 확인해주십시오."
         },
         {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
-            "value": "전투 중"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
-            "value": "<line-height=20>기간 한정<br><size=15><cspace=-0.5> 길드 전투 개최 중!"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
-            "value": "매칭 중"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
-            "value": "전투 시작"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
-            "value": "<cspace=1.6>집계 중"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
-            "value": "다음 전투 준비 중"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
-            "value": "MM/dd HH:mm~"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
-            "value": "~MM/dd HH:mm"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
-            "value": "~MM/dd HH:mm"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
-            "value": "최종 결과 열람"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_TITLE",
-            "value": "절전 모드"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_DESC",
-            "value": "<line-height=33>설정한 시간 동안 조작하지 않으면 자동적으로 화면이 전환되어<br>배터리 소모가 감소하는 상태로 전환됩니다."
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_OFF",
-            "value": "OFF"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_SECOND",
-            "value": "30초"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_MINUTE",
-            "value": "1분"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
-            "value": "3분"
-        },
-        {
-            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
-            "value": "대전 상대 결정!"
-        },
-        {
-            "key": "GUILD_LIMITED_TITLE",
-            "value": "기간 한정 길드 전투"
-        },
-        {
-            "key": "GUILD_LIMITED_POINT",
-            "value": "전투 포인트"
-        },
-        {
-            "key": "GUILD_LIMITED_PERIOD",
-            "value": "개최 기간:"
-        },
-        {
-            "key": "GUILD_LIMITED_DURATION_END",
-            "value": "최종 결과 열람: "
-        },
-        {
-            "key": "GUILD_LIMITED_DURATION_END_FMT",
-            "value": "~MM/dd HH:mm"
-        },
-        {
-            "key": "GUILD_RANKING_TAB_LIMITED",
-            "value": "<cspace=-0.6>기간 한정"
-        },
-        {
-            "key": "GUILD_RANKING_LIMITED_POINTS",
-            "value": "전투 포인트"
-        },
-        {
-            "key": "GUILD_BATTLE_EVENT_DETAIL",
-            "value": "이벤트 정보"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_ABSTENTION",
-            "value": "<line-height=32>현재 기간<br>참가 등록 없음"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_BYE",
-            "value": "부전승"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_BYE_DESC",
-            "value": "대전 상대가 존재하지 않아<br>부전승했습니다."
-        },
-        {
-            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
-            "value": "남은 행동 횟수가 0입니다."
-        },
-        {
-            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
-            "value": "이번 길드 전투에서<br>행동할 수 있는 횟수에 도달했습니다."
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_DESC",
-            "value": "<line-height=32>다음 참가 조건을<br>충족하지 못하여<br>참가 등록하지 않았습니다."
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
-            "value": "길드 리그 레벨"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
-            "value": "{0} 이상"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
-            "value": "길드 멤버"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
-            "value": "{0}명 이상"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
-            "value": "마스터"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
-            "value": "{0}일 이상 로그인 없음"
-        },
-        {
-            "key": "GUILD_BATTLE_END_TROPHY_POINT",
-            "value": "전투 포인트: "
-        },
-        {
-            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
-            "value": "(부전승 ★ {0}%)"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
-            "value": "응원"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
-            "value": "{0}을(를) 정찰하여 \\n 파티가 표시되었습니다."
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
-            "value": "{0}부터 정찰 \\n 파티가 표시되었습니다."
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
-            "value": "{0}을(를) 보급하여 \\n{0} 파티 행동 횟수가 회복되었습니다."
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
-            "value": "{0}부터 보급 \\n 파티 행동 횟수가 회복되었습니다."
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
-            "value": "{0}의 시전으로 \\n{0} 파티 어빌리티 횟수가 회복되었습니다."
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
-            "value": "{0}부터 시전 \\n 파티  어빌리티 횟수가 회복되었습니다."
-        },
-        {
-            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
-            "value": "방어 파티 설정 수:"
-        },
-        {
-            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
-            "value": "공격"
-        },
-        {
-            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
-            "value": "응원"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_TITLE",
-            "value": "응원"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE",
-            "value": "사용"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
-            "value": "{0}"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
-            "value": "<color=#F0C040>{0}</color>의 <br><color=#F0C040>{1}</color>의 <br>{2}"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
-            "value": "행동 보상을 수령했습니다."
-        },
-        {
-            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
-            "value": "공격할 적 파티를 선택하십시오."
-        },
-        {
-            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
-            "value": "응원할 적 파티를 선택하십시오."
-        },
-        {
-            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
-            "value": "{0} 정보"
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
-            "value": "${period}에 시작한 기간 한정 길드 전투, 통산 ${entry_count}번째 전투 참가 보상입니다."
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
-            "value": "${period}에 시작한 기간 한정 길드 전투 보상입니다."
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
-            "value": "${period}에 시작한 기간 한정 길드 전투의 최종 랭킹 ${ranking}위 보상입니다."
-        },
-        {
-            "key": "QRCODE_TITLE",
-            "value": "{0}"
-        },
-        {
-            "key": "QRCODE_MESSAGE",
-            "value": "{0}."
-        },
-        {
-            "key": "QRCODE_ERROR_TITLE",
-            "value": "오류"
-        },
-        {
-            "key": "QRCODE_ERROR_MESSAGE",
-            "value": "무효한 플랫폼입니다."
+            "key": "VISION_ILLUSTRATOR",
+            "value": "Illustrator"
         },
         {
             "key": "GL_GACHA_BONUS_GAUGE_TITLE",

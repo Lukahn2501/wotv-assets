@@ -61,7 +61,7 @@
             "value": "Votre niveau de ligue est monté de ${beforeLevelName} à ${afterLevelName}."
         },
         {
-            "key": "16",
+            "key": "23",
             "value": "Votre niveau de ligue est tombé de ${beforeLevelName} à ${afterLevelName}."
         }
     ]

@@ -17,16 +17,8 @@
             "value": "대검"
         },
         {
-            "key": "LARGESWORD",
-            "value": "대검"
-        },
-        {
             "key": "KATANA",
             "value": "도검"
-        },
-        {
-            "key": "STAFF",
-            "value": "지팡이"
         },
         {
             "key": "ROD",
@@ -123,6 +115,14 @@
         {
             "key": "SEPARATOR",
             "value": ", "
+        },
+        {
+            "key": "LARGESWORD",
+            "value": "대검"
+        },
+        {
+            "key": "STAFF",
+            "value": "지팡이"
         }
     ]
 }

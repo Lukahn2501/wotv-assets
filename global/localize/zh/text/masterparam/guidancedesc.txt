@@ -77,6 +77,10 @@
             "value": "這裡是石像之間。<br>還有，那邊能看到的<br>就是「公會石像」。"
         },
         {
+            "key": "GuildBattle",
+            "value": "終於要首次挑戰「公會戰鬥」了。"
+        },
+        {
             "key": "UnitIntimacy",
             "value": "蒙特殿下，<br>您和其他成員<br>有所交流嗎？"
         },
@@ -101,20 +105,16 @@
             "value": "蒙特殿下，<br>您現在和初次相遇的時候相比<br>已經有了很明顯的成長呢。"
         },
         {
-            "key": "GuildBattle",
-            "value": "終於要首次挑戰「公會戰鬥」了。"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "蒙特殿下，<br>您知道「同行者設定」嗎？"
+            "key": "Tower",
+            "value": "終究還是踏入「白磁之塔」了呢……。"
         },
         {
             "key": "ItemExchange",
             "value": "蒙特殿下，<br>交換所已經開始營業了。<br>去看看吧。"
         },
         {
-            "key": "Tower",
-            "value": "終究還是踏入「白磁之塔」了呢……。"
+            "key": "SupportUnit",
+            "value": "蒙特殿下，<br>您知道「同行者設定」嗎？"
         }
     ]
 }

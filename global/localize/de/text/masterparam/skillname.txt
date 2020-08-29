@@ -2509,6 +2509,150 @@
             "value": "ABW-Erhöhung Stufe 1"
         },
         {
+            "key": "SK_FFT_AGRA_ATK",
+            "value": "Normaler Angriff"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_1",
+            "value": "Klinge des Urteils"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_2",
+            "value": "Heiliger Blitz"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_3",
+            "value": "Talismansiegel"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_1",
+            "value": "Großer Bärenbrecher"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_2",
+            "value": "Leibwache der Prinzessin"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_3",
+            "value": "Schutz der Königlichen Garde"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_4",
+            "value": "Ich glaube an dich!"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_5",
+            "value": "Allesbrecher"
+        },
+        {
+            "key": "SK_FFT_AGRA_R_1",
+            "value": "Abwehr"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_1",
+            "value": "Ritterlichkeit"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_2",
+            "value": "Redlichkeit des Ritters"
+        },
+        {
+            "key": "SK_FFT_DELT_ATK",
+            "value": "Normaler Angriff"
+        },
+        {
+            "key": "SK_FFT_DELT_M_1",
+            "value": "Reinigender Schlag"
+        },
+        {
+            "key": "SK_FFT_DELT_M_2",
+            "value": "Wolfsbiss"
+        },
+        {
+            "key": "SK_FFT_DELT_M_3",
+            "value": "Schicksalsschwert"
+        },
+        {
+            "key": "SK_FFT_DELT_S_1",
+            "value": "Steinwurf"
+        },
+        {
+            "key": "SK_FFT_DELT_S_2",
+            "value": "Opferschwur"
+        },
+        {
+            "key": "SK_FFT_DELT_S_3",
+            "value": "Feuga-Klinge"
+        },
+        {
+            "key": "SK_FFT_DELT_S_4",
+            "value": "Meditieren"
+        },
+        {
+            "key": "SK_FFT_DELT_S_5",
+            "value": "Klinge des Urteils"
+        },
+        {
+            "key": "SK_FFT_DELT_R_1",
+            "value": "Gegenattacke"
+        },
+        {
+            "key": "SK_FFT_DELT_P_1",
+            "value": "Bewegung +1"
+        },
+        {
+            "key": "SK_FFT_DELT_P_2",
+            "value": "Erlangte AP erhöht"
+        },
+        {
+            "key": "SK_FFT_MSTD_ATK",
+            "value": "Normaler Angriff"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_1",
+            "value": "Multisalve"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_2",
+            "value": "Siegel des Bösen"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_3",
+            "value": "Schnellfeuer"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_1",
+            "value": "Kraftschuss"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_2",
+            "value": "Wartung"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_3",
+            "value": "Camouflage"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_4",
+            "value": "Beinschuss"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_5",
+            "value": "Armschuss"
+        },
+        {
+            "key": "SK_FFT_MSTD_R_1",
+            "value": "Auto-Heiltrank"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_1",
+            "value": "Zielen"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_2",
+            "value": "Geschoss-ANG erhöht"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "Eisra"
         },
@@ -2530,7 +2674,7 @@
         },
         {
             "key": "SK_TU_BHMT_M_01",
-            "value": "Schwinger"
+            "value": "Heber"
         },
         {
             "key": "SK_TU_USE_RING",
@@ -2714,7 +2858,7 @@
         },
         {
             "key": "SK_BHMT_M_01",
-            "value": "Schwinger"
+            "value": "Heber"
         },
         {
             "key": "SK_BHMT_M_02",
@@ -2722,7 +2866,7 @@
         },
         {
             "key": "SK_BHMT_M_03",
-            "value": "Werfen"
+            "value": "Aufspießen"
         },
         {
             "key": "SK_BHMT_ATK_01",
@@ -2730,7 +2874,7 @@
         },
         {
             "key": "SK_BHMT_M_01_01",
-            "value": "Schwinger"
+            "value": "Heber"
         },
         {
             "key": "SK_BHMT_M_02_01",
@@ -2738,7 +2882,7 @@
         },
         {
             "key": "SK_BHMT_M_03_01",
-            "value": "Werfen"
+            "value": "Aufspießen"
         },
         {
             "key": "SK_MABR_ATK",
@@ -3041,22 +3185,6 @@
             "value": "Süße Fontäne"
         },
         {
-            "key": "SK_CSLI_01_ATK",
-            "value": "Normaler Angriff"
-        },
-        {
-            "key": "SK_CSLI_01_M_01",
-            "value": "Marshmallowschuss"
-        },
-        {
-            "key": "SK_CSLI_01_M_02",
-            "value": "Schmelzen"
-        },
-        {
-            "key": "SK_CSLI_01_M_03",
-            "value": "Süße Party"
-        },
-        {
             "key": "SK_SLIM_ATK",
             "value": "Normaler Angriff"
         },
@@ -3071,6 +3199,22 @@
         {
             "key": "SK_SLIM_M_03",
             "value": "Flüssigkeitenabsonderung"
+        },
+        {
+            "key": "SK_CSLI_01_ATK",
+            "value": "Normaler Angriff"
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "Marshmallowschuss"
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "Schmelzen"
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "Süße Party"
         },
         {
             "key": "SK_IFRT_ATK",
@@ -3277,6 +3421,22 @@
             "value": "Konzentrierte Samenkanone"
         },
         {
+            "key": "SK_WRMC_ATK",
+            "value": "Normaler Angriff"
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "Diffusionsgeschoss"
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "Strahlenschuss"
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "Nuklearangriff"
+        },
+        {
             "key": "SK_THDG_ATK",
             "value": "Normaler Angriff"
         },
@@ -3303,22 +3463,6 @@
         {
             "key": "SK_THDG_M_05",
             "value": "Entfesseln"
-        },
-        {
-            "key": "SK_WRMC_ATK",
-            "value": "Normaler Angriff"
-        },
-        {
-            "key": "SK_WRMC_M_01",
-            "value": "Diffusionsgeschoss"
-        },
-        {
-            "key": "SK_WRMC_M_02",
-            "value": "Strahlenschuss"
-        },
-        {
-            "key": "SK_WRMC_M_03",
-            "value": "Nuklearangriff"
         },
         {
             "key": "SK_DABL_ATK",
@@ -3375,26 +3519,6 @@
         {
             "key": "SK_LW_E_VIK_S_3",
             "value": "Rebellischer Geist"
-        },
-        {
-            "key": "SK_GMK_ATK_NEEDLE",
-            "value": "Falle"
-        },
-        {
-            "key": "SK_GMK_ATK_FIRE",
-            "value": "Falle"
-        },
-        {
-            "key": "SK_GMK_ATK_ARROW",
-            "value": "Falle"
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_1",
-            "value": "Steinwurf"
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_2",
-            "value": "Steinschauer"
         },
         {
             "key": "SK_LB_LW_MONT",
@@ -3565,6 +3689,18 @@
             "value": "Stabarrangement"
         },
         {
+            "key": "SK_LB_LW_ORDR",
+            "value": "Oldoischer Knaller"
+        },
+        {
+            "key": "SK_LB_FFT_AGRA_01",
+            "value": "Heilige Zerschlagung"
+        },
+        {
+            "key": "SK_LB_FFT_DELT_01",
+            "value": "Wahrhafter Dreistufenblitz"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Inferno"
         },
@@ -3643,6 +3779,10 @@
         {
             "key": "SK_SMN_DABL",
             "value": "Dunkler Bote"
+        },
+        {
+            "key": "SK_SMN_CHCB_01",
+            "value": "Choco-Meteo"
         },
         {
             "key": "SK_US_POTION",
@@ -4025,6 +4165,26 @@
             "value": "Meisterfähigkeit"
         },
         {
+            "key": "SK_MA_LW_ORDR",
+            "value": "Meisterfähigkeit"
+        },
+        {
+            "key": "SK_MA_LW_LVES",
+            "value": "Meisterfähigkeit"
+        },
+        {
+            "key": "SK_MA_FFT_AGRA",
+            "value": "Meisterfähigkeit"
+        },
+        {
+            "key": "SK_MA_FFT_DELT",
+            "value": "Meisterfähigkeit"
+        },
+        {
+            "key": "SK_MA_FFT_MSTD",
+            "value": "Meisterfähigkeit"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Schlitzangriff +2"
         },
@@ -4077,6 +4237,26 @@
             "value": "Schlitzangriff +20"
         },
         {
+            "key": "SK_LW_AVOID_1",
+            "value": "Ausweichrate +1"
+        },
+        {
+            "key": "SK_LW_AVOID_2",
+            "value": "Ausweichrate +2"
+        },
+        {
+            "key": "SK_LW_AVOID_3",
+            "value": "Ausweichrate +3"
+        },
+        {
+            "key": "SK_LW_AVOID_4_N_SSR",
+            "value": "Ausweichrate +4"
+        },
+        {
+            "key": "SK_LW_AVOID_5_SSR",
+            "value": "Ausweichrate +8"
+        },
+        {
             "key": "SK_LW_SWO_003_1",
             "value": "Schlafschwert"
         },
@@ -4106,6 +4286,98 @@
         },
         {
             "key": "SK_LW_RNG_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_1",
+            "value": "Korallenklinge"
+        },
+        {
+            "key": "SK_LW_SWO_006_5",
+            "value": "Korallenklinge"
+        },
+        {
+            "key": "SK_LW_SWO_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_1",
+            "value": "Eisangriff erhöht (passiv)"
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_5",
+            "value": "Eisangriff erhöht (passiv)"
+        },
+        {
+            "key": "SK_LW_SPE_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FTW_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": "Purpurklinge"
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": "Purpurklinge"
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": "Purpurklinge"
+        },
+        {
+            "key": "SK_FFT_ACC_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_5",
             "value": ""
         },
         {
@@ -4194,7 +4466,7 @@
         },
         {
             "key": "SK_ACC_LW_FRVA_1_1",
-            "value": "Meisterschaft des Eises"
+            "value": "Meister des Eises"
         },
         {
             "key": "SK_ACC_LW_VNLA_1_1",
@@ -4209,7 +4481,23 @@
             "value": "Rebellischer Stolz"
         },
         {
-            "key": "SK_KAT_LW_SIMR_1_1",
+            "key": "SK_ACC_LW_ORDR_1_1",
+            "value": "Vererbte Tyrannei"
+        },
+        {
+            "key": "SK_SWO_LW_LVES_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FFT_AGRA_1_1",
+            "value": "Stolz des Rittertums"
+        },
+        {
+            "key": "SK_ARM_FFT_DELT_1_1",
+            "value": "AP abgeben"
+        },
+        {
+            "key": "SK_GUN_FFT_MSTD_1_1",
             "value": ""
         },
         {
@@ -4389,96 +4677,16 @@
             "value": ""
         },
         {
-            "key": "SK_SWO_LW_DRIO_1_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_1",
-            "value": "Korallenklinge"
-        },
-        {
-            "key": "SK_LW_SWO_006_5",
-            "value": "Korallenklinge"
-        },
-        {
-            "key": "SK_LW_SWO_007_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_1",
-            "value": "Eisangriff erhöht (passiv)"
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_5",
-            "value": "Eisangriff erhöht (passiv)"
-        },
-        {
             "key": "SK_KAT_LW_DIAA_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_1",
+            "key": "SK_SWO_LW_DRIO_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_5",
+            "key": "SK_KAT_LW_SIMR_1_1",
             "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_FTW_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_1",
-            "value": "Purpurklinge"
-        },
-        {
-            "key": "SK_LW_BSW_011_3",
-            "value": "Purpurklinge"
-        },
-        {
-            "key": "SK_LW_BSW_011_5",
-            "value": "Purpurklinge"
         },
         {
             "key": "SK_VC_LW_GLEM_GS",
@@ -4781,18 +4989,6 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_THDG_GS",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GS_AW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GSMAX",
-            "value": ""
-        },
-        {
             "key": "SK_VC_LW_ADLD_GS",
             "value": ""
         },
@@ -4817,6 +5013,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_FF01_DMAC_GS",
             "value": ""
         },
@@ -4826,6 +5034,30 @@
         },
         {
             "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
             "value": ""
         },
         {
@@ -4965,15 +5197,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS",
+            "key": "SK_VC_FFT_MV2_GS",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS_AW",
+            "key": "SK_VC_FFT_MV2_GSAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GSMAX",
+            "key": "SK_VC_FFT_MV3_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSMAX",
             "value": ""
         },
         {
@@ -5269,27 +5509,15 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_P",
+            "key": "SK_VC_LW_CBVPARTY1_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_WHITEDAY1_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_WHITEDAY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {
@@ -5437,6 +5665,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_THDG_P",
             "value": ""
         },
@@ -5473,27 +5725,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "key": "SK_VC_FFT_MV2_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "key": "SK_VC_FFT_MV2_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "key": "SK_VC_FFT_MV3_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_P",
+            "key": "SK_VC_FFT_MV3_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_CBVPARTY1_PMAX",
+            "key": "SK_VC_FFT_MV3_PMAX",
             "value": ""
         },
         {
@@ -5555,6 +5803,10 @@
         {
             "key": "SK_BTL_RANGE_1-20_U",
             "value": "Reichweite erhöht (1 bis 20)"
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U_PA",
+            "value": "Reichweite erhöht (1 bis 15)"
         },
         {
             "key": "SK_BTL_HP_100-99900_D",
@@ -6077,6 +6329,74 @@
             "value": "Alle Elementarresistenzen reduziert (1 bis 80, Basis)"
         },
         {
+            "key": "SK_BTL_RES_OTFIRE_1_80_U",
+            "value": "Alle Resistenzen außer Feuerresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_U",
+            "value": "Alle Resistenzen außer Wasserresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_U",
+            "value": "Alle Resistenzen außer Windresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_U",
+            "value": "Alle Resistenzen außer Blitzresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_U",
+            "value": "Alle Resistenzen außer Eisresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_U",
+            "value": "Alle Resistenzen außer Erdresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_U",
+            "value": "Alle Resistenzen außer Dunkelresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_U",
+            "value": "Alle Resistenzen außer Eisresistenz erhöht (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_D",
+            "value": "Alle Resistenzen außer Feuerresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_D",
+            "value": "Alle Resistenzen außer Wasserresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_D",
+            "value": "Alle Resistenzen außer Windresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_D",
+            "value": "Alle Resistenzen außer Blitzresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_D",
+            "value": "Alle Resistenzen außer Eisresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_D",
+            "value": "Alle Resistenzen außer Erdresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_D",
+            "value": "Alle Resistenzen außer Dunkelresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_D",
+            "value": "Alle Resistenzen außer Lichtresistenz reduziert (1 bis 80, Basis)"
+        },
+        {
+            "key": "SK_BTL_RES_OTELEMALL_1_80_D",
+            "value": "Alle Resistenzen außer alle Elementarresistenzen reduziert (1 bis 80, Basis)"
+        },
+        {
             "key": "SK_BTL_HP_100-99900_U_PA",
             "value": "LP-Maximum erhöht (100 bis 99.900, passiv)"
         },
@@ -6175,6 +6495,14 @@
         {
             "key": "SK_BTL_KILLER_SHINE_1-100_U",
             "value": "Lichtfresser erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_CHARM_1-100_U",
+            "value": "Chance auf Zustandsveränderung „Betörung“ erhöht (1 bis 100)"
+        },
+        {
+            "key": "SK_BTL_POIS_1-100_U",
+            "value": "Chance auf Zustandsveränderung „Gift“ erhöht (1 bis 100)"
         },
         {
             "key": "SK_BTL_TOAD_1-100_U",
@@ -6299,6 +6627,26 @@
         {
             "key": "SK_GMK_ATK_TEST_KATA_2",
             "value": "Angriff (vorläufig) – (Katapult, Fläche)"
+        },
+        {
+            "key": "SK_GMK_ATK_NEEDLE",
+            "value": "Falle"
+        },
+        {
+            "key": "SK_GMK_ATK_FIRE",
+            "value": "Falle"
+        },
+        {
+            "key": "SK_GMK_ATK_ARROW",
+            "value": "Falle"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1",
+            "value": "Steinwurf"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2",
+            "value": "Steinschauer"
         },
         {
             "key": "SK_LW_WAR_P_2",

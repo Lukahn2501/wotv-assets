@@ -22,11 +22,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Texte test •"
+            "value": "• Rejoindre une guilde •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Passer le tutoriel de ... ?"
+            "value": "Voulez-vous lancer le tutoriel pour apprendre à rejoindre une guilde ?"
         },
         {
             "key": "SKIP_YES",

@@ -26,19 +26,19 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "◆ダミー◆"
+            "value": "◆サブクエスト◆"
         },
         {
             "key": "SKIP_MSG",
-            "value": "ダミーのチュートリアルをスキップしますか？"
+            "value": "サブクエストのチュートリアルを見ますか？"
         },
         {
             "key": "SKIP_YES",
-            "value": "聞く"
+            "value": "はい"
         },
         {
             "key": "SKIP_NO",
-            "value": "聞かない"
+            "value": "いいえ"
         }
     ]
 }

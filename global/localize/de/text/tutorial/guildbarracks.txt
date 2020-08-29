@@ -14,7 +14,7 @@
         },
         {
             "key": "DIALOG_001_M",
-            "value": "• Kaserne •<br>Einheiten, die in der Kaserne stationiert sind, <color=#00ffff>erhalten JP für die Dauer ihres Aufenthalts</color>; auch auf ihre <color=#00ffff>Courage</color> und ihre <color=#00ffff>Ener</color> wirkt sich der Kasernenaufenthalt aus."
+            "value": "• Kaserne •<br>Einheiten, die in der Kaserne stationiert sind, <color=#00ffff>erhalten JP für die Dauer ihres Aufenthalts</color>; auch auf ihre <color=#00ffff>Courage</color> und ihre <color=#00ffff>Spiritualität</color> wirkt sich der Kasernenaufenthalt aus."
         },
         {
             "key": "DIALOG_002_T",
@@ -42,11 +42,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Dummy •"
+            "value": "• Kaserne •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du das Dummy-Tutorial überspringen?"
+            "value": "Möchtest du dir ein Tutorial zur Kaserne ansehen?"
         },
         {
             "key": "SKIP_YES",

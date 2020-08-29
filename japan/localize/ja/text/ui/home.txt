@@ -1125,6 +1125,14 @@
             "value": "ステータスボーナス"
         },
         {
+            "key": "ABILITY_BOARD_MODE_ABILITYSET",
+            "value": "モードごとにアビリティセット"
+        },
+        {
+            "key": "ABILITY_BOARD_MODE_SET",
+            "value": "モードごとにセット"
+        },
+        {
             "key": "ABILITY_BOARD_OPEN_DESC",
             "value": "このアビリティを解放します。"
         },
@@ -1501,6 +1509,10 @@
             "value": "<cspace=-3>武具熟練度<br><cspace=-2>EXP"
         },
         {
+            "key": "QUEST_ICON_ARTIPROFICIENCY_TITLE_EX",
+            "value": "<cspace=-3>武具熟練度<cspace=-2>EXP"
+        },
+        {
             "key": "QUEST_ICON_INTIMACY_TITLE",
             "value": "<cspace=-2>親密度EXP"
         },
@@ -1511,6 +1523,10 @@
         {
             "key": "QUEST_ICON_DROPRATE_PIECE_TITLE",
             "value": "<cspace=-3>欠片<br>ドロップ率"
+        },
+        {
+            "key": "QUEST_ICON_DROPRATE_PIECE_TITLE_EX",
+            "value": "<cspace=-3>欠片ドロップ率"
         },
         {
             "key": "QUEST_ICON_EXPPLAYER_TITLE",
@@ -1625,6 +1641,10 @@
             "value": "曜日・育成"
         },
         {
+            "key": "EVENTQUEST_CHAPTER_TAB_KEY",
+            "value": "キークエスト"
+        },
+        {
             "key": "EVENTQUEST_LIMIT_MINUTES",
             "value": "あと<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>分"
         },
@@ -1635,6 +1655,10 @@
         {
             "key": "EVENTQUEST_LIMIT_DAY",
             "value": "あと<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>日"
+        },
+        {
+            "key": "EVENTQUEST_LIMIT_SECONDS",
+            "value": "あと<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>秒"
         },
         {
             "key": "EVENTQUEST_SECTION_LIMIT",
@@ -1667,6 +1691,50 @@
         {
             "key": "EVENTQUEST_OUTOFTERM",
             "value": "開催期間外のクエストです"
+        },
+        {
+            "key": "KEYQUEST_OUTOFTERM_TITLE",
+            "value": "開催期間外"
+        },
+        {
+            "key": "KEYQUEST_OUTOFTERM_DESC",
+            "value": "開催期間外のキークエストです。"
+        },
+        {
+            "key": "KEYQUEST_OPEN_TITLE",
+            "value": "キークエスト解放"
+        },
+        {
+            "key": "KEYQUEST_OPEN_CHECK_DESC",
+            "value": "<line-height=1.4em><color=#F0C040>{0}</color>を<color=#F0C040>{1}</color>個消費して<br>クエストを<color=#F0C040>{2}</color>解放します。"
+        },
+        {
+            "key": "KEYQUEST_LACK_AMOUNT_DESC",
+            "value": "鍵を十分な数持っていません。"
+        },
+        {
+            "key": "KEYQUEST_COOL_TIME_DESC",
+            "value": "再度鍵を使用できるまで<br>あと<color=#F0C040>{0}</color>です。"
+        },
+        {
+            "key": "KEYQUEST_REOPEN_DESC",
+            "value": "<line-height=1.4em>再度<color=#F0C040>{0}</color>を<color=#F0C040>{1}</color>個消費して、<br>クエストを<color=#F0C040>{2}</color>解放しますか？"
+        },
+        {
+            "key": "KEYQUEST_CLOSED_TITLE",
+            "value": "キークエスト終了"
+        },
+        {
+            "key": "KEYQUEST_CLOSED_DESC",
+            "value": "クエストが閉じられました。"
+        },
+        {
+            "key": "KEYQUEST_LIMIT_OVER_TITLE",
+            "value": "クエスト回数リセット待ち"
+        },
+        {
+            "key": "KEYQUEST_LIMIT_OVER_DESC",
+            "value": "クエストプレイ回数上限に達しています。<br>回数は毎日AM5:00にリセットされます。<br>リセット後に鍵を使用しクエストをプレイしてください。"
         },
         {
             "key": "WORLDQUEST_SUB_TITLE",
@@ -1917,12 +1985,24 @@
             "value": "素材が不足しています。"
         },
         {
-            "key": "ARTI_CRAFT_ITEM_TITLE",
-            "value": "作成素材"
+            "key": "ARTI_CRAFT_MAKE_TITLE",
+            "value": "消費する作成素材"
+        },
+        {
+            "key": "ARTI_CRAFT_MAKE_VALUE_TITLE",
+            "value": "作成"
+        },
+        {
+            "key": "ARTI_CRAFT_ENHANCE_TITLE",
+            "value": "作成に必要な覚醒・強化素材"
         },
         {
             "key": "ARTI_CRAFT_START",
             "value": "作成"
+        },
+        {
+            "key": "ARTI_USE_CRAFTED",
+            "value": "クラフト済みの武具も素材に使う"
         },
         {
             "key": "ARTI_DISASSEMBLY_TITLE",
@@ -2101,6 +2181,26 @@
             "value": "武具タイプ : <color=#F0C040>{0}</color>"
         },
         {
+            "key": "ARTI_TYPE_SELECT_TITLE",
+            "value": "武具タイプ選択"
+        },
+        {
+            "key": "ARTI_TYPE_SELECT_DESC",
+            "value": "クラフトする武具に引き継ぐタイプを選択してください。"
+        },
+        {
+            "key": "ARTI_TYPE_SELECT_CAUTION",
+            "value": "<line-height=24>武具タイプ選択を行わずに中断等行うと、<br>正常にクラフトを行えないことがあります。"
+        },
+        {
+            "key": "ARTI_TYPE_SELECT_FINISH_TITLE",
+            "value": "武具のタイプを選択しました"
+        },
+        {
+            "key": "ARTI_TYPE_SELECT_FINISH_DESC",
+            "value": "武具タイプ : <color=#F0C040>{0}</color>"
+        },
+        {
             "key": "SHOP_BADGE_DISCOUNT",
             "value": "{0}%<br><size=16>OFF"
         },
@@ -2127,6 +2227,10 @@
         {
             "key": "SHOP_LIMITED_DAY",
             "value": "1日<size=1.25em><space=3>{0}<space=3></size>回"
+        },
+        {
+            "key": "SHOP_LIMITED_FREE",
+            "value": "個数制限なし"
         },
         {
             "key": "SHOP_SOLDOUT",
@@ -2161,6 +2265,10 @@
             "value": "購入"
         },
         {
+            "key": "SHOP_FREE_CAUTION",
+            "value": "一度に購入できる最大数は999です。"
+        },
+        {
             "key": "SHOP_EXCHANGE_CHECK_TITLE",
             "value": "交換確認"
         },
@@ -2175,6 +2283,10 @@
         {
             "key": "SHOP_EXCHANGE",
             "value": "交換"
+        },
+        {
+            "key": "SHOP_EXCHANGE_FREE_CAUTION",
+            "value": "一度に交換できる最大数は999です。"
         },
         {
             "key": "SHOP_ICON_DESC",
@@ -4437,6 +4549,10 @@
             "value": "前回の結果"
         },
         {
+            "key": "GACHA_SKIP",
+            "value": "演出スキップ"
+        },
+        {
             "key": "GACHA_TICKET",
             "value": "チケット召喚一覧"
         },
@@ -4687,6 +4803,18 @@
         {
             "key": "GACHA_WAIT_NEXT_TIME_DESC",
             "value": "次に召喚可能になるのは<br>{0}時となります。"
+        },
+        {
+            "key": "MEDAL_CHANGE_TITLE",
+            "value": "確認"
+        },
+        {
+            "key": "MEDAL_CHANGE_DESC_CHANGED",
+            "value": "<line-height=32>最大獲得数を超えたユニットの欠片、ビジョンカードの欠片は<br>ソウルメダル、ビジョンメダルに変換されました。"
+        },
+        {
+            "key": "MEDAL_CHANGE_DESC_CHECK",
+            "value": "<line-height=32>最大獲得数を超えたユニットの欠片、ビジョンカードの欠片は<br>ソウルメダル、ビジョンメダルに変換されます。よろしいですか？"
         },
         {
             "key": "ITEM_LIST_TITLE",
@@ -6193,6 +6321,10 @@
             "value": "開催中"
         },
         {
+            "key": "GUILD_LIMITED_GROUP",
+            "value": "{0}グループ"
+        },
+        {
             "key": "GUILD_COMMENT_FIRST",
             "value": "誰でも参加可能！"
         },
@@ -6399,10 +6531,6 @@
         {
             "key": "GUILD_STATUE_DISABLE_DATE",
             "value": "{0} {1}~"
-        },
-        {
-            "key": "GUILD_CHAT_COLOR_TAG",
-            "value": "<color=orange>{0}</color>"
         },
         {
             "key": "GUILD_RECRUIT_COMMENT_TITLE",
@@ -7677,6 +7805,14 @@
             "value": "{0}から詠唱<br>パーティのアビリティ回数が回復しました"
         },
         {
+            "key": "GUILD_BATTLE_LOG_BUFF_TO",
+            "value": "{0}へ{2}<br>{1}パーティが{0}パーティに<br>{2}を発動しました"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_BUFF_FROM",
+            "value": "{0}から{2}<br>{0}パーティが{1}パーティに<br>{2}を発動しました"
+        },
+        {
             "key": "GUILD_BATTLE_END_LOG_TITLE",
             "value": "戦績"
         },
@@ -7906,15 +8042,15 @@
         },
         {
             "key": "GM_GUILDBATTLE_GUILD_REWARD",
-            "value": "${month}月${day}日開催のギルドバトル報酬です。"
+            "value": "${month}月${day}日開催のギルドバトル報酬です"
         },
         {
             "key": "GM_GUILDBATTLE_PLAYER_REWARD",
-            "value": "${month}月${day}日開催のギルドバトル個人報酬です。"
+            "value": "${month}月${day}日開催のギルドバトル個人報酬です"
         },
         {
             "key": "GM_GUILDBATTLE_LEAGUE_REWARD",
-            "value": "${month}月${day}日開催のギルドバトル報酬です。"
+            "value": "${month}月${day}日開催のギルドバトル報酬です"
         },
         {
             "key": "GM_INVITATION_REWARD",
@@ -7922,7 +8058,7 @@
         },
         {
             "key": "GM_INVITATION_MISSION_REWARD",
-            "value": "友達招待の友達プレイ結果報酬です。"
+            "value": "友達招待の友達プレイ結果報酬です"
         },
         {
             "key": "GM_LOGINBONUS_REWARD",
@@ -7934,7 +8070,7 @@
         },
         {
             "key": "GM_SUPPORT_REWARD",
-            "value": "${supportCount}人に同行した報酬です。"
+            "value": "${supportCount}人に同行した報酬です"
         },
         {
             "key": "GM_VIP_PACK",
@@ -7978,19 +8114,23 @@
         },
         {
             "key": "GM_POINTQUEST_ACCUMSCORE_RANKING_REWARD",
-            "value": "${period}の累積スコアランキング${ranking}位の報酬です。"
+            "value": "${period}の累積スコアランキング${ranking}位の報酬です"
         },
         {
             "key": "GM_POINTQUEST_HIGHSCORE_RANKING_REWARD",
-            "value": "${period}のハイスコアランキング${ranking}位の報酬です。"
+            "value": "${period}のハイスコアランキング${ranking}位の報酬です"
         },
         {
             "key": "GM_POINTQUEST_ACCUMSCORE_RANKING_GUILD_REWARD",
-            "value": "${period}のギルドスコア累計ランキング${ranking}位の報酬です。"
+            "value": "${period}のギルドスコア累計ランキング${ranking}位の報酬です"
         },
         {
             "key": "GM_POINTQUEST_HIGHSCORE_RANKING_GUILD_REWARD",
-            "value": "${period}のギルドハイスコアランキング${ranking}位の報酬です。"
+            "value": "${period}のギルドハイスコアランキング${ranking}位の報酬です"
+        },
+        {
+            "key": "GM_GOOGLEPLAYPOINT",
+            "value": "Google play points の報酬です"
         },
         {
             "key": "QUEST_APPEAL_AP",
@@ -8010,7 +8150,7 @@
         },
         {
             "key": "QUEST_APPEAL_UNIT_EXP",
-            "value": "ユニットJP<br>ドロップ個数UP"
+            "value": "ユニットEXPアップ"
         },
         {
             "key": "QUEST_APPEAL_UNIT_JP",
@@ -8214,7 +8354,7 @@
         },
         {
             "key": "TOWER_RETRY_CAUTION",
-            "value": "<line-height=33>※リセット後の各階層のクリア報酬は<br>1周目のクリア報酬とは異なります。<br><line-height=12><br><line-height=33>※EXをクリアせずにリセットすると1周目の<br>報酬はもらえなくなりますのでご注意ください。"
+            "value": "<line-height=33>※リセット後の各階層のクリア報酬は<br>1周目のクリア報酬とは異なります。<br><line-height=12><br><line-height=33>※EXのクリア回数はリセットしても変更されません。<br>リセット後も同じ報酬に挑戦することができます。"
         },
         {
             "key": "TOWER_RETRY_BTN_RETRY",

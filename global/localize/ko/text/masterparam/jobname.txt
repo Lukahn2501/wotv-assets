@@ -839,6 +839,18 @@
         {
             "key": "JB_LW_MST_DARK",
             "value": "마장술사"
+        },
+        {
+            "key": "JB_FFT_AGRA",
+            "value": "성기사"
+        },
+        {
+            "key": "JB_FFT_DELT",
+            "value": "견습 전사"
+        },
+        {
+            "key": "JB_FFT_MSTD",
+            "value": "기공사"
         }
     ]
 }

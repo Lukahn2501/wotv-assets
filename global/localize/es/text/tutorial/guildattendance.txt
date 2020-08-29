@@ -66,11 +66,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Provisional •"
+            "value": "• Gremios •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "¿Omitir el tutorial provisional?"
+            "value": "¿Queréis ver el tutorial sobre los gremios?"
         },
         {
             "key": "SKIP_YES",

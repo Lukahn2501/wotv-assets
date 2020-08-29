@@ -191,6 +191,10 @@
         {
             "key": "IT_US_G_UR_01_gl20200812",
             "value": "確保UR召喚券A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20200819",
+            "value": "確保UR召喚券A"
         }
     ]
 }

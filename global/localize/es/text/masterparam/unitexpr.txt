@@ -269,6 +269,26 @@
             "value": "Un samurái del este a quien el rey Kuri invitó a Wezette debido a su increíble habilidad con la espada. Sin embargo, tras saber del sufrimiento que ha causado la tiranía del rey, decide pasar a la acción con el grupo de Graciela. Es famoso por lo mucho que le gusta el alcohol."
         },
         {
+            "key": "UN_LW_P_ORDR",
+            "value": "Una espadachina que resulta ser pariente lejana del rey Muraga y que se encarga de toda la estrategia del ejército de Fennes. Debido a la adoración que siente por Muraga, a Oldoa no le hace mucha gracia Sadali por tratar a su rey como si fuera su subordinado. "
+        },
+        {
+            "key": "UN_LW_P_LVES",
+            "value": "Una espadachina que deambulaba en solitario tras la muerte de sus padres y su hermano menor. Se dirigió hacia el lejano oriente por un motivo concreto y le contó a Owe y Seymore que le gustaría convertirse en una samurái del este, pero ¿con qué intención?..."
+        },
+        {
+            "key": "UN_FFT_P_AGRA",
+            "value": "Una mujer que sirve como caballera de la guardia de la familia real Atkascha y que es la guardaespaldas personal de la princesa Ovelia. Aparece en la leyenda de las Piedras del Zodiaco, una historia que se ha ido transmitiendo de generación en generación en el mundo de Ivalice. Se la conoce por su nobleza de espíritu, enorme lealtad y fuerte sentido de la justicia. Así, no puede evitar sentir lástima por Ovelia, que no cesa de verse envuelta en el caos del mundo."
+        },
+        {
+            "key": "UN_FFT_P_DELT",
+            "value": "El hijo de un granjero que sirve a la Casa Beoulve. Aparece en la leyenda de las Piedras del Zodiaco, una historia que se ha ido transmitiendo de generación en generación en el mundo de Ivalice. Tras la muerte de sus padres, fue amablemente acogido por el padre de Ramza, Barbaneth, y gracias a ello puedo asistir a la academia militar a la que normalmente solo podían entrar los hijos de la nobleza."
+        },
+        {
+            "key": "UN_FFT_P_MSTD",
+            "value": "Un joven con un talento natural para las pistolas mecánicas que trabajaba en las minas de la Ciudad Mecánica de Gouga. Aparece en la leyenda de las Piedras del Zodiaco, una historia que se ha ido transmitiendo de generación en generación en el mundo de Ivalice. Tras encontrar una de estas piedras en las minas, fue puesto en busca y captura por la famosa Compañía Comercial Baert y acabó siendo rescatado por Ramza."
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": ""
         },
@@ -421,10 +441,6 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_QILF",
-            "value": ""
-        },
-        {
             "key": "UN_LW_E_TREL",
             "value": ""
         },
@@ -446,6 +462,18 @@
         },
         {
             "key": "UN_LW_E_DRZA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_QILF",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
             "value": ""
         },
         {
@@ -917,11 +945,11 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_PR_02_TIM_2",
+            "key": "UN_LW_E_PR_02_GRM",
             "value": ""
         },
         {
-            "key": "UN_LW_E_PR_02_GRM",
+            "key": "UN_LW_E_PR_02_TIM_2",
             "value": ""
         },
         {
@@ -1053,6 +1081,10 @@
             "value": "Asigna atributos equivalentes a esgrimago SR"
         },
         {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": "Asigna atributos equivalentes a esgrimago SR"
+        },
+        {
             "key": "UN_LW_E_ARMN",
             "value": "Asigna atributos equivalentes a dragontino N"
         },
@@ -1149,15 +1181,11 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_SKEL_02_2",
-            "value": "Asigna atributos equivalentes a esgrimago SR"
-        },
-        {
-            "key": "UN_FF01_E_WRMC",
+            "key": "UN_FFT_E_MSTD",
             "value": ""
         },
         {
-            "key": "UN_FF01_E_WRMC_RAID",
+            "key": "UN_FFT_E_AGRA",
             "value": ""
         },
         {
@@ -1177,12 +1205,12 @@
             "value": "Asigna atributos equivalentes a paladín MR"
         },
         {
-            "key": "UN_LW_E_IGNT_02",
-            "value": "Asigna atributos equivalentes a paladín SR"
-        },
-        {
             "key": "UN_LW_E_IGNT_01_QE",
             "value": "Asigna atributos equivalentes a paladín MR"
+        },
+        {
+            "key": "UN_LW_E_IGNT_02",
+            "value": "Asigna atributos equivalentes a paladín SR"
         },
         {
             "key": "UN_LW_E_IGNT_2",
@@ -1195,14 +1223,6 @@
         {
             "key": "UN_LW_E_IGNT_BLM",
             "value": "Asigna atributos equivalentes a mago negro N"
-        },
-        {
-            "key": "UN_LW_E_THDG_QE",
-            "value": ""
-        },
-        {
-            "key": "UN_LW_E_DABL",
-            "value": ""
         },
         {
             "key": "UN_LW_E_BHMT",
@@ -1265,10 +1285,6 @@
             "value": ""
         },
         {
-            "key": "UN_LW_E_THDG",
-            "value": ""
-        },
-        {
             "key": "UN_LW_E_SLIM",
             "value": ""
         },
@@ -1277,11 +1293,27 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_CSLI_QE",
+            "value": ""
+        },
+        {
             "key": "UN_LW_E_CSLI_01",
             "value": ""
         },
         {
-            "key": "UN_LW_E_CSLI_QE",
+            "key": "UN_LW_E_THDG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
             "value": ""
         },
         {
@@ -1338,10 +1370,6 @@
         },
         {
             "key": "UN_FF01_E_WRMC_SIREN",
-            "value": ""
-        },
-        {
-            "key": "UN_LW_E_DABL_SIREN",
             "value": ""
         },
         {
@@ -1826,6 +1854,18 @@
         },
         {
             "key": "UN_LW_S_DABL_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01",
+            "value": "Un chocobo rojo que se rumorea que puede encontrarse en las proximidades de un río de un mundo lejano. Comparado con un chocobo común, tiene más carácter y es más agresivo. Se mueve de forma sorprendente y posee una habilidad misteriosa capaz de invocar pequeños meteoritos."
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW2",
             "value": ""
         },
         {

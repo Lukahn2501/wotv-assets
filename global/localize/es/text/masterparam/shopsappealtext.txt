@@ -71,6 +71,14 @@
         {
             "key": "18",
             "value": "<line-height=15>Tienda del capítulo 8"
+        },
+        {
+            "key": "19",
+            "value": "<line-height=15>Tienda de celebración<br>de la gran actualización del juego"
+        },
+        {
+            "key": "20",
+            "value": "<line-height=15>¡Lotes limitados<br>de colaboración!"
         }
     ]
 }

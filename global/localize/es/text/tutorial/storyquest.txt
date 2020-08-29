@@ -33,6 +33,10 @@
             "value": "Bueno, ¿volvemos?"
         },
         {
+            "key": "TALK_005_GL",
+            "value": "Ahora nuestro grupo está completo. ¿Y si activamos la opción de batalla automática y partimos? Podréis desactivarla y activarla libremente durante el combate."
+        },
+        {
             "key": "DIALOG_001_T",
             "value": "• Misiones de historia •"
         },
@@ -95,10 +99,6 @@
         {
             "key": "SKIP_NO",
             "value": "No"
-        },
-        {
-            "key": "TALK_005_GL",
-            "value": "Ahora nuestro grupo está completo. ¿Y si activamos la opción de batalla automática y partimos? Podréis desactivarla y activarla libremente durante el combate."
         }
     ]
 }

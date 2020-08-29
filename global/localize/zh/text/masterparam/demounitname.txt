@@ -129,6 +129,14 @@
             "value": "霍倫士兵,霍倫士兵A,霍倫士兵B,霍倫士兵C,霍倫士兵D,霍倫士兵E,霍倫士兵F,霍倫士兵G"
         },
         {
+            "key": "DU_LW_LYCS",
+            "value": "蕾榭思"
+        },
+        {
+            "key": "DU_LW_GLAR",
+            "value": "葛拉爾"
+        },
+        {
             "key": "DU_LW_MURG",
             "value": "穆拉加·芬尼斯,穆拉加,穆拉加的聲音"
         },
@@ -151,6 +159,14 @@
         {
             "key": "DU_LW_SO_03",
             "value": "芬尼斯士兵"
+        },
+        {
+            "key": "DU_LW_MLNA",
+            "value": "梅爾妮雅"
+        },
+        {
+            "key": "DU_LW_RNEL",
+            "value": "菈涅兒"
         },
         {
             "key": "DU_LW_VADM",
@@ -201,6 +217,18 @@
             "value": "西姆爾"
         },
         {
+            "key": "DU_LW_HWLT",
+            "value": "哈烏雷特"
+        },
+        {
+            "key": "DU_LW_TITU",
+            "value": "泰塔斯"
+        },
+        {
+            "key": "DU_LW_CHEL",
+            "value": "切爾"
+        },
+        {
             "key": "DU_LW_SDLE",
             "value": "薩達利·克爾斯提亞,薩達利"
         },
@@ -239,6 +267,10 @@
         {
             "key": "DU_LW_SEVR",
             "value": "塞維羅"
+        },
+        {
+            "key": "DU_LW_MRND",
+            "value": "米蘭達"
         },
         {
             "key": "DU_LW_GRSR",
@@ -349,8 +381,16 @@
             "value": "璐亞瑟"
         },
         {
+            "key": "DU_LW_LVES",
+            "value": "菈薇絲"
+        },
+        {
             "key": "DU_LW_MDNA",
             "value": "美迪愛娜"
+        },
+        {
+            "key": "DU_LW_TREL",
+            "value": "泰瑞爾"
         },
         {
             "key": "DU_LW_CHCB",
@@ -371,6 +411,10 @@
         {
             "key": "DU_LW_TH_02",
             "value": "賊人頭目"
+        },
+        {
+            "key": "DU_LW_CH_00",
+            "value": "少年"
         },
         {
             "key": "DU_LW_WOLF",
@@ -405,54 +449,6 @@
             "value": "惡精靈"
         },
         {
-            "key": "DU_LW_IFRT",
-            "value": "伊弗利特"
-        },
-        {
-            "key": "DU_LW_LYCS",
-            "value": "蕾榭思"
-        },
-        {
-            "key": "DU_LW_GLAR",
-            "value": "葛拉爾"
-        },
-        {
-            "key": "DU_LW_MLNA",
-            "value": "梅爾妮雅"
-        },
-        {
-            "key": "DU_LW_RNEL",
-            "value": "菈涅兒"
-        },
-        {
-            "key": "DU_LW_HWLT",
-            "value": "哈烏雷特"
-        },
-        {
-            "key": "DU_LW_TITU",
-            "value": "泰塔斯"
-        },
-        {
-            "key": "DU_LW_CHEL",
-            "value": "切爾"
-        },
-        {
-            "key": "DU_LW_MRND",
-            "value": "米蘭達"
-        },
-        {
-            "key": "DU_LW_LVES",
-            "value": "菈薇絲"
-        },
-        {
-            "key": "DU_LW_TREL",
-            "value": "泰瑞爾"
-        },
-        {
-            "key": "DU_LW_CH_00",
-            "value": "少年"
-        },
-        {
             "key": "DU_LW_WYVN",
             "value": "雙足飛龍"
         },
@@ -471,6 +467,10 @@
         {
             "key": "DU_LW_GLEM",
             "value": "巨像兵"
+        },
+        {
+            "key": "DU_LW_IFRT",
+            "value": "伊弗利特"
         }
     ]
 }

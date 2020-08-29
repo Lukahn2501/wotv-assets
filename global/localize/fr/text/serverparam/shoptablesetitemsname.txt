@@ -234,11 +234,11 @@
         },
         {
             "key": "IT_SET_EXP_GL_02",
-            "value": "Cube d'EXP (M) quotidien gratuit"
+            "value": "Cubes d'EXP (M) quotidiens gratuits"
         },
         {
             "key": "IT_SET_EXP_GL_05",
-            "value": "Lot de cube d'EXP quotidien"
+            "value": "Lot de cubes d'EXP quotidien"
         },
         {
             "key": "IT_SET_3MDL_DAILY",
@@ -250,7 +250,7 @@
         },
         {
             "key": "IT_SET_EXP_GL_06",
-            "value": "Lot de cube d'EXP quotidien"
+            "value": "Lot de cubes d'EXP quotidien [B]"
         },
         {
             "key": "IT_SET_3MDL_THUNDER",
@@ -667,6 +667,70 @@
         {
             "key": "IT_SET_SMVC_VE_EXP",
             "value": "Lot d'amélioration d'atout-vision"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "Lot d'éveil arc-en-ciel"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "Lot d'amélioration de job de vent (rouge)"
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "Lot d'amélioration de job de vent (jaune)"
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "Lot d'amélioration de job de vent (violet)"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "Lot de cubes d’EXP +"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "Lot du ticket d'expédition +"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "Lot d'éveil de vent absolu"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "Lot d'entraînement d'Oldoa"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "Lot d'entraînement d'Agrias"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "Lot pour la limite d'une unité UR"
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "Lot d'éveil de glace +"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "Lot d'éveil de feu +"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "Lot de soutien d'amélioration de job"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "Lot de cubes d’EXP"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "Lot d'œufs de croissance"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "Lot d'adamantine"
         }
     ]
 }

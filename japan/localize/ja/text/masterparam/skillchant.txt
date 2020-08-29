@@ -777,6 +777,14 @@
             "value": "<span=0.03>木陰より応じよ翠の精霊<wait=0.35><br><span=0.03>風刃・エアロ剣！<wait=0.5>"
         },
         {
+            "key": "SK_LW_MKN_WIND_M_1_SUB",
+            "value": "<span=0.03>我が剣に従え輝赫の決意<wait=0.35><br><span=0.03>焔刃・ファイガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MKN_FIRE_S_1",
+            "value": "<span=0.03>燭台より応じよ紅き精霊<wait=0.35><br><span=0.03>火刃・ファイア剣！<wait=0.5>"
+        },
+        {
             "key": "SK_FF4_ROSA_M_2",
             "value": "<span=0.03>魔道の至聖に智を倣い、我は謳うその真理<wait=0.35><br><span=0.03>至高の光、<wait=0.7><span=0.02>ホーリー！<wait=0.5>"
         },
@@ -937,8 +945,20 @@
             "value": "<span=0.03>くがねの羽毛　さんさん輝くおひさまの色<wait=0.35><br><span=0.03>おいで、<wait=0.7><span=0.02>チョコボ！<wait=0.5>"
         },
         {
+            "key": "SK_SMN_TNBR",
+            "value": "<span=0.03>ひた、ひた、ぎらりで、みんなのうらみ<wait=0.35><br><span=0.03>償わせよ、<wait=0.7><span=0.02>トンベリ！<wait=0.5>"
+        },
+        {
             "key": "SK_LW_ROD_004_5",
             "value": "<span=0.03>手のひらに乗せる願いの言の葉<wait=0.35><br><span=0.03>恵みを、<wait=0.7><span=0.02>ケアルラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MAC_009_5",
+            "value": "<span=0.03>もろ手に捧ぐは祈りの言霊<wait=0.35><br><span=0.03>慈愛を、<wait=0.7><span=0.02>ケアルダ！<wait=0.5>"
+        },
+        {
+            "key": "SK_VC_LW_SCAL_PVA",
+            "value": "<span=0.03>魔道が極めし無窮の想い<wait=0.35><br><span=0.03>結実せよ、ルインジャ！<wait=0.5>"
         }
     ]
 }

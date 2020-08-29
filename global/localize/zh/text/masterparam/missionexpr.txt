@@ -109,6 +109,150 @@
             "value": "成立或加入公會"
         },
         {
+            "key": "CM_PRO_GL_01",
+            "value": "登入遊戲1天"
+        },
+        {
+            "key": "CM_PRO_GL_02",
+            "value": "提升影猞猁等級至15"
+        },
+        {
+            "key": "CM_PRO_GL_03",
+            "value": "提升影猞猁等級至30"
+        },
+        {
+            "key": "CM_PRO_GL_04",
+            "value": "完成劇情任務第1章第2節 戰鬥1「前往獅子城」"
+        },
+        {
+            "key": "CM_PRO_GL_05",
+            "value": "累計登入遊戲2天"
+        },
+        {
+            "key": "CM_PRO_GL_06",
+            "value": "提升影猞猁職業等級至3"
+        },
+        {
+            "key": "CM_PRO_GL_07",
+            "value": "完成劇情任務第1章第1節 戰鬥10「強奪」"
+        },
+        {
+            "key": "CM_PRO_GL_08",
+            "value": "完成劇情任務第1章第1節 戰鬥5「友好證明」"
+        },
+        {
+            "key": "CM_PRO_GL_09",
+            "value": "提升影猞猁職業等級至6"
+        },
+        {
+            "key": "CM_PRO_GL_10",
+            "value": "登入遊戲"
+        },
+        {
+            "key": "CM_PRO_GL_11",
+            "value": "極限突破影猞猁1次"
+        },
+        {
+            "key": "CM_PRO_GL_12",
+            "value": "提升影猞猁等級至35"
+        },
+        {
+            "key": "CM_PRO_GL_13",
+            "value": "極限突破影猞猁3次"
+        },
+        {
+            "key": "CM_PRO_GL_14",
+            "value": "再登入遊戲1天"
+        },
+        {
+            "key": "CM_PRO_GL_15",
+            "value": "極限突破影猞猁2次"
+        },
+        {
+            "key": "CM_PRO_GL_16",
+            "value": "完成劇情任務第1章第2節 戰鬥10「贖罪」"
+        },
+        {
+            "key": "CM_PRO_GL_17",
+            "value": "完成劇情任務第1章第2節 戰鬥5「志願」"
+        },
+        {
+            "key": "CM_PRO_GL_18",
+            "value": "提升影猞猁等級至40"
+        },
+        {
+            "key": "CM_PRO_GL_19",
+            "value": "登入遊戲"
+        },
+        {
+            "key": "CM_PRO_GL_20",
+            "value": "覺醒影猞猁1次"
+        },
+        {
+            "key": "CM_PRO_GL_21",
+            "value": "提升影猞猁等級至45"
+        },
+        {
+            "key": "CM_PRO_GL_22",
+            "value": "提升影猞猁等級至60"
+        },
+        {
+            "key": "CM_PRO_GL_23",
+            "value": "再登入遊戲1天"
+        },
+        {
+            "key": "CM_PRO_GL_24",
+            "value": "覺醒影猞猁2次"
+        },
+        {
+            "key": "CM_PRO_GL_25",
+            "value": "覺醒影猞猁3次"
+        },
+        {
+            "key": "CM_PRO_GL_26",
+            "value": "完成劇情任務第1章第3節 戰鬥10「援軍」"
+        },
+        {
+            "key": "CM_PRO_GL_27",
+            "value": "提升影猞猁等級至50"
+        },
+        {
+            "key": "CM_PRO_GL_28",
+            "value": "登入遊戲"
+        },
+        {
+            "key": "CM_PRO_GL_29",
+            "value": "完成劇情任務第2章第1節 戰鬥10「星辰之語」"
+        },
+        {
+            "key": "CM_PRO_GL_30",
+            "value": "完成劇情任務第2章第2節 戰鬥10「獅子的驕傲」"
+        },
+        {
+            "key": "CM_PRO_GL_31",
+            "value": "再登入遊戲2天"
+        },
+        {
+            "key": "CM_PRO_GL_32",
+            "value": "再登入遊戲3天"
+        },
+        {
+            "key": "CM_PRO_GL_33",
+            "value": "完成劇情任務第2章第3節 戰鬥10「第一劍」"
+        },
+        {
+            "key": "CM_PRO_GL_34",
+            "value": "再登入遊戲1天"
+        },
+        {
+            "key": "CM_PRO_GL_35",
+            "value": "完成1次美迪愛娜的困難任務"
+        },
+        {
+            "key": "CM_PRO_GL_36",
+            "value": "完成劇情任務第3章第1節 戰鬥10「復仇之心」"
+        },
+        {
             "key": "CM_PRO_28",
             "value": "完成FINAL FANTASY TACTICS 戰鬥#1"
         },
@@ -251,6 +395,42 @@
         {
             "key": "CM_PRO_72",
             "value": "完成FINAL FANTASY I 戰鬥#5"
+        },
+        {
+            "key": "CM_PRO_73",
+            "value": "完成【第2波】FINAL FANTASY TACTICS 戰鬥#1"
+        },
+        {
+            "key": "CM_PRO_74",
+            "value": "完成100次活動任務"
+        },
+        {
+            "key": "CM_PRO_75",
+            "value": "完成50次世界任務中的「困難任務」"
+        },
+        {
+            "key": "CM_PRO_76",
+            "value": "完成100次劇情任務"
+        },
+        {
+            "key": "CM_PRO_77",
+            "value": "完成【第2波】FINAL FANTASY TACTICS 戰鬥#3"
+        },
+        {
+            "key": "CM_PRO_78",
+            "value": "在決鬥的鬥技場進行30次對戰"
+        },
+        {
+            "key": "CM_PRO_79",
+            "value": "於探險陸行鳥收取30次道具"
+        },
+        {
+            "key": "CM_PRO_80",
+            "value": "完成50次協力任務"
+        },
+        {
+            "key": "CM_PRO_81",
+            "value": "完成【第2波】城塞都市扎蘭達"
         },
         {
             "key": "GM_0001",
@@ -497,6 +677,14 @@
             "value": "完成第8章第1節【芬尼斯國王穆拉加】"
         },
         {
+            "key": "M_ST_0008_02",
+            "value": "完成第8章第2節 【庫利暴怒1】"
+        },
+        {
+            "key": "M_ST_0008_02_2",
+            "value": "完成第8章第2節 【霍倫的矜持】"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "會員等級達到1"
         },
@@ -558,7 +746,7 @@
         },
         {
             "key": "M_DAILY_001_01",
-            "value": "完成5次劇情任務"
+            "value": "完成1次劇情任務"
         },
         {
             "key": "M_DAILY_001_02",
@@ -570,7 +758,7 @@
         },
         {
             "key": "M_DAILY_001_04",
-            "value": "完成1次協力任務"
+            "value": "強化1次公會石像"
         },
         {
             "key": "M_DAILY_001_05",
@@ -1013,6 +1201,102 @@
             "value": "完成5次Final Fantasy XIV: 漆黑的反叛者 【討伐】 Lv.10"
         },
         {
+            "key": "M_GL_FFT_2_CH_AGRA",
+            "value": "完成阿格莉亞絲所有的角色任務挑戰"
+        },
+        {
+            "key": "M_GL_FFT_2_CH_DELT",
+            "value": "完成迪利塔所有的角色任務挑戰"
+        },
+        {
+            "key": "M_FFT_2_01",
+            "value": "完成1次【第2波】FINAL FANTASY TACTICS 戰鬥#1"
+        },
+        {
+            "key": "M_FFT_2_02",
+            "value": "完成2次【第2波】FINAL FANTASY TACTICS 戰鬥#1"
+        },
+        {
+            "key": "M_FFT_2_03",
+            "value": "完成3次【第2波】FINAL FANTASY TACTICS 戰鬥#1"
+        },
+        {
+            "key": "M_FFT_2_04",
+            "value": "完成1次【第2波】FINAL FANTASY TACTICS 戰鬥#2"
+        },
+        {
+            "key": "M_FFT_2_05",
+            "value": "完成2次【第2波】FINAL FANTASY TACTICS 戰鬥#2"
+        },
+        {
+            "key": "M_FFT_2_06",
+            "value": "完成3次【第2波】FINAL FANTASY TACTICS 戰鬥#2"
+        },
+        {
+            "key": "M_FFT_2_07",
+            "value": "完成1次【第2波】FINAL FANTASY TACTICS 戰鬥#3"
+        },
+        {
+            "key": "M_FFT_2_08",
+            "value": "完成2次【第2波】FINAL FANTASY TACTICS 戰鬥#3"
+        },
+        {
+            "key": "M_FFT_2_09",
+            "value": "完成3次【第2波】FINAL FANTASY TACTICS 戰鬥#3"
+        },
+        {
+            "key": "M_FFT_2_10",
+            "value": "完成1次【第2波】FINAL FANTASY TACTICS 戰鬥#4"
+        },
+        {
+            "key": "M_FFT_2_11",
+            "value": "完成3次【第2波】FINAL FANTASY TACTICS 戰鬥#4"
+        },
+        {
+            "key": "M_FFT_2_12",
+            "value": "完成5次【第2波】FINAL FANTASY TACTICS 戰鬥#4"
+        },
+        {
+            "key": "M_FFT_2_13",
+            "value": "完成1次【第2波】城塞都市扎蘭達"
+        },
+        {
+            "key": "M_FFT_2_14",
+            "value": "完成3次【第2波】城塞都市扎蘭達"
+        },
+        {
+            "key": "M_FFT_2_15",
+            "value": "完成5次【第2波】城塞都市扎蘭達"
+        },
+        {
+            "key": "M_FFT_2_EX_01",
+            "value": "完成1次【第2波】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "M_FFT_2_EX_02",
+            "value": "完成3次【第2波】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "M_FFT_2_EX_03",
+            "value": "完成5次【第2波】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "M_FFT_2_EX_04",
+            "value": "完成10次【第2波】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_01",
+            "value": "【協力】完成1次【第2波】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_02",
+            "value": "【協力】完成3次【第2波】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_03",
+            "value": "【協力】完成5次【第2波】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
             "key": "M_FFT_1_01",
             "value": "完成1次FINAL FANTASY TACTICS 戰鬥#1"
         },
@@ -1315,6 +1599,50 @@
         {
             "key": "M_EV_CSLI_11",
             "value": "【協力】完成5次超高難度　巧克力布丁考驗"
+        },
+        {
+            "key": "M_EV_OCHU_01",
+            "value": "完成1次高難度　食腐獸考驗"
+        },
+        {
+            "key": "M_EV_OCHU_02",
+            "value": "完成1次高難度　食腐獸考驗"
+        },
+        {
+            "key": "M_EV_OCHU_03",
+            "value": "完成3次高難度　食腐獸考驗"
+        },
+        {
+            "key": "M_EV_OCHU_04",
+            "value": "完成3次高難度　食腐獸考驗"
+        },
+        {
+            "key": "M_EV_OCHU_05",
+            "value": "完成5次高難度　食腐獸考驗"
+        },
+        {
+            "key": "M_EV_OCHU_06",
+            "value": "完成1次超高難度　食腐獸考驗"
+        },
+        {
+            "key": "M_EV_OCHU_07",
+            "value": "完成3次超高難度　食腐獸考驗"
+        },
+        {
+            "key": "M_EV_OCHU_08",
+            "value": "完成5次超高難度　食腐獸考驗"
+        },
+        {
+            "key": "M_EV_OCHU_09",
+            "value": "【協力】完成1次超高難度　食腐獸考驗"
+        },
+        {
+            "key": "M_EV_OCHU_10",
+            "value": "【協力】完成3次超高難度　食腐獸考驗"
+        },
+        {
+            "key": "M_EV_OCHU_11",
+            "value": "【協力】完成5次超高難度　食腐獸考驗"
         },
         {
             "key": "M_ART_CRF_05_01",
@@ -2581,6 +2909,14 @@
             "value": "募集50名兵員"
         },
         {
+            "key": "MG_PR_002_011",
+            "value": "募集55名兵員"
+        },
+        {
+            "key": "MG_PR_002_012",
+            "value": "募集60名兵員"
+        },
+        {
             "key": "MG_PR_003_001",
             "value": "讓兵員覺醒1次"
         },
@@ -2673,6 +3009,26 @@
             "value": "讓兵員覺醒300次"
         },
         {
+            "key": "MG_PR_003_024",
+            "value": "讓兵員覺醒320次"
+        },
+        {
+            "key": "MG_PR_003_025",
+            "value": "讓兵員覺醒340次"
+        },
+        {
+            "key": "MG_PR_003_026",
+            "value": "讓兵員覺醒360次"
+        },
+        {
+            "key": "MG_PR_003_027",
+            "value": "讓兵員覺醒380次"
+        },
+        {
+            "key": "MG_PR_003_028",
+            "value": "讓兵員覺醒400次"
+        },
+        {
             "key": "MG_PR_004_001",
             "value": "讓兵員極限突破1次"
         },
@@ -2763,6 +3119,26 @@
         {
             "key": "MG_PR_004_023",
             "value": "讓兵員極限突破300次"
+        },
+        {
+            "key": "MG_PR_004_024",
+            "value": "讓兵員極限突破320次"
+        },
+        {
+            "key": "MG_PR_004_025",
+            "value": "讓兵員極限突破340次"
+        },
+        {
+            "key": "MG_PR_004_026",
+            "value": "讓兵員極限突破360次"
+        },
+        {
+            "key": "MG_PR_004_027",
+            "value": "讓兵員極限突破380次"
+        },
+        {
+            "key": "MG_PR_004_028",
+            "value": "讓兵員極限突破400次"
         },
         {
             "key": "M_QEST_001",
@@ -5857,28 +6233,572 @@
             "value": "強化70次公會石像"
         },
         {
+            "key": "M_MONTHLY_0682",
+            "value": "完成20次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0683",
+            "value": "完成40次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0684",
+            "value": "完成60次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0685",
+            "value": "完成80次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0686",
+            "value": "完成100次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0687",
+            "value": "完成120次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0688",
+            "value": "完成140次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0689",
+            "value": "完成160次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0690",
+            "value": "完成180次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0691",
+            "value": "完成200次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0692",
+            "value": "完成220次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0693",
+            "value": "完成240次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0694",
+            "value": "完成260次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0695",
+            "value": "完成280次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0696",
+            "value": "完成300次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0697",
+            "value": "完成320次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0698",
+            "value": "完成340次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0699",
+            "value": "完成360次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0700",
+            "value": "完成380次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0701",
+            "value": "完成400次劇情任務"
+        },
+        {
+            "key": "M_MONTHLY_0702",
+            "value": "完成10次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0703",
+            "value": "完成20次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0704",
+            "value": "完成30次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0705",
+            "value": "完成40次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0706",
+            "value": "完成50次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0707",
+            "value": "完成60次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0708",
+            "value": "完成70次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0709",
+            "value": "完成80次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0710",
+            "value": "完成90次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0711",
+            "value": "完成100次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0712",
+            "value": "完成110次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0713",
+            "value": "完成120次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0714",
+            "value": "完成130次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0715",
+            "value": "完成140次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0716",
+            "value": "完成150次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0717",
+            "value": "完成170次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0718",
+            "value": "完成190次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0719",
+            "value": "完成210次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0720",
+            "value": "完成230次困難任務"
+        },
+        {
+            "key": "M_MONTHLY_0721",
+            "value": "完成10次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0722",
+            "value": "完成20次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0723",
+            "value": "完成30次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0724",
+            "value": "完成40次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0725",
+            "value": "完成50次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0726",
+            "value": "完成60次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0727",
+            "value": "完成70次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0728",
+            "value": "完成80次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0729",
+            "value": "完成90次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0730",
+            "value": "完成100次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0731",
+            "value": "完成110次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0732",
+            "value": "完成120次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0733",
+            "value": "完成130次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0734",
+            "value": "完成140次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0735",
+            "value": "完成150次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0736",
+            "value": "完成160次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0737",
+            "value": "完成170次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0738",
+            "value": "完成180次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0739",
+            "value": "完成190次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0740",
+            "value": "完成200次協力任務"
+        },
+        {
+            "key": "M_MONTHLY_0741",
+            "value": "完成3次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0742",
+            "value": "完成6次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0743",
+            "value": "完成9次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0744",
+            "value": "完成12次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0745",
+            "value": "完成15次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0746",
+            "value": "完成18次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0747",
+            "value": "完成21次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0748",
+            "value": "完成24次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0749",
+            "value": "完成27次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0750",
+            "value": "完成30次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0751",
+            "value": "完成33次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0752",
+            "value": "完成36次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0753",
+            "value": "完成39次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0754",
+            "value": "完成42次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0755",
+            "value": "完成45次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0756",
+            "value": "完成50次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0757",
+            "value": "完成55次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0758",
+            "value": "完成60次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0759",
+            "value": "完成65次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0760",
+            "value": "完成70次經驗之間"
+        },
+        {
+            "key": "M_MONTHLY_0761",
+            "value": "在決鬥的鬥技場進行5次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0762",
+            "value": "在決鬥的鬥技場進行10次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0763",
+            "value": "在決鬥的鬥技場進行15次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0764",
+            "value": "在決鬥的鬥技場進行20次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0765",
+            "value": "在決鬥的鬥技場進行25次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0766",
+            "value": "在決鬥的鬥技場進行30次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0767",
+            "value": "在決鬥的鬥技場進行35次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0768",
+            "value": "在決鬥的鬥技場進行40次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0769",
+            "value": "在決鬥的鬥技場進行45次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0770",
+            "value": "在決鬥的鬥技場進行50次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0771",
+            "value": "在決鬥的鬥技場進行55次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0772",
+            "value": "在決鬥的鬥技場進行60次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0773",
+            "value": "在決鬥的鬥技場進行65次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0774",
+            "value": "在決鬥的鬥技場進行70次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0775",
+            "value": "在決鬥的鬥技場進行80次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0776",
+            "value": "在決鬥的鬥技場進行90次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0777",
+            "value": "在決鬥的鬥技場進行100次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0778",
+            "value": "在決鬥的鬥技場進行110次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0779",
+            "value": "在決鬥的鬥技場進行120次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0780",
+            "value": "在決鬥的鬥技場進行130次對戰"
+        },
+        {
+            "key": "M_MONTHLY_0781",
+            "value": "於探險陸行鳥收取10次道具"
+        },
+        {
+            "key": "M_MONTHLY_0782",
+            "value": "於探險陸行鳥收取15次道具"
+        },
+        {
+            "key": "M_MONTHLY_0783",
+            "value": "於探險陸行鳥收取20次道具"
+        },
+        {
+            "key": "M_MONTHLY_0784",
+            "value": "於探險陸行鳥收取25次道具"
+        },
+        {
+            "key": "M_MONTHLY_0785",
+            "value": "於探險陸行鳥收取30次道具"
+        },
+        {
+            "key": "M_MONTHLY_0786",
+            "value": "於探險陸行鳥收取35次道具"
+        },
+        {
+            "key": "M_MONTHLY_0787",
+            "value": "於探險陸行鳥收取40次道具"
+        },
+        {
+            "key": "M_MONTHLY_0788",
+            "value": "於探險陸行鳥收取45次道具"
+        },
+        {
+            "key": "M_MONTHLY_0789",
+            "value": "於探險陸行鳥收取50次道具"
+        },
+        {
+            "key": "M_MONTHLY_0790",
+            "value": "於探險陸行鳥收取55次道具"
+        },
+        {
+            "key": "M_MONTHLY_0791",
+            "value": "於探險陸行鳥收取60次道具"
+        },
+        {
+            "key": "M_MONTHLY_0792",
+            "value": "於探險陸行鳥收取65次道具"
+        },
+        {
+            "key": "M_MONTHLY_0793",
+            "value": "於探險陸行鳥收取70次道具"
+        },
+        {
+            "key": "M_MONTHLY_0794",
+            "value": "於探險陸行鳥收取75次道具"
+        },
+        {
+            "key": "M_MONTHLY_0795",
+            "value": "於探險陸行鳥收取80次道具"
+        },
+        {
+            "key": "M_MONTHLY_0796",
+            "value": "於探險陸行鳥收取85次道具"
+        },
+        {
+            "key": "M_MONTHLY_0797",
+            "value": "於探險陸行鳥收取90次道具"
+        },
+        {
+            "key": "M_MONTHLY_0798",
+            "value": "強化3次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0799",
+            "value": "強化6次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0800",
+            "value": "強化9次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0801",
+            "value": "強化12次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0802",
+            "value": "強化15次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0803",
+            "value": "強化18次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0804",
+            "value": "強化21次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0805",
+            "value": "強化24次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0806",
+            "value": "強化27次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0807",
+            "value": "強化30次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0808",
+            "value": "強化33次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0809",
+            "value": "強化36次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0810",
+            "value": "強化39次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0811",
+            "value": "強化42次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0812",
+            "value": "強化45次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0813",
+            "value": "強化50次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0814",
+            "value": "強化55次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0815",
+            "value": "強化60次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0816",
+            "value": "強化65次公會石像"
+        },
+        {
+            "key": "M_MONTHLY_0817",
+            "value": "強化70次公會石像"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "使用500個幻導石"
         },
         {
             "key": "M_LAPS_P_LUCA_02",
-            "value": "使用3000個幻導石"
+            "value": "使用3,000個幻導石"
         },
         {
             "key": "M_LAPS_P_LUCA_03",
-            "value": "使用6000個幻導石"
+            "value": "使用6,000個幻導石"
         },
         {
             "key": "M_LAPS_P_LUCA_04",
-            "value": "使用12000個幻導石"
+            "value": "使用12,000個幻導石"
         },
         {
             "key": "M_LAPS_P_LUCA_05",
-            "value": "使用24000個幻導石"
+            "value": "使用24,000個幻導石"
         },
         {
             "key": "M_LAPS_P_LUCA_06",
-            "value": "使用50000個幻導石"
+            "value": "使用50,000個幻導石"
         },
         {
             "key": "M_LAPS_P_VKTR_01",
@@ -5886,23 +6806,23 @@
         },
         {
             "key": "M_LAPS_P_VKTR_02",
-            "value": "使用3000個幻導石"
+            "value": "使用3,000個幻導石"
         },
         {
             "key": "M_LAPS_P_VKTR_03",
-            "value": "使用6000個幻導石"
+            "value": "使用6,000個幻導石"
         },
         {
             "key": "M_LAPS_P_VKTR_04",
-            "value": "使用12000個幻導石"
+            "value": "使用12,000個幻導石"
         },
         {
             "key": "M_LAPS_P_VKTR_05",
-            "value": "使用24000個幻導石"
+            "value": "使用24,000個幻導石"
         },
         {
             "key": "M_LAPS_P_VKTR_06",
-            "value": "使用50000個幻導石"
+            "value": "使用50,000個幻導石"
         },
         {
             "key": "M_GL_LAPS_P_FRVA_01",
@@ -5910,23 +6830,23 @@
         },
         {
             "key": "M_GL_LAPS_P_FRVA_02",
-            "value": "使用3000個幻導石"
+            "value": "使用3,000個幻導石"
         },
         {
             "key": "M_GL_LAPS_P_FRVA_03",
-            "value": "使用6000個幻導石"
+            "value": "使用6,000個幻導石"
         },
         {
             "key": "M_GL_LAPS_P_FRVA_04",
-            "value": "使用12000個幻導石"
+            "value": "使用12,000個幻導石"
         },
         {
             "key": "M_GL_LAPS_P_FRVA_05",
-            "value": "使用24000個幻導石"
+            "value": "使用24,000個幻導石"
         },
         {
             "key": "M_GL_LAPS_P_FRVA_06",
-            "value": "使用50000個幻導石"
+            "value": "使用50,000個幻導石"
         },
         {
             "key": "M_LAPS_P_VNLA_01",
@@ -5934,23 +6854,23 @@
         },
         {
             "key": "M_LAPS_P_VNLA_02",
-            "value": "使用3000個幻導石"
+            "value": "使用3,000個幻導石"
         },
         {
             "key": "M_LAPS_P_VNLA_03",
-            "value": "使用6000個幻導石"
+            "value": "使用6,000個幻導石"
         },
         {
             "key": "M_LAPS_P_VNLA_04",
-            "value": "使用12000個幻導石"
+            "value": "使用12,000個幻導石"
         },
         {
             "key": "M_LAPS_P_VNLA_05",
-            "value": "使用24000個幻導石"
+            "value": "使用24,000個幻導石"
         },
         {
             "key": "M_LAPS_P_VNLA_06",
-            "value": "使用50000個幻導石"
+            "value": "使用50,000個幻導石"
         },
         {
             "key": "M_LAPS_P_WROL_01",
@@ -5958,23 +6878,23 @@
         },
         {
             "key": "M_LAPS_P_WROL_02",
-            "value": "使用3000個幻導石"
+            "value": "使用3,000個幻導石"
         },
         {
             "key": "M_LAPS_P_WROL_03",
-            "value": "使用6000個幻導石"
+            "value": "使用6,000個幻導石"
         },
         {
             "key": "M_LAPS_P_WROL_04",
-            "value": "使用12000個幻導石"
+            "value": "使用12,000個幻導石"
         },
         {
             "key": "M_LAPS_P_WROL_05",
-            "value": "使用24000個幻導石"
+            "value": "使用24,000個幻導石"
         },
         {
             "key": "M_LAPS_P_WROL_06",
-            "value": "使用50000個幻導石"
+            "value": "使用50,000個幻導石"
         },
         {
             "key": "M_LAPS_P_QILF_01",
@@ -5982,23 +6902,71 @@
         },
         {
             "key": "M_LAPS_P_QILF_02",
-            "value": "使用3000個幻導石"
+            "value": "使用3,000個幻導石"
         },
         {
             "key": "M_LAPS_P_QILF_03",
-            "value": "使用6000個幻導石"
+            "value": "使用6,000個幻導石"
         },
         {
             "key": "M_LAPS_P_QILF_04",
-            "value": "使用12000個幻導石"
+            "value": "使用12,000個幻導石"
         },
         {
             "key": "M_LAPS_P_QILF_05",
-            "value": "使用24000個幻導石"
+            "value": "使用24,000個幻導石"
         },
         {
             "key": "M_LAPS_P_QILF_06",
-            "value": "使用50000個幻導石"
+            "value": "使用50,000個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_01",
+            "value": "使用500個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_02",
+            "value": "使用3,000個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_03",
+            "value": "使用6,000個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_04",
+            "value": "使用12,000個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_05",
+            "value": "使用24,000個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_06",
+            "value": "使用50,000個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_DELT_01",
+            "value": "使用500個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_DELT_02",
+            "value": "使用3,000個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_DELT_03",
+            "value": "使用6,000個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_DELT_04",
+            "value": "使用12,000個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_DELT_05",
+            "value": "使用24,000個幻導石"
+        },
+        {
+            "key": "M_LAPS_P_DELT_06",
+            "value": "使用50,000個幻導石"
         },
         {
             "key": "M_COMEBACK_0001",

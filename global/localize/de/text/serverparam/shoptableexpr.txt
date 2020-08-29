@@ -667,6 +667,70 @@
         {
             "key": "IT_SET_SMVC_VE_EXP",
             "value": "Ein besonderes Paket mit Wachstumseiern (MR), Wachstumseiern (SR) und Gilkröten (L)! Unverzichtbar bei der Verbesserung von Visionskarten!"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "Ein besonderes Paket, das Regenbogenfarbene Visionskugeln sowie ein Regenbogen-Gedankenfragment enthält!"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "Ein besonderes Paket mit Wind-Alkrists, (Rot), Statuen des Betenden Engels (Rot), Statuen des Lauernden Lindwurms (Rot) und Verschwommenen Erinnerungen (Rot)."
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "Ein besonderes Paket mit Wind-Alkrists, (Gelb), Statuen des Betenden Engels (Gelb), Statuen des Lauernden Lindwurms (Gelb) und Verschwommenen Erinnerungen (Gelb)."
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "Ein besonderes Paket mit Wind-Alkrists, (Violett), Statuen des Betenden Engels (Violett), Statuen des Lauernden Lindwurms (Violett) und Verschwommenen Erinnerungen (Violett)."
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "Ein besonderes Paket, das ERF-Würfel der Größen (L) und (XL) enthält!"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "Ein besonderes Paket, das Expeditionstickets (5 Std./10 Std.) enthält, mit denen Chocobo-Expeditionen beschleunigt werden können!"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "Ein besonderes Paket, das Wind-Gedankenfragmente, Wind-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Wind-Erweckungsprismen enthält! Perfekt zur Erweckung von Windeinheiten!"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "Ein besonderes Paket mit [UR] „Oldoa“-Einheitenfragmenten (benötigt für Limitbrüche), Wind-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogenfarbenen Visionskugeln und einem Regenbogen-Gedankenfragment!"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "Ein besonderes Paket mit [UR] „Agrias“-Einheitenfragmenten (benötigt für Limitbrüche), Eis-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogenfarbenen Visionskugeln und einem Regenbogen-Gedankenfragment!"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "Ein besonderes Paket, das ein „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket und eine Regenbogenfarbene Visionskugel enthält! * Das Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "Ein besonderes Paket, das Eis-Gedankenfragmente, Eis-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Eis-Erweckungsprismen enthält! Perfekt zur Erweckung von Eiseinheiten!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "Ein besonderes Paket, das Feuer-Gedankenfragmente, Feuer-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Feuer-Erweckungsprismen enthält! Perfekt zur Erweckung von Feuereinheiten!"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "Ein besonderes Paket mit einem „Auswählbarer Elementalkrist (Rot) x70“-Beschwörungsticket, einem „Auswählbarer Elementalkrist (Gelb) x70“-Beschwörungsticket“, Statuen des Betenden Engels (Gelb/Rot), Statuen des Lauernden Lindwurms (Gelb/Rot) und Verschwommenen Erinnerungen (Gelb/Rot)."
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "Ein Paket voller ERF-Würfel (S/M)! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "Ein Paket voller Wachstumseier (N/R/SR)! Unverzichtbar bei der Verbesserung von Visionskarten!"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "Ein Paket voller Adamantit (S/M/L)! Unverzichtbar bei der Verbesserung von Ausrüstung!"
         }
     ]
 }

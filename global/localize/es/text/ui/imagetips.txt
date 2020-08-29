@@ -30,7 +30,7 @@
         },
         {
             "key": "GuidanceTips_ChallengeMission",
-            "value": "Inicio"
+            "value": "Pantalla principal"
         },
         {
             "key": "GuidanceTips_UnitStrength",

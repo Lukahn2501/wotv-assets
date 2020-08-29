@@ -38,11 +38,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Texte test •"
+            "value": "• Statues de guilde •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Passer le tutoriel de ... ?"
+            "value": "Voulez-vous lancer le tutoriel sur les statues de guilde ?"
         },
         {
             "key": "SKIP_YES",

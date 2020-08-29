@@ -1,6 +1,10 @@
 {
     "infos": [
         {
+            "key": "VideoGacha_Normal",
+            "value": ""
+        },
+        {
             "key": "init",
             "value": ""
         },
@@ -850,23 +854,23 @@
         },
         {
             "key": "5step-gacha_gl20200812_10_step5",
-            "value": ""
+            "value": "【8月】召喚メダルA×100が付属"
         },
         {
             "key": "5step-gacha_gl20200812_10_step4",
-            "value": ""
+            "value": "属性の想いの欠片×50選択召喚券×1が付属"
         },
         {
             "key": "5step-gacha_gl20200812_10_step3",
-            "value": ""
+            "value": "覚醒輝源×50選択召喚券×1が付属"
         },
         {
             "key": "5step-gacha_gl20200812_10_step2",
-            "value": ""
+            "value": "【8月】召喚メダルA×100が付属"
         },
         {
             "key": "5step-gacha_gl20200812_10_step1",
-            "value": ""
+            "value": "【8月】召喚メダルA×100が付属"
         },
         {
             "key": "5step-gacha_gl20200812_10",
@@ -875,6 +879,166 @@
         {
             "key": "p_gacha_vc_gl20200812_10",
             "value": "【8月】召喚メダルA×100が付属"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_01",
+            "value": "【8月】召喚メダルB×10が付属"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "【8月】召喚メダルB×100が付属"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step3",
+            "value": "虹の想いの欠片×5が付属"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step2",
+            "value": "虹の想いの欠片×3が付属"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step1",
+            "value": "虹の想いの欠片×1が付属"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step5",
+            "value": "URのユニット1体確定"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step4",
+            "value": "属性の想いの欠片×50選択召喚券×1が付属"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step3",
+            "value": "覚醒輝源×50選択召喚券×1が付属"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step2",
+            "value": "MR以上のユニット/ビジョンカード1枠確定"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step1",
+            "value": "MR以上のユニット/ビジョンカード1枠確定"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200819_10",
+            "value": "【8月】召喚メダルB×100が付属"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_01",
+            "value": "【8月】召喚メダルB×10が付属"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "【8月】召喚メダルB×100が付属"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step3",
+            "value": "FFTコラボURユニット1体確定"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step2",
+            "value": "URユニット/ビジョンカード1枠確定"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step1",
+            "value": "URユニット/ビジョンカード1枠確定"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_p_gacha_4unitvc_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_1",
+            "value": "【第2弾】FFTコラボ召喚メダルAが10枚付属"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_10",
+            "value": "【第2弾】FFTコラボ召喚メダルAが100枚付属"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_1",
+            "value": "【第2弾】FFTコラボ召喚メダルBが10枚付属"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_10",
+            "value": "【第2弾】FFTコラボ召喚メダルBが100枚付属"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step15",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step14",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step13",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step12",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step11",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step10",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step9",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step8",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step7",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step6",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step5",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step4",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step3",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step2",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step1",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10",
+            "value": ""
         },
         {
             "key": "global_pickup_sterne_20200325_01",

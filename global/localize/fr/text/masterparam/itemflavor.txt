@@ -1081,6 +1081,66 @@
             "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre rouge est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien mage au bâton, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle, sa couleur déterminant alors le type de souvenirs que cette pierre renferme."
         },
         {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre verte est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien chevalier sacré, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre bleue est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien chevalier sacré, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre violette est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien chevalier sacré, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre jaune est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien chevalier sacré, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre rouge est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien chevalier sacré, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre verte est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien écuyer, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre bleue est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien écuyer, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre violette est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien écuyer, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre jaune est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien écuyer, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre rouge est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien écuyer, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre verte est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien machiniste, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre bleue est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien machiniste, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre violette est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien machiniste, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre jaune est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien machiniste, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "Contrairement à ce que sa forme sphérique pourrait laisser croire, cette pierre rouge est une formation naturelle. On raconte que, reposant près du lieu d'entraînement d'un ancien machiniste, elle aurait assisté à la libération de sa puissance et en aurait absorbé le souvenir. Il est possible d'en hériter à son tour en s'entraînant avec elle."
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Ce minerai d'un vert chatoyant ressemble à une flamme dansante. Il permet de catalyser le pouvoir des êtres sensibles au feu, sous réserve d'en rassembler assez. Sa couleur permet de déterminer l'étendue du pouvoir qu'il peut éveiller."
         },
@@ -1790,6 +1850,26 @@
         },
         {
             "key": "IT_PI_LW_SIMR",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
             "value": ""
         },
         {
@@ -2581,6 +2661,10 @@
             "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Armure de la lumière. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner un Sortilège. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un joaillier."
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Graver des runes dans le métal d'un équipement en train d'être forgé revient à y appliquer un petit champ magique qui imprègne l'ouvrage de divers pouvoirs. Ce sceau en particulier agit sur les PV conférés par l'équipement."
         },
@@ -2773,6 +2857,10 @@
             "value": ""
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Bien que l'apparence et la couleur du ticket donnent quelques indices sur le contenu de ce dernier, le résultat de l'invocation dépend avant tout des esprits du lien qui se trouvent à l'intérieur."
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": ""
         },
@@ -2813,6 +2901,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -2822,6 +2914,18 @@
         },
         {
             "key": "IT_EC_FFT_2_B",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
             "value": ""
         },
         {
@@ -2841,20 +2945,16 @@
             "value": ""
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": ""
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": ""
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": ""
         },
         {
             "key": "IT_EC_FF1_2",
             "value": ""
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Bien que l'apparence et la couleur du ticket donnent quelques indices sur le contenu de ce dernier, le résultat de l'invocation dépend avant tout des esprits du lien qui se trouvent à l'intérieur."
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2917,6 +3017,10 @@
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
@@ -2937,6 +3041,14 @@
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
@@ -2950,90 +3062,6 @@
         },
         {
             "key": "IT_US_SE_SB_EXP_03",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
@@ -3065,16 +3093,32 @@
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Bien que l'apparence et la couleur du ticket donnent quelques indices sur le contenu de ce dernier, le résultat de l'invocation dépend avant tout des esprits du lien qui se trouvent à l'intérieur."
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Bien que l'apparence et la couleur du ticket donnent quelques indices sur le contenu de ce dernier, le résultat de l'invocation dépend avant tout des esprits du lien qui se trouvent à l'intérieur."
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Bien que l'apparence et la couleur du ticket donnent quelques indices sur le contenu de ce dernier, le résultat de l'invocation dépend avant tout des esprits du lien qui se trouvent à l'intérieur."
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
-            "key": "IT_US_G_N_TW_10",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Son utilisateur peut ainsi mettre la main sur divers objets tels que des orbes, des matériaux ou encore des remèdes. On raconte que le contenu du ticket dépend des souhaits qu'il renferme."
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -3098,10 +3142,6 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_05",
-            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
         },
         {
@@ -3337,10 +3377,6 @@
             "value": ""
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": ""
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": ""
         },
@@ -3353,6 +3389,10 @@
             "value": ""
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": ""
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": ""
         },
@@ -3362,6 +3402,14 @@
         },
         {
             "key": "IT_VPI_LW_CBVPARTY1",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
             "value": ""
         },
         {
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Présentée en offrande à une statue de lion, cette amulette amplifie sa capacité à augmenter l'attaque. Elle est si bien taillée en forme de mâchoire qu'on reconnaît l'essence de l'animal au premier regard. On raconte qu'il est possible d'augmenter la bénédiction de la statue en lui offrant toujours plus de ces amulettes."
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Un ticket rarissime qui permet à son détenteur de sélectionner et d'invoquer une vision d'une immense rareté parmi celles contenues dans les cristaux, quelle que soit son ère ou son origine. Tous comme les autres tickets, il est constitué non pas de papier mais d'un précieux minerai."
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Un objet qui offre un choix lors d'une invocation reste cependant quelque chose de rare. Tout comme les autres tickets, il est possible de se faire une idée sur son contenu en se fiant à sa couleur et son apparence."
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Son utilisateur peut ainsi mettre la main sur divers objets tels que des orbes, des matériaux ou encore des remèdes. On raconte que le contenu du ticket dépend des souhaits qu'il renferme."
         }
     ]
 }

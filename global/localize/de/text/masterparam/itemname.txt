@@ -1081,6 +1081,66 @@
             "value": "Erinnerungen des Magiers (Rot)"
         },
         {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "Erinnerungen des Heiligen Ritters (Grün)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "Erinnerungen des Heiligen Ritters (Blau)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "Erinnerungen des Heiligen Ritters (Violett)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "Erinnerungen des Heiligen Ritters (Gelb)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "Erinnerungen des Heiligen Ritters (Rot)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "Erinnerungen des Knappen (Delita: Grün)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "Erinnerungen des Knappen (Delita: Blau)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "Erinnerungen des Knappen (Delita: Violett)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "Erinnerungen des Knappen (Delita: Gelb)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "Erinnerungen des Knappen (Delita: Rot)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "Erinnerungen des Maschinisten (Grün)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "Erinnerungen des Maschinisten (Blau)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "Erinnerungen des Maschinisten (Violett)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "Erinnerungen des Maschinisten (Gelb)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "Erinnerungen des Maschinisten (Rot)"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Feuer-Alkrist (Grün)"
         },
@@ -1791,6 +1851,26 @@
         {
             "key": "IT_PI_LW_SIMR",
             "value": "„Seymore“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "„Oldoa“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "„Ravesse“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "„Agrias“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "„Delita“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
+            "value": "„Mustadio“-Einheitenfragment"
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -2581,6 +2661,10 @@
             "value": "[Anleitung] Rüstung des Lichts"
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "[Anleitung] Zauberduft"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Siegel des Lebens"
         },
@@ -2773,6 +2857,10 @@
             "value": "FFXIV-Beschwörungsmedaille"
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": "FFXIV-Beschwörungsticket"
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "März-Beschwörungsmedaille A"
         },
@@ -2813,6 +2901,10 @@
             "value": "August-Beschwörungsmedaille A"
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "August-Beschwörungsmedaille B"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT-Eventmedaille"
         },
@@ -2825,12 +2917,24 @@
             "value": "FFT-Beschwörungsmedaille B"
         },
         {
+            "key": "IT_EC_FFT_3",
+            "value": "FFT-Eventmedaille (Runde 2)"
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "FFT-Beschwörungsmedaille A (Runde 2)"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "FFT-Beschwörungsmedaille B (Runde 2)"
+        },
+        {
             "key": "IT_EC_TOWER_001",
             "value": "Turmmedaille"
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": "Juni-Eventmedaille"
+            "value": "„Rundall, Bedrohung im Westen“-Medaille"
         },
         {
             "key": "IT_EC_EV03_1",
@@ -2841,20 +2945,16 @@
             "value": "August-Eventmedaille"
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": "Schokopudding-Kraftprobenmedaille"
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": "„Weißes Marshmallow“-Kraftprobenmedaille"
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": "FFI-Eventmedaille"
         },
         {
             "key": "IT_EC_FF1_2",
             "value": "FFI-Beschwörungsmedaille"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FFT-Beschwörungsticket"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2917,6 +3017,10 @@
             "value": "„Auswählbares Erweckungsprisma x50“-Beschwörungsticket"
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "„Auswählbares Erweckungsprisma x200“-Beschwörungsticket"
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": "„Auswählbares Gedankenfragment x50“-Beschwörungsticket"
         },
@@ -2937,6 +3041,14 @@
             "value": "„Auswählbarer Elementalkrist (Violett) x70“-Beschwörungsticket"
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "„Auswählbarer Elementalkrist (Gelb) x70“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "„Auswählbarer Elementalkrist (Rot) x70“-Beschwörungsticket"
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": "„Auswählbares Gedankenfragment x20“-Beschwörungsticket"
         },
@@ -2951,90 +3063,6 @@
         {
             "key": "IT_US_SE_SB_EXP_03",
             "value": "„Auswählbarer Elementmaginit (M) x50“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": "„Auswählbare Joberinnerungen (Grün) x1“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": "„Auswählbare Joberinnerungen (Blau) x2“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": "„Auswählbare Joberinnerungen (Violett) x3“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": "„Auswählbare Joberinnerungen (Gelb) x4“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": "„Auswählbare Joberinnerungen (Rot) x5“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": "„Auswählbare [UR]-Einheit“-Beschwörungsticket A"
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": "„Auswählbares Erweckungsprisma x10“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "„Auswählbarer Elementmaginit (M) x500“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "„Auswählbarer Elementmaginit (M) x10“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "„Auswählbarer Elementmaginit (M) x25“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "„Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "„Auswählbare empfohlene [UR]-Einheit“-Beschwörungsticket A"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "„Auswählbare empfohlene [MR]-Einheit“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": "„Auswählbare [MR]-Einheit“-Beschwörungsticket A"
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": "„Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
-            "value": "„Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket"
         },
         {
             "key": "IT_US_G_U_UR_01",
@@ -3065,16 +3093,32 @@
             "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "FFT-Beschwörungsticket"
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "„Auswählbare Joberinnerungen (Grün) x1“-Beschwörungsticket"
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "FFXIV-Beschwörungsticket"
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "„Auswählbare Joberinnerungen (Blau) x2“-Beschwörungsticket"
         },
         {
-            "key": "IT_US_G_N_TW_10",
-            "value": "[Porzellanturm] Normales Beschwörungsticket (10-malig)"
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "„Auswählbare Joberinnerungen (Violett) x3“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "„Auswählbare Joberinnerungen (Gelb) x4“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "„Auswählbare Joberinnerungen (Rot) x5“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "„Auswählbare [UR]-Einheit“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "„Auswählbares Erweckungsprisma x10“-Beschwörungsticket"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -3099,10 +3143,6 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "„Auswählbares Erweckungsprisma xNN“-Beschwörungsticket"
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
-            "value": "„Auswählbares Erweckungsprisma x200“-Beschwörungsticket"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3337,10 +3377,6 @@
             "value": "„Kampf um den Angebeteten“-Visionskartenfragment"
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": "„Zweiköpfiger Drache, Schlangengleiches Zwillingsgrauen“-Visionskartenfragment"
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": "„Neidgetriebene Magierin“-Visionskartenfragment"
         },
@@ -3353,6 +3389,10 @@
             "value": "„Falsche Gelübde, ungetäuschte Herzen“-Visionskartenfragment"
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": "„Zweiköpfiger Drache, Schlangengleiches Zwillingsgrauen“-Visionskartenfragment"
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": "„Todesmaschine“-Visionskartenfragment"
         },
@@ -3363,6 +3403,14 @@
         {
             "key": "IT_VPI_LW_CBVPARTY1",
             "value": "„Flüchtiges Festmahl unter Blüten“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "„Roter Chocobo“-Visionskartenfragment"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
+            "value": "„Halmflöte“-Visionskartenfragment"
         },
         {
             "key": "IT_VC_EXP_01",
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Mächtiger Kiefer des Löwen (L)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Schokopudding-Kraftprobenmedaille"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "„Weißes Marshmallow“-Kraftprobenmedaille"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "„Auswählbarer Elementmaginit (M) x500“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "„Auswählbarer Elementmaginit (M) x10“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "„Auswählbarer Elementmaginit (M) x25“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "„Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "„Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "„Auswählbare empfohlene [UR]-Einheit“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "„Auswählbare empfohlene [MR]-Einheit“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "„Auswählbare [MR]-Einheit“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "„Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "„Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "„Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "[Porzellanturm] Normales Beschwörungsticket (10-malig)"
         }
     ]
 }

@@ -1285,6 +1285,30 @@
             "value": "Une armure en platine d'une incroyable résistance. Le platine a longtemps été relégué au rang de métal d'apparat, tant son poids le rendait handicapant sur le champ de bataille. Mais une succession de progrès techniques a fini par mettre au point une armure à la fois aussi légère et manœuvrable qu'une armure normale. Elle se vend à prix d'or, mais ceux qui ont fait l'investissement ne le regrettent pas."
         },
         {
+            "key": "AF_FF1_ARM_002",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
+        },
+        {
             "key": "AF_LW_HLM_001",
             "value": "Un casque en bronze recouvrant toute la tête. Bien qu'il n'assure pas une protection extrêmement fiable, son prix reste abordable, ce qui en fait l'option par défaut des soldats de toutes origines."
         },
@@ -1511,6 +1535,30 @@
         {
             "key": "AF_LW_CLT_004_5",
             "value": "Un manteau taillé par des artisans attentifs au moindre détail. Ses broderies d'une délicatesse extrême enchantent même les profanes. On dit qu'il augmenterait la spiritualité de son porteur et le doterait d'une grande lucidité."
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
         },
         {
             "key": "AF_LW_RNG_001",
@@ -1901,6 +1949,26 @@
             "value": "Un odachi qu'on surnommait jadis l'épée du démon. Tous ceux qui l'ont manié ont sombré dans la folie et dans la ruine. Un bretteur ordinaire ne pourrait pas même le soulever, mais Seymore l'utilise avec aisance. L'arme elle-même semble s'être attachée à son propriétaire après tant de combats partagés ensemble, au point de se purifier de sa propre corruption, ne gardant pour elle que sa triste renommée."
         },
         {
+            "key": "AF_ACC_LW_ORDR_1",
+            "value": "Un pagne qui se concentre sur l'essentiel et permet une grande liberté de mouvement. Oldoa n'appréciant pas l'armure robuste à laquelle il était rattaché à l'origine, elle s'en est finalement débarrassée. Reconnaissant dans ce costume sa propre efficacité et sa propre beauté, Oldoa a décidé de le nommer d'après elle."
+        },
+        {
+            "key": "AF_SWO_LW_LVES_1",
+            "value": "L'épée que portait le père de Raviesse. La soif de sang inextinguible de son ancien propriétaire reste attachée à ce qui n'était à l'origine qu'une simple épée. Si les massacres qui l'ont imprégnée de ces émotions toxiques continuent, elle pourrait même devenir maudite. "
+        },
+        {
+            "key": "AF_ACC_FFT_AGRA_1",
+            "value": "Demi-armure de plaques portée par la chevalière Agrias au service de la famille royale Atkascha. Les franges de la partie haute renforcée s'évasent quant à elles comme une jupe digne d'une chevalière aussi élégante qu'Agrias."
+        },
+        {
+            "key": "AF_ARM_FFT_DELT_1",
+            "value": "Une solide cuirasse tannée en secret pour Delita par son défunt père, un paysan au service de la Maison Béoulve. Cette pièce en cuir de simple facture confère néanmoins une certaine protection et permet de se déplacer librement, ce qui la rend très utile. C'est Tietra, la petite sœur de Delita, qui en a ornementé les manches, dans l'espoir de la rendre plus élégante pour l'entrée de son frère à l'académie militaire."
+        },
+        {
+            "key": "AF_GUN_FFT_MSTD_2",
+            "value": "Un fusil exhumé et remis au goût du jour par le machiniste Besrudio, qui y a aussi gravé son épitaphe. Son fils Mustadio en a hérité et a révélé, grâce à son talent de tireur hors pair, toute la précision dont était capable ce fusil, même à longue distance et malgré son canon court."
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Une épée à une main élaborée tout spécialement pour Mont par le fidèle forgeron de Leonis. Le prince ayant réclamé une arme plus facile à manier, elle a la modeste apparence d'une épée d'entraînement. Si certains auraient souhaité pour lui une arme un peu plus royale, Mont en est très satisfait."
         },
@@ -1949,6 +2017,10 @@
             "value": ""
         },
         {
+            "key": "AF_LW_SHI_003",
+            "value": ""
+        },
+        {
             "key": "AF_SWO_FFT_RAMZ_2",
             "value": "L'épée offerte par Barbaneth à son fils Ramza au moment de son entrée à l'Académie Royale des chevaliers de Gariland. L'ancien Général a fait orner la garde de motifs rappelant ceux de sa propre épée bien-aimée."
         },
@@ -1993,6 +2065,22 @@
             "value": "Une épée provenant d'un autre monde. Son splendide dessin, d'une grande délicatesse, rappelle les rayons de lumière dorés qui transpercent les nuages. On dit qu'elle aurait été maniée par un guerrier légendaire qui fit face au chaos afin de briser les chaînes du temps."
         },
         {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "Un bâton magique lourdement ornementé. Sa forme le destine bien mieux à lancer des sorts et manipuler la magie qu'au maniement à mains nues. Il est le favori de Kilphe, qui s'en sert depuis des années, et semble parfois bouger comme s'il était vivant. On raconte aussi qu'il est tout particulièrement réceptif aux sentiments inconscients de sa propriétaire et fait parfois preuve d'un léger excès de zèle. "
+        },
+        {
+            "key": "AF_BSW_LW_ORDR_2",
+            "value": "Une lame davantage faite pour écraser les ennemis que pour les couper en deux, et dont le maniement exige une force considérable. Oldoa a décidé de la nommer d'après elle-même car la force brute de l'arme reflétait bien sa propre nature : puissante et solide. "
+        },
+        {
+            "key": "AF_SWO_FFT_AGRA_2",
+            "value": "Une épée droite à double tranchant typique de la garde royale des Atkascha. Plus large qu'une épée ordinaire, elle est faite pour dévier en un coup éclair toutes les attaques de l'ennemi."
+        },
+        {
+            "key": "AF_SWO_FFT_DELT_2",
+            "value": "L'épée offerte par Barbaneth, père de Ramza, à Delita au moment de son entrée à l'Académie, en l'honneur du grand potentiel qu'il sentait émaner de ce garçon de basse naissance. La lame est aussi large que l'est l'espoir dans le cœur de Barbaneth de voir Delita devenir suffisamment fort pour protéger Ramza."
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
         },
@@ -2021,56 +2109,28 @@
             "value": "Une large épée qui brille de mille feux entre les mains d'un Chevalier de Grandshelt nommé Rain. Sa magnifique lame argentée réagit aux émotions de son propriétaire en s'embrasant à la manière d'un torrent de flammes. On raconte qu'elle a été forgée grâce à une technique spéciale, qui lui a donné la courbe caractéristique en son centre et qu'on ne retrouve nulle part ailleurs."
         },
         {
-            "key": "AF_LW_CLT_005",
-            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+            "key": "AF_FFT_ACC_001",
+            "value": "Un parfum pour femme dont le nom peut évoquer la magie, le charme ou encore la séduction. Au contact de la peau, il crée un mystérieux voile de protection autour de sa porteuse. Contrairement à ce que sa délicate fragrance pourrait laisser croire, il est composé d'ingrédients récupérés sur le cadavre encore chaud du féroce dragon rouge."
         },
         {
-            "key": "AF_LW_CLT_005_1",
-            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+            "key": "AF_FFT_ACC_001_1",
+            "value": "Un parfum pour femme dont le nom peut évoquer la magie, le charme ou encore la séduction. Au contact de la peau, il crée un mystérieux voile de protection autour de sa porteuse. Contrairement à ce que sa délicate fragrance pourrait laisser croire, il est composé d'ingrédients récupérés sur le cadavre encore chaud du féroce dragon rouge."
         },
         {
-            "key": "AF_LW_CLT_005_2",
-            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+            "key": "AF_FFT_ACC_001_2",
+            "value": "Un parfum pour femme dont le nom peut évoquer la magie, le charme ou encore la séduction. Au contact de la peau, il crée un mystérieux voile de protection autour de sa porteuse. Contrairement à ce que sa délicate fragrance pourrait laisser croire, il est composé d'ingrédients récupérés sur le cadavre encore chaud du féroce dragon rouge."
         },
         {
-            "key": "AF_LW_CLT_005_3",
-            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+            "key": "AF_FFT_ACC_001_3",
+            "value": "Un parfum pour femme dont le nom peut évoquer la magie, le charme ou encore la séduction. Au contact de la peau, il crée un mystérieux voile de protection autour de sa porteuse. Contrairement à ce que sa délicate fragrance pourrait laisser croire, il est composé d'ingrédients récupérés sur le cadavre encore chaud du féroce dragon rouge."
         },
         {
-            "key": "AF_LW_CLT_005_4",
-            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
+            "key": "AF_FFT_ACC_001_4",
+            "value": "Un parfum pour femme dont le nom peut évoquer la magie, le charme ou encore la séduction. Au contact de la peau, il crée un mystérieux voile de protection autour de sa porteuse. Contrairement à ce que sa délicate fragrance pourrait laisser croire, il est composé d'ingrédients récupérés sur le cadavre encore chaud du féroce dragon rouge."
         },
         {
-            "key": "AF_LW_CLT_005_5",
-            "value": "Une tunique confectionnée avec du platine. En plus d'être d'une grande durabilité, sa légèreté permet aux plus menus de pouvoir la porter sans mal, ce qui ne lui enlève en rien ses propriétés protectrices qui la rendent résistante aux nombreuses attaques que son propriétaire pourrait essuyer sur le champ de bataille."
-        },
-        {
-            "key": "AF_FF1_ARM_002",
-            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
-        },
-        {
-            "key": "AF_FF1_ARM_002_1",
-            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
-        },
-        {
-            "key": "AF_FF1_ARM_002_2",
-            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
-        },
-        {
-            "key": "AF_FF1_ARM_002_3",
-            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
-        },
-        {
-            "key": "AF_FF1_ARM_002_4",
-            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
-        },
-        {
-            "key": "AF_FF1_ARM_002_5",
-            "value": "Le bleu profond de cette armure venue d'un monde lointain ressort particulièrement sous ses décorations d'un rouge écarlate et sa cape jaune. On dit qu'elle appartenait à l'un des guerriers légendaires qui s'aventurèrent à travers le monde pour raviver l'éclat des cristaux."
-        },
-        {
-            "key": "AF_ROD_LW_QILF_2",
-            "value": "Un bâton magique lourdement ornementé. Sa forme le destine bien mieux à lancer des sorts et manipuler la magie qu'au maniement à mains nues. Il est le favori de Kilphe, qui s'en sert depuis des années, et semble parfois bouger comme s'il était vivant. On raconte aussi qu'il est tout particulièrement réceptif aux sentiments inconscients de sa propriétaire et fait parfois preuve d'un léger excès de zèle. "
+            "key": "AF_FFT_ACC_001_5",
+            "value": "Un parfum pour femme dont le nom peut évoquer la magie, le charme ou encore la séduction. Au contact de la peau, il crée un mystérieux voile de protection autour de sa porteuse. Contrairement à ce que sa délicate fragrance pourrait laisser croire, il est composé d'ingrédients récupérés sur le cadavre encore chaud du féroce dragon rouge."
         }
     ]
 }

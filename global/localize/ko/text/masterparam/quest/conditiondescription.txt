@@ -221,12 +221,28 @@
             "value": "유닛 '빛의 전사'의 레벨이 1 이상"
         },
         {
+            "key": "COND_HA_LW_SIMR",
+            "value": "유닛 '시무르'의 레벨이 1 이상"
+        },
+        {
             "key": "COND_HA_LW_QILF",
             "value": "유닛 '키르페'의 레벨이 1 이상"
         },
         {
-            "key": "COND_HA_LW_SIMR",
-            "value": "유닛 '시무르'의 레벨이 1 이상"
+            "key": "COND_HA_LW_ORDR",
+            "value": "유닛 '오르도아'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "유닛 '라비에스'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_FFT_DELT",
+            "value": "유닛 '딜리타'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_FFT_AGRA",
+            "value": "유닛 '아그리아스'의 레벨이 1 이상"
         },
         {
             "key": "COND_CH_LW_MONT",
@@ -489,12 +505,32 @@
             "value": "유닛 '빛의 전사'의 레벨이 40 이상"
         },
         {
+            "key": "COND_CH_LW_SIMR",
+            "value": "유닛 '시무르'의 레벨이 40 이상"
+        },
+        {
             "key": "COND_CH_LW_QILF",
             "value": "유닛 '키르페'의 레벨이 40 이상"
         },
         {
-            "key": "COND_CH_LW_SIMR",
-            "value": "유닛 '시무르'의 레벨이 40 이상"
+            "key": "COND_CH_LW_ORDR",
+            "value": "유닛 '오르도아'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "유닛 '라비에스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FFT_MSTD",
+            "value": "유닛 '무스타디오'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FFT_DELT",
+            "value": "유닛 '딜리타'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FFT_AGRA",
+            "value": "유닛 '아그리아스'의 레벨이 40 이상"
         }
     ]
 }

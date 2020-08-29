@@ -97,22 +97,6 @@
             "value": "월요일 미션"
         },
         {
-            "key": "MG_FF1_1_01",
-            "value": "FINAL FANTASY I "
-        },
-        {
-            "key": "MG_FF1_1_M_01",
-            "value": "FINAL FANTASY I [중급]"
-        },
-        {
-            "key": "MG_FF1_1_02",
-            "value": "FINAL FANTASY I [EX]"
-        },
-        {
-            "key": "MG_FF1_1_M_02",
-            "value": "[멀티] FINAL FANTASY I [EX]"
-        },
-        {
             "key": "MG_GL_DAILY_RAID_01",
             "value": "레이드 참가 일일 미션"
         },
@@ -149,6 +133,10 @@
             "value": "파이널판타지14 칠흑의 반역자 [EX]"
         },
         {
+            "key": "MG_GL_FFT_2_CH_01",
+            "value": "[제2탄] FINAL FANTASY TACTICS"
+        },
+        {
             "key": "MG_FFT_1_01",
             "value": "FINAL FANTASY TACTICS"
         },
@@ -165,6 +153,34 @@
             "value": "FINAL FANTASY TACTICS [중급]"
         },
         {
+            "key": "MG_FF1_1_01",
+            "value": "FINAL FANTASY I "
+        },
+        {
+            "key": "MG_FF1_1_M_01",
+            "value": "FINAL FANTASY I [중급]"
+        },
+        {
+            "key": "MG_FF1_1_02",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FF1_1_M_02",
+            "value": "[멀티] FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FFT_2_01",
+            "value": "[제2탄] FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_2_02",
+            "value": "[제2탄] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_2_03",
+            "value": "[멀티] [제2탄] FINAL FANTASY TACTICS [EX]"
+        },
+        {
             "key": "MG_EV_IGNT_01",
             "value": "철거인 도전"
         },
@@ -179,6 +195,14 @@
         {
             "key": "MG_MU_CSLI_01",
             "value": "[멀티] 초코 푸딩 도전"
+        },
+        {
+            "key": "MG_EV_OCHU_01",
+            "value": "오츄 도전"
+        },
+        {
+            "key": "MG_MU_OCHU_01",
+            "value": "[멀티] 오츄 도전"
         },
         {
             "key": "MG_EV_ART_CRF_01",
@@ -274,27 +298,27 @@
         },
         {
             "key": "MG_EV_ART_SCR_00",
-            "value": ""
-        },
-        {
-            "key": "MG_MU_ART_SCR_00",
-            "value": ""
-        },
-        {
-            "key": "MG_EV_ART_SCR_01",
             "value": "고난도 비전서 획득 퀘스트"
         },
         {
-            "key": "MG_MU_ART_SCR_01",
+            "key": "MG_MU_ART_SCR_00",
             "value": "[멀티] 고난도 비전서 획득 퀘스트"
         },
         {
+            "key": "MG_EV_ART_SCR_01",
+            "value": "고난도 비전서 획득 퀘스트 1"
+        },
+        {
+            "key": "MG_MU_ART_SCR_01",
+            "value": "[멀티] 고난도 비전서 획득 퀘스트 1"
+        },
+        {
             "key": "MG_EV_ART_SCR_02",
-            "value": "고난도 비전서 획득 퀘스트 II"
+            "value": "고난도 비전서 획득 퀘스트 2"
         },
         {
             "key": "MG_MU_ART_SCR_02",
-            "value": "[멀티] 고난도 비전서 획득 퀘스트 II"
+            "value": "[멀티] 고난도 비전서 획득 퀘스트 2"
         },
         {
             "key": "MG_EV_SCR_01",
@@ -529,6 +553,34 @@
             "value": "[월간 미션] 길드 석상"
         },
         {
+            "key": "MG_MONTHLY_006_1",
+            "value": "[월간 미션] 스토리 퀘스트"
+        },
+        {
+            "key": "MG_MONTHLY_006_2",
+            "value": "[월간 미션] 하드 퀘스트"
+        },
+        {
+            "key": "MG_MONTHLY_006_3",
+            "value": "[월간 미션] 멀티 퀘스트"
+        },
+        {
+            "key": "MG_MONTHLY_006_4",
+            "value": "[월간 미션] 경험의 방"
+        },
+        {
+            "key": "MG_MONTHLY_006_5",
+            "value": "[월간 미션] 결투장"
+        },
+        {
+            "key": "MG_MONTHLY_006_6",
+            "value": "[월간 미션] 탐험 초코보"
+        },
+        {
+            "key": "MG_MONTHLY_006_7",
+            "value": "[월간 미션] 길드 석상"
+        },
+        {
             "key": "MG_LAPS_P_LUCA",
             "value": "기간 한정 환도석 소비 보너스"
         },
@@ -541,10 +593,6 @@
             "value": "기간 한정 환도석 소비 보너스"
         },
         {
-            "key": "MG_COMEBACK_001",
-            "value": "복귀자 미션"
-        },
-        {
             "key": "MG_LAPS_P_VNLA",
             "value": "기간 한정 환도석 소비 보너스"
         },
@@ -555,6 +603,18 @@
         {
             "key": "MG_LAPS_P_QILF",
             "value": "기간 한정 환도석 소비 보너스"
+        },
+        {
+            "key": "MG_LAPS_P_ORDR",
+            "value": "기간 한정 환도석 소비 보너스"
+        },
+        {
+            "key": "MG_LAPS_P_DELT",
+            "value": "기간 한정 환도석 소비 보너스"
+        },
+        {
+            "key": "MG_COMEBACK_001",
+            "value": "복귀자 미션"
         }
     ]
 }

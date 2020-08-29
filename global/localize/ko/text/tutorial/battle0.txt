@@ -98,15 +98,15 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "전투 기본 조작에 관한 설명을 들으시겠습니까?"
+            "value": "전투 기본 조작에 관한 설명을 보시겠습니까?"
         },
         {
             "key": "SKIP_YES",
-            "value": "듣는다"
+            "value": "네"
         },
         {
             "key": "SKIP_NO",
-            "value": "듣지 않는다"
+            "value": "아니요"
         },
         {
             "key": "TALK_003",

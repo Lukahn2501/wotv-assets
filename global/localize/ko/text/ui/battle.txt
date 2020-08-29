@@ -65,6 +65,10 @@
             "value": "반복"
         },
         {
+            "key": "MENU_SKIP",
+            "value": "건너뛰기"
+        },
+        {
             "key": "MENU_SPEED_DEFAULT",
             "value": "일반"
         },
@@ -279,6 +283,14 @@
         {
             "key": "RESULT_DIALOG_REMATCH_DESC",
             "value": "'재도전'을 선택하면 완료 후의 영상은 건너뛰게 됩니다."
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "추가 ★ 획득"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "이 플레이어의 방어 파티에<br>설정되지 않은 유닛 수만큼<br><color=#F0C040>★ × {0}개</color>를 추가 획득했습니다."
         },
         {
             "key": "INTIMACYUP_BONUS_TITLE",
@@ -619,18 +631,6 @@
         {
             "key": "BATTLE_HEIGHT_ABBREV",
             "value": "h"
-        },
-        {
-            "key": "MENU_SKIP",
-            "value": "건너뛰기"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_TITLE",
-            "value": "추가 ★ 획득"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_DESC",
-            "value": "이 플레이어가<br>설정하지 않은 방어 파티 분량의<br><color=#F0C040>★ × {0}개</color>도 획득했습니다."
         },
         {
             "key": "RESULT_RETRY",

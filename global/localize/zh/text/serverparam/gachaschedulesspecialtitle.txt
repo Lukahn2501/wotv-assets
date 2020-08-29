@@ -877,6 +877,166 @@
             "value": "確保1張UR幻兵卡10連召喚"
         },
         {
+            "key": "new-gacha_unit_vc_gl20200819_01",
+            "value": "新兵員精選召喚"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "新兵員精選召喚　10連召喚"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step3",
+            "value": "3 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step2",
+            "value": "3 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step1",
+            "value": "3 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step5",
+            "value": "5 STEP UP 10連召喚 STEP 5"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step4",
+            "value": "5 STEP UP 10連召喚 STEP 4"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step3",
+            "value": "5 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step2",
+            "value": "5 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step1",
+            "value": "5 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200819_10",
+            "value": "確保1名UR兵員10連召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_01",
+            "value": "精選召喚"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "精選召喚　10連召喚"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step3",
+            "value": "3 STEP UP 10連召喚 STEP 3"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step2",
+            "value": "3 STEP UP 10連召喚 STEP 2"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step1",
+            "value": "3 STEP UP 10連召喚 STEP 1"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_p_gacha_4unitvc_gl20200826_10",
+            "value": "確保4個UR名額10連召喚"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_1",
+            "value": "FFT第2波聯動紀念召喚～阿格莉亞絲～"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_10",
+            "value": "FFT第2波聯動紀念召喚～阿格莉亞絲～　10連召喚"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_1",
+            "value": "FFT第2波聯動紀念召喚～迪利塔～"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_10",
+            "value": "FFT第2波聯動紀念召喚～迪利塔～　10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step15",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step14",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step13",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step12",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step11",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step10",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step9",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step8",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step7",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step6",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step5",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step4",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step3",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step2",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step1",
+            "value": "免費10連召喚"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "上市紀念活動精選召喚"
         },

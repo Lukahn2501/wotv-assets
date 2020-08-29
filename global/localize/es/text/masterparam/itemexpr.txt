@@ -1081,6 +1081,66 @@
             "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 15"
         },
         {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "Objeto necesario para mejorar una profesión (caballero sagrado) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "Objeto necesario para mejorar una profesión (caballero sagrado) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "Objeto necesario para mejorar una profesión (caballero sagrado) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "Objeto necesario para mejorar una profesión (caballero sagrado) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "Objeto necesario para mejorar una profesión (caballero sagrado) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Delita) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Delita) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Delita) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Delita) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Delita) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "Objeto necesario para mejorar una profesión (maquinista) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "Objeto necesario para mejorar una profesión (maquinista) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "Objeto necesario para mejorar una profesión (maquinista) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "Objeto necesario para mejorar una profesión (maquinista) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "Objeto necesario para mejorar una profesión (maquinista) al nv. 15"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "Objeto necesario para mejorar la profesión de una unidad de fuego a los nvs. 2<space=1>–<space=1>3"
         },
@@ -1790,6 +1850,26 @@
         },
         {
             "key": "IT_PI_LW_SIMR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
             "value": "Objeto necesario para romper el límite de una unidad"
         },
         {
@@ -2581,6 +2661,10 @@
             "value": "Receta necesaria para forjar una armadura de luz"
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "Receta necesaria para elaborar un Sortilége"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Mayor probabilidad de que aumente la VIT si el equipo ha subido de nivel"
         },
@@ -2773,6 +2857,10 @@
             "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración con FFXIV. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de colaboración"
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": "Tícket que se consigue al intercambiar losas de Goetia obtenidas en los eventos de colaboración de FFXIV"
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 14/4/2020 a las 23:59 PST)"
         },
@@ -2813,16 +2901,32 @@
             "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 1/9/2020 23:59, hora mundial PST)"
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 15/9/2020 23:59, hora mundial PST)"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Objeto que puede adquirirse en los eventos de colaboración de FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medalla de evento de FFT"
         },
         {
             "key": "IT_EC_FFT_2_A",
-            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración con FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de FFT A (Finaliza el 26/5/2020 23:59, hora mundial PST)"
+            "value": ""
         },
         {
             "key": "IT_EC_FFT_2_B",
-            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración con FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de FFT B (Finaliza el 26/5/2020 23:59, hora mundial PST)"
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": "Objeto que puede adquirirse en los eventos de colaboración de FFT, parte II. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de evento de FFT, parte II"
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración de vuelta de FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de vuelta de FFT A (Finaliza el 29/9/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración con FFT, parte II. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de FFT B, parte II (Finaliza el 29/9/2020 23:59, hora mundial (PST))"
         },
         {
             "key": "IT_EC_TOWER_001",
@@ -2830,7 +2934,7 @@
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": "Objeto que puede adquirirse en los eventos de Rundal, la amenaza del oeste. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de evento de junio."
+            "value": "Objeto que puede adquirirse en los eventos de Rundal, la amenaza del oeste. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de Rundal, la amenaza del oeste."
         },
         {
             "key": "IT_EC_EV03_1",
@@ -2841,20 +2945,16 @@
             "value": "Objeto que puede adquirirse en los eventos de El Lejano Oriente. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de evento de agosto."
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": "Medalla que se obtiene en los asaltos"
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": "Medalla que se obtiene en el asalto del malvavisco blanco"
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": "Objeto que puede adquirirse en los eventos de colaboración de FFI. Puede intercambiarse por varios objetos en la tienda de intercambio de medalla de evento de FFI"
         },
         {
             "key": "IT_EC_FF1_2",
             "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración de FFI. Puede canjearse por varios objetos en la tienda de intercambio de medallas de invocación de FFI (Finaliza el 25/8/2020 23:59, hora mundial PST)"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Tícket que se consigue en los evento de colaboración de FFT"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2917,6 +3017,10 @@
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 50 prismas del despertar"
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 200 prismas del despertar"
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 50 fragmentos de la memoria necesarios para despertar unidades"
         },
@@ -2937,6 +3041,14 @@
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 70 alcrists (morados) necesarios para mejorar profesiones"
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 70 alcrists (amarillos) necesarios para mejorar profesiones"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 70 alcrists (rojos) necesarios para mejorar profesiones"
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 20 piedras del despertar necesarias para mejorar espers"
         },
@@ -2951,90 +3063,6 @@
         {
             "key": "IT_US_SE_SB_EXP_03",
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 50 magicitas (M) necesarias para mejorar espers"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": "Tícket que permite al usuario invocar un recuerdo de profesión (verde) para cualquier profesión"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": "Tícket que permite al usuario invocar 2 recuerdos de profesión (azules) para cualquier profesión"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": "Tícket que permite al usuario invocar 3 recuerdos de profesión (morados) para cualquier profesión"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": "Tícket que permite al usuario invocar 4 recuerdos de profesión (amarillos) para cualquier profesión"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": "Tícket que permite al usuario invocar 5 recuerdos de profesión (rojos) para cualquier profesión"
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": "Tícket que permite al usuario elegir e invocar una unidad de rareza UR"
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 prismas del despertar"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 500 magicitas (M) necesarias para mejorar espers"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 magicitas (M) necesarias para mejorar espers"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 25 magicitas (M) necesarias para mejorar espers"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 100 magicitas (G) necesarias para mejorar espers"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 20/5. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 24 de junio. *El tícket no podrá usarse con «Vástagos sombríos» ni «Progenie de la Casa Beoulve»."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 17 de junio. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 22 de julio. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 12 de agosto. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración."
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "Tícket que permite al usuario elegir e invocar una unidad recomendada de rareza UR. *Si invocas una unidad que ya posees, esta se convertirá en 40 fragmentos de dicha unidad."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "Tícket que permite al usuario elegir e invocar una unidad recomendada de rareza MR. *Si invocas una unidad que ya posees, esta se convertirá en 20 fragmentos de dicha unidad."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": "Tícket que permite al usuario elegir e invocar una unidad de rareza MR"
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": "Tícket seleccionador de 40 fragmentos de unidades UR para aquellas publicadas hasta el 17 de junio. *El tícket no podrá usarse con unidades limitadas o de colaboración."
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
-            "value": "Un tícket que puede usarse para seleccionar e invocar 40 fragmentos de unidad UR."
         },
         {
             "key": "IT_US_G_U_UR_01",
@@ -3065,16 +3093,32 @@
             "value": "Tícket que garantiza una carta de visión de rareza UR al invocar"
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "Tícket que se consigue en los evento de colaboración de FFT"
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "Tícket que permite al usuario invocar un recuerdo de profesión (verde) para cualquier profesión"
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "Tícket que se consigue al intercambiar losas de Goetia obtenidas en los eventos de colaboración de FFXIV"
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "Tícket que permite al usuario invocar 2 recuerdos de profesión (azules) para cualquier profesión"
         },
         {
-            "key": "IT_US_G_N_TW_10",
-            "value": "Tícket que otorga objetos como fragmentos de unidad o de carta de visión"
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "Tícket que permite al usuario invocar 3 recuerdos de profesión (morados) para cualquier profesión"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "Tícket que permite al usuario invocar 4 recuerdos de profesión (amarillos) para cualquier profesión"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "Tícket que permite al usuario invocar 5 recuerdos de profesión (rojos) para cualquier profesión"
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "Tícket que permite al usuario elegir e invocar una unidad de rareza UR"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 prismas del despertar"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -3099,10 +3143,6 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar NN prismas del despertar"
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
-            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 200 prismas del despertar"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3337,10 +3377,6 @@
             "value": "Objeto necesario para despertar una carta de visión"
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": "Objeto necesario para despertar una carta de visión"
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": "Objeto necesario para despertar una carta de visión"
         },
@@ -3353,6 +3389,10 @@
             "value": "Objeto necesario para despertar una carta de visión"
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": "Objeto necesario para despertar una carta de visión"
         },
@@ -3362,6 +3402,14 @@
         },
         {
             "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
             "value": "Objeto necesario para despertar una carta de visión"
         },
         {
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Otorga EXP para la estatua del gremio [estatua de piedra del león] (mucho)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Medalla que se obtiene en los asaltos"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "Medalla que se obtiene en el asalto del malvavisco blanco"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 500 magicitas (M) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 magicitas (M) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 25 magicitas (M) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 100 magicitas (G) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 20/5. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 24 de junio. *El tícket no podrá usarse con «Vástagos sombríos» ni «Progenie de la Casa Beoulve»"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 17 de junio. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 22 de julio. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 12 de agosto. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Tícket que permite al usuario elegir e invocar una unidad recomendada de rareza UR. *Si invocas una unidad que ya posees, esta se convertirá en 40 fragmentos de dicha unidad"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Tícket que permite al usuario elegir e invocar una unidad recomendada de rareza MR. *Si invocas una unidad que ya posees, esta se convertirá en 20 fragmentos de dicha unidad"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Tícket que permite al usuario elegir e invocar una unidad de rareza MR"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Tícket seleccionador de 40 fragmentos de unidades UR para aquellas publicadas hasta el 17 de junio. *El tícket no podrá usarse con unidades limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Un tícket que puede usarse para seleccionar e invocar 40 fragmentos de unidad UR."
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "Tícket seleccionador de 40 fragmentos de unidades UR para aquellas publicadas hasta el 19 de agosto. *El tícket no podrá usarse con unidades limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "Tícket que otorga objetos como fragmentos de unidad o de carta de visión"
         }
     ]
 }

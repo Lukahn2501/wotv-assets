@@ -77,6 +77,10 @@
             "value": "Nous voici dans le hall des statues. Admirez les statues de la guilde."
         },
         {
+            "key": "GuildBattle",
+            "value": "Vous êtes sur le point de participer à votre premier combat de guilde."
+        },
+        {
             "key": "UnitIntimacy",
             "value": "Êtes-vous en contact avec les autres membres de l'équipe ?"
         },
@@ -101,20 +105,16 @@
             "value": "Vous avez énormément progressé depuis notre première rencontre."
         },
         {
-            "key": "GuildBattle",
-            "value": "Vous êtes sur le point de participer à votre premier combat de guilde."
-        },
-        {
-            "key": "SupportUnit",
-            "value": "Sire Mont, savez-vous paramétrer les personnages de soutien ?"
+            "key": "Tower",
+            "value": "Je constate que vous avez franchi le seuil de la Tour de porcelaine..."
         },
         {
             "key": "ItemExchange",
             "value": "Sire Mont ! Il semblerait qu'une boutique d'échange vient d'ouvrir ses portes. Et si nous allions y jeter un coup d'œil ?"
         },
         {
-            "key": "Tower",
-            "value": "Je constate que vous avez franchi le seuil de la Tour de porcelaine..."
+            "key": "SupportUnit",
+            "value": "Sire Mont, savez-vous paramétrer les personnages de soutien ?"
         }
     ]
 }

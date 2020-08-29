@@ -65,6 +65,10 @@
             "value": "レイド報酬受け取り期間中"
         },
         {
+            "key": "QLN_RAID_3",
+            "value": "イフリートに挑め！"
+        },
+        {
             "key": "QLN_TOWER_1",
             "value": "イベント準備中！"
         },
@@ -91,10 +95,6 @@
         {
             "key": "CHALLENGE_OPEN_DESC",
             "value": "挑戦期間終了"
-        },
-        {
-            "key": "QLN_RAID_3",
-            "value": "イフリートに挑め！"
         }
     ]
 }

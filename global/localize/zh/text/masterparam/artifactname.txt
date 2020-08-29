@@ -1285,6 +1285,30 @@
             "value": "白金鎧甲+5"
         },
         {
+            "key": "AF_FF1_ARM_002",
+            "value": "光明之鎧"
+        },
+        {
+            "key": "AF_FF1_ARM_002_1",
+            "value": "光明之鎧+1"
+        },
+        {
+            "key": "AF_FF1_ARM_002_2",
+            "value": "光明之鎧+2"
+        },
+        {
+            "key": "AF_FF1_ARM_002_3",
+            "value": "光明之鎧+3"
+        },
+        {
+            "key": "AF_FF1_ARM_002_4",
+            "value": "光明之鎧+4"
+        },
+        {
+            "key": "AF_FF1_ARM_002_5",
+            "value": "光明之鎧+5"
+        },
+        {
             "key": "AF_LW_HLM_001",
             "value": "青銅盔"
         },
@@ -1511,6 +1535,30 @@
         {
             "key": "AF_LW_CLT_004_5",
             "value": "智慧外套+5"
+        },
+        {
+            "key": "AF_LW_CLT_005",
+            "value": "白金法袍"
+        },
+        {
+            "key": "AF_LW_CLT_005_1",
+            "value": "白金法袍+1"
+        },
+        {
+            "key": "AF_LW_CLT_005_2",
+            "value": "白金法袍+2"
+        },
+        {
+            "key": "AF_LW_CLT_005_3",
+            "value": "白金法袍+3"
+        },
+        {
+            "key": "AF_LW_CLT_005_4",
+            "value": "白金法袍+4"
+        },
+        {
+            "key": "AF_LW_CLT_005_5",
+            "value": "白金法袍+5"
         },
         {
             "key": "AF_LW_RNG_001",
@@ -1901,6 +1949,26 @@
             "value": "滅卻大太刀"
         },
         {
+            "key": "AF_ACC_LW_ORDR_1",
+            "value": "奧爾多圍裙"
+        },
+        {
+            "key": "AF_SWO_LW_LVES_1",
+            "value": "虛奴"
+        },
+        {
+            "key": "AF_ACC_FFT_AGRA_1",
+            "value": "神聖騎士鎧"
+        },
+        {
+            "key": "AF_ARM_FFT_DELT_1",
+            "value": "耐久背心"
+        },
+        {
+            "key": "AF_GUN_FFT_MSTD_2",
+            "value": "貝斯魯迪奥"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "獅子劍"
         },
@@ -1949,6 +2017,10 @@
             "value": "恩格爾伯特盾"
         },
         {
+            "key": "AF_LW_SHI_003",
+            "value": "菈薇絲盾"
+        },
+        {
             "key": "AF_SWO_FFT_RAMZ_2",
             "value": "真摯之劍"
         },
@@ -1993,6 +2065,22 @@
             "value": "光明之劍"
         },
         {
+            "key": "AF_ROD_LW_QILF_2",
+            "value": "幻靈手杖"
+        },
+        {
+            "key": "AF_BSW_LW_ORDR_2",
+            "value": "奧爾多大劍"
+        },
+        {
+            "key": "AF_SWO_FFT_AGRA_2",
+            "value": "FFT阿格莉亞絲"
+        },
+        {
+            "key": "AF_SWO_FFT_DELT_2",
+            "value": "FFT迪利塔"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "變石戒指"
         },
@@ -2021,56 +2109,28 @@
             "value": "深紅烈焰"
         },
         {
-            "key": "AF_LW_CLT_005",
-            "value": "白金法袍"
+            "key": "AF_FFT_ACC_001",
+            "value": "魔咒魅香水"
         },
         {
-            "key": "AF_LW_CLT_005_1",
-            "value": "白金法袍+1"
+            "key": "AF_FFT_ACC_001_1",
+            "value": "魔咒魅香水+1"
         },
         {
-            "key": "AF_LW_CLT_005_2",
-            "value": "白金法袍+2"
+            "key": "AF_FFT_ACC_001_2",
+            "value": "魔咒魅香水+2"
         },
         {
-            "key": "AF_LW_CLT_005_3",
-            "value": "白金法袍+3"
+            "key": "AF_FFT_ACC_001_3",
+            "value": "魔咒魅香水+3"
         },
         {
-            "key": "AF_LW_CLT_005_4",
-            "value": "白金法袍+4"
+            "key": "AF_FFT_ACC_001_4",
+            "value": "魔咒魅香水+4"
         },
         {
-            "key": "AF_LW_CLT_005_5",
-            "value": "白金法袍+5"
-        },
-        {
-            "key": "AF_FF1_ARM_002",
-            "value": "光明之鎧"
-        },
-        {
-            "key": "AF_FF1_ARM_002_1",
-            "value": "光明之鎧+1"
-        },
-        {
-            "key": "AF_FF1_ARM_002_2",
-            "value": "光明之鎧+2"
-        },
-        {
-            "key": "AF_FF1_ARM_002_3",
-            "value": "光明之鎧+3"
-        },
-        {
-            "key": "AF_FF1_ARM_002_4",
-            "value": "光明之鎧+4"
-        },
-        {
-            "key": "AF_FF1_ARM_002_5",
-            "value": "光明之鎧+5"
-        },
-        {
-            "key": "AF_ROD_LW_QILF_2",
-            "value": "幻靈手杖"
+            "key": "AF_FFT_ACC_001_5",
+            "value": "魔咒魅香水+5"
         }
     ]
 }

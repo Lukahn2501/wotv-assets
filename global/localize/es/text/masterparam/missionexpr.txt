@@ -109,6 +109,150 @@
             "value": "Crea un gremio o únete a uno"
         },
         {
+            "key": "CM_PRO_GL_01",
+            "value": "Conéctate al juego una vez"
+        },
+        {
+            "key": "CM_PRO_GL_02",
+            "value": "Alcanza el nv. 15 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_03",
+            "value": "Alcanza el nv. 30 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_04",
+            "value": "Completa la batalla 1 del capítulo 1, escena 2 en las misiones de historia: A la Guarida del León"
+        },
+        {
+            "key": "CM_PRO_GL_05",
+            "value": "Conéctate al juego un total de 2 días"
+        },
+        {
+            "key": "CM_PRO_GL_06",
+            "value": "Alcanza el nv. de profesión 3 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_07",
+            "value": "Completa la batalla 10 del capítulo 1, escena 1 en las misiones de historia: Demuestra tu valía"
+        },
+        {
+            "key": "CM_PRO_GL_08",
+            "value": "Completa la batalla 5 del capítulo 1, escena 1 en las misiones de historia: Prueba de confianza"
+        },
+        {
+            "key": "CM_PRO_GL_09",
+            "value": "Alcanza el nv. de profesión 6 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_10",
+            "value": "Conéctate al juego"
+        },
+        {
+            "key": "CM_PRO_GL_11",
+            "value": "Rompe el límite de Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_12",
+            "value": "Alcanza el nv. 35 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_13",
+            "value": "Rompe el límite de Numbralince 3 veces"
+        },
+        {
+            "key": "CM_PRO_GL_14",
+            "value": "Conéctate al juego un día más"
+        },
+        {
+            "key": "CM_PRO_GL_15",
+            "value": "Rompe el límite de Numbralince 2 veces"
+        },
+        {
+            "key": "CM_PRO_GL_16",
+            "value": "Completa la batalla 10 del capítulo 1, escena 2 en las misiones de historia: Redención"
+        },
+        {
+            "key": "CM_PRO_GL_17",
+            "value": "Completa la batalla 5 del capítulo 1, escena 2 en las misiones de historia: Voluntad"
+        },
+        {
+            "key": "CM_PRO_GL_18",
+            "value": "Alcanza el nv. 40 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_19",
+            "value": "Conéctate al juego"
+        },
+        {
+            "key": "CM_PRO_GL_20",
+            "value": "Despierta a Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_21",
+            "value": "Alcanza el nv. 45 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_22",
+            "value": "Alcanza el nv. 60 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_23",
+            "value": "Conéctate al juego un día más"
+        },
+        {
+            "key": "CM_PRO_GL_24",
+            "value": "Despierta a Numbralince 2 veces"
+        },
+        {
+            "key": "CM_PRO_GL_25",
+            "value": "Despierta a Numbralince 3 veces"
+        },
+        {
+            "key": "CM_PRO_GL_26",
+            "value": "Completa la batalla 10 del capítulo 1, escena 3 en las misiones de historia: Refuerzos"
+        },
+        {
+            "key": "CM_PRO_GL_27",
+            "value": "Alcanza el nv. 50 con Numbralince"
+        },
+        {
+            "key": "CM_PRO_GL_28",
+            "value": "Conéctate al juego"
+        },
+        {
+            "key": "CM_PRO_GL_29",
+            "value": "Completa la batalla 10 del capítulo 2, escena 1 en las misiones de historia: Lo que dicen las estrellas"
+        },
+        {
+            "key": "CM_PRO_GL_30",
+            "value": "Completa la batalla 10 del capítulo 2, escena 2 en las misiones de historia: El orgullo de Leonis"
+        },
+        {
+            "key": "CM_PRO_GL_31",
+            "value": "Conéctate al juego 2 días más"
+        },
+        {
+            "key": "CM_PRO_GL_32",
+            "value": "Conéctate al juego 3 días más"
+        },
+        {
+            "key": "CM_PRO_GL_33",
+            "value": "Completa la batalla 10 del capítulo 2, escena 3 en las misiones de historia: El Intrépido"
+        },
+        {
+            "key": "CM_PRO_GL_34",
+            "value": "Conéctate al juego un día más"
+        },
+        {
+            "key": "CM_PRO_GL_35",
+            "value": "Completa la misión difícil de Mediena"
+        },
+        {
+            "key": "CM_PRO_GL_36",
+            "value": "Completa la batalla 10 del capítulo 3, escena 1 en las misiones de historia: El precio es tu vida"
+        },
+        {
             "key": "CM_PRO_28",
             "value": "Completa la batalla 1 de FINAL FANTASY TACTICS"
         },
@@ -251,6 +395,42 @@
         {
             "key": "CM_PRO_72",
             "value": "Completa la batalla 5 de FINAL FANTASY I"
+        },
+        {
+            "key": "CM_PRO_73",
+            "value": "[Parte II] Completa la batalla 1 de FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "CM_PRO_74",
+            "value": "Completa misiones difíciles 100 veces"
+        },
+        {
+            "key": "CM_PRO_75",
+            "value": "Completa misiones difíciles de la lista de misiones globales 50 veces"
+        },
+        {
+            "key": "CM_PRO_76",
+            "value": "Completa misiones de historia 100 veces"
+        },
+        {
+            "key": "CM_PRO_77",
+            "value": "[Parte II] Completa la batalla 3 de FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "CM_PRO_78",
+            "value": "Compite en la Arena 30 veces"
+        },
+        {
+            "key": "CM_PRO_79",
+            "value": "Consigue objetos en la expedición chocobo 30 veces"
+        },
+        {
+            "key": "CM_PRO_80",
+            "value": "Completa multimisiones 50 veces"
+        },
+        {
+            "key": "CM_PRO_81",
+            "value": "[Parte II] Completa Zaland, ciudad amurallada"
         },
         {
             "key": "GM_0001",
@@ -497,6 +677,14 @@
             "value": "Completa el capítulo 8, escena 1 [Muraga, el rey de Fennes]"
         },
         {
+            "key": "M_ST_0008_02",
+            "value": "Completa el capítulo 8, escena 2: Kuri enfurecido I"
+        },
+        {
+            "key": "M_ST_0008_02_2",
+            "value": "Completa el capítulo 8, escena 2: El orgullo de Hourne"
+        },
+        {
             "key": "M_VIP_LOGB_001",
             "value": "Alcanza el rango vip 1"
         },
@@ -558,7 +746,7 @@
         },
         {
             "key": "M_DAILY_001_01",
-            "value": "Completa misiones de historia 5 veces"
+            "value": "Completa una misión de historia"
         },
         {
             "key": "M_DAILY_001_02",
@@ -570,7 +758,7 @@
         },
         {
             "key": "M_DAILY_001_04",
-            "value": "Completa una multimisión"
+            "value": "Mejora una estatua del gremio"
         },
         {
             "key": "M_DAILY_001_05",
@@ -1013,6 +1201,102 @@
             "value": "Completa FINAL FANTASY XIV: Shadowbringers [Conquista] nv. 10 5 veces"
         },
         {
+            "key": "M_GL_FFT_2_CH_AGRA",
+            "value": "Completa todos los objetivos de la misión de personaje de Agrias"
+        },
+        {
+            "key": "M_GL_FFT_2_CH_DELT",
+            "value": "Completa todos los objetivos de la misión de personaje de Delita"
+        },
+        {
+            "key": "M_FFT_2_01",
+            "value": "[Parte II] Completa la batalla 1 de FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "M_FFT_2_02",
+            "value": "[Parte II] Completa la batalla 1 de FINAL FANTASY TACTICS 2 veces"
+        },
+        {
+            "key": "M_FFT_2_03",
+            "value": "[Parte II] Completa la batalla 1 de FINAL FANTASY TACTICS 3 veces"
+        },
+        {
+            "key": "M_FFT_2_04",
+            "value": "[Parte II] Completa la batalla 2 de FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "M_FFT_2_05",
+            "value": "[Parte II] Completa la batalla 2 de FINAL FANTASY TACTICS 2 veces"
+        },
+        {
+            "key": "M_FFT_2_06",
+            "value": "[Parte II] Completa la batalla 2 de FINAL FANTASY TACTICS 3 veces"
+        },
+        {
+            "key": "M_FFT_2_07",
+            "value": "[Parte II] Completa la batalla 3 de FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "M_FFT_2_08",
+            "value": "[Parte II] Completa la batalla 3 de FINAL FANTASY TACTICS 2 veces"
+        },
+        {
+            "key": "M_FFT_2_09",
+            "value": "[Parte II] Completa la batalla 3 de FINAL FANTASY TACTICS 3 veces"
+        },
+        {
+            "key": "M_FFT_2_10",
+            "value": "[Parte II] Completa la batalla 4 de FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "M_FFT_2_11",
+            "value": "[Parte II] Completa la batalla 4 de FINAL FANTASY TACTICS 3 veces"
+        },
+        {
+            "key": "M_FFT_2_12",
+            "value": "[Parte II] Completa la batalla 4 de FINAL FANTASY TACTICS 5 veces"
+        },
+        {
+            "key": "M_FFT_2_13",
+            "value": "[Parte II] Completa Zaland, ciudad amurallada"
+        },
+        {
+            "key": "M_FFT_2_14",
+            "value": "[Parte II] Completa Zaland, ciudad amurallada 3 veces"
+        },
+        {
+            "key": "M_FFT_2_15",
+            "value": "[Parte II] Completa Zaland, ciudad amurallada 5 veces"
+        },
+        {
+            "key": "M_FFT_2_EX_01",
+            "value": "[Parte II] Completa FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "M_FFT_2_EX_02",
+            "value": "[Parte II] Completa FINAL FANTASY TACTICS [EX] 3 veces"
+        },
+        {
+            "key": "M_FFT_2_EX_03",
+            "value": "[Parte II] Completa FINAL FANTASY TACTICS [EX] 5 veces"
+        },
+        {
+            "key": "M_FFT_2_EX_04",
+            "value": "[Parte II] Completa FINAL FANTASY TACTICS [EX] 10 veces"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_01",
+            "value": "[Multiijugador] [Parte II] Completa FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_02",
+            "value": "[Multiijugador] [Parte II] Completa FINAL FANTASY TACTICS [EX] 3 veces"
+        },
+        {
+            "key": "M_FFT_2_MU_EX_03",
+            "value": "[Multiijugador] [Parte II] Completa FINAL FANTASY TACTICS [EX] 5 veces"
+        },
+        {
             "key": "M_FFT_1_01",
             "value": "Completa la batalla 1 de FINAL FANTASY TACTICS"
         },
@@ -1315,6 +1599,50 @@
         {
             "key": "M_EV_CSLI_11",
             "value": "[Multijugador] Completa el desafío del flan de chocolate en dificultad extrema 5 veces"
+        },
+        {
+            "key": "M_EV_OCHU_01",
+            "value": "Completa el desafío de Ochú de dificultad alta"
+        },
+        {
+            "key": "M_EV_OCHU_02",
+            "value": "Completa el desafío de Ochú de dificultad alta"
+        },
+        {
+            "key": "M_EV_OCHU_03",
+            "value": "Completa el desafío de Ochú de dificultad alta 3 veces"
+        },
+        {
+            "key": "M_EV_OCHU_04",
+            "value": "Completa el desafío de Ochú de dificultad alta 3 veces"
+        },
+        {
+            "key": "M_EV_OCHU_05",
+            "value": "Completa el desafío de Ochú de dificultad alta 5 veces"
+        },
+        {
+            "key": "M_EV_OCHU_06",
+            "value": "Completa el Desafío de Ochú en dificultad extrema"
+        },
+        {
+            "key": "M_EV_OCHU_07",
+            "value": "Completa el Desafío de Ochú en dificultad extrema 3 veces"
+        },
+        {
+            "key": "M_EV_OCHU_08",
+            "value": "Completa el Desafío de Ochú en dificultad extrema 5 veces"
+        },
+        {
+            "key": "M_EV_OCHU_09",
+            "value": "[Multijugador] Completa el Desafío de Ochú en dificultad extrema"
+        },
+        {
+            "key": "M_EV_OCHU_10",
+            "value": "[Multijugador] Completa el Desafío de Ochú en dificultad extrema 3 veces"
+        },
+        {
+            "key": "M_EV_OCHU_11",
+            "value": "[Multijugador] Completa el Desafío de Ochú en dificultad extrema 5 veces"
         },
         {
             "key": "M_ART_CRF_05_01",
@@ -2581,6 +2909,14 @@
             "value": "Consigue 50 unidades"
         },
         {
+            "key": "MG_PR_002_011",
+            "value": "Consigue 55 unidades"
+        },
+        {
+            "key": "MG_PR_002_012",
+            "value": "Consigue 60 unidades"
+        },
+        {
             "key": "MG_PR_003_001",
             "value": "Despierta una unidad"
         },
@@ -2673,6 +3009,26 @@
             "value": "Despierta unidades 300 veces"
         },
         {
+            "key": "MG_PR_003_024",
+            "value": "Despierta unidades 320 veces"
+        },
+        {
+            "key": "MG_PR_003_025",
+            "value": "Despierta unidades 340 veces"
+        },
+        {
+            "key": "MG_PR_003_026",
+            "value": "Despierta unidades 360 veces"
+        },
+        {
+            "key": "MG_PR_003_027",
+            "value": "Despierta unidades 380 veces"
+        },
+        {
+            "key": "MG_PR_003_028",
+            "value": "Despierta unidades 400 veces"
+        },
+        {
             "key": "MG_PR_004_001",
             "value": "Rompe el límite de una unidad"
         },
@@ -2763,6 +3119,26 @@
         {
             "key": "MG_PR_004_023",
             "value": "Rompe el límite 300 veces"
+        },
+        {
+            "key": "MG_PR_004_024",
+            "value": "Rompe el límite 320 veces"
+        },
+        {
+            "key": "MG_PR_004_025",
+            "value": "Rompe el límite 340 veces"
+        },
+        {
+            "key": "MG_PR_004_026",
+            "value": "Rompe el límite 360 veces"
+        },
+        {
+            "key": "MG_PR_004_027",
+            "value": "Rompe el límite 380 veces"
+        },
+        {
+            "key": "MG_PR_004_028",
+            "value": "Rompe el límite 400 veces"
         },
         {
             "key": "M_QEST_001",
@@ -5857,6 +6233,550 @@
             "value": "Mejora estatuas del gremio 70 veces"
         },
         {
+            "key": "M_MONTHLY_0682",
+            "value": "Completa misiones de historia 20 veces"
+        },
+        {
+            "key": "M_MONTHLY_0683",
+            "value": "Completa misiones de historia 40 veces"
+        },
+        {
+            "key": "M_MONTHLY_0684",
+            "value": "Completa misiones de historia 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0685",
+            "value": "Completa misiones de historia 80 veces"
+        },
+        {
+            "key": "M_MONTHLY_0686",
+            "value": "Completa misiones de historia 100 veces"
+        },
+        {
+            "key": "M_MONTHLY_0687",
+            "value": "Completa misiones de historia 120 veces"
+        },
+        {
+            "key": "M_MONTHLY_0688",
+            "value": "Completa misiones de historia 140 veces"
+        },
+        {
+            "key": "M_MONTHLY_0689",
+            "value": "Completa misiones de historia 160 veces"
+        },
+        {
+            "key": "M_MONTHLY_0690",
+            "value": "Completa misiones de historia 180 veces"
+        },
+        {
+            "key": "M_MONTHLY_0691",
+            "value": "Completa misiones de historia 200 veces"
+        },
+        {
+            "key": "M_MONTHLY_0692",
+            "value": "Completa misiones de historia 220 veces"
+        },
+        {
+            "key": "M_MONTHLY_0693",
+            "value": "Completa misiones de historia 240 veces"
+        },
+        {
+            "key": "M_MONTHLY_0694",
+            "value": "Completa misiones de historia 260 veces"
+        },
+        {
+            "key": "M_MONTHLY_0695",
+            "value": "Completa misiones de historia 280 veces"
+        },
+        {
+            "key": "M_MONTHLY_0696",
+            "value": "Completa misiones de historia 300 veces"
+        },
+        {
+            "key": "M_MONTHLY_0697",
+            "value": "Completa misiones de historia 320 veces"
+        },
+        {
+            "key": "M_MONTHLY_0698",
+            "value": "Completa misiones de historia 340 veces"
+        },
+        {
+            "key": "M_MONTHLY_0699",
+            "value": "Completa misiones de historia 360 veces"
+        },
+        {
+            "key": "M_MONTHLY_0700",
+            "value": "Completa misiones de historia 380 veces"
+        },
+        {
+            "key": "M_MONTHLY_0701",
+            "value": "Completa misiones de historia 400 veces"
+        },
+        {
+            "key": "M_MONTHLY_0702",
+            "value": "Completa misiones difíciles 10 veces"
+        },
+        {
+            "key": "M_MONTHLY_0703",
+            "value": "Completa misiones difíciles 20 veces"
+        },
+        {
+            "key": "M_MONTHLY_0704",
+            "value": "Completa misiones difíciles 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0705",
+            "value": "Completa misiones difíciles 40 veces"
+        },
+        {
+            "key": "M_MONTHLY_0706",
+            "value": "Completa misiones difíciles 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0707",
+            "value": "Completa misiones difíciles 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0708",
+            "value": "Completa misiones difíciles 70 veces"
+        },
+        {
+            "key": "M_MONTHLY_0709",
+            "value": "Completa misiones difíciles 80 veces"
+        },
+        {
+            "key": "M_MONTHLY_0710",
+            "value": "Completa misiones difíciles 90 veces"
+        },
+        {
+            "key": "M_MONTHLY_0711",
+            "value": "Completa misiones difíciles 100 veces"
+        },
+        {
+            "key": "M_MONTHLY_0712",
+            "value": "Completa misiones difíciles 110 veces"
+        },
+        {
+            "key": "M_MONTHLY_0713",
+            "value": "Completa misiones difíciles 120 veces"
+        },
+        {
+            "key": "M_MONTHLY_0714",
+            "value": "Completa misiones difíciles 130 veces"
+        },
+        {
+            "key": "M_MONTHLY_0715",
+            "value": "Completa misiones difíciles 140 veces"
+        },
+        {
+            "key": "M_MONTHLY_0716",
+            "value": "Completa misiones difíciles 150 veces"
+        },
+        {
+            "key": "M_MONTHLY_0717",
+            "value": "Completa misiones difíciles 170 veces"
+        },
+        {
+            "key": "M_MONTHLY_0718",
+            "value": "Completa misiones difíciles 190 veces"
+        },
+        {
+            "key": "M_MONTHLY_0719",
+            "value": "Completa misiones difíciles 210 veces"
+        },
+        {
+            "key": "M_MONTHLY_0720",
+            "value": "Completa misiones difíciles 230 veces"
+        },
+        {
+            "key": "M_MONTHLY_0721",
+            "value": "Completa multimisiones 10 veces"
+        },
+        {
+            "key": "M_MONTHLY_0722",
+            "value": "Completa multimisiones 20 veces"
+        },
+        {
+            "key": "M_MONTHLY_0723",
+            "value": "Completa multimisiones 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0724",
+            "value": "Completa multimisiones 40 veces"
+        },
+        {
+            "key": "M_MONTHLY_0725",
+            "value": "Completa multimisiones 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0726",
+            "value": "Completa multimisiones 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0727",
+            "value": "Completa multimisiones 70 veces"
+        },
+        {
+            "key": "M_MONTHLY_0728",
+            "value": "Completa multimisiones 80 veces"
+        },
+        {
+            "key": "M_MONTHLY_0729",
+            "value": "Completa multimisiones 90 veces"
+        },
+        {
+            "key": "M_MONTHLY_0730",
+            "value": "Completa multimisiones 100 veces"
+        },
+        {
+            "key": "M_MONTHLY_0731",
+            "value": "Completa multimisiones 110 veces"
+        },
+        {
+            "key": "M_MONTHLY_0732",
+            "value": "Completa multimisiones 120 veces"
+        },
+        {
+            "key": "M_MONTHLY_0733",
+            "value": "Completa multimisiones 130 veces"
+        },
+        {
+            "key": "M_MONTHLY_0734",
+            "value": "Completa multimisiones 140 veces"
+        },
+        {
+            "key": "M_MONTHLY_0735",
+            "value": "Completa multimisiones 150 veces"
+        },
+        {
+            "key": "M_MONTHLY_0736",
+            "value": "Completa multimisiones 160 veces"
+        },
+        {
+            "key": "M_MONTHLY_0737",
+            "value": "Completa multimisiones 170 veces"
+        },
+        {
+            "key": "M_MONTHLY_0738",
+            "value": "Completa multimisiones 180 veces"
+        },
+        {
+            "key": "M_MONTHLY_0739",
+            "value": "Completa multimisiones 190 veces"
+        },
+        {
+            "key": "M_MONTHLY_0740",
+            "value": "Completa multimisiones 200 veces"
+        },
+        {
+            "key": "M_MONTHLY_0741",
+            "value": "Completa la Cámara de la EXP 3 veces"
+        },
+        {
+            "key": "M_MONTHLY_0742",
+            "value": "Completa la Cámara de la EXP 6 veces"
+        },
+        {
+            "key": "M_MONTHLY_0743",
+            "value": "Completa la Cámara de la EXP 9 veces"
+        },
+        {
+            "key": "M_MONTHLY_0744",
+            "value": "Completa la Cámara de la EXP 12 veces"
+        },
+        {
+            "key": "M_MONTHLY_0745",
+            "value": "Completa la Cámara de la EXP 15 veces"
+        },
+        {
+            "key": "M_MONTHLY_0746",
+            "value": "Completa la Cámara de la EXP 18 veces"
+        },
+        {
+            "key": "M_MONTHLY_0747",
+            "value": "Completa la Cámara de la EXP 21 veces"
+        },
+        {
+            "key": "M_MONTHLY_0748",
+            "value": "Completa la Cámara de la EXP 24 veces"
+        },
+        {
+            "key": "M_MONTHLY_0749",
+            "value": "Completa la Cámara de la EXP 27 veces"
+        },
+        {
+            "key": "M_MONTHLY_0750",
+            "value": "Completa la Cámara de la EXP 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0751",
+            "value": "Completa la Cámara de la EXP 33 veces"
+        },
+        {
+            "key": "M_MONTHLY_0752",
+            "value": "Completa la Cámara de la EXP 36 veces"
+        },
+        {
+            "key": "M_MONTHLY_0753",
+            "value": "Completa la Cámara de la EXP 39 veces"
+        },
+        {
+            "key": "M_MONTHLY_0754",
+            "value": "Completa la Cámara de la EXP 42 veces"
+        },
+        {
+            "key": "M_MONTHLY_0755",
+            "value": "Completa la Cámara de la EXP 45 veces"
+        },
+        {
+            "key": "M_MONTHLY_0756",
+            "value": "Completa la Cámara de la EXP 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0757",
+            "value": "Completa la Cámara de la EXP 55 veces"
+        },
+        {
+            "key": "M_MONTHLY_0758",
+            "value": "Completa la Cámara de la EXP 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0759",
+            "value": "Completa la Cámara de la EXP 65 veces"
+        },
+        {
+            "key": "M_MONTHLY_0760",
+            "value": "Completa la Cámara de la EXP 70 veces"
+        },
+        {
+            "key": "M_MONTHLY_0761",
+            "value": "Compite en la Arena 5 veces"
+        },
+        {
+            "key": "M_MONTHLY_0762",
+            "value": "Compite en la Arena 10 veces"
+        },
+        {
+            "key": "M_MONTHLY_0763",
+            "value": "Compite en la Arena 15 veces"
+        },
+        {
+            "key": "M_MONTHLY_0764",
+            "value": "Compite en la Arena 20 veces"
+        },
+        {
+            "key": "M_MONTHLY_0765",
+            "value": "Compite en la Arena 25 veces"
+        },
+        {
+            "key": "M_MONTHLY_0766",
+            "value": "Compite en la Arena 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0767",
+            "value": "Compite en la Arena 35 veces"
+        },
+        {
+            "key": "M_MONTHLY_0768",
+            "value": "Compite en la Arena 40 veces"
+        },
+        {
+            "key": "M_MONTHLY_0769",
+            "value": "Compite en la Arena 45 veces"
+        },
+        {
+            "key": "M_MONTHLY_0770",
+            "value": "Compite en la Arena 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0771",
+            "value": "Compite en la Arena 55 veces"
+        },
+        {
+            "key": "M_MONTHLY_0772",
+            "value": "Compite en la Arena 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0773",
+            "value": "Compite en la Arena 65 veces"
+        },
+        {
+            "key": "M_MONTHLY_0774",
+            "value": "Compite en la Arena 70 veces"
+        },
+        {
+            "key": "M_MONTHLY_0775",
+            "value": "Compite en la Arena 80 veces"
+        },
+        {
+            "key": "M_MONTHLY_0776",
+            "value": "Compite en la Arena 90 veces"
+        },
+        {
+            "key": "M_MONTHLY_0777",
+            "value": "Compite en la Arena 100 veces"
+        },
+        {
+            "key": "M_MONTHLY_0778",
+            "value": "Compite en la Arena 110 veces"
+        },
+        {
+            "key": "M_MONTHLY_0779",
+            "value": "Compite en la Arena 120 veces"
+        },
+        {
+            "key": "M_MONTHLY_0780",
+            "value": "Compite en la Arena 130 veces"
+        },
+        {
+            "key": "M_MONTHLY_0781",
+            "value": "Consigue objetos en la expedición chocobo 10 veces"
+        },
+        {
+            "key": "M_MONTHLY_0782",
+            "value": "Consigue objetos en la expedición chocobo 15 veces"
+        },
+        {
+            "key": "M_MONTHLY_0783",
+            "value": "Consigue objetos en la expedición chocobo 20 veces"
+        },
+        {
+            "key": "M_MONTHLY_0784",
+            "value": "Consigue objetos en la expedición chocobo 25 veces"
+        },
+        {
+            "key": "M_MONTHLY_0785",
+            "value": "Consigue objetos en la expedición chocobo 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0786",
+            "value": "Consigue objetos en la expedición chocobo 35 veces"
+        },
+        {
+            "key": "M_MONTHLY_0787",
+            "value": "Consigue objetos en la expedición chocobo 40 veces"
+        },
+        {
+            "key": "M_MONTHLY_0788",
+            "value": "Consigue objetos en la expedición chocobo 45 veces"
+        },
+        {
+            "key": "M_MONTHLY_0789",
+            "value": "Consigue objetos en la expedición chocobo 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0790",
+            "value": "Consigue objetos en la expedición chocobo 55 veces"
+        },
+        {
+            "key": "M_MONTHLY_0791",
+            "value": "Consigue objetos en la expedición chocobo 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0792",
+            "value": "Consigue objetos en la expedición chocobo 65 veces"
+        },
+        {
+            "key": "M_MONTHLY_0793",
+            "value": "Consigue objetos en la expedición chocobo 70 veces"
+        },
+        {
+            "key": "M_MONTHLY_0794",
+            "value": "Consigue objetos en la expedición chocobo 75 veces"
+        },
+        {
+            "key": "M_MONTHLY_0795",
+            "value": "Consigue objetos en la expedición chocobo 80 veces"
+        },
+        {
+            "key": "M_MONTHLY_0796",
+            "value": "Consigue objetos en la expedición chocobo 85 veces"
+        },
+        {
+            "key": "M_MONTHLY_0797",
+            "value": "Consigue objetos en la expedición chocobo 90 veces"
+        },
+        {
+            "key": "M_MONTHLY_0798",
+            "value": "Mejora estatuas del gremio 3 veces"
+        },
+        {
+            "key": "M_MONTHLY_0799",
+            "value": "Mejora estatuas del gremio 6 veces"
+        },
+        {
+            "key": "M_MONTHLY_0800",
+            "value": "Mejora estatuas del gremio 9 veces"
+        },
+        {
+            "key": "M_MONTHLY_0801",
+            "value": "Mejora estatuas del gremio 12 veces"
+        },
+        {
+            "key": "M_MONTHLY_0802",
+            "value": "Mejora estatuas del gremio 15 veces"
+        },
+        {
+            "key": "M_MONTHLY_0803",
+            "value": "Mejora estatuas del gremio 18 veces"
+        },
+        {
+            "key": "M_MONTHLY_0804",
+            "value": "Mejora estatuas del gremio 21 veces"
+        },
+        {
+            "key": "M_MONTHLY_0805",
+            "value": "Mejora estatuas del gremio 24 veces"
+        },
+        {
+            "key": "M_MONTHLY_0806",
+            "value": "Mejora estatuas del gremio 27 veces"
+        },
+        {
+            "key": "M_MONTHLY_0807",
+            "value": "Mejora estatuas del gremio 30 veces"
+        },
+        {
+            "key": "M_MONTHLY_0808",
+            "value": "Mejora estatuas del gremio 33 veces"
+        },
+        {
+            "key": "M_MONTHLY_0809",
+            "value": "Mejora estatuas del gremio 36 veces"
+        },
+        {
+            "key": "M_MONTHLY_0810",
+            "value": "Mejora estatuas del gremio 39 veces"
+        },
+        {
+            "key": "M_MONTHLY_0811",
+            "value": "Mejora estatuas del gremio 42 veces"
+        },
+        {
+            "key": "M_MONTHLY_0812",
+            "value": "Mejora estatuas del gremio 45 veces"
+        },
+        {
+            "key": "M_MONTHLY_0813",
+            "value": "Mejora estatuas del gremio 50 veces"
+        },
+        {
+            "key": "M_MONTHLY_0814",
+            "value": "Mejora estatuas del gremio 55 veces"
+        },
+        {
+            "key": "M_MONTHLY_0815",
+            "value": "Mejora estatuas del gremio 60 veces"
+        },
+        {
+            "key": "M_MONTHLY_0816",
+            "value": "Mejora estatuas del gremio 65 veces"
+        },
+        {
+            "key": "M_MONTHLY_0817",
+            "value": "Mejora estatuas del gremio 70 veces"
+        },
+        {
             "key": "M_LAPS_P_LUCA_01",
             "value": "Gasta 500 visiores"
         },
@@ -5998,6 +6918,54 @@
         },
         {
             "key": "M_LAPS_P_QILF_06",
+            "value": "Gasta 50 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_01",
+            "value": "Gasta 500 visiores"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_02",
+            "value": "Gasta 3000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_03",
+            "value": "Gasta 6000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_04",
+            "value": "Gasta 12 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_05",
+            "value": "Gasta 24 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_ORDR_06",
+            "value": "Gasta 50 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_DELT_01",
+            "value": "Gasta 500 visiores"
+        },
+        {
+            "key": "M_LAPS_P_DELT_02",
+            "value": "Gasta 3000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_DELT_03",
+            "value": "Gasta 6000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_DELT_04",
+            "value": "Gasta 12 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_DELT_05",
+            "value": "Gasta 24 000 visiores"
+        },
+        {
+            "key": "M_LAPS_P_DELT_06",
             "value": "Gasta 50 000 visiores"
         },
         {

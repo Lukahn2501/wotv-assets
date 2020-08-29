@@ -809,6 +809,10 @@
             "value": "購買幻導石"
         },
         {
+            "key": "POWER_SAVE",
+            "value": "觸碰水晶解除省電模式"
+        },
+        {
             "key": "ACT_SPECIFIED_COMMERCIAL_TRANSACTIONS",
             "value": "特定商業貿易法"
         },
@@ -894,7 +898,7 @@
         },
         {
             "key": "LIMIT_SECOND",
-            "value": "還有<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>天"
+            "value": "還有<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>秒"
         },
         {
             "key": "LIMIT_MINUTES",
@@ -1065,6 +1069,10 @@
             "value": "TP"
         },
         {
+            "key": "SORT_TITLE_AP",
+            "value": "AP"
+        },
+        {
             "key": "SORT_TITLE_SPEED",
             "value": "敏捷"
         },
@@ -1075,6 +1083,22 @@
         {
             "key": "SORT_TITLE_AVOID",
             "value": "閃避"
+        },
+        {
+            "key": "SORT_TITLE_DEFENCE",
+            "value": "防禦"
+        },
+        {
+            "key": "SORT_TITLE_MIND",
+            "value": "精神"
+        },
+        {
+            "key": "SORT_TITLE_DEXTERITY",
+            "value": "靈巧"
+        },
+        {
+            "key": "SORT_TITLE_LUCK",
+            "value": "運氣"
         },
         {
             "key": "SORT_TITLE_CRITICAL",
@@ -1553,6 +1577,10 @@
             "value": "信念"
         },
         {
+            "key": "STATUS_HATE",
+            "value": "仇恨"
+        },
+        {
             "key": "STATUS_COST",
             "value": "COST"
         },
@@ -1765,6 +1793,18 @@
             "value": "TP"
         },
         {
+            "key": "ABILITY_STATUS_USE_AUTO",
+            "value": "於自動能力使用"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL",
+            "value": "詳細設定"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL_ON",
+            "value": "詳細設定：ON"
+        },
+        {
             "key": "ABILITY_CAPTION_LEADER",
             "value": "隊長能力"
         },
@@ -1853,6 +1893,30 @@
             "value": "不是好友，故無法發動"
         },
         {
+            "key": "ABILITY_AUTO_SETTING_TITLE",
+            "value": "於自動戰鬥使用"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_QUEST",
+            "value": "任務"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_MULTI",
+            "value": "協力"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_DUEL",
+            "value": "決鬥"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_GUILD",
+            "value": "公會戰鬥"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TOWER",
+            "value": "白磁之塔/深層迷宮"
+        },
+        {
             "key": "JOB_LEVEL_MAX",
             "value": "MAX"
         },
@@ -1923,6 +1987,14 @@
         {
             "key": "UNITLIST_NOTUSE",
             "value": "無法使用"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
+            "value": "選擇兵員"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
+            "value": "已被編配在<br>另一隊伍（{0}）。<br>確定要選擇嗎？<br>（會將兵員從已編配的<br>隊伍移除。）"
         },
         {
             "key": "NETHERBEAST_SYNCHRO",
@@ -2637,6 +2709,14 @@
             "value": "隊伍編配"
         },
         {
+            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
+            "value": "普通"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
+            "value": "期間限定"
+        },
+        {
             "key": "PARTYEDITOR_GUILD_PARTY_OFFENSE",
             "value": "攻擊"
         },
@@ -2651,6 +2731,14 @@
         {
             "key": "PARTYEDITOR_GUILD_PERIOD_TITLE",
             "value": "公會戰鬥舉辦期間"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
+            "value": "編配規則"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
+            "value": "<line-height=22>※無法於複數的攻擊／防禦隊伍編配同一個兵員、武具、召喚獸及幻兵卡。"
         },
         {
             "key": "PARTYEDITOR_TAB_QUEST",
@@ -2771,10 +2859,6 @@
         {
             "key": "PARTYEDITOR_AUTOBATTLE_DISABLE",
             "value": "不可設定"
-        },
-        {
-            "key": "；編成画面 - オート周回",
-            "value": ""
         },
         {
             "key": "PARTYEDITOR_AUTOLAP_TITLE",
@@ -2949,16 +3033,56 @@
             "value": "請設定優先項目"
         },
         {
+            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
+            "value": "選擇優先項目"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
+            "value": "選擇自動編配對象"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
+            "value": "全部自動編配"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
+            "value": "武具"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
+            "value": "幻兵卡"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
+            "value": "召喚獸"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
+            "value": "<line-height=26>※兵員、武具、召喚獸、幻兵卡<br>會根據設定好的項目自動編配。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
+            "value": "<line-height=26>※所勾選的裝備品將會根據設定自動編配，<br>其餘則不變。"
+        },
+        {
             "key": "RECOMMEND_TEAM_FAVORITE",
             "value": "優先鎖定武具"
         },
         {
-            "key": "RECOMMEND_TEAM_LIMITBURST",
-            "value": "優先極限技武具"
+            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
+            "value": "<line-height=26>※勾選後則會優先編配<br>於兵員詳細資訊設定的鎖定武具。"
         },
         {
             "key": "RECOMMEND_TEAM_CALCULATING",
             "value": "檢索中"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_TITLE",
+            "value": "請勾選項目"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
+            "value": "請由武具、幻兵卡、召喚獸中<br>最少選1個勾選。"
         },
         {
             "key": "TEAM_NAME_INPUT_TITLE",
@@ -3119,6 +3243,14 @@
         {
             "key": "CHAT_GUILD_JOIN_DESC",
             "value": "要加入公會嗎？"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_CHAT",
+            "value": "聊天"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
+            "value": "戰鬥紀錄"
         },
         {
             "key": "CHAT_NOTTFY_TEXT",
@@ -3577,6 +3709,10 @@
             "value": "能力演出"
         },
         {
+            "key": "OPTION_EFFECT",
+            "value": "範圍效果顯示"
+        },
+        {
             "key": "OPTION_SOUND",
             "value": "音樂"
         },
@@ -3623,6 +3759,66 @@
         {
             "key": "OPTION_CHANGE_DRAW",
             "value": "切換圖像設定"
+        },
+        {
+            "key": "OPTION_LAP_TITLE",
+            "value": "連刷設定"
+        },
+        {
+            "key": "OPTION_LAP_LIMIT",
+            "value": "連刷限制"
+        },
+        {
+            "key": "OPTION_LAP_NONE",
+            "value": "無限制"
+        },
+        {
+            "key": "OPTION_LAP_TIMES",
+            "value": "連刷數"
+        },
+        {
+            "key": "OPTION_LAP_ITEM",
+            "value": "獲得道具"
+        },
+        {
+            "key": "OPTION_LAP_USE_ITEM",
+            "value": "消耗體力"
+        },
+        {
+            "key": "OPTION_LAP_STOP",
+            "value": "停止連刷"
+        },
+        {
+            "key": "OPTION_LAP_FEAVER",
+            "value": "探險陸行鳥Fever"
+        },
+        {
+            "key": "OPTION_LAP_CAPRICIOUS",
+            "value": "遇到流動商店"
+        },
+        {
+            "key": "OPTION_LAP_RAID",
+            "value": "共鬥頭目出現"
+        },
+        {
+            "key": "OPTION_LAP_STOP_CAUTION",
+            "value": "※若設定為ON，出現跳轉演示畫面時將會停止連刷。"
+        },
+        {
+            "key": "OPTION_LAP_AP_USE",
+            "value": "自動使用體力恢復藥"
+        },
+        {
+            "key": "OPTION_LAP_AP_TIMES",
+            "value": "恢復次數上限"
+        },
+        {
+            "key": "OPTION_LAP_AP_CAUTION",
+            "value": "※連刷中體力不足時將自動恢復體力。<br>※不會以消耗恢復藥以外的方式恢復體力。<br>※會由恢復量較大的恢復藥用起。"
+        },
+        {
+            "key": "OPTION_ITEM_TITLE",
+            "value": "選擇道具"
         },
         {
             "key": "LAPIS_CAUTION_GOOGLE",
@@ -4001,490 +4197,6 @@
             "value": "技術排名"
         },
         {
-            "key": "DENY",
-            "value": "拒絕"
-        },
-        {
-            "key": "IAP_CUR_4217",
-            "value": "EUR;CHF;USD;"
-        },
-        {
-            "key": "CURRENCY_SEPARATOR",
-            "value": ","
-        },
-        {
-            "key": "CONNECT_SELECT_ACCOUNTBINDING",
-            "value": "帳號綁定"
-        },
-        {
-            "key": "TARGETADV_AGE_TITLE",
-            "value": "年齡驗證"
-        },
-        {
-            "key": "TARGETADV_AGE_CONTENT",
-            "value": "必須年滿{0}歲以上才能觀看個人化廣告。"
-        },
-        {
-            "key": "TARGETADV_AGE_YES",
-            "value": "我已經年滿{0}歲以上。"
-        },
-        {
-            "key": "TARGETADV_AGE_NO",
-            "value": "我未滿{0}歲。"
-        },
-        {
-            "key": "TARGETADV_TITLE",
-            "value": "廣告同意書"
-        },
-        {
-            "key": "TARGETADV_CONTENT",
-            "value": "請問要觀看個人化或是非個人化廣告呢？"
-        },
-        {
-            "key": "TARGETADV_OPTION_PERSO",
-            "value": "個人化"
-        },
-        {
-            "key": "TARGETADV_OPTION_NONPERSO",
-            "value": "非個人化"
-        },
-        {
-            "key": "LANGUAGE_SELECT_TITLE",
-            "value": "語言"
-        },
-        {
-            "key": "LANGUAGE_SELECT_CONTENT",
-            "value": "請選擇語言。<br>（可稍後進行變更）"
-        },
-        {
-            "key": "LANGUAGE_SELECT_CONFIRM_TITLE",
-            "value": "語言確認"
-        },
-        {
-            "key": "LANGUAGE_SELECT_CONFIRM_CONTENT",
-            "value": "將進行語言切換：<br><color=#F0C040>{0}</color> > <color=#00BB00>{1}</color>。<br><br>由於需要下載額外的資料，因此建議您在連接Wi-Fi的環境下進行。<br><br>將會返回至主標題畫面。是否要繼續進行？"
-        },
-        {
-            "key": "NEWGAME_TITLE",
-            "value": "開始遊戲"
-        },
-        {
-            "key": "NEWGAME_BTN",
-            "value": "新遊戲"
-        },
-        {
-            "key": "CONTINUE_BTN",
-            "value": "繼續"
-        },
-        {
-            "key": "ACCOUNT_BINDING_TITLE",
-            "value": "帳號綁定"
-        },
-        {
-            "key": "ACCOUNT_BINDING_APPLE",
-            "value": "Apple帳號登入"
-        },
-        {
-            "key": "ACCOUNT_BINDING_GOOGLE",
-            "value": "Google帳號登入"
-        },
-        {
-            "key": "ACCOUNT_BINDING_FACEBOOK",
-            "value": "Facebook帳號登入"
-        },
-        {
-            "key": "ACCOUNT_BINDING_SQEX",
-            "value": "SQEX帳號登入"
-        },
-        {
-            "key": "ACCOUNT_BINDING_GUEST",
-            "value": "訪客"
-        },
-        {
-            "key": "DLC_CHECK_WW_TITLE",
-            "value": "下載數據"
-        },
-        {
-            "key": "DLC_CHECK_WW_DESC",
-            "value": "下載數據 <color=#F0C040>(大約{0}MB)</color><br>建議在 <color=#F0C040>連接Wi-Fi</color> 環境下進行。<br>（可稍後進行變更）"
-        },
-        {
-            "key": "DLC_CHECK_WW_TITLE_VO_EN",
-            "value": "使用英文配音"
-        },
-        {
-            "key": "DLC_CHECK_WW_TITLE_VO_JA",
-            "value": "使用日文配音"
-        },
-        {
-            "key": "DLC_CHECK_WW_TITLE_VO_OFF",
-            "value": "不使用配音 (減少數據消耗)"
-        },
-        {
-            "key": "ACCOUNT_BINDING_ERROR_TITLE",
-            "value": "警告"
-        },
-        {
-            "key": "ACCOUNT_BINDING_ERROR_DESC",
-            "value": "<color=#F0C040>帳號綁定失敗</color><br>請重新嘗試"
-        },
-        {
-            "key": "FEATURE_DISABLED_CBT",
-            "value": "<color=#F0C040>CBT功能暫停無法使用。</color>"
-        },
-        {
-            "key": "LANG_JAPANESE",
-            "value": "日文"
-        },
-        {
-            "key": "LANG_ENGLISH",
-            "value": "英文"
-        },
-        {
-            "key": "LANG_FRENCH",
-            "value": "法文"
-        },
-        {
-            "key": "LANG_GERMAN",
-            "value": "德文"
-        },
-        {
-            "key": "LANG_SPANISH",
-            "value": "西班牙文"
-        },
-        {
-            "key": "LANG_KOREAN",
-            "value": "韓文"
-        },
-        {
-            "key": "LANG_CHINESE_ZH",
-            "value": "繁體中文"
-        },
-        {
-            "key": "STATUS_NBEAST_TYPE_RARE_MONSTER",
-            "value": "稀有魔物"
-        },
-        {
-            "key": "SELECTLIST_NO_UNITS",
-            "value": "該兵員不存在"
-        },
-        {
-            "key": "ABILITY_PARTY_DETAIL_EFFECT_OVERLAP",
-            "value": "效果重複"
-        },
-        {
-            "key": "CONNECT_SELECT_SUCCESS_TITLE",
-            "value": "成功連結到社群帳號"
-        },
-        {
-            "key": "CONNECT_APPLE_TITLE",
-            "value": "連結 Apple 帳號"
-        },
-        {
-            "key": "CONNECT_DEVICE_NOT_SUPPORT_DESC",
-            "value": "Apple ID登入失敗。請確認您的Apple ID已開啟雙重認證（2FA），並且已於iOS 13以上版本的裝置中登入iCloud。"
-        },
-        {
-            "key": "CONNECT_WARNING_TITLE",
-            "value": "警告"
-        },
-        {
-            "key": "CONNECT_DISCONNECT_PREVIOUS_ACC_DESC",
-            "value": "若要變更至新的裝置時，需要連結帳號來進行繼承紀錄。<br>各社群帳號的可連結次數各為1次。進行變更的話，目前連結中的社群帳號將無法再次進行連結。<br>真的要繼續執行？"
-        },
-        {
-            "key": "MULTI_ROOM_SETTING_PASSWORD_DISABLE",
-            "value": "不可變更"
-        },
-        {
-            "key": "VISION_BULK_ENHANCE_CANCEL",
-            "value": "套用"
-        },
-        {
-            "key": "TIPS_BACK",
-            "value": "<< 返回"
-        },
-        {
-            "key": "TIPS_NEXT",
-            "value": "繼續 >>"
-        },
-        {
-            "key": "STATUS_TITLE",
-            "value": "<cspace=0.6>兵員狀態"
-        },
-        {
-            "key": "SUPPORT_MAIL_DESC_GL",
-            "value": "<line-height=30>發送諮詢郵件後，系統會自動回覆一封郵件表示受理，<br>因此請將「@wotvffbe.com」設定為允許接收的寄件者。<br>※根據郵件軟體的不同，此郵件可能會被視為垃圾郵件。<br><br>▼以下資訊將會引用至郵件中：<br>·玩家ID<br>·遊戲版本<br>·DLC_Ver<br>·玩家名稱<br>·使用機種<br>·使用的OS版本<br><br>■諮詢相關注意事項<br>·根據諮詢的內容，有時可能需要一定的時間才能回覆，也有可能出現無法回覆的情況。<br>　※如遇星期六、日和國定假日，或於弊公司暫停營業的期間中，服務窗口也將暫停受理服務，因此會於下個工作日才進行回覆。<br>·關於諮詢的受理、回覆均以郵件形式進行。<br>·若諮詢有關通知內或官方網站上公開的內容與異常問題，我們可能將會根據公告的內容進行回覆，敬請見諒。<br>·我們並不會回覆玩家有關遊戲攻略資訊或遊戲設定方面的諮詢。<br>·原則上我們並不會回覆有關建議或意見的諮詢郵件，但我們會確認所有的內容並作為將來的參考。<br>·諮詢郵件將由gumi股份有限公司回覆。<br>·gumi股份有限公司的隱私權政策請參考以下連結頁面。"
-        },
-        {
-            "key": "EXPENDITION_ITEM_TIMES",
-            "value": "次"
-        },
-        {
-            "key": "MICROPHONE_PERMISSION_ERROR_TITLE",
-            "value": "警告"
-        },
-        {
-            "key": "MICROPHONE_PERMISSION_ERROR_DESC",
-            "value": "為開啟語音轉換文字功能，請允許應用程式存取您的麥克風。請至裝置的設定中允許應用程式進行存取。"
-        },
-        {
-            "key": "TTS_SPEECH_RATE_SLOW",
-            "value": "慢速"
-        },
-        {
-            "key": "TTS_SPEECH_RATE_NORMAL",
-            "value": "正常"
-        },
-        {
-            "key": "TTS_SPEECH_RATE_FAST",
-            "value": "快速"
-        },
-        {
-            "key": "PERMISSION_ANDROID_STORAGE_TITLE",
-            "value": "請求許可"
-        },
-        {
-            "key": "PERMISSION_ANDROID_STORAGE_DESCRIPTION",
-            "value": "為開啟遊戲中各種功能，請允許應用程式存取您的儲存空間。<br>請於下個畫面確認進行許可。<br>或至裝置的設定中允許應用程式進行存取。"
-        },
-        {
-            "key": "PERMISSION_ANDROID_REQUEST",
-            "value": "許可"
-        },
-        {
-            "key": "PERMISSION_ANDROID_SETTING",
-            "value": "設定"
-        },
-        {
-            "key": "DAY_TEXT",
-            "value": "日"
-        },
-        {
-            "key": "HOUR_TEXT",
-            "value": "時"
-        },
-        {
-            "key": "MINUTE_TEXT",
-            "value": "分"
-        },
-        {
-            "key": "MONTH_TEXT",
-            "value": "月"
-        },
-        {
-            "key": "SECOND_TEXT",
-            "value": "秒"
-        },
-        {
-            "key": "YEAR_TEXT",
-            "value": "年"
-        },
-        {
-            "key": "POWER_SAVE",
-            "value": "觸碰水晶解除省電模式"
-        },
-        {
-            "key": "SORT_TITLE_AP",
-            "value": "AP"
-        },
-        {
-            "key": "SORT_TITLE_DEFENCE",
-            "value": "防禦"
-        },
-        {
-            "key": "SORT_TITLE_MIND",
-            "value": "精神"
-        },
-        {
-            "key": "SORT_TITLE_DEXTERITY",
-            "value": "靈巧"
-        },
-        {
-            "key": "SORT_TITLE_LUCK",
-            "value": "運氣"
-        },
-        {
-            "key": "STATUS_HATE",
-            "value": "仇恨"
-        },
-        {
-            "key": "ABILITY_STATUS_USE_AUTO",
-            "value": "於自動能力使用"
-        },
-        {
-            "key": "ABILITY_STATUS_DETAIL",
-            "value": "詳細設定"
-        },
-        {
-            "key": "ABILITY_STATUS_DETAIL_ON",
-            "value": "詳細設定：ON"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_TITLE",
-            "value": "於自動戰鬥使用"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_QUEST",
-            "value": "任務"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_MULTI",
-            "value": "協力"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_DUEL",
-            "value": "決鬥"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_GUILD",
-            "value": "公會戰鬥"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_TOWER",
-            "value": "白磁之塔"
-        },
-        {
-            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
-            "value": "選擇兵員"
-        },
-        {
-            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
-            "value": "已被編配在<br>另一隊伍（{0}）。<br>確定要選擇嗎？<br>（會將兵員從已編配的<br>隊伍移除。）"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
-            "value": "普通"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
-            "value": "期間限定"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
-            "value": "編配規則"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
-            "value": "<line-height=22>※無法於複數的攻擊／防禦隊伍編配同一個兵員、武具、召喚獸及幻兵卡。"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
-            "value": "選擇優先項目"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
-            "value": "選擇自動編配對象"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
-            "value": "全部自動編配"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
-            "value": "武具"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
-            "value": "幻兵卡"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
-            "value": "召喚獸"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
-            "value": "<line-height=26>※兵員、武具、召喚獸、幻兵卡<br>會根據設定好的項目自動編配。"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
-            "value": "<line-height=26>※所勾選的裝備品將會根據設定自動編配，<br>其餘則不變。"
-        },
-        {
-            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
-            "value": "<line-height=26>※勾選後則會優先編配<br>於兵員詳細資訊設定的鎖定武具。"
-        },
-        {
-            "key": "RECOMMEND_TEAM_ERROR_TITLE",
-            "value": "請勾選項目"
-        },
-        {
-            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
-            "value": "請由武具、幻兵卡、召喚獸中<br>最少選1個勾選。"
-        },
-        {
-            "key": "CHAT_GUILD_FILTER_CHAT",
-            "value": "聊天"
-        },
-        {
-            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
-            "value": "戰鬥紀錄"
-        },
-        {
-            "key": "OPTION_EFFECT",
-            "value": "範圍效果顯示"
-        },
-        {
-            "key": "OPTION_LAP_TITLE",
-            "value": "連刷設定"
-        },
-        {
-            "key": "OPTION_LAP_LIMIT",
-            "value": "連刷限制"
-        },
-        {
-            "key": "OPTION_LAP_NONE",
-            "value": "無限制"
-        },
-        {
-            "key": "OPTION_LAP_TIMES",
-            "value": "連刷數"
-        },
-        {
-            "key": "OPTION_LAP_ITEM",
-            "value": "獲得道具"
-        },
-        {
-            "key": "OPTION_LAP_USE_ITEM",
-            "value": "消耗體力"
-        },
-        {
-            "key": "OPTION_LAP_STOP",
-            "value": "停止連刷"
-        },
-        {
-            "key": "OPTION_LAP_FEAVER",
-            "value": "探險陸行鳥Fever"
-        },
-        {
-            "key": "OPTION_LAP_CAPRICIOUS",
-            "value": "遇到流動商店"
-        },
-        {
-            "key": "OPTION_LAP_RAID",
-            "value": "共鬥頭目出現"
-        },
-        {
-            "key": "OPTION_LAP_STOP_CAUTION",
-            "value": "※若設定為ON，出現跳轉演示畫面時將會停止連刷。"
-        },
-        {
-            "key": "OPTION_LAP_AP_USE",
-            "value": "自動使用體力恢復薬"
-        },
-        {
-            "key": "OPTION_LAP_AP_TIMES",
-            "value": "恢復回数上限"
-        },
-        {
-            "key": "OPTION_LAP_AP_CAUTION",
-            "value": "※連刷中體力不足時將自動恢復體力。<br>※不會以消耗恢復藥以外的方式恢復體力。<br>※會由恢復量較大的恢復藥用起。"
-        },
-        {
-            "key": "OPTION_ITEM_TITLE",
-            "value": "選擇道具"
-        },
-        {
             "key": "ARTI_CONDITION_TITLE",
             "value": "可裝備條件"
         },
@@ -4821,8 +4533,292 @@
             "value": "已讀取序號。<br>回到主畫面。"
         },
         {
+            "key": "DENY",
+            "value": "拒絕"
+        },
+        {
+            "key": "IAP_CUR_4217",
+            "value": "EUR;CHF;USD;"
+        },
+        {
+            "key": "CURRENCY_SEPARATOR",
+            "value": ","
+        },
+        {
+            "key": "CONNECT_SELECT_ACCOUNTBINDING",
+            "value": "帳號綁定"
+        },
+        {
+            "key": "TARGETADV_AGE_TITLE",
+            "value": "年齡驗證"
+        },
+        {
+            "key": "TARGETADV_AGE_CONTENT",
+            "value": "必須年滿{0}歲以上才能觀看個人化廣告。"
+        },
+        {
+            "key": "TARGETADV_AGE_YES",
+            "value": "我已經年滿{0}歲以上。"
+        },
+        {
+            "key": "TARGETADV_AGE_NO",
+            "value": "我未滿{0}歲。"
+        },
+        {
+            "key": "TARGETADV_TITLE",
+            "value": "廣告同意書"
+        },
+        {
+            "key": "TARGETADV_CONTENT",
+            "value": "請問要觀看個人化或是非個人化廣告呢？"
+        },
+        {
+            "key": "TARGETADV_OPTION_PERSO",
+            "value": "個人化"
+        },
+        {
+            "key": "TARGETADV_OPTION_NONPERSO",
+            "value": "非個人化"
+        },
+        {
+            "key": "LANGUAGE_SELECT_TITLE",
+            "value": "語言"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONTENT",
+            "value": "請選擇語言。<br>（可稍後進行變更）"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONFIRM_TITLE",
+            "value": "語言確認"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONFIRM_CONTENT",
+            "value": "將進行語言切換：<br><color=#F0C040>{0}</color> > <color=#00BB00>{1}</color>。<br><br>由於需要下載額外的資料，因此建議您在連接Wi-Fi的環境下進行。<br><br>將會返回至主標題畫面。是否要繼續進行？"
+        },
+        {
+            "key": "NEWGAME_TITLE",
+            "value": "開始遊戲"
+        },
+        {
+            "key": "NEWGAME_BTN",
+            "value": "新遊戲"
+        },
+        {
+            "key": "CONTINUE_BTN",
+            "value": "繼續"
+        },
+        {
+            "key": "ACCOUNT_BINDING_TITLE",
+            "value": "帳號綁定"
+        },
+        {
+            "key": "ACCOUNT_BINDING_APPLE",
+            "value": "Apple帳號登入"
+        },
+        {
+            "key": "ACCOUNT_BINDING_GOOGLE",
+            "value": "Google帳號登入"
+        },
+        {
+            "key": "ACCOUNT_BINDING_FACEBOOK",
+            "value": "Facebook帳號登入"
+        },
+        {
+            "key": "ACCOUNT_BINDING_SQEX",
+            "value": "SQEX帳號登入"
+        },
+        {
+            "key": "ACCOUNT_BINDING_GUEST",
+            "value": "訪客"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE",
+            "value": "下載數據"
+        },
+        {
+            "key": "DLC_CHECK_WW_DESC",
+            "value": "下載數據 <color=#F0C040>(大約{0}MB)</color><br>建議在 <color=#F0C040>連接Wi-Fi</color> 環境下進行。<br>（可稍後進行變更）"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_EN",
+            "value": "使用英文配音"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_JA",
+            "value": "使用日文配音"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_OFF",
+            "value": "不使用配音 (減少數據消耗)"
+        },
+        {
+            "key": "ACCOUNT_BINDING_ERROR_TITLE",
+            "value": "警告"
+        },
+        {
+            "key": "ACCOUNT_BINDING_ERROR_DESC",
+            "value": "<color=#F0C040>帳號綁定失敗</color><br>請重新嘗試"
+        },
+        {
+            "key": "FEATURE_DISABLED_CBT",
+            "value": "<color=#F0C040>CBT功能暫停無法使用。</color>"
+        },
+        {
+            "key": "LANG_JAPANESE",
+            "value": "日文"
+        },
+        {
+            "key": "LANG_ENGLISH",
+            "value": "英文"
+        },
+        {
+            "key": "LANG_FRENCH",
+            "value": "法文"
+        },
+        {
+            "key": "LANG_GERMAN",
+            "value": "德文"
+        },
+        {
+            "key": "LANG_SPANISH",
+            "value": "西班牙文"
+        },
+        {
+            "key": "LANG_KOREAN",
+            "value": "韓文"
+        },
+        {
+            "key": "LANG_CHINESE_ZH",
+            "value": "繁體中文"
+        },
+        {
+            "key": "STATUS_NBEAST_TYPE_RARE_MONSTER",
+            "value": "稀有魔物"
+        },
+        {
+            "key": "SELECTLIST_NO_UNITS",
+            "value": "該兵員不存在"
+        },
+        {
+            "key": "ABILITY_PARTY_DETAIL_EFFECT_OVERLAP",
+            "value": "效果重複"
+        },
+        {
+            "key": "CONNECT_SELECT_SUCCESS_TITLE",
+            "value": "成功連結到社群帳號"
+        },
+        {
+            "key": "CONNECT_APPLE_TITLE",
+            "value": "連結 Apple 帳號"
+        },
+        {
+            "key": "CONNECT_DEVICE_NOT_SUPPORT_DESC",
+            "value": "Apple ID登入失敗。請確認您的Apple ID已開啟雙重認證（2FA），並且已於iOS 13以上版本的裝置中登入iCloud。"
+        },
+        {
+            "key": "CONNECT_WARNING_TITLE",
+            "value": "警告"
+        },
+        {
+            "key": "CONNECT_DISCONNECT_PREVIOUS_ACC_DESC",
+            "value": "若要變更至新的裝置時，需要連結帳號來進行繼承紀錄。<br>各社群帳號的可連結次數各為1次。進行變更的話，目前連結中的社群帳號將無法再次進行連結。<br>真的要繼續執行？"
+        },
+        {
+            "key": "MULTI_ROOM_SETTING_PASSWORD_DISABLE",
+            "value": "不可變更"
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_CANCEL",
+            "value": "套用"
+        },
+        {
+            "key": "TIPS_BACK",
+            "value": "<< 返回"
+        },
+        {
+            "key": "TIPS_NEXT",
+            "value": "繼續 >>"
+        },
+        {
+            "key": "STATUS_TITLE",
+            "value": "<cspace=0.6>兵員狀態"
+        },
+        {
+            "key": "SUPPORT_MAIL_DESC_GL",
+            "value": "<line-height=30>發送諮詢郵件後，系統會自動回覆一封郵件表示受理，<br>因此請將「@wotvffbe.com」設定為允許接收的寄件者。<br>※根據郵件軟體的不同，此郵件可能會被視為垃圾郵件。<br><br>▼以下資訊將會引用至郵件中：<br>·玩家ID<br>·遊戲版本<br>·DLC_Ver<br>·玩家名稱<br>·使用機種<br>·使用的OS版本<br><br>■諮詢相關注意事項<br>·根據諮詢的內容，有時可能需要一定的時間才能回覆，也有可能出現無法回覆的情況。<br>　※如遇星期六、日和國定假日，或於弊公司暫停營業的期間中，服務窗口也將暫停受理服務，因此會於下個工作日才進行回覆。<br>·關於諮詢的受理、回覆均以郵件形式進行。<br>·若諮詢有關通知內或官方網站上公開的內容與異常問題，我們可能將會根據公告的內容進行回覆，敬請見諒。<br>·我們並不會回覆玩家有關遊戲攻略資訊或遊戲設定方面的諮詢。<br>·原則上我們並不會回覆有關建議或意見的諮詢郵件，但我們會確認所有的內容並作為將來的參考。<br>·諮詢郵件將由gumi股份有限公司回覆。<br>·gumi股份有限公司的隱私權政策請參考以下連結頁面。"
+        },
+        {
+            "key": "EXPENDITION_ITEM_TIMES",
+            "value": "次"
+        },
+        {
+            "key": "MICROPHONE_PERMISSION_ERROR_TITLE",
+            "value": "警告"
+        },
+        {
+            "key": "MICROPHONE_PERMISSION_ERROR_DESC",
+            "value": "為開啟語音轉換文字功能，請允許應用程式存取您的麥克風。請至裝置的設定中允許應用程式進行存取。"
+        },
+        {
+            "key": "TTS_SPEECH_RATE_SLOW",
+            "value": "慢速"
+        },
+        {
+            "key": "TTS_SPEECH_RATE_NORMAL",
+            "value": "正常"
+        },
+        {
+            "key": "TTS_SPEECH_RATE_FAST",
+            "value": "快速"
+        },
+        {
+            "key": "PERMISSION_ANDROID_STORAGE_TITLE",
+            "value": "請求許可"
+        },
+        {
+            "key": "PERMISSION_ANDROID_STORAGE_DESCRIPTION",
+            "value": "為開啟遊戲中各種功能，請允許應用程式存取您的儲存空間。<br>請於下個畫面確認進行許可。<br>或至裝置的設定中允許應用程式進行存取。"
+        },
+        {
+            "key": "PERMISSION_ANDROID_REQUEST",
+            "value": "許可"
+        },
+        {
+            "key": "PERMISSION_ANDROID_SETTING",
+            "value": "設定"
+        },
+        {
+            "key": "DAY_TEXT",
+            "value": "日"
+        },
+        {
+            "key": "HOUR_TEXT",
+            "value": "時"
+        },
+        {
+            "key": "MINUTE_TEXT",
+            "value": "分"
+        },
+        {
+            "key": "MONTH_TEXT",
+            "value": "月"
+        },
+        {
+            "key": "SECOND_TEXT",
+            "value": "秒"
+        },
+        {
+            "key": "YEAR_TEXT",
+            "value": "年"
+        },
+        {
             "key": "RECOMMEND_TEAM_CAUTION",
             "value": "<line-height=26>※兵員、武具、召喚獸、幻兵卡<br>會根據設定好的項目自動編配。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_LIMITBURST",
+            "value": "優先極限技武具"
         },
         {
             "key": "DEBUG_SELECT_TUTORIAL_TITLE",

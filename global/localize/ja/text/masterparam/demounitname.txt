@@ -129,6 +129,14 @@
             "value": "ホルン兵,ホルン兵A,ホルン兵B,ホルン兵C,ホルン兵D,ホルン兵E,ホルン兵F,ホルン兵G"
         },
         {
+            "key": "DU_LW_LYCS",
+            "value": "レイシェス"
+        },
+        {
+            "key": "DU_LW_GLAR",
+            "value": "グラール"
+        },
+        {
             "key": "DU_LW_MURG",
             "value": "ムラガ・フェネス,ムラガ,ムラガの声"
         },
@@ -151,6 +159,14 @@
         {
             "key": "DU_LW_SO_03",
             "value": "フェネス兵"
+        },
+        {
+            "key": "DU_LW_MLNA",
+            "value": "メルニア"
+        },
+        {
+            "key": "DU_LW_RNEL",
+            "value": "ラネル"
         },
         {
             "key": "DU_LW_VADM",
@@ -201,6 +217,18 @@
             "value": "シムール"
         },
         {
+            "key": "DU_LW_HWLT",
+            "value": "ハウレット"
+        },
+        {
+            "key": "DU_LW_TITU",
+            "value": "タイタス"
+        },
+        {
+            "key": "DU_LW_CHEL",
+            "value": "チェル"
+        },
+        {
             "key": "DU_LW_SDLE",
             "value": "サーダリー・クルステア,サーダリー"
         },
@@ -239,6 +267,10 @@
         {
             "key": "DU_LW_SEVR",
             "value": "セヴェロ"
+        },
+        {
+            "key": "DU_LW_MRND",
+            "value": "ミランダ"
         },
         {
             "key": "DU_LW_GRSR",
@@ -349,8 +381,16 @@
             "value": "ルアーサ"
         },
         {
+            "key": "DU_LW_LVES",
+            "value": "ラヴィエス"
+        },
+        {
             "key": "DU_LW_MDNA",
             "value": "メディエナ"
+        },
+        {
+            "key": "DU_LW_TREL",
+            "value": "ティレル"
         },
         {
             "key": "DU_LW_CHCB",
@@ -371,6 +411,10 @@
         {
             "key": "DU_LW_TH_02",
             "value": "賊の頭目"
+        },
+        {
+            "key": "DU_LW_CH_00",
+            "value": "少年"
         },
         {
             "key": "DU_LW_WOLF",
@@ -405,54 +449,6 @@
             "value": "アーリマン"
         },
         {
-            "key": "DU_LW_IFRT",
-            "value": "イフリート"
-        },
-        {
-            "key": "DU_LW_LYCS",
-            "value": "レイシェス"
-        },
-        {
-            "key": "DU_LW_GLAR",
-            "value": "グラール"
-        },
-        {
-            "key": "DU_LW_MLNA",
-            "value": "メルニア"
-        },
-        {
-            "key": "DU_LW_RNEL",
-            "value": "ラネル"
-        },
-        {
-            "key": "DU_LW_HWLT",
-            "value": "ハウレット"
-        },
-        {
-            "key": "DU_LW_TITU",
-            "value": "タイタス"
-        },
-        {
-            "key": "DU_LW_CHEL",
-            "value": "チェル"
-        },
-        {
-            "key": "DU_LW_MRND",
-            "value": "ミランダ"
-        },
-        {
-            "key": "DU_LW_LVES",
-            "value": "ラヴィエス"
-        },
-        {
-            "key": "DU_LW_TREL",
-            "value": "ティレル"
-        },
-        {
-            "key": "DU_LW_CH_00",
-            "value": "少年"
-        },
-        {
             "key": "DU_LW_WYVN",
             "value": "ワイバーン"
         },
@@ -471,6 +467,10 @@
         {
             "key": "DU_LW_GLEM",
             "value": "ゴーレム"
+        },
+        {
+            "key": "DU_LW_IFRT",
+            "value": "イフリート"
         }
     ]
 }

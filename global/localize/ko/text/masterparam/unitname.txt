@@ -269,6 +269,26 @@
             "value": "시무르"
         },
         {
+            "key": "UN_LW_P_ORDR",
+            "value": "오르도아"
+        },
+        {
+            "key": "UN_LW_P_LVES",
+            "value": "라비에스"
+        },
+        {
+            "key": "UN_FFT_P_AGRA",
+            "value": "아그리아스"
+        },
+        {
+            "key": "UN_FFT_P_DELT",
+            "value": "딜리타"
+        },
+        {
+            "key": "UN_FFT_P_MSTD",
+            "value": "무스타디오"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "몬트 레오니스"
         },
@@ -421,10 +441,6 @@
             "value": "레인"
         },
         {
-            "key": "UN_LW_E_QILF",
-            "value": "키르페"
-        },
-        {
             "key": "UN_LW_E_TREL",
             "value": "티렐"
         },
@@ -447,6 +463,18 @@
         {
             "key": "UN_LW_E_DRZA",
             "value": "돌루자"
+        },
+        {
+            "key": "UN_LW_E_QILF",
+            "value": "키르페"
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": "데스 머신"
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
+            "value": "데스 머신"
         },
         {
             "key": "UN_LW_E_RU_01_THI",
@@ -917,11 +945,11 @@
             "value": "승병"
         },
         {
-            "key": "UN_LW_E_PR_02_TIM_2",
+            "key": "UN_LW_E_PR_02_GRM",
             "value": "승병"
         },
         {
-            "key": "UN_LW_E_PR_02_GRM",
+            "key": "UN_LW_E_PR_02_TIM_2",
             "value": "승병"
         },
         {
@@ -1053,6 +1081,10 @@
             "value": "저주받은 해골"
         },
         {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": "저주받은 해골"
+        },
+        {
             "key": "UN_LW_E_ARMN",
             "value": "아리만"
         },
@@ -1149,16 +1181,12 @@
             "value": "가프가리온"
         },
         {
-            "key": "UN_LW_E_SKEL_02_2",
-            "value": "저주받은 해골"
+            "key": "UN_FFT_E_MSTD",
+            "value": "무스타디오"
         },
         {
-            "key": "UN_FF01_E_WRMC",
-            "value": "데스 머신"
-        },
-        {
-            "key": "UN_FF01_E_WRMC_RAID",
-            "value": "데스 머신"
+            "key": "UN_FFT_E_AGRA",
+            "value": "아그리아스"
         },
         {
             "key": "UN_LW_E_IGNT_TW_EX2",
@@ -1177,12 +1205,12 @@
             "value": "울프라마이터"
         },
         {
-            "key": "UN_LW_E_IGNT_02",
-            "value": "흑철마인"
-        },
-        {
             "key": "UN_LW_E_IGNT_01_QE",
             "value": "울프라마이터"
+        },
+        {
+            "key": "UN_LW_E_IGNT_02",
+            "value": "흑철마인"
         },
         {
             "key": "UN_LW_E_IGNT_2",
@@ -1195,14 +1223,6 @@
         {
             "key": "UN_LW_E_IGNT_BLM",
             "value": "흑마도사(남)"
-        },
-        {
-            "key": "UN_LW_E_THDG_QE",
-            "value": "투헤드 드래곤"
-        },
-        {
-            "key": "UN_LW_E_DABL",
-            "value": "디아볼로스"
         },
         {
             "key": "UN_LW_E_BHMT",
@@ -1265,10 +1285,6 @@
             "value": "오츄"
         },
         {
-            "key": "UN_LW_E_THDG",
-            "value": "투헤드 드래곤"
-        },
-        {
             "key": "UN_LW_E_SLIM",
             "value": "초록 슬라임"
         },
@@ -1277,12 +1293,28 @@
             "value": "초코 푸딩"
         },
         {
+            "key": "UN_LW_E_CSLI_QE",
+            "value": "초코 푸딩"
+        },
+        {
             "key": "UN_LW_E_CSLI_01",
             "value": "하얀 마시멜로"
         },
         {
-            "key": "UN_LW_E_CSLI_QE",
-            "value": "초코 푸딩"
+            "key": "UN_LW_E_THDG",
+            "value": "투헤드 드래곤"
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": "투헤드 드래곤"
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": "디아볼로스"
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
+            "value": "디아볼로스"
         },
         {
             "key": "UN_LW_E_IFRT_SIREN",
@@ -1339,10 +1371,6 @@
         {
             "key": "UN_FF01_E_WRMC_SIREN",
             "value": "데스 머신"
-        },
-        {
-            "key": "UN_LW_E_DABL_SIREN",
-            "value": "디아볼로스"
         },
         {
             "key": "UN_LW_E_ENBT",
@@ -1827,6 +1855,18 @@
         {
             "key": "UN_LW_S_DABL_AW2",
             "value": "디아볼로스"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01",
+            "value": "붉은 초코보"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW1",
+            "value": "붉은 초코보"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW2",
+            "value": "붉은 초코보"
         },
         {
             "key": "UN_GM_TREASURE",

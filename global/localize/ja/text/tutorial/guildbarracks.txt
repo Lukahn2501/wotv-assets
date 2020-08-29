@@ -42,19 +42,19 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "◆ダミー◆"
+            "value": "◆兵舎◆"
         },
         {
             "key": "SKIP_MSG",
-            "value": "ダミーのチュートリアルをスキップしますか？"
+            "value": "兵舎のチュートリアルを見ますか？"
         },
         {
             "key": "SKIP_YES",
-            "value": "聞く"
+            "value": "はい"
         },
         {
             "key": "SKIP_NO",
-            "value": "聞かない"
+            "value": "いいえ"
         }
     ]
 }

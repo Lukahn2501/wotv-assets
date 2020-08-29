@@ -222,7 +222,7 @@
         },
         {
             "key": "PARTYEDITOR_COND_WEATHER_SEP",
-            "value": "、"
+            "value": ", "
         },
         {
             "key": "PARTYEDITOR_COND_WEATHER_BOTTOM",
@@ -302,19 +302,19 @@
         },
         {
             "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
-            "value": "파티에 빈 슬롯이 있습니다."
+            "value": "빈 슬롯 있음"
         },
         {
             "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
-            "value": "파티에 빈 슬롯이 존재하면 기간 한정 길드 전투가 불리해질 수 있습니다. 이대로 설정을 마치시겠습니까?"
+            "value": "파티에 빈 슬롯이 있으면 기간 한정 길드 전투에서 불리해질 수 있습니다. 이대로 설정하시겠습니까?"
         },
         {
             "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
-            "value": "편성 조건을 달성하지 못했습니다."
+            "value": "편성 조건 미달성"
         },
         {
             "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
-            "value": "편성을 달성하지 못하여 이전 편성 데이터를 삭제합니다."
+            "value": "편성할 수 없으므로, 지난번 편성 데이터를 삭제합니다."
         }
     ]
 }

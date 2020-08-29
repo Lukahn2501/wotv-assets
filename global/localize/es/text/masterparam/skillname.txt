@@ -2509,6 +2509,150 @@
             "value": "DEF↑ nv. 1"
         },
         {
+            "key": "SK_FFT_AGRA_ATK",
+            "value": "Ataque normal"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_1",
+            "value": "Hoja del juicio"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_2",
+            "value": "Descarga sagrada"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_3",
+            "value": "Talismán"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_1",
+            "value": "Impacto norteño"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_2",
+            "value": "Guardia real de la princesa"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_3",
+            "value": "Protección de guardia real"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_4",
+            "value": "¡Creo en ti!"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_5",
+            "value": "Rompetodo"
+        },
+        {
+            "key": "SK_FFT_AGRA_R_1",
+            "value": "Defensa"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_1",
+            "value": "Mi héroe"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_2",
+            "value": "Honor de caballero"
+        },
+        {
+            "key": "SK_FFT_DELT_ATK",
+            "value": "Ataque normal"
+        },
+        {
+            "key": "SK_FFT_DELT_M_1",
+            "value": "Impacto purgador"
+        },
+        {
+            "key": "SK_FFT_DELT_M_2",
+            "value": "Aplastaaccesorios"
+        },
+        {
+            "key": "SK_FFT_DELT_M_3",
+            "value": "Hoja del karma"
+        },
+        {
+            "key": "SK_FFT_DELT_S_1",
+            "value": "Pedrada"
+        },
+        {
+            "key": "SK_FFT_DELT_S_2",
+            "value": "Cántico"
+        },
+        {
+            "key": "SK_FFT_DELT_S_3",
+            "value": "Hoja Piro++"
+        },
+        {
+            "key": "SK_FFT_DELT_S_4",
+            "value": "Meditación"
+        },
+        {
+            "key": "SK_FFT_DELT_S_5",
+            "value": "Hoja del juicio"
+        },
+        {
+            "key": "SK_FFT_DELT_R_1",
+            "value": "Contraplacaje"
+        },
+        {
+            "key": "SK_FFT_DELT_P_1",
+            "value": "Movimiento +1"
+        },
+        {
+            "key": "SK_FFT_DELT_P_2",
+            "value": "PA adquiridos↑"
+        },
+        {
+            "key": "SK_FFT_MSTD_ATK",
+            "value": "Ataque normal"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_1",
+            "value": "Multiexplosión"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_2",
+            "value": "Sello del mal"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_3",
+            "value": "Disparo rápido"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_1",
+            "value": "Tiro poderoso"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_2",
+            "value": "Salvaguarda"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_3",
+            "value": "Camuflaje"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_4",
+            "value": "Tiro al pie"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_5",
+            "value": "Tiro al brazo"
+        },
+        {
+            "key": "SK_FFT_MSTD_R_1",
+            "value": "Autopoción"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_1",
+            "value": "Afinar puntería"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_2",
+            "value": "Ataque a distancia↑"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "Hielo+"
         },
@@ -3041,22 +3185,6 @@
             "value": "Fuente cálida"
         },
         {
-            "key": "SK_CSLI_01_ATK",
-            "value": "Ataque normal"
-        },
-        {
-            "key": "SK_CSLI_01_M_01",
-            "value": "Lanzamiento de malvavisco"
-        },
-        {
-            "key": "SK_CSLI_01_M_02",
-            "value": "Fundición"
-        },
-        {
-            "key": "SK_CSLI_01_M_03",
-            "value": "Fiesta de chuches"
-        },
-        {
             "key": "SK_SLIM_ATK",
             "value": "Ataque normal"
         },
@@ -3071,6 +3199,22 @@
         {
             "key": "SK_SLIM_M_03",
             "value": "Diseminación de fluido"
+        },
+        {
+            "key": "SK_CSLI_01_ATK",
+            "value": "Ataque normal"
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "Lanzamiento de malvavisco"
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "Fundición"
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "Fiesta de chuches"
         },
         {
             "key": "SK_IFRT_ATK",
@@ -3277,6 +3421,22 @@
             "value": "Cañón de semillas orientado"
         },
         {
+            "key": "SK_WRMC_ATK",
+            "value": "Ataque normal"
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "Esparcemisiles"
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "Cañón láser"
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "Ataque nuclear"
+        },
+        {
             "key": "SK_THDG_ATK",
             "value": "Ataque normal"
         },
@@ -3303,22 +3463,6 @@
         {
             "key": "SK_THDG_M_05",
             "value": "Desencadenamiento"
-        },
-        {
-            "key": "SK_WRMC_ATK",
-            "value": "Ataque normal"
-        },
-        {
-            "key": "SK_WRMC_M_01",
-            "value": "Esparcemisiles"
-        },
-        {
-            "key": "SK_WRMC_M_02",
-            "value": "Cañón láser"
-        },
-        {
-            "key": "SK_WRMC_M_03",
-            "value": "Ataque nuclear"
         },
         {
             "key": "SK_DABL_ATK",
@@ -3375,26 +3519,6 @@
         {
             "key": "SK_LW_E_VIK_S_3",
             "value": "Espíritu rebelde"
-        },
-        {
-            "key": "SK_GMK_ATK_NEEDLE",
-            "value": "Trampa"
-        },
-        {
-            "key": "SK_GMK_ATK_FIRE",
-            "value": "Trampa"
-        },
-        {
-            "key": "SK_GMK_ATK_ARROW",
-            "value": "Trampa"
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_1",
-            "value": "Pedrada"
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_2",
-            "value": "Lluvia de piedras"
         },
         {
             "key": "SK_LB_LW_MONT",
@@ -3565,6 +3689,18 @@
             "value": "Coleccionista de bastones"
         },
         {
+            "key": "SK_LB_LW_ORDR",
+            "value": "Bombardero de Oldoa"
+        },
+        {
+            "key": "SK_LB_FFT_AGRA_01",
+            "value": "Tala incandescente"
+        },
+        {
+            "key": "SK_LB_FFT_DELT_01",
+            "value": "Rayo sacro de la verdad en tres pasos"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Fuego infernal"
         },
@@ -3643,6 +3779,10 @@
         {
             "key": "SK_SMN_DABL",
             "value": "Emisario de la noche"
+        },
+        {
+            "key": "SK_SMN_CHCB_01",
+            "value": "ChocoMeteo"
         },
         {
             "key": "SK_US_POTION",
@@ -4025,6 +4165,26 @@
             "value": "Habilidad maestra"
         },
         {
+            "key": "SK_MA_LW_ORDR",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_LW_LVES",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_FFT_AGRA",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_FFT_DELT",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_FFT_MSTD",
+            "value": "Habilidad maestra"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Ataque de corte +2"
         },
@@ -4077,6 +4237,26 @@
             "value": "Ataque de corte +20"
         },
         {
+            "key": "SK_LW_AVOID_1",
+            "value": "Tasa de evasión +1"
+        },
+        {
+            "key": "SK_LW_AVOID_2",
+            "value": "Tasa de evasión +2"
+        },
+        {
+            "key": "SK_LW_AVOID_3",
+            "value": "Tasa de evasión +3"
+        },
+        {
+            "key": "SK_LW_AVOID_4_N_SSR",
+            "value": "Tasa de evasión +4"
+        },
+        {
+            "key": "SK_LW_AVOID_5_SSR",
+            "value": "Tasa de evasión +8"
+        },
+        {
             "key": "SK_LW_SWO_003_1",
             "value": "Hoja sedante"
         },
@@ -4106,6 +4286,98 @@
         },
         {
             "key": "SK_LW_RNG_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_1",
+            "value": "Sable de coral"
+        },
+        {
+            "key": "SK_LW_SWO_006_5",
+            "value": "Sable de coral"
+        },
+        {
+            "key": "SK_LW_SWO_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_1",
+            "value": "Ataque de hielo↑ (Pasivo)"
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_5",
+            "value": "Ataque de hielo↑ (Pasivo)"
+        },
+        {
+            "key": "SK_LW_SPE_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FTW_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": "Sable carmesí"
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": "Sable carmesí"
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": "Sable carmesí"
+        },
+        {
+            "key": "SK_FFT_ACC_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_5",
             "value": ""
         },
         {
@@ -4209,7 +4481,23 @@
             "value": "Orgullo traicionero"
         },
         {
-            "key": "SK_KAT_LW_SIMR_1_1",
+            "key": "SK_ACC_LW_ORDR_1_1",
+            "value": "Tiranía heredada"
+        },
+        {
+            "key": "SK_SWO_LW_LVES_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FFT_AGRA_1_1",
+            "value": "Orgullo de caballería real"
+        },
+        {
+            "key": "SK_ARM_FFT_DELT_1_1",
+            "value": "Relegar"
+        },
+        {
+            "key": "SK_GUN_FFT_MSTD_1_1",
             "value": ""
         },
         {
@@ -4389,96 +4677,16 @@
             "value": ""
         },
         {
-            "key": "SK_SWO_LW_DRIO_1_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_1",
-            "value": "Sable de coral"
-        },
-        {
-            "key": "SK_LW_SWO_006_5",
-            "value": "Sable de coral"
-        },
-        {
-            "key": "SK_LW_SWO_007_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_1",
-            "value": "Ataque de hielo↑ (Pasivo)"
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_5",
-            "value": "Ataque de hielo↑ (Pasivo)"
-        },
-        {
             "key": "SK_KAT_LW_DIAA_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_1",
+            "key": "SK_SWO_LW_DRIO_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_5",
+            "key": "SK_KAT_LW_SIMR_1_1",
             "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_FTW_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_1",
-            "value": "Sable carmesí"
-        },
-        {
-            "key": "SK_LW_BSW_011_3",
-            "value": "Sable carmesí"
-        },
-        {
-            "key": "SK_LW_BSW_011_5",
-            "value": "Sable carmesí"
         },
         {
             "key": "SK_VC_LW_GLEM_GS",
@@ -4781,18 +4989,6 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_THDG_GS",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GS_AW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GSMAX",
-            "value": ""
-        },
-        {
             "key": "SK_VC_LW_ADLD_GS",
             "value": ""
         },
@@ -4817,6 +5013,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_FF01_DMAC_GS",
             "value": ""
         },
@@ -4826,6 +5034,30 @@
         },
         {
             "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
             "value": ""
         },
         {
@@ -4965,15 +5197,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS",
+            "key": "SK_VC_FFT_MV2_GS",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS_AW",
+            "key": "SK_VC_FFT_MV2_GSAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GSMAX",
+            "key": "SK_VC_FFT_MV3_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSMAX",
             "value": ""
         },
         {
@@ -5269,27 +5509,15 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_P",
+            "key": "SK_VC_LW_CBVPARTY1_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_WHITEDAY1_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_WHITEDAY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {
@@ -5437,6 +5665,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_THDG_P",
             "value": ""
         },
@@ -5473,27 +5725,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "key": "SK_VC_FFT_MV2_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "key": "SK_VC_FFT_MV2_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "key": "SK_VC_FFT_MV3_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_P",
+            "key": "SK_VC_FFT_MV3_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_CBVPARTY1_PMAX",
+            "key": "SK_VC_FFT_MV3_PMAX",
             "value": ""
         },
         {
@@ -5555,6 +5803,10 @@
         {
             "key": "SK_BTL_RANGE_1-20_U",
             "value": "Alcance 1-20↑"
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U_PA",
+            "value": "Alcance 1-15↑"
         },
         {
             "key": "SK_BTL_HP_100-99900_D",
@@ -6077,6 +6329,74 @@
             "value": "Res. a todos los elementos 1-80↓ (Base)"
         },
         {
+            "key": "SK_BTL_RES_OTFIRE_1_80_U",
+            "value": "Todas las res. excepto fuego 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_U",
+            "value": "Todas las res. excepto agua 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_U",
+            "value": "Todas las res. excepto viento 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_U",
+            "value": "Todas las res. excepto rayo 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_U",
+            "value": "Todas las res. excepto hielo 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_U",
+            "value": "Todas las res. excepto tierra 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_U",
+            "value": "Todas las res. excepto oscuridad 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_U",
+            "value": "Todas las res. excepto hielo 1-80↑ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_D",
+            "value": "Todas las res. excepto fuego 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_D",
+            "value": "Todas las res. excepto agua 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_D",
+            "value": "Todas las res. excepto viento 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_D",
+            "value": "Todas las res. excepto rayo 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_D",
+            "value": "Todas las res. excepto hielo 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_D",
+            "value": "Todas las res. excepto tierra 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_D",
+            "value": "Todas las res. excepto oscuridad 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_D",
+            "value": "Todas las res. excepto luz 1-80↓ (Base)"
+        },
+        {
+            "key": "SK_BTL_RES_OTELEMALL_1_80_D",
+            "value": "Todas las res. excepto res. elemental 1-80↓ (Base)"
+        },
+        {
             "key": "SK_BTL_HP_100-99900_U_PA",
             "value": "VIT máx. 100-99 900↑ (pasiva)"
         },
@@ -6175,6 +6495,14 @@
         {
             "key": "SK_BTL_KILLER_SHINE_1-100_U",
             "value": "Comesacros 1-100↑"
+        },
+        {
+            "key": "SK_BTL_CHARM_1-100_U",
+            "value": "Probabilidad de estado alterado [embrujo] 1-100↑"
+        },
+        {
+            "key": "SK_BTL_POIS_1-100_U",
+            "value": "Probabilidad de estado alterado [veneno] 1-100↑"
         },
         {
             "key": "SK_BTL_TOAD_1-100_U",
@@ -6299,6 +6627,26 @@
         {
             "key": "SK_GMK_ATK_TEST_KATA_2",
             "value": "Ataque provisional de mecanismo (catapulta de zona)"
+        },
+        {
+            "key": "SK_GMK_ATK_NEEDLE",
+            "value": "Trampa"
+        },
+        {
+            "key": "SK_GMK_ATK_FIRE",
+            "value": "Trampa"
+        },
+        {
+            "key": "SK_GMK_ATK_ARROW",
+            "value": "Trampa"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1",
+            "value": "Pedrada"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2",
+            "value": "Lluvia de piedras"
         },
         {
             "key": "SK_LW_WAR_P_2",

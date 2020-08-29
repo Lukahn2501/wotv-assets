@@ -1,6 +1,10 @@
 {
     "infos": [
         {
+            "key": "VideoGacha_Normal",
+            "value": ""
+        },
+        {
             "key": "init",
             "value": ""
         },
@@ -850,23 +854,23 @@
         },
         {
             "key": "5step-gacha_gl20200812_10_step5",
-            "value": ""
+            "value": "[8월] 소환 메달 A 100장 등장"
         },
         {
             "key": "5step-gacha_gl20200812_10_step4",
-            "value": ""
+            "value": "속성 마음 조각 × 50 선택 소환 티켓 1장 등장"
         },
         {
             "key": "5step-gacha_gl20200812_10_step3",
-            "value": ""
+            "value": "각성 휘석 × 50 선택 소환 티켓 1장 등장"
         },
         {
             "key": "5step-gacha_gl20200812_10_step2",
-            "value": ""
+            "value": "[8월] 소환 메달 A 100장 등장"
         },
         {
             "key": "5step-gacha_gl20200812_10_step1",
-            "value": ""
+            "value": "[8월] 소환 메달 A 100장 등장"
         },
         {
             "key": "5step-gacha_gl20200812_10",
@@ -875,6 +879,166 @@
         {
             "key": "p_gacha_vc_gl20200812_10",
             "value": "[8월] 소환 메달 A 100장 등장"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_01",
+            "value": "[8월] 소환 메달 B 10장 등장"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "[8월] 소환 메달 B 100장 등장"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step3",
+            "value": "무지개의 마음 조각 5개 등장"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step2",
+            "value": "무지개의 마음 조각 3개 등장"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step1",
+            "value": "무지개의 마음 조각 1개 등장"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step5",
+            "value": "UR 유닛 1명 보장"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step4",
+            "value": "속성 마음 조각 × 50 선택 소환 티켓 1장 등장"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step3",
+            "value": "각성 휘석 × 50 선택 소환 티켓 1장 등장"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step2",
+            "value": "MR 이상 유닛/비전 카드 1 슬롯 보장"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step1",
+            "value": "MR 이상 유닛/비전 카드 1 슬롯 보장"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200819_10",
+            "value": "[8월] 소환 메달 B 100장 등장"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_01",
+            "value": "[8월] 소환 메달 B 10장 등장"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "[8월] 소환 메달 B 100장 등장"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step3",
+            "value": "FFT UR 콜라보 유닛 1명 보장"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step2",
+            "value": "UR 유닛/비전 카드 1 슬롯 보장"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step1",
+            "value": "UR 유닛/비전 카드 1 슬롯 보장"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_p_gacha_4unitvc_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_1",
+            "value": "[제2탄] FFT 콜라보 소환 메달 A 10장 등장"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_10",
+            "value": "[제2탄] FFT 콜라보 소환 메달 A 100장 등장"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_1",
+            "value": "[제2탄] FFT 콜라보 소환 메달 B 10장 등장"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_10",
+            "value": "[제2탄] FFT 콜라보 소환 메달 B 100장 등장"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step15",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step14",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step13",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step12",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step11",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step10",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step9",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step8",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step7",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step6",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step5",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step4",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step3",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step2",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step1",
+            "value": ""
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10",
+            "value": ""
         },
         {
             "key": "global_pickup_sterne_20200325_01",

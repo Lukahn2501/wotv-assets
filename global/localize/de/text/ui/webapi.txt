@@ -1397,22 +1397,6 @@
             "value": "Dies entspricht nicht den Aufstellungsregeln."
         },
         {
-            "key": "ALREADY_CONNECTED",
-            "value": "Das Konto dieser Social Media-Plattform ist bereits mit dem Konto eines anderen Spielers verknüpft."
-        },
-        {
-            "key": "SNS_ACCOUNT_LIMIT_REACHED",
-            "value": "SNS-Kontolimit erreicht."
-        },
-        {
-            "key": "SNS_CONNECTION_LIMIT_REACHED",
-            "value": "Maximale SNS-Kontoverknüpfungen erreicht."
-        },
-        {
-            "key": "SNS_LIMIT_REACHED",
-            "value": "SNS-Limit erreicht."
-        },
-        {
             "key": "APP_ERROR_5201",
             "value": "Code existiert nicht."
         },
@@ -1443,6 +1427,38 @@
         {
             "key": "APP_ERROR_5302",
             "value": "Die Gruppe wurde verändert. Bitte aktualisiere und versuche es anschließend erneut."
+        },
+        {
+            "key": "ALREADY_CONNECTED",
+            "value": "Das Konto dieser Social Media-Plattform ist bereits mit dem Konto eines anderen Spielers verknüpft."
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "SNS-Kontolimit erreicht."
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "Maximale SNS-Kontoverknüpfungen erreicht."
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "SNS-Limit erreicht."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_TITLE",
+            "value": "Vorübergehende Sperre"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_TITLE",
+            "value": "Permanente Sperre"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_MESSAGE",
+            "value": "Dein Konto ist bis {0}, Weltzeit (PST) gesperrt.<br><br>Für nähere Informationen wende dich bitte an den Kundenservice, indem du auf dem Titelbildschirm auf [Service] > [Kontakt] gehst."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE",
+            "value": "Dein Konto wurde gesperrt.<br><br>Für nähere Informationen wende dich bitte an den Kundenservice, indem du auf dem Titelbildschirm auf [Service] > [Kontakt] gehst."
         }
     ]
 }

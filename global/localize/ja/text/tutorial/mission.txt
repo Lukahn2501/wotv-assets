@@ -86,15 +86,15 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "ミッションのチュートリアルに進みますか？"
+            "value": "ミッションのチュートリアルを見ますか？"
         },
         {
             "key": "SKIP_YES",
-            "value": "聞く"
+            "value": "はい"
         },
         {
             "key": "SKIP_NO",
-            "value": "聞かない"
+            "value": "いいえ"
         }
     ]
 }

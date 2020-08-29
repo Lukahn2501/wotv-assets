@@ -65,12 +65,12 @@
             "value": "Tetrasylphid, die Himmlischen Vier der Winde"
         },
         {
-            "key": "VC_LW_THDG",
-            "value": "Zweiköpfiger Drache, Schlangengleiches Zwillingsgrauen"
-        },
-        {
             "key": "VC_MBFF_MV1",
             "value": "Mobius der Verzweiflung und der Wahrheit"
+        },
+        {
+            "key": "VC_LW_THDG",
+            "value": "Zweiköpfiger Drache, Schlangengleiches Zwillingsgrauen"
         },
         {
             "key": "VC_FF01_DMAC",
@@ -79,6 +79,14 @@
         {
             "key": "VC_LW_CBVPARTY1",
             "value": "Flüchtiges Festmahl unter Blüten"
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "Diabolos, Trügerischer Nachtmahr"
+        },
+        {
+            "key": "VC_FFT_MV3",
+            "value": "Halmflöte"
         },
         {
             "key": "VC_LW_IGNT",
@@ -159,6 +167,10 @@
         {
             "key": "VC_LW_VNLA2",
             "value": "Falsche Gelübde, ungetäuschte Herzen"
+        },
+        {
+            "key": "VC_FFT_MV2",
+            "value": "Roter Chocobo"
         },
         {
             "key": "VC_LW_CACT",
@@ -255,10 +267,6 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "Fernblickspiegel"
-        },
-        {
-            "key": "VC_LW_DABL",
-            "value": "Diabolos, Trügerischer Nachtmahr"
         },
         {
             "key": "VC_EXP_01",

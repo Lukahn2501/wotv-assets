@@ -71,6 +71,14 @@
         {
             "key": "18",
             "value": "<cspace=1>스토리 제8장 개방<cspace=-0.5><br>기념 상점"
+        },
+        {
+            "key": "19",
+            "value": "<cspace=1>대규모 버전 업데이트<cspace=-0.5><br>기념 상점"
+        },
+        {
+            "key": "20",
+            "value": "<cspace=1>기간 한정!<cspace=-0.5><br>콜라보 기념 패키지"
         }
     ]
 }

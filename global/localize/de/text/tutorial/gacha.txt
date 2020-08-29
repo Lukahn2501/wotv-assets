@@ -82,7 +82,7 @@
         },
         {
             "key": "REDRAW_TITLE",
-            "value": "Erneut Beschwören"
+            "value": "Erneut beschwören"
         },
         {
             "key": "REDRAW_MSG",

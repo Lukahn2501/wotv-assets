@@ -46,7 +46,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du dir ein Tutorial zum Verbessern von Limiträuschen ansehen?"
+            "value": "Möchtest du dir ein Tutorial zur Verbesserung von Limiträuschen ansehen?"
         },
         {
             "key": "SKIP_YES",

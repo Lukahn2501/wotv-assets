@@ -101,6 +101,14 @@
             "value": "覚醒すると<br>カードの<color=#00ffff>Lv上限が上昇</color>し<color=#00ffff>付加アビリティ</color>や<br><color=#00ffff>PartyAbility</color>の<color=#00ffff>能力がアップ</color>します。"
         },
         {
+            "key": "DIALOG_010_T",
+            "value": "◆ビジョンアビリティ◆"
+        },
+        {
+            "key": "DIALOG_010_M",
+            "value": "ビジョンカードによっては<color=#00ffff>アビリティコマンド</color>を持っている場合もあります。"
+        },
+        {
             "key": "SKIP_TITLE",
             "value": "◆ビジョンカード◆"
         },

@@ -65,6 +65,10 @@
             "value": "連刷"
         },
         {
+            "key": "MENU_SKIP",
+            "value": "跳過"
+        },
+        {
             "key": "MENU_SPEED_DEFAULT",
             "value": "普通"
         },
@@ -279,6 +283,14 @@
         {
             "key": "RESULT_DIALOG_REMATCH_DESC",
             "value": "選擇「再戰」的話，過關後的演出會直接跳過。"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "獲得追加的★"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "獲得此玩家<br>沒有設定防禦隊伍的<br><color=#F0C040>★x{0}個</color>。"
         },
         {
             "key": "INTIMACYUP_BONUS_TITLE",
@@ -619,18 +631,6 @@
         {
             "key": "BATTLE_HEIGHT_ABBREV",
             "value": "h"
-        },
-        {
-            "key": "MENU_SKIP",
-            "value": "跳過"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_TITLE",
-            "value": "獲得追加的★"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_DESC",
-            "value": "獲得此玩家<br>沒有設定防禦隊伍的<br><color=#F0C040>★x{0}個</color>。"
         },
         {
             "key": "RESULT_RETRY",

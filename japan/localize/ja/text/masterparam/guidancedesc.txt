@@ -103,6 +103,10 @@
         {
             "key": "Pointquest",
             "value": "モント様。<br>裁きの試練に挑戦できるように<br>なりました！"
+        },
+        {
+            "key": "LimitedGuildBattle",
+            "value": "ついに「期間限定ギルドバトル」初挑戦ですわね。"
         }
     ]
 }

@@ -77,6 +77,10 @@
             "value": "Los gremios III"
         },
         {
+            "key": "GuildBattle",
+            "value": "Los combates de gremio"
+        },
+        {
             "key": "UnitIntimacy",
             "value": "La afinidad"
         },
@@ -101,20 +105,16 @@
             "value": "Las misiones de personaje"
         },
         {
-            "key": "GuildBattle",
-            "value": "Los combates de gremio"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "Ajustes del compañero"
+            "key": "Tower",
+            "value": "Torre"
         },
         {
             "key": "ItemExchange",
             "value": "Tienda de intercambio"
         },
         {
-            "key": "Tower",
-            "value": "Torre"
+            "key": "SupportUnit",
+            "value": "Ajustes del compañero"
         }
     ]
 }

@@ -2,15 +2,15 @@
     "infos": [
         {
             "key": "CMS_1",
-            "value": "8-19"
+            "value": "2019-8"
         },
         {
             "key": "CMS_2",
-            "value": "9-19"
+            "value": "2019-9"
         },
         {
             "key": "CMS_3",
-            "value": "10-19"
+            "value": "2019-10"
         }
     ]
 }

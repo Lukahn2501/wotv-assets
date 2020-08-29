@@ -62,7 +62,7 @@
         },
         {
             "key": "UnitStrengthLB",
-            "value": "Visionner le tutoriel sur l'amélioration de la limite des unités"
+            "value": "Visionner le tutoriel sur l'amélioration de la limite d'une unité"
         },
         {
             "key": "UnitTraining",

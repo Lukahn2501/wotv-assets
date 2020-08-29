@@ -65,12 +65,16 @@
             "value": "Récupérez votre récompense de raid maintenant."
         },
         {
+            "key": "QLN_RAID_3",
+            "value": "Affrontez Ifrit !"
+        },
+        {
             "key": "QLN_TOWER_1",
             "value": "Préparez-vous pour un nouvel événement !"
         },
         {
             "key": "QLN_TOWER_3",
-            "value": "Obtenez le Sabre carmin !"
+            "value": "Obtenez dès maintenant le Sabre carmin !"
         },
         {
             "key": "QLN_SUMMON_1",
@@ -91,10 +95,6 @@
         {
             "key": "CHALLENGE_OPEN_DESC",
             "value": "Période de défi terminée"
-        },
-        {
-            "key": "QLN_RAID_3",
-            "value": "Affrontez Ifrit !"
         }
     ]
 }

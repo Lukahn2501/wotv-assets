@@ -61,7 +61,7 @@
             "value": "¡Has sido ascendido! Tu nivel de la liga pasa de ${beforeLevelName} a ${afterLevelName}."
         },
         {
-            "key": "16",
+            "key": "23",
             "value": "¡Has sido degradado! Tu nivel de la liga pasa de ${beforeLevelName} a ${afterLevelName}."
         }
     ]

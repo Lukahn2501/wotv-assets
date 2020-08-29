@@ -1053,8 +1053,164 @@
             "value": "シールド({0}ターンorHP{1})"
         },
         {
+            "key": "BUFF_CondPetrifiedStare",
+            "value": "徐々に石化"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistFire",
+            "value": "火属性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistIce",
+            "value": "氷属性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistWind",
+            "value": "風属性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistEarth",
+            "value": "土属性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistThunder",
+            "value": "雷属性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistWater",
+            "value": "水属性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistShine",
+            "value": "光属性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistDark",
+            "value": "闇属性 弱体耐性"
+        },
+        {
+            "key": "BUFF_OtherPosSlashIgnore",
+            "value": "斬撃耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegSlashIgnore",
+            "value": "－斬撃耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosPierceIgnore",
+            "value": "刺突耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegPierceIgnore",
+            "value": "－刺突耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosBlowIgnore",
+            "value": "打撃耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegBlowIgnore",
+            "value": "－打撃耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosShotIgnore",
+            "value": "射撃耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegShotIgnore",
+            "value": "－射撃耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosMagicIgnore",
+            "value": "魔法耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegMagicIgnore",
+            "value": "－魔法耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosFireIgnore",
+            "value": "火属性耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegFireIgnore",
+            "value": "－火属性耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosIceIgnore",
+            "value": "氷属性耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegIceIgnore",
+            "value": "－氷属性耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosWindIgnore",
+            "value": "風属性耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegWindIgnore",
+            "value": "－風属性耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosEarthIgnore",
+            "value": "土属性耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegEarthIgnore",
+            "value": "－土属性耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosThunderIgnore",
+            "value": "雷属性耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegThunderIgnore",
+            "value": "－雷属性耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosWaterIgnore",
+            "value": "水属性耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegWaterIgnore",
+            "value": "－水属性耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosShineIgnore",
+            "value": "光属性耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegShineIgnore",
+            "value": "－光属性耐性無視"
+        },
+        {
+            "key": "BUFF_OtherPosDarkIgnore",
+            "value": "闇属性耐性貫通率"
+        },
+        {
+            "key": "BUFF_OtherNegDarkIgnore",
+            "value": "－闇属性耐性無視"
+        },
+        {
+            "key": "BUFF_OtherHealPow",
+            "value": "治癒力"
+        },
+        {
             "key": "BUFF_KillerSpeciesPHuman",
             "value": "物理攻撃時人キラー"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget1",
+            "value": "物魔"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget2",
+            "value": "物理"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget3",
+            "value": "魔法"
         }
     ]
 }

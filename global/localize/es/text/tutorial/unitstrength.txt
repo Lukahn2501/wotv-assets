@@ -25,6 +25,10 @@
             "value": "Aunque en estos momentos solo poseéis unos cuantos tipos de habilidades, tengo muchas ganas de ver cómo vais dominando todo tipo de técnicas, lord Mont."
         },
         {
+            "key": "TALK_007_GL",
+            "value": "Creo que ya os he explicado todo lo que necesitáis saber por ahora. Seguid avanzando en el modo historia para desbloquear más opciones de juego."
+        },
+        {
             "key": "DIALOG_001_T",
             "value": "• Mejorar unidades con cubos de EXP •"
         },
@@ -103,10 +107,6 @@
         {
             "key": "SKIP_NO",
             "value": "No"
-        },
-        {
-            "key": "TALK_007_GL",
-            "value": "Creo que ya os he explicado todo lo que necesitáis saber por ahora. Seguid avanzando en el modo historia para desbloquear más opciones de juego."
         },
         {
             "key": "TALK_007",

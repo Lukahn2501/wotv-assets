@@ -302,7 +302,7 @@
         },
         {
             "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
-            "value": "Vous avez un emplacement libre dans votre groupe."
+            "value": "Valider cette formation"
         },
         {
             "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",

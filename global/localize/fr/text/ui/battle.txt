@@ -65,6 +65,10 @@
             "value": "En boucle"
         },
         {
+            "key": "MENU_SKIP",
+            "value": "Passer"
+        },
+        {
             "key": "MENU_SPEED_DEFAULT",
             "value": "Normal"
         },
@@ -279,6 +283,14 @@
         {
             "key": "RESULT_DIALOG_REMATCH_DESC",
             "value": "Appuyez sur « Continuer » passera la cinématique qui se lance quand vous terminez la quête."
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "★ supplémentaires obtenues"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "Les défenseurs absents dans le groupe adverse<br>vous ont rapporté <color=#F0C040>{0} ★</color>."
         },
         {
             "key": "INTIMACYUP_BONUS_TITLE",
@@ -619,18 +631,6 @@
         {
             "key": "BATTLE_HEIGHT_ABBREV",
             "value": "h"
-        },
-        {
-            "key": "MENU_SKIP",
-            "value": "Passer"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_TITLE",
-            "value": "★ supplémentaires obtenues"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_DESC",
-            "value": "Les défenseurs absents dans le groupe adverse<br>vous ont rapporté <color=#F0C040>{0} ★</color>."
         },
         {
             "key": "RESULT_RETRY",

@@ -61,7 +61,7 @@
             "value": "Dein Ligalevel wurde von ${beforeLevelName} auf ${afterLevelName} erhöht."
         },
         {
-            "key": "16",
+            "key": "23",
             "value": "Deine Ligalevel wurde von ${beforeLevelName} auf ${afterLevelName} gesenkt."
         }
     ]

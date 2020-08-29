@@ -22,11 +22,11 @@
         },
         {
             "key": "6",
-            "value": "Quête d'événement des « 1 million de téléchargements »"
+            "value": ""
         },
         {
             "key": "7",
-            "value": "Quête d'entraînement d'équipement"
+            "value": ""
         },
         {
             "key": "8",
@@ -338,6 +338,46 @@
         },
         {
             "key": "85",
+            "value": ""
+        },
+        {
+            "key": "86",
+            "value": ""
+        },
+        {
+            "key": "87",
+            "value": ""
+        },
+        {
+            "key": "88",
+            "value": ""
+        },
+        {
+            "key": "89",
+            "value": ""
+        },
+        {
+            "key": "90",
+            "value": ""
+        },
+        {
+            "key": "91",
+            "value": ""
+        },
+        {
+            "key": "92",
+            "value": ""
+        },
+        {
+            "key": "93",
+            "value": ""
+        },
+        {
+            "key": "94",
+            "value": ""
+        },
+        {
+            "key": "95",
             "value": ""
         }
     ]

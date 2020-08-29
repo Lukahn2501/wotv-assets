@@ -67,6 +67,14 @@
         {
             "key": "17",
             "value": "New Vision Cards<br>Featured!"
+        },
+        {
+            "key": "18",
+            "value": "New Units<br>Featured!"
+        },
+        {
+            "key": "19",
+            "value": "FFT Collab<br>Summon Now!"
         }
     ]
 }

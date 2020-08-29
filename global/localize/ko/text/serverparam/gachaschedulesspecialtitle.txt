@@ -877,6 +877,166 @@
             "value": "UR 비전 카드 1장 보장 10회 소환"
         },
         {
+            "key": "new-gacha_unit_vc_gl20200819_01",
+            "value": "신규 유닛 픽업 소환"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "신규 유닛 픽업 소환 10회 소환"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step3",
+            "value": "3 스텝 업 10회 소환 STEP3"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step2",
+            "value": "3 스텝 업 10회 소환 STEP2"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step1",
+            "value": "3 스텝 업 10회 소환 STEP1"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step5",
+            "value": "5 스텝 업 10회 소환 STEP5"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step4",
+            "value": "5 스텝 업 10회 소환 STEP4"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step3",
+            "value": "5 스텝 업 10회 소환 STEP3"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step2",
+            "value": "5 스텝 업 10회 소환 STEP2"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step1",
+            "value": "5 스텝 업 10회 소환 STEP1"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200819_10",
+            "value": "UR 유닛 1명 보장 10회 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_01",
+            "value": "픽업 소환"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "픽업 소환 10회 소환"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step3",
+            "value": "3 스텝 업 10회 소환 STEP3"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step2",
+            "value": "3 스텝 업 10회 소환 STEP2"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step1",
+            "value": "3 스텝 업 10회 소환 STEP1"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_p_gacha_4unitvc_gl20200826_10",
+            "value": "UR 4 슬롯 보장 10회 소환"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_1",
+            "value": "FFT 콜라보 제2탄 기념 소환 ~아그리아스~"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_10",
+            "value": "FFT 콜라보 제2탄 기념 소환 ~아그리아스~ 10회 소환"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_1",
+            "value": "FFT 콜라보 제2탄 기념 소환 ~딜리타~"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_10",
+            "value": "FFT 콜라보 제2탄 기념 소환 ~딜리타~ 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step15",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step14",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step13",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step12",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step11",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step10",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step9",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step8",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step7",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step6",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step5",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step4",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step3",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step2",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step1",
+            "value": "무료 10회 소환"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "출시 기념 픽업 소환"
         },

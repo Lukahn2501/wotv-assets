@@ -269,6 +269,26 @@
             "value": "Trinkfreudiger Schwertkämpfer"
         },
         {
+            "key": "UN_LW_P_ORDR",
+            "value": "Dämonin aus dem Fegefeuer"
+        },
+        {
+            "key": "UN_LW_P_LVES",
+            "value": "Gestrandete in heiliger Rüstung"
+        },
+        {
+            "key": "UN_FFT_P_AGRA",
+            "value": "Ergebene Ritterin"
+        },
+        {
+            "key": "UN_FFT_P_DELT",
+            "value": "Desillusionierter Habenichts"
+        },
+        {
+            "key": "UN_FFT_P_MSTD",
+            "value": "Meisterhafter Maschinist"
+        },
+        {
             "key": "UN_LW_E_MONT",
             "value": "Gegner/NPC"
         },
@@ -421,10 +441,6 @@
             "value": "Gegner/NPC"
         },
         {
-            "key": "UN_LW_E_QILF",
-            "value": "Gegner/NPC"
-        },
-        {
             "key": "UN_LW_E_TREL",
             "value": "Gegner/NPC"
         },
@@ -447,6 +463,18 @@
         {
             "key": "UN_LW_E_DRZA",
             "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_LW_E_QILF",
+            "value": "Gegner/NPC"
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": "Gegner"
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
+            "value": "Gegner"
         },
         {
             "key": "UN_LW_E_RU_01_THI",
@@ -917,11 +945,11 @@
             "value": "Gegner/NPC"
         },
         {
-            "key": "UN_LW_E_PR_02_TIM_2",
+            "key": "UN_LW_E_PR_02_GRM",
             "value": "Gegner/NPC"
         },
         {
-            "key": "UN_LW_E_PR_02_GRM",
+            "key": "UN_LW_E_PR_02_TIM_2",
             "value": "Gegner/NPC"
         },
         {
@@ -1053,6 +1081,10 @@
             "value": "Gegner"
         },
         {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": "Gegner"
+        },
+        {
             "key": "UN_LW_E_ARMN",
             "value": "Gegner"
         },
@@ -1149,16 +1181,12 @@
             "value": "Gegner"
         },
         {
-            "key": "UN_LW_E_SKEL_02_2",
-            "value": "Gegner"
+            "key": "UN_FFT_E_MSTD",
+            "value": "Gegner/NPC"
         },
         {
-            "key": "UN_FF01_E_WRMC",
-            "value": "Gegner"
-        },
-        {
-            "key": "UN_FF01_E_WRMC_RAID",
-            "value": "Gegner"
+            "key": "UN_FFT_E_AGRA",
+            "value": "Gegner/NPC"
         },
         {
             "key": "UN_LW_E_IGNT_TW_EX2",
@@ -1177,11 +1205,11 @@
             "value": "Gegner"
         },
         {
-            "key": "UN_LW_E_IGNT_02",
+            "key": "UN_LW_E_IGNT_01_QE",
             "value": "Gegner"
         },
         {
-            "key": "UN_LW_E_IGNT_01_QE",
+            "key": "UN_LW_E_IGNT_02",
             "value": "Gegner"
         },
         {
@@ -1195,14 +1223,6 @@
         {
             "key": "UN_LW_E_IGNT_BLM",
             "value": "Gegner/NPC"
-        },
-        {
-            "key": "UN_LW_E_THDG_QE",
-            "value": "Gegner"
-        },
-        {
-            "key": "UN_LW_E_DABL",
-            "value": "Gegner"
         },
         {
             "key": "UN_LW_E_BHMT",
@@ -1265,10 +1285,6 @@
             "value": "Gegner"
         },
         {
-            "key": "UN_LW_E_THDG",
-            "value": "Gegner"
-        },
-        {
             "key": "UN_LW_E_SLIM",
             "value": "Gegner"
         },
@@ -1277,11 +1293,27 @@
             "value": "Gegner"
         },
         {
+            "key": "UN_LW_E_CSLI_QE",
+            "value": "Gegner"
+        },
+        {
             "key": "UN_LW_E_CSLI_01",
             "value": "Gegner"
         },
         {
-            "key": "UN_LW_E_CSLI_QE",
+            "key": "UN_LW_E_THDG",
+            "value": "Gegner"
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": "Gegner"
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": "Gegner"
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
             "value": "Gegner"
         },
         {
@@ -1338,10 +1370,6 @@
         },
         {
             "key": "UN_FF01_E_WRMC_SIREN",
-            "value": "Gegner"
-        },
-        {
-            "key": "UN_LW_E_DABL_SIREN",
             "value": "Gegner"
         },
         {
@@ -1826,6 +1854,18 @@
         },
         {
             "key": "UN_LW_S_DABL_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW2",
             "value": ""
         },
         {

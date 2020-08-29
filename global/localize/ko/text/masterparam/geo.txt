@@ -55,6 +55,22 @@
         {
             "key": "TAIL_KEEP_OUT_EXPR",
             "value": "진입 불가 설명"
+        },
+        {
+            "key": "TAIL_SWORD_NAME",
+            "value": ""
+        },
+        {
+            "key": "TAIL_SWORD_EXPR",
+            "value": ""
+        },
+        {
+            "key": "TAIL_ONESTEP_NAME",
+            "value": ""
+        },
+        {
+            "key": "TAIL_ONESTEP_EXPR",
+            "value": ""
         }
     ]
 }

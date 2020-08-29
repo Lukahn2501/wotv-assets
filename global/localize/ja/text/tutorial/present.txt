@@ -26,11 +26,11 @@
         },
         {
             "key": "SKIP_YES",
-            "value": "見る"
+            "value": "はい"
         },
         {
             "key": "SKIP_NO",
-            "value": "見ない"
+            "value": "いいえ"
         }
     ]
 }

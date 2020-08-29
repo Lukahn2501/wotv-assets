@@ -50,11 +50,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "•  •"
+            "value": "• Face-à-face •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Passer le tutoriel pour les débutants ?"
+            "value": "Voulez-vous lancer le tutoriel sur les face-à-face ?"
         },
         {
             "key": "SKIP_YES",

@@ -1,6 +1,10 @@
 {
     "infos": [
         {
+            "key": "AD_AREA_FFT_01",
+            "value": "歐博納修道院周邊"
+        },
+        {
             "key": "AD_AREA_WATER_01",
             "value": "渦卷水底"
         },

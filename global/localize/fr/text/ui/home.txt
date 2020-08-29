@@ -29,6 +29,46 @@
             "value": "Que le combat de guilde commence !"
         },
         {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
+            "value": "En combat"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
+            "value": "<size=15>Combats de guilde<line-height=20>limités<br><size=15>en cours !"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
+            "value": "Recherche d'adversaire en cours"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
+            "value": "Commencer le combat"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
+            "value": "Calcul en cours..."
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
+            "value": "Préparation du combat suivant"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
+            "value": "Du dd/MM, HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
+            "value": "au dd/MM à HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
+            "value": "au dd/MM à HH:mm"
+        },
+        {
+            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
+            "value": "Résultats finaux"
+        },
+        {
             "key": "GLOBAL_MAIN_PVP",
             "value": "Duel "
         },
@@ -757,154 +797,6 @@
             "value": "Transformer en unité"
         },
         {
-            "key": "UNIT_DETAIL_AWAKE",
-            "value": "Éveil"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP",
-            "value": "Briser la limite"
-        },
-        {
-            "key": "UNIT_DETAIL_INTIMACY",
-            "value": "Affinités"
-        },
-        {
-            "key": "UNIT_DETAIL_STATUS_DETAIL",
-            "value": "Détails"
-        },
-        {
-            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
-            "value": "Récompenses de confiance absolue"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_BORD",
-            "value": "Tableau des aptitudes"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_SET",
-            "value": "Choix des aptitudes"
-        },
-        {
-            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
-            "value": "Tableau d'entraînement de chimère"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ENHANCE",
-            "value": "Amélioration"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_AWAKE",
-            "value": "Éveil"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ABILITY",
-            "value": "Aptitudes"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
-            "value": "Confiance"
-        },
-        {
-            "key": "UNIT_DETAIL_RANK_LIMIT",
-            "value": "Limite de rang"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ON",
-            "value": "Enregistré dans les Favoris"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_OFF",
-            "value": "Retiré des Favoris"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP_CONDITION",
-            "value": "Débloquer en brisant les limites jusqu'à « {0} »"
-        },
-        {
-            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
-            "value": "Niv. maîtrise"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP",
-            "value": "Équiper"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI",
-            "value": "Équipement favori"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
-            "value": "Choisir"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
-            "value": "Matériaux d'amélioration"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
-            "value": "Vous ne possédez aucun matériau d'amélioration"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
-            "value": "Amélioration groupée"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
-            "value": "Confirmer l'amélioration"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
-            "value": "L'unité a atteint son niveau maximum."
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
-            "value": "L'EXP reçue sera plus que suffisante pour atteindre le niveau max de l'unité. Procéder à l'amélioration ?"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
-            "value": "Améliorer"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
-            "value": "Principal"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
-            "value": "Niv. d'unité requis"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
-            "value": "Amélioration de job"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
-            "value": "Max"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
-            "value": "Matériaux d'amélioration de job"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
-            "value": "Le niveau de job est au maximum"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
-            "value": "Matériaux insuffisants"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITYSET_SET",
-            "value": "Choisir"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_STATUS",
-            "value": "<cspace=0.6>Caractéristiques de l'unité"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_JOB",
-            "value": "<cspace=0.6>Job"
-        },
-        {
             "key": "UNIT_RANK_TITLE",
             "value": "Briser la limite"
         },
@@ -1113,26 +1005,6 @@
             "value": "Équip. compatibles :"
         },
         {
-            "key": "UNIT_ARTI_SET_TITLE",
-            "value": "Équiper"
-        },
-        {
-            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
-            "value": "Affichage des résistances"
-        },
-        {
-            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
-            "value": "Cacher l'équipement"
-        },
-        {
-            "key": "UNIT_ARTI_SET_REMOVE",
-            "value": "Retirer"
-        },
-        {
-            "key": "UNIT_ARTI_SET_CONFIRM",
-            "value": "Une autre unité du groupe est déjà équipée du même objet. Équiper malgré tout ?<br>(L'objet sera retiré de l'équipement de l'autre unité.)"
-        },
-        {
             "key": "ABILITY_CHANGE_TITLE",
             "value": "Choix des aptitudes"
         },
@@ -1163,18 +1035,6 @@
         {
             "key": "UNIT_PROFILE_BELONGING",
             "value": "Relation : "
-        },
-        {
-            "key": "TRUST_MASTER_TITLE",
-            "value": "Récompenses de confiance absolue"
-        },
-        {
-            "key": "TRUST_MASTER_CONDITION",
-            "value": "S'obtient en atteignant le niv 5 de la limite et le niv 6 de l'éveil"
-        },
-        {
-            "key": "TRUST_MASTER_COMPLETE",
-            "value": "Obtenu"
         },
         {
             "key": "LIMITBURST_LEVELUP_CHECK_TITLE",
@@ -1455,42 +1315,6 @@
         {
             "key": "ABILITY_ENHANCE_RESULT_DEF_IGNORE",
             "value": "Effet perforation de la DEF"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_STATUS",
-            "value": "Caractéristiques"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_SYNCHRO",
-            "value": "Degré de résonnance"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_RESIST",
-            "value": "Résistance"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
-            "value": "Magie d'invocation"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
-            "value": "Tableau d'entraînement de chimère"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
-            "value": "Amélioration de chimère"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
-            "value": "Amélioration groupée"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
-            "value": "La chimère a atteint son niveau maximum."
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
-            "value": "L'EXP reçue sera plus que suffisante pour atteindre le niveau max de la chimère. Procéder à l'amélioration ?"
         },
         {
             "key": "NETHERBEAST_SYNCHRO_TITLE",
@@ -2029,50 +1853,6 @@
             "value": "Retiré des Favoris"
         },
         {
-            "key": "ARTI_CONDITION_TITLE",
-            "value": "Conditions d'équipement"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_TITLE",
-            "value": "Jobs compatibles"
-        },
-        {
-            "key": "ARTI_CONDITION_NONE",
-            "value": "Aucune condition d'équipement"
-        },
-        {
-            "key": "ARTI_CONDITION_COUNTRY",
-            "value": "- Originaire de {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_SEX",
-            "value": "- {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_UNIT",
-            "value": "- {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_RARITY",
-            "value": "- De rareté {0} ou supérieure"
-        },
-        {
-            "key": "ARTI_CONDITION_AWAKE",
-            "value": "- De niveau d'éveil {0} ou plus"
-        },
-        {
-            "key": "ARTI_CONDITION_RANK",
-            "value": "- Ayant brisé ses limites {0}x ou plus"
-        },
-        {
-            "key": "ARTI_CONDITION_SERIES",
-            "value": "- Série {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_NONE",
-            "value": "Compatible avec tous les jobs"
-        },
-        {
             "key": "ARTI_ENHANCE_CORRECTION_TITLE",
             "value": "Modificateur de taux de croissance"
         },
@@ -2195,22 +1975,6 @@
         {
             "key": "ARTI_CHECK_FAVORITE_CAUTION",
             "value": "<line-height=26>*Les objets enregistrés dans les favoris ne seront pas automatiquement équipés si d'autres unités en sont déjà équipées.<br>*Il est également possible de gérer l'équipement depuis le menu Formation."
-        },
-        {
-            "key": "ARTI_STATUS_ADD_NONE",
-            "value": "Aucune aptitude additionnelle"
-        },
-        {
-            "key": "ARTI_STATUS_WA_TITLE",
-            "value": "AE"
-        },
-        {
-            "key": "ARTI_STATUS_LB_TITLE",
-            "value": "Limite brisée"
-        },
-        {
-            "key": "ARTI_STATUS_LB_ENHANCE",
-            "value": "équipé(e)"
         },
         {
             "key": "ARTI_TYPE_INHERIT_TITLE",
@@ -2793,6 +2557,30 @@
             "value": "???"
         },
         {
+            "key": "MENU_OPTION_PSAVE_TITLE",
+            "value": "Mode économie d'énergie"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_DESC",
+            "value": "<line-height=33>Si vous n'effectuez aucune action pendant la durée choisie, l'appareil passera automatiquement en mode économie d'énergie."
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_SECOND",
+            "value": "30 s"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_MINUTE",
+            "value": "1 min"
+        },
+        {
+            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
+            "value": "3 min"
+        },
+        {
             "key": "MENU_OPTION_DOWNLOAD_VOICE_TITLE",
             "value": "Langue d'affichage"
         },
@@ -2838,7 +2626,7 @@
         },
         {
             "key": "MENU_OPTION_CHAT_FIXED_SET",
-            "value": "Choisir"
+            "value": "Sélectionner"
         },
         {
             "key": "MENU_OPTION_VOICE_DOWNLOAD_ON",
@@ -3969,6 +3757,10 @@
             "value": "Hôte du salon"
         },
         {
+            "key": "MULTI_ROOM_RESET",
+            "value": "Fermer le salon <br>(Reparamétrable)"
+        },
+        {
             "key": "MULTI_ROOM_DISSOLVE_CHECK_TITLE",
             "value": "Fermer le salon"
         },
@@ -4187,10 +3979,6 @@
         {
             "key": "ARTIFACT_SELL_OVER_DESC",
             "value": "Vous ne pouvez pas vendre cet objet car vous avez atteint la limite max de gils possédés."
-        },
-        {
-            "key": "；武具装備リスト確認ダイアログ",
-            "value": ""
         },
         {
             "key": "ARTIFACT_EQUIPLIST_TITLE",
@@ -4625,30 +4413,6 @@
             "value": "Toucher l'icône pour afficher les détails"
         },
         {
-            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
-            "value": "Détails sur les unités"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
-            "value": "*Une fois au niveau d'éveil {0}★, au niveau de limite {0}, et avec tous les jobs au niv. max"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
-            "value": "Informations sur les Atouts-Visions"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
-            "value": "*Une fois au niveau d'éveil {0}★, et au niv. max"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
-            "value": "Détails sur les chimères"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
-            "value": "*Chaque chimère s'obtient gratuitement à chaque première invocation"
-        },
-        {
             "key": "GACHA_PIECE_NAME",
             "value": "{0} x{1} et {2} x{3}"
         },
@@ -4722,7 +4486,7 @@
         },
         {
             "key": "GACHA_MEDAL_CHANGE_DESC_VISION",
-            "value": "<line-height=32>Les fragments d'Atout-Vision dépassant la quantité possédée maximum ont été convertis en médailles de vision."
+            "value": "<line-height=32>Les fragments d'atout-vision dépassant la quantité possédée maximum ont été convertis en médailles de vision."
         },
         {
             "key": "GACHA_WAIT_NEXT_TIME_TITLE",
@@ -5397,36 +5161,12 @@
             "value": "Affichage des résistances"
         },
         {
-            "key": "VISION_DETAIL_STATUS",
-            "value": "Caractéristiques"
-        },
-        {
-            "key": "VISION_DETAIL_INFO",
-            "value": "Informations"
-        },
-        {
-            "key": "VISION_DETAIL_ADD_EFF",
-            "value": "Effet(s) attribué(s)"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE_BONUS",
-            "value": "Bonus d'éveil"
-        },
-        {
-            "key": "VISION_DETAIL_ENHANCE",
-            "value": "Amélioration"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE",
-            "value": "Éveil"
-        },
-        {
             "key": "VISION_SELL_CHECK_TITLE",
             "value": "Confirmer la vente"
         },
         {
             "key": "VISION_SELL_CHECK_DESC",
-            "value": "Souhaitez-vous vendre les Atouts-Visions sélectionnés ?"
+            "value": "Souhaitez-vous vendre les atouts-visions sélectionnés ?"
         },
         {
             "key": "VISION_SELL_CHECK_SUBTITLE",
@@ -5707,10 +5447,6 @@
         {
             "key": "MATCH_MATCHING_FAILED_DESC",
             "value": "Aucun adversaire n'a pu être trouvé."
-        },
-        {
-            "key": "；マッチ - フレンドマッチ",
-            "value": ""
         },
         {
             "key": "MATCH_MAKEROOM_WATCHING",
@@ -6321,6 +6057,10 @@
             "value": "Recherche d'adversaire en cours"
         },
         {
+            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
+            "value": "Adversaire trouvé !"
+        },
+        {
             "key": "GUILD_LEAGUE_BANNER_OUTTERM",
             "value": "Hors période"
         },
@@ -6358,7 +6098,7 @@
         },
         {
             "key": "GUILD_LEAGUE_DURATION_END",
-            "value": "Période de consultation des résultats : "
+            "value": "Période de consultation des résultats : jusqu'au"
         },
         {
             "key": "GUILD_LEAGUE_DURATION_NOW",
@@ -6387,6 +6127,26 @@
         {
             "key": "GUILD_COMING_SOON",
             "value": "Bientôt disponible"
+        },
+        {
+            "key": "GUILD_LIMITED_TITLE",
+            "value": "Combat de guilde limité"
+        },
+        {
+            "key": "GUILD_LIMITED_POINT",
+            "value": "Points de combat"
+        },
+        {
+            "key": "GUILD_LIMITED_PERIOD",
+            "value": "Durée :"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END",
+            "value": "Résultats finaux :"
+        },
+        {
+            "key": "GUILD_LIMITED_DURATION_END_FMT",
+            "value": "dd/MM, HH:mm"
         },
         {
             "key": "GUILD_CHAT_NEW_MEMBER",
@@ -6825,6 +6585,10 @@
             "value": "Participation dans la guilde"
         },
         {
+            "key": "GUILD_RANKING_TAB_LIMITED",
+            "value": "Limité"
+        },
+        {
             "key": "GUILD_RANKING_SEASON",
             "value": "Date de l'événement"
         },
@@ -6883,6 +6647,10 @@
         {
             "key": "GUILD_RANKING_LEAGUE_LOSE",
             "value": "Défaites"
+        },
+        {
+            "key": "GUILD_RANKING_LIMITED_POINTS",
+            "value": "Points de combat"
         },
         {
             "key": "GUILD_RANKING_NOTAVAIL_TITLE",
@@ -7261,6 +7029,14 @@
             "value": "Tableau des ligues"
         },
         {
+            "key": "GUILD_BATTLE_EVENT_DETAIL",
+            "value": "Détails de l'événement"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_ABSTENTION",
+            "value": "<line-height=32>Pas de participation possible<br>en ce moment"
+        },
+        {
             "key": "GUILD_BATTLE_STATE_OUT_TERM",
             "value": "Hors période"
         },
@@ -7299,6 +7075,14 @@
         {
             "key": "GUILD_BATTLE_STATE_END",
             "value": "Combat terminé"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE",
+            "value": "Victoire par forfait"
+        },
+        {
+            "key": "GUILD_BATTLE_STATE_BYE_DESC",
+            "value": "Aucun adversaire trouvé.<br>Vous gagnez par forfait."
         },
         {
             "key": "GUILD_BATTLE_START_TIME",
@@ -7389,6 +7173,42 @@
             "value": "Vous ne pouvez plus lancer d'attaque<br>pendant ce combat de guilde."
         },
         {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
+            "value": "Plus d'actions possibles"
+        },
+        {
+            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
+            "value": "Vous ne pouvez plus effectuer d'action<br>pendant ce combat de guilde."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_DESC",
+            "value": "<line-height=32>Vous n'avez pas pu participer<br>parce que les conditions suivantes<br>ne sont pas remplies."
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
+            "value": "Niveau de ligue de votre guilde"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
+            "value": "Au moins {0}"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
+            "value": "Nombre de membres"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
+            "value": "Au moins {0} membres"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
+            "value": "Chef"
+        },
+        {
+            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
+            "value": "Pas de connexion depuis {0} jour(s)"
+        },
+        {
             "key": "GUILD_BATTLE_PLAYER_DETAIL_ABILITY",
             "value": "Aptitudes"
         },
@@ -7405,6 +7225,10 @@
             "value": "Résultats du combat de guilde"
         },
         {
+            "key": "GUILD_BATTLE_END_TROPHY_POINT",
+            "value": "Points de combat"
+        },
+        {
             "key": "GUILD_BATTLE_END_TROPHY_STAR_GET",
             "value": "★ capturées"
         },
@@ -7419,6 +7243,10 @@
         {
             "key": "GUILD_BATTLE_END_TROPHY_STAR_RESIDUE_SEP",
             "value": "★ restantes : "
+        },
+        {
+            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
+            "value": "(★ gagnées par forfait : {0} %)"
         },
         {
             "key": "GUILD_BATTLE_END_TROPHY_DAMAGE",
@@ -7489,6 +7317,10 @@
             "value": "Garde"
         },
         {
+            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
+            "value": "Soutien"
+        },
+        {
             "key": "GUILD_BATTLE_LOG_DESC_OFFENSE",
             "value": "Attaque sur {0}"
         },
@@ -7503,6 +7335,30 @@
         {
             "key": "GUILD_BATTLE_LOG_RESULT_DIFFENSE",
             "value": "{0} repoussé(s)"
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
+            "value": "Vous avez trouvé {0}.<br>Son groupe d'unités est dévoilé."
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
+            "value": "Vous avez été trouvé par {0}.<br>Votre groupe d'unités a été dévoilé."
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
+            "value": "Provisions apportées à {0}.<br>Le nombre d'actions disponibles du groupe de « {0} » a été restauré."
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
+            "value": "Provisions reçues de {0}.<br>Le nombre d'actions disponibles de votre groupe a été restauré."
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
+            "value": "Sort lancé sur {0}.<br>Le nombre d'utilisations des aptitudes du groupe de « {0} » a été restauré."
+        },
+        {
+            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
+            "value": "Sort lancé par {0}.<br>Le nombre d'utilisations des aptitudes de votre groupe a été restauré."
         },
         {
             "key": "GUILD_BATTLE_END_LOG_TITLE",
@@ -7559,6 +7415,50 @@
         {
             "key": "GUILD_BATTLE_DEFFENCE_SET_NONE",
             "value": "Non défini"
+        },
+        {
+            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
+            "value": "Nombre de groupes envoyés en défense : "
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
+            "value": "Attaque"
+        },
+        {
+            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
+            "value": "Soutien"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_TITLE",
+            "value": "Soutien"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE",
+            "value": "Utiliser"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
+            "value": "{0}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
+            "value": "<color=#F0C040>{0}</color>sur<br><color=#F0C040>{1}</color>sur<br>{2}"
+        },
+        {
+            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
+            "value": "Récompenses d'action récupérées"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
+            "value": "Sélectionnez un adversaire à attaquer"
+        },
+        {
+            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
+            "value": "Sélectionnez un groupe à soutenir"
+        },
+        {
+            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
+            "value": "Informations sur « {0} »"
         },
         {
             "key": "OTHER_PLAYER_DETAIL_REQUEST",
@@ -7723,6 +7623,18 @@
         {
             "key": "GM_RAIDBOSS_DISCOVER_REWARD",
             "value": "Récompenses de découverte de raid"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
+            "value": "Votre récompense pour avoir participé à un total de ${entry_count} combats pendant les combats de guilde limités qui se sont tenus ${period}"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
+            "value": "Récompense des combats de guilde limités qui se sont tenus ${period}"
+        },
+        {
+            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
+            "value": "Votre récompense pour avoir atteint le rang ${ranking} au classement des combats de guilde limités qui se sont tenus ${period}"
         },
         {
             "key": "QUEST_APPEAL_AP",
@@ -7905,8 +7817,20 @@
             "value": "Vous ne pouvez pas participer si des unités de votre groupe sont K.O."
         },
         {
-            "key": "VISION_ILLUSTRATOR",
-            "value": "Illustrateur"
+            "key": "QRCODE_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_MESSAGE",
+            "value": "{0}"
+        },
+        {
+            "key": "QRCODE_ERROR_TITLE",
+            "value": "Erreur"
+        },
+        {
+            "key": "QRCODE_ERROR_MESSAGE",
+            "value": "Plateforme incorrecte."
         },
         {
             "key": "MENU_OPTION_LANGUAGE",
@@ -8077,260 +8001,8 @@
             "value": "Transaction en cours. <br>Veuillez réessayer plus tard."
         },
         {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_BATTLE",
-            "value": "En combat"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_ABSTENTION",
-            "value": "<size=15>Combats de guilde<line-height=20>limités<br><size=15>en cours !"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCHING",
-            "value": "Recherche d'adversaire en cours"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_MATCH",
-            "value": "Commencer le combat"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
-            "value": "Calcul en cours..."
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
-            "value": "Préparation du combat suivant"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
-            "value": "Du dd/MM, HH:mm"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END_AT_FMT",
-            "value": "au dd/MM à HH:mm"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_NEXT_AT_FMT",
-            "value": "au dd/MM à HH:mm"
-        },
-        {
-            "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_END",
-            "value": "Résultats finaux"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_TITLE",
-            "value": "Mode économie d'énergie"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_DESC",
-            "value": "<line-height=33>Si vous n'effectuez aucune action pendant la durée choisie, l'appareil passera automatiquement<br>en mode économie d'énergie."
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_OFF",
-            "value": "OFF"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_SECOND",
-            "value": "30 s"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_MINUTE",
-            "value": "1 min"
-        },
-        {
-            "key": "MENU_OPTION_PSAVE_THREE_MINUTE",
-            "value": "3 min"
-        },
-        {
-            "key": "GUILD_LEAGUE_BANNER_MATCH_END",
-            "value": "Adversaire trouvé !"
-        },
-        {
-            "key": "GUILD_LIMITED_TITLE",
-            "value": "Combat de guilde limité"
-        },
-        {
-            "key": "GUILD_LIMITED_POINT",
-            "value": "Points de combat"
-        },
-        {
-            "key": "GUILD_LIMITED_PERIOD",
-            "value": "Durée :"
-        },
-        {
-            "key": "GUILD_LIMITED_DURATION_END",
-            "value": "Résultats finaux :"
-        },
-        {
-            "key": "GUILD_LIMITED_DURATION_END_FMT",
-            "value": "au dd/MM à HH:mm"
-        },
-        {
-            "key": "GUILD_RANKING_TAB_LIMITED",
-            "value": "Limité"
-        },
-        {
-            "key": "GUILD_RANKING_LIMITED_POINTS",
-            "value": "Points de combat"
-        },
-        {
-            "key": "GUILD_BATTLE_EVENT_DETAIL",
-            "value": "Détails de l'événement"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_ABSTENTION",
-            "value": "<line-height=32>Pas de participation possible<br>en ce moment"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_BYE",
-            "value": "Victoire par forfait"
-        },
-        {
-            "key": "GUILD_BATTLE_STATE_BYE_DESC",
-            "value": "Aucun adversaire trouvé.<br>Vous gagnez par forfait."
-        },
-        {
-            "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
-            "value": "Plus d'actions possibles"
-        },
-        {
-            "key": "GUILD_BATTLE_NOACTION_DIALOG_DESC",
-            "value": "Vous ne pouvez plus effectuer d'action<br>pendant ce combat de guilde."
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_DESC",
-            "value": "<line-height=32>Vous n'avez pas pu participer<br>parce que les conditions suivantes<br>ne sont pas remplies."
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
-            "value": "Niveau de ligue de votre guilde"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_CONDITION",
-            "value": "Au moins {0}"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_TITLE",
-            "value": "Nombre de membres"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_MEMBER_CONDITION",
-            "value": "Au moins {0} membres"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEADER_TITLE",
-            "value": "Chef"
-        },
-        {
-            "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
-            "value": "Pas de connexion depuis {0} jour(s)"
-        },
-        {
-            "key": "GUILD_BATTLE_END_TROPHY_POINT",
-            "value": "Points de combat"
-        },
-        {
-            "key": "GUILD_BATTLE_END_TROPHY_STAR_BYE",
-            "value": "(★ gagnées par forfait : {0} %)"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_TITLE_SUPPORT",
-            "value": "Soutien"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_SCOUT_TO",
-            "value": "Recherche de {0}\\n Groupe {0} affiché"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_SCOUT_FROM",
-            "value": "Recherche à partir de {0}\\n Groupe affiché"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_TO",
-            "value": "Utiliser {0}\\n Le nombre d'actions du groupe {0} a été restauré"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ACTION_FROM",
-            "value": "Utiliser {0}\\n Le nombre d'actions du groupe {0} a été restauré"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_TO",
-            "value": "Utiliser {0}\\n Le nombre d'utilisations des aptitudes du groupe {0} a été restauré"
-        },
-        {
-            "key": "GUILD_BATTLE_LOG_RECOVER_ABILITY_FROM",
-            "value": "Utiliser {0}\\n Le nombre d'utilisations des aptitudes du groupe {0} a été restauré"
-        },
-        {
-            "key": "GUILD_BATTLE_DEFFENCE_SET_PARTY",
-            "value": "Nombre de groupes envoyés en défense : "
-        },
-        {
-            "key": "GUILD_BATTLE_ACTION_SELECT_ATTACK",
-            "value": "Attaque"
-        },
-        {
-            "key": "GUILD_BATTLE_ACTION_SELECT_SUPPORT",
-            "value": "Soutien"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_TITLE",
-            "value": "Soutien"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE",
-            "value": "Utiliser"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE_SET",
-            "value": "{0}"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_USE_DESC",
-            "value": "<color=#F0C040>{0}</color>sur<br><color=#F0C040>{1}</color>sur<br>{2}"
-        },
-        {
-            "key": "GUILD_BATTLE_SUPPORT_REWARD_TITLE",
-            "value": "Récompenses d'action récupérées"
-        },
-        {
-            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_ATTACK",
-            "value": "Sélectionnez un adversaire à attaquer"
-        },
-        {
-            "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",
-            "value": "Sélectionnez un groupe à soutenir"
-        },
-        {
-            "key": "GUILD_BATTLE_EVENT_DETAIL_TITLE",
-            "value": "Informations sur « {0} »"
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_ENTRY_REWARD",
-            "value": "Votre récompense pour avoir participé à un total de ${entry_count} combats pendant les combats de guilde limités qui se sont tenus ${period}"
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_BATTLE_REWARD",
-            "value": "Récompense des combats de guilde limités qui se sont tenus ${period}"
-        },
-        {
-            "key": "GM_LIMITED_GUILD_BATTLE_RANKING_REWARD",
-            "value": "Votre récompense pour avoir atteint le rang ${ranking} au classement des combats de guilde limités qui se sont tenus ${period}"
-        },
-        {
-            "key": "QRCODE_TITLE",
-            "value": "{0}"
-        },
-        {
-            "key": "QRCODE_MESSAGE",
-            "value": "{0}"
-        },
-        {
-            "key": "QRCODE_ERROR_TITLE",
-            "value": "Erreur"
-        },
-        {
-            "key": "QRCODE_ERROR_MESSAGE",
-            "value": "Plateforme incorrecte."
+            "key": "VISION_ILLUSTRATOR",
+            "value": "Illustrateur"
         },
         {
             "key": "GL_GACHA_BONUS_GAUGE_TITLE",
@@ -9146,27 +8818,27 @@
         },
         {
             "key": "SERVER_Limited-WATER_2019_11_13_title",
-            "value": "Jobs d'eau"
+            "value": "Boutique de l'eau"
         },
         {
             "key": "SERVER_Limited-WIND_2019_11_14_title",
-            "value": "Jobs de vent"
+            "value": "Boutique du vent"
         },
         {
             "key": "SERVER_Limited-THUNDER_2019_11_15_title",
-            "value": "Jobs de foudre"
+            "value": "Boutique de la foudre"
         },
         {
             "key": "SERVER_Limited-SOIL_2019_11_16_title",
-            "value": "Jobs de terre"
+            "value": "Boutique de la terre"
         },
         {
             "key": "SERVER_Limited-SHINE_2019_11_17_title",
-            "value": "Jobs de lumière"
+            "value": "Boutique de la lumière"
         },
         {
             "key": "SERVER_Limited-DARK_2019_11_17_title",
-            "value": "Jobs d'ombre"
+            "value": "Boutique de l'ombre"
         },
         {
             "key": "SERVER_Limited-20191130_CBT_title",
@@ -9270,27 +8942,27 @@
         },
         {
             "key": "SERVER_Limited-WATER_2019_11_13_msg",
-            "value": "Jobs d'eau du moment"
+            "value": "Objets quotidiens spéciaux de la boutique de l'eau"
         },
         {
             "key": "SERVER_Limited-WIND_2019_11_14_msg",
-            "value": "Jobs de vent du moment"
+            "value": "Objets quotidiens spéciaux de la boutique du vent"
         },
         {
             "key": "SERVER_Limited-THUNDER_2019_11_15_msg",
-            "value": "Jobs de foudre du moment"
+            "value": "Objets quotidiens spéciaux de la boutique de la foudre"
         },
         {
             "key": "SERVER_Limited-SOIL_2019_11_16_msg",
-            "value": "Jobs de terre du moment"
+            "value": "Objets quotidiens spéciaux de la boutique de la terre"
         },
         {
             "key": "SERVER_Limited-SHINE_2019_11_17_msg",
-            "value": "Jobs de lumière du moment"
+            "value": "Objets quotidiens spéciaux de la boutique de la lumière"
         },
         {
             "key": "SERVER_Limited-DARK_2019_11_17_msg",
-            "value": "Jobs d'ombre du moment"
+            "value": "Objets quotidiens spéciaux de la boutique de l'ombre"
         },
         {
             "key": "SERVER_Limited-20191130_CBT_msg",

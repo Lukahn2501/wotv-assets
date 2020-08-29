@@ -77,6 +77,10 @@
             "value": "Esta es la Sala de las estatuas, donde podéis ver las estatuas del gremio."
         },
         {
+            "key": "GuildBattle",
+            "value": "Por último, deberíais participar en vuestro primer Combate de gremio."
+        },
+        {
             "key": "UnitIntimacy",
             "value": "Lord Mont, ¿estáis comunicándoos con los otros miembros del grupo?"
         },
@@ -101,20 +105,16 @@
             "value": "Lord Mont, habéis crecido mucho desde la primera vez que nos vimos."
         },
         {
-            "key": "GuildBattle",
-            "value": "Por último, deberíais participar en vuestro primer Combate de gremio."
-        },
-        {
-            "key": "SupportUnit",
-            "value": "Lord Mont, ¿sabéis qué son los ajustes de compañero?"
+            "key": "Tower",
+            "value": "Veo que habéis atravesado el umbral de la Torre de Porcelana..."
         },
         {
             "key": "ItemExchange",
             "value": "Lord Mont, parece que la tienda de intercambio se encuentra disponible. ¿Qué os parece si vamos a verla?"
         },
         {
-            "key": "Tower",
-            "value": "Veo que habéis atravesado el umbral de la Torre de Porcelana..."
+            "key": "SupportUnit",
+            "value": "Lord Mont, ¿sabéis qué son los ajustes de compañero?"
         }
     ]
 }

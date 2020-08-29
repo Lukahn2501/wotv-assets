@@ -2509,6 +2509,150 @@
             "value": "ABW-Erhöhung"
         },
         {
+            "key": "SK_FFT_AGRA_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_AGRA_M_1",
+            "value": "Fügt Zielen in Reichweite Schaden (L) zu und gewährt Chance auf Wirken von Stopp."
+        },
+        {
+            "key": "SK_FFT_AGRA_M_2",
+            "value": "Fügt Zielen in Reichweite Schaden (S) zu und gewährt Chance auf Wirken von 3 Runden andauernder Stille."
+        },
+        {
+            "key": "SK_FFT_AGRA_M_3",
+            "value": "Erhöht 3 Runden lang erheblich PSY von Verbündeten im Bereich um Wirkenden."
+        },
+        {
+            "key": "SK_FFT_AGRA_S_1",
+            "value": "Fügt dem Ziel Schaden (S) zu und gewährt Chance auf Wirken von 3 Runden andauerndem Ausschalten."
+        },
+        {
+            "key": "SK_FFT_AGRA_S_2",
+            "value": "Wirkt 3 Runden lang Regena auf Verbündete im Bereich um Wirkenden."
+        },
+        {
+            "key": "SK_FFT_AGRA_S_3",
+            "value": "Beschwört eine Verbündete im Bereich um Wirkenden umgebende Barriere herauf, die 3-mal magischen Schaden reduziert."
+        },
+        {
+            "key": "SK_FFT_AGRA_S_4",
+            "value": "Erhöht 3 Runden lang ANG und MAG eines Verbündeten."
+        },
+        {
+            "key": "SK_FFT_AGRA_S_5",
+            "value": "Fügt dem Ziel Schaden (S) zu und senkt 2 Runden lang ANG, MAG, ABW und PSY."
+        },
+        {
+            "key": "SK_FFT_AGRA_R_1",
+            "value": "Gewährt Chance auf Schadensreduzierung."
+        },
+        {
+            "key": "SK_FFT_AGRA_P_1",
+            "value": "Erhöht ANG."
+        },
+        {
+            "key": "SK_FFT_AGRA_P_2",
+            "value": "Erhöht AGI und PSY."
+        },
+        {
+            "key": "SK_FFT_DELT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_DELT_M_1",
+            "value": "Fügt dem Ziel Schaden (M) zu und gewährt Chance auf Wirken von Todesurteil."
+        },
+        {
+            "key": "SK_FFT_DELT_M_2",
+            "value": "Fügt dem Ziel Schaden (M) zu und reduziert AP."
+        },
+        {
+            "key": "SK_FFT_DELT_M_3",
+            "value": "Fügt dem Ziel Schaden (L) zu und senkt 3 Runden lang erheblich die Feuerresistenz."
+        },
+        {
+            "key": "SK_FFT_DELT_S_1",
+            "value": "Fügt dem Ziel Schaden (minimal) zu."
+        },
+        {
+            "key": "SK_FFT_DELT_S_2",
+            "value": "Verbraucht eigene LP, um LP eines Verbündeten zu heilen (M)."
+        },
+        {
+            "key": "SK_FFT_DELT_S_3",
+            "value": "Fügt dem Ziel MAG-abhängigen Feuerschaden (L) zu."
+        },
+        {
+            "key": "SK_FFT_DELT_S_4",
+            "value": "Erhöht 3 Runden lang eigenen ANG und MAG erheblich und reduziert AP-Verbrauch."
+        },
+        {
+            "key": "SK_FFT_DELT_S_5",
+            "value": "Fügt Zielen in Reichweite Schaden (L) zu und gewährt Chance auf Wirken von Stopp."
+        },
+        {
+            "key": "SK_FFT_DELT_R_1",
+            "value": "Gewährt Chance auf Gegenangriff bei Erleiden von Schaden und gewährt Chance auf 1 Feld Rückschlag."
+        },
+        {
+            "key": "SK_FFT_DELT_P_1",
+            "value": "Bewegung +1"
+        },
+        {
+            "key": "SK_FFT_DELT_P_2",
+            "value": "Erhöht erlangte AP."
+        },
+        {
+            "key": "SK_FFT_MSTD_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_MSTD_M_1",
+            "value": "Fügt Zielen in Reichweite Schaden (M) zu."
+        },
+        {
+            "key": "SK_FFT_MSTD_M_2",
+            "value": "Fügt dem Ziel Schaden (L) zu und gewährt Chance auf Wirken von Stein."
+        },
+        {
+            "key": "SK_FFT_MSTD_M_3",
+            "value": "Fügt dem Ziel 3-mal hintereinander Schaden (M) zu."
+        },
+        {
+            "key": "SK_FFT_MSTD_S_1",
+            "value": "Fügt dem Ziel Schaden (S) zu und gewährt Chance auf Wirken von 3 Runden andauerndem Blind."
+        },
+        {
+            "key": "SK_FFT_MSTD_S_2",
+            "value": "Erhöht 3 Runden lang erheblich Schwächungsresistenz von Verbündeten im Bereich um Wirkenden."
+        },
+        {
+            "key": "SK_FFT_MSTD_S_3",
+            "value": "Senkt Wahrscheinlichkeit, Ziel von Angriffen zu werden."
+        },
+        {
+            "key": "SK_FFT_MSTD_S_4",
+            "value": "Fügt dem Ziel Schaden (S) zu und gewährt Chance auf Wirken von 3 Runden andauernder Immobilisierung."
+        },
+        {
+            "key": "SK_FFT_MSTD_S_5",
+            "value": "Fügt Ziel Schaden (M) zu und gewährt Chance auf Wirken von 3 Runden andauerndem Ausschalten."
+        },
+        {
+            "key": "SK_FFT_MSTD_R_1",
+            "value": "Gewährt Chance auf Heilung eines festgelegten Anteils der eigenen LP (S) bei Erleiden von Schaden."
+        },
+        {
+            "key": "SK_FFT_MSTD_P_1",
+            "value": "Reichweite +1, Sprung +1"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_2",
+            "value": "Erhöht Geschoss-ANG."
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "Fügt Zielen in Reichweite MAG-abhängigen Eisschaden (S) zu."
         },
@@ -3041,22 +3185,6 @@
             "value": "Fügt Zielen im Bereich um Wirkenden Schaden (M) zu und gewährt Chance auf Wirken von 3 Runden andauernder Betörung."
         },
         {
-            "key": "SK_CSLI_01_ATK",
-            "value": ""
-        },
-        {
-            "key": "SK_CSLI_01_M_01",
-            "value": "Fügt dem Ziel Schaden (S) zu."
-        },
-        {
-            "key": "SK_CSLI_01_M_02",
-            "value": "Fügt dem Ziel Schaden (S) zu und absorbiert verursachten Schaden."
-        },
-        {
-            "key": "SK_CSLI_01_M_03",
-            "value": "Fügt Zielen im Bereich um Wirkenden Schaden (M) zu und gewährt Chance auf das Ziel 3 Runden andauerndem Schlaf zu wirken."
-        },
-        {
             "key": "SK_SLIM_ATK",
             "value": ""
         },
@@ -3071,6 +3199,22 @@
         {
             "key": "SK_SLIM_M_03",
             "value": "Fügt Zielen im Bereich um Wirkenden Schaden (M) zu und gewährt Chance auf Wirken von 3 Runden andauernder Vergiftung."
+        },
+        {
+            "key": "SK_CSLI_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "Fügt dem Ziel Schaden (S) zu."
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "Fügt dem Ziel Schaden (S) zu und absorbiert verursachten Schaden."
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "Fügt Zielen im Bereich um Wirkenden Schaden (M) zu und gewährt Chance auf das Ziel 3 Runden andauerndem Schlaf zu wirken."
         },
         {
             "key": "SK_IFRT_ATK",
@@ -3230,7 +3374,7 @@
         },
         {
             "key": "SK_LAMA_M_03",
-            "value": "Deals Dmg (M) to enemies within range & Mars Killer & chance of inflicting Confusion for 3 turns."
+            "value": "Fügt Zielen in Reichweite Schaden (M) zu und gewährt Chance auf Wirken von 3 Runden andauerndem Konfus."
         },
         {
             "key": "SK_GL_LAMA_M_03",
@@ -3277,6 +3421,22 @@
             "value": "Fügt dem Ziel magischen Schaden (L) zu."
         },
         {
+            "key": "SK_WRMC_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "Fügt Zielen in Reichweite Schaden (S) zu und gewährt Chance auf Wirken von Immobilisierung."
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "Fügt Zielen in Reichweite Schaden (M) zu und gewährt Chance auf ABW-/PSY-Senkung."
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "Fügt Zielen in Reichweite Feuerschaden (L) zu."
+        },
+        {
             "key": "SK_THDG_ATK",
             "value": ""
         },
@@ -3303,22 +3463,6 @@
         {
             "key": "SK_THDG_M_05",
             "value": "Fügt Zielen im Bereich um Wirkenden physischen Schaden (M) zu und gewährt Chance auf Wirken von 3 Runden andauernden Zustandsveränderungen (Blind/Stille)."
-        },
-        {
-            "key": "SK_WRMC_ATK",
-            "value": ""
-        },
-        {
-            "key": "SK_WRMC_M_01",
-            "value": "Fügt Zielen in Reichweite Schaden (S) zu und gewährt Chance auf Wirken von Immobilisierung."
-        },
-        {
-            "key": "SK_WRMC_M_02",
-            "value": "Fügt Zielen in Reichweite Schaden (M) zu und gewährt Chance auf ABW-/PSY-Senkung."
-        },
-        {
-            "key": "SK_WRMC_M_03",
-            "value": "Fügt Zielen in Reichweite Feuerschaden (L) zu."
         },
         {
             "key": "SK_DABL_ATK",
@@ -3375,26 +3519,6 @@
         {
             "key": "SK_LW_E_VIK_S_3",
             "value": "Erhöht 3 Runden lang eigenen ANG und ABW und senkt Ausweichrate."
-        },
-        {
-            "key": "SK_GMK_ATK_NEEDLE",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_FIRE",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_ARROW",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_1",
-            "value": "Gimmick-Angriff (Katapult, einzelne Einheit)"
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_2",
-            "value": "Gimmick-Angriff (Katapult, Bereich)"
         },
         {
             "key": "SK_LB_LW_MONT",
@@ -3565,6 +3689,18 @@
             "value": "Senkt 3 Runden lang Magieresistenz des Ziels und fügt anschließend MAG-abhängigen Schaden (L) zu."
         },
         {
+            "key": "SK_LB_LW_ORDR",
+            "value": "Senkt 3 Runden lang ABW des Ziels und fügt anschließend Schaden (L) zu."
+        },
+        {
+            "key": "SK_LB_FFT_AGRA_01",
+            "value": "Fügt Zielen in Reichweite Schaden (L) zu und gewährt Chance auf Wirken von 3 Runden andauerndem Konfus."
+        },
+        {
+            "key": "SK_LB_FFT_DELT_01",
+            "value": "Fügt Zielen in Reichweite Schaden (L) zu und gewährt Chance auf Wirken von 3 Runden andauernder Stille."
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Ruft Ifrit, fügt Zielen in Reichweite Feuerschaden (maximal) zu und aktiviert vorübergehende Karteneffekte (Erhöhung von ANG und MAG für Verbündete, erhebliche Senkung der gegnerischen Feuerresistenz)."
         },
@@ -3643,6 +3779,10 @@
         {
             "key": "SK_SMN_DABL",
             "value": "Ruft Diabolos, fügt Zielen in Reichweite Dunkelschaden (maximal) zu, aktiviert vorübergehende Karteneffekte (Erhöhung von ANG und MAG bei Verbündeten, erhebliche Senkung der gegnerischen Dunkelresistenz)."
+        },
+        {
+            "key": "SK_SMN_CHCB_01",
+            "value": "Ruft Roten Chocobo und fügt Zielen in Reichweite Lichtschaden (L) zu."
         },
         {
             "key": "SK_US_POTION",
@@ -4025,6 +4165,26 @@
             "value": "ANG +10 %, Präzision +30"
         },
         {
+            "key": "SK_MA_LW_ORDR",
+            "value": "Modifikator für AP-Erlangung +30 %, Schlitz-/Durchbohr-/Schlag-/Geschossresistenz +5"
+        },
+        {
+            "key": "SK_MA_LW_LVES",
+            "value": "Ausweichrate +10, AP-Verbrauch -20 %"
+        },
+        {
+            "key": "SK_MA_FFT_AGRA",
+            "value": "Einzelangriffsresistenz +15"
+        },
+        {
+            "key": "SK_MA_FFT_DELT",
+            "value": "ANG +20 %"
+        },
+        {
+            "key": "SK_MA_FFT_MSTD",
+            "value": "Präzision +30 und erhöht Aktivierungschance von Blind/Immobilisierung/Ausschalten"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Schlitz-ANG +2"
         },
@@ -4077,6 +4237,26 @@
             "value": "Schlitz-ANG +20"
         },
         {
+            "key": "SK_LW_AVOID_1",
+            "value": "Ausweichrate +1"
+        },
+        {
+            "key": "SK_LW_AVOID_2",
+            "value": "Ausweichrate +2"
+        },
+        {
+            "key": "SK_LW_AVOID_3",
+            "value": "Ausweichrate +3"
+        },
+        {
+            "key": "SK_LW_AVOID_4_N_SSR",
+            "value": "Ausweichrate +4"
+        },
+        {
+            "key": "SK_LW_AVOID_5_SSR",
+            "value": "Ausweichrate +8"
+        },
+        {
             "key": "SK_LW_SWO_003_1",
             "value": ""
         },
@@ -4106,6 +4286,98 @@
         },
         {
             "key": "SK_LW_RNG_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FTW_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_5",
             "value": ""
         },
         {
@@ -4209,7 +4481,23 @@
             "value": "Erhöht 3 Runden lang eigene Einzelangriffsresistenz und senkt Bereichangriffsresistenz."
         },
         {
-            "key": "SK_KAT_LW_SIMR_1_1",
+            "key": "SK_ACC_LW_ORDR_1_1",
+            "value": "Wirkt 3 Runden andauernde automatische AP-Wiederherstellung (S) auf sich selbst und erhöht ABW-Durchbohrrate."
+        },
+        {
+            "key": "SK_SWO_LW_LVES_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FFT_AGRA_1_1",
+            "value": "Wirkt 3 Runden lang Protes und Vallum auf sich selbst."
+        },
+        {
+            "key": "SK_ARM_FFT_DELT_1_1",
+            "value": "Verbraucht eigene AP, um AP eines Verbündeten zu heilen."
+        },
+        {
+            "key": "SK_GUN_FFT_MSTD_1_1",
             "value": ""
         },
         {
@@ -4389,95 +4677,15 @@
             "value": ""
         },
         {
-            "key": "SK_SWO_LW_DRIO_1_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_007_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_5",
-            "value": ""
-        },
-        {
             "key": "SK_KAT_LW_DIAA_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_1",
+            "key": "SK_SWO_LW_DRIO_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_FTW_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_3",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_5",
+            "key": "SK_KAT_LW_SIMR_1_1",
             "value": ""
         },
         {
@@ -4781,18 +4989,6 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_THDG_GS",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GS_AW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GSMAX",
-            "value": ""
-        },
-        {
             "key": "SK_VC_LW_ADLD_GS",
             "value": ""
         },
@@ -4817,6 +5013,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_FF01_DMAC_GS",
             "value": ""
         },
@@ -4826,6 +5034,30 @@
         },
         {
             "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
             "value": ""
         },
         {
@@ -4965,15 +5197,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS",
+            "key": "SK_VC_FFT_MV2_GS",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS_AW",
+            "key": "SK_VC_FFT_MV2_GSAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GSMAX",
+            "key": "SK_VC_FFT_MV3_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSMAX",
             "value": ""
         },
         {
@@ -5269,27 +5509,15 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_P",
+            "key": "SK_VC_LW_CBVPARTY1_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_WHITEDAY1_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_WHITEDAY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {
@@ -5437,6 +5665,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_THDG_P",
             "value": ""
         },
@@ -5473,27 +5725,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "key": "SK_VC_FFT_MV2_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "key": "SK_VC_FFT_MV2_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "key": "SK_VC_FFT_MV3_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_P",
+            "key": "SK_VC_FFT_MV3_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_CBVPARTY1_PMAX",
+            "key": "SK_VC_FFT_MV3_PMAX",
             "value": ""
         },
         {
@@ -5554,6 +5802,10 @@
         },
         {
             "key": "SK_BTL_RANGE_1-20_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U_PA",
             "value": "Fähigkeit zur Auftragsausbalancierung"
         },
         {
@@ -6077,6 +6329,74 @@
             "value": "Fähigkeit zur Auftragsausbalancierung"
         },
         {
+            "key": "SK_BTL_RES_OTFIRE_1_80_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_D",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_D",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_D",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_D",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_D",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_D",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_D",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_D",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_RES_OTELEMALL_1_80_D",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
             "key": "SK_BTL_HP_100-99900_U_PA",
             "value": "Fähigkeit zur Auftragsausbalancierung"
         },
@@ -6174,6 +6494,14 @@
         },
         {
             "key": "SK_BTL_KILLER_SHINE_1-100_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_CHARM_1-100_U",
+            "value": "Fähigkeit zur Auftragsausbalancierung"
+        },
+        {
+            "key": "SK_BTL_POIS_1-100_U",
             "value": "Fähigkeit zur Auftragsausbalancierung"
         },
         {
@@ -6299,6 +6627,26 @@
         {
             "key": "SK_GMK_ATK_TEST_KATA_2",
             "value": "Vorläufiger Gimmick-Angriff (Katapultbereich)"
+        },
+        {
+            "key": "SK_GMK_ATK_NEEDLE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_FIRE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_ARROW",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1",
+            "value": "Gimmick-Angriff (Katapult, einzelne Einheit)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2",
+            "value": "Gimmick-Angriff (Katapult, Bereich)"
         },
         {
             "key": "SK_LW_WAR_P_2",

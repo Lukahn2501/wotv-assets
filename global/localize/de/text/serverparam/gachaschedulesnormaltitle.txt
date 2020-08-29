@@ -153,6 +153,30 @@
             "value": "Rare Beschwörung"
         },
         {
+            "key": "Raregacha_A_gl20200819_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_P",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_01",
+            "value": "Rare Beschwörung"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_10",
+            "value": "Rare Beschwörung (10-malig)"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_P",
+            "value": "Rare Beschwörung"
+        },
+        {
             "key": "global_Normal_gacha_A_20191130",
             "value": "Veröffentlichungsandenken – limitierte normale Beschwörung"
         },
@@ -294,6 +318,22 @@
         },
         {
             "key": "Normal_gacha_A_gl20200812_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_10",
+            "value": "Limitierte Normale Beschwörung (10-malig)"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_01",
+            "value": "Limitierte Normale Beschwörung"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_10",
             "value": "Limitierte Normale Beschwörung (10-malig)"
         }
     ]

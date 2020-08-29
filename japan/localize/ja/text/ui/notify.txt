@@ -103,6 +103,18 @@
         {
             "key": "RAIDBOSSENCOUNTSTOCK_DESC",
             "value": "{0}に遭遇しました。"
+        },
+        {
+            "key": "GPPREWARDS_DESC",
+            "value": "Google Play Points の報酬を受取りました！"
+        },
+        {
+            "key": "GPPREWARDS_TITLE",
+            "value": "おめでとうございます！"
+        },
+        {
+            "key": "GOOGLEPLAYPOINTREWARDS",
+            "value": "Google<br>Rewards!"
         }
     ]
 }

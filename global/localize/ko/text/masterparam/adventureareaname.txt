@@ -1,6 +1,10 @@
 {
     "infos": [
         {
+            "key": "AD_AREA_FFT_01",
+            "value": "오본느 수도원 주변"
+        },
+        {
             "key": "AD_AREA_WATER_01",
             "value": "소용돌이치는 물 밑"
         },

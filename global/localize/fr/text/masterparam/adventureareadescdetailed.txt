@@ -1,6 +1,10 @@
 {
     "infos": [
         {
+            "key": "AD_AREA_FFT_01",
+            "value": "Vous pouvez obtenir des médailles d'événement FFT ainsi que des objets pour l'entraînement des unités de la collaboration."
+        },
+        {
             "key": "AD_AREA_WATER_01",
             "value": "Vous pouvez obtenir des objets tels qu'une « Magilithe bleu clair », très utile pour entraîner les chimères d'eau."
         },

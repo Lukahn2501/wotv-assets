@@ -221,12 +221,28 @@
             "value": "兵員『光之戰士』的等級在1以上"
         },
         {
+            "key": "COND_HA_LW_SIMR",
+            "value": "兵員『西姆爾』的等級在1以上"
+        },
+        {
             "key": "COND_HA_LW_QILF",
             "value": "兵員『基爾菲』的等級在1以上"
         },
         {
-            "key": "COND_HA_LW_SIMR",
-            "value": "兵員『西姆爾』的等級在1以上"
+            "key": "COND_HA_LW_ORDR",
+            "value": "兵員『奧爾多』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "兵員『菈薇絲』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_FFT_DELT",
+            "value": "兵員『迪利塔』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_FFT_AGRA",
+            "value": "兵員『阿格莉亞絲』的等級在1以上"
         },
         {
             "key": "COND_CH_LW_MONT",
@@ -489,12 +505,32 @@
             "value": "兵員『光之戰士』的等級在40以上"
         },
         {
+            "key": "COND_CH_LW_SIMR",
+            "value": "兵員『西姆爾』的等級在40以上"
+        },
+        {
             "key": "COND_CH_LW_QILF",
             "value": "兵員『基爾菲』的等級在40以上"
         },
         {
-            "key": "COND_CH_LW_SIMR",
-            "value": "兵員『西姆爾』的等級在40以上"
+            "key": "COND_CH_LW_ORDR",
+            "value": "兵員『奧爾多』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "兵員『菈薇絲』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FFT_MSTD",
+            "value": "兵員『姆斯達迪奧』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FFT_DELT",
+            "value": "兵員『迪利塔』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FFT_AGRA",
+            "value": "兵員『阿格莉亞絲』的等級在40以上"
         }
     ]
 }

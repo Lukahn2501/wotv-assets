@@ -22,7 +22,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du dir ein Tutorial zum Sammeln von Einheitenfragmenten ansehen?"
+            "value": "Möchtest du dir ein Tutorial zur Einheitenbildung ansehen?"
         },
         {
             "key": "SKIP_YES",

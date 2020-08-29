@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "LGBP_001",
+            "value": "Limitierter Gildenkampf im März"
+        }
+    ]
+}

@@ -1282,7 +1282,7 @@
         },
         {
             "key": "SK_LW_WHM_M_4",
-            "value": "Accorde la Récup des alliés dans la zone autour du lanceur pendant 3 tours."
+            "value": "Accorde Récup aux alliés dans la zone autour du lanceur pendant 3 tours."
         },
         {
             "key": "SK_LW_WHM_M_6",
@@ -1334,7 +1334,7 @@
         },
         {
             "key": "SK_LW_WHM_M_4_SUB",
-            "value": "Accorde la Récup des alliés dans la zone autour du lanceur pendant 3 tours."
+            "value": "Accorde Récup aux alliés dans la zone autour du lanceur pendant 3 tours."
         },
         {
             "key": "SK_LW_WHM_M_6_SUB",
@@ -1850,7 +1850,7 @@
         },
         {
             "key": "SK_LW_FINA_M_3",
-            "value": "Accorde la Récup des alliés dans la zone autour du lanceur pendant 3 tours."
+            "value": "Accorde Récup aux alliés dans la zone autour du lanceur pendant 3 tours."
         },
         {
             "key": "SK_LW_FINA_M_4",
@@ -1974,7 +1974,7 @@
         },
         {
             "key": "SK_LW_TNCR_S_4",
-            "value": "Lance Récup sur un allié pendant 3 tours."
+            "value": "Accorde Récup à un allié pendant 3 tours."
         },
         {
             "key": "SK_LW_TNCR_R_1",
@@ -2509,6 +2509,150 @@
             "value": "DEF ↑"
         },
         {
+            "key": "SK_FFT_AGRA_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_AGRA_M_1",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et confère une chance d'infliger Stop."
+        },
+        {
+            "key": "SK_FFT_AGRA_M_2",
+            "value": "Inflige des dégâts (S) aux unités dans la zone ciblée, et confère une chance d'infliger Silence pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_AGRA_M_3",
+            "value": "Augmente considérablement la PSY des alliés dans la zone autour du lanceur pendant 1 tour."
+        },
+        {
+            "key": "SK_FFT_AGRA_S_1",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Incapacité pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_AGRA_S_2",
+            "value": "Accorde Récup aux alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_AGRA_S_3",
+            "value": "Érige une barrière autour des alliés dans la zone autour du lanceur qui réduit les DgtM (3 fois)"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_4",
+            "value": "Augmente l'ATT/la MAGIE d'un allié pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_AGRA_S_5",
+            "value": "Inflige des dégâts (S) à la cible et réduit l'ATT/la MAGIE/la DEF/la PSY pendant 2 tours."
+        },
+        {
+            "key": "SK_FFT_AGRA_R_1",
+            "value": "Confère une chance de réduire les dégâts subis."
+        },
+        {
+            "key": "SK_FFT_AGRA_P_1",
+            "value": "Augmente l'ATT."
+        },
+        {
+            "key": "SK_FFT_AGRA_P_2",
+            "value": "Augmente l'AGI/PSY."
+        },
+        {
+            "key": "SK_FFT_DELT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_DELT_M_1",
+            "value": "Inflige des dégâts (M) à la cible, et confère une chance d'infliger Peine de mort."
+        },
+        {
+            "key": "SK_FFT_DELT_M_2",
+            "value": "Inflige des dégâts (M) à la cible et réduit les PA."
+        },
+        {
+            "key": "SK_FFT_DELT_M_3",
+            "value": "Inflige des dégâts (L) à la cible et réduit considérablement la résistance au feu pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_DELT_S_1",
+            "value": "Inflige des dégâts (XS) à la cible."
+        },
+        {
+            "key": "SK_FFT_DELT_S_2",
+            "value": "Consomme les PV (M) du lanceur pour restaurer ceux d'un allié."
+        },
+        {
+            "key": "SK_FFT_DELT_S_3",
+            "value": "Inflige des dégâts de feu (L) qui dépendent de la MAGIE du lanceur à la cible."
+        },
+        {
+            "key": "SK_FFT_DELT_S_4",
+            "value": "Augmente considérablement l'ATT/MAGIE du lanceur pendant 3 tours et réduit la consommation de PA."
+        },
+        {
+            "key": "SK_FFT_DELT_S_5",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et confère une chance d'infliger Stop."
+        },
+        {
+            "key": "SK_FFT_DELT_R_1",
+            "value": "Chance de contre-attaquer lorsque des dégâts sont subis, confère une chance de reculer de 1 case."
+        },
+        {
+            "key": "SK_FFT_DELT_P_1",
+            "value": "Déplacement +1"
+        },
+        {
+            "key": "SK_FFT_DELT_P_2",
+            "value": "Augmente les PA acquis."
+        },
+        {
+            "key": "SK_FFT_MSTD_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_MSTD_M_1",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée."
+        },
+        {
+            "key": "SK_FFT_MSTD_M_2",
+            "value": "Inflige des dégâts (L) à la cible et confère une chance d'infliger Pétrification."
+        },
+        {
+            "key": "SK_FFT_MSTD_M_3",
+            "value": "Inflige des dégâts (M) à la cible à trois reprises."
+        },
+        {
+            "key": "SK_FFT_MSTD_S_1",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Cécité pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_MSTD_S_2",
+            "value": "Augmente considérablement la Rés aux malus des alliés dans la zone autour du lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_MSTD_S_3",
+            "value": "Diminue la probabilité d'être ciblé par les ennemis."
+        },
+        {
+            "key": "SK_FFT_MSTD_S_4",
+            "value": "Inflige des dégâts (S) à la cible et confère une chance d'infliger Immobilisation pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_MSTD_S_5",
+            "value": "Inflige des dégâts (M) à la cible et inflige Incapacité pendant 3 tours."
+        },
+        {
+            "key": "SK_FFT_MSTD_R_1",
+            "value": "Chance de régénérer un certain pourcentage des PV (S) du lanceur en recevant des dégâts."
+        },
+        {
+            "key": "SK_FFT_MSTD_P_1",
+            "value": "Portée +1 et Saut +1"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_2",
+            "value": "Augmente l'Att projectile."
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée."
         },
@@ -3041,22 +3185,6 @@
             "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur et confère une chance d'infliger Charme pendant 3 tours."
         },
         {
-            "key": "SK_CSLI_01_ATK",
-            "value": ""
-        },
-        {
-            "key": "SK_CSLI_01_M_01",
-            "value": "Inflige des dégâts (S) à la cible."
-        },
-        {
-            "key": "SK_CSLI_01_M_02",
-            "value": "Inflige des dégâts (S) à la cible et absorbe les dégâts infligés."
-        },
-        {
-            "key": "SK_CSLI_01_M_03",
-            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur et confère une chance d'infliger Sommeil à la cible pendant 3 tours."
-        },
-        {
             "key": "SK_SLIM_ATK",
             "value": ""
         },
@@ -3071,6 +3199,22 @@
         {
             "key": "SK_SLIM_M_03",
             "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur et confère une chance d'infliger Poison pendant 3 tours."
+        },
+        {
+            "key": "SK_CSLI_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "Inflige des dégâts (S) à la cible."
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "Inflige des dégâts (S) à la cible et absorbe les dégâts infligés."
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "Inflige des dégâts (M) aux cibles dans la zone autour du lanceur et confère une chance d'infliger Sommeil à la cible pendant 3 tours."
         },
         {
             "key": "SK_IFRT_ATK",
@@ -3230,7 +3374,7 @@
         },
         {
             "key": "SK_LAMA_M_03",
-            "value": "Inflige des dégâts (M) aux ennemis dans la zone ciblée, Tue-Mars, et confère une chance d'infliger Confusion pendant 3 tours."
+            "value": "Inflige des dégâts (M) aux ennemis dans la zone ciblée, et confère une chance d'infliger Confusion pendant 3 tours."
         },
         {
             "key": "SK_GL_LAMA_M_03",
@@ -3277,6 +3421,22 @@
             "value": "Inflige des DgtM (L) à la cible."
         },
         {
+            "key": "SK_WRMC_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "Inflige des dégâts (S) aux unités dans la zone ciblée, et confère une chance d'infliger Immobilisation."
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée, et confère une chance de réduire la DEF et la PSY."
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "Inflige des dégâts de feu (L) aux unités dans la zone ciblée."
+        },
+        {
             "key": "SK_THDG_ATK",
             "value": ""
         },
@@ -3303,22 +3463,6 @@
         {
             "key": "SK_THDG_M_05",
             "value": "Inflige des dégâts physiques (M) aux unités dans la zone autour du lanceur et confère une chance d'infliger des altérations d'états (Cécité/Silence) pendant 3 tours."
-        },
-        {
-            "key": "SK_WRMC_ATK",
-            "value": ""
-        },
-        {
-            "key": "SK_WRMC_M_01",
-            "value": "Inflige des dégâts (S) aux unités dans la zone ciblée, et confère une chance d'infliger Immobilisation."
-        },
-        {
-            "key": "SK_WRMC_M_02",
-            "value": "Inflige des dégâts (M) aux unités dans la zone ciblée, et confère une chance de réduire la DEF et la PSY."
-        },
-        {
-            "key": "SK_WRMC_M_03",
-            "value": "Inflige des dégâts de feu (L) aux unités dans la zone ciblée."
         },
         {
             "key": "SK_DABL_ATK",
@@ -3375,26 +3519,6 @@
         {
             "key": "SK_LW_E_VIK_S_3",
             "value": "Augmente l'ATT/DEF du lanceur pendant 3 tours et réduit le taux d'esquive."
-        },
-        {
-            "key": "SK_GMK_ATK_NEEDLE",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_FIRE",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_ARROW",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_1",
-            "value": "Attaque de Gadget (Unité de catapulte simple)"
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_2",
-            "value": "Attaque de Gadget (Zone de catapulte)"
         },
         {
             "key": "SK_LB_LW_MONT",
@@ -3565,6 +3689,18 @@
             "value": "Réduit la résistance magique de la cible pendant 3 tours, puis inflige des dégâts (L) qui dépendent de la MAGIE du lanceur."
         },
         {
+            "key": "SK_LB_LW_ORDR",
+            "value": "Réduit la DEF de la cible pendant 3 tours, puis inflige des dégâts (L)."
+        },
+        {
+            "key": "SK_LB_FFT_AGRA_01",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et confère une chance d'infliger Confusion pendant 3 tours."
+        },
+        {
+            "key": "SK_LB_FFT_DELT_01",
+            "value": "Inflige des dégâts (L) aux unités dans la zone ciblée et confère une chance d'infliger Silence pendant 3 tours."
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Invoque Ifrit, inflige des dégâts de feu (XL) aux unités dans la zone ciblée et active des effets de carte temporaires (augmente l'ATT/MAGIE des alliés et réduit considérablement la Rés feu des ennemis)."
         },
@@ -3643,6 +3779,10 @@
         {
             "key": "SK_SMN_DABL",
             "value": "Invoque Diabolos, inflige des dégâts d'ombre (XL) aux unités dans la zone ciblée et active des effets de carte temporaires (augmente l'ATT/MAGIE des alliés et réduit considérablement la Rés ombre des ennemis)."
+        },
+        {
+            "key": "SK_SMN_CHCB_01",
+            "value": "Invoque Chocobo rouge et inflige des dégâts de lumière (L) aux unités dans la zone ciblée."
         },
         {
             "key": "SK_US_POTION",
@@ -3730,7 +3870,7 @@
         },
         {
             "key": "SK_US_HEALWATER",
-            "value": "Accorde Récup pour un allié pendant 3 tours."
+            "value": "Accorde Récup à un allié pendant 3 tours."
         },
         {
             "key": "SK_US_HPPOTION",
@@ -4025,6 +4165,26 @@
             "value": "ATT +10 %, taux de précision +30"
         },
         {
+            "key": "SK_MA_LW_ORDR",
+            "value": "Modification de l'acquisition de PA +30 %, résistance aux attaques tranch./perç./contond./project. +5"
+        },
+        {
+            "key": "SK_MA_LW_LVES",
+            "value": "Taux d'esquive +10,<br>consommation des PA -20 %"
+        },
+        {
+            "key": "SK_MA_FFT_AGRA",
+            "value": "Rés aux attaques d'unité +15"
+        },
+        {
+            "key": "SK_MA_FFT_DELT",
+            "value": "ATT+20 %"
+        },
+        {
+            "key": "SK_MA_FFT_MSTD",
+            "value": "Taux de précision +30, augmente l'activation de Cécité/Immobilisation/Incapacité"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Att tranchante +2"
         },
@@ -4077,6 +4237,26 @@
             "value": "Att tranchante +20"
         },
         {
+            "key": "SK_LW_AVOID_1",
+            "value": "Taux d'esquive +1"
+        },
+        {
+            "key": "SK_LW_AVOID_2",
+            "value": "Taux d'esquive +2"
+        },
+        {
+            "key": "SK_LW_AVOID_3",
+            "value": "Taux d'esquive +3"
+        },
+        {
+            "key": "SK_LW_AVOID_4_N_SSR",
+            "value": "Taux d'esquive +4"
+        },
+        {
+            "key": "SK_LW_AVOID_5_SSR",
+            "value": "Taux d'esquive +8"
+        },
+        {
             "key": "SK_LW_SWO_003_1",
             "value": ""
         },
@@ -4106,6 +4286,98 @@
         },
         {
             "key": "SK_LW_RNG_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FTW_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_5",
             "value": ""
         },
         {
@@ -4209,7 +4481,23 @@
             "value": "Augmente la résistance aux attaques d'unité du lanceur pendant 3 tours, et réduit la résistance aux attaques de zone."
         },
         {
-            "key": "SK_KAT_LW_SIMR_1_1",
+            "key": "SK_ACC_LW_ORDR_1_1",
+            "value": "Accorde une restauration automatique de PA (S) pour le lanceur pendant 3 tours et augmente le taux de perforation de la DEF."
+        },
+        {
+            "key": "SK_SWO_LW_LVES_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FFT_AGRA_1_1",
+            "value": "Accorde Bouclier/Barrière au lanceur pendant 3 tours."
+        },
+        {
+            "key": "SK_ARM_FFT_DELT_1_1",
+            "value": "Consomme les PA du lanceur pour restaurer ceux d'un allié."
+        },
+        {
+            "key": "SK_GUN_FFT_MSTD_1_1",
             "value": ""
         },
         {
@@ -4389,95 +4677,15 @@
             "value": ""
         },
         {
-            "key": "SK_SWO_LW_DRIO_1_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_007_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_5",
-            "value": ""
-        },
-        {
             "key": "SK_KAT_LW_DIAA_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_1",
+            "key": "SK_SWO_LW_DRIO_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_FTW_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_3",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_5",
+            "key": "SK_KAT_LW_SIMR_1_1",
             "value": ""
         },
         {
@@ -4781,18 +4989,6 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_THDG_GS",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GS_AW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GSMAX",
-            "value": ""
-        },
-        {
             "key": "SK_VC_LW_ADLD_GS",
             "value": ""
         },
@@ -4817,6 +5013,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_FF01_DMAC_GS",
             "value": ""
         },
@@ -4826,6 +5034,30 @@
         },
         {
             "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
             "value": ""
         },
         {
@@ -4965,15 +5197,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS",
+            "key": "SK_VC_FFT_MV2_GS",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS_AW",
+            "key": "SK_VC_FFT_MV2_GSAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GSMAX",
+            "key": "SK_VC_FFT_MV3_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSMAX",
             "value": ""
         },
         {
@@ -5269,27 +5509,15 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_P",
+            "key": "SK_VC_LW_CBVPARTY1_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_WHITEDAY1_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_WHITEDAY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {
@@ -5437,6 +5665,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_THDG_P",
             "value": ""
         },
@@ -5473,27 +5725,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "key": "SK_VC_FFT_MV2_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "key": "SK_VC_FFT_MV2_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "key": "SK_VC_FFT_MV3_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_P",
+            "key": "SK_VC_FFT_MV3_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_CBVPARTY1_PMAX",
+            "key": "SK_VC_FFT_MV3_PMAX",
             "value": ""
         },
         {
@@ -5554,6 +5802,10 @@
         },
         {
             "key": "SK_BTL_RANGE_1-20_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U_PA",
             "value": "Compétence de rééquilibrage de la quête"
         },
         {
@@ -6077,6 +6329,74 @@
             "value": "Compétence de rééquilibrage de la quête"
         },
         {
+            "key": "SK_BTL_RES_OTFIRE_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_RES_OTELEMALL_1_80_D",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
             "key": "SK_BTL_HP_100-99900_U_PA",
             "value": "Compétence de rééquilibrage de la quête"
         },
@@ -6174,6 +6494,14 @@
         },
         {
             "key": "SK_BTL_KILLER_SHINE_1-100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_CHARM_1-100_U",
+            "value": "Compétence de rééquilibrage de la quête"
+        },
+        {
+            "key": "SK_BTL_POIS_1-100_U",
             "value": "Compétence de rééquilibrage de la quête"
         },
         {
@@ -6299,6 +6627,26 @@
         {
             "key": "SK_GMK_ATK_TEST_KATA_2",
             "value": "Attaque de Gadget provisoire (Zone de catapulte)"
+        },
+        {
+            "key": "SK_GMK_ATK_NEEDLE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_FIRE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_ARROW",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1",
+            "value": "Attaque de Gadget (Unité de catapulte simple)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2",
+            "value": "Attaque de Gadget (Zone de catapulte)"
         },
         {
             "key": "SK_LW_WAR_P_2",

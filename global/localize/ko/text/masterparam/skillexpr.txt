@@ -2509,6 +2509,150 @@
             "value": "방어력 증가"
         },
         {
+            "key": "SK_FFT_AGRA_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_AGRA_M_1",
+            "value": "범위 내 대상에게 피해(대)+일정 확률로 스톱(일정 시간 CT 축적 불가) 효과"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_2",
+            "value": "범위 내 대상에게 피해(소)+일정 확률로 침묵(3턴 동안 마법 시전 불가) 효과"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_3",
+            "value": "1턴 동안 자신을 중심으로 범위 내 아군의 정신력 대폭 증가"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_1",
+            "value": "대상에게 피해(소)+일정 확률로 돈액트(3턴 동안 이동 외 행동 불가) 효과"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_2",
+            "value": "자신을 중심으로 범위 내 아군에게 리제네(3턴 동안 서서히 HP 회복) 효과"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_3",
+            "value": "자신을 중심으로 범위 내 아군에게 마법 피해 보호막(3회)"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_4",
+            "value": "3턴 동안 아군의 공격력/마력 증가"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_5",
+            "value": "대상에게 피해(소)+2턴 동안 공격력/마력/방어력/정신력 감소"
+        },
+        {
+            "key": "SK_FFT_AGRA_R_1",
+            "value": "피해를 받으면 일정 확률로 피해량 감소"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_1",
+            "value": "공격력 증가"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_2",
+            "value": "민첩성/정신력 증가"
+        },
+        {
+            "key": "SK_FFT_DELT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_DELT_M_1",
+            "value": "대상에게 피해(중)+일정 확률로 죽음의 선고(4번째 행동 시작 시 전투불능) 효과"
+        },
+        {
+            "key": "SK_FFT_DELT_M_2",
+            "value": "대상에게 피해(중)+AP 감소"
+        },
+        {
+            "key": "SK_FFT_DELT_M_3",
+            "value": "대상에게 피해(대)+3턴 동안 불속성 저항력 대폭 감소"
+        },
+        {
+            "key": "SK_FFT_DELT_S_1",
+            "value": "대상에게 피해(극소)"
+        },
+        {
+            "key": "SK_FFT_DELT_S_2",
+            "value": "자신의 HP를 소비하여 아군의 HP 회복(중)"
+        },
+        {
+            "key": "SK_FFT_DELT_S_3",
+            "value": "대상에게 마력 의존 불속성 피해(대)"
+        },
+        {
+            "key": "SK_FFT_DELT_S_4",
+            "value": "3턴 동안 자신의 공격력/마력 대폭 증가+소비 AP 감소"
+        },
+        {
+            "key": "SK_FFT_DELT_S_5",
+            "value": "범위 내 대상에게 피해(대)+일정 확률로 스톱(일정 시간 CT 축적 불가) 효과"
+        },
+        {
+            "key": "SK_FFT_DELT_R_1",
+            "value": "피해를 받으면 일정 확률로 반격+일정 확률로 1칸 밀쳐내기"
+        },
+        {
+            "key": "SK_FFT_DELT_P_1",
+            "value": "이동력 1 증가"
+        },
+        {
+            "key": "SK_FFT_DELT_P_2",
+            "value": "획득 AP 증가"
+        },
+        {
+            "key": "SK_FFT_MSTD_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_MSTD_M_1",
+            "value": "범위 내 대상에게 피해(중)"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_2",
+            "value": "대상에게 피해(대)+적에게 일정 확률로 석화(3턴 동안 행동 불가) 효과"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_3",
+            "value": "대상에게 3연속 피해(중)"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_1",
+            "value": "대상에게 피해(소)+일정 확률로 실명(3턴 동안 명중률 감소) 효과"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_2",
+            "value": "3턴 동안 자신을 중심으로 범위 내 아군의 약화 저항력 대폭 증가"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_3",
+            "value": "자신이 공격받을 확률 감소"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_4",
+            "value": "대상에게 피해(소)+일정 확률로 돈무브(3턴 동안 이동 불가) 효과"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_5",
+            "value": "대상에게 피해(중)+일정 확률로 돈액트(3턴 동안 이동 외 행동 불가) 효과"
+        },
+        {
+            "key": "SK_FFT_MSTD_R_1",
+            "value": "피해를 받으면 일정 확률로 자신의 HP 일정 비율 회복(소)"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_1",
+            "value": "사정거리 1 증가+점프 1 증가"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_2",
+            "value": "사격 공격력 증가"
+        },
+        {
             "key": "SK_LW_TU_BLM_ICE",
             "value": "범위 내 대상에게 마력 의존 얼음속성 피해(소)"
         },
@@ -3041,22 +3185,6 @@
             "value": "자신을 중심으로 범위 내 대상에게 피해(중)+일정 확률로 매료(3턴 동안 조작 불가/대상의 아군 공격) 효과"
         },
         {
-            "key": "SK_CSLI_01_ATK",
-            "value": ""
-        },
-        {
-            "key": "SK_CSLI_01_M_01",
-            "value": "대상에게 피해(소)"
-        },
-        {
-            "key": "SK_CSLI_01_M_02",
-            "value": "대상에게 피해(소)+준 피해량 흡수"
-        },
-        {
-            "key": "SK_CSLI_01_M_03",
-            "value": "자신을 중심으로 범위 내 대상에게 피해(중)+일정 확률로 수면(3턴 동안 모든 행동 불가) 효과"
-        },
-        {
             "key": "SK_SLIM_ATK",
             "value": ""
         },
@@ -3071,6 +3199,22 @@
         {
             "key": "SK_SLIM_M_03",
             "value": "자신을 중심으로 범위 내 대상에게 피해(중)+일정 확률로 독(3턴 동안 서서히 HP 감소) 효과"
+        },
+        {
+            "key": "SK_CSLI_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "대상에게 피해(소)"
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "대상에게 피해(소)+준 피해량 흡수"
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "자신을 중심으로 범위 내 대상에게 피해(중)+일정 확률로 수면(3턴 동안 모든 행동 불가) 효과"
         },
         {
             "key": "SK_IFRT_ATK",
@@ -3230,7 +3374,7 @@
         },
         {
             "key": "SK_LAMA_M_03",
-            "value": "범위 내 적에게 피해(중)+남성 킬러+일정 확률로 혼란(3턴 동안 조작 불가/적과 아군 무작위 공격) 효과"
+            "value": "범위 내 적에게 피해(중)+일정 확률로 혼란(3턴 동안 조작 불가/적과 아군 무작위 공격) 효과"
         },
         {
             "key": "SK_GL_LAMA_M_03",
@@ -3277,6 +3421,22 @@
             "value": "대상에게 마법 피해(대)"
         },
         {
+            "key": "SK_WRMC_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "범위 내 대상에게 피해(소)+일정 확률로 돈무브 효과"
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "범위 내 대상에게 피해(중)+일정 확률로 방어력/정신력 감소"
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "범위 내 대상에게 불속성 피해(대)"
+        },
+        {
             "key": "SK_THDG_ATK",
             "value": ""
         },
@@ -3303,22 +3463,6 @@
         {
             "key": "SK_THDG_M_05",
             "value": "자신을 중심으로 범위 내 유닛에게 물리 피해(중)+일정 확률로 3턴 동안 상태이상(실명/침묵) 효과"
-        },
-        {
-            "key": "SK_WRMC_ATK",
-            "value": ""
-        },
-        {
-            "key": "SK_WRMC_M_01",
-            "value": "범위 내 대상에게 피해(소)+일정 확률로 돈무브 효과"
-        },
-        {
-            "key": "SK_WRMC_M_02",
-            "value": "범위 내 대상에게 피해(중)+일정 확률로 방어력/정신력 감소"
-        },
-        {
-            "key": "SK_WRMC_M_03",
-            "value": "범위 내 대상에게 불속성 피해(대)"
         },
         {
             "key": "SK_DABL_ATK",
@@ -3375,26 +3519,6 @@
         {
             "key": "SK_LW_E_VIK_S_3",
             "value": "3턴 동안 자신의 공격력/방어력 증가+회피율 감소"
-        },
-        {
-            "key": "SK_GMK_ATK_NEEDLE",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_FIRE",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_ARROW",
-            "value": ""
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_1",
-            "value": "기믹 공격(투석기 단일)"
-        },
-        {
-            "key": "SK_GMK_ATK_KATA_2",
-            "value": "기믹 공격(투석기 범위)"
         },
         {
             "key": "SK_LB_LW_MONT",
@@ -3565,6 +3689,18 @@
             "value": "3턴 동안 대상의 마법 저항력 감소+마력 의존 피해(대)"
         },
         {
+            "key": "SK_LB_LW_ORDR",
+            "value": "3턴 동안 대상의 방어력 감소+피해(대)"
+        },
+        {
+            "key": "SK_LB_FFT_AGRA_01",
+            "value": "범위 내 대상에게 피해(대)+일정 확률로 혼란(3턴 동안 조작 불가/적과 아군 무작위 공격) 효과"
+        },
+        {
+            "key": "SK_LB_FFT_DELT_01",
+            "value": "범위 내 대상에게 피해(대)+일정 확률로 침묵(3턴 동안 마법 시전 불가) 효과"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": " '이프리트'를 소환하여 범위 내 대상에게 불속성 피해(극대)+일정 시간 동안 맵 효과 발동(아군의 공격력/마력 증가+적의 불속성 저항력 대폭 감소)"
         },
@@ -3643,6 +3779,10 @@
         {
             "key": "SK_SMN_DABL",
             "value": " '디아볼로스'를 소환하여 범위 내 대상에게 어둠속성 피해(극대)+일정 시간 동안 맵 효과 발동(아군의 공격력/마력 증가+적의 어둠속성 저항력 대폭 감소)"
+        },
+        {
+            "key": "SK_SMN_CHCB_01",
+            "value": " '붉은 초코보'를 소환하여 범위 내 대상에게 빛속성 피해(대)"
         },
         {
             "key": "SK_US_POTION",
@@ -4025,6 +4165,26 @@
             "value": "공격력+10%, 명중률+30"
         },
         {
+            "key": "SK_MA_LW_ORDR",
+            "value": "AP 획득 보정+30%, 베기/찌르기/타격/사격 저항력+5"
+        },
+        {
+            "key": "SK_MA_LW_LVES",
+            "value": "회피율+10, 소비 AP-20%"
+        },
+        {
+            "key": "SK_MA_FFT_AGRA",
+            "value": "단일 공격 저항력+15"
+        },
+        {
+            "key": "SK_MA_FFT_DELT",
+            "value": "공격력+20%"
+        },
+        {
+            "key": "SK_MA_FFT_MSTD",
+            "value": "명중률+30, 실명/돈무브/돈액트 발동 확률 증가"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "베기 공격력+2"
         },
@@ -4077,6 +4237,26 @@
             "value": "베기 공격력+20"
         },
         {
+            "key": "SK_LW_AVOID_1",
+            "value": "회피율+1"
+        },
+        {
+            "key": "SK_LW_AVOID_2",
+            "value": "회피율+2"
+        },
+        {
+            "key": "SK_LW_AVOID_3",
+            "value": "회피율+3"
+        },
+        {
+            "key": "SK_LW_AVOID_4_N_SSR",
+            "value": "회피율+4"
+        },
+        {
+            "key": "SK_LW_AVOID_5_SSR",
+            "value": "회피율+8"
+        },
+        {
             "key": "SK_LW_SWO_003_1",
             "value": ""
         },
@@ -4106,6 +4286,98 @@
         },
         {
             "key": "SK_LW_RNG_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FTW_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_5",
             "value": ""
         },
         {
@@ -4209,7 +4481,23 @@
             "value": "3턴 동안 자신의 단일 공격 저항력 증가+범위 공격 저항력 감소"
         },
         {
-            "key": "SK_KAT_LW_SIMR_1_1",
+            "key": "SK_ACC_LW_ORDR_1_1",
+            "value": "3턴 동안 자신에게 AP 자동 축적 효과(소)+방어 관통률 증가"
+        },
+        {
+            "key": "SK_SWO_LW_LVES_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FFT_AGRA_1_1",
+            "value": "3턴 동안 자신에게 프로테스/셸 효과"
+        },
+        {
+            "key": "SK_ARM_FFT_DELT_1_1",
+            "value": "자신의 AP를 소비하여 아군의 AP 회복"
+        },
+        {
+            "key": "SK_GUN_FFT_MSTD_1_1",
             "value": ""
         },
         {
@@ -4389,95 +4677,15 @@
             "value": ""
         },
         {
-            "key": "SK_SWO_LW_DRIO_1_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_005_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_006_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_SWO_007_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_AF_ICE_PA_5",
-            "value": ""
-        },
-        {
             "key": "SK_KAT_LW_DIAA_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_1",
+            "key": "SK_SWO_LW_DRIO_1_1",
             "value": ""
         },
         {
-            "key": "SK_LW_SPE_006_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_004_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_FTW_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_001_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_002_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_RNG_003_5",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_1",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_3",
-            "value": ""
-        },
-        {
-            "key": "SK_LW_BSW_011_5",
+            "key": "SK_KAT_LW_SIMR_1_1",
             "value": ""
         },
         {
@@ -4781,18 +4989,6 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_THDG_GS",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GS_AW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_THDG_GSMAX",
-            "value": ""
-        },
-        {
             "key": "SK_VC_LW_ADLD_GS",
             "value": ""
         },
@@ -4817,6 +5013,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_FF01_DMAC_GS",
             "value": ""
         },
@@ -4826,6 +5034,30 @@
         },
         {
             "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
             "value": ""
         },
         {
@@ -4965,15 +5197,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS",
+            "key": "SK_VC_FFT_MV2_GS",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GS_AW",
+            "key": "SK_VC_FFT_MV2_GSAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_DABL_GSMAX",
+            "key": "SK_VC_FFT_MV3_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSMAX",
             "value": ""
         },
         {
@@ -5269,27 +5509,15 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_P",
+            "key": "SK_VC_LW_CBVPARTY1_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_ADLD_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_WHITEDAY1_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_WHITEDAY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_P",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_VNLA2_PAW",
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
             "value": ""
         },
         {
@@ -5437,6 +5665,30 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_THDG_P",
             "value": ""
         },
@@ -5473,27 +5725,23 @@
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "key": "SK_VC_FFT_MV2_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "key": "SK_VC_FFT_MV2_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "key": "SK_VC_FFT_MV3_P",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_P",
+            "key": "SK_VC_FFT_MV3_PAW",
             "value": ""
         },
         {
-            "key": "SK_VC_LW_CBVPARTY1_PAW",
-            "value": ""
-        },
-        {
-            "key": "SK_VC_LW_CBVPARTY1_PMAX",
+            "key": "SK_VC_FFT_MV3_PMAX",
             "value": ""
         },
         {
@@ -5554,6 +5802,10 @@
         },
         {
             "key": "SK_BTL_RANGE_1-20_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U_PA",
             "value": "퀘스트 조정용 스킬"
         },
         {
@@ -6077,6 +6329,74 @@
             "value": "퀘스트 조정용 스킬"
         },
         {
+            "key": "SK_BTL_RES_OTFIRE_1_80_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_RES_OTELEMALL_1_80_D",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
             "key": "SK_BTL_HP_100-99900_U_PA",
             "value": "퀘스트 조정용 스킬"
         },
@@ -6174,6 +6494,14 @@
         },
         {
             "key": "SK_BTL_KILLER_SHINE_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_CHARM_1-100_U",
+            "value": "퀘스트 조정용 스킬"
+        },
+        {
+            "key": "SK_BTL_POIS_1-100_U",
             "value": "퀘스트 조정용 스킬"
         },
         {
@@ -6299,6 +6627,26 @@
         {
             "key": "SK_GMK_ATK_TEST_KATA_2",
             "value": "기믹 임시 공격(투석기 범위)"
+        },
+        {
+            "key": "SK_GMK_ATK_NEEDLE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_FIRE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_ARROW",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1",
+            "value": "기믹 공격(투석기 단일)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2",
+            "value": "기믹 공격(투석기 범위)"
         },
         {
             "key": "SK_LW_WAR_P_2",

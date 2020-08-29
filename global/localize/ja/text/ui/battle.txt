@@ -65,6 +65,10 @@
             "value": "周回"
         },
         {
+            "key": "MENU_SKIP",
+            "value": "Skip"
+        },
+        {
             "key": "MENU_SPEED_DEFAULT",
             "value": "通常"
         },
@@ -279,6 +283,14 @@
         {
             "key": "RESULT_DIALOG_REMATCH_DESC",
             "value": "「再戦」を選択すると、クリア後のデモはスキップされます。"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_TITLE",
+            "value": "追加の★を獲得"
+        },
+        {
+            "key": "LIMITED_GB_RESULT_DESC",
+            "value": "このプレイヤーが<br>設定していない防御パーティー分の<br><color=#F0C040>★x{0}個</color>も獲得しました。"
         },
         {
             "key": "INTIMACYUP_BONUS_TITLE",
@@ -619,18 +631,6 @@
         {
             "key": "BATTLE_HEIGHT_ABBREV",
             "value": "h"
-        },
-        {
-            "key": "MENU_SKIP",
-            "value": "Skip"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_TITLE",
-            "value": "追加の★を獲得"
-        },
-        {
-            "key": "LIMITED_GB_RESULT_DESC",
-            "value": "このプレイヤーが<br>設定していない防御パーティー分の<br><color=#F0C040>★x{0}個</color>も獲得しました。"
         },
         {
             "key": "RESULT_RETRY",

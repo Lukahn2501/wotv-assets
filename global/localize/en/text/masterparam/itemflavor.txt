@@ -1081,6 +1081,66 @@
             "value": "Despite its mostly spherical shape, this red stone occurs in nature and is not man-made. It contains the memories of a former staff mage, and it is believed to have been located near the actual site where they trained and eventually unleashed their powers. Training with it will allow one to obtain memories based on the color of the stone."
         },
         {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "Despite its mostly spherical shape, this green stone occurs in nature and is not man-made. It contains the memories of a former holy knight, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "Despite its mostly spherical shape, this blue stone occurs in nature and is not man-made. It contains the memories of a former holy knight, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "Despite its mostly spherical shape, this purple stone occurs in nature and is not man-made. It contains the memories of a former holy knight, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "Despite its mostly spherical shape, this yellow stone occurs in nature and is not man-made. It contains the memories of a former holy knight, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "Despite its mostly spherical shape, this red stone occurs in nature and is not man-made. It contains the memories of a former holy knight, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "Despite its mostly spherical shape, this green stone occurs in nature and is not man-made. It contains the memories of a former squire, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "Despite its mostly spherical shape, this blue stone occurs in nature and is not man-made. It contains the memories of a former squire, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "Despite its mostly spherical shape, this purple stone occurs in nature and is not man-made. It contains the memories of a former squire, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "Despite its mostly spherical shape, this yellow stone occurs in nature and is not man-made. It contains the memories of a former squire, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "Despite its mostly spherical shape, this red stone occurs in nature and is not man-made. It contains the memories of a former squire, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "Despite its mostly spherical shape, this green stone occurs in nature and is not man-made. It contains the memories of a former machinist, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "Despite its mostly spherical shape, this blue stone occurs in nature and is not man-made. It contains the memories of a former machinist, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "Despite its mostly spherical shape, this purple stone occurs in nature and is not man-made. It contains the memories of a former machinist, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "Despite its mostly spherical shape, this yellow stone occurs in nature and is not man-made. It contains the memories of a former machinist, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "Despite its mostly spherical shape, this red stone occurs in nature and is not man-made. It contains the memories of a former machinist, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "A mineral of glistening green with a shape reminiscent of a flickering flame. It is said to further draw out the power of those with the divine protection of fire when collected in large quantities. The level of power that can be drawn out depends on the color of the mineral."
         },
@@ -1790,6 +1850,26 @@
         },
         {
             "key": "IT_PI_LW_SIMR",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
             "value": ""
         },
         {
@@ -2581,6 +2661,10 @@
             "value": "A recipe that describes how to combine materials in order to craft Armor of Light. If one possesses the correct type and quantity of materials, it is possible to craft the item simply by following the recipe. This method is practiced all over the world as it does not require the expertise or skill of a blacksmith."
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "A recipe that describes how to combine materials in order to craft a Sortilége. If one possesses the correct type and quantity of materials, it is possible to craft the item simply by following the recipe. This method is practiced all over the world as it does not require the expertise or skill of a blacksmith."
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Inscribing equipment with special patterns during the forging process creates an effect similar to a small-scale magical field, imbuing the equipment with a variety of powers. This particular seal appears to increase the HP of whoever dons the equipment it's inscribed on."
         },
@@ -2773,6 +2857,10 @@
             "value": ""
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": ""
         },
@@ -2813,6 +2901,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -2822,6 +2914,18 @@
         },
         {
             "key": "IT_EC_FFT_2_B",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
             "value": ""
         },
         {
@@ -2841,20 +2945,16 @@
             "value": ""
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": ""
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": ""
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": ""
         },
         {
             "key": "IT_EC_FF1_2",
             "value": ""
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2917,6 +3017,10 @@
             "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
         },
@@ -2937,6 +3041,14 @@
             "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
         },
@@ -2950,90 +3062,6 @@
         },
         {
             "key": "IT_US_SE_SB_EXP_03",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": "A very rare ticket that allows the user to select and summon an exceptional vision from the many that are contained within the crystals, regardless of era or realm. This ticket, like all others, is made not from paper but from a slice of thin, strippable ore."
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "A very rare ticket that allows the user to select and summon an exceptional vision from the many that are contained within the crystals, regardless of era or realm. This ticket, like all others, is made not from paper but from a slice of thin, strippable ore."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "A very rare ticket that allows the user to select and summon an exceptional vision from the many that are contained within the crystals, regardless of era or realm. This ticket, like all others, is made not from paper but from a slice of thin, strippable ore."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": "A very rare ticket that allows the user to select and summon an exceptional vision from the many that are contained within the crystals, regardless of era or realm. This ticket, like all others, is made not from paper but from a slice of thin, strippable ore."
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
             "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
         },
         {
@@ -3065,16 +3093,32 @@
             "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
         },
         {
-            "key": "IT_US_G_N_TW_10",
-            "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. The user is often granted various ores, materials, and medicines of sorts. It is thought that the wishes contained within the ticket have some bearing on what is summoned."
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "A very rare ticket that allows the user to select and summon an exceptional vision from the many that are contained within the crystals, regardless of era or realm. This ticket, like all others, is made not from paper but from a slice of thin, strippable ore."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -3098,10 +3142,6 @@
         },
         {
             "key": "IT_US_SE_AW-ITEM_05",
-            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
             "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
         },
         {
@@ -3337,10 +3377,6 @@
             "value": ""
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": ""
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": ""
         },
@@ -3353,6 +3389,10 @@
             "value": ""
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": ""
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": ""
         },
@@ -3362,6 +3402,14 @@
         },
         {
             "key": "IT_VPI_LW_CBVPARTY1",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": ""
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
             "value": ""
         },
         {
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "An item that bestows the blessing of increased attack when offered up to the lion statue. It was made to resemble a lion's jaw, and even a cursory glance at the immaculate craftsmanship will evoke images of the animal itself. Some say that the more of these amulets offered, the greater the effects of the blessing will be."
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "A very rare ticket that allows the user to select and summon an exceptional vision from the many that are contained within the crystals, regardless of era or realm. This ticket, like all others, is made not from paper but from a slice of thin, strippable ore."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "A very rare ticket that allows the user to select and summon an exceptional vision from the many that are contained within the crystals, regardless of era or realm. This ticket, like all others, is made not from paper but from a slice of thin, strippable ore."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "A very rare ticket that allows the user to select and summon an exceptional vision from the many that are contained within the crystals, regardless of era or realm. This ticket, like all others, is made not from paper but from a slice of thin, strippable ore."
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. The user is often granted various ores, materials, and medicines of sorts. It is thought that the wishes contained within the ticket have some bearing on what is summoned."
         }
     ]
 }

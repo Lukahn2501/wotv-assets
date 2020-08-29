@@ -37,6 +37,10 @@
             "value": "8월 출석 보상"
         },
         {
+            "key": "LB_202009",
+            "value": "9월 출석 보상"
+        },
+        {
             "key": "LB_LIMIT_GL_0001",
             "value": "출시 기념"
         },
@@ -51,6 +55,10 @@
         {
             "key": "LB_COMEBACK_001",
             "value": "컴백 출석 보상"
+        },
+        {
+            "key": "LB_COMEBACK_002",
+            "value": "복귀자 출석 보상"
         },
         {
             "key": "LB_LIMIT_0007",
@@ -127,6 +135,18 @@
         {
             "key": "LB_LIMIT_GL0018",
             "value": "스토리 제8장 개방 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0019",
+            "value": "대규모 버전 업데이트 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0020",
+            "value": "FFT 콜라보 기념 출석 보상"
+        },
+        {
+            "key": "LB_LIMIT_GL0021",
+            "value": "출시 6개월 기념 전야제 제1탄 출석 보상"
         }
     ]
 }

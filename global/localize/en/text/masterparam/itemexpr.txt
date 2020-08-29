@@ -1081,6 +1081,66 @@
             "value": "An item required to enhance a Job (Staff Mage) at Lv. 15"
         },
         {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "An item required to enhance a Job (Holy Knight) at Lv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "An item required to enhance a Job (Holy Knight) at Lv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "An item required to enhance a Job (Holy Knight) at Lv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "An item required to enhance a Job (Holy Knight) at Lv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "An item required to enhance a Job (Holy Knight) at Lv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "An item required to enhance a Job (Squire: Delita) at Lv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "An item required to enhance a Job (Squire: Delita) at Lv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "An item required to enhance a Job (Squire: Delita) at Lv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "An item required to enhance a Job (Squire: Delita) at Lv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "An item required to enhance a Job (Squire: Delita) at Lv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "An item required to enhance a Job (Machinist) at Lv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "An item required to enhance a Job (Machinist) at Lv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "An item required to enhance a Job (Machinist) at Lv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "An item required to enhance a Job (Machinist) at Lv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "An item required to enhance a Job (Machinist) at Lv. 15"
+        },
+        {
             "key": "IT_JB_EM_FIRE_1",
             "value": "An item required to enhance a fire unit's Job at Lvs. 2<space=1>–<space=1>3"
         },
@@ -1790,6 +1850,26 @@
         },
         {
             "key": "IT_PI_LW_SIMR",
+            "value": "An item required to Limit Break a unit"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "An item required to Limit Break a unit"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "An item required to Limit Break a unit"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "An item required to Limit Break a unit"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "An item required to Limit Break a unit"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
             "value": "An item required to Limit Break a unit"
         },
         {
@@ -2581,6 +2661,10 @@
             "value": "A recipe required to craft Armor of Light"
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "A recipe required to craft a Sortilége"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Raises chance of HP increasing when equipment is leveled up"
         },
@@ -2773,6 +2857,10 @@
             "value": "A medal that can be acquired during FFXIV Collaborative Summons and exchanged for various items at the FFXIV Summon Medal Exchange Shop"
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": "A ticket that can be obtained by exchanging Tomestones of Goetia acquired in FFXIV Collaborative Events"
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 4/14/2020)"
         },
@@ -2813,16 +2901,32 @@
             "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 9/1/2020, World Time (PST))"
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 9/15/2020, World Time (PST))"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "An item that can be acquired in FFT Collaborative Events and exchanged for various items at the FFT Event Medal Exchange Shop"
         },
         {
             "key": "IT_EC_FFT_2_A",
-            "value": "A medal that can be acquired during FFT Collaborative Summons and exchanged for various items at the FFT Summon Medal (A) Exchange Shop (Expires 23:59, 5/26/2020, World Time (PST))"
+            "value": ""
         },
         {
             "key": "IT_EC_FFT_2_B",
-            "value": "A medal that can be acquired during FFT Collaborative Summons and exchanged for various items at the FFT Summon Medal (B) Exchange Shop (Expires 23:59, 5/26/2020, World Time (PST))"
+            "value": ""
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": "An item that can be acquired in FFT Part II Collaborative Events and exchanged for various items at the FFT Part II Event Medal Exchange Shop"
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "A medal that can be acquired during FFT Reissue Collaborative Summons and exchanged for various items at the FFT Reissue Summon Medal (A) Exchange Shop (Expires 23:59, 9/29/2020, World (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "A medal that can be acquired during FFT Part II Collaborative Summons and exchanged for various items at the FFT Part II Summon Medal (B) Exchange Shop (Expires 23:59, 9/29/2020, World Time (PST))"
         },
         {
             "key": "IT_EC_TOWER_001",
@@ -2830,7 +2934,7 @@
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": "An item that can be acquired via Threat to the West, Rundall Events and exchanged for various items at the June Event Medal Exchange Shop."
+            "value": "An item that can be acquired via Threat to the West, Rundall Events and exchanged for various items at the Threat to the West, Rundall Medal Exchange Shop"
         },
         {
             "key": "IT_EC_EV03_1",
@@ -2841,20 +2945,16 @@
             "value": "An item that can be acquired via The Far East Events and exchanged for various items at the August Event Medal Exchange Shop"
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": "A medal that can be acquired from Raids"
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": "A medal that can be acquired from the White Marshmallow Raid"
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": "An item that can be acquired in FFI Collaborative Events and exchanged for various items at the FFI Event Medal Exchange Shop"
         },
         {
             "key": "IT_EC_FF1_2",
             "value": "A medal that can be acquired during FFI Collaborative Summons and exchanged for various items at the FFI Summon Medal Exchange Shop (Expires 23:59, 8/25/2020, World Time (PST))"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "A ticket that can be acquired in FFT Collaborative Events"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2917,6 +3017,10 @@
             "value": "A ticket that allows the user to select from 8 elements to summon 50 Awakening Prisms"
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "A ticket that allows the user to select from 8 elements to summon 200 Awakening Prisms"
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": "A ticket that allows the user to select from 8 elements to summon 50 Fragments of Thought necessary for awakening"
         },
@@ -2937,6 +3041,14 @@
             "value": "A ticket that allows the user to select from 8 elements to summon 70 Alcryst (Purple) necessary for enhancing Jobs"
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "A ticket that allows the user to select from 8 elements to summon 70 Alcryst (Yellow) necessary for enhancing Jobs"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "A ticket that allows the user to select from 8 elements to summon 70 Alcryst (Red) necessary for enhancing Jobs"
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": "A ticket that allows the user to select from 8 elements to summon 20 Awakening Stones necessary for awakening espers"
         },
@@ -2951,90 +3063,6 @@
         {
             "key": "IT_US_SE_SB_EXP_03",
             "value": "A ticket that allows the user to select from 8 elements to summon 50 Magicite (M) necessary for enhancing espers"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": "A ticket that allows the user to summon a Job Memory (Green) for any one Job"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": "A ticket that allows the user to summon two Job Memories (Blue) for any one Job"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": "A ticket that allows the user to summon three Job Memories (Purple) for any one Job"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": "A ticket that allows the user to summon four Job Memories (Yellow) for any one Job"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": "A ticket that allows the user to summon five Job Memories (Red) for any one Job"
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": "A ticket that allows the user to select and summon a unit of UR rarity"
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": "A ticket that allows the user to select from 8 elements to summon 10 Awakening Prisms"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "A ticket that allows the user to select from 8 elements to summon 500 Magicite (M) necessary for enhancing espers"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "A ticket that allows the user to select from 8 elements to summon 10 Magicite (M) necessary for enhancing espers"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "A ticket that allows the user to select from 8 elements to summon 25 Magicite (M) necessary for enhancing espers"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "A ticket that allows the user to select from 8 elements to summon 100 Magicite (L) necessary for enhancing espers"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by May 20. *Cannot be used for limited or collaborative vision cards."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by June 24. *Cannot be used for \"Scions of Shadow\" or \"Scion of House Beoulve.\""
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by June 17. *Cannot be used for limited or collaborative vision cards."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by July 22. *Cannot be used for limited or collaborative vision cards."
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by August 12. *Cannot be used for limited or collaborative vision cards."
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "A ticket that allows the user to select and summon one recommended UR unit. *If you summon a unit you already possess, it will be converted into 40 unit shards."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "A ticket that allows the user to select and summon one recommended MR unit. *If you summon a unit you already possess, it will be converted into 20 unit shards."
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": "A ticket that allows the user to select and summon a unit of MR rarity"
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": "A Select UR Unit Shard x40 Summon Ticket for units released by June 17. *Cannot be used for limited or collaborative units."
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
-            "value": "A ticket that can be used to select and summon 40 UR unit shards."
         },
         {
             "key": "IT_US_G_U_UR_01",
@@ -3065,16 +3093,32 @@
             "value": "A ticket guaranteed to summon a vision card of UR rarity"
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "A ticket that can be acquired in FFT Collaborative Events"
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "A ticket that allows the user to summon a Job Memory (Green) for any one Job"
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "A ticket that can be obtained by exchanging Tomestones of Goetia acquired in FFXIV Collaborative Events"
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "A ticket that allows the user to summon two Job Memories (Blue) for any one Job"
         },
         {
-            "key": "IT_US_G_N_TW_10",
-            "value": "A ticket that can grant items such as unit shards and vision card shards"
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "A ticket that allows the user to summon three Job Memories (Purple) for any one Job"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "A ticket that allows the user to summon four Job Memories (Yellow) for any one Job"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "A ticket that allows the user to summon five Job Memories (Red) for any one Job"
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "A ticket that allows the user to select and summon a unit of UR rarity"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "A ticket that allows the user to select from 8 elements to summon 10 Awakening Prisms"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -3099,10 +3143,6 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "A ticket that allows the user to select from 8 elements to summon NN Awakening Prisms"
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
-            "value": "A ticket that allows the user to select from 8 elements to summon 200 Awakening Prisms"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3337,10 +3377,6 @@
             "value": "An item required to awaken a vision card"
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": "An item required to awaken a vision card"
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": "An item required to awaken a vision card"
         },
@@ -3353,6 +3389,10 @@
             "value": "An item required to awaken a vision card"
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": "An item required to awaken a vision card"
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": "An item required to awaken a vision card"
         },
@@ -3362,6 +3402,14 @@
         },
         {
             "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "An item required to awaken a vision card"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "An item required to awaken a vision card"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
             "value": "An item required to awaken a vision card"
         },
         {
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Grants EXP to the [Lion Stone Statue] guild statue (L)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "A medal that can be acquired from Raids"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "A medal that can be acquired from the White Marshmallow Raid"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "A ticket that allows the user to select from 8 elements to summon 500 Magicite (M) necessary for enhancing espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "A ticket that allows the user to select from 8 elements to summon 10 Magicite (M) necessary for enhancing espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "A ticket that allows the user to select from 8 elements to summon 25 Magicite (M) necessary for enhancing espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "A ticket that allows the user to select from 8 elements to summon 100 Magicite (L) necessary for enhancing espers"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by May 20. *Cannot be used for limited or collaborative vision cards"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by June 24. *Cannot be used for \"Scions of Shadow\" or \"Scion of House Beoulve\""
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by June 17. *Cannot be used for limited or collaborative vision cards"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by July 22. *Cannot be used for limited or collaborative vision cards"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by August 12. *Cannot be used for limited or collaborative vision cards"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "A ticket that allows the user to select and summon one recommended UR unit. *If you summon a unit you already possess, it will be converted into 40 unit shards"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "A ticket that allows the user to select and summon one recommended MR unit. *If you summon a unit you already possess, it will be converted into 20 unit shards"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "A ticket that allows the user to select and summon a unit of MR rarity"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "A Select UR Unit Shard x40 Summon Ticket for units released by June 17. *Cannot be used for limited or collaborative units"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "A ticket that can be used to select and summon 40 UR unit shards."
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "A Select UR Unit Shard x40 Summon Ticket for units released by August 19. *Cannot be used for limited or collaborative units"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "A ticket that can grant items such as unit shards and vision card shards"
         }
     ]
 }

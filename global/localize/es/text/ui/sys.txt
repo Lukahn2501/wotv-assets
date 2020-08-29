@@ -809,6 +809,10 @@
             "value": "Comprar visiores"
         },
         {
+            "key": "POWER_SAVE",
+            "value": "Toca el cristal para salir del modo de ahorro de energía"
+        },
+        {
             "key": "ACT_SPECIFIED_COMMERCIAL_TRANSACTIONS",
             "value": "Ley de transacciones comerciales específicas"
         },
@@ -1065,6 +1069,10 @@
             "value": "PT"
         },
         {
+            "key": "SORT_TITLE_AP",
+            "value": "PA"
+        },
+        {
             "key": "SORT_TITLE_SPEED",
             "value": "AGI"
         },
@@ -1075,6 +1083,22 @@
         {
             "key": "SORT_TITLE_AVOID",
             "value": "EVASIÓN"
+        },
+        {
+            "key": "SORT_TITLE_DEFENCE",
+            "value": "DEF"
+        },
+        {
+            "key": "SORT_TITLE_MIND",
+            "value": "ESP"
+        },
+        {
+            "key": "SORT_TITLE_DEXTERITY",
+            "value": "DES"
+        },
+        {
+            "key": "SORT_TITLE_LUCK",
+            "value": "Suerte"
         },
         {
             "key": "SORT_TITLE_CRITICAL",
@@ -1553,6 +1577,10 @@
             "value": "Fe"
         },
         {
+            "key": "STATUS_HATE",
+            "value": "Odio"
+        },
+        {
             "key": "STATUS_COST",
             "value": "Coste"
         },
@@ -1765,6 +1793,18 @@
             "value": "PT"
         },
         {
+            "key": "ABILITY_STATUS_USE_AUTO",
+            "value": "Usar en habilidades automáticas"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL",
+            "value": "Ajustes avanzados"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL_ON",
+            "value": "Ajustes avanzados: Sí"
+        },
+        {
             "key": "ABILITY_CAPTION_LEADER",
             "value": "Habilidad de líder"
         },
@@ -1853,6 +1893,30 @@
             "value": "No puede activarse porque no sois amigos."
         },
         {
+            "key": "ABILITY_AUTO_SETTING_TITLE",
+            "value": "Para uso en batallas automáticas"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_QUEST",
+            "value": "Misión"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_MULTI",
+            "value": "Multijugador"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_DUEL",
+            "value": "JcJ"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_GUILD",
+            "value": "Combate de gremio"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TOWER",
+            "value": "Torre de Porcelana / Abismo Medialuz"
+        },
+        {
             "key": "JOB_LEVEL_MAX",
             "value": "MÁX."
         },
@@ -1923,6 +1987,14 @@
         {
             "key": "UNITLIST_NOTUSE",
             "value": "No se puede usar"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
+            "value": "Selección de unidad"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
+            "value": "Esta unidad ya se encuentra en otro grupo ({0}).<br>¿Seleccionarla de todos modos?<br>(Se le quitará al otro grupo)."
         },
         {
             "key": "NETHERBEAST_SYNCHRO",
@@ -2637,6 +2709,14 @@
             "value": "Formación de grupo"
         },
         {
+            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
+            "value": "Normal"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
+            "value": "Limitado"
+        },
+        {
             "key": "PARTYEDITOR_GUILD_PARTY_OFFENSE",
             "value": "ATQ"
         },
@@ -2651,6 +2731,14 @@
         {
             "key": "PARTYEDITOR_GUILD_PERIOD_TITLE",
             "value": "Duración del combate de gremio"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
+            "value": "Normas de formación"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
+            "value": "<line-height=22>*No podrás ver las mismas unidades, equipo, espers y cartas de visión en diferentes grupos de ataque o defensa."
         },
         {
             "key": "PARTYEDITOR_TAB_QUEST",
@@ -2771,10 +2859,6 @@
         {
             "key": "PARTYEDITOR_AUTOBATTLE_DISABLE",
             "value": "Deshabilitado"
-        },
-        {
-            "key": "；編成画面 - オート周回",
-            "value": ""
         },
         {
             "key": "PARTYEDITOR_AUTOLAP_TITLE",
@@ -2949,16 +3033,56 @@
             "value": "Establece tus prioridades."
         },
         {
+            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
+            "value": "Establecer prioridades"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
+            "value": "Selección automática de objetivo"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
+            "value": "Automático a todos"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
+            "value": "Equipo"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
+            "value": "Cartas de visión"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
+            "value": "Los espers"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
+            "value": "<line-height=26>*Las unidades, equipo, cartas de visión y espers se<br>incluirán automáticamente en la formación del grupo de acuerdo a sus ajustes."
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
+            "value": "<line-height=26>*Solo los artículos marcados se añadirán a las formaciones de acuerdo a la configuración.<br>El resto permanecerá en sus formaciones actuales."
+        },
+        {
             "key": "RECOMMEND_TEAM_FAVORITE",
             "value": "Dar prioridad a equipo favorito"
         },
         {
-            "key": "RECOMMEND_TEAM_LIMITBURST",
-            "value": "Dar prioridad a estallido límite de equipo"
+            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
+            "value": "<line-height=26>*Al marcar la función, el equipo favorito establecido en<br>la pantalla de detalles de unidad tendrá prioridad en las formaciones."
         },
         {
             "key": "RECOMMEND_TEAM_CALCULATING",
             "value": "Buscando"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_TITLE",
+            "value": "Selecciona un objetivo del modo automático."
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
+            "value": "Selecciona al menos un objetivo del modo automático."
         },
         {
             "key": "TEAM_NAME_INPUT_TITLE",
@@ -3119,6 +3243,14 @@
         {
             "key": "CHAT_GUILD_JOIN_DESC",
             "value": "¿Quieres unirte al gremio?"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_CHAT",
+            "value": "Chat"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
+            "value": "Historial de combate"
         },
         {
             "key": "CHAT_NOTTFY_TEXT",
@@ -3577,6 +3709,10 @@
             "value": "Efectos de habilidad"
         },
         {
+            "key": "OPTION_EFFECT",
+            "value": "Mostrar efectos de zona"
+        },
+        {
             "key": "OPTION_SOUND",
             "value": "Sonido"
         },
@@ -3623,6 +3759,66 @@
         {
             "key": "OPTION_CHANGE_DRAW",
             "value": "Se han cambiado los ajustes de gráficos."
+        },
+        {
+            "key": "OPTION_LAP_TITLE",
+            "value": "Configuración de repetición"
+        },
+        {
+            "key": "OPTION_LAP_LIMIT",
+            "value": "Límites de repetición"
+        },
+        {
+            "key": "OPTION_LAP_NONE",
+            "value": "Sin límite"
+        },
+        {
+            "key": "OPTION_LAP_TIMES",
+            "value": "N.º de repeticiones"
+        },
+        {
+            "key": "OPTION_LAP_ITEM",
+            "value": "Objetos obtenidos"
+        },
+        {
+            "key": "OPTION_LAP_USE_ITEM",
+            "value": "Coste de energía"
+        },
+        {
+            "key": "OPTION_LAP_STOP",
+            "value": "Parar repetición"
+        },
+        {
+            "key": "OPTION_LAP_FEAVER",
+            "value": "Frenesí de la expedición chocobo"
+        },
+        {
+            "key": "OPTION_LAP_CAPRICIOUS",
+            "value": "Tienda fugaz encontrada"
+        },
+        {
+            "key": "OPTION_LAP_RAID",
+            "value": "Enfrentamientos de asalto"
+        },
+        {
+            "key": "OPTION_LAP_STOP_CAUTION",
+            "value": "*Al activar esta función, las repeticiones se detendrán durante las escenas."
+        },
+        {
+            "key": "OPTION_LAP_AP_USE",
+            "value": "Uso automático de cura de energía"
+        },
+        {
+            "key": "OPTION_LAP_AP_TIMES",
+            "value": "N.º máx. de recuperaciones"
+        },
+        {
+            "key": "OPTION_LAP_AP_CAUTION",
+            "value": "*Restaura energía automáticamente cuando queda poca durante las repeticiones.<br>*La energía solo se restaurará con curas de energía.<br>*Las curas de energía se consumirán empezando desde la que mayor cantidad de energía restaure."
+        },
+        {
+            "key": "OPTION_ITEM_TITLE",
+            "value": "Selección de objetos"
         },
         {
             "key": "LAPIS_CAUTION_GOOGLE",
@@ -4001,6 +4197,342 @@
             "value": "Clasificación por técnica"
         },
         {
+            "key": "ARTI_CONDITION_TITLE",
+            "value": "Condiciones para equipar"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_TITLE",
+            "value": "Profesiones equipables"
+        },
+        {
+            "key": "ARTI_CONDITION_NONE",
+            "value": "Sin condiciones para equipar"
+        },
+        {
+            "key": "ARTI_CONDITION_COUNTRY",
+            "value": "-Origen: {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_SEX",
+            "value": "-{0}"
+        },
+        {
+            "key": "ARTI_CONDITION_UNIT",
+            "value": "-{0}"
+        },
+        {
+            "key": "ARTI_CONDITION_RARITY",
+            "value": "-Rareza {0} o superior"
+        },
+        {
+            "key": "ARTI_CONDITION_AWAKE",
+            "value": "-{0} o más despertares"
+        },
+        {
+            "key": "ARTI_CONDITION_RANK",
+            "value": "-{0} o más rupturas de límite"
+        },
+        {
+            "key": "ARTI_CONDITION_SERIES",
+            "value": "-{0} series"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_NONE",
+            "value": "Equipable con cualquier profesión."
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
+            "value": "Detalles de unidad"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
+            "value": "*Despertada a {0}★/Con {1} rupturas de límite/Con nv. máximo y todas las profesiones a nv. máximo"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
+            "value": "Detalles de carta de visión"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
+            "value": "*Despertada a {0}★/Con nv. máximo"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
+            "value": "Detalles del esper"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
+            "value": "*La primera vez obtendrás al esper de forma gratuita."
+        },
+        {
+            "key": "VISION_DETAIL_STATUS",
+            "value": "Atributos"
+        },
+        {
+            "key": "VISION_DETAIL_INFO",
+            "value": "Información"
+        },
+        {
+            "key": "VISION_DETAIL_ADD_EFF",
+            "value": "Efectos"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE_BONUS",
+            "value": "Bonificación de despertar"
+        },
+        {
+            "key": "VISION_DETAIL_ENHANCE",
+            "value": "Mejorar"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE",
+            "value": "Despertar"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_STATUS",
+            "value": "Perfil"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_SYNCHRO",
+            "value": "Resonancia"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_RESIST",
+            "value": "Resistencia"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
+            "value": "La magia de invocación"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
+            "value": "Tablas de entrenamiento de esper "
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
+            "value": "Mejorar espers "
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
+            "value": "Mejora manual"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
+            "value": "El esper ha alcanzado su nivel máximo."
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
+            "value": "La cantidad de EXP que vas a usar excede la necesaria para alcanzar el nivel máximo actual del esper. ¿Continuar de todos modos?"
+        },
+        {
+            "key": "UNIT_DETAIL_AWAKE",
+            "value": "Despertar"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP",
+            "value": "Ruptura de límite"
+        },
+        {
+            "key": "UNIT_DETAIL_INTIMACY",
+            "value": "Afinidad"
+        },
+        {
+            "key": "UNIT_DETAIL_STATUS_DETAIL",
+            "value": "Atributos"
+        },
+        {
+            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
+            "value": "Recompensa Maestro Fiel"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_BORD",
+            "value": "Tablas de habilidades"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_SET",
+            "value": "Seleccionar habilidades"
+        },
+        {
+            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
+            "value": "Tablas de entrenamiento de esper "
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ENHANCE",
+            "value": "Mejorar"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_AWAKE",
+            "value": "Despertar"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ABILITY",
+            "value": "Habilidades"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
+            "value": "Fiel"
+        },
+        {
+            "key": "UNIT_DETAIL_RANK_LIMIT",
+            "value": "Límite de rango"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ON",
+            "value": "Registrado en favoritos"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_OFF",
+            "value": "Eliminado de favoritos"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP_CONDITION",
+            "value": "Se desbloquea con la ruptura de límite n.º {0}"
+        },
+        {
+            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
+            "value": "Maestría de equipo"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP",
+            "value": "Equipar"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI",
+            "value": "Equipo favorito"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
+            "value": "Seleccionar"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
+            "value": "Materiales de mejora"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
+            "value": "No hay materiales de mejora"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
+            "value": "Mejora manual"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
+            "value": "Confirmar mejora"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
+            "value": "La unidad ha alcanzado su nivel máximo."
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
+            "value": "La cantidad de EXP que vas a usar excede la necesaria para alcanzar el nivel máximo actual de la unidad. ¿Continuar de todos modos?"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
+            "value": "Mejorar"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
+            "value": "Principal"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
+            "value": "Nv. de unidad necesario"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
+            "value": "Mejorar profesión"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
+            "value": "MÁX."
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
+            "value": "Materiales de mejora de profesión"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
+            "value": "Nv. de profesión máximo alcanzado"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
+            "value": "Materiales insuficientes"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITYSET_SET",
+            "value": "Establecer"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_STATUS",
+            "value": "Perfil de unidad"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_JOB",
+            "value": "Profesión"
+        },
+        {
+            "key": "UNIT_ARTI_SET_TITLE",
+            "value": "Equipar"
+        },
+        {
+            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
+            "value": "Mostrar resistencia"
+        },
+        {
+            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
+            "value": "Eliminar objetos equipados"
+        },
+        {
+            "key": "UNIT_ARTI_SET_REMOVE",
+            "value": "Eliminar"
+        },
+        {
+            "key": "UNIT_ARTI_SET_CONFIRM",
+            "value": "Ya está equipado en otra unidad.<br>¿Continuar?<br>(Se le quitará a la otra unidad)."
+        },
+        {
+            "key": "ARTI_STATUS_ADD_NONE",
+            "value": "Sin habilidades adicionales"
+        },
+        {
+            "key": "ARTI_STATUS_WA_TITLE",
+            "value": "HE"
+        },
+        {
+            "key": "ARTI_STATUS_LB_TITLE",
+            "value": "EL"
+        },
+        {
+            "key": "ARTI_STATUS_LB_ENHANCE",
+            "value": "equipado"
+        },
+        {
+            "key": "TRUST_MASTER_TITLE",
+            "value": "Recompensa Maestro Fiel"
+        },
+        {
+            "key": "TRUST_MASTER_CONDITION",
+            "value": "Disponible tras 5 rupturas de límite y despertar a 6★"
+        },
+        {
+            "key": "TRUST_MASTER_COMPLETE",
+            "value": "Conseguida"
+        },
+        {
+            "key": "QRCODE_TAKE_TITLE",
+            "value": "Código de serie"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_BATTLE",
+            "value": "Código de serie capturado.<br>Comprueba la pantalla principal."
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_HOME",
+            "value": "Código de serie capturado.<br>Volverás a la pantalla principal."
+        },
+        {
             "key": "DENY",
             "value": "Denegar"
         },
@@ -4281,548 +4813,12 @@
             "value": "yr"
         },
         {
-            "key": "POWER_SAVE",
-            "value": "Toca el cristal para salir del modo de ahorro de energía"
-        },
-        {
-            "key": "SORT_TITLE_AP",
-            "value": "PA"
-        },
-        {
-            "key": "SORT_TITLE_DEFENCE",
-            "value": "DEF"
-        },
-        {
-            "key": "SORT_TITLE_MIND",
-            "value": "ESP"
-        },
-        {
-            "key": "SORT_TITLE_DEXTERITY",
-            "value": "DES"
-        },
-        {
-            "key": "SORT_TITLE_LUCK",
-            "value": "Suerte"
-        },
-        {
-            "key": "STATUS_HATE",
-            "value": "Odio"
-        },
-        {
-            "key": "ABILITY_STATUS_USE_AUTO",
-            "value": "Para uso en habilidades automáticas"
-        },
-        {
-            "key": "ABILITY_STATUS_DETAIL",
-            "value": "Ajustes avanzados"
-        },
-        {
-            "key": "ABILITY_STATUS_DETAIL_ON",
-            "value": "Ajustes avanzados: Sí"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_TITLE",
-            "value": "Para uso en batallas automáticas"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_QUEST",
-            "value": "Misión"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_MULTI",
-            "value": "Multijugador"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_DUEL",
-            "value": "JcJ"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_GUILD",
-            "value": "Combate de gremio"
-        },
-        {
-            "key": "ABILITY_AUTO_SETTING_TOWER",
-            "value": "Torre de Porcelana"
-        },
-        {
-            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
-            "value": "Selección de unidad"
-        },
-        {
-            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
-            "value": "Esta unidad ya se encuentra en otro grupo ({0}).<br>¿Continuar?<br>(Se le quitará al otro grupo.)"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
-            "value": "Normal"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
-            "value": "Limitado"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
-            "value": "Normas de formación"
-        },
-        {
-            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
-            "value": "<line-height=22>*No podrás ver las mismas unidades, equipo, espers y cartas de visión en diferentes grupos de ataque o defensa."
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
-            "value": "Establece las prioridades"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
-            "value": "Selección automática de objetivo"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
-            "value": "Automático a todos"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
-            "value": "Equipo"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
-            "value": "Cartas de visión"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
-            "value": "Los espers"
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
-            "value": "<line-height=26>*Las unidades, equipo, espers, cartas de visión y espers se<br>incluirán automáticamente en la formación del grupo de acuerdo a sus ajustes."
-        },
-        {
-            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
-            "value": "<line-height=26>*Solo el equipo marcado será añadido a las formaciones de acuerdo a la configuración.<br>El resto del equipo permanecerá junto a la formación actual."
-        },
-        {
-            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
-            "value": "<line-height=26>*Al marcar la función, el equipo favorito establecido en<br>la pantalla de detalles de unidad tendrá priorida en las formaciones."
-        },
-        {
-            "key": "RECOMMEND_TEAM_ERROR_TITLE",
-            "value": "Por favor, selecciona un objeto."
-        },
-        {
-            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
-            "value": "Por favor, selecciona<br>al menos 1 objeto equipable,<br>carta de visión, y esper."
-        },
-        {
-            "key": "CHAT_GUILD_FILTER_CHAT",
-            "value": "Chat"
-        },
-        {
-            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
-            "value": "Historial de combate"
-        },
-        {
-            "key": "OPTION_EFFECT",
-            "value": "Mostrar efectos de zona"
-        },
-        {
-            "key": "OPTION_LAP_TITLE",
-            "value": "Configuración de repetición"
-        },
-        {
-            "key": "OPTION_LAP_LIMIT",
-            "value": "Límites de repetición"
-        },
-        {
-            "key": "OPTION_LAP_NONE",
-            "value": "Sin límite"
-        },
-        {
-            "key": "OPTION_LAP_TIMES",
-            "value": "N.º de repeticiones"
-        },
-        {
-            "key": "OPTION_LAP_ITEM",
-            "value": "Objetos obtenidos"
-        },
-        {
-            "key": "OPTION_LAP_USE_ITEM",
-            "value": "Coste de energía"
-        },
-        {
-            "key": "OPTION_LAP_STOP",
-            "value": "Parar repetición"
-        },
-        {
-            "key": "OPTION_LAP_FEAVER",
-            "value": "Frenesí de la expedición chocobo"
-        },
-        {
-            "key": "OPTION_LAP_CAPRICIOUS",
-            "value": "Tienda fugaz encontrada"
-        },
-        {
-            "key": "OPTION_LAP_RAID",
-            "value": "Enfrentamientos de asalto"
-        },
-        {
-            "key": "OPTION_LAP_STOP_CAUTION",
-            "value": "*Al activar esta función, las repeticiones se detendrán durante escenas."
-        },
-        {
-            "key": "OPTION_LAP_AP_USE",
-            "value": "Uso automático de cura de energía"
-        },
-        {
-            "key": "OPTION_LAP_AP_TIMES",
-            "value": "N.º máx. de recuperaciones"
-        },
-        {
-            "key": "OPTION_LAP_AP_CAUTION",
-            "value": "*Restaura energía automáticamente cuando queda poca durante las repeticiones.<br>*La energía solo se restaurará con curas de energía.<br>*Las curas de energía se consumirán empezando desde la que mayor cantidad de energía restaure."
-        },
-        {
-            "key": "OPTION_ITEM_TITLE",
-            "value": "Selección de objetos"
-        },
-        {
-            "key": "ARTI_CONDITION_TITLE",
-            "value": "Condiciones para equipar"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_TITLE",
-            "value": "Profesiones equipables"
-        },
-        {
-            "key": "ARTI_CONDITION_NONE",
-            "value": "Sin condiciones para equipar"
-        },
-        {
-            "key": "ARTI_CONDITION_COUNTRY",
-            "value": "-Origen: {0}"
-        },
-        {
-            "key": "ARTI_CONDITION_SEX",
-            "value": "-{0}"
-        },
-        {
-            "key": "ARTI_CONDITION_UNIT",
-            "value": "-{0}"
-        },
-        {
-            "key": "ARTI_CONDITION_RARITY",
-            "value": "-Rareza {0} o superior"
-        },
-        {
-            "key": "ARTI_CONDITION_AWAKE",
-            "value": "-{0} o más despertares"
-        },
-        {
-            "key": "ARTI_CONDITION_RANK",
-            "value": "-{0} o más rupturas de límite"
-        },
-        {
-            "key": "ARTI_CONDITION_SERIES",
-            "value": "-{0} series"
-        },
-        {
-            "key": "ARTI_CONDITION_JOB_NONE",
-            "value": "Equipable con cualquier profesión."
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
-            "value": "Detalles de unidad"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
-            "value": "*Despertada a {0}★/Con {1} rupturas de límite/Con nv. máximo y todas las profesiones a nv. máximo"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
-            "value": "Detalles de carta de visión"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
-            "value": "*Despertada a {0}★/Con nv. máximo"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
-            "value": "Detalles del esper"
-        },
-        {
-            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
-            "value": "*La primera vez obtendrás al esper de forma gratuita."
-        },
-        {
-            "key": "VISION_DETAIL_STATUS",
-            "value": "Atributos"
-        },
-        {
-            "key": "VISION_DETAIL_INFO",
-            "value": "Información"
-        },
-        {
-            "key": "VISION_DETAIL_ADD_EFF",
-            "value": "Efectos"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE_BONUS",
-            "value": "Bonificación de despertar"
-        },
-        {
-            "key": "VISION_DETAIL_ENHANCE",
-            "value": "Mejorar"
-        },
-        {
-            "key": "VISION_DETAIL_AWAKE",
-            "value": "Despertar"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_STATUS",
-            "value": "Perfil"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_SYNCHRO",
-            "value": "Resonancia"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_RESIST",
-            "value": "Resistencia"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
-            "value": "La magia de invocación"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
-            "value": "Tablas de entrenamiento de esper "
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
-            "value": "Mejorar espers "
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
-            "value": "Mejora manual"
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
-            "value": "El esper ha alcanzado su nivel máximo."
-        },
-        {
-            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
-            "value": "La cantidad de EXP que vas a usar excede la necesaria para alcanzar el nivel máximo actual del esper. ¿Continuar de todos modos?"
-        },
-        {
-            "key": "UNIT_DETAIL_AWAKE",
-            "value": "Despertar"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP",
-            "value": "Ruptura de límite"
-        },
-        {
-            "key": "UNIT_DETAIL_INTIMACY",
-            "value": "Afinidad"
-        },
-        {
-            "key": "UNIT_DETAIL_STATUS_DETAIL",
-            "value": "Atributos"
-        },
-        {
-            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
-            "value": "Recompensa Maestro Fiel"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_BORD",
-            "value": "Tablas de habilidades"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITY_SET",
-            "value": "Seleccionar habilidades"
-        },
-        {
-            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
-            "value": "Tablas de entrenamiento de esper "
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ENHANCE",
-            "value": "Mejorar"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_AWAKE",
-            "value": "Despertar"
-        },
-        {
-            "key": "UNIT_DETAIL_TOP_ABILITY",
-            "value": "Habilidades"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
-            "value": "Fiel"
-        },
-        {
-            "key": "UNIT_DETAIL_RANK_LIMIT",
-            "value": "Límite de rango"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ON",
-            "value": "Registrado en Favoritos"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_OFF",
-            "value": "Eliminado de Favoritos"
-        },
-        {
-            "key": "UNIT_DETAIL_RANKUP_CONDITION",
-            "value": "Se desbloquea con la ruptura de límite n.º {0}"
-        },
-        {
-            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
-            "value": "Maestría de equipo"
-        },
-        {
-            "key": "UNIT_DETAIL_EQUIP",
-            "value": "Equipar"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI",
-            "value": "Equipo favorito"
-        },
-        {
-            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
-            "value": "Ajustes"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
-            "value": "Materiales de mejora"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
-            "value": "No hay materiales de mejora"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
-            "value": "Mejora manual"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
-            "value": "Confirmar mejora"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
-            "value": "La unidad ha alcanzado su nivel máximo."
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
-            "value": "La cantidad de EXP que vas a usar excede la necesaria para alcanzar el nivel máximo actual de la unidad. ¿Continuar de todos modos?"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
-            "value": "Mejorar"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
-            "value": "Principal"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
-            "value": "Nv. de unidad necesario"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
-            "value": "Mejorar profesiones"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
-            "value": "MÁX."
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
-            "value": "Materiales de mejora de profesión"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
-            "value": "Nv. de profesión máximo alcanzado"
-        },
-        {
-            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
-            "value": "Materiales insuficientes"
-        },
-        {
-            "key": "UNIT_DETAIL_ABILITYSET_SET",
-            "value": "Establecer"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_STATUS",
-            "value": "Perfil de unidad"
-        },
-        {
-            "key": "UNIT_DETAIL_TITLE_JOB",
-            "value": "Profesión"
-        },
-        {
-            "key": "UNIT_ARTI_SET_TITLE",
-            "value": "Equipar"
-        },
-        {
-            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
-            "value": "Mostrar resistencia"
-        },
-        {
-            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
-            "value": "Eliminar objetos equipados"
-        },
-        {
-            "key": "UNIT_ARTI_SET_REMOVE",
-            "value": "Eliminar"
-        },
-        {
-            "key": "UNIT_ARTI_SET_CONFIRM",
-            "value": "Ya está equipado en otra unidad.<br>¿Continuar?<br>(Se le quitará a la otra unidad.)"
-        },
-        {
-            "key": "ARTI_STATUS_ADD_NONE",
-            "value": "Sin habilidades adicionales"
-        },
-        {
-            "key": "ARTI_STATUS_WA_TITLE",
-            "value": "HE"
-        },
-        {
-            "key": "ARTI_STATUS_LB_TITLE",
-            "value": "EL"
-        },
-        {
-            "key": "ARTI_STATUS_LB_ENHANCE",
-            "value": "equipado"
-        },
-        {
-            "key": "TRUST_MASTER_TITLE",
-            "value": "Recompensa Maestro Fiel"
-        },
-        {
-            "key": "TRUST_MASTER_CONDITION",
-            "value": "Disponible tras 5 rupturas de límite y despertar a 6★"
-        },
-        {
-            "key": "TRUST_MASTER_COMPLETE",
-            "value": "Conseguida"
-        },
-        {
-            "key": "QRCODE_TAKE_TITLE",
-            "value": "Código de serie"
-        },
-        {
-            "key": "QRCODE_TAKE_DESC_IN_BATTLE",
-            "value": "Código de serie capturado.<br>Comprueba la pantalla principal."
-        },
-        {
-            "key": "QRCODE_TAKE_DESC_IN_HOME",
-            "value": "Código de serie capturado.<br>Volverás a la pantalla principal."
-        },
-        {
             "key": "RECOMMEND_TEAM_CAUTION",
             "value": "<line-height=26>*Las unidades, equipo, espers y cartas de visión se incluirán automáticamente en la formación del grupo de acuerdo a sus ajustes."
+        },
+        {
+            "key": "RECOMMEND_TEAM_LIMITBURST",
+            "value": "Dar prioridad a estallido límite de equipo"
         },
         {
             "key": "DEBUG_SELECT_TUTORIAL_TITLE",

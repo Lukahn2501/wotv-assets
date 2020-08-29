@@ -311,6 +311,46 @@
         {
             "key": "wotvffbeww.limited.exhaustion.standard.024",
             "value": "[콜라보 기념] 환도석 패키지 VI"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "퀘스트 도전 패스"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "유닛 육성 패스"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "장비 육성 패스"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.016",
+            "value": "콜라보 기념 무지개 각성 패키지"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.025",
+            "value": "[콜라보 기념] 환도석 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.026",
+            "value": "[콜라보 기념] 환도석 패키지 II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.027",
+            "value": "[콜라보 기념] 환도석 패키지 III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.028",
+            "value": "[콜라보 기념] 환도석 패키지 IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.029",
+            "value": "[콜라보 기념] 환도석 패키지 V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.030",
+            "value": "[콜라보 기념] 환도석 패키지 VI"
         }
     ]
 }

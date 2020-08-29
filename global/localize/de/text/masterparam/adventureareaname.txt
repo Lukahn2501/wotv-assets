@@ -1,6 +1,10 @@
 {
     "infos": [
         {
+            "key": "AD_AREA_FFT_01",
+            "value": "Garten des Klosters von Orbonne "
+        },
+        {
             "key": "AD_AREA_WATER_01",
             "value": "Strudeltiefen"
         },

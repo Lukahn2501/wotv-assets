@@ -71,6 +71,14 @@
         {
             "key": "18",
             "value": "<line-height=15>Boutique « Sortie du Chapitre 8 ! »"
+        },
+        {
+            "key": "19",
+            "value": "<line-height=15>Boutique de célébration<br>de la nouvelle version"
+        },
+        {
+            "key": "20",
+            "value": "<line-height=15>Limités !<br>Lots de la collaboration !"
         }
     ]
 }

@@ -97,6 +97,10 @@
             "value": "Muraga Fennes derrotado"
         },
         {
+            "key": "QE_ST_01080110",
+            "value": "Muraga Fennes derrotado"
+        },
+        {
             "key": "QE_ST_01010110",
             "value": "Bandido jefe derrotado"
         },
@@ -113,14 +117,6 @@
             "value": "Todos los aliados aniquilados excepto Stern Leonis"
         },
         {
-            "key": "QE_ST_01010910",
-            "value": "Reach the front of the castle gates or annihilate the enemy"
-        },
-        {
-            "key": "QE_ST_01080110",
-            "value": "Muraga Fennes derrotado"
-        },
-        {
             "key": "QE_ST_01060205",
             "value": "Camilo derrotado"
         },
@@ -131,6 +127,18 @@
         {
             "key": "QE_ST_01070108",
             "value": "Vadim derrotado"
+        },
+        {
+            "key": "QE_EV_FFT02_05",
+            "value": "¡Derrota a todos los enemigos!"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_1",
+            "value": "Rescata a Mustadio, el maquinista"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_2",
+            "value": "Mustadio, el maquinista derrotado"
         },
         {
             "key": "QE_RAID_EV_06_01",
@@ -166,11 +174,11 @@
         },
         {
             "key": "QE_ST_01070203",
-            "value": "Deah defeated"
+            "value": "Dea derrotada"
         },
         {
             "key": "QE_ST_01070209",
-            "value": "Oldoa defeated"
+            "value": "Oldoa derrotada"
         },
         {
             "key": "QE_RAID_EV_08_01",
@@ -183,6 +191,146 @@
         {
             "key": "QE_RAID_EV_08_03",
             "value": "Derrota a Máquina mortal"
+        },
+        {
+            "key": "QE_COND_USESKILL",
+            "value": ""
+        },
+        {
+            "key": "QE_ST_01010910",
+            "value": "Llega a la puerta principal del castillo o aniquila al enemigo"
+        },
+        {
+            "key": "QE_ST_01090304",
+            "value": ""
+        },
+        {
+            "key": "QE_SB_BLMN_01",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_11_01",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_11_02",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_11_03",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_12_01",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_12_02",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_12_03",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_12_04",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_12_05",
+            "value": ""
+        },
+        {
+            "key": "QE_RAID_EV_12_06",
+            "value": ""
+        },
+        {
+            "key": "TW_03_EX1",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_1100DL_FIR",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_1100DL_ICE",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_1100DL_WIN",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_1100DL_EAR",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_1100DL_THU",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_1100DL_WTR",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_1100DL_SHI",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_1100DL_DAR",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_FF14_EX",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_FF4_04",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_FF4_09",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_FF4_EX_01",
+            "value": ""
+        },
+        {
+            "key": "QE_MU_FF4_EX_01",
+            "value": ""
+        },
+        {
+            "key": "QE_PT_001_05",
+            "value": ""
+        },
+        {
+            "key": "QE_PT_001_HA05",
+            "value": ""
+        },
+        {
+            "key": "QE_PT_002_BOSS_1",
+            "value": ""
+        },
+        {
+            "key": "QE_PT_002_BOSS_2",
+            "value": ""
+        },
+        {
+            "key": "QE_EV_WAVE_001",
+            "value": ""
+        },
+        {
+            "key": "QE_COND_NONE",
+            "value": ""
         }
     ]
 }

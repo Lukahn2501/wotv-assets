@@ -839,6 +839,18 @@
         {
             "key": "JB_LW_MST_DARK",
             "value": "Maga de bastones"
+        },
+        {
+            "key": "JB_FFT_AGRA",
+            "value": "Caballero sagrado"
+        },
+        {
+            "key": "JB_FFT_DELT",
+            "value": "Escudero"
+        },
+        {
+            "key": "JB_FFT_MSTD",
+            "value": "Maquinista"
         }
     ]
 }

@@ -93,6 +93,10 @@
             "value": "Duelos"
         },
         {
+            "key": "SupportUnit",
+            "value": "Los ajustes del compañero"
+        },
+        {
             "key": "Mission",
             "value": "Las tareas"
         },
@@ -105,16 +109,12 @@
             "value": "Las misiones de personaje"
         },
         {
-            "key": "ItemExchange",
-            "value": "Intercambio de materiales"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "Los ajustes del compañero"
-        },
-        {
             "key": "Tower",
             "value": "Torre de Porcelana"
+        },
+        {
+            "key": "ItemExchange",
+            "value": "Intercambio de materiales"
         }
     ]
 }

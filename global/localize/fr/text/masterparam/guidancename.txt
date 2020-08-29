@@ -77,6 +77,10 @@
             "value": "Fonctions d'une guilde III"
         },
         {
+            "key": "GuildBattle",
+            "value": "Combats de guilde"
+        },
+        {
             "key": "UnitIntimacy",
             "value": "Affinité"
         },
@@ -101,20 +105,16 @@
             "value": "Quêtes de personnage"
         },
         {
-            "key": "GuildBattle",
-            "value": "Combats de guilde"
-        },
-        {
-            "key": "SupportUnit",
-            "value": "Paramètres des personnages de soutien"
+            "key": "Tower",
+            "value": "Tour"
         },
         {
             "key": "ItemExchange",
             "value": "Boutique d'échange"
         },
         {
-            "key": "Tower",
-            "value": "Tour"
+            "key": "SupportUnit",
+            "value": "Paramètres des personnages de soutien"
         }
     ]
 }

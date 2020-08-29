@@ -14,7 +14,7 @@
         },
         {
             "key": "BUYLAPIS_DESC",
-            "value": "■ Visiores<br>Los visiores son objetos muy valiosos que se pueden usar para invocar unidades, comprar objetos en la tienda y restaurar energía.<br><br>■ Registrar la fecha de nacimiento<br>Para comprar visiores es necesario que registres tu fecha de nacimiento.<br>No podrás cambiar tu fecha de nacimiento una vez la registres.<br><br>■ Tipos de visiores<br>Hay 3 tipos diferentes de visiores.<br><br>•Visiores de pago<br>Visiores comprados en cada plataforma.<br>* Estos visiores no se pueden transferir de una plataforma a otra.<br><br>•Visiores gratuitos<br>Visiores adquiridos como bonificación al comprar visiores en cada plataforma.<br>* Estos visiores no se pueden transferir de una plataforma a otra.<br><br>•Visiores normales<br>Visiores adquiridos como bonificación de acceso o como recompensa por completar misiones, etc.<br>* Estos visiores se pueden transferir para ser utilizados en varias plataformas.<br><br>* Los visiores se consumen en el siguiente orden: visiores gratuitos > visiores normales > visiores de pago."
+            "value": "■ Visiores<br>Los visiores son objetos muy valiosos que se pueden usar para invocar unidades, comprar objetos en la tienda y restaurar energía.<br>Al adquirir visiores, puedes obtener «visiores de pago» y «visiores gratuitos».<br><br>* Estos visiores no se pueden transferir de una plataforma a otra.<br><br>* Los visiores se consumen en el siguiente orden: visiores gratuitos > visiores normales > visiores de pago.<br><br>■ Pasaporte<br>Esta característica otorga varios efectos tras la compra. <br>Los efectos se activarán una vez se refleje la compra en el juego, y el periodo de validez empezará a las 00:00, hora mundial (PST), del día siguiente.. <br>Toca [Detalles] en la pantalla de compra para más información sobre los efectos y el periodo de validez. <br><br>*Los efectos de los pasaportes adquiridos se comparten entre todas las plataformas en las que se use la misma cuenta. <br><br>*Ten en cuenta que no podrás cambiar tu fecha de nacimiento una vez la hayas registrado. <br><br>■ Verificación de las compras dentro de la aplicación <br>Puede que las compras tarden un poco en aparecer reflejadas en el juego dependiendo de tu conexión o el estado de la tienda de aplicaciones correspondiente. <br>Asegúrate de contar con una conexión estable antes de realizar ninguna compra."
         },
         {
             "key": "VIP_TITLE",
@@ -77,14 +77,6 @@
             "value": "Comprueba la lista de unidades para ver las que posees.<br>Toca las pestañas de los diferentes elementos para cambiar los ajustes del filtro y mostrar solo aquellas unidades que cumplan con determinadas condiciones.<br>*Cuando la opción «Filtro: SÍ» esté activa, tus objetos se filtrarán en ese momento."
         },
         {
-            "key": "F",
-            "value": ""
-        },
-        {
-            "key": "e",
-            "value": ""
-        },
-        {
             "key": "UNIT_DETAIL_TITLE",
             "value": "Detalles de unidad"
         },
@@ -131,6 +123,14 @@
         {
             "key": "UNIT_INTIMACY_DESC",
             "value": "Tocar en el icono de una unidad te permitirá confirmar su afinidad con otras unidades y comprobar cuánto necesita para alcanzar el siguiente nivel. <br><br>La afinidad entre unidades aumenta cuando se embarcan juntas en el mismo combate. <br>Cuando unidades con un nivel de afinidad alto se posicionan cerca durante el combate, aumenta su AGI, DES y suerte. <br>Si aumentas aún más el nivel de afinidad de las unidades, aumentarán sus atributos y la distancia máxima entre ellas a las que dichos aumentos tienen efecto."
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "Habilidades de batalla automática"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_DESC",
+            "value": "Las habilidades que estén desactivadas no se usarán durante las batallas automáticas.<br>También puedes habilitar otras opciones tocando el botón de ajustes avanzados.<br>*Las habilidades disponibles pueden variar incluso si están activadas en las batallas automáticas debido a la configuración de profesiones de la unidad o a estados alterados."
         },
         {
             "key": "GUILD_JOINSELECT_TITLE",
@@ -211,6 +211,14 @@
         {
             "key": "GUILDBATTLE_DESC",
             "value": "Un combate contra otros gremios para adquirir ★. La entrada al combate y la selección del gremio rival se realizan automáticamente si se cumplen las condiciones de participación.<br><br> >■ Condiciones de participación<br>-El número total de miembros del gremio (incluyendo al líder y a los sublíderes) ha de ser de 10 como mínimo.<br>-El líder del gremio ha tenido que conectarse al juego en los últimos 3 días.<br><br>Las formaciones del grupo de los combates de gremio se dividen en ataque y defensa. Se puede establecer cada grupo en la pantalla de formaciones.<br>*La formación del grupo se establece una vez ha comenzado la selección del gremio rival. Ten en cuenta que los cambios que realices en la formación una vez comience la selección del rival no se reflejarán en el combate de gremio.<br><br>■ Si vences<br>Aumentarán los trofeos del gremio.<br>Cuantas más ★ adquieras en combate y cuantos más trofeos posea el oponente, mayor será el valor de tu victoria.<br>Los usuarios que ataquen a oponentes más de una vez en combate podrán obtener recompensas individuales según sus resultados.<br><br>■ Si pierdes<br>Disminuirán los trofeos del gremio.<br> Cuantas más ★ adquieras en combate y cuantos más trofeos posea el oponente, menor será la penalización de tu derrota.<br>Los usuarios que ataquen a oponentes más de una vez en combate podrán obtener recompensas individuales según sus resultados.<br><br>El número de trofeos no aumentará ni disminuirá en caso de que el combate de gremio termine en empate.<br><br>>*El número de ★ que se pueden obtener al derrotar a un enemigo depende del número de personas en la formación del grupo.<br>*Al final del periodo de combate, el gremio que más daño haya ocasionado en total al equipo opuesto será el vencedor, en el caso de que ambos gremios obtengan la misma cantidad de ★.<br> *Si el número de ★ que se adquieran y el daño total ocasionado al equipo opuesto es el mismo, se considerará empate.<br><br> ■ Recompensas <br>Puedes ganar medallas de gremio durante los combates de gremio a cambio de cierta cantidad de recompensas. <br> - Recompensas individuales según el número de ★ que se adquieran en cada combate.<br> - Recompensas individuales a cambio de ★ que se adquieran en combate durante el periodo de combate de gremio. <br> - Recompensas de gremio según la tasa de ★ que adquiere cada miembro."
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "Combates de gremio limitados"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_DESC",
+            "value": "En los combates de gremio, podrás usar acciones para atacar a tu enemigo o apoyar a tus aliados obstaculazando a los adversarios. <br><br>Si tu gremio cumple con las siguientes condiciones de participación, entrará automáticamente en combate y será emparejado con un oponente. <br>-Un nivel de liga establecido o superior<br>-El gremio está compuesto por al menos 10 miembros (incluyendo al líder y al sublíder) <br>-El líder de gremio se ha conectado en los últimos tres días<br>Las formaciones de grupo para los combates de gremio se dividen en formaciones de ataque y formaciones de defensa. Puedes elegir a los miembros de estas formaciones en «Limitado» en combate de gremio, desde la pantalla de formación.<br>*El número de grupos que puedes crear y las condiciones de formación dependerán del combate de gremio.<br>*Tu oponente podrá conseguir fácilmente ★ si no preparas grupos defensivos, lo que puede ser perjudicial. <br>*Las formaciones de grupo para los combates de gremio serán definitivas una vez seas emparejado con un oponente. Los cambios de la formación tras el emparejamiento no se aplicarán a dicho combate de gremio.<br><br>■Resultado de batalla<br>Al final del periodo de batalla, el gremio con mayor número de ★ por miembro será el vencedor. <br>Si ambos gremios poseen el mismo número de ★, el que tenga un mayor porcentaje de daño acumulado será el que gane. <br>Si ambos gremios poseen el mismo número de ★ y el mismo porcentaje de daño acumulado, el gremio con el mayor valor acumulado entre todos los grupos defensivos será el vencedor. <br>*El número de ★ conseguidas derrotando a varias unidades dependerá del tamaño del grupo del gremio oponente.<br><br>■Puntos por resultado<br>Puedes conseguir puntos por resultado independientemente de si tu gremio ha ganado la batalla o no.<br>La clasificación general se determina a través de tus puntos por resultado.<br><br>Además, podrás ganar una gran cantidad de puntos al hacer lo siguiente.<br>-Ganando combates de gremio<br>-Consiguiendo un gran porcentaje de ★ durante la batalla<br>-Teniendo un gran valor acumulado entre todos los grupos defensivos<br>-Ganando batallas consecutivas<br><br>■Recompensas<br>Podrás ganar las siguientes recompensas durante los combates de gremio limitados.<br>-Recompensas de participación dependiendo del número de batallas individuales en las que hayas participado<br>-Recompensas de participación dependiendo del número de ★ conseguidas por ataques individuales que pueden ganarse en cada batalla<br>-Recompensas de acción dependiendo de los puntos de acción empleados en apoyo individual<br>-Recompensas de resultado dependiendo del porcentaje en que todos los miembros del gremio consiguen ★<br>-Recompensas de clasificación general dependiendo de la clasificación final de tu gremio."
         },
         {
             "key": "DUEL_TITLE",
@@ -338,7 +346,7 @@
         },
         {
             "key": "MULTI_TOP_DESC",
-            "value": "■ Multijugador<br>Aquí puedes formar un grupo de hasta 4 personas con otros jugadores para completar las misiones.<br>Puedes seleccionar la sala en la que participar introduciendo la contraseña que estableciste al crear la multisala.<br>Los tipos de multimisión se dividen en cuartetos y parejas.<br><br>Cuartetos: hay 4 jugadores y cada uno controla una unidad.<br>Pareja: hay 2 jugadores y cada uno controla 2 unidades.<br><br>■ Bonificación de primera vez<br>Se pueden obtener visiores de bonificación de primera vez al completar una misión con otro jugador por primera vez.<br>Las bonificaciones de primera vez son 200 visiores para las primeras 10 personas, y 40 visiores por jugador a partir del 11.º.<br>* Puedes recibir una bonificación de primera vez por las primeras 50 personas con las que juegues en Multijugador y en Asaltos.<br>* Solo se pueden recibir bonificaciones si es la primera vez que juegas junto a otro jugador. Los jugadores que hayan jugado juntos anteriormente no la recibirán.<br>*No recibirás una bonificación si abandonas en mitad de la misión."
+            "value": "■ Multijugador<br>Aquí puedes formar un grupo de hasta 4 personas con otros jugadores para completar las misiones.<br>Puedes seleccionar la sala en la que participar introduciendo la contraseña que estableciste al crear la multisala.<br>Los tipos de multimisión se dividen en cuartetos y parejas.<br><br>Cuartetos: hay 4 jugadores y cada uno controla una unidad.<br>Pareja: hay 2 jugadores y cada uno controla 2 unidades.<br><br>■ Bonificación de anfitrión<br>El jugador que crea la sala recibirá una recompensa adicional en forma de objeto tras el combate conocida como «bonificación de anfitrión».<br>*No se recibirán bonificaciones de anfitrión si se empieza el combate sin invitados en la sala.<br><br>■ Bonificación de primera vez<br>Se pueden obtener visiores de bonificación de primera vez al completar una misión con otro jugador por primera vez.<br>Las bonificaciones de primera vez son 200 visiores para las primeras 10 personas, y 40 visiores por jugador a partir del 11.º.<br>* Puedes recibir una bonificación de primera vez por las primeras 50 personas con las que juegues en Multijugador y en Asaltos.<br>* Solo se pueden recibir bonificaciones si es la primera vez que juegas junto a otro jugador. Los jugadores que hayan jugado juntos anteriormente no la recibirán.<br>*No recibirás una bonificación si abandonas en mitad de la misión."
         },
         {
             "key": "MULTI_QUESTLIST_TITLE",
@@ -854,7 +862,7 @@
         },
         {
             "key": "OPTION_DESC",
-            "value": "■ El menú<br>En el menú podrás acceder a mucha información útil y a varios ajustes del juego. <br><br>■ Opciones<br>Podrás personalizar las siguientes opciones:<br>• Opciones<br>Aquí podrás cambiar los ajustes gráficos y de sonido.<br>• Chat<br>Aquí podrás habilitar o deshabilitar el chat o editar tus mensajes.<br>• Descargas<br>Aquí podras descargar o volver a descargar datos de voz o realizar descargas conjuntas.<br>• Notificaciones<br>Aquí podrás activar o desactivar las notificaciones push."
+            "value": "■ El menú<br>En el menú podrás acceder a mucha información útil y a varios ajustes del juego. <br><br>■ Opciones<br>Podrás personalizar las siguientes opciones:<br>• Opciones<br>Aquí podrás cambiar los ajustes gráficos, de sonido o de ahorro de energía.<br>• Chat<br>Aquí podrás habilitar o deshabilitar el chat o editar tus mensajes.<br>• Descargas<br>Aquí podras descargar o volver a descargar datos de voz o realizar descargas conjuntas.<br>• Notificaciones<br>Aquí podrás activar o desactivar las notificaciones push."
         },
         {
             "key": "OPTION_PLAYERINFO_TITLE",
@@ -1131,22 +1139,6 @@
         {
             "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
             "value": "¿Enviar mensaje?"
-        },
-        {
-            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
-            "value": "Habilidades de batalla automática"
-        },
-        {
-            "key": "UNIT_ABILITY_AUTO_SETTING_DESC",
-            "value": "Las habilidades que sean desactivadas no se usarán durante las batallas automáticas.<br>También puedes habilitar otras opciones tocando el botón de ajustes avanzados.<br>*Las habilidades disponibles pueden variar incluso si están activadas en las batallas automáticas debido a la configuración de profesiones de la unidad o a estados alterados."
-        },
-        {
-            "key": "GUILDBATTLE_LIMITED_TITLE",
-            "value": "Combates de gremio limitados"
-        },
-        {
-            "key": "GUILDBATTLE_LIMITED_DESC",
-            "value": "En los combates de gremio, podrás usar acciones para atacar a tu enemigo o apoyar a tus aliados obstaculazando a los adversarios. <br><br>Si tu gremio cumple con las siguientes condiciones de participación, entrará automáticamente en batalla y será emparejado con un oponente. <br>-Un nivel de liga establecido o superior<br>-El gremio está compuesto por al menos 10 miembros (incluyendo al líder y al sublíder) <br>-El líder de gremio se ha conectado en los últimos tres días<br>Las formaciones de grupo para los combates de gremio se dividen en formaciones de ataque y formaciones de defensa. Puedes elegir a los miembros de estas formaciones en “Limitado” en combate de gremio, desde la pantalla de formación.<br>*El número de grupos que puedes crear y las condiciones de formación dependerán del combate de gremio.<br>*Tu oponente podrá adquirir fácilmente ★ si no preparas grupos defensivos, lo que puede ser perjudicial. <br>*Las formaciones de grupo para los combates de gremio serán definitivas una vez seas emparejado con un oponente. Los cambios de la formación tras el emparejamiento no se aplicarán a dicho combate de gremio.<br><br>■Resultado de batalla<br>Al final del periodo de batalla, el gremio con mayor número de ★ por miembros será el vencedor. <br>Si ambos gremios poseen el mismo número de ★, el que tenga un mayor porcentaje de daño acumulativo será el que gane. <br>Si ambos gremios poseen el mismo número de ★ y el mísmo porcentaje de daño acumulativo, el gremio con el mayor valor acumulativo entre todos los grupos defensivos será el vencedor. <br>*El número de ★ conseguidas derrotando a varias unidades dependerá del tamaño del grupo del gremio oponente.<br><br>■Puntos por resultado<br>Puedes conseguir puntos por resultado independientemente de si tu gremio ha ganado la batalla o no.<br>La clasificación general se determina a través de tus puntos por resultado.<br><br>Además, podrás ganar una gran cantidad de puntos al hacer lo siguiente.<br>-Ganando combates de gremio<br>-Consiguiendo un gran porcentaje de ★ durante la batalla<br>-Teniendo un gran valor acumulativo entre todos los grupos defensivos<br>-Ganando batallas consecutivas<br><br>■Recompensas<br>Podrás ganar las siguientes recompensas durante los combates de gremio limitados.<br>-Recompensas de participación dependiendo del número de batallas individuales en las que hayas participado.<br>-Recompensas de participación dependiendo del número de ★ conseguidas por ataques individuales que pueden ganarse en cada batalla<br>-Recompensas de acción dependiendo de los puntos de acción empleados en apoyo individual<br>-Recompensas de resultado dependiendo del porcentaje en que todos los miembros del gremio consiguen ★<br>-Recompensas de clasificación general dependiendo de la clasificación final de tu gremio."
         },
         {
             "key": "ARTI_SELECT_TITLE",

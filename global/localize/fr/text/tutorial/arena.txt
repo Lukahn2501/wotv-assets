@@ -82,7 +82,7 @@
         },
         {
             "key": "DIALOG_007_M",
-            "value": "Les <color=#00ffff>médailles d'arène</color> peuvent être <color=#00ffff>échangées</color> depuis la Boutique d'échange de médaille d'arène contre des <color=#00ffff>objets</color> rarissimes."
+            "value": "Les <color=#00ffff>médailles d'arène</color> peuvent être <color=#00ffff>échangées</color> depuis la Boutique d'échange de médailles d'arène contre des <color=#00ffff>objets</color> rarissimes."
         },
         {
             "key": "DIALOG_008_T",
@@ -90,7 +90,7 @@
         },
         {
             "key": "DIALOG_008_M",
-            "value": "Vous recevrez des <color=#00ffff>récompenses quotidiennement</color> à chaque fois que vous vous battrez dans l'Arène (Jusqu'à 5 fois par jour)."
+            "value": "Vous recevrez des <color=#00ffff>récompenses quotidiennement</color> à chaque fois que vous vous battrez dans l'Arène (jusqu'à 5 fois par jour)."
         },
         {
             "key": "SKIP_TITLE",

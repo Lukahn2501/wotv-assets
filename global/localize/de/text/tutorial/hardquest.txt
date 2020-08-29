@@ -50,7 +50,7 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Limiträusche verbessern •"
+            "value": "• Schwierige Aufträge •"
         },
         {
             "key": "SKIP_MSG",

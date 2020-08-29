@@ -1397,22 +1397,6 @@
             "value": "No se cumplen los requisitos para formar grupo."
         },
         {
-            "key": "ALREADY_CONNECTED",
-            "value": "La cuenta en esta plataforma social ya está vinculada a la cuenta de otro jugador."
-        },
-        {
-            "key": "SNS_ACCOUNT_LIMIT_REACHED",
-            "value": "Has alcanzado el límite de cuentas SNS"
-        },
-        {
-            "key": "SNS_CONNECTION_LIMIT_REACHED",
-            "value": "Has alcanzado el límite de cuentas SNS a las que puedes conectarte"
-        },
-        {
-            "key": "SNS_LIMIT_REACHED",
-            "value": "Has alcanzado el límite de cuentas SNS"
-        },
-        {
             "key": "APP_ERROR_5201",
             "value": "El código no existe."
         },
@@ -1443,6 +1427,38 @@
         {
             "key": "APP_ERROR_5302",
             "value": "El grupo ha cambiado. Actualiza e inténtalo otra vez."
+        },
+        {
+            "key": "ALREADY_CONNECTED",
+            "value": "La cuenta en esta plataforma social ya está vinculada a la cuenta de otro jugador."
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "Has alcanzado el límite de cuentas SNS"
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "Has alcanzado el límite de cuentas SNS a las que puedes conectarte"
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "Has alcanzado el límite de cuentas SNS"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_TITLE",
+            "value": "Expulsión temporal"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_TITLE",
+            "value": "Expulsión permanente"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_MESSAGE",
+            "value": "Se ha suspendido tu cuenta hasta el {0}, hora mundial (PST).<br><br>Para más información, ponte en contacto con atención al cliente a través de [Ayuda] > [Consultas] en la pantalla de título."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE",
+            "value": "Se ha suspendido tu cuenta.<br><br>Para más información, ponte en contacto con atención al cliente a través de [Ayuda] > [Consultas] en la pantalla de título."
         }
     ]
 }

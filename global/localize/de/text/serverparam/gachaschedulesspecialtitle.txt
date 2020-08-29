@@ -877,6 +877,166 @@
             "value": "Beschwörung (10-malig): [UR]-Visionskarte garantiert"
         },
         {
+            "key": "new-gacha_unit_vc_gl20200819_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step3",
+            "value": "Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step2",
+            "value": "Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step1",
+            "value": "Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step5",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 5"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step4",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 4"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step3",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step2",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step1",
+            "value": "5-Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200819_10",
+            "value": "„[UR]-Einheit garantiert“-Beschwörung (10-malig)"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_01",
+            "value": "Blickpunktbeschwörung"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "Blickpunktbeschwörung (10-malig)"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step3",
+            "value": "Stufenbeschwörung (10-malig) – Stufe 3"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step2",
+            "value": "Stufenbeschwörung (10-malig) – Stufe 2"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10_step1",
+            "value": "Stufenbeschwörung (10-malig) – Stufe 1"
+        },
+        {
+            "key": "fft_3step-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
+            "key": "fft_p_gacha_4unitvc_gl20200826_10",
+            "value": "„4 [UR] garantiert“-Beschwörung (10-malig)"
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_1",
+            "value": "FFT-Kollabo Runde 2: Beschwörung „Agrias“ "
+        },
+        {
+            "key": "fft_gacha_gl20200826_AGRA_10",
+            "value": "FFT-Kollabo Runde 2: Beschwörung „Agrias“ (10-malig)"
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_1",
+            "value": "FFT-Kollabo Runde 2: Beschwörung „Delita“ "
+        },
+        {
+            "key": "fft_gacha_gl20200826_DELT_10",
+            "value": "FFT-Kollabo Runde 2: Beschwörung „Delita“ (10-malig)"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step15",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step14",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step13",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step12",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step11",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step10",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step9",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step8",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step7",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step6",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step5",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step4",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step3",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step2",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10_step1",
+            "value": "Kostenlose 10-malige Beschwörung"
+        },
+        {
+            "key": "Nstep-gacha_gl20200826_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Blickpunktbeschwörung zum Veröffentlichungsandenken"
         },

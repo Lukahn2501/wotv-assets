@@ -839,6 +839,18 @@
         {
             "key": "JB_LW_MST_DARK",
             "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_FFT_AGRA",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job von hoher Belastbarkeit, der den Gegner mit Zustandsveränderungen aus der Bahn werfen und seine Verbündeten mit Fähigkeiten wie Regena und Barrieren beschützen kann."
+        },
+        {
+            "key": "JB_FFT_DELT",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der mit seinen Angriffen oft Zustandsveränderungen und Schwächungen erteilt. Seine Fähigkeiten, die sowohl LP als auch AP schädigen, erweisen sich besonders gegen auf Nahkampf spezialisierte Jobklassen als nützlich."
+        },
+        {
+            "key": "JB_FFT_MSTD",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und Statusveränderungen wie Ausschalten und Immobilisierung zufügen kann."
         }
     ]
 }

@@ -839,6 +839,18 @@
         {
             "key": "JB_LW_MST_DARK",
             "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_FFT_AGRA",
+            "value": "Tank magique de première ligne<br><br>Un job très résistant, capable d'affaiblir l'adversaire avec des altérations d'état et de protéger les alliés grâce à des compétences comme Récup et Barrière."
+        },
+        {
+            "key": "JB_FFT_DELT",
+            "value": "Combattant de première ligne<br><br>Un job qui facilite l'utilisation d'altérations d'état et de malus lorsque l'unité passe à l'attaque. Il permet de s'en prendre autant aux PV qu'aux PA, ce qui est particulièrement utile contre les unités spécialistes du corps-à-corps."
+        },
+        {
+            "key": "JB_FFT_MSTD",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet de lancer des attaques à distance, notamment en 3 coups. Il permet également d'infliger des altérations d'état comme Incapacité et Immobilisation."
         }
     ]
 }

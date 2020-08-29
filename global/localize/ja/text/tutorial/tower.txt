@@ -62,19 +62,19 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "◆◆"
+            "value": "◆白磁の塔◆"
         },
         {
             "key": "SKIP_MSG",
-            "value": "ダミーのチュートリアルをスキップしますか？"
+            "value": "白磁の塔のチュートリアルを見ますか？"
         },
         {
             "key": "SKIP_YES",
-            "value": "聞く"
+            "value": "はい"
         },
         {
             "key": "SKIP_NO",
-            "value": "聞かない"
+            "value": "いいえ"
         }
     ]
 }

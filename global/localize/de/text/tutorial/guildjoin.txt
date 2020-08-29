@@ -22,11 +22,11 @@
         },
         {
             "key": "SKIP_TITLE",
-            "value": "• Dummy •"
+            "value": "• Gilden beitreten •"
         },
         {
             "key": "SKIP_MSG",
-            "value": "Möchtest du das Dummy-Tutorial überspringen?"
+            "value": "Möchtest du dir ein Tutorial zum Gildenbeitritt ansehen?"
         },
         {
             "key": "SKIP_YES",

@@ -1002,23 +1002,23 @@
         },
         {
             "key": "IT_JB_MM_LW_RAIN",
-            "value": "Recuerdo de Caballero de Grandshelt (ígneo: verde)"
+            "value": "Recuerdo de caballero de Grandshelt (ígneo: verde)"
         },
         {
             "key": "IT_JB_MM_LW_RAIN_2",
-            "value": "Recuerdo de Caballero de Grandshelt (ígneo: azul)"
+            "value": "Recuerdo de caballero de Grandshelt (ígneo: azul)"
         },
         {
             "key": "IT_JB_MM_LW_RAIN_3",
-            "value": "Recuerdo de Caballero de Grandshelt (ígneo: morado)"
+            "value": "Recuerdo de caballero de Grandshelt (ígneo: morado)"
         },
         {
             "key": "IT_JB_MM_LW_RAIN_4",
-            "value": "Recuerdo de Caballero de Grandshelt (ígneo: amarillo)"
+            "value": "Recuerdo de caballero de Grandshelt (ígneo: amarillo)"
         },
         {
             "key": "IT_JB_MM_LW_RAIN_5",
-            "value": "Recuerdo de Caballero de Grandshelt (ígneo: rojo)"
+            "value": "Recuerdo de caballero de Grandshelt (ígneo: rojo)"
         },
         {
             "key": "IT_JB_MM_ASS",
@@ -1079,6 +1079,66 @@
         {
             "key": "IT_JB_MM_MST_5",
             "value": "Recuerdo de maga de bastones (rojo)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "Recuerdo de caballero sagrado (verde)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "Recuerdo de caballero sagrado (azul)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "Recuerdo de caballero sagrado (morado)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "Recuerdo de caballero sagrado (amarillo)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "Recuerdo de caballero sagrado (rojo)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "Recuerdo de escudero (Delita: verde)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "Recuerdo de escudero (Delita: azul)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "Recuerdo de escudero (Delita: morado)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "Recuerdo de escudero (Delita: amarillo)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "Recuerdo de escudero (Delita: rojo)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "Recuerdo de maquinista (verde)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "Recuerdo de maquinista (azul)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "Recuerdo de maquinista (morado)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "Recuerdo de maquinista (amarillo)"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "Recuerdo de maquinista (rojo)"
         },
         {
             "key": "IT_JB_EM_FIRE_1",
@@ -1791,6 +1851,26 @@
         {
             "key": "IT_PI_LW_SIMR",
             "value": "Fragmento de Seymore"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "Fragmento de Oldoa"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "Fragmento de Raviesse"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "Fragmento de Agrias"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "Fragmento de Delita"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
+            "value": "Fragmento de Mustadio"
         },
         {
             "key": "IT_SB_EXP_FIRE_01",
@@ -2581,6 +2661,10 @@
             "value": "Receta: armadura de luz"
         },
         {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "Receta: Sortilége"
+        },
+        {
             "key": "IT_AF_SUP_HP",
             "value": "Sello de vitalidad"
         },
@@ -2773,6 +2857,10 @@
             "value": "Medalla de invocación de FFXIV"
         },
         {
+            "key": "IT_US_G_FF14_01",
+            "value": "Tícket de invocación de FFXIV"
+        },
+        {
             "key": "IT_EC_SUMMON_03_A",
             "value": "Medalla de invocación A (marzo)"
         },
@@ -2813,6 +2901,10 @@
             "value": "Medalla de invocación de agosto (A)"
         },
         {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "Medalla de invocación de agosto (B)"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Medalla de evento de FFT"
         },
@@ -2825,12 +2917,24 @@
             "value": "Medalla de invocación de FFT B"
         },
         {
+            "key": "IT_EC_FFT_3",
+            "value": "Medalla de evento de FFT, parte II"
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "Medalla de invocación de FFT, parte II (A)"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "Medalla de invocación de FFT, parte II (B)"
+        },
+        {
             "key": "IT_EC_TOWER_001",
             "value": "Medalla de la torre"
         },
         {
             "key": "IT_EC_EV02_1",
-            "value": "Medalla de evento de junio"
+            "value": "Medalla de Rundal, la amenaza del oeste"
         },
         {
             "key": "IT_EC_EV03_1",
@@ -2841,20 +2945,16 @@
             "value": "Medalla de evento de agosto"
         },
         {
-            "key": "IT_EC_RAID_02",
-            "value": "Medalla de asalto del flan de chocolate"
-        },
-        {
-            "key": "IT_EC_RAID_03",
-            "value": "Medalla de asalto del malvavisco blanco"
-        },
-        {
             "key": "IT_EC_FF1_1",
             "value": "Medalla de evento de FFI"
         },
         {
             "key": "IT_EC_FF1_2",
             "value": "Medalla de invocación de FFI"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Tícket de invocación de FFT"
         },
         {
             "key": "IT_AD_TICKET_2",
@@ -2917,6 +3017,10 @@
             "value": "Tícket seleccionador de 50 prismas del despertar"
         },
         {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Tícket seleccionador de 200 prismas del despertar"
+        },
+        {
             "key": "IT_US_SE_PI_COM_01",
             "value": "Tícket seleccionador de 50 fragmentos de la memoria elementales"
         },
@@ -2937,6 +3041,14 @@
             "value": "Tícket seleccionador de 70 alcrists elementales (morados)"
         },
         {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "Tícket seleccionador de 70 alcrists elementales (amarillos)"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "Tícket seleccionador de 70 alcrists elementales (rojos)"
+        },
+        {
             "key": "IT_US_SE_SB_AW_01",
             "value": "Tícket seleccionador de 20 piedras del despertar elementales"
         },
@@ -2951,90 +3063,6 @@
         {
             "key": "IT_US_SE_SB_EXP_03",
             "value": "Tícket seleccionador de 50 magicitas elementales (M)"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_01",
-            "value": "Tícket seleccionador de recuerdo de profesión (verdes)"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_02",
-            "value": "Tícket seleccionador de 2 recuerdos de profesión (azules)"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_03",
-            "value": "Tícket seleccionador de 3 recuerdos de profesión (morados)"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_04",
-            "value": "Tícket seleccionador de 4 recuerdos de profesión (amarillos)"
-        },
-        {
-            "key": "IT_US_SE_JB_MM_05",
-            "value": "Tícket seleccionador de 5 recuerdos de profesión (rojos)"
-        },
-        {
-            "key": "IT_US_SE_UR_U_01",
-            "value": "Tícket seleccionador de unidad UR A"
-        },
-        {
-            "key": "IT_US_SE_AW-ITEM_01",
-            "value": "Tícket seleccionador de 10 prismas del despertar"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_1",
-            "value": "Tícket seleccionador de 500 magicitas elementales (M)"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_2",
-            "value": "Tícket seleccionador de 10 magicitas elementales (M)"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_3",
-            "value": "Tícket seleccionador de 25 magicitas elementales (M)"
-        },
-        {
-            "key": "IT_US_GL_SE_SB_EXP_4",
-            "value": "Tícket seleccionador de 100 magicitas elementales (G)"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_01",
-            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_02",
-            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_03",
-            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_04",
-            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
-        },
-        {
-            "key": "IT_US_GL_SE_VPI_05",
-            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
-        },
-        {
-            "key": "IT_US_SE_UR_U_02",
-            "value": "Tícket seleccionador de unidad UR recomendada"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_01",
-            "value": "Tícket seleccionador de unidad MR recomendada"
-        },
-        {
-            "key": "IT_US_SE_SSR_U_GL01",
-            "value": "Tícket seleccionador de unidad MR A"
-        },
-        {
-            "key": "IT_US_SE_PI_GL00",
-            "value": "Tícket seleccionador de 40 fragmentos de unidad UR"
-        },
-        {
-            "key": "IT_US_SE_PI_GL01",
-            "value": "Tícket seleccionador de 40 fragmentos de unidad UR"
         },
         {
             "key": "IT_US_G_U_UR_01",
@@ -3065,16 +3093,32 @@
             "value": "Tícket de invocación de carta de visión UR garantizada A"
         },
         {
-            "key": "IT_US_G_FFT_01",
-            "value": "Tícket de invocación de FFT"
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "Tícket seleccionador de recuerdo de profesión (verdes)"
         },
         {
-            "key": "IT_US_G_FF14_01",
-            "value": "Tícket de invocación de FFXIV"
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "Tícket seleccionador de 2 recuerdos de profesión (azules)"
         },
         {
-            "key": "IT_US_G_N_TW_10",
-            "value": "[Torre de Porcelana] Tícket de invocación normal (x10)"
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "Tícket seleccionador de 3 recuerdos de profesión (morados)"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "Tícket seleccionador de 4 recuerdos de profesión (amarillos)"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "Tícket seleccionador de 5 recuerdos de profesión (rojos)"
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "Tícket seleccionador de unidad UR A"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "Tícket seleccionador de 10 prismas del despertar"
         },
         {
             "key": "IT_US_G_U_SSR_UR_02",
@@ -3099,10 +3143,6 @@
         {
             "key": "IT_US_SE_AW-ITEM_05",
             "value": "Tícket seleccionador de NN prismas del despertar"
-        },
-        {
-            "key": "IT_US_GL_SE_AW-ITEM_01",
-            "value": "Tícket seleccionador de 200 prismas del despertar"
         },
         {
             "key": "IT_VPI_LW_GLEM",
@@ -3337,10 +3377,6 @@
             "value": "Fragmento de la carta de visión «Admiradoras rivales»"
         },
         {
-            "key": "IT_VPI_LW_THDG",
-            "value": "Fragmento de la carta de visión «Dragón bicéfalo, el Horror Serpentino»"
-        },
-        {
             "key": "IT_VPI_LW_ADLD",
             "value": "Fragmento de la carta de visión «Maga celosa»"
         },
@@ -3353,6 +3389,10 @@
             "value": "Fragmento de la carta de visión «Falsas promesas, almas honestas»"
         },
         {
+            "key": "IT_VPI_LW_THDG",
+            "value": "Fragmento de la carta de visión «Dragón bicéfalo, el Horror Serpentino»"
+        },
+        {
             "key": "IT_VPI_FF01_DMAC",
             "value": "Fragmento de la carta de visión «Máquina mortal»"
         },
@@ -3363,6 +3403,14 @@
         {
             "key": "IT_VPI_LW_CBVPARTY1",
             "value": "Fragmento de la carta de visión «Banquete bajo los pétalos efímeros»"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "Fragmento de la carta de visión «Chocobo rojo»"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
+            "value": "Fragmento de la carta de visión «Brizna de hierba»"
         },
         {
             "key": "IT_VC_EXP_01",
@@ -3451,6 +3499,78 @@
         {
             "key": "IT_GU_EXP_S1_03",
             "value": "Mandíbula potente de león (G)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Medalla de asalto del flan de chocolate"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "Medalla de asalto del malvavisco blanco"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Tícket seleccionador de 500 magicitas elementales (M)"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Tícket seleccionador de 10 magicitas elementales (M)"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Tícket seleccionador de 25 magicitas elementales (M)"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Tícket seleccionador de 100 magicitas elementales (G)"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Tícket seleccionador de unidad UR recomendada"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Tícket seleccionador de unidad MR recomendada"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Tícket seleccionador de unidad MR A"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Tícket seleccionador de 40 fragmentos de unidad UR"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Tícket seleccionador de 40 fragmentos de unidad UR"
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "Tícket seleccionador de 40 fragmentos de unidad UR"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "[Torre de Porcelana] Tícket de invocación normal (x10)"
         }
     ]
 }

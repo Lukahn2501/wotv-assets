@@ -14,7 +14,7 @@
         },
         {
             "key": "SKIP_MSG",
-            "value": "Passer le tutoriel de ... ?"
+            "value": "Voulez-vous lancer le tutoriel sur Test ?"
         },
         {
             "key": "SKIP_YES",

@@ -65,12 +65,12 @@
             "value": "Équipe artistique de FgG"
         },
         {
-            "key": "VC_LW_THDG",
-            "value": "Équipe artistique de FgG"
-        },
-        {
             "key": "VC_MBFF_MV1",
             "value": "SQUARE ENIX"
+        },
+        {
+            "key": "VC_LW_THDG",
+            "value": "Équipe artistique de FgG"
         },
         {
             "key": "VC_FF01_DMAC",
@@ -79,6 +79,14 @@
         {
             "key": "VC_LW_CBVPARTY1",
             "value": "SQUARE ENIX"
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "Équipe artistique de FgG"
+        },
+        {
+            "key": "VC_FFT_MV3",
+            "value": "Ryoji Ohara"
         },
         {
             "key": "VC_LW_IGNT",
@@ -159,6 +167,10 @@
         {
             "key": "VC_LW_VNLA2",
             "value": "SQUARE ENIX"
+        },
+        {
+            "key": "VC_FFT_MV2",
+            "value": "Équipe artistique de FgG"
         },
         {
             "key": "VC_LW_CACT",
@@ -255,10 +267,6 @@
         {
             "key": "VC_LW_MIRROR",
             "value": "SQUARE ENIX"
-        },
-        {
-            "key": "VC_LW_DABL",
-            "value": "Équipe artistique de FgG"
         },
         {
             "key": "VC_EXP_01",
