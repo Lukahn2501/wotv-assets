@@ -1,8 +1,0 @@
-{
-    "infos": [
-        {
-            "key": "QE_ST_NO_gimictest",
-            "value": "Test.<br>Les indices des quêtes et les autres informations seront écrits ici."
-        }
-    ]
-}

@@ -1,8 +1,0 @@
-{
-    "infos": [
-        {
-            "key": "TS_LGBP_001_1",
-            "value": "Combat 1"
-        }
-    ]
-}

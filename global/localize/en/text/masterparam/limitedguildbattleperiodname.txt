@@ -1,8 +1,0 @@
-{
-    "infos": [
-        {
-            "key": "LGBP_001",
-            "value": "March Limited Guild Battle"
-        }
-    ]
-}

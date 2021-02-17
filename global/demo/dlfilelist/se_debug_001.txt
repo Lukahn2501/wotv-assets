@@ -1,1 +1,0 @@
-{"voices": ["Lapis/Demo/Main_01_01_1_02a.awb", "Lapis/Demo/Main_01_01_1_02a.acb"], "movies": []}
